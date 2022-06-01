@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 09:52 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 09:40 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102352482/to-fight-the-opioid-crisis-canada-tests-decriminalizing-possession">To fight the opioid crisis, Canada tests decriminalizing possession</a> NPR: Overdose deaths have risen sharply across Canada in the past five years, with deaths linked to fentanyl doubling. Officials hope decriminalization will make more users willing to seek medical care. 
- <p class="updated_time"> 08:47 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 08:59 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 08:28 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/holiday-weekend-in-the-us-resembles-prepandemic-times-as-experts-and-the-white-house-remain-wary-of-virus-risk.html">The holiday weekend in the U.S. resembles prepandemic times, as experts and the White House remain wary of virus risk.</a> NYT: While there is a rise in confirmed daily coronavirus cases and hospitalizations, Memorial Day observations are not being scrapped. 
@@ -25,15 +25,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61663091?at_medium=RSS&at_campaign=KARANGA">Biden meets BTS to tackle US anti-Asian hate</a> BBC: The K-pop boy band went to the White House to discuss the recent rise in hate crimes. 
  <p class="updated_time"> 08:03 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure  over when the government would deliver on previous weapons pledges. 
+ <p class="updated_time"> 07:59 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 07:56 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/middleeast/israel-blood-underground.html">Israel Moves Blood Bank Underground to Safeguard It From Attacks</a> NYT: The barrages of rockets fired at Tel Aviv last year underscored the vulnerability of a crucial national resource. 
- <p class="updated_time"> 07:47 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 07:10 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
  <p class="updated_time"> 07:07 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
- <p class="updated_time"> 06:47 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 06:59 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 06:39 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
@@ -43,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61656639?at_medium=RSS&at_campaign=KARANGA">Germans get €9-a-month travel in response to energy price rises</a> BBC: For the next three months, public transport costs are being cut to tackle the soaring cost of living. 
  <p class="updated_time"> 06:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
- <p class="updated_time"> 05:47 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 05:59 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 05:18 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: As tensions grow with China, the Biden administration is forging closer ties to Taiwan in areas such as trade and supply chains. 
  <p class="updated_time"> 05:00 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/europe-overcomes-hungarys-veto-on-russian-oil-embargoat-a-price-11654092031">Europe Overcomes Hungary's Veto on Russian Oil Embargo---at a Price</a> WSJ: By holding up a deal on oil sanctions for weeks, Hungarian Prime Minister Viktor Orban exposed the EU’s divisions on how ambitiously to target Moscow’s coffers in response to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 04:47 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 04:59 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
