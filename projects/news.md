@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
  <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102337108/sex-pistols-aim-to-give-queen-elizabeths-jubilee-a-touch-of-punk">Sex Pistols aim to give Queen Elizabeth's jubilee a touch of punk</a> NPR: A certain anti-authoritarian anthem linked to the punk rock pioneers and the British monarch, is being re-released as Queen Elizabeth II celebrates her platinum jubilee. 
+ <p class="updated_time"> 04:12 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine’s Zelensky Rejects Trading Land for Peace With Russia</a> WSJ: Ukraine’s Zelensky Rejects Trading Land for Peace With Russia 
  <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:07 AM CT, Jun. 01 </p> 
@@ -27,26 +31,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61657095?at_medium=RSS&at_campaign=KARANGA">Canada trials decriminalising cocaine, MDMA and other drugs</a> BBC: In the first trial of its kind in Canada, adults can possess small amounts of some illegal drugs. 
  <p class="updated_time"> 03:36 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
- <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine’s Zelensky Rejects Trading Land for Peace With Russia</a> WSJ: Ukraine’s Zelensky Rejects Trading Land for Peace With Russia 
+ <p class="updated_time"> 03:12 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 02:35 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">What Happened on Day 97 of the War in Ukraine</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
  <p class="updated_time"> 02:32 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-prosthetics.html">Ukraine Medics Gird for Surge in Amputees</a> NYT: The war in Ukraine is pushing the country to expand its prosthetics industry amid fears of looming shortages. 
- <p class="updated_time"> 02:30 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 02:24 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 01:30 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 02:12 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
+ <p class="updated_time"> 01:12 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 01:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
- <p class="updated_time"> 12:30 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
+ <p class="updated_time"> 12:12 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 11:35 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
- <p class="updated_time"> 11:30 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 10:43 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61655053?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Cheers and beers as Covid curbs are eased</a> BBC: Residents celebrated in the streets after midnight when restrictions were relaxed. 
  <p class="updated_time"> 10:09 PM CT, May. 31 </p> 
@@ -131,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
  <p class="updated_time"> 05:25 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
- <p class="updated_time"> 05:16 AM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
  <p class="updated_time"> 04:23 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61642218?at_medium=RSS&at_campaign=KARANGA">Nepal plane crash: Officials recover black box from wreckage</a> BBC: Hopes of any survivors were dashed as the remains of all 22 people onboard have also been found. 
  <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
@@ -212,8 +212,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/alaska-house-race.html">In Alaska, the Race to Succeed Don Young Is Raucous and Crowded</a> NYT: Four dozen candidates, including Sarah Palin and Santa Claus, are facing a complex election schedule to follow the man who represented Alaska for 49 years. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/vaccine-injury-compensation-programs-overwhelmed-as-congressional-reform-languishes-00033064">Vaccine injury compensation programs overwhelmed as congressional reform languishes</a> Politico: One program covers nearly three times as many vaccines today as it did when it was created three decades ago. Despite bipartisan calls for change, Congress has failed to act. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/338canada-ford-majority-ontario-00036129">338Canada: Ford on track for majority win in Ontario</a> Politico: What would it take to reduce the incumbent Progressive Conservatives to a minority? Answer: a lot.  
+ <p class="updated_time"> 03:31 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/biden-ceo-inflation-00036148">Biden battles CEOs in inflation blame game</a> Politico: White House officials reject the corporate complaints and say the administration has strong working relationships with the business world. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/san-francisco-district-attorney-could-lose-his-job-in-blow-to-national-movement-00036015">San Francisco district attorney could lose his job in blow to national movement</a> Politico: Chesa Boudin's fight has become a test case for criminal justice reformers — and their foes. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/gun-control-debate-suburbs-elections-00036230">How the gun debate will be won or lost in the suburbs</a> Politico: With opinion essentially hardened on guns in rural and urban America, the suburbs have become the political crucible for winning support for more significant restrictions. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/ukraine-war-russia-donbas-weapons-00036156">'They are carpet-bombing us': Ukrainian troops are getting pounded as they await heavy weapons from the West</a> Politico: After suffering humiliating defeats, Russia is making slow but steady progress  as it employs a scorched-earth campaign. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 11:36 PM CT, May. 31 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:21 PM CT, May. 31 </p> 
@@ -256,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102150260/special-counsel-durham-fails-first-courtroom-test-in-his-three-year-probe">Special Counsel Durham fails first courtroom test in his three-year probe </a> NPR: Michael Sussmann was acquitted of one charge of lying to the FBI in the first verdict rendered during the probe by a special counsel appointed in the Trump administration. 
  <p class="updated_time"> 11:07 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/sussmann-acquitted-trump-special-counsel-00036033">Sussmann acquitted on charge brought by special counsel Durham</a> Politico: The jury acquitted him on a charge that he lied when he allegedly denied he was acting on behalf of any client in alerting the FBI to claims that a secret server linked Trump and a Moscow bank. 
- <p class="updated_time"> 09:39 AM CT, May. 31 </p> 
- <a href="https://www.politico.com/news/2022/05/31/spiking-temperatures-could-cause-more-blackouts-this-summer-they-wont-be-the-last-00034858">Spiking temperatures could cause more blackouts this summer. They won't be the last.</a> Politico: This summer’s anticipated tight grid conditions are just the tip of the iceberg as weather grows increasingly unpredictable and the U.S. aims to electrify more high-emitting sectors of the economy. 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
@@ -300,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/30/uvalde-to-biden-do-something-00035874"> Uvalde to Biden: ‘Do something’</a> Politico Playbook: And DOJ says it will investigate the Uvalde shooting response. 
  <p class="updated_time"> 06:17 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102029154/independent-probe-of-uvalde-shooting-is-the-right-call-texas-state-rep-white-say">Independent probe of Uvalde shooting is the right call, Texas state Rep. White says</a> NPR: NPR's Rachel Martin talks to state Rep. James White, an East Texas Republican who supports gun rights, about firearm legislation following the mass shooting at Robb Elementary School in Uvalde. 
- <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
  <p class="updated_time"> 05:47 AM CT, May. 30 </p> 
  <a href="https://www.cnn.com/2022/05/30/politics/senate-house-primaries-2022-takeaways/index.html">7 takeaways from the 2022 primary season so far</a> CNN: After the first month of multiple major primaries in the 2022 election season, both parties are facing uncertainty over their direction -- and whose influence will dominate the next wave of nominating contests. 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
