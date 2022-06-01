@@ -9,43 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
+ <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
+ <p class="updated_time"> 12:35 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 12:31 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
- <p class="updated_time"> 12:29 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
- <p class="updated_time"> 12:27 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 12:21 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61658495?at_medium=RSS&at_campaign=KARANGA">Champions League: Under-fire French minister defends policing</a> BBC: Gérald Darmanin says enough police were deployed, despite chaotic scenes in Paris on Saturday. 
- <p class="updated_time"> 12:18 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 11:58 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Investigators look into alleged Russian war crimes</a> BBC: Since Russia's invasion of Ukraine began, nearly 15,000 war crimes have been alleged in the country. 
  <p class="updated_time"> 11:56 AM CT, Jun. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61666358?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Answering your questions on the conflict's latest developments</a> BBC: The BBC's correspondents explain how things are progressing in Ukraine after almost 100 days of war. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61666358?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Your questions on the conflict answered</a> BBC: BBC correspondents explain how things are progressing in Ukraine after almost 100 days of war. 
  <p class="updated_time"> 11:54 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
+ <p class="updated_time"> 11:53 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 11:51 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
  <p class="updated_time"> 11:37 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
- <p class="updated_time"> 11:35 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 11:05 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60960524?at_medium=RSS&at_campaign=KARANGA">California reparations: How do you prove ancestry to enslaved people?</a> BBC: California plans to give reparations to those who can prove they're descendants of the enslaved. 
+ <p class="updated_time"> 10:53 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 10:50 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure over when the government would deliver on previous weapons pledges. 
  <p class="updated_time"> 10:43 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
- <p class="updated_time"> 10:35 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 10:13 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
+ <p class="updated_time"> 09:53 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 09:40 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102352482/to-fight-the-opioid-crisis-canada-tests-decriminalizing-possession">To fight the opioid crisis, Canada tests decriminalizing possession</a> NPR: Overdose deaths have risen sharply across Canada in the past five years, with deaths linked to fentanyl doubling. Officials hope decriminalization will make more users willing to seek medical care. 
- <p class="updated_time"> 09:35 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
- <p class="updated_time"> 08:35 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 08:53 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 08:28 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/holiday-weekend-in-the-us-resembles-prepandemic-times-as-experts-and-the-white-house-remain-wary-of-virus-risk.html">The holiday weekend in the U.S. resembles prepandemic times, as experts and the White House remain wary of virus risk.</a> NYT: While there is a rise in confirmed daily coronavirus cases and hospitalizations, Memorial Day observations are not being scrapped. 
@@ -57,7 +57,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61663091?at_medium=RSS&at_campaign=KARANGA">Biden meets BTS to tackle US anti-Asian hate</a> BBC: The K-pop boy band went to the White House to discuss the recent rise in hate crimes. 
  <p class="updated_time"> 07:56 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/middleeast/israel-blood-underground.html">Israel Moves Blood Bank Underground to Safeguard It From Attacks</a> NYT: The barrages of rockets fired at Tel Aviv last year underscored the vulnerability of a crucial national resource. 
- <p class="updated_time"> 07:35 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 07:53 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: Eurozone Set to Expand to Croatia Next Year 
  <p class="updated_time"> 07:10 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
@@ -202,7 +202,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:18 PM CT, Jun. 01 </p> 
+ <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 11:55 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/rivera-ny-house-seat-00036319">'Homegrown' progressive vies for open New York House seat, facing de Blasio and several others</a> Politico: City Council Member Carlina Rivera is confident her legislative record and biography will appeal to voters. 
@@ -254,10 +254,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/338canada-ford-majority-ontario-00036129">338Canada: Ford on track for majority win in Ontario</a> Politico: What would it take to reduce the incumbent Progressive Conservatives to a minority? Answer: a lot.  
  <p class="updated_time"> 03:31 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/san-francisco-district-attorney-could-lose-his-job-in-blow-to-national-movement-00036015">San Francisco district attorney could lose his job in blow to national movement</a> Politico: Chesa Boudin's fight has become a test case for criminal justice reformers — and their foes. 
- <p class="updated_time"> 03:31 AM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/31/biden-ceo-inflation-00036148">Biden battles CEOs in inflation blame game</a> Politico: White House officials reject the corporate complaints and say the administration has strong working relationships with the business world. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/ukraine-war-russia-donbas-weapons-00036156">'They are carpet-bombing us': Ukrainian troops are getting pounded as they await heavy weapons from the West</a> Politico: After suffering humiliating defeats, Russia is making slow but steady progress  as it employs a scorched-earth campaign. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/gun-control-debate-suburbs-elections-00036230">How the gun debate will be won or lost in the suburbs</a> Politico: With opinion essentially hardened on guns in rural and urban America, the suburbs have become the political crucible for winning support for more significant restrictions. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
  <p class="updated_time"> 11:21 PM CT, May. 31 </p> 
@@ -301,7 +303,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">In the Senate, Chasing an Ever-Elusive Gun Law Deal</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">Gun Talks Put Senate’s Tattered Credibility on the Line</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
  <p class="updated_time"> 07:25 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/peter-navarro-jan-6-subpoena.html">Peter Navarro, Former Trump Aide, Gets Grand Jury Subpoena in Jan. 6 Inquiry</a> NYT: The subpoena, the latest indication of an expanding inquiry by federal prosecutors, seeks Mr. Navarro’s testimony and any records he has related to the attack on the Capitol last year. 
  <p class="updated_time"> 07:03 AM CT, May. 31 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/31/senators-zoom-but-dont-rush-on-gun-compromise-00035958">Senators Zoom, but don't rush, on gun compromise</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1101399058/progressives-take-a-leaf-out-of-the-conservative-playbook-to-target-school-board">Progressives take a leaf out of the conservative playbook to target school boards</a> NPR: There has been a groundswell of conservative enthusiasm around school politics in the last few years. Progressives are hoping to have their own source of organization to counter that enthusiasm. 
- <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
- <a href="https://www.politico.com/news/2022/05/31/biden-white-house-black-staffers-00035931">Biden sees exodus of Black staffers and some frustration among those who remain</a> Politico: The White House is historically diverse. But there are concerns internally about a wave of departures and the current culture. 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
  <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
