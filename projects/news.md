@@ -9,31 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
+ <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102337108/sex-pistols-aim-to-give-queen-elizabeths-jubilee-a-touch-of-punk">Sex Pistols aim to give Queen Elizabeth's jubilee a touch of punk</a> NPR: A certain anti-authoritarian anthem linked to the punk rock pioneers and the British monarch, is being re-released as Queen Elizabeth II celebrates her platinum jubilee. 
+ <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
+ <p class="updated_time"> 04:07 AM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">After Shanghai Reopens for Most, Relief, Reunions, but Also Anxieties</a> NYT: The authorities kept some restrictions, such as requiring residents to show negative Covid test results to use the subway and limiting access to housing compounds. 
  <p class="updated_time"> 03:47 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-frontline-photos.html">From Ukraine’s Front Lines, Bravery and Wreckage</a> NYT: Amid the roar of artillery and bone-rattling explosions, New York Times photographers have borne graphic witness to the fight to survive. These are their stories and images. 
- <p class="updated_time"> 03:43 AM CT, Jun. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
+ <p class="updated_time"> 03:45 AM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61657095?at_medium=RSS&at_campaign=KARANGA">Canada trials decriminalising cocaine, MDMA and other drugs</a> BBC: In the first trial of its kind in Canada, adults can possess small amounts of some illegal drugs. 
  <p class="updated_time"> 03:36 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
- <p class="updated_time"> 02:58 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine’s Zelensky Rejects Trading Land for Peace With Russia</a> WSJ: Ukraine’s Zelensky Rejects Trading Land for Peace With Russia 
  <p class="updated_time"> 02:35 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">What Happened on Day 97 of the War in Ukraine</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
  <p class="updated_time"> 02:32 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-prosthetics.html">Ukraine Medics Gird for Surge in Amputees</a> NYT: The war in Ukraine is pushing the country to expand its prosthetics industry amid fears of looming shortages. 
+ <p class="updated_time"> 02:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 02:24 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 01:58 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
+ <p class="updated_time"> 01:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 01:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
- <p class="updated_time"> 12:58 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
- <p class="updated_time"> 11:58 PM CT, May. 31 </p> 
+ <p class="updated_time"> 12:30 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 11:35 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
- <p class="updated_time"> 10:58 PM CT, May. 31 </p> 
+ <p class="updated_time"> 11:30 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 10:43 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61655053?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Cheers and beers as Covid curbs are eased</a> BBC: Residents celebrated in the streets after midnight when restrictions were relaxed. 
@@ -51,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 07:00 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61654959?at_medium=RSS&at_campaign=KARANGA">Texas: Supreme Court blocks state's 'de-platforming' law</a> BBC: The Republican-led state had banned social media companies from censoring users based on their "views". 
- <p class="updated_time"> 06:56 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 06:21 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61631439?at_medium=RSS&at_campaign=KARANGA">US troops back in Somalia to fight al-Shabab</a> BBC: The decision comes after the election of a new president, and a surge in attacks by al-Shabab. 
  <p class="updated_time"> 06:20 PM CT, May. 31 </p> 
@@ -141,12 +151,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548615?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Controversial Indian rapper who made waves with his music</a> BBC: Shubhdeep Singh Sidhu, popularly known as Sidhu Moose Wala, was murdered in Punjab on Sunday. 
  <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 08:27 PM CT, May. 30 </p> 
- <a href="https://www.npr.org/2022/05/30/1102089698/indian-rapper-sidhu-moose-wala-hot-dead-28">Indian rapper Sidhu Moose Wala was shot dead at 28</a> NPR: Shubhdeep Singh Sidhu, also known around the world by his stage name Sidhu Moose Wala, was killed Sunday evening while driving his car in Mansa, a district in northern India's Punjab state. 
  <p class="updated_time"> 08:06 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Plans to Ban Handgun Sales and Possession of Assault Weapons</a> NYT: “We have a responsibility to act to prevent more tragedies,” Prime Minister Trudeau said as he proposed tightening the country’s already stringent control of firearms. 
- <p class="updated_time"> 06:06 PM CT, May. 30 </p> 
- <a href="https://www.npr.org/2022/05/30/1102084025/canada-bill-freeze-handgun-sales-imports">Canada's government moves to make selling or importing handguns illegal</a> NPR: The laws to freeze Canada's total number of handguns likely will be enacted this fall. Other new rules strengthen "red flag" laws and require all rifles be modified to hold no more than five rounds. 
  <p class="updated_time"> 06:05 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61591675?at_medium=RSS&at_campaign=KARANGA">Borgen: How the Danish political drama has been 'reinvented'</a> BBC: The series returns to Netflix this week, nearly a decade after its highly-praised original run. 
  <p class="updated_time"> 06:04 PM CT, May. 30 </p> 
@@ -195,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
  <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
- <p class="updated_time"> 10:17 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
 
 
 </details>
@@ -204,6 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
+ <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/us/politics/alaska-house-race.html">In Alaska, the Race to Succeed Don Young Is Raucous and Crowded</a> NYT: Four dozen candidates, including Sarah Palin and Santa Claus, are facing a complex election schedule to follow the man who represented Alaska for 49 years. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
  <p class="updated_time"> 11:36 PM CT, May. 31 </p> 
@@ -225,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:21 PM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/white-house-biden-gas-prices-00036206">The White House has one problem that rules them all: Gas prices</a> Politico: Inside the White House, aides are debating a number of ideas. Each, they've concluded, has drawbacks or won't work. 
  <p class="updated_time"> 06:04 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Adm. Linda Fagan to Become First Female Service Chief</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Coast Guard Admiral to Become First Female Service Chief, Shattering Another Glass Ceiling</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
  <p class="updated_time"> 05:42 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/supreme-court-social-media-texas.html">Supreme Court Blocks Texas Law Regulating Social Media Platforms</a> NYT: The law, prompted by conservative complaints about censorship, prohibits big technology companies like Facebook and Twitter from removing posts based on the views they express. 
  <p class="updated_time"> 05:08 PM CT, May. 31 </p> 
@@ -308,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1102015377/biden-mourns-with-community-in-uvalde-visit">Biden mourns with community in Uvalde visit</a> NPR: President Biden is traveling to Uvalde, Texas, to mourn with the community. It's his second visit to a community that's been devastated by a mass shooting in less than two weeks. 
  <p class="updated_time"> 04:36 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/biden-texas-uvalde-00035867">Biden in Texas: ‘We will’ do something</a> Politico: The president was responding to a crowd urging him to act. 
- <p class="updated_time"> 02:15 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/us/politics/2000-mules-trump-conspiracy-theory.html">‘2000 Mules’ Repackages Trump’s Election Lies</a> NYT: A new documentary from Trump allies makes the latest case the election was stolen, but the group behind the claim has been assailed even by some on the hard right. 
  <p class="updated_time"> 01:20 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/justice-department-police-response-uvalde-00035866">Justice Department to investigate police response in Uvalde</a> Politico: Police have been criticized for waiting too late to confront the gunman. 
  <p class="updated_time"> 10:39 AM CT, May. 29 </p> 
@@ -320,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/29/chris-murphy-texas-gun-measures-00035856">Lawmakers offer mild optimism about gun legislation</a> Politico: Sen. Chris Murphy and other lawmakers said they saw hope for the current bipartisan efforts. 
  <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/gop-senate-herschel-walker-georgia-00035851">‘He doesn't speak in beautiful syntax’: GOP bets the Senate that Walker is ready for prime time</a> Politico: Herschel Walker’s post-primary victory lap was a fresh reminder of his promise and peril as GOP nominee in Georgia. 
- <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
- <a href="https://www.npr.org/2022/05/29/1100980188/u-s-house-loses-more-swing-in-2022">U.S. House loses more 'swing' in 2022</a> NPR: Only a small fraction of U.S. House seats are now considered "swing" seats that could be won by either party. 
 
 
 </details>
