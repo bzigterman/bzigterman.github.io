@@ -9,24 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: As Battle for Key Ukrainian City Intensifies, E.U. Ratchets Up Its Response</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
+ <p class="updated_time"> 10:43 PM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61655053?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Cheers and beers as Covid curbs are eased</a> BBC: Residents celebrated in the streets after midnight when restrictions were relaxed. 
+ <p class="updated_time"> 10:11 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
+ <p class="updated_time"> 10:09 PM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61655009?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde gunman entered door that did not lock</a> BBC: A teacher did shut the door after earlier propping it open, but somehow it did not lock, police say. 
+ <p class="updated_time"> 09:57 PM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61655327?at_medium=RSS&at_campaign=KARANGA">World's biggest plant discovered off Australian coast</a> BBC: The seagrass is roughly 4,500 years old and three times the size of Manhattan, researchers say. 
+ <p class="updated_time"> 09:20 PM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61655297?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Relief and caution as city returns to life</a> BBC: Covid curbs are eased in Shanghai after two months - but the freedom comes with strings attached. 
+ <p class="updated_time"> 09:11 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
  <p class="updated_time"> 08:59 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102321407/doj-federal-mask-mandate-airplanes-travel">DOJ asks federal appeals court to reverse order lifting travel mask mandate</a> NPR: The Justice Department argues that the order issued by the Centers for Disease Control and Prevention in early 2021 "falls easily within the CDC's statutory authority." 
- <p class="updated_time"> 08:53 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: As Battle for Key Ukrainian City Intensifies, E.U. Ratchets Up Its Response</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
  <p class="updated_time"> 08:42 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/biden-ukraine-rockets.html">U.S. to Send Ukraine $700 Million in Military Aid, Including Advanced Rockets</a> NYT: A senior administration official said the rocket system was provided only after direct assurances by Ukraine’s leaders that they would not use it against targets in Russian territory. 
  <p class="updated_time"> 08:25 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 08:11 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 07:11 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
+ <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 07:00 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61654959?at_medium=RSS&at_campaign=KARANGA">Texas: Supreme Court blocks state's 'de-platforming' law</a> BBC: The Republican-led state had banned social media companies from censoring users based on their "views". 
  <p class="updated_time"> 06:56 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 06:11 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 06:08 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61607410?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Stories of torture emerging out of Kherson</a> BBC: The BBC speaks to residents from a Russian-occupied region who say they were kidnapped and tortured. 
  <p class="updated_time"> 06:00 PM CT, May. 31 </p> 
@@ -35,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
  <p class="updated_time"> 05:45 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/middleeast/israel-emirates-uae-trade.html">Israel Signs Trade Deal With U.A.E.</a> NYT: The agreement highlighted deepening ties between Israel and parts of the Arab world. Once ratified, it will remove tariffs on 96 percent of bilateral trade, the two governments said. 
- <p class="updated_time"> 05:11 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 05:00 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
  <p class="updated_time"> 04:53 PM CT, May. 31 </p> 
@@ -51,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/sievierodonetsk-eu-oil-embargo.html">Forces Battle for Ukraine City, as E.U. Ratchets Up Responses</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies promised increased aid, a sharp drop in Russian oil imports and efforts to ship Ukrainian grain out of the country. 
  <p class="updated_time"> 04:14 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61652467?at_medium=RSS&at_campaign=KARANGA">Ukraine reports 15,000 suspected war crimes</a> BBC: Its top prosecutor accuses Russian military officials and politicians of committing war crimes. 
- <p class="updated_time"> 04:11 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 04:09 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102166665/russia-ukraine-war-what-happened-today-may-31">Russia-Ukraine war: What happened today (May 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:06 PM CT, May. 31 </p> 
@@ -79,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's PM shows what he says is proof that Iran deceived the world's nuclear agency. 
  <p class="updated_time"> 11:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102035346/in-two-photos-see-how-bucha-is-erasing-the-scars-of-russias-invasion">In two photos, see how Bucha is erasing the scars of Russia's invasion</a> NPR: First came the battle for Bucha. Now there's the battle to rebuild Bucha. This town was a scene of devastation in the early days of the war. Today you hear pounding hammers and screeching buzzsaws. 
- <p class="updated_time"> 11:04 AM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61647687?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China eases Covid restrictions after two months</a> BBC: China's biggest city, a vital global trade hub, begins to relax crippling Covid restrictions. 
  <p class="updated_time"> 11:03 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
  <p class="updated_time"> 11:01 AM CT, May. 31 </p> 
@@ -109,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
  <p class="updated_time"> 05:16 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
- <p class="updated_time"> 04:33 AM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61645241?at_medium=RSS&at_campaign=KARANGA">Iran building collapse: Protesters turn on government over disaster</a> BBC: Nightly protests continue as Iranians seethe, a week after the deadliest building collapse in years. 
  <p class="updated_time"> 04:23 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61642218?at_medium=RSS&at_campaign=KARANGA">Nepal plane crash: Officials recover black box from wreckage</a> BBC: Hopes of any survivors were dashed as the remains of all 22 people onboard have also been found. 
  <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
@@ -120,7 +124,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
  <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Orders Investigation Into  Children’s Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
+ <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Investigates Children’s Math Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
  <p class="updated_time"> 03:46 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102097736/denmark-will-hold-a-referendum-on-eu-defense-amid-ukraine-war">Denmark will hold a referendum on EU defense amid Ukraine war</a> NPR: Danish voters are being asked to choose whether to abandon the country's decision three decades ago to opt out of the bloc's common defense policy. 
  <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
@@ -189,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
  <p class="updated_time"> 10:17 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
- <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
 
 
 </details>
