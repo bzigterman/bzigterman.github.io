@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine’s Zelensky Rejects Trading Land for Peace With Russia</a> WSJ: Ukraine’s Zelensky Rejects Trading Land for Peace With Russia 
  <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
  <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102337108/sex-pistols-aim-to-give-queen-elizabeths-jubilee-a-touch-of-punk">Sex Pistols aim to give Queen Elizabeth's jubilee a touch of punk</a> NPR: A certain anti-authoritarian anthem linked to the punk rock pioneers and the British monarch, is being re-released as Queen Elizabeth II celebrates her platinum jubilee. 
- <p class="updated_time"> 04:12 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine’s Zelensky Rejects Trading Land for Peace With Russia</a> WSJ: Ukraine’s Zelensky Rejects Trading Land for Peace With Russia 
  <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:07 AM CT, Jun. 01 </p> 
@@ -25,27 +25,27 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">After Shanghai Reopens for Most, Relief, Reunions, but Also Anxieties</a> NYT: The authorities kept some restrictions, such as requiring residents to show negative Covid test results to use the subway and limiting access to housing compounds. 
+ <p class="updated_time"> 03:56 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 03:47 AM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-frontline-photos.html">From Ukraine’s Front Lines, Bravery and Wreckage</a> NYT: Amid the roar of artillery and bone-rattling explosions, New York Times photographers have borne graphic witness to the fight to survive. These are their stories and images. 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-frontline-photos.html">Photos From Ukraine’s Front Lines</a> NYT: Amid the roar of artillery and bone-rattling explosions, New York Times photographers have borne graphic witness to the fight to survive. These are their stories and images. 
  <p class="updated_time"> 03:45 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61657095?at_medium=RSS&at_campaign=KARANGA">Canada trials decriminalising cocaine, MDMA and other drugs</a> BBC: In the first trial of its kind in Canada, adults can possess small amounts of some illegal drugs. 
  <p class="updated_time"> 03:36 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
- <p class="updated_time"> 03:12 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
+ <p class="updated_time"> 02:56 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 02:35 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">What Happened on Day 97 of the War in Ukraine</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
  <p class="updated_time"> 02:32 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-prosthetics.html">Ukraine Medics Gird for Surge in Amputees</a> NYT: The war in Ukraine is pushing the country to expand its prosthetics industry amid fears of looming shortages. 
  <p class="updated_time"> 02:24 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 02:12 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
- <p class="updated_time"> 01:12 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 01:56 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 01:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
- <p class="updated_time"> 12:12 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 12:56 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 11:35 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/americas/colombia-election-results.html">In Colombia, a Leftist and a Right-Wing Populist Head for June Runoff</a> NYT: The results in the first round of voting delivered a stunning blow to Colombia’s dominant conservative political class. 
  <p class="updated_time"> 06:04 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61609559?at_medium=RSS&at_campaign=KARANGA">The dangerous world of illegal mining in South Africa</a> BBC: BBC Africa Eye meets the migrants who risk everything to go deep underground in South Africa’s abandoned gold mines. 
- <p class="updated_time"> 12:50 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
  <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
 
@@ -208,8 +206,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/01/secret-recordings-reveal-gop-precinct-strategy-00036255"> Secret recordings reveal GOP ‘precinct strategy’</a> Politico Playbook: And Biden has another op-ed — this time, in The New York Times about the war in Ukraine. 
+ <p class="updated_time"> 05:30 AM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/gop-contest-elections-tapes-00035758">‘It’s going to be an army’: Tapes reveal GOP plan to contest elections</a> Politico: Placing operatives as poll workers and building a "hotline" to friendly attorneys are among the strategies to be deployed in Michigan and other swing states. 
  <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
+ <p class="updated_time"> 04:08 AM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102335318/morning-news-brief">News brief: senators consider gun deal, Shanghai reopens, queen's jubilee</a> NPR: A bipartisan group of U.S. senators delves into gun control. Shanghai residents can leave their homes after two months of lockdowns. And Queen Elizabeth celebrates her record 70 years on the throne. 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/alaska-house-race.html">In Alaska, the Race to Succeed Don Young Is Raucous and Crowded</a> NYT: Four dozen candidates, including Sarah Palin and Santa Claus, are facing a complex election schedule to follow the man who represented Alaska for 49 years. 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
@@ -275,7 +279,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">In the Senate, Chasing an Ever-Elusive Gun Law Deal</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">Gun Talks Put Senate’s Tattered Credibility on the Line</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
  <p class="updated_time"> 07:37 AM CT, May. 31 </p> 
  <a href="https://www.cnn.com/2022/05/31/politics/supreme-court-roe-v-wade-leak-phone-records/index.html">Supreme Court leak investigation heats up as clerks are asked for phone records in unprecedented move</a> CNN: Supreme Court officials are escalating their search for the source of the leaked draft opinion that would overturn Roe v. Wade, taking steps to require law clerks to provide cell phone records and sign affidavits, three sources with knowledge of the efforts have told CNN. 
  <p class="updated_time"> 07:25 AM CT, May. 31 </p> 
