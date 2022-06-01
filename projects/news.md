@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:54 AM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">What Happened on Day 97 of the War in Ukraine</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
+ <p class="updated_time"> 09:13 AM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 08:28 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/holiday-weekend-in-the-us-resembles-prepandemic-times-as-experts-and-the-white-house-remain-wary-of-virus-risk.html">The holiday weekend in the U.S. resembles prepandemic times, as experts and the White House remain wary of virus risk.</a> NYT: While there is a rise in confirmed daily coronavirus cases and hospitalizations, Memorial Day observations are not being scrapped. 
+ <p class="updated_time"> 08:25 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 08:14 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
  <p class="updated_time"> 08:12 AM CT, Jun. 01 </p> 
@@ -23,28 +25,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure  over when the government would deliver on previous weapons pledges. 
  <p class="updated_time"> 07:56 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/middleeast/israel-blood-underground.html">Israel Moves Blood Bank Underground to Safeguard It From Attacks</a> NYT: The barrages of rockets fired at Tel Aviv last year underscored the vulnerability of a crucial national resource. 
- <p class="updated_time"> 07:55 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
+ <p class="updated_time"> 07:25 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 07:10 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
  <p class="updated_time"> 07:07 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
- <p class="updated_time"> 06:55 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 06:39 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Relief, Reunions and Some Anxiety as Shanghai (Mostly) Reopens</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
+ <p class="updated_time"> 06:25 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 06:17 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/biden-ukraine-rockets.html">U.S. to Send Ukraine $700 Million in Military Aid, Including Advanced Rockets</a> NYT: A senior administration official said the rocket system was provided only after direct assurances by Ukraine’s leaders that they would not use it against targets in Russian territory. 
  <p class="updated_time"> 06:05 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61656639?at_medium=RSS&at_campaign=KARANGA">Germans get €9-a-month travel in response to energy price rises</a> BBC: For the next three months, public transport costs are being cut to tackle the soaring cost of living. 
  <p class="updated_time"> 06:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
- <p class="updated_time"> 05:55 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
- <p class="updated_time"> 04:55 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 05:25 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
+ <p class="updated_time"> 04:25 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:08 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102337505/the-u-s-is-sending-long-range-rockets-to-ukraine">The U.S. is sending long-range rockets to Ukraine</a> NPR: President Biden said in a guest essay in The New York Times that he's decided to provide Ukraine with more advanced rockets that will enable it to more precisely strike targets on the battlefield. 
- <p class="updated_time"> 03:55 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 03:47 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-frontline-photos.html">Photos From Ukraine’s Front Lines</a> NYT: Amid the roar of artillery and bone-rattling explosions, New York Times photographers have borne graphic witness to the fight to survive. These are their stories and images. 
  <p class="updated_time"> 03:45 AM CT, Jun. 01 </p> 
@@ -264,6 +264,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/31/white-house-biden-gas-prices-00036206">The White House has one problem that rules them all: Gas prices</a> Politico: Inside the White House, aides are debating a number of ideas. Each, they've concluded, has drawbacks or won't work. 
  <p class="updated_time"> 06:04 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Coast Guard Admiral to Become First Female Service Chief, Shattering Another Glass Ceiling</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
+ <p class="updated_time"> 05:43 PM CT, May. 31 </p> 
+ <a href="https://www.npr.org/2022/05/31/1102289944/supreme-court-blocks-texas-social-media-law-from-taking-effect">Supreme Court blocks Texas social media law from taking effect </a> NPR: In a 5-to-4 vote, the court granted a request from Big Tech industry trade groups, which argued the law would unleash a flood of racist, hateful and other extremist content on social media platforms. 
  <p class="updated_time"> 05:42 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/supreme-court-social-media-texas.html">Supreme Court Blocks Texas Law Regulating Social Media Platforms</a> NYT: The law, prompted by conservative complaints about censorship, prohibits big technology companies like Facebook and Twitter from removing posts based on the views they express. 
  <p class="updated_time"> 05:08 PM CT, May. 31 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1099221143/what-this-moment-before-midterms-means-for-the-biden-administrations-climate-goa">What this moment before midterms means for the Biden administration's climate goals</a> NPR: Democrats fear time is running out to pass climate legislation before the midterm elections. Meanwhile, Democratic Sen. Joe Manchin of West Virginia is holding talks... with Republicans. 
  <p class="updated_time"> 12:05 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/republican-poll-monitors-election-activists.html">Lawyer Who Plotted to Overturn Trump Loss Recruits Election Deniers to Watch Over the Vote</a> NYT: A central figure in the scheme to reverse the 2020 election is mobilizing grass-roots activists into an “army of citizens” trained to aggressively monitor elections. 
- <p class="updated_time"> 09:55 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/biden-guns-congress-00035882">Biden says 'rational Republicans' offer hope for gun legislation</a> Politico: “I think there’s a recognition on their part … that we can’t continue like this," he said. 
  <p class="updated_time"> 09:48 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/veterans-small-business.html">These Veterans Started Businesses Inspired by Their Deployments</a> NYT: Some veterans have started businesses that draw from their experiences in Iraq and Afghanistan, and thrived. 
  <p class="updated_time"> 08:58 AM CT, May. 30 </p> 
@@ -336,16 +336,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/29/pelosi-husband-driving-under-influence-00035868">Pelosi’s husband arrested on suspicion of DUI in California</a> Politico: Paul Pelosi was taken into custody late Saturday in Napa County. 
  <p class="updated_time"> 04:44 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1102015377/biden-mourns-with-community-in-uvalde-visit">Biden mourns with community in Uvalde visit</a> NPR: President Biden is traveling to Uvalde, Texas, to mourn with the community. It's his second visit to a community that's been devastated by a mass shooting in less than two weeks. 
- <p class="updated_time"> 04:36 PM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/biden-texas-uvalde-00035867">Biden in Texas: ‘We will’ do something</a> Politico: The president was responding to a crowd urging him to act. 
  <p class="updated_time"> 01:20 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/justice-department-police-response-uvalde-00035866">Justice Department to investigate police response in Uvalde</a> Politico: Police have been criticized for waiting too late to confront the gunman. 
  <p class="updated_time"> 10:39 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/29/trumps-new-obsession-00035857"> Trump’s new obsession</a> Politico Playbook: And Republicans and Democrats take note of Herschel Walker's public comments. 
  <p class="updated_time"> 10:33 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/republicans-contrast-guns-brooks-kinzinger-00035860">Republicans offer contrasting views on gun law reform</a> Politico: Adam Kinzinger is open to changing laws; Mo Brooks wants to protect the Second Amendment. 
- <p class="updated_time"> 09:19 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/chris-murphy-texas-gun-measures-00035856">Lawmakers offer mild optimism about gun legislation</a> Politico: Sen. Chris Murphy and other lawmakers said they saw hope for the current bipartisan efforts. 
 
 
 </details>
