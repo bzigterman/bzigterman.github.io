@@ -19,36 +19,38 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
  <p class="updated_time"> 12:21 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61658495?at_medium=RSS&at_campaign=KARANGA">Champions League: Under-fire French minister defends policing</a> BBC: Gérald Darmanin says enough police were deployed, despite chaotic scenes in Paris on Saturday. 
+ <p class="updated_time"> 12:17 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 11:58 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Investigators look into alleged Russian war crimes</a> BBC: Since Russia's invasion of Ukraine began, nearly 15,000 war crimes have been alleged in the country. 
  <p class="updated_time"> 11:56 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61666358?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Your questions on the conflict answered</a> BBC: BBC correspondents explain how things are progressing in Ukraine after almost 100 days of war. 
  <p class="updated_time"> 11:54 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
- <p class="updated_time"> 11:53 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 11:51 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
  <p class="updated_time"> 11:37 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
+ <p class="updated_time"> 11:17 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 11:05 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60960524?at_medium=RSS&at_campaign=KARANGA">California reparations: How do you prove ancestry to enslaved people?</a> BBC: California plans to give reparations to those who can prove they're descendants of the enslaved. 
- <p class="updated_time"> 10:53 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 10:50 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure over when the government would deliver on previous weapons pledges. 
  <p class="updated_time"> 10:43 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
+ <p class="updated_time"> 10:17 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 10:13 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
- <p class="updated_time"> 09:53 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 09:40 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102352482/to-fight-the-opioid-crisis-canada-tests-decriminalizing-possession">To fight the opioid crisis, Canada tests decriminalizing possession</a> NPR: Overdose deaths have risen sharply across Canada in the past five years, with deaths linked to fentanyl doubling. Officials hope decriminalization will make more users willing to seek medical care. 
- <p class="updated_time"> 08:53 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 09:17 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 08:28 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/holiday-weekend-in-the-us-resembles-prepandemic-times-as-experts-and-the-white-house-remain-wary-of-virus-risk.html">The holiday weekend in the U.S. resembles prepandemic times, as experts and the White House remain wary of virus risk.</a> NYT: While there is a rise in confirmed daily coronavirus cases and hospitalizations, Memorial Day observations are not being scrapped. 
+ <p class="updated_time"> 08:17 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: Eurozone Set to Expand to Croatia Next Year 
  <p class="updated_time"> 08:14 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
  <p class="updated_time"> 08:12 AM CT, Jun. 01 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61663091?at_medium=RSS&at_campaign=KARANGA">Biden meets BTS to tackle US anti-Asian hate</a> BBC: The K-pop boy band went to the White House to discuss the recent rise in hate crimes. 
  <p class="updated_time"> 07:56 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/middleeast/israel-blood-underground.html">Israel Moves Blood Bank Underground to Safeguard It From Attacks</a> NYT: The barrages of rockets fired at Tel Aviv last year underscored the vulnerability of a crucial national resource. 
- <p class="updated_time"> 07:53 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: Eurozone Set to Expand to Croatia Next Year 
  <p class="updated_time"> 07:10 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
  <p class="updated_time"> 06:17 AM CT, Jun. 01 </p> 
