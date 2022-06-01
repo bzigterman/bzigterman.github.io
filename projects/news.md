@@ -9,18 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:40 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
+ <p class="updated_time"> 01:34 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-russia-losses-east.html">Ukraine Faces Brutal Fight Against Russia in the East, Losing Men and Ground </a> NYT: The attention on Russia’s battle casualties have obscured the heavy losses of Ukraine’s fighters in Donbas — often ill-trained volunteers — who face severe shelling. 
+ <p class="updated_time"> 01:28 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/poland-eu-ukraine-coronavirus.html">In Concession to Poland, E.U. Opens Door to Frozen Funds</a> NYT: About $42 billion earmarked for Poland from a coronavirus recovery fund had been blocked over judicial disputes. But relations with the bloc improved over Poland’s strong stance against Russia. 
+ <p class="updated_time"> 01:24 PM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1101473557/ukrainian-refugees-abortions-europe-poland-warsaw">This secretive network helps Ukrainian refugees find abortions in Europe</a> NPR: Ukraine has very liberal abortion laws. In Poland, it is almost entirely illegal. Millions of Ukrainians discovered this when they fled the war in their home country and crossed the Polish border. 
+ <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/business/economy/biden-taiwan-trade.html">Biden Administration Begins Trade Dialogue With Taiwan</a> NYT: Talks with the self-governing island, which China claims as its territory, aim to challenge Chinese trade practices and are sure to irritate Beijing. 
+ <p class="updated_time"> 12:46 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
- <p class="updated_time"> 12:35 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Inches Toward Seizing Key Eastern City</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 12:31 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
  <p class="updated_time"> 12:21 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61658495?at_medium=RSS&at_campaign=KARANGA">Champions League: Under-fire French minister defends policing</a> BBC: Gérald Darmanin says enough police were deployed, despite chaotic scenes in Paris on Saturday. 
- <p class="updated_time"> 12:17 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 11:58 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Investigators look into alleged Russian war crimes</a> BBC: Since Russia's invasion of Ukraine began, nearly 15,000 war crimes have been alleged in the country. 
  <p class="updated_time"> 11:56 AM CT, Jun. 01 </p> 
@@ -29,28 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 11:51 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
+ <p class="updated_time"> 11:46 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 11:37 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
- <p class="updated_time"> 11:17 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-launches-initiatives-to-boost-economic-ties-with-taiwan-11654086601">U.S. Launches Initiatives to Boost Economic Ties With Taiwan</a> WSJ: U.S. Launches Initiatives to Boost Economic Ties With Taiwan 
  <p class="updated_time"> 11:05 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60960524?at_medium=RSS&at_campaign=KARANGA">California reparations: How do you prove ancestry to enslaved people?</a> BBC: California plans to give reparations to those who can prove they're descendants of the enslaved. 
  <p class="updated_time"> 10:50 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure over when the government would deliver on previous weapons pledges. 
+ <p class="updated_time"> 10:46 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 10:43 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
- <p class="updated_time"> 10:17 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 10:13 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
+ <p class="updated_time"> 09:46 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 09:40 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102352482/to-fight-the-opioid-crisis-canada-tests-decriminalizing-possession">To fight the opioid crisis, Canada tests decriminalizing possession</a> NPR: Overdose deaths have risen sharply across Canada in the past five years, with deaths linked to fentanyl doubling. Officials hope decriminalization will make more users willing to seek medical care. 
- <p class="updated_time"> 09:17 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
+ <p class="updated_time"> 08:46 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: Eurozone Set to Expand to Croatia Next Year 
  <p class="updated_time"> 08:28 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/holiday-weekend-in-the-us-resembles-prepandemic-times-as-experts-and-the-white-house-remain-wary-of-virus-risk.html">The holiday weekend in the U.S. resembles prepandemic times, as experts and the White House remain wary of virus risk.</a> NYT: While there is a rise in confirmed daily coronavirus cases and hospitalizations, Memorial Day observations are not being scrapped. 
- <p class="updated_time"> 08:17 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: Eurozone Set to Expand to Croatia Next Year 
  <p class="updated_time"> 08:14 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
  <p class="updated_time"> 08:12 AM CT, Jun. 01 </p> 
@@ -75,6 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:08 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102337505/us-advanced-rocket-systems-ukraine">The U.S. is sending advanced rocket systems to Ukraine, but not to be shot into Russia</a> NPR: President Biden said in a guest essay in The New York Times that he's decided to provide Ukraine with more advanced rockets that will enable it to more precisely strike targets on the battlefield. 
+ <p class="updated_time"> 04:08 AM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102335388/queen-elizabeth-platinum-jubilee-great-britain-royal-family">Queen Elizabeth's Platinum Jubilee comes at a challenging time for Britain's monarchy</a> NPR: Queen Elizabeth II is marking 70 years on the throne, but recent years have been bumpy for the British monarchy. Public support for the institution has fallen, even as the queen remains popular. 
  <p class="updated_time"> 03:47 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-frontline-photos.html">Photos From Ukraine’s Front Lines</a> NYT: Amid the roar of artillery and bone-rattling explosions, New York Times photographers have borne graphic witness to the fight to survive. These are their stories and images. 
  <p class="updated_time"> 03:45 AM CT, Jun. 01 </p> 
@@ -155,22 +165,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
- <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
- <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
  <p class="updated_time"> 05:25 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
- <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
- <a href="https://www.npr.org/2022/05/31/1102097064/canada-aims-to-cap-the-market-for-handguns-with-new-legislation">Canada aims to cap the market for handguns with new legislation</a> NPR: Canada's prime minister has introduced gun-control legislation that would freeze new handgun purchases, and introduce a mandatory buyback program for some assault-style weapons. 
  <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
  <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Investigates Children’s Math Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
- <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
  <p class="updated_time"> 08:06 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Plans to Ban Handgun Sales and Possession of Assault Weapons</a> NYT: “We have a responsibility to act to prevent more tragedies,” Prime Minister Trudeau said as he proposed tightening the country’s already stringent control of firearms. 
  <p class="updated_time"> 06:04 PM CT, May. 30 </p> 
@@ -191,10 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/europe/eu-summit-ukraine-enlargement-accession-talks-nato.html">As Ukraine Fights, Does the E.U. Owe It Membership?</a> NYT: Brussels supports Kyiv’s battle against Russia, but gaining full membership to the bloc could take years. Is there another way to bind Ukraine, Moldova and Georgia to Europe? 
  <p class="updated_time"> 07:30 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
- <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
- <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
 
 
 </details>
@@ -202,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/business/economy/biden-taiwan-trade.html">Biden Administration Begins Trade Dialogue With Taiwan</a> NYT: Talks with the self-governing island, which China claims as its territory, aim to challenge Chinese trade practices and are sure to irritate Beijing. 
+ <p class="updated_time"> 12:55 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/warning-signs-cloud-tech-industrys-supreme-court-victory-00036340">Warning signs cloud tech industry’s Supreme Court victory</a> Politico: The 5-4 decision blocking Texas’ social media law was closer than expected, and Justice Samuel Alito’s dissent suggests conservative judges may be shifting on the free speech rights of tech platforms. 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 11:55 AM CT, Jun. 01 </p> 
@@ -227,7 +231,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:21 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/06/01/1102364461/abortion-bans-with-no-exceptions-may-be-politically-risky">Abortion bans with no exceptions may be politically risky</a> NPR: Some conservative states pressing for abortion bans with no exceptions for rape, incest or the life of the mother. But public opinion polls suggest those limits could cause blowback. 
  <p class="updated_time"> 09:58 AM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/us-nearing-deal-baby-formula-australia-00036277">U.S. nearing deal to fly in baby formula from Australia</a> Politico: The Biden administration could soon finalize the transport of 1.25 million cans of baby formula into the U.S. from Australia as shortages continue. 
+ <a href="https://www.politico.com/news/2022/06/01/us-nearing-deal-baby-formula-australia-00036277">White House reaches deal to fly in baby formula from Australia</a> Politico: The Biden administration has finalized the transport of 1.25 million cans of baby formula into the U.S. from Australia as shortages continue. 
  <p class="updated_time"> 08:20 AM CT, Jun. 01 </p> 
  <a href="https://www.cnn.com/2022/05/31/politics/supreme-court-roe-v-wade-leak-phone-records/index.html">Supreme Court leak investigation heats up as clerks are asked for phone records in unprecedented move</a> CNN: Supreme Court officials are escalating their search for the source of the leaked draft opinion that would overturn Roe v. Wade, taking steps to require law clerks to provide cell phone records and sign affidavits, three sources with knowledge of the efforts have told CNN. 
  <p class="updated_time"> 06:51 AM CT, Jun. 01 </p> 
@@ -330,12 +334,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/us/politics/veterans-small-business.html">These Veterans Started Businesses Inspired by Their Deployments</a> NYT: Some veterans have started businesses that draw from their experiences in Iraq and Afghanistan, and thrived. 
  <p class="updated_time"> 08:40 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/30/uvalde-to-biden-do-something-00035874"> Uvalde to Biden: ‘Do something’</a> Politico Playbook: And DOJ says it will investigate the Uvalde shooting response. 
- <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 05:07 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/pelosi-husband-driving-under-influence-00035868">Pelosi’s husband arrested on suspicion of DUI in California</a> Politico: Paul Pelosi was taken into custody late Saturday in Napa County. 
- <p class="updated_time"> 01:20 PM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/justice-department-police-response-uvalde-00035866">Justice Department to investigate police response in Uvalde</a> Politico: Police have been criticized for waiting too late to confront the gunman. 
 
 
 </details>
