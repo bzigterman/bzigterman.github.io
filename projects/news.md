@@ -17,14 +17,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61656639?at_medium=RSS&at_campaign=KARANGA">Germans get €9-a-month travel in response to energy price rises</a> BBC: For the next three months, public transport costs are being cut to tackle the soaring cost of living. 
  <p class="updated_time"> 06:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
- <p class="updated_time"> 05:23 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 05:35 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
+ <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
- <p class="updated_time"> 04:23 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Ban on Russian Oil to Impose Steep Costs on Kremlin</a> WSJ: EU Ban on Russian Oil to Impose Steep Costs on Kremlin 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102337108/sex-pistols-aim-to-give-queen-elizabeths-jubilee-a-touch-of-punk">Sex Pistols aim to give Queen Elizabeth's jubilee a touch of punk</a> NPR: A certain anti-authoritarian anthem linked to the punk rock pioneers and the British monarch, is being re-released as Queen Elizabeth II celebrates her platinum jubilee. 
  <p class="updated_time"> 04:09 AM CT, Jun. 01 </p> 
@@ -39,15 +39,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61657095?at_medium=RSS&at_campaign=KARANGA">Canada trials decriminalising cocaine, MDMA and other drugs</a> BBC: In the first trial of its kind in Canada, adults can possess small amounts of some illegal drugs. 
  <p class="updated_time"> 03:36 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
- <p class="updated_time"> 03:23 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 03:35 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
+ <p class="updated_time"> 02:35 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 02:32 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-prosthetics.html">Ukraine Medics Gird for Surge in Amputees</a> NYT: The war in Ukraine is pushing the country to expand its prosthetics industry amid fears of looming shortages. 
  <p class="updated_time"> 02:24 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 02:23 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
- <p class="updated_time"> 01:23 AM CT, Jun. 01 </p> 
+ <p class="updated_time"> 01:35 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 01:00 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
@@ -138,7 +138,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102097064/canada-aims-to-cap-the-market-for-handguns-with-new-legislation">Canada aims to cap the market for handguns with new legislation</a> NPR: Canada's prime minister has introduced gun-control legislation that would freeze new handgun purchases, and introduce a mandatory buyback program for some assault-style weapons. 
  <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
- <a href="https://www.npr.org/2022/05/31/1102097092/ukraine-kharkiv-billionaire-battalion-vsevolod-kozhemyako">A look inside the Ukrainian "billionaire's battalion" fighting Russian forces</a> NPR: Vsevolod Kozhemyako, one of Ukraine's wealthiest men, has set up his own battalion to fight Russian forces. He funds, trains and leads a light infantry unit on the front lines. 
+ <a href="https://www.npr.org/2022/05/31/1102097092/ukraine-kharkiv-billionaire-battalion-vsevolod-kozhemyako">A look inside the Ukrainian 'billionaire's battalion' fighting Russian forces</a> NPR: Vsevolod Kozhemyako, one of Ukraine's wealthiest men, has set up his own battalion to fight Russian forces. He funds, trains and leads a light infantry unit on the front lines. 
  <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
