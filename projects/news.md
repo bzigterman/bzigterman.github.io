@@ -9,37 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
+ <p class="updated_time"> 12:33 AM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
  <p class="updated_time"> 12:25 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">What Happened on Day 97 of the War in Ukraine</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies in Europe promised to increase aid, cut Russian oil imports and work to ship Ukrainian grain out of the country. Biden said the U.S. would send more advanced rocket systems. 
  <p class="updated_time"> 12:25 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-war-prosthetics.html">Ukraine Medics Gird for Surge in Amputees</a> NYT: The war in Ukraine is pushing the country to expand its prosthetics industry amid fears of looming shortages. 
+ <p class="updated_time"> 12:02 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 11:35 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
- <p class="updated_time"> 11:31 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
- <p class="updated_time"> 11:10 PM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to send longer-range rockets in latest aid package</a> BBC: The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday. 
+ <p class="updated_time"> 11:02 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
  <p class="updated_time"> 10:43 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61655053?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Cheers and beers as Covid curbs are eased</a> BBC: Residents celebrated in the streets after midnight when restrictions were relaxed. 
- <p class="updated_time"> 10:31 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
  <p class="updated_time"> 10:09 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61655009?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde gunman entered door that did not lock</a> BBC: A teacher did shut the door after earlier propping it open, but somehow it did not lock, police say. 
+ <p class="updated_time"> 10:02 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 09:57 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61655327?at_medium=RSS&at_campaign=KARANGA">World's biggest plant discovered off Australian coast</a> BBC: The seagrass is roughly 4,500 years old and three times the size of Manhattan, researchers say. 
- <p class="updated_time"> 09:31 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 09:20 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61655297?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Relief and caution as city returns to life</a> BBC: Covid curbs are eased in Shanghai after two months - but the freedom comes with strings attached. 
+ <p class="updated_time"> 09:02 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 08:59 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102321407/doj-federal-mask-mandate-airplanes-travel">DOJ asks federal appeals court to reverse order lifting travel mask mandate</a> NPR: The Justice Department argues that the order issued by the Centers for Disease Control and Prevention in early 2021 "falls easily within the CDC's statutory authority." 
  <p class="updated_time"> 08:42 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/biden-ukraine-rockets.html">U.S. to Send Ukraine $700 Million in Military Aid, Including Advanced Rockets</a> NYT: A senior administration official said the rocket system was provided only after direct assurances by Ukraine’s leaders that they would not use it against targets in Russian territory. 
- <p class="updated_time"> 08:31 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 08:25 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
- <p class="updated_time"> 07:31 PM CT, May. 31 </p> 
+ <p class="updated_time"> 08:02 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 07:00 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61654959?at_medium=RSS&at_campaign=KARANGA">Texas: Supreme Court blocks state's 'de-platforming' law</a> BBC: The Republican-led state had banned social media companies from censoring users based on their "views". 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61562289?at_medium=RSS&at_campaign=KARANGA">Mountaineer JP Mohr's message: "We can all reach our summits"</a> BBC: Climber JP Mohr died on K2 but the foundation he created continues to inspire children in Chile. 
  <p class="updated_time"> 06:08 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61607410?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Stories of torture emerging out of Kherson</a> BBC: The BBC speaks to residents from a Russian-occupied region who say they were kidnapped and tortured. 
- <p class="updated_time"> 06:00 PM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark holds referendum on dropping EU defence opt-out</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:45 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/middleeast/israel-emirates-uae-trade.html">Israel Signs Trade Deal With U.A.E.</a> NYT: The agreement highlighted deepening ties between Israel and parts of the Arab world. Once ratified, it will remove tariffs on 96 percent of bilateral trade, the two governments said. 
  <p class="updated_time"> 05:00 PM CT, May. 31 </p> 
