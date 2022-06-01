@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 PM CT, Jun. 01 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/russia-oligarchs-yachts-middlemen.html">The Middlemen at the Heart of an Oligarch-Industrial Complex</a> NYT: They oversee the flow of billions of dollars from Putin-connected Russians to companies involved in superyachts and villas. They’ve drawn the attention of a U.S. task force. 
+ <p class="updated_time"> 05:04 PM CT, Jun. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61668780?at_medium=RSS&at_campaign=KARANGA">Depp-Heard trial: Jury sides mostly with Depp in defamation case</a> BBC: Jurors award Mr Depp $15m in compensatory and punitive damages, but also award Ms Heard $2m. 
+ <p class="updated_time"> 04:57 PM CT, Jun. 01 </p> 
+ <a href="https://www.npr.org/2022/06/01/1102486531/a-couple-describes-returning-to-the-streets-of-shanghai-after-2-month-covid-lock">A couple describes returning to the streets of Shanghai after 2-month COVID lockdown</a> NPR: NPR's Mary Louise Kelly follows up with Ha Chuong and Nadav Davidai, a married couple who lives in Shanghai, about what it's like to return to life outside of their apartment. 
  <p class="updated_time"> 04:54 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">Live Updates: Street Fighting Rages in Key City as Russia Nears Prize</a> NYT: Pitched battles rocked Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 04:47 PM CT, Jun. 01 </p> 
@@ -19,58 +25,56 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/africa/omicron-south-africa-antibodies.html">South Africa Was Hit by Virus Wave, Despite Most People Having Antibodies</a> NYT: Researchers say the study provides yet more evidence of the virus’s capacity to evolve and dodge immunity. 
  <p class="updated_time"> 04:23 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61644663?at_medium=RSS&at_campaign=KARANGA">Denmark votes to drop EU defence opt-out in 'historic' referendum</a> BBC: Denmark is the latest Nordic country to reassess security policy after Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:23 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 04:10 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/climate/solar-wind-fees-cut.html">Biden Administration to Cut Costs for Wind and Solar Energy Projects</a> NYT: Interior Secretary Deb Haaland said the government would sharply reduce the fees it charges to companies that operate on public lands. 
  <p class="updated_time"> 04:10 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102352611/russia-ukraine-war-what-happened-today-june-1">Russia-Ukraine war: What happened today (June 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/fake-mount-everest-summit.html">Narender Singh Yadav, Accused of Faking Everest Summit, Climbs Everest</a> NYT: A disgraced Indian climber, who continues to maintain he already climbed the mountain once before, made sure to have lots of photos and videos taken. 
- <p class="updated_time"> 03:56 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 03:50 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-russia-losses-east.html">Ukraine Faces Brutal Fight Against Russia in the East, Losing Men and Ground </a> NYT: The attention on Russia’s battle casualties has obscured the heavy losses of Ukraine’s fighters in Donbas — often ill-trained volunteers. 
- <p class="updated_time"> 03:45 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/europe/russia-oligarchs-yachts-middlemen.html">The Middlemen at the Heart of an Oligarch-Industrial Complex</a> NYT: They oversee the flow of billions of dollars from Putin-connected Russians to companies involved in superyachts and villas. They’ve drawn the attention of a U.S. task force. 
  <p class="updated_time"> 03:42 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102486117/top-us-envoy-takes-trip-to-remind-the-world-that-millions-inside-syria-still-nee">Top US envoy takes trip to remind the world that millions inside Syria still need aid</a> NPR: U.S. Ambassador Linda Thomas Greenfield travels to the Turkey-Syria border to remind the world of the need for continued aid for Syrians who are fleeing or in opposition-held parts of the country. 
  <p class="updated_time"> 03:40 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61664761?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Long-range rockets and Kherson torture claims</a> BBC: The US says the missiles will strengthen Kyiv's negotiating stance as the war nears its 100th day. 
+ <p class="updated_time"> 03:23 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 03:22 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure over when the government would deliver on previous weapons pledges. 
  <p class="updated_time"> 03:18 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/poland-eu-ukraine-coronavirus.html">In Concession to Poland, E.U. Opens Door to Frozen Funds</a> NYT: About $38 billion earmarked for Poland from a coronavirus recovery fund had been blocked over judicial disputes. But relations with the bloc improved over Poland’s strong stance against Russia. 
  <p class="updated_time"> 03:17 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia says US 'adding fuel to fire' by sending longer-range rockets</a> BBC: Moscow responds after President Biden says he will supply Kyiv with new long-range missiles. 
- <p class="updated_time"> 02:56 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 02:42 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/biden-ukraine-rockets.html">U.S. to Send Ukraine $700 Million in Military Aid, Including Advanced Rockets</a> NYT: A senior administration official said the rocket system was provided only after direct assurances by Ukraine’s leaders that they would not use it against targets in Russian territory. 
+ <p class="updated_time"> 02:23 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-aimed-to-spark-food-crisis-by-blocking-kyiv-grain-exports-ukraine-says-11654104825">Russia Aimed to Spark Food Crisis by Blocking Kyiv Grain Exports, Ukraine Says</a> WSJ: Russia Aimed to Spark Food Crisis by Blocking Kyiv Grain Exports, Ukraine Says 
  <p class="updated_time"> 02:21 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 02:17 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1101735669/a-rare-visit-by-pakistanis-to-israel-has-caused-furor-in-islamabad">A rare visit by Pakistanis to Israel has caused furor in Islamabad</a> NPR: Pakistan doesn't recognize Israel. After a delegation visited Israel and even met with its president, Pakistani senators were outraged and one visitor got fired. 
- <p class="updated_time"> 01:56 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-aimed-to-spark-food-crisis-by-blocking-kyiv-grain-exports-ukraine-says-11654104825">Russia Aimed to Spark Food Crisis by Blocking Kyiv Grain Exports, Ukraine Says</a> WSJ: Russia Aimed to Spark Food Crisis by Blocking Kyiv Grain Exports, Ukraine Says 
  <p class="updated_time"> 01:24 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1101473557/ukrainian-refugees-abortions-europe-poland-warsaw">This secretive network helps Ukrainian refugees find abortions in Europe</a> NPR: Ukraine has very liberal abortion laws. In Poland, it is almost entirely illegal. Millions of Ukrainians discovered this when they fled the war in their home country and crossed the Polish border. 
+ <p class="updated_time"> 01:23 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/economy/biden-taiwan-trade.html">Biden Administration Begins Trade Dialogue With Taiwan</a> NYT: Talks with the self-governing island, which China claims as its territory, aim to challenge Chinese trade practices and are sure to irritate Beijing. 
- <p class="updated_time"> 12:56 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane</a> WSJ: Shanghai Emerges From Covid-19 Lockdown, Revels in the Mundane 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
  <p class="updated_time"> 12:31 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
+ <p class="updated_time"> 12:23 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 12:21 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61658495?at_medium=RSS&at_campaign=KARANGA">Champions League: French minister says only English fans posed problems</a> BBC: Gérald Darmanin says enough police were deployed, despite chaotic scenes in Paris on Saturday. 
  <p class="updated_time"> 11:58 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Investigators look into alleged Russian war crimes</a> BBC: Since Russia's invasion of Ukraine began, nearly 15,000 war crimes have been alleged in the country. 
  <p class="updated_time"> 11:56 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61666358?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Your questions on the conflict answered</a> BBC: BBC correspondents explain how things are progressing in Ukraine after almost 100 days of war. 
- <p class="updated_time"> 11:56 AM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 11:54 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 11:51 AM CT, Jun. 01 </p> 
@@ -97,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
  <p class="updated_time"> 06:05 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61656639?at_medium=RSS&at_campaign=KARANGA">Germans get €9-a-month travel in response to energy price rises</a> BBC: For the next three months, public transport costs are being cut to tackle the soaring cost of living. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: The country looks set to adopt the euro next year after European Union regulators said it met the necessary criteria, a boost for the currency bloc after years of economic crises and shocks. 
  <p class="updated_time"> 04:35 AM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61657942?at_medium=RSS&at_campaign=KARANGA">Hurricane Agatha: 11 dead and dozens missing in Mexico</a> BBC: Landslides and flash flooding caused by the storm have caused havoc in the coastal state of Oaxaca. 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
@@ -123,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Macron’s Foreign Service Overhaul</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
  <p class="updated_time"> 10:43 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61655053?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Cheers and beers as Covid curbs are eased</a> BBC: Residents celebrated in the streets after midnight when restrictions were relaxed. 
- <p class="updated_time"> 10:09 PM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61655009?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde gunman entered door that did not lock</a> BBC: A teacher did shut the door after earlier propping it open, but somehow it did not lock, police say. 
  <p class="updated_time"> 09:57 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61655327?at_medium=RSS&at_campaign=KARANGA">World's biggest plant discovered off Australian coast</a> BBC: The seagrass is roughly 4,500 years old and three times the size of Manhattan, researchers say. 
  <p class="updated_time"> 09:20 PM CT, May. 31 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102166665/russia-ukraine-war-what-happened-today-may-31">Russia-Ukraine war: What happened today (May 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:06 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61654042?at_medium=RSS&at_campaign=KARANGA">Clinton lawyer cleared of lying to FBI over Trump</a> BBC: Michael Sussman stood charged with lying to the FBI and concealing ties to Hillary Clinton's campaign. 
- <p class="updated_time"> 04:03 PM CT, May. 31 </p> 
- <a href="https://www.npr.org/2022/05/31/1102260586/theres-an-exodus-from-cuba-happening">There's an exodus from Cuba happening</a> NPR: More Cubans are leaving the country than ever before. Cuba is facing its worst economic downturn in decades. 
  <p class="updated_time"> 03:50 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/russia-sievierodonetsk-ukraine-civilians.html">As Russians Advance, Thousands of Civilians are Trapped in Sievierodonetsk</a> NYT: The eastern Ukrainian city’s younger residents have largely evacuated, leaving older citizens to bear the brunt of Moscow’s assault. 
  <p class="updated_time"> 02:55 PM CT, May. 31 </p> 
@@ -216,6 +218,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102486517/nearly-100-days-since-russia-invaded-biden-pledges-new-advanced-weapons-to-ukrai">Nearly 100-days since Russia invaded, Biden pledges new advanced weapons to Ukraine</a> NPR: President Biden pledged new advanced weapons to Ukraine as the 100-day mark since Russia's invasion nears. Biden reiterated that the U.S. will "stay the course" as the conflict drags on. 
  <p class="updated_time"> 04:36 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/martin-walsh-positive-coronavirus.html">Martin J. Walsh, Labor Secretary, Tested Positive for Coronavirus</a> NYT: The White House said that Mr. Walsh had not been in close contact with President Biden. 
+ <p class="updated_time"> 04:36 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/house-republicans-to-introduce-climate-change-strategy-with-eye-on-midterms-00036481">House Republicans to introduce climate change strategy with eye on midterms</a> Politico: The strategy released by House Republicans contains few new policy ideas. 
+ <p class="updated_time"> 04:01 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/senate-backs-down-on-cryptocurrency-mining-moratorium-00036388">Cryptocurrency mining moratorium stalls in New York State Senate</a> Politico: The measure's sponsor said the lack of action will undermine progress on the Climate Leadership and Community Protection Act, the state’s landmark climate law that requires steep emissions reductions over the next decade. 
  <p class="updated_time"> 03:42 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102486117/top-us-envoy-takes-trip-to-remind-the-world-that-millions-inside-syria-still-nee">Top US envoy takes trip to remind the world that millions inside Syria still need aid</a> NPR: U.S. Ambassador Linda Thomas Greenfield travels to the Turkey-Syria border to remind the world of the need for continued aid for Syrians who are fleeing or in opposition-held parts of the country. 
  <p class="updated_time"> 02:58 PM CT, Jun. 01 </p> 
@@ -235,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:49 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/abortion-rights-groups-sue-to-stop-floridas-15-week-ban-00036292">Abortion rights groups sue to stop Florida's 15-week ban</a> Politico: The new law is the strictest abortion law in state history. 
  <p class="updated_time"> 01:45 PM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/big-moneys-next-political-target-the-biggest-mayors-race-of-2022-00036275">The billionaire ex-Republican who could become L.A.’s next mayor</a> Politico: Billionaire Rick Caruso has spent himself into contention for mayor of the nation's second-biggest city. 
+ <a href="https://www.politico.com/news/2022/06/01/big-moneys-next-political-target-the-biggest-mayors-race-of-2022-00036275">Big-spending billionaires are upending politics. The Los Angeles mayor's race is the latest test.</a> Politico: Billionaire Rick Caruso has spent himself into contention for mayor of the nation's second-biggest city. 
  <p class="updated_time"> 01:40 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/hinckley-freedom-shooting-reagan-00036397">Hinckley to get full freedom 41 years after shooting Reagan</a> Politico: U.S. District Court Judge Paul L. Friedman said in September that he would free Hinckley from all remaining restrictions on June 15 as long as Hinckley continued to do well living in the community in Virginia as he has for years. 
  <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
@@ -284,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102335318/morning-news-brief">News brief: senators consider gun deal, Shanghai reopens, queen's jubilee</a> NPR: A bipartisan group of U.S. senators delves into gun control. Shanghai residents can leave their homes after two months of lockdowns. And Queen Elizabeth celebrates her record 70 years on the throne. 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/alaska-house-race.html">In Alaska, the Race to Succeed Don Young Is Raucous and Crowded</a> NYT: Four dozen candidates, including Sarah Palin and Santa Claus, are facing a complex election schedule to follow the man who represented Alaska for 49 years. 
- <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/vaccine-injury-compensation-programs-overwhelmed-as-congressional-reform-languishes-00033064">Vaccine injury compensation programs overwhelmed as congressional reform languishes</a> Politico: One program covers nearly three times as many vaccines today as it did when it was created three decades ago. Despite bipartisan calls for change, Congress has failed to act. 
  <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/338canada-ford-majority-ontario-00036129">338Canada: Ford on track for majority win in Ontario</a> Politico: What would it take to reduce the incumbent Progressive Conservatives to a minority? Answer: a lot.  
  <p class="updated_time"> 03:31 AM CT, Jun. 01 </p> 
@@ -342,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
  <p class="updated_time"> 08:40 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/30/uvalde-to-biden-do-something-00035874"> Uvalde to Biden: ‘Do something’</a> Politico Playbook: And DOJ says it will investigate the Uvalde shooting response. 
- <p class="updated_time"> 05:07 PM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/pelosi-husband-driving-under-influence-00035868">Pelosi’s husband arrested on suspicion of DUI in California</a> Politico: Paul Pelosi was taken into custody late Saturday in Napa County. 
 
 
 </details>
