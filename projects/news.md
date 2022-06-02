@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
+ <p class="updated_time"> 05:30 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 05:11 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
  <p class="updated_time"> 05:06 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/uk-royal-family-republicans.html">Not everyone is cheering the queen’s milestone. Some would rather abolish the monarchy.</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/anti-monarchy-queen.html">Anti-Monarchy Conference Coincides With Queen’s Platinum Jubilee</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
  <p class="updated_time"> 04:48 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on Day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
+ <p class="updated_time"> 04:42 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 04:20 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101918984/volodymyr-vs-vladimir-how-rival-statues-explain-the-russia-ukraine-conflict">Volodymyr vs. Vladimir: How rival statues explain the Russia-Ukraine conflict</a> NPR: Ukrainians call a legendary 10th-century ruler Volodymyr the Great. Russians call him Vladimir the Great. NPR correspondents report on dueling statues - and historical narratives - in Kyiv and Moscow. 
- <p class="updated_time"> 04:17 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/omicron-south-africa-antibodies.html">South Africa Was Hit by Virus Wave, Despite Most People Having Antibodies</a> NYT: Researchers say the study provides yet more evidence of the virus’s capacity to evolve and dodge immunity. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
@@ -29,26 +33,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
  <p class="updated_time"> 03:58 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61630963?at_medium=RSS&at_campaign=KARANGA">Have China's Pacific ambitions been thwarted?</a> BBC: Ten Pacific countries have declined to sign a sweeping security deal proposed by China. 
+ <p class="updated_time"> 03:42 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 03:39 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102577312/nightclub-needle-attacks-puzzle-authorities-across-europe">Nightclub needle attacks puzzle authorities across Europe</a> NPR: Targeted individuals in France, the U.K., Belgium and the Netherlands and who are mostly women, show visible marks of injection, often bruises, and report symptoms like feeling groggy. 
- <p class="updated_time"> 03:17 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 03:01 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">‘What Was the Point?’: Freed After 9 Years, Refugees Learn to Live Again</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
  <p class="updated_time"> 02:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61664991?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How long can the Western consensus hold?</a> BBC: As Russia makes some progress in Donbas, are cracks appearing in the Western consensus over Ukraine? 
+ <p class="updated_time"> 02:42 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 02:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-past-jubilees.html">What Is a Jubilee? Recalling Queen Elizabeth’s Earlier Celebrations</a> NYT: Celebrations of Queen Elizabeth II’s milestones have been national moments of reflection and celebration. 
- <p class="updated_time"> 02:17 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 02:12 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
- <p class="updated_time"> 01:17 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 01:42 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
+ <p class="updated_time"> 12:42 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61670658?at_medium=RSS&at_campaign=KARANGA">The moment earthquake hits Chinese classroom</a> BBC: The quake left at least four dead and 14 others injured when it hit south-western China. 
- <p class="updated_time"> 12:17 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 12:04 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61647425?at_medium=RSS&at_campaign=KARANGA">South Africans take law into their own hands to drive out foreigners</a> BBC: Xenophobia leads immigrants in Alexandra to live in fear. 
  <p class="updated_time"> 11:28 PM CT, Jun. 01 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61668780?at_medium=RSS&at_campaign=KARANGA">Depp-Heard trial: Jury sides mostly with Depp in defamation case</a> BBC: Jurors award Mr Depp $15m in compensatory and punitive damages, but also award Ms Heard $2m. 
  <p class="updated_time"> 07:30 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
- <p class="updated_time"> 07:25 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 06:46 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/61651016?at_medium=RSS&at_campaign=KARANGA">North Korea: The mystery of its Covid outbreak</a> BBC: The government says it has the situation under control, but what do we really know about the scale of the crisis? 
  <p class="updated_time"> 06:27 PM CT, Jun. 01 </p> 
@@ -212,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
+ <p class="updated_time"> 05:33 AM CT, Jun. 02 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/02/scoop-biden-gets-squeezed-on-potential-mbs-meeting-00036628"> SCOOP: Biden gets squeezed on potential MBS meeting</a> Politico Playbook: And the U.S. Conference of Mayors calls on the Senate to pass two gun safety bills already approved by the House. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/movies/liberal-hollywood-dog.html">Are the Movies Liberal?</a> NYT: Everyone knows Hollywood is progressive. But look at the films it churns out. They tell another story. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
@@ -227,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:15 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/martin-walsh-positive-coronavirus.html">Martin J. Walsh, Labor Secretary, Tested Positive for Coronavirus</a> NYT: The White House said that neither Labor Secretary Martin J. Walsh nor Interior Secretary Deb Haaland had been in close contact with President Biden. 
  <p class="updated_time"> 02:00 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">Deadliest Mass Shootings Are Mostly by People 21 or Younger</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">A Disturbing New Pattern in Mass Shootings: Young Assailants</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 01:20 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:00 PM CT, Jun. 01 </p> 
@@ -238,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/us/politics/beto-orourke-abbott-gun-laws.html">Beto O’Rourke Assails Governor Abbott Texas Over Texas Gun Laws</a> NYT: Since the 2019 mass shooting in El Paso, his hometown, Mr. O’Rourke has pushed for stricter gun safety. It hasn’t helped him politically — but that’s not his point. 
  <p class="updated_time"> 08:34 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/john-durham-michael-sussmann.html">Sussmann Acquittal Raises Question: What Is Durham Actually Trying to Do?</a> NYT: Supporters of the Trump-era prosecutor are lauding his work as a success in unearthing politically charged information, even though his first case to go to trial ended in failure. 
- <p class="updated_time"> 07:25 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 06:57 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/tulsa-shooting-00036585">4 killed in shooting at Tulsa medical building, shooter dead</a> Politico: Tulsa Police Department Deputy Chief Eric Dalgleish confirmed the number of dead and said the shooter also was dead. 
  <p class="updated_time"> 06:50 PM CT, Jun. 01 </p> 
@@ -324,12 +328,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
- <p class="updated_time"> 11:17 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying to the F.B.I. about his clients when he passed on a tip about possible connections between Donald J. Trump and Russia. 
  <p class="updated_time"> 07:03 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/texas-shooting-democrats-police.html">Texas Shooting Stokes Democrats’ Disagreements About the Police</a> NYT: President Biden recently issued an executive order aimed at overhauling policing. But while the move was widely praised, Democrats remain split about just how much to fund the police. 
  <p class="updated_time"> 06:04 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Coast Guard Admiral to Become First Female Service Chief, Shattering Another Glass Ceiling</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Adm. Linda Fagan to Become First Female Service Chief</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
  <p class="updated_time"> 05:43 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102289944/supreme-court-blocks-texas-social-media-law-from-taking-effect">Supreme Court blocks Texas social media law from taking effect </a> NPR: In a 5-to-4 vote, the court granted a request from Big Tech industry trade groups, which argued the law would unleash a flood of racist, hateful and other extremist content on social media platforms. 
  <p class="updated_time"> 05:42 PM CT, May. 31 </p> 
