@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
+ <p class="updated_time"> 05:06 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/uk-royal-family-republicans.html">Not everyone is cheering the queen’s milestone. Some would rather abolish the monarchy.</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
+ <p class="updated_time"> 04:48 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on Day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 04:20 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101918984/volodymyr-vs-vladimir-how-rival-statues-explain-the-russia-ukraine-conflict">Volodymyr vs. Vladimir: How rival statues explain the Russia-Ukraine conflict</a> NPR: Ukrainians call a legendary 10th-century ruler Volodymyr the Great. Russians call him Vladimir the Great. NPR correspondents report on dueling statues - and historical narratives - in Kyiv and Moscow. 
+ <p class="updated_time"> 04:17 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/omicron-south-africa-antibodies.html">South Africa Was Hit by Virus Wave, Despite Most People Having Antibodies</a> NYT: Researchers say the study provides yet more evidence of the virus’s capacity to evolve and dodge immunity. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
@@ -21,36 +29,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
  <p class="updated_time"> 03:58 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61630963?at_medium=RSS&at_campaign=KARANGA">Have China's Pacific ambitions been thwarted?</a> BBC: Ten Pacific countries have declined to sign a sweeping security deal proposed by China. 
- <p class="updated_time"> 03:44 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 03:39 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102577312/nightclub-needle-attacks-puzzle-authorities-across-europe">Nightclub needle attacks puzzle authorities across Europe</a> NPR: Targeted individuals in France, the U.K., Belgium and the Netherlands and who are mostly women, show visible marks of injection, often bruises, and report symptoms like feeling groggy. 
+ <p class="updated_time"> 03:17 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 03:01 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">‘What Was the Point?’: Freed After 9 Years, Refugees Learn to Live Again</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
  <p class="updated_time"> 02:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61664991?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How long can the Western consensus hold?</a> BBC: As Russia makes some progress in Donbas, are cracks appearing in the Western consensus over Ukraine? 
- <p class="updated_time"> 02:44 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 02:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-past-jubilees.html">What Is a Jubilee? Recalling Queen Elizabeth’s Earlier Celebrations</a> NYT: Celebrations of Queen Elizabeth II’s milestones have been national moments of reflection and celebration. 
- <p class="updated_time"> 02:21 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on Day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
+ <p class="updated_time"> 02:17 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 02:12 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
- <p class="updated_time"> 01:44 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
- <p class="updated_time"> 12:44 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 01:17 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
  <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61670658?at_medium=RSS&at_campaign=KARANGA">The moment earthquake hits Chinese classroom</a> BBC: The quake left at least four dead and 14 others injured when it hit south-western China. 
+ <p class="updated_time"> 12:17 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 12:04 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61647425?at_medium=RSS&at_campaign=KARANGA">South Africans take law into their own hands to drive out foreigners</a> BBC: Xenophobia leads immigrants in Alexandra to live in fear. 
- <p class="updated_time"> 11:44 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 11:28 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669876?at_medium=RSS&at_campaign=KARANGA">Gilberto Rodríguez Orejuela: Colombian 'Chess Player' drug lord dies in US prison</a> BBC: Gilberto Rodríguez Orejuela, 83, ran the powerful Cali cartel and was an arch-rival of Pablo Escobar. 
- <p class="updated_time"> 10:03 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
  <p class="updated_time"> 09:20 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669873?at_medium=RSS&at_campaign=KARANGA">Oklahoma hospital shooting: Four killed and multiple injured</a> BBC: Police say the suspected gunman has also died following the attack in Tulsa. 
  <p class="updated_time"> 09:06 PM CT, Jun. 01 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/middleeast/israel-emirates-uae-trade.html">Israel Signs Trade Deal With U.A.E.</a> NYT: The agreement highlighted deepening ties between Israel and parts of the Arab world. Once ratified, it will remove tariffs on 96 percent of bilateral trade, the two governments said. 
  <p class="updated_time"> 05:00 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
- <p class="updated_time"> 04:25 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Agatha Moves Across Southern Mexico as a Tropical Storm</a> NYT: The storm, which made landfall as Category 2 hurricane, was expected to move inland over the state of Oaxaca on Tuesday before dissipating. 
  <p class="updated_time"> 04:21 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/sievierodonetsk-eu-oil-embargo.html">Forces Battle for Ukraine City, as E.U. Ratchets Up Responses</a> NYT: As Russian forces advanced into Sievierodonetsk, Ukraine’s allies promised increased aid, a sharp drop in Russian oil imports and efforts to ship Ukrainian grain out of the country. 
  <p class="updated_time"> 03:50 PM CT, May. 31 </p> 
@@ -254,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/biden-administration-student-loan-debt-00036572">Biden cancels all remaining student loan debt from Corinthian Colleges</a> Politico: Largest-ever discharge of federal loans will wipe out $5.8 billion for 560,000 borrowers. 
  <p class="updated_time"> 05:52 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/baby-formula-europe-airlift.html">U.S. Will Airlift Baby Formula From Abroad as Shortages Grow Worse</a> NYT: The White House is facing new questions about whether it acted quickly enough after the leading baby formula plant shut down in February. 
+ <p class="updated_time"> 05:47 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/fetterman-will-have-announcement-soon-on-return-to-campaign-trail-00036570">Fetterman will have announcement 'soon’ on return to campaign trail</a> Politico: The Pennsylvania Democratic Senate nominee's doctors 'want him to continue to rest.' 
  <p class="updated_time"> 04:47 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/david-c-macmichael-dead.html">David C. MacMichael, C.I.A. Whistleblower, Dies at 95</a> NYT: An expert on Latin America, he left the agency and called out the Reagan administration for overselling the Communist threat in Nicaragua. 
  <p class="updated_time"> 04:47 PM CT, Jun. 01 </p> 
@@ -282,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/hinckley-freedom-shooting-reagan-00036397">Hinckley to get full freedom 41 years after shooting Reagan</a> Politico: U.S. District Court Judge Paul L. Friedman said in September that he would free Hinckley from all remaining restrictions on June 15 as long as Hinckley continued to do well living in the community in Virginia as he has for years. 
  <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/economy/biden-taiwan-trade.html">Biden Administration Begins Trade Dialogue With Taiwan</a> NYT: Talks with the self-governing island, which China claims as its territory, aim to challenge Chinese trade practices and are sure to irritate Beijing. 
+ <p class="updated_time"> 12:55 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/warning-signs-cloud-tech-industrys-supreme-court-victory-00036340">Warning signs cloud tech industry’s Supreme Court victory</a> Politico: The 5-4 decision blocking Texas’ social media law was closer than expected, and Justice Samuel Alito’s dissent suggests conservative judges may be shifting on the free speech rights of tech platforms. 
  <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 11:39 AM CT, Jun. 01 </p> 
@@ -319,8 +323,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/gun-control-debate-suburbs-elections-00036230">How the gun debate will be won or lost in the suburbs</a> Politico: With opinion essentially hardened on guns in rural and urban America, the suburbs have become the political crucible for winning support for more significant restrictions. 
- <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
  <p class="updated_time"> 11:17 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying to the F.B.I. about his clients when he passed on a tip about possible connections between Donald J. Trump and Russia. 
@@ -348,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/31/senators-zoom-but-dont-rush-on-gun-compromise-00035958">Senators Zoom, but don't rush, on gun compromise</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
- <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/peter-navarro-grand-jury-trump-00035904">Former Trump aide Navarro says he has received a grand jury subpoena related to Jan. 6</a> Politico: He claims they have asked for records of “any communications” with the former president. 
  <p class="updated_time"> 05:57 PM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/pm-trudeau-stricter-gun-rules-canada-00035900">Invoking Uvalde, Trudeau out to freeze handgun sales</a> Politico: “We need only look south of the border to know that if we do not take action, firmly and rapidly, it gets worse,” the prime minister said as he introduced new measures. 
  <p class="updated_time"> 08:40 AM CT, May. 30 </p> 
