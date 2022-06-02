@@ -9,20 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:42 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 06:50 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/02/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Pounds Forces in the East; Ukraine Battles to Regain Land in South</a> NYT: Ukraine claimed some progress in counterattacks outside the southern city of Kherson, as it tries to take advantage of Moscow’s focus on the east. Russia said the U.S. decision to send an advanced rocket system to Ukraine was an escalation of the war. 
+ <p class="updated_time"> 06:48 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Jubilee Live Updates: Elizabeth II Makes Appearance as U.K. Honors Her 70 Years as Queen</a> NYT: Britain’s longest-serving monarch appeared on the balcony of Buckingham Palace on Thursday, the first of four days of Platinum Jubilee festivities. 
  <p class="updated_time"> 06:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/sweden-feeding-guests-dinner.html">Do Swedish People Feed Their Guests?</a> NYT: After a Reddit post brought an unusual Swedish dining custom to light, Nordic people are trying to explain why they won’t share the pickled herring. 
- <p class="updated_time"> 06:25 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/06/02/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Pounds Forces in the East; Ukraine Battles to Regain Land in South</a> NYT: Ukraine claimed some progress in counterattacks outside the southern city of Kherson, as it tries to take advantage of Moscow’s focus on the east. Russia said the U.S. decision to send an advanced rocket system to Ukraine was an escalation of the war. 
  <p class="updated_time"> 06:21 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/02/1102199023/opinion-media-coverage-of-monkeypox-paints-it-as-an-african-virus-that-makes-me-">OPINION: Media coverage of monkeypox paints it as an African virus. That makes me mad</a> NPR: Dr. Ifeanyi Nsofor is a physician in Nigeria, which has seen a monkeypox outbreak over the past few years. He does not like the way the media is covering the current outbreak in Western countries. 
+ <p class="updated_time"> 05:59 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 05:54 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61671913?at_medium=RSS&at_campaign=KARANGA">Turkey wants to be called Türkiye in rebranding move</a> BBC: The country wants to be called Türkiye as part of a campaign launched by its president. 
  <p class="updated_time"> 05:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61672527?at_medium=RSS&at_campaign=KARANGA">Israel and Palestinians in flag furore amid ban move</a> BBC: The fight over whether Palestinian flags can be displayed hots up as some are publicly taken down. 
- <p class="updated_time"> 05:47 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 05:40 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 05:30 AM CT, Jun. 02 </p> 
@@ -31,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
  <p class="updated_time"> 05:06 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/anti-monarchy-queen.html">Anti-Monarchy Conference Coincides With Queen’s Platinum Jubilee</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
- <p class="updated_time"> 04:47 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 04:59 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 04:20 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101918984/volodymyr-vs-vladimir-how-rival-statues-explain-the-russia-ukraine-conflict">Volodymyr vs. Vladimir: How rival statues explain the Russia-Ukraine conflict</a> NPR: Ukrainians call a legendary 10th-century ruler Volodymyr the Great. Russians call him Vladimir the Great. NPR correspondents report on dueling statues - and historical narratives - in Kyiv and Moscow. 
@@ -43,26 +43,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102234774/former-estonian-president-speaks-about-the-war-in-ukraine-and-the-way-forward">Former Estonian president speaks about the war in Ukraine and the way forward</a> NPR: Former Estonian President Toomas Hendrik Ilves wasn't surprised Russia invaded Ukraine. In an interview on his family's farm, he says he hopes the world is waking up to the dangers Russia poses. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
+ <p class="updated_time"> 03:59 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 03:58 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61630963?at_medium=RSS&at_campaign=KARANGA">Have China's Pacific ambitions been thwarted?</a> BBC: Ten Pacific countries have declined to sign a sweeping security deal proposed by China. 
- <p class="updated_time"> 03:47 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 03:39 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102577312/nightclub-needle-attacks-puzzle-authorities-across-europe">Nightclub needle attacks puzzle authorities across Europe</a> NPR: Targeted individuals in France, the U.K., Belgium and the Netherlands and who are mostly women, show visible marks of injection, often bruises, and report symptoms like feeling groggy. 
  <p class="updated_time"> 03:01 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">Australian Refugees Learn to Live Again After 9 Years Detained</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
+ <p class="updated_time"> 02:59 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
  <p class="updated_time"> 02:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61664991?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How long can the Western consensus hold?</a> BBC: As Russia makes some progress in Donbas, are cracks appearing in the Western consensus over Ukraine? 
- <p class="updated_time"> 02:47 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
  <p class="updated_time"> 02:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-past-jubilees.html">What Is a Jubilee? Recalling Queen Elizabeth’s Earlier Celebrations</a> NYT: Celebrations of Queen Elizabeth II’s milestones have been national moments of reflection and celebration. 
  <p class="updated_time"> 02:12 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
+ <p class="updated_time"> 01:59 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 01:55 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Arabia Mulls Pumping More Oil to Offset Lost Russian Production</a> WSJ: The kingdom would tie the move to greater security guarantees from the U.S., said Persian Gulf officials. 
- <p class="updated_time"> 01:47 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 01:12 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724">Russia Pushes Forward in Donbas as Ukraine Looks to Take Back Lost Ground</a> WSJ: Moscow’s advantage in artillery enables gradual advances in fighting in eastern Ukraine that is inflicting heavy casualties on both sides. 
  <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:56 AM CT, Jun. 02 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/06/02/house-jumpstarts-action-on-guns-00036634">House jumpstarts action on guns</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:40 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 05:33 AM CT, Jun. 02 </p> 
