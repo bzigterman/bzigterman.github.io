@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:19 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 02:21 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on Day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
+ <p class="updated_time"> 02:12 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
- <p class="updated_time"> 12:59 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 01:27 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
- <p class="updated_time"> 12:56 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61670658?at_medium=RSS&at_campaign=KARANGA">The moment earthquake hits Chinese classroom</a> BBC: The quake left at least four dead and 14 others injured when it hit south-western China. 
+ <p class="updated_time"> 12:27 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 12:04 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61647425?at_medium=RSS&at_campaign=KARANGA">South Africans take law into their own hands to drive out foreigners</a> BBC: Xenophobia leads immigrants in Alexandra to live in fear. 
- <p class="updated_time"> 11:59 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
  <p class="updated_time"> 11:28 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669876?at_medium=RSS&at_campaign=KARANGA">Gilberto Rodríguez Orejuela: Colombian 'Chess Player' drug lord dies in US prison</a> BBC: Gilberto Rodriguez Orejuela, 83, ran the powerful Cali cartel and was an arch-rival of Pablo Escobar. 
- <p class="updated_time"> 10:59 PM CT, Jun. 01 </p> 
+ <p class="updated_time"> 11:27 PM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
+ <p class="updated_time"> 10:27 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
  <p class="updated_time"> 10:03 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
- <p class="updated_time"> 09:59 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
+ <p class="updated_time"> 09:27 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 09:20 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669873?at_medium=RSS&at_campaign=KARANGA">Oklahoma hospital shooting: Four killed and multiple injured</a> BBC: Police say the suspected gunman has also died following the attack in Tulsa. 
  <p class="updated_time"> 09:06 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61664500?at_medium=RSS&at_campaign=KARANGA">Bill Cosby 'pounced' on teen in Playboy Mansion</a> BBC: The comedian's lawyers dismiss the latest claim against him - stemming from 1975 - as a "fabrication". 
- <p class="updated_time"> 08:59 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 08:19 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61668780?at_medium=RSS&at_campaign=KARANGA">Depp-Heard trial: Jury sides mostly with Depp in defamation case</a> BBC: Jurors award Mr Depp $15m in compensatory and punitive damages, but also award Ms Heard $2m. 
  <p class="updated_time"> 07:30 PM CT, Jun. 01 </p> 
@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:25 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 06:46 PM CT, Jun. 01 </p> 
- <a href="https://www.bbc.co.uk/news/61651016?at_medium=RSS&at_campaign=KARANGA">North Korea: The mystery of its Covid outbreak</a> BBC: North Korea is tackling Covid cases across the country, but very little is known about the scale of the crisis. 
+ <a href="https://www.bbc.co.uk/news/61651016?at_medium=RSS&at_campaign=KARANGA">North Korea: The mystery of its Covid outbreak</a> BBC: The government says it has the situation under control, but what do we really know about the scale of the crisis? 
  <p class="updated_time"> 06:27 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669234?at_medium=RSS&at_campaign=KARANGA">Texas school shooting victim's parents mourn 'best friend'</a> BBC: The parents of Alithia Ramirez say they want the world to remember their daughter through her art. 
  <p class="updated_time"> 06:19 PM CT, Jun. 01 </p> 
@@ -133,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/middleeast/israel-blood-underground.html">Israel Moves Blood Bank Underground to Safeguard It From Attacks</a> NYT: The barrages of rockets fired at Tel Aviv last year underscored the vulnerability of a crucial national resource. 
  <p class="updated_time"> 07:10 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/australia/matauranga-maori-new-zealand.html">Can Ancient Maori Knowledge Aid Science? Ask These Freshwater Crayfish.</a> NYT: As a weed choked a New Zealand lake, a tribe found a surprising solution in a centuries-old tool, adding to a pitched debate over how Indigenous knowledge can complement conventional science. 
- <p class="updated_time"> 06:05 AM CT, Jun. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61656639?at_medium=RSS&at_campaign=KARANGA">Germans get €9-a-month travel in response to energy price rises</a> BBC: For the next three months, public transport costs are being cut to tackle the soaring cost of living. 
  <p class="updated_time"> 06:00 AM CT, Jun. 01 </p> 
  <a href="https://www.wsj.com/articles/eurozone-set-to-expand-to-croatia-next-year-11654095600">Eurozone Set to Expand to Croatia Next Year</a> WSJ: The country looks set to adopt the euro next year after European Union regulators said it met the necessary criteria, a boost for the currency bloc after years of economic crises and shocks. 
  <p class="updated_time"> 04:17 AM CT, Jun. 01 </p> 
@@ -201,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 12:30 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61640126?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fan videos of crowding and pepper spray</a> BBC: Footage from fans attending the Champions League final shows scenes of chaos. 
- <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
 
 
 </details>
@@ -210,10 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/us/politics/martin-walsh-positive-coronavirus.html">Martin J. Walsh, Labor Secretary, Tested Positive for Coronavirus</a> NYT: The White House said that neither Labor Secretary Martin J. Walsh nor Interior Secretary Deb Haaland had been in close contact with President Biden. 
+ <p class="updated_time"> 02:00 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">Deadliest Mass Shootings Are Mostly by People 21 or Younger</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 01:20 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 10:59 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/martin-walsh-positive-coronavirus.html">Martin J. Walsh, Labor Secretary, Tested Positive for Coronavirus</a> NYT: The White House said that neither Labor Secretary Martin J. Walsh nor Interior Secretary Deb Haaland had been in close contact with President Biden. 
  <p class="updated_time"> 09:00 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/alaska-house-race.html">In Alaska, the Race to Succeed Don Young Is Raucous and Crowded</a> NYT: Four dozen candidates, including Sarah Palin and Santa Claus, are facing a complex election schedule to follow the man who represented Alaska for 49 years. 
  <p class="updated_time"> 08:56 PM CT, Jun. 01 </p> 
@@ -280,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
  <p class="updated_time"> 11:39 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/nfl-commissioner-owner-to-testify-on-hostile-workplace-culture-00036311">NFL commissioner, Commanders owner asked to testify at House hearing on hostile workplace culture</a> Politico: The Oversight Committee launched an investigation into the NFL team in October following attorney Beth Wilkinson’s 10-month independent investigation into the team’s workplace culture. 
- <p class="updated_time"> 11:37 AM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
  <p class="updated_time"> 11:28 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102393824/uvalde-investigation-arredondo-cooperate">Investigators say the Uvalde school district police chief isn't talking to them</a> NPR: Pete Arredondo and his department have been under new scrutiny since DPS Director Steven McCraw said the incident commander — later confirmed to be Arredondo — made a critical error. 
  <p class="updated_time"> 11:25 AM CT, Jun. 01 </p> 
