@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:01 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">‘What Was the Point?’: Freed After 9 Years, Refugees Learn to Live Again</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
  <p class="updated_time"> 02:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61664991?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How long can the Western consensus hold?</a> BBC: As Russia makes some progress in Donbas, are cracks appearing in the Western consensus over Ukraine? 
+ <p class="updated_time"> 02:33 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
  <p class="updated_time"> 02:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-past-jubilees.html">What Is a Jubilee? Recalling Queen Elizabeth’s Earlier Celebrations</a> NYT: Celebrations of Queen Elizabeth II’s milestones have been national moments of reflection and celebration. 
  <p class="updated_time"> 02:21 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/06/01/world/russia-ukraine-war-news">What Happened on Day 98 of the War in Ukraine</a> NYT: Pitched street battles raged in Sievierodonetsk as Russian forces pushed into the city center. Germany promised Ukraine an advanced air-defense system, a day after the U.S. said it would send more powerful artillery. 
  <p class="updated_time"> 02:12 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
- <p class="updated_time"> 01:58 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212">Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</a> WSJ: Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders 
- <p class="updated_time"> 12:58 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 01:33 AM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526">Ukraine Won’t Attack Russian Territory, Zelensky Says</a> WSJ: Ukraine Won’t Attack Russian Territory, Zelensky Says 
+ <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
  <p class="updated_time"> 12:33 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61670658?at_medium=RSS&at_campaign=KARANGA">The moment earthquake hits Chinese classroom</a> BBC: The quake left at least four dead and 14 others injured when it hit south-western China. 
  <p class="updated_time"> 12:04 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61647425?at_medium=RSS&at_campaign=KARANGA">South Africans take law into their own hands to drive out foreigners</a> BBC: Xenophobia leads immigrants in Alexandra to live in fear. 
- <p class="updated_time"> 11:58 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/black-sea-grain-talks-gain-steam-as-russia-turkey-eye-cooperation-11654119652">Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation</a> WSJ: Black Sea Grain Talks Gain Steam as Russia, Turkey Eye Cooperation 
+ <p class="updated_time"> 11:33 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
  <p class="updated_time"> 11:28 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669876?at_medium=RSS&at_campaign=KARANGA">Gilberto Rodríguez Orejuela: Colombian 'Chess Player' drug lord dies in US prison</a> BBC: Gilberto Rodríguez Orejuela, 83, ran the powerful Cali cartel and was an arch-rival of Pablo Escobar. 
- <p class="updated_time"> 10:58 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-revel-in-outdoor-walks-haircuts-and-more-of-the-mundane-11654086821">Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging</a> WSJ: Shanghai’s Covid Lockdown Ends; Time for Haircuts, Dog Walking and Jogging 
+ <p class="updated_time"> 10:33 PM CT, Jun. 01 </p> 
+ <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 10:03 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
- <p class="updated_time"> 09:58 PM CT, Jun. 01 </p> 
- <a href="https://www.wsj.com/articles/french-interior-minister-apologizes-after-chaos-at-champions-league-final-11654107049">French Interior Minister Apologizes After Chaos at Champions League Final</a> WSJ: French Interior Minister Apologizes After Chaos at Champions League Final 
  <p class="updated_time"> 09:20 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669873?at_medium=RSS&at_campaign=KARANGA">Oklahoma hospital shooting: Four killed and multiple injured</a> BBC: Police say the suspected gunman has also died following the attack in Tulsa. 
  <p class="updated_time"> 09:06 PM CT, Jun. 01 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Jun. 02 </p> 
+ <a href="https://www.politico.com/news/2022/06/02/congress-pentagon-ukraine-aid-oversight-00036463">Pentagon vs. Congress tension builds over monitoring billions in Ukraine aid</a> Politico: The Hill is closely watching how the Defense Department allocates the recently passed $40 billion in aid to Ukraine, aware it's been burned in the past. 
  <p class="updated_time"> 02:15 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/martin-walsh-positive-coronavirus.html">Martin J. Walsh, Labor Secretary, Tested Positive for Coronavirus</a> NYT: The White House said that neither Labor Secretary Martin J. Walsh nor Interior Secretary Deb Haaland had been in close contact with President Biden. 
  <p class="updated_time"> 02:00 AM CT, Jun. 02 </p> 
