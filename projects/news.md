@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:31 AM CT, Jun. 02 </p> 
+ <p class="updated_time"> 11:32 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/06/02/world/russia-ukraine-war-news">Live Updates: Zelensky Says Russia Now Controls One-Fifth of Ukraine</a> NYT: As the war neared its 100th day, President Volodymyr Zelensky said Russian forces had seized 20 percent of his nation’s territory. Ukraine claimed a counteroffensive had made gains in the south, while Moscow tried to encircle a key city in the east. 
+ <p class="updated_time"> 11:21 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/tulsa-shooting-hospital.html">Man Who Killed 4 in Tulsa Medical Center Bought Rifle Hours Before Attack, Police Say</a> NYT: The gunman, who officials said was upset about the results of a recent back surgery, killed the doctor who performed the surgery and three others before killing himself. 
+ <p class="updated_time"> 11:16 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Jubilee Live Updates: Elizabeth II Makes Appearance as U.K. Honors Her 70 Years as Queen</a> NYT: Britain’s longest-serving monarch appeared on the balcony of Buckingham Palace with other members of the royal family on Thursday, the first of four days of Platinum Jubilee festivities. 
+ <p class="updated_time"> 11:00 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/climate/states-tribes-pipelines.html">E.P.A., Reversing Trump, Will Restore States’ Power to Block Pipelines</a> NYT: A proposed rule would make it easier for state officials and tribal authorities to stop pipelines and other energy projects that could pollute local waters. 
+ <p class="updated_time"> 10:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
+ <p class="updated_time"> 10:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-war-museum.html">Ukraine Tells Story of War in Museum Show</a> NYT: The exhibition, called “Crucified Ukraine,” is one of several ways that the country’s government is highlighting the devastation that its people have endured. 
  <p class="updated_time"> 10:25 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61671913?at_medium=RSS&at_campaign=KARANGA">Turkey wants to be called Türkiye in rebranding move</a> BBC: The country wants to be called Türkiye as part of a campaign launched by its president. 
  <p class="updated_time"> 09:59 AM CT, Jun. 02 </p> 
@@ -18,27 +28,25 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:54 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/arts/television/this-is-going-to-hurt.html">‘This is Going to Hurt’ Finds Dark Humor on the Maternity Ward</a> NYT: “This Is Going to Hurt,” a dramedy starring Ben Whishaw, kindled debate in Britain about hospital care for pregnant women and the pressures on doctors. 
  <p class="updated_time"> 09:54 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Jubilee Live Updates: Elizabeth II Makes Appearance as U.K. Honors Her 70 Years as Queen</a> NYT: Britain’s longest-serving monarch appeared on the balcony of Buckingham Palace with other members of the royal family on Thursday, the first of four days of Platinum Jubilee festivities. 
- <p class="updated_time"> 09:54 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 09:45 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/russia-oligarchs-yachts-sanctions.html">U.S. Imposes Sanctions on Yacht Company That Caters to Russian Elites</a> NYT: The Treasury Department also identified four yachts as being linked to President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 09:42 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
+ <p class="updated_time"> 09:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom</a> WSJ: Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom 
  <p class="updated_time"> 09:35 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102596510/turkey-changes-name-turkiye-united-nations">Turkey will now be known as Türkiye (at least at the U.N.) </a> NPR: Turkey's rebranding campaign, which began in December, is characterized as an effort to better represent its culture abroad. It also distances the country from some less-flattering associations. 
- <p class="updated_time"> 08:57 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/tulsa-shooting-hospital.html">4 Dead in Tulsa Medical Center Shooting Add to Tally of U.S. Gun Violence</a> NYT: The gunman apparently took his own life, as well, the Tulsa police said. 
  <p class="updated_time"> 08:54 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/02/1102212364/these-female-health-care-workers-won-a-huge-who-honor-theyd-like-a-raise-too">These female health-care workers won a huge WHO honor. They'd like a raise, too</a> NPR: India's all-female task force of community health-care workers won the World Health Organization's Global Health Leaders Awards. But instead of recognition, some want a better salary and benefits. 
- <p class="updated_time"> 08:42 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">OPEC+ Agrees to Increase Oil Production</a> WSJ: OPEC+ Agrees to Increase Oil Production 
+ <p class="updated_time"> 08:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968">Ukraine Security Services Hunt for Russia Supporters and Agents</a> WSJ: Ukraine Security Services Hunt for Russia Supporters and Agents 
+ <p class="updated_time"> 08:23 AM CT, Jun. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61654043?at_medium=RSS&at_campaign=KARANGA">Canada says China 'buzzing' military flights in Asia</a> BBC: Canada called the incidents unprofessional and potentially hazardous to aircrew in the Pacific. 
  <p class="updated_time"> 08:13 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61673594?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: Arthur Fraser accuses South Africa president of kidnapping and bribery</a> BBC: President Cyril Ramaphosa says claims he acted illegally over an alleged burglary have no basis. 
  <p class="updated_time"> 08:10 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102586941/afghanistan-opium-heroin-taliban-poppy-farmers-ban">Afghanistan dominates global opium production. The Taliban is shutting that down</a> NPR: After the group retook power in the country in 2021, it banned poppy cultivation. Now it's tearing the plants out, field by field. But farmers and workers worry there's no money in other crops. 
- <p class="updated_time"> 07:42 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968">Ukraine Security Services Hunt for Russia Supporters and Agents</a> WSJ: Ukraine Security Services Hunt for Russia Supporters and Agents 
+ <p class="updated_time"> 07:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/in-russia-no-air-bags-costly-toilets-and-old-hollywood-movies-are-sanctions-fallout-11654161481">In Russia, No Air Bags, Costly Toilets and Old Hollywood Movies Are Sanctions Fallout</a> WSJ: In Russia, No Air Bags, Costly Toilets and Old Hollywood Movies Are Sanctions Fallout 
  <p class="updated_time"> 07:30 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/jubilee-balcony-outfits.html">As the royals emerge on the Buckingham Palace balcony, it’s the ultimate photo op.</a> NYT: Elizabeth II was flanked by other members of the royal family, like a summer bouquet in many shades of blue, white and red. 
  <p class="updated_time"> 07:24 AM CT, Jun. 02 </p> 
@@ -49,16 +57,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61673676?at_medium=RSS&at_campaign=KARANGA">Depp-Heard trial: Why Johnny Depp lost in the UK but won in the US</a> BBC: Experts say key factors included having a jury trial and his lawyers using a specific legal tactic. 
  <p class="updated_time"> 07:05 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101712731/russia-invasion-ukraine-russian-language-culture-identity">Ukraine agonizes over Russian culture and language in its social fabric</a> NPR: A third of Ukrainians have called Russian their mother tongue. Russian statues and cultural markers abound. Are these influences inherently toxic? The war is prompting emotional conversations. 
- <p class="updated_time"> 06:42 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/in-russia-no-air-bags-costly-toilets-and-old-hollywood-movies-are-sanctions-fallout-11654161481">In Russia, No Air Bags, Costly Toilets and Old Hollywood Movies Are Sanctions Fallout</a> WSJ: In Russia, No Air Bags, Costly Toilets and Old Hollywood Movies Are Sanctions Fallout 
+ <p class="updated_time"> 06:47 AM CT, Jun. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61657945?at_medium=RSS&at_campaign=KARANGA">Brazilian state hit by floods fears more rain</a> BBC: The number of people killed in flooding in Pernambuco state reaches 120 and more rain is forecast. 
+ <p class="updated_time"> 06:38 AM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-workers-cheer-as-covid-lockdown-ends-no-more-bunking-at-the-office-11654167420">Shanghai Workers Cheer as Covid Lockdown Ends; No More Bunking at the Office</a> WSJ: Shanghai Workers Cheer as Covid Lockdown Ends; No More Bunking at the Office 
  <p class="updated_time"> 06:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/sweden-feeding-guests-dinner.html">Do Swedish People Feed Their Guests?</a> NYT: After a Reddit post brought an unusual Swedish dining custom to light, Nordic people are trying to explain why they won’t share the pickled herring. 
  <p class="updated_time"> 06:21 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/02/1102199023/opinion-media-coverage-of-monkeypox-paints-it-as-an-african-virus-that-makes-me-">OPINION: Media coverage of monkeypox paints it as an African virus. That makes me mad</a> NPR: Dr. Ifeanyi Nsofor is a physician in Nigeria, which has seen a monkeypox outbreak over the past few years. He does not like the way the media is covering the current outbreak in Western countries. 
  <p class="updated_time"> 05:51 AM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61672527?at_medium=RSS&at_campaign=KARANGA">Israel and Palestinians in flag furore amid ban move</a> BBC: The fight over whether Palestinian flags can be displayed hots up as some are publicly taken down. 
- <p class="updated_time"> 05:42 AM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-workers-cheer-as-covid-lockdown-ends-no-more-bunking-at-the-office-11654167420">Shanghai Workers Cheer as Covid Lockdown Ends; No More Bunking at the Office</a> WSJ: Shanghai Workers Cheer as Covid Lockdown Ends; No More Bunking at the Office 
  <p class="updated_time"> 05:30 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 05:11 AM CT, Jun. 02 </p> 
@@ -69,6 +77,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724">Russia Pushes Forward in Donbas as Ukraine Looks to Take Back Lost Ground</a> WSJ: Moscow’s advantage in artillery enables gradual advances in fighting in eastern Ukraine that is inflicting heavy casualties on both sides. 
  <p class="updated_time"> 04:20 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101918984/volodymyr-vs-vladimir-how-rival-statues-explain-the-russia-ukraine-conflict">Volodymyr vs. Vladimir: How rival statues explain the Russia-Ukraine conflict</a> NPR: Ukrainians call a legendary 10th-century ruler Volodymyr the Great. Russians call him Vladimir the Great. Here's a story on their dueling statues — and historical narratives — in Kyiv and Moscow. 
+ <p class="updated_time"> 04:15 AM CT, Jun. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61657944?at_medium=RSS&at_campaign=KARANGA">Colombian rescuers inch towards trapped miners</a> BBC: Fourteen miners are trapped after an explosion caused a tunnel collapse in a northern mine. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/omicron-south-africa-antibodies.html">South Africa Was Hit by Virus Wave, Despite Most People Having Antibodies</a> NYT: Researchers say the study provides yet more evidence of the virus’s capacity to evolve and dodge immunity. 
  <p class="updated_time"> 04:00 AM CT, Jun. 02 </p> 
@@ -131,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/world/europe/germany-weapons-aid-ukraine.html">Germany to Send Ukraine Missile Defense System and Radar Equipment</a> NYT: The announcement came as Chancellor Olaf Scholz faced pressure over when the government would deliver on previous weapons pledges. 
  <p class="updated_time"> 03:18 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/poland-eu-ukraine-coronavirus.html">In Concession to Poland, E.U. Opens Door to Frozen Funds</a> NYT: About $38 billion earmarked for Poland from a coronavirus recovery fund had been blocked over judicial disputes. But relations with the bloc improved over Poland’s strong stance against Russia. 
- <p class="updated_time"> 03:17 PM CT, Jun. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61655577?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia says US 'adding fuel to fire' by sending longer-range rockets</a> BBC: Moscow responds after President Biden says he will supply Kyiv with new long-range missiles. 
  <p class="updated_time"> 02:59 PM CT, Jun. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61649522?at_medium=RSS&at_campaign=KARANGA">Amber Heard and Johnny Depp's 'Trial by TikTok'</a> BBC: A jury has returned a verdict, but a parallel case in the court of public opinion continues. 
  <p class="updated_time"> 02:42 PM CT, Jun. 01 </p> 
@@ -189,10 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/hungary-oil-embargo-russia.html">Hungary’s Oil Embargo Exemption Is a Sign of Orban’s Affinity for Russia</a> NYT: Prime Minister Viktor Orban has spoken admiringly of President Vladimir Putin and expressed sympathy for his security demands to NATO. 
- <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
- <p class="updated_time"> 12:30 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61640126?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fan videos of crowding and pepper spray</a> BBC: Footage from fans attending the Champions League final shows scenes of chaos. 
 
 
 </details>
@@ -200,18 +204,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:15 AM CT, Jun. 02 </p> 
+ <a href="https://www.politico.com/news/2022/06/02/biden-weighing-primetime-address-on-guns-00036711">Biden to deliver a primetime address on guns</a> Politico: The White House had been keeping strategic distance from the legislative negotiations around guns. That will change. 
+ <p class="updated_time"> 11:06 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/us/politics/david-c-macmichael-dead.html">David C. MacMichael, C.I.A. Whistleblower, Dies at 95</a> NYT: An expert on Latin America, he left the agency and called out the Reagan administration for overselling the Communist threat in Nicaragua. 
+ <p class="updated_time"> 11:03 AM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">A Disturbing New Pattern in Mass Shootings: Young Assailants</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 10:25 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102629730/john-hinckley-reagan-free-restrictions">John Hinckley, who shot Reagan, will be free of court restrictions June 15</a> NPR: John Hinckley Jr., who shot President Ronald Reagan in 1981, is saying thank you to the people who helped him win freedom from court oversight. 
  <p class="updated_time"> 09:59 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/business/economy/jobs-wages-inflation-powell.html">Why a Not-So-Hot Economy Might Be Good News</a> NYT: As the Federal Reserve tries to rein in inflation without causing a recession, slower job creation and wage growth could be a plus. 
- <p class="updated_time"> 09:55 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/david-c-macmichael-dead.html">David C. MacMichael, C.I.A. Whistleblower, Dies at 95</a> NYT: An expert on Latin America, he left the agency and called out the Reagan administration for overselling the Communist threat in Nicaragua. 
  <p class="updated_time"> 09:54 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe’s Russian Oil Ban Could Mean a New World Order for Energy</a> NYT: The effort could hurt Russia but could also help drive up already high oil prices, hurting the global economy and enriching energy companies. 
  <p class="updated_time"> 09:45 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/russia-oligarchs-yachts-sanctions.html">U.S. Imposes Sanctions on Yacht Company That Caters to Russian Elites</a> NYT: The Treasury Department also identified four yachts as being linked to President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 09:30 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">A Disturbing New Pattern in Mass Shootings: Young Assailants</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 09:17 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102593139/white-house-interns-paid">For years White House interns have not been paid. That will soon change</a> NPR: President Joe Biden announced that White House interns will now be paid for the first time in history. Participating interns will be paid $750 per week starting this fall. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
@@ -254,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/us/john-hinckley-reagan.html">Man Who Tried to Assassinate Reagan Will Get Unconditional Release</a> NYT: Restrictions on Mr. Hinckley, who lives in Virginia, will be lifted on June 15. A federal judge said he presented no danger to himself or others. 
  <p class="updated_time"> 06:38 PM CT, Jun. 01 </p> 
  <a href="https://www.cnn.com/2022/06/01/politics/baby-formula-crisis-joe-biden/index.html">Biden concedes he didn't understand how big an effect Abbott plant shutdown would have on baby formula</a> CNN: President Joe Biden conceded Wednesday he didn't understand how big of an effect the shutdown of an Abbott baby formula plant in Michigan and subsequent recalls would have on the baby formula supply until April. 
- <p class="updated_time"> 06:07 PM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/new-york-gun-restrictions-00036503">New York jumps to pass major gun restrictions after mass shootings</a> Politico: The urgency this week comes in part from grief after the shooting in the state’s second largest city, Buffalo, in which 10 people were killed in a racist supermarket attack last month. 
  <p class="updated_time"> 06:02 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/young-kim-california-primary-republicans.html">Young Kim and Republicans Aim to Fend Off Rival to Her Right in California House Race</a> NYT: Just two years ago, Representative Young Kim was hailed as a new face of the Republican Party. But now she is threatened by redrawn district lines and a challenger running to her right. 
  <p class="updated_time"> 05:58 PM CT, Jun. 01 </p> 
@@ -280,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/jury-buffalo-shooting-terrorism-charge-00036418">Jury indicts Buffalo shooting suspect on terrorism charge</a> Politico: A grand jury charged the white 18-year-old accused of fatally shooting 10 Black people at a Buffalo supermarket with domestic terrorism motivated by hate and 10 counts of first-degree murder. 
  <p class="updated_time"> 01:49 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/abortion-rights-groups-sue-to-stop-floridas-15-week-ban-00036292">Abortion rights groups sue to stop Florida's 15-week ban</a> Politico: The new law is the strictest abortion law in state history. 
- <p class="updated_time"> 01:45 PM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/big-moneys-next-political-target-the-biggest-mayors-race-of-2022-00036275">Big-spending billionaires are upending politics. The Los Angeles mayor's race is the latest test.</a> Politico: Billionaire Rick Caruso has spent himself into contention for mayor of the nation's second-biggest city. 
  <p class="updated_time"> 01:40 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/hinckley-freedom-shooting-reagan-00036397">Hinckley to get full freedom 41 years after shooting Reagan</a> Politico: U.S. District Court Judge Paul L. Friedman said in September that he would free Hinckley from all remaining restrictions on June 15 as long as Hinckley continued to do well living in the community in Virginia as he has for years. 
  <p class="updated_time"> 01:20 PM CT, Jun. 01 </p> 
@@ -318,14 +320,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/01/1102239642/school-shooting-dunblane-massacre-uvalde-texas-gun-control">In Britain, it took just one school shooting to pass major gun control</a> NPR: After the Dunblane massacre in Scotland left 16 students dead, parents organized to make sure it could never happen again. What can the U.S learn from them as we struggle to combat gun violence? 
  <p class="updated_time"> 04:08 AM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102335318/morning-news-brief">News brief: senators consider gun deal, Shanghai reopens, queen's jubilee</a> NPR: A bipartisan group of U.S. senators delves into gun control. Shanghai residents can leave their homes after two months of lockdowns. And Queen Elizabeth celebrates her record 70 years on the throne. 
- <p class="updated_time"> 04:00 AM CT, Jun. 01 </p> 
- <a href="https://www.politico.com/news/2022/06/01/338canada-ford-majority-ontario-00036129">338Canada: Ford on track for majority win in Ontario</a> Politico: What would it take to reduce the incumbent Progressive Conservatives to a minority? Answer: a lot.  
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
+ <p class="updated_time"> 07:55 PM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/biden-ukraine-rockets-russia-00036225">Biden: U.S. will provide precision rockets to Ukraine</a> Politico: The rockets are to be used solely in Ukraine, not against targets within Russia. 
  <p class="updated_time"> 07:03 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/texas-shooting-democrats-police.html">Texas Shooting Stokes Democrats’ Disagreements About the Police</a> NYT: President Biden recently issued an executive order aimed at overhauling policing. But while the move was widely praised, Democrats remain split about just how much to fund the police. 
+ <p class="updated_time"> 06:21 PM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/white-house-biden-gas-prices-00036206">The White House has one problem that rules them all: Gas prices</a> Politico: Inside the White House, aides are debating a number of ideas. Each, they've concluded, has drawbacks or won't work. 
  <p class="updated_time"> 06:04 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Adm. Linda Fagan to Become First Female Service Chief</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
  <p class="updated_time"> 04:44 PM CT, May. 31 </p> 
@@ -338,6 +342,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/31/senators-zoom-but-dont-rush-on-gun-compromise-00035958">Senators Zoom, but don't rush, on gun compromise</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
+ <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/biden-white-house-black-staffers-00035931">Biden sees exodus of Black staffers and some frustration among those who remain</a> Politico: The White House is historically diverse. But there are concerns internally about a wave of departures and the current culture. 
  <p class="updated_time"> 05:57 PM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/pm-trudeau-stricter-gun-rules-canada-00035900">Invoking Uvalde, Trudeau out to freeze handgun sales</a> Politico: “We need only look south of the border to know that if we do not take action, firmly and rapidly, it gets worse,” the prime minister said as he introduced new measures. 
 
