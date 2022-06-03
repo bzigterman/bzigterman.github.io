@@ -439,21 +439,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Active Listings</td>
-<td class="gt_row gt_right">199</td>
-<td class="gt_row gt_right">164</td>
-<td class="gt_row gt_right">&minus;18%</td></tr>
+<td class="gt_row gt_right">206</td>
+<td class="gt_row gt_right">195</td>
+<td class="gt_row gt_right">&minus;5%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td class="gt_row gt_right gt_striped">53.0</td>
-<td class="gt_row gt_right gt_striped">39.0</td>
-<td class="gt_row gt_right gt_striped">&minus;26%</td></tr>
+<td class="gt_row gt_right gt_striped">46.0</td>
+<td class="gt_row gt_right gt_striped">37.0</td>
+<td class="gt_row gt_right gt_striped">&minus;20%</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
 <td class="gt_row gt_right">190,000</td>
 <td class="gt_row gt_right">180,000</td>
 <td class="gt_row gt_right">&minus;5%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td class="gt_row gt_right gt_striped">2.32</td>
-<td class="gt_row gt_right gt_striped">2.10</td>
-<td class="gt_row gt_right gt_striped">&minus;9%</td></tr>
+<td class="gt_row gt_right gt_striped">2.48</td>
+<td class="gt_row gt_right gt_striped">2.19</td>
+<td class="gt_row gt_right gt_striped">&minus;12%</td></tr>
   </tbody>
   
   
