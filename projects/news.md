@@ -19,12 +19,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/health/covid-vaccine-pregnancy-misinformation.html">Covid Vaccine Misinformation Still Fuels Fears Surrounding Pregnancy, a New Study Finds.</a> NYT: Health experts, including the Centers for Disease Control and Prevention, recommend that pregnant women get vaccinated against the coronavirus as soon as possible, to protect both maternal and fetal health. 
  <p class="updated_time"> 05:06 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
+ <p class="updated_time"> 04:58 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 04:51 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61687586?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: We are holding on, say Mykolaiv residents</a> BBC: Residents in the southern region of Ukraine speak of their defiance and dread as the war rages on. 
  <p class="updated_time"> 04:48 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/philippines-drug-war-raquel-fortun.html">In the Philippines, a Doctor Unearths a Drug War’s True Toll</a> NYT: Raquel Fortun, one of only two forensic pathologists in the Philippines, is using her skills to show how other doctors falsely claimed some victims of the country’s drug war had died natural deaths. 
- <p class="updated_time"> 04:34 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 04:31 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
@@ -37,14 +37,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61685383?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hungry Africans are victims of the conflict, Macky Sall tells Vladimir Putin</a> BBC: African Union head Macky Sall urges Russia's president to ease grain and fertiliser exports. 
  <p class="updated_time"> 04:03 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61684048?at_medium=RSS&at_campaign=KARANGA">Bavaria train crash: At least four killed in German rail accident</a> BBC: At least four people die and some 30 are injured after a train derails in the state of Bavaria. 
+ <p class="updated_time"> 03:58 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 03:54 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102596369/russia-ukraine-war-what-happened-today-june-3">Russia-Ukraine war: What happened today (June 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:44 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989995/u-k-is-marking-queen-elizabeths-platinum-jubilee-with-parties-parades-and-merch">U.K. is marking Queen Elizabeth's Platinum Jubilee with parties, parades — and merch</a> NPR: Britain's celebration of Queen Elizabeth's 70 years on the throne now spans four days, a parade with 1,400 troops, a concert with Duran Duran, more than 16,000 street parties and a lot of merchandise. 
  <p class="updated_time"> 03:44 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989988/ukraine-has-russian-war-wreckage-on-display-as-a-reminder">Ukraine has Russian war wreckage on display as a reminder</a> NPR: Ukrainian officials have put up a display of destroyed Russian vehicles in front of the country's Foreign Ministry, intending to show the residents Kyiv and the world that Russia can be defeated. 
- <p class="updated_time"> 03:34 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989974/this-australian-candy-shop-has-mesmerized-the-internet">This Australian candy shop has mesmerized the internet</a> NPR: After nearing a lockdown-induced bankruptcy, millions of people around the world now follow this Australian candy shop on social media. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
@@ -53,30 +53,30 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102989946/canadas-proposed-bill-would-freeze-the-sale-or-purchase-of-handguns">Canada's proposed bill would freeze the sale or purchase of handguns</a> NPR: NPR's Mary Louise Kelly speaks with Canadian Minister of Public Safety Marco Mendicino about a bill that would place a national freeze on handgun ownership across Canada. 
  <p class="updated_time"> 03:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-critics-arrests.html">Thousands Swept Up as Kremlin Clamps Down on War Criticism</a> NYT: The arrests are a stark gauge of how the Kremlin has intensified repression of critics. At least 50 people now face years-long prison sentences. 
+ <p class="updated_time"> 02:58 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 02:56 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102935668/russia-ukraine-war-100-days-refugees-ukrainians-return">100 days after Ukraine was plunged into war, over 2 million Ukrainians have returned</a> NPR: "In recent weeks more people have been returning to Ukraine than leaving the country," according to the European Border and Coast Guard Agency. 
- <p class="updated_time"> 02:34 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 02:03 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685117?at_medium=RSS&at_campaign=KARANGA">US shootings: Firm unveils plans for Taser-armed drones</a> BBC: The plan unveiled by the firm's CEO following a school shooting raised alarm at Taser's ethics board. 
+ <p class="updated_time"> 01:58 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 01:56 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
- <p class="updated_time"> 01:34 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 01:32 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61686639?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa apologises to Liverpool and Real Madrid fans</a> BBC: Uefa apologises to Liverpool and Real Madrid fans "who had to experience or witness frightening and distressing events" at last Saturday's Champions League final. 
  <p class="updated_time"> 01:22 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 01:15 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
+ <p class="updated_time"> 12:58 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 12:44 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/magazine/ukraine-afghanistan-refugees-new-york.html">They Fled Danger for New York. When Will Their New Lives Start?</a> NYT: Nothing about moving to New York is easy — especially for those fleeing Ukraine and Afghanistan. But locals do what they can to help. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/canada-british-monarchy-queen.html">Most Canadians Want to See the British Monarchy Come to an End</a> NYT: In a recent poll, 67 percent of respondents said they opposed the idea of Charles succeeding his mother to become Canada’s king. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685643?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl scarred by Russian troops' damage and looting</a> BBC: Ukraine says the Russian army stole much equipment from Chernobyl but the radiation level is safe. 
- <p class="updated_time"> 12:34 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 12:28 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685718?at_medium=RSS&at_campaign=KARANGA">Champions League Final: Harrowing accounts of post-match violence spark debate</a> BBC: UFC fighter Paddy Pimblett tells French media men with weapons were attacking and robbing fans. 
  <p class="updated_time"> 12:19 PM CT, Jun. 03 </p> 
@@ -111,6 +111,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/prince-harry-meghan-markle.html">Prince Harry and Meghan Make Their First Appearance at the Jubilee</a> NYT: The appearance by Prince Harry and his wife, Meghan, at St. Paul’s Cathedral on Friday was their first official royal outing since early 2020. 
  <p class="updated_time"> 06:26 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
+ <p class="updated_time"> 06:17 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/iran-probes-revolutionary-guard-commanders-death-11654269443">Iran Probes Revolutionary Guard Commander's Death</a> WSJ: Iranian authorities launched an investigation into what they called the suspicious death of an IRGC commander at his home near Tehran, two weeks after another guards member was fatally shot on the street. 
  <p class="updated_time"> 06:00 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/03/1102405433/work-culture-sang-work-ethic-chinese-culture">Hard work is a point of pride in China. But a culture of slacking off is now in vogue</a> NPR: Younger workers are questioning the benefits of the daily grind as they face worsening prospects. The rise of "Sang culture" embodies the frustration and soul-crushing weariness. 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
@@ -214,6 +216,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/cia-gina-haspel-black-site.html">Gina Haspel Observed Waterboarding at C.I.A. Black Site, Psychologist Testifies</a> NYT: The testimony emerged in pretrial hearings in the Cole bombing case at Guantánamo Bay, where the war court is wrestling with the legacy of torture after 9/11. 
  <p class="updated_time"> 05:21 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103025750/fda-investigation-baby-formula-shortage">The FDA is facing an investigation into its handling of the baby formula shortage</a> NPR: The Department of Health and Human Services wants to know if the FDA followed its rules and procedures in investigating the contamination of baby formula and recalling it. 
  <p class="updated_time"> 05:19 PM CT, Jun. 03 </p> 
@@ -358,8 +362,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
- <p class="updated_time"> 05:36 PM CT, May. 31 </p> 
- <a href="https://www.cnn.com/2022/05/31/politics/senate-gun-laws-legislation-what-matters/index.html">The search is on for a gun bill that can actually pass the Senate</a> CNN: Canada is moving in the direction of other developed countries that suffered mass shootings and looking to severely restrict access to handguns. 
 
 
 </details>
