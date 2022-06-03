@@ -9,24 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:07 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 09:59 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/06/02/world/russia-ukraine-war-news">Live Updates: As War Rages Into Its 100th Day, Russia Now Controls a Fifth of Ukraine</a> NYT: While President Volodymyr Zelensky acknowledged Russian gains, Ukrainian forces pressed a counteroffensive in the south. The African Union’s leader is set to meet with President Vladimir V. Putin and urge him to release Ukraine’s grain. 
- <p class="updated_time"> 08:33 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 09:40 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
+ <p class="updated_time"> 09:37 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Britain Celebrates Platinum Jubilee for Elizabeth II, but She Will Miss Events on Friday</a> NYT: Britain’s longest-serving monarch will skip a thanksgiving service at St. Paul’s Cathedral after experiencing discomfort from the first day of festivities. 
+ <p class="updated_time"> 09:37 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/anti-monarchy-queen.html">Anti-Monarchy Conference Coincides With Queen’s Platinum Jubilee</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
+ <p class="updated_time"> 09:34 PM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
+ <p class="updated_time"> 08:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom</a> WSJ: Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom 
  <p class="updated_time"> 08:26 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61678983?at_medium=RSS&at_campaign=KARANGA">Biden urges ban on assault-style weapons and gun age limits</a> BBC: The US president says too many places in America have become "killing fields". 
- <p class="updated_time"> 08:25 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Britain Celebrates Platinum Jubilee for Elizabeth II, but She Will Miss Events on Friday</a> NYT: Britain’s longest-serving monarch will skip a thanksgiving service at St. Paul’s Cathedral after experiencing discomfort from the first day of festivities. 
  <p class="updated_time"> 08:25 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
  <p class="updated_time"> 08:00 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61678929?at_medium=RSS&at_campaign=KARANGA">Pride month: Kuwait criticises US embassy over pro-LGBT tweets</a> BBC: Two rainbow flag posts for Pride month were condemned by Kuwait officials for "supporting homosexuality". 
- <p class="updated_time"> 07:33 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom</a> WSJ: Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom 
+ <p class="updated_time"> 07:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/eu-approves-russia-sanctions-package-including-phased-oil-embargo-11654179302">EU Approves Russia Sanctions Package, Including Phased Oil Embargo</a> WSJ: EU Approves Russia Sanctions Package, Including Phased Oil Embargo 
  <p class="updated_time"> 06:56 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/tulsa-shooting-hospital.html">‘Not if but When’: More Mass Shootings Add to Weary Nation’s Grief</a> NYT: The killing of four people at a medical building in Tulsa, Okla., added to a relentless toll of recent mass violence in the United States. 
- <p class="updated_time"> 06:33 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/eu-approves-russia-sanctions-package-including-phased-oil-embargo-11654179302">EU Approves Russia Sanctions Package, Including Phased Oil Embargo</a> WSJ: EU Approves Russia Sanctions Package, Including Phased Oil Embargo 
+ <p class="updated_time"> 06:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/monkeypox-resurfaced-in-nigeria-after-four-decades-researchers-still-dont-know-why-11654188488">Monkeypox Resurfacing in Nigeria Baffles Researchers</a> WSJ: Monkeypox Resurfacing in Nigeria Baffles Researchers 
  <p class="updated_time"> 06:11 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638389?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How Russian TV has reported the 100 days of conflict</a> BBC: TV viewers in Russia see only the Kremlin’s version of events in Ukraine. 
  <p class="updated_time"> 06:09 PM CT, Jun. 02 </p> 
@@ -45,8 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61659908?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 27 May - 2 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:01 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-war-museum.html">Ukraine Tells Story of War in Museum Show</a> NYT: The exhibition, called “Crucified Ukraine,” is one of several ways that the country’s government is highlighting the devastation that its people have endured. 
- <p class="updated_time"> 05:33 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/monkeypox-resurfaced-in-nigeria-after-four-decades-researchers-still-dont-know-why-11654188488">Monkeypox Resurfacing in Nigeria Baffles Researchers</a> WSJ: Monkeypox Resurfacing in Nigeria Baffles Researchers 
+ <p class="updated_time"> 05:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-nears-launch-of-advanced-aircraft-carrier-satellite-images-show-11654186451">China Nears Launch of Advanced Aircraft Carrier, Images Show</a> WSJ: China Nears Launch of Advanced Aircraft Carrier, Images Show 
  <p class="updated_time"> 05:05 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61675915?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Russia controls a fifth of Ukrainian territory</a> BBC: Russian forces are intensifying attacks on the city of Severodonetsk in the eastern Donbas region. 
  <p class="updated_time"> 05:04 PM CT, Jun. 02 </p> 
@@ -55,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/turkiye-turkey-united-nations.html">Now It’s Türkiye, Not Turkey, at the United Nations</a> NYT: The Turkish government wants the rest of the world to use the country’s own name for itself, and lose the association with a certain bird. 
  <p class="updated_time"> 04:48 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61654043?at_medium=RSS&at_campaign=KARANGA">Canada says China 'buzzing' military flights in Asia</a> BBC: Canada called the incidents unprofessional and potentially hazardous to aircrew in the Pacific. 
- <p class="updated_time"> 04:33 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/china-nears-launch-of-advanced-aircraft-carrier-satellite-images-show-11654186451">China Nears Launch of Advanced Aircraft Carrier, Images Show</a> WSJ: China Nears Launch of Advanced Aircraft Carrier, Images Show 
  <p class="updated_time"> 04:18 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102730389/tensions-around-the-war-in-ukraine-are-impacting-the-sports-world">Tensions around the war in Ukraine are impacting the sports world</a> NPR: If you wanted to forget the Ukraine war by watching a little tennis, forget it. The war is affecting everything, including professional sports. 
  <p class="updated_time"> 04:15 PM CT, Jun. 02 </p> 
@@ -82,7 +86,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:10 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html">U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability</a> NYT: Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years. 
  <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/americas/canada-gun-buyback-parliament.html">Why Canada Races on Gun Policy When America Crawls</a> NYT: The speed of policymaking in Canada, and its frequent deadlock in the U.S., may come down to the rules of their political systems. 
+ <a href="https://www.nytimes.com/2022/06/02/world/americas/canada-gun-buyback-parliament.html">Why Canada Races on Gun Policy When America Crawls </a> NYT: The speed of policymaking in Canada, and its frequent deadlock in the U.S., may come down to the rules of their political systems. 
  <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/arts/television/this-is-going-to-hurt.html">‘This is Going to Hurt’ Finds Dark Humor on the Maternity Ward</a> NYT: “This Is Going to Hurt,” a dramedy starring Ben Whishaw, kindled debate in Britain about hospital care for pregnant women and the pressures on doctors. 
  <p class="updated_time"> 12:55 PM CT, Jun. 02 </p> 
@@ -139,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61672527?at_medium=RSS&at_campaign=KARANGA">Israel and Palestinians in flag furore amid ban move</a> BBC: The fight over whether Palestinian flags can be displayed hots up as some are publicly taken down. 
  <p class="updated_time"> 05:11 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/europe/ukraine-grain-shortages.html">The Race to Free Ukraine’s Stranded Grain</a> NYT: An operation to bring grain out from Ukraine through Lithuania, with considerable political hurdles, is just one option being considered amid warnings of mass starvation around the world. 
- <p class="updated_time"> 05:06 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/anti-monarchy-queen.html">Anti-Monarchy Conference Coincides With Queen’s Platinum Jubilee</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
  <p class="updated_time"> 04:20 AM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1101918984/volodymyr-vs-vladimir-how-rival-statues-explain-the-russia-ukraine-conflict">Volodymyr vs. Vladimir: How rival statues explain the Russia-Ukraine conflict</a> NPR: Ukrainians call a legendary 10th-century ruler Volodymyr the Great. Russians call him Vladimir the Great. Here's a story on their dueling statues — and historical narratives — in Kyiv and Moscow. 
  <p class="updated_time"> 04:15 AM CT, Jun. 02 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 12:31 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/asia/shanghai-covid-lockdown-eases.html">Shanghai Reopens After Nearly 2-Month Covid Lockdown</a> NYT: With daily infections in low double digits, there’s pressure to shake the city back to life, reviving the factories, companies and supply lines vital to China’s economy. 
- <p class="updated_time"> 10:43 AM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
  <p class="updated_time"> 08:14 AM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/health/children-hepatitis-adenovirus.html">Liviah’s New Liver: A Family Grapples With a Girl’s Puzzling Hepatitis</a> NYT: A 4-year-old in Ohio is one of hundreds of children worldwide who have developed unexplained liver problems in recent months. 
  <p class="updated_time"> 07:56 AM CT, Jun. 01 </p> 
@@ -210,10 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 PM CT, Jun. 02 </p> 
+ <a href="https://www.cnn.com/2022/06/02/politics/meadows-texts-january-6-trump-stop-violence/index.html">Republicans who texted Meadows with urgent pleas on January 6 say Trump could have stopped the violence </a> CNN: Within minutes of the US Capitol breach on January 6, 2021, messages began pouring into the cell phone of White House chief of staff Mark Meadows. Among those texting were Republican members of Congress, former members of the Trump administration, GOP activists, Fox personalities -- even the President's son. Their texts all carried the same urgent plea: President Donald Trump needed to immediately denounce the violence and tell the mob to go home. 
  <p class="updated_time"> 09:29 PM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:23 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-speech-transcript-gun-control.html">Full Transcript: Biden’s Speech on Gun Control</a> NYT: As the nation grieves for the victims of several recent mass shootings, the president called for a ban on assault weapons and new “red flag” laws. 
+ <p class="updated_time"> 08:44 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-guns-speech.html">Biden Will Urge Lawmakers to Pass Gun Laws in Speech on Mass Shootings</a> NYT: President Biden urged lawmakers to stop the sale of assault-style weapons, expand universal background checks and pass “red flag” laws after last month’s massacres in Texas and New York. 
  <p class="updated_time"> 07:20 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/bay-area-county-revives-indoor-mask-order-00036850">Bay Area county revives indoor mask order</a> Politico: Alameda County in Northern California becomes the first large jurisdiction to revive its mask mandate. 
  <p class="updated_time"> 07:08 PM CT, Jun. 02 </p> 
@@ -248,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/02/economic-recovery-buoy-social-security-medicare-00036806">Economic recovery buoys Social Security, Medicare</a> Politico: The report projects that the retirement program’s combined reserves will be depleted by 2035, one year later than was projected last August. 
  <p class="updated_time"> 03:17 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102587475/russia-ukraine-war-what-happened-today-june-2">Russia-Ukraine war: What happened today (June 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 02:57 PM CT, Jun. 02 </p> 
- <a href="https://www.cnn.com/2022/06/02/politics/meadows-texts-january-6-trump-stop-violence/index.html">Republicans who texted Meadows with urgent pleas on January 6 say Trump could have stopped the violence </a> CNN: Within minutes of the US Capitol breach on January 6, 2021, messages began pouring into the cell phone of White House chief of staff Mark Meadows. Among those texting were Republican members of Congress, former members of the Trump administration, GOP activists, Fox personalities -- even the President's son. Their texts all carried the same urgent plea: President Donald Trump needed to immediately denounce the violence and tell the mob to go home. 
  <p class="updated_time"> 02:44 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/russia-oligarchs-yachts-sanctions.html">U.S. Imposes Sanctions on Yacht Company That Caters to Russian Elites</a> NYT: The Treasury Department also identified four yachts as being linked to President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 02:42 PM CT, Jun. 02 </p> 
@@ -268,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/02/opec-agrees-to-pump-more-oil-ahead-of-possible-biden-middle-east-trip-00036694">OPEC+ agrees to pump more oil ahead of possible Biden Middle East trip</a> Politico: The White House offered measured praise for the move, giving credit to Riyadh for acknowledging tight market conditions and pushing OPEC members to boost their production. 
  <p class="updated_time"> 11:08 AM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/avenatti-4-years-prison-for-cheating-stormy-daniels-00036705">Avenatti gets 4 years in prison for cheating Stormy Daniels</a> Politico: The judge said Avenatti’s crime against Daniels was made “out of desperation” when his law firm was struggling. 
- <p class="updated_time"> 11:06 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/david-c-macmichael-dead.html">David C. MacMichael, C.I.A. Whistleblower, Dies at 95</a> NYT: An expert on Latin America, he left the agency and called out the Reagan administration for overselling the Communist threat in Nicaragua. 
  <p class="updated_time"> 11:03 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">Deadliest Mass Shootings Are Mostly by People 21 or Younger</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 11:01 AM CT, Jun. 02 </p> 
@@ -340,6 +340,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/dems-sweat-gop-surge-in-south-texas-special-00036203">Dems sweat GOP surge in South Texas special election</a> Politico: Rep. Vicente Gonzalez (D-Texas) is warning his party of a "self-inflicted tragedy" in the making among Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/murphy-blumenthal-gun-safety-talks-uvalde-deal-00036131">Weary and doubting, gun safety activists try to trust the Senate</a> Politico: “We can't just check the box” after the Uvalde shooting, said one influential advocate who lost his son. “But we can't also do nothing.” 
+ <p class="updated_time"> 06:04 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/coast-guard-commandant-linda-fagan.html">Coast Guard Admiral to Become First Female Service Chief, Shattering Another Glass Ceiling</a> NYT: In 1985, the service had no gender-based prohibitions on where women could go. That cleared the way for Admiral Linda L. Fagan to rise to the top. 
  <p class="updated_time"> 04:44 PM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/mccormick-oz-supremecourt-recount-pennsylvania-00036128">Pa. GOP Senate race upended by court cases</a> Politico: Supreme Court Justice Samuel Alito dealt a blow to David McCormick's campaign Tuesday with a critical federal ruling. 
  <p class="updated_time"> 04:10 PM CT, May. 31 </p> 
