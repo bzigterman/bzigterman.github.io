@@ -21,11 +21,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
  <p class="updated_time"> 09:12 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
- <p class="updated_time"> 08:43 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 08:56 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
- <p class="updated_time"> 07:43 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 07:56 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/video/headline/EFF9FCAE-5216-4667-8579-C516E1AB025F.html">The Wealth of Queen Elizabeth II, Explained</a> WSJ: The Wealth of Queen Elizabeth II, Explained 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/queen-elizabeth-jubilee-caribbean.html">Caribbean Nations Reassess British Crown, in Wake of Black Lives Matter</a> NYT: Public sentiment toward the monarchy has soured in the region, and calls for reparations for Britain’s often brutal role in the slave trade have been rising. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 06:57 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61680790?at_medium=RSS&at_campaign=KARANGA">Lagos okadas: Nigeria crushes 2,000 motorcycle taxis</a> BBC: More than 2,000 bikes are being destroyed after a Nigerian man was killed in a row over fares. 
- <p class="updated_time"> 06:43 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 06:56 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/shanghai-residents-flood-city-streets-on-first-holiday-after-covid-lockdown-11654262213">Shanghai Residents Flood City on First Holiday After Covid Lockdown</a> WSJ: Shanghai Residents Flood City on First Holiday After Covid Lockdown 
  <p class="updated_time"> 06:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/prince-harry-meghan-markle.html">Prince Harry and Meghan Make Their First Appearance at the Jubilee</a> NYT: The appearance by Prince Harry and his wife, Meghan, at St. Paul’s Cathedral on Friday was their first official royal outing since early 2020. 
@@ -45,7 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61681762?at_medium=RSS&at_campaign=KARANGA">Real Madrid ask France for Stade de France answers</a> BBC: Real Madrid have asked for answers into the "series of unfortunate events" at the Champions League final against Liverpool in Paris. 
  <p class="updated_time"> 06:00 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/03/1102405433/work-culture-sang-work-ethic-chinese-culture">Hard work is a point of pride in China. But a culture of slacking off is now in vogue</a> NPR: Younger workers are questioning the benefits of the daily grind as they face worsening prospects. The rise of "Sang culture" embodies the frustration and soul-crushing weariness. 
- <p class="updated_time"> 05:43 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 05:56 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/north-korea-presses-ahead-with-nuclear-test-preparations-u-s-says-11654247247">North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says</a> WSJ: North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-will-skip-a-church-service-on-friday-after-discomfort-during-jubilee-ceremony.html">Queen Elizabeth will skip Friday’s church service after ‘discomfort’ during the jubilee’s first day.</a> NYT: The queen will not attend a thanksgiving service on Friday that is a major event of her Platinum Jubilee. 
@@ -273,7 +273,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:11 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
  <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address follows recent mass shootings in New York, Texas, and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
+ <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address followed recent mass shootings in New York, Texas and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
  <p class="updated_time"> 04:20 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/attack-ads-mccormick-dr-oz.html">Democrats Attack Both Oz and McCormick in Pennsylvania Senate Race Ads</a> NYT: Ads criticizing both Dr. Mehmet Oz and David McCormick preview how the general election could unfold in a critical midterm Senate contest. 
  <p class="updated_time"> 04:14 PM CT, Jun. 02 </p> 
@@ -309,7 +309,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:59 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/business/economy/jobs-wages-inflation-powell.html">Why a Not-So-Hot Economy Might Be Good News</a> NYT: As the Federal Reserve tries to rein in inflation without causing a recession, slower job creation and wage growth could be a plus. 
  <p class="updated_time"> 09:17 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102593139/white-house-interns-paid">For years White House interns have not been paid. That will soon change</a> NPR: President Joe Biden announced that White House interns will now be paid for the first time in history. Participating interns will be paid $750 per week starting this fall. 
+ <a href="https://www.npr.org/2022/06/02/1102593139/white-house-interns-paid">For years White House interns have not been paid. That will soon change</a> NPR: President Biden announced that White House interns will now be paid for the first time in history. Participating interns will be paid $750 per week starting this fall. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/05/26/politics/biden-student-loan-debt-forgiveness-complications/index.html">Biden is considering canceling some student debt. Here's why it might not be such a great idea</a> CNN: President Joe Biden is considering canceling some federal student loan debt, suggesting a once pie-in-the-sky idea is closer than ever to becoming reality. 
  <p class="updated_time"> 07:05 AM CT, Jun. 02 </p> 
