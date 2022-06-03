@@ -9,41 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 AM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: African Union Leader to Appeal to Putin Over Food Concerns</a> NYT: On the 100th day of the war, Russian troops are making slow but substantial gains. The U.N. has warned that the naval blockade of Ukraine could lead to famine around the world. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/great-paul-st-pauls-cathedral-london.html">What to Know About Great Paul Bell at St. Paul’s Cathedral</a> NYT: The London cathedral’s bronze bell, weighing over 16 tons, is the largest bell ever cast in the British Isles. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/philippines-drug-war-raquel-fortun.html">In the Philippines, a Doctor Unearths a Drug War’s True Toll</a> NYT: Raquel Fortun, one of only two forensic pathologists in the Philippines, is using her skills to show how other doctors falsely claimed some victims of the country’s drug war had died natural deaths. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/travel/iceland-drive-diamond-circle.html">Driving Iceland’s Overlooked North</a> NYT: For those seeking an alternative to the popular Golden Circle, the Diamond Circle winds through volcanic landscapes featuring powerful waterfalls, misty vistas and sulfurous pools. 
- <p class="updated_time"> 03:56 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: African Union Leader to Appeal to Putin Over Food Concerns</a> NYT: On the 100th day of the war, Russian troops are making slow but substantial gains. The U.N. has warned that the naval blockade of Ukraine could lead to famine around the world. 
  <p class="updated_time"> 03:50 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61679435?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Hong Kong students hide tiny "democracy goddesses" on campus</a> BBC: The anonymous acts in Hong Kong defy authorities' crackdown on public commemoration of the killings. 
  <p class="updated_time"> 03:43 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Desperate to Flee Attacks, Kashmir Hindus Say Officials Lock the Exits</a> NYT: Decades after militant violence forced Hindus out of the disputed region, they have been shaken by an intensifying string of targeted killings. 
+ <p class="updated_time"> 03:36 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
  <p class="updated_time"> 03:28 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61678983?at_medium=RSS&at_campaign=KARANGA">Biden urges ban on assault-style weapons and gun age limits</a> BBC: The US president says too many places in America have become "killing fields". 
  <p class="updated_time"> 03:20 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">Refugees in Australia Learn to Live Again After 9 Years Detained</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
- <p class="updated_time"> 03:17 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
  <p class="updated_time"> 03:12 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-61680199?at_medium=RSS&at_campaign=KARANGA">Dr Ringo Starr: Beatles drummer gets honorary doctorate</a> BBC: The Beatles drummer receives an honorary doctorate from the Berklee Academy of Music in Boston. 
  <p class="updated_time"> 02:46 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 02:44 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
- <p class="updated_time"> 02:17 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 02:36 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom</a> WSJ: Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom 
- <p class="updated_time"> 01:17 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 01:36 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/eu-approves-russia-sanctions-package-including-phased-oil-embargo-11654179302">EU Approves Russia Sanctions Package, Including Phased Oil Embargo</a> WSJ: EU Approves Russia Sanctions Package, Including Phased Oil Embargo 
+ <p class="updated_time"> 12:36 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/monkeypox-resurfaced-in-nigeria-after-four-decades-researchers-still-dont-know-why-11654188488">Monkeypox Resurfacing in Nigeria Baffles Researchers</a> WSJ: Monkeypox Resurfacing in Nigeria Baffles Researchers 
  <p class="updated_time"> 12:19 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows India woman risking life for water</a> BBC: It shows the woman going down a well without a rope or harness to access water. 
- <p class="updated_time"> 12:17 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/monkeypox-resurfaced-in-nigeria-after-four-decades-researchers-still-dont-know-why-11654188488">Monkeypox Resurfacing in Nigeria Baffles Researchers</a> WSJ: Monkeypox Resurfacing in Nigeria Baffles Researchers 
  <p class="updated_time"> 11:41 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61671917?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv’s emergence from the shadow of war</a> BBC: As the threat of Russia’s invasion loomed, Kyiv refused to cower. But then it was forced to adapt. 
- <p class="updated_time"> 11:17 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 11:36 PM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/china-nears-launch-of-advanced-aircraft-carrier-satellite-images-show-11654186451">China Nears Launch of Advanced Aircraft Carrier, Images Show</a> WSJ: China Nears Launch of Advanced Aircraft Carrier, Images Show 
  <p class="updated_time"> 10:58 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61679043?at_medium=RSS&at_campaign=KARANGA">Republican pulls out guns during Congress debate on new gun laws</a> BBC: Florida Representative Greg Steube shows off handguns while arguing against new gun legislation. 
@@ -308,6 +308,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/tulsa-shooting-00036585">4 killed in shooting at Tulsa medical building, shooter dead</a> Politico: Tulsa Police Department Deputy Chief Eric Dalgleish confirmed the number of dead and said the shooter also was dead. 
  <p class="updated_time"> 06:50 PM CT, Jun. 01 </p> 
  <a href="https://www.npr.org/2022/06/01/1102405655/gop-lawsuit-halts-most-migration-from-mexico-yet-desperate-people-continue-to-cr">GOP lawsuit halts most migration from Mexico. Yet, desperate people continue to cross</a> NPR: A Tucson, Ariz. shelter for migrant asylum seekers crossing into the US is seeing record capacity, despite a federal judge's order upholding Trump-era public health border restrictions. 
+ <p class="updated_time"> 05:58 PM CT, Jun. 01 </p> 
+ <a href="https://www.politico.com/news/2022/06/01/biden-administration-student-loan-debt-00036572">Biden cancels all remaining student loan debt from Corinthian Colleges</a> Politico: Largest-ever discharge of federal loans will wipe out $5.8 billion for 560,000 borrowers. 
  <p class="updated_time"> 05:52 PM CT, Jun. 01 </p> 
  <a href="https://www.nytimes.com/2022/06/01/us/politics/baby-formula-europe-airlift.html">U.S. Will Airlift Baby Formula From Abroad as Shortages Grow Worse</a> NYT: The White House is facing new questions about whether it acted quickly enough after the leading baby formula plant shut down in February. 
  <p class="updated_time"> 05:47 PM CT, Jun. 01 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/01/abortion-rights-groups-sue-to-stop-floridas-15-week-ban-00036292">Abortion rights groups sue to stop Florida's 15-week ban</a> Politico: The new law is the strictest abortion law in state history. 
  <p class="updated_time"> 12:55 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/warning-signs-cloud-tech-industrys-supreme-court-victory-00036340">Warning signs cloud tech industry’s Supreme Court victory</a> Politico: The 5-4 decision blocking Texas’ social media law was closer than expected, and Justice Samuel Alito’s dissent suggests conservative judges may be shifting on the free speech rights of tech platforms. 
- <p class="updated_time"> 12:44 PM CT, Jun. 01 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/nuclear-arms-treaties.html">Putin’s Threats Highlight the Dangers of a New, Riskier Nuclear Era</a> NYT: After generations of stability in nuclear arms control, a warning to Russia from President Biden shows how old norms are eroding. 
  <p class="updated_time"> 11:39 AM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/nfl-commissioner-owner-to-testify-on-hostile-workplace-culture-00036311">NFL commissioner, Commanders owner asked to testify at House hearing on hostile workplace culture</a> Politico: The Oversight Committee launched an investigation into the NFL team in October following attorney Beth Wilkinson’s 10-month independent investigation into the team’s workplace culture. 
  <p class="updated_time"> 11:16 AM CT, Jun. 01 </p> 
