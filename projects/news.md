@@ -9,52 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Jubilee Live Updates: St. Paul’s Service Celebrates Queen in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 09:26 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
+ <p class="updated_time"> 10:30 AM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61680965?at_medium=RSS&at_campaign=KARANGA">French police find arms haul raiding far-right gang</a> BBC: Authorities say the group went on a "Jew hunt" during a football match in Strasbourg. 
+ <p class="updated_time"> 10:22 AM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61684804?at_medium=RSS&at_campaign=KARANGA">Osinachi Nwachuwku: Husband denies killing Nigeria gospel star</a> BBC: Osinachi Nwachuwku's death in April sparked outrage amid reports she was a victim of domestic abuse. 
+ <p class="updated_time"> 10:19 AM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61684048?at_medium=RSS&at_campaign=KARANGA">Bavaria train crash: At least four killed in German rail accident</a> BBC: At least four people die and some 30 are injured after a train derails in the state of Bavaria. 
+ <p class="updated_time"> 10:13 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: On 100th Day of War, Russian Firepower Drives Gains in the East</a> NYT: As Russian troops advance gradually in eastern Ukraine, Africa appeals to President Vladimir V. Putin for relief from the growing food shortages created by the war. 
+ <p class="updated_time"> 10:10 AM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Jubilee Live Updates: St. Paul’s Service Celebrates Queen in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
+ <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
+ <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows Indians risking life for water</a> BBC: Footage shows women scaling a well without a rope or harness to access water. 
+ <p class="updated_time"> 09:39 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
- <p class="updated_time"> 09:24 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61684048?at_medium=RSS&at_campaign=KARANGA">Bavaria train crash: At least three killed in German rail accident</a> BBC: At least three people die and some 60 are injured after a train derails in the state of Bavaria. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
- <p class="updated_time"> 09:12 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
- <p class="updated_time"> 08:56 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 08:39 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/video/headline/EFF9FCAE-5216-4667-8579-C516E1AB025F.html">The Wealth of Queen Elizabeth II, Explained</a> WSJ: The Wealth of Queen Elizabeth II, Explained 
  <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
- <p class="updated_time"> 07:56 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/video/headline/EFF9FCAE-5216-4667-8579-C516E1AB025F.html">The Wealth of Queen Elizabeth II, Explained</a> WSJ: The Wealth of Queen Elizabeth II, Explained 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/queen-elizabeth-jubilee-caribbean.html">Caribbean Nations Reassess British Crown, in Wake of Black Lives Matter</a> NYT: Public sentiment toward the monarchy has soured in the region, and calls for reparations for Britain’s often brutal role in the slave trade have been rising. 
+ <p class="updated_time"> 07:39 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-flood-city-streets-on-first-holiday-after-covid-lockdown-11654262213">Shanghai Residents Flood City on First Holiday After Covid Lockdown</a> WSJ: Shanghai Residents Flood City on First Holiday After Covid Lockdown 
  <p class="updated_time"> 07:35 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 07:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 06:57 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61680790?at_medium=RSS&at_campaign=KARANGA">Lagos okadas: Nigeria crushes 2,000 motorcycle taxis</a> BBC: More than 2,000 bikes are being destroyed after a Nigerian man was killed in a row over fares. 
- <p class="updated_time"> 06:56 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-flood-city-streets-on-first-holiday-after-covid-lockdown-11654262213">Shanghai Residents Flood City on First Holiday After Covid Lockdown</a> WSJ: Shanghai Residents Flood City on First Holiday After Covid Lockdown 
+ <p class="updated_time"> 06:39 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-presses-ahead-with-nuclear-test-preparations-u-s-says-11654247247">North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says</a> WSJ: North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says 
  <p class="updated_time"> 06:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/prince-harry-meghan-markle.html">Prince Harry and Meghan Make Their First Appearance at the Jubilee</a> NYT: The appearance by Prince Harry and his wife, Meghan, at St. Paul’s Cathedral on Friday was their first official royal outing since early 2020. 
  <p class="updated_time"> 06:26 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
- <p class="updated_time"> 06:24 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61681762?at_medium=RSS&at_campaign=KARANGA">Real Madrid ask France for Stade de France answers</a> BBC: Real Madrid have asked for answers into the "series of unfortunate events" at the Champions League final against Liverpool in Paris. 
  <p class="updated_time"> 06:00 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/03/1102405433/work-culture-sang-work-ethic-chinese-culture">Hard work is a point of pride in China. But a culture of slacking off is now in vogue</a> NPR: Younger workers are questioning the benefits of the daily grind as they face worsening prospects. The rise of "Sang culture" embodies the frustration and soul-crushing weariness. 
- <p class="updated_time"> 05:56 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/north-korea-presses-ahead-with-nuclear-test-preparations-u-s-says-11654247247">North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says</a> WSJ: North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says 
+ <p class="updated_time"> 05:39 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/train-derails-in-germany-killing-at-least-three-people-11654261719">Train Derails in Germany, Killing at Least Four People</a> WSJ: Train Derails in Germany, Killing at Least Four People 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-will-skip-a-church-service-on-friday-after-discomfort-during-jubilee-ceremony.html">Queen Elizabeth will skip Friday’s church service after ‘discomfort’ during the jubilee’s first day.</a> NYT: The queen will not attend a thanksgiving service on Friday that is a major event of her Platinum Jubilee. 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/prince-andrew-covid-positive.html">Prince Andrew Tests Positive and Will Miss Jubilee Event on Friday</a> NYT: The thanksgiving service was the only major event of the Platinum Jubilee that the prince had been expected to attend. 
  <p class="updated_time"> 05:31 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/great-paul-st-pauls-cathedral-london.html">What to Know About Great Paul Bell at St. Paul’s Cathedral</a> NYT: The London cathedral’s bronze bell, weighing over 16 tons, is the largest bell ever cast in the British Isles. 
- <p class="updated_time"> 05:31 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/train-derails-in-germany-killing-at-least-three-people-11654261719">Train Derails in Germany, Killing at Least Four People</a> WSJ: The commuter train, which was carrying a number of schoolchildren, derailed near a popular ski resort, and several railcars overturned and rolled down an embankment. 
  <p class="updated_time"> 04:44 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61681128?at_medium=RSS&at_campaign=KARANGA">Pakistani Taliban militants announce indefinite ceasefire with Islamabad</a> BBC: The ceasefire comes after negotiations in Kabul brokered by the Afghan Taliban government. 
  <p class="updated_time"> 04:36 AM CT, Jun. 03 </p> 
@@ -64,9 +70,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/travel/iceland-drive-diamond-circle.html">Driving Iceland’s Overlooked North</a> NYT: For those seeking an alternative to the popular Golden Circle, the Diamond Circle winds through volcanic landscapes featuring powerful waterfalls, misty vistas and sulfurous pools. 
  <p class="updated_time"> 03:50 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61679435?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Hong Kong students hide tiny "democracy goddesses" on campus</a> BBC: The anonymous acts in Hong Kong defy a crackdown on public commemoration of the killings. 
- <p class="updated_time"> 03:43 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Desperate to Flee Attacks, Kashmir Hindus Say Officials Lock the Exits</a> NYT: Decades after militant violence forced Hindus out of the disputed region, they have been shaken by an intensifying string of targeted killings. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61679435?at_medium=RSS&at_campaign=KARANGA">Tiny Tiananmen 'goddesses' hidden on campus</a> BBC: The anonymous acts in Hong Kong defy a crackdown on public commemoration of the killings. 
  <p class="updated_time"> 03:28 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61678983?at_medium=RSS&at_campaign=KARANGA">Biden urges ban on assault-style weapons and gun age limits</a> BBC: The US president says too many places in America have become "killing fields". 
  <p class="updated_time"> 03:20 AM CT, Jun. 03 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-how-to-watch.html">How to Watch Queen Elizabeth II’s Platinum Jubilee Events</a> NYT: Britain is honoring the monarch’s 70 years on the throne with four days of events. 
  <p class="updated_time"> 02:12 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/japans-new-thinking-on-low-birthrate-dont-worry-be-happy-11654254757">Japan's New Thinking on Low Birthrate: Don't Worry, Be Happy</a> WSJ: The country’s fertility rate hit a 16-year low during Covid-19, but the focus is now on adapting to an aging society rather than reversing it. 
- <p class="updated_time"> 12:19 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows India woman risking life for water</a> BBC: It shows the woman going down a well without a rope or harness to access water. 
  <p class="updated_time"> 11:41 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61671917?at_medium=RSS&at_campaign=KARANGA">A city set on healing after 100 days of war</a> BBC: As the threat of Russia’s invasion loomed, Kyiv refused to cower. But then it was forced to adapt. 
  <p class="updated_time"> 10:58 PM CT, Jun. 02 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/dolphins-dying-ukraine-war.html">Dead Dolphins May Be Casualties of Ukraine War, Scientist Say</a> NYT: The washing up of dolphins on the coasts of Bulgaria, Romania, Turkey and Ukraine is raising concerns that the war in may be interfering with marine life. But more research is needed, scientists say. 
  <p class="updated_time"> 02:10 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html">U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability</a> NYT: Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years. 
- <p class="updated_time"> 01:26 PM CT, Jun. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/61675668?at_medium=RSS&at_campaign=KARANGA">French Open: Amelie Mauresmo apologises for 'out of context' comments</a> BBC: French Open tournament director Amelie Mauresmo apologises for saying women's matches were less appealing than men's and says she was quoted "out of context". 
  <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/americas/canada-gun-buyback-parliament.html">Why Canada Races on Gun Policy When America Crawls </a> NYT: The speed of policymaking in Canada, and its frequent deadlock in the U.S., may come down to the rules of their political systems. 
  <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
