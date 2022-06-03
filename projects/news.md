@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/australia/when-freedom-is-only-the-beginning.html">When Freedom Is Only the Beginning</a> NYT: Refugees who’d spent years in detention had a lot of questions about their new lives in Australia. Some were easier to answer than others. 
  <p class="updated_time"> 10:42 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61679432?at_medium=RSS&at_campaign=KARANGA">North Korea assumes leadership of UN disarmament group</a> BBC: Critics have questioned Pyongyang's temporary elevation when it has been test-firing missiles all year. 
- <p class="updated_time"> 09:59 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 10:34 PM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-celebrations-kick-off-in-royal-style-11654170014">Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style</a> WSJ: Queen Elizabeth II’s Platinum Jubilee Celebrations Kick Off in Royal Style 
  <p class="updated_time"> 09:40 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/01/world/africa/dakar-biennale-senegal-art.html">At Dakar’s Biennale, the City Itself Is the Most Colorful Canvas</a> NYT: The art world has descended on the Senegalese capital for its first pandemic-era biennale, the biggest art event in West Africa, where the greatest creations on view are often found just by strolling the streets. 
@@ -23,20 +23,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/06/02/world/queen-elizabeth-jubilee">Britain Celebrates Platinum Jubilee for Elizabeth II, but She Will Miss Events on Friday</a> NYT: Britain’s longest-serving monarch will skip a thanksgiving service at St. Paul’s Cathedral after experiencing discomfort from the first day of festivities. 
  <p class="updated_time"> 09:37 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/anti-monarchy-queen.html">Anti-Monarchy Conference Coincides With Queen’s Platinum Jubilee</a> NYT: An anti-monarchy conference will coincide with events celebrating Queen Elizabeth II’s Platinum Jubilee. 
- <p class="updated_time"> 08:59 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 09:34 PM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-mulls-pumping-more-oil-to-offset-lost-russian-production-11654167323">Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom</a> WSJ: Saudi Oil Boost, Yemen Truce Set Stage for Biden Visit to Kingdom 
+ <p class="updated_time"> 08:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/eu-approves-russia-sanctions-package-including-phased-oil-embargo-11654179302">EU Approves Russia Sanctions Package, Including Phased Oil Embargo</a> WSJ: EU Approves Russia Sanctions Package, Including Phased Oil Embargo 
  <p class="updated_time"> 08:26 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61678983?at_medium=RSS&at_campaign=KARANGA">Biden urges ban on assault-style weapons and gun age limits</a> BBC: The US president says too many places in America have become "killing fields". 
  <p class="updated_time"> 08:25 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
  <p class="updated_time"> 08:00 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61678929?at_medium=RSS&at_campaign=KARANGA">Pride month: Kuwait criticises US embassy over pro-LGBT tweets</a> BBC: Two rainbow flag posts for Pride month were condemned by Kuwait officials for "supporting homosexuality". 
- <p class="updated_time"> 07:59 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/eu-approves-russia-sanctions-package-including-phased-oil-embargo-11654179302">EU Approves Russia Sanctions Package, Including Phased Oil Embargo</a> WSJ: EU Approves Russia Sanctions Package, Including Phased Oil Embargo 
- <p class="updated_time"> 06:59 PM CT, Jun. 02 </p> 
+ <p class="updated_time"> 07:34 PM CT, Jun. 02 </p> 
  <a href="https://www.wsj.com/articles/monkeypox-resurfaced-in-nigeria-after-four-decades-researchers-still-dont-know-why-11654188488">Monkeypox Resurfacing in Nigeria Baffles Researchers</a> WSJ: Monkeypox Resurfacing in Nigeria Baffles Researchers 
  <p class="updated_time"> 06:56 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/tulsa-shooting-hospital.html">‘Not if but When’: More Mass Shootings Add to Weary Nation’s Grief</a> NYT: The killing of four people at a medical building in Tulsa, Okla., added to a relentless toll of recent mass violence in the United States. 
+ <p class="updated_time"> 06:34 PM CT, Jun. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-nears-launch-of-advanced-aircraft-carrier-satellite-images-show-11654186451">China Nears Launch of Advanced Aircraft Carrier, Images Show</a> WSJ: China Nears Launch of Advanced Aircraft Carrier, Images Show 
  <p class="updated_time"> 06:11 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638389?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How Russian TV has reported the 100 days of conflict</a> BBC: TV viewers in Russia see only the Kremlin’s version of events in Ukraine. 
  <p class="updated_time"> 06:09 PM CT, Jun. 02 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61659908?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 27 May - 2 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:01 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-war-museum.html">Ukraine Tells Story of War in Museum Show</a> NYT: The exhibition, called “Crucified Ukraine,” is one of several ways that the country’s government is highlighting the devastation that its people have endured. 
- <p class="updated_time"> 05:59 PM CT, Jun. 02 </p> 
- <a href="https://www.wsj.com/articles/china-nears-launch-of-advanced-aircraft-carrier-satellite-images-show-11654186451">China Nears Launch of Advanced Aircraft Carrier, Images Show</a> WSJ: China Nears Launch of Advanced Aircraft Carrier, Images Show 
  <p class="updated_time"> 05:05 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61675915?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Russia controls a fifth of Ukrainian territory</a> BBC: Russian forces are intensifying attacks on the city of Severodonetsk in the eastern Donbas region. 
  <p class="updated_time"> 05:04 PM CT, Jun. 02 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:20 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">Deadliest Mass Shootings Are Mostly by People 21 or Younger</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 09:37 PM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/06/02/politics/meadows-texts-january-6-trump-stop-violence/index.html">Republicans who texted Meadows with urgent pleas on January 6 say Trump could have stopped the violence </a> CNN: Within minutes of the US Capitol breach on January 6, 2021, messages began pouring into the cell phone of White House chief of staff Mark Meadows. Among those texting were Republican members of Congress, former members of the Trump administration, GOP activists, Fox personalities -- even the President's son. Their texts all carried the same urgent plea: President Donald Trump needed to immediately denounce the violence and tell the mob to go home. 
  <p class="updated_time"> 09:29 PM CT, Jun. 02 </p> 
@@ -266,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/02/opec-agrees-to-pump-more-oil-ahead-of-possible-biden-middle-east-trip-00036694">OPEC+ agrees to pump more oil ahead of possible Biden Middle East trip</a> Politico: The White House offered measured praise for the move, giving credit to Riyadh for acknowledging tight market conditions and pushing OPEC members to boost their production. 
  <p class="updated_time"> 11:08 AM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/avenatti-4-years-prison-for-cheating-stormy-daniels-00036705">Avenatti gets 4 years in prison for cheating Stormy Daniels</a> Politico: The judge said Avenatti’s crime against Daniels was made “out of desperation” when his law firm was struggling. 
- <p class="updated_time"> 11:03 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/mass-shootings-young-men-guns.html">Deadliest Mass Shootings Are Mostly by People 21 or Younger</a> NYT: Six of the nine deadliest mass shootings in the United States since 2018 were by people who were 21 or younger, a shift from earlier decades. 
  <p class="updated_time"> 11:01 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/06/02/politics/read-mark-meadows-texts-january-6-capitol-riot/index.html">READ: The Meadows text messages from January 6 </a> CNN: CNN has obtained 2,319 text messages that former White House chief of staff Mark Meadows handed over to the January 6 committee that were sent and received between Election Day 2020 and President Joe Biden's inauguration, including more than 150 on January 6. 
  <p class="updated_time"> 10:25 AM CT, Jun. 02 </p> 
