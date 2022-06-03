@@ -9,8 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: On 100th Day of War, Russian Firepower Drives Gains in the East</a> NYT: As Russian troops advance gradually in eastern Ukraine, Africa appeals to President Vladimir V. Putin for relief from the growing food shortages created by the war. 
+ <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War — Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
+ <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-100-days.html">100 Days of War in Ukraine: Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
+ <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1102990029/russia-has-blocked-20-million-tons-of-grain-from-being-exported-from-ukraine">Russia has blocked 20 million tons of grain from being exported from Ukraine</a> NPR: 20 million tons of grain are trapped in Ukraine because of a Russian blockade of its ports. Getting the grain out by rail or truck is proving to be a huge logistical challenge. 
+ <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1102990015/the-eu-will-likely-bar-insurance-on-ships-carrying-russian-oil-itd-be-a-big-blow">The EU will likely bar insurance on ships carrying Russian oil. It'd be a big blow</a> NPR: The EU and U.K. want to ban insurance services for tankers carrying Russian oil by 2022's end. This would affect more than 90% of vessels carrying crude — potentially hobbling Russia's oil industry. 
+ <p class="updated_time"> 04:10 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/health/covid-vaccine-pregnancy-misinformation.html">Covid Vaccine Misinformation Still Fuels Fears Surrounding Pregnancy, a New Study Finds.</a> NYT: Health experts, including the Centers for Disease Control and Prevention, recommend that pregnant women get vaccinated against the coronavirus as soon as possible, to protect both maternal and fetal health. 
+ <p class="updated_time"> 04:03 PM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61684048?at_medium=RSS&at_campaign=KARANGA">Bavaria train crash: At least four killed in German rail accident</a> BBC: At least four people die and some 30 are injured after a train derails in the state of Bavaria. 
+ <p class="updated_time"> 03:54 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1102596369/russia-ukraine-war-what-happened-today-june-3">Russia-Ukraine war: What happened today (June 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:52 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Jubilee Live Updates: St. Paul’s Service Celebrates Queen in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
+ <p class="updated_time"> 03:44 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1102989995/u-k-is-marking-queen-elizabeths-platinum-jubilee-with-parties-parades-and-merch">U.K. is marking Queen Elizabeth's Platinum Jubilee with parties, parades — and merch</a> NPR: Britain's celebration of Queen Elizabeth's 70 years on the throne now spans four days, a parade with 1,400 troops, a concert with Duran Duran, more than 16,000 street parties and a lot of merchandise. 
+ <p class="updated_time"> 03:44 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1102989988/ukraine-has-russian-war-wreckage-on-display-as-a-reminder">Ukraine has Russian war wreckage on display as a reminder</a> NPR: Ukrainian officials have put up a display of destroyed Russian vehicles in front of the country's Foreign Ministry, intending to show the residents Kyiv and the world that Russia can be defeated. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989974/this-australian-candy-shop-has-mesmerized-the-internet">This Australian candy shop has mesmerized the internet</a> NPR: After nearing a lockdown-induced bankruptcy, millions of people around the world now follow this Australian candy shop on social media. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
@@ -19,26 +37,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102989946/canadas-proposed-bill-would-freeze-the-sale-or-purchase-of-handguns">Canada's proposed bill would freeze the sale or purchase of handguns</a> NPR: NPR's Mary Louise Kelly speaks with Canadian Minister of Public Safety Marco Mendicino about a bill that would place a national freeze on handgun ownership across Canada. 
  <p class="updated_time"> 03:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-critics-arrests.html">Thousands Swept Up as Kremlin Clamps Down on War Criticism</a> NYT: The arrests are a stark gauge of how the Kremlin has intensified repression of critics. At least 50 people now face years-long prison sentences. 
- <p class="updated_time"> 03:18 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Jubilee Live Updates: St. Paul’s Service Celebrates Queen in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
+ <p class="updated_time"> 03:19 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 02:56 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102935668/russia-ukraine-war-100-days-refugees-ukrainians-return">100 days after Ukraine was plunged into war, over 2 million Ukrainians have returned</a> NPR: "In recent weeks more people have been returning to Ukraine than leaving the country," according to the European Border and Coast Guard Agency. 
- <p class="updated_time"> 02:47 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 02:19 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in the Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in the Donbas 
  <p class="updated_time"> 02:03 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685117?at_medium=RSS&at_campaign=KARANGA">US shootings: Firm unveils plans for Taser-armed drones</a> BBC: The plan unveiled by the firm's CEO following a school shooting raised alarm at Taser's ethics board. 
  <p class="updated_time"> 01:56 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
- <p class="updated_time"> 01:47 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in the Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in the Donbas 
  <p class="updated_time"> 01:32 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61686639?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa apologises to Liverpool and Real Madrid fans</a> BBC: Uefa apologises to Liverpool and Real Madrid fans "who had to experience or witness frightening and distressing events" at last Saturday's Champions League final. 
  <p class="updated_time"> 01:22 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
+ <p class="updated_time"> 01:19 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 01:15 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
- <p class="updated_time"> 12:47 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 12:44 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/magazine/ukraine-afghanistan-refugees-new-york.html">They Fled Danger for New York. When Will Their New Lives Start?</a> NYT: Nothing about moving to New York is easy — especially for those fleeing Ukraine and Afghanistan. But locals do what they can to help. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
@@ -49,26 +65,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61685718?at_medium=RSS&at_campaign=KARANGA">Champions League Final: Harrowing accounts of post-match violence spark debate</a> BBC: UFC fighter Paddy Pimblett tells French media men with weapons were attacking and robbing fans. 
  <p class="updated_time"> 12:19 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
+ <p class="updated_time"> 12:19 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 12:14 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61669233?at_medium=RSS&at_campaign=KARANGA">Drought-stricken US warned of looming 'dead pool'</a> BBC: Tens of thousands of acres of farmland lie idle because farmers can't get enough water to grow crops. 
  <p class="updated_time"> 12:12 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61680790?at_medium=RSS&at_campaign=KARANGA">Lagos okadas: Nigeria crushes 2,000 motorcycle taxis</a> BBC: More than 2,000 bikes are destroyed after a Nigerian man was killed in a row over fares. 
- <p class="updated_time"> 11:47 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 11:44 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
+ <p class="updated_time"> 11:19 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 11:07 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685220?at_medium=RSS&at_campaign=KARANGA">100 days: Meet the baby as old as the Ukraine war</a> BBC: Born on 25 February, a child from Kyiv is growing up in a Ukraine ruptured by war. 
- <p class="updated_time"> 10:47 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
  <p class="updated_time"> 10:30 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61680965?at_medium=RSS&at_campaign=KARANGA">Machine guns found in raid on French neo-Nazi gang</a> BBC: Authorities say the group went on a "Jew hunt" during a football match in Strasbourg. 
  <p class="updated_time"> 10:22 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61684804?at_medium=RSS&at_campaign=KARANGA">Osinachi Nwachuwku: Husband denies killing Nigeria gospel star</a> BBC: Osinachi Nwachuwku's death in April sparked outrage amid reports she was a victim of domestic abuse. 
- <p class="updated_time"> 10:19 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61684048?at_medium=RSS&at_campaign=KARANGA">Bavaria train crash: At least four killed in German rail accident</a> BBC: At least four people die and some 30 are injured after a train derails in the state of Bavaria. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
@@ -177,22 +191,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/jubilee-tourists-us.html">Americans Visit London for the Queen’s Jubilee</a> NYT: They traveled from afar to celebrate Queen Elizabeth II’s 70-year reign. 
  <p class="updated_time"> 11:00 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/climate/states-tribes-pipelines.html">E.P.A., Reversing Trump, Will Restore States’ Power to Block Pipelines</a> NYT: A proposed rule would make it easier for state officials and tribal authorities to stop pipelines and other energy projects that could pollute local waters. 
- <p class="updated_time"> 09:59 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/01/world/europe/russia-oligarchs-yachts-middlemen.html">The Middlemen Helping Russian Oligarchs Get Superyachts and Villas</a> NYT: They oversee the flow of billions of dollars from Putin-connected Russians to companies involved in superyachts and villas. They’ve drawn the attention of a U.S. task force. 
- <p class="updated_time"> 09:35 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102596510/turkey-changes-name-turkiye-united-nations">Turkey will now be known as Türkiye (at least at the U.N.) </a> NPR: Turkey's rebranding campaign, which began in December, is characterized as an effort to better represent its culture abroad. It also distances the country from some less-flattering associations. 
- <p class="updated_time"> 08:54 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/02/1102212364/these-female-health-care-workers-won-a-huge-who-honor-theyd-like-a-raise-too">These female health-care workers won a huge WHO honor. They'd like a raise, too</a> NPR: India's all-female task force of community health-care workers won the World Health Organization's Global Health Leaders Awards. But instead of recognition, some want a better salary and benefits. 
- <p class="updated_time"> 08:10 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102586941/afghanistan-opium-heroin-taliban-poppy-farmers-ban">Afghanistan dominates global opium production. The Taliban is shutting that down</a> NPR: After the group retook power in the country in 2021, it banned poppy cultivation. Now it's tearing the plants out, field by field. But farmers and workers worry there's no money in other crops. 
  <p class="updated_time"> 07:30 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/jubilee-balcony-outfits.html">As the royals emerge on the Buckingham Palace balcony, it’s the ultimate photo op.</a> NYT: Elizabeth II was flanked by other members of the royal family, like a summer bouquet in many shades of blue, white and red. 
- <p class="updated_time"> 07:05 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1101712731/russia-invasion-ukraine-russian-language-culture-identity">Ukraine agonizes over Russian culture and language in its social fabric</a> NPR: A third of Ukrainians have called Russian their mother tongue. Russian statues and cultural markers abound. Are these influences inherently toxic? The war is prompting emotional conversations. 
  <p class="updated_time"> 06:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/sweden-feeding-guests-dinner.html">Do Swedish People Feed Their Guests?</a> NYT: After a Reddit post brought an unusual Swedish dining custom to light, Nordic people are trying to explain why they won’t share the pickled herring. 
- <p class="updated_time"> 06:21 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/02/1102199023/opinion-media-coverage-of-monkeypox-paints-it-as-an-african-virus-that-makes-me-">OPINION: Media coverage of monkeypox paints it as an African virus. That makes me mad</a> NPR: Dr. Ifeanyi Nsofor is a physician in Nigeria, which has seen a monkeypox outbreak over the past few years. He does not like the way the media is covering the current outbreak in Western countries. 
  <p class="updated_time"> 02:28 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-past-jubilees.html">What Is a Jubilee? Recalling Queen Elizabeth’s Earlier Celebrations</a> NYT: Celebrations of Queen Elizabeth II’s milestones have been national moments of reflection and celebration. 
  <p class="updated_time"> 06:18 PM CT, Jun. 01 </p> 
@@ -206,12 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Former Trump Adviser Charged With Contempt for Defying Jan. 6 Subpoena</a> NYT: Peter Navarro is the second associate of former President Donald J. Trump, after Stephen K. Bannon, to face criminal charges for stonewalling the inquiry into the Capitol riot. 
  <p class="updated_time"> 03:31 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/john-fetterman-heart-condition.html">Fetterman discloses extent of heart issues: ‘I avoided going to the doctor.’</a> NYT: The Democratic candidate for Senate in Pennsylvania did not give a timeline for when he would return to the campaign trail. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989925/vaccinating-young-kids-might-finally-be-possible-this-month-but-will-it-be-easy">Vaccinating young kids might finally be possible this month. But will it be easy?</a> NPR: NPR's Ailsa Chang talks with Dr. Ashish Jha, the White House COVID-19 response coordinator, about the latest guidance on children under 5 getting the vaccine to protect against COVID-19. 
- <p class="updated_time"> 03:25 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Former Trump Adviser Charged With Contempt for Defying Jan. 6 Subpoena</a> NYT: Peter Navarro is the second associate of former President Donald J. Trump, after Stephen K. Bannon, to face criminal charges for stonewalling the inquiry into the Capitol riot. 
  <p class="updated_time"> 03:08 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/trump-pence-safety-jan-6.html">Before Jan. 6, Aide Warned Secret Service of Security Risk to Pence</a> NYT: New details flesh out how the pressure campaign by Donald J. Trump and his allies to block certification of the 2020 election left the vice president’s staff fearing for his safety. 
  <p class="updated_time"> 02:51 PM CT, Jun. 03 </p> 
