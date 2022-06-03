@@ -25,27 +25,27 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows Indians risking life for water</a> BBC: Footage shows women scaling a well without a rope or harness to access water. 
- <p class="updated_time"> 09:39 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 09:52 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
- <p class="updated_time"> 08:39 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 08:52 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/video/headline/EFF9FCAE-5216-4667-8579-C516E1AB025F.html">The Wealth of Queen Elizabeth II, Explained</a> WSJ: The Wealth of Queen Elizabeth II, Explained 
  <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
+ <p class="updated_time"> 07:52 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-flood-city-streets-on-first-holiday-after-covid-lockdown-11654262213">Shanghai Residents Flood City on First Holiday After Covid Lockdown</a> WSJ: Shanghai Residents Flood City on First Holiday After Covid Lockdown 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/queen-elizabeth-jubilee-caribbean.html">Caribbean Nations Reassess British Crown, in Wake of Black Lives Matter</a> NYT: Public sentiment toward the monarchy has soured in the region, and calls for reparations for Britain’s often brutal role in the slave trade have been rising. 
- <p class="updated_time"> 07:39 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-flood-city-streets-on-first-holiday-after-covid-lockdown-11654262213">Shanghai Residents Flood City on First Holiday After Covid Lockdown</a> WSJ: Shanghai Residents Flood City on First Holiday After Covid Lockdown 
  <p class="updated_time"> 07:35 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 07:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 06:57 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61680790?at_medium=RSS&at_campaign=KARANGA">Lagos okadas: Nigeria crushes 2,000 motorcycle taxis</a> BBC: More than 2,000 bikes are being destroyed after a Nigerian man was killed in a row over fares. 
- <p class="updated_time"> 06:39 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 06:52 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/north-korea-presses-ahead-with-nuclear-test-preparations-u-s-says-11654247247">North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says</a> WSJ: North Korea Presses Ahead With Nuclear-Test Preparations, U.S. Says 
  <p class="updated_time"> 06:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/prince-harry-meghan-markle.html">Prince Harry and Meghan Make Their First Appearance at the Jubilee</a> NYT: The appearance by Prince Harry and his wife, Meghan, at St. Paul’s Cathedral on Friday was their first official royal outing since early 2020. 
@@ -53,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
  <p class="updated_time"> 06:00 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/03/1102405433/work-culture-sang-work-ethic-chinese-culture">Hard work is a point of pride in China. But a culture of slacking off is now in vogue</a> NPR: Younger workers are questioning the benefits of the daily grind as they face worsening prospects. The rise of "Sang culture" embodies the frustration and soul-crushing weariness. 
- <p class="updated_time"> 05:39 AM CT, Jun. 03 </p> 
+ <p class="updated_time"> 05:52 AM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/train-derails-in-germany-killing-at-least-three-people-11654261719">Train Derails in Germany, Killing at Least Four People</a> WSJ: Train Derails in Germany, Killing at Least Four People 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-will-skip-a-church-service-on-friday-after-discomfort-during-jubilee-ceremony.html">Queen Elizabeth will skip Friday’s church service after ‘discomfort’ during the jubilee’s first day.</a> NYT: The queen will not attend a thanksgiving service on Friday that is a major event of her Platinum Jubilee. 
