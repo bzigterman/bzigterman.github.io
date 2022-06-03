@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 02:36 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Jubilee Live Updates: St. Paul’s Service Celebrates Queen in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 01:33 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 02:35 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: On 100th Day of War, Russian Firepower Drives Gains in the East</a> NYT: As Russian troops advance gradually in eastern Ukraine, Africa appeals to President Vladimir V. Putin for relief from the growing food shortages created by the war. 
+ <p class="updated_time"> 02:03 PM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61685117?at_medium=RSS&at_campaign=KARANGA">US shootings: Firm unveils plans for Taser-armed drones</a> BBC: The plan unveiled by the firm's CEO following a school shooting raised alarm at Taser's ethics board. 
+ <p class="updated_time"> 01:56 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
+ <p class="updated_time"> 01:40 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 01:32 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61686639?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa apologises to Liverpool and Real Madrid fans</a> BBC: Uefa apologises to Liverpool and Real Madrid fans "who had to experience or witness frightening and distressing events" at last Saturday's Champions League final. 
  <p class="updated_time"> 01:22 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 01:15 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
- <p class="updated_time"> 01:03 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
- <p class="updated_time"> 12:55 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 12:44 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/magazine/ukraine-afghanistan-refugees-new-york.html">They Fled Danger for New York. When Will Their New Lives Start?</a> NYT: Nothing about moving to New York is easy — especially for those fleeing Ukraine and Afghanistan. But locals do what they can to help. 
  <p class="updated_time"> 12:42 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61682802?at_medium=RSS&at_campaign=KARANGA">French Open: Rafael Nadal through to final after Alexander Zverev fall</a> BBC: Rafael Nadal reaches the French Open final after his opponent Alexander Zverev is taken off court in a wheelchair following a nasty fall. 
+ <p class="updated_time"> 12:40 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/canada-british-monarchy-queen.html">Most Canadians Want to See the British Monarchy Come to an End</a> NYT: In a recent poll, 67 percent of respondents said they opposed the idea of Charles succeeding his mother to become Canada’s king. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
@@ -37,18 +41,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
  <p class="updated_time"> 12:12 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61680790?at_medium=RSS&at_campaign=KARANGA">Lagos okadas: Nigeria crushes 2,000 motorcycle taxis</a> BBC: More than 2,000 bikes are destroyed after a Nigerian man was killed in a row over fares. 
- <p class="updated_time"> 11:55 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 11:48 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61685117?at_medium=RSS&at_campaign=KARANGA">US shootings: Firm unveils plans for Taser-armed drones</a> BBC: The plan unveiled by the firm's CEO following a school shooting raised alarm at Taser's ethics board. 
  <p class="updated_time"> 11:44 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
+ <p class="updated_time"> 11:40 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 11:37 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-critics-arrests.html">Thousands Swept Up as Kremlin Clamps Down on War Criticism</a> NYT: The arrests are a stark gauge of how the Kremlin has intensified repression of critics. At least 50 people now face years-long prison sentences. 
  <p class="updated_time"> 11:07 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685220?at_medium=RSS&at_campaign=KARANGA">100 days: Meet the baby as old as the Ukraine war</a> BBC: Born on 25 February, a child from Kyiv is growing up in a Ukraine ruptured by war. 
- <p class="updated_time"> 10:55 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
+ <p class="updated_time"> 10:40 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
  <p class="updated_time"> 10:30 AM CT, Jun. 03 </p> 
@@ -61,14 +63,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows Indians risking life for water</a> BBC: Footage shows women scaling a well without a rope or harness to access water. 
- <p class="updated_time"> 09:55 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
+ <p class="updated_time"> 09:40 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/iran-probes-revolutionary-guard-commanders-death-11654269443">Iran Probes Revolutionary Guard Commander’s Death</a> WSJ: Iran Probes Revolutionary Guard Commander’s Death 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
- <p class="updated_time"> 08:55 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/iran-probes-revolutionary-guard-commanders-death-11654269443">Iran Probes Revolutionary Guard Commander’s Death</a> WSJ: Iran Probes Revolutionary Guard Commander’s Death 
  <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
@@ -208,12 +208,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:24 PM CT, Jun. 03 </p> 
+ <a href="https://www.politico.com/news/2022/06/03/amazon-urges-consultant-to-push-message-from-minority-groups-00037169">Amazon urges consultant to ‘push’ message from minority groups</a> Politico: It's the latest instance of a tech company arguing that regulation would harm communities of color. 
+ <p class="updated_time"> 02:14 PM CT, Jun. 03 </p> 
+ <a href="https://www.politico.com/news/2022/06/03/monkeypox-increase-expected-because-of-community-spread-00037159">More cases of monkeypox expected as CDC warns of community spread</a> Politico: Since May, there have been more than 700 global cases of monkeypox identified in countries outside West and Central Africa where the virus is endemic. 
+ <p class="updated_time"> 02:11 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Former Trump Adviser Charged With Contempt for Defying Jan. 6 Subpoena</a> NYT: Peter Navarro is the second associate of former President Donald J. Trump, after Stephen K. Bannon, to face criminal charges for stonewalling the inquiry into the Capitol riot. 
+ <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
+ <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over 'unauthorized' interview by former adviser</a> Politico: The select committee's staff director told aides he was "deeply disappointed" after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
+ <p class="updated_time"> 01:42 PM CT, Jun. 03 </p> 
+ <a href="https://www.politico.com/news/2022/06/03/williams-recommended-to-be-next-army-europe-commander-00037157">Williams recommended to be next Army Europe commander</a> Politico: The West Point superintendent would become the first Black general to head the Germany-based command. 
  <p class="updated_time"> 01:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/los-angeles-mayors-race-caruso.html">Rick Caruso’s Law-and-Order Campaign for Los Angeles Mayor</a> NYT: Rick Caruso, a billionaire front-runner in Tuesday’s primary election for Los Angeles mayor, has built his campaign on a law-and-order message. 
  <p class="updated_time"> 01:18 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/special-olympics-reverses-vaccine-requirement-after-florida-threatens-27-5m-fine-00037123">Special Olympics reverses vaccine requirement after Florida threatens $27.5M fine</a> Politico: Florida Gov. Ron DeSantis on Friday during a press conference hailed the decision by the Special Olympics to reverse the vaccine mandate as a win for the thousands of athletes who are expected to compete in the games. 
- <p class="updated_time"> 01:15 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Former Trump Adviser Charged With Contempt for Defying Jan. 6 Subpoena</a> NYT: Peter Navarro is the second associate of former President Donald J. Trump, after Stephen K. Bannon, to face criminal charges for stonewalling the inquiry into the Capitol riot. 
  <p class="updated_time"> 12:45 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/west-point-expected-to-be-ordered-to-take-down-portrait-of-robert-e-lee-00037115">West Point expected to be ordered to take down portrait of Robert E. Lee</a> Politico: A congressionally established commission is likely to recommend the removal, sources say. 
  <p class="updated_time"> 12:17 PM CT, Jun. 03 </p> 
@@ -270,14 +278,10 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/02/politics/meadows-texts-january-6-trump-stop-violence/index.html">Republicans who texted Meadows with urgent pleas on January 6 say Trump could have stopped the violence </a> CNN: Within minutes of the US Capitol breach on January 6, 2021, messages began pouring into the cell phone of White House chief of staff Mark Meadows. Among those texting were Republican members of Congress, former members of the Trump administration, GOP activists, Fox personalities -- even the President's son. Their texts all carried the same urgent plea: President Donald Trump needed to immediately denounce the violence and tell the mob to go home. 
  <p class="updated_time"> 09:29 PM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:20 PM CT, Jun. 02 </p> 
- <a href="https://www.politico.com/news/2022/06/02/bay-area-county-revives-indoor-mask-order-00036850">Bay Area county revives indoor mask order</a> Politico: Alameda County in Northern California becomes the first large jurisdiction to revive its mask mandate. 
  <p class="updated_time"> 07:08 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/desantis-florida-voting-map.html">Florida Supreme Court Turns Down DeSantis Voting Map Challenge</a> NYT: A decision by the Florida Supreme Court means the November elections there will most likely be based on legislative maps that a lower court said illegally diluted the power of Black voters. 
  <p class="updated_time"> 06:55 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
- <p class="updated_time"> 06:49 PM CT, Jun. 02 </p> 
- <a href="https://www.politico.com/news/2022/06/02/just-the-way-it-goes-desantis-axes-3b-from-legislatures-budget-in-front-of-republican-leaders-00036893">'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders</a> Politico: Legislative leadership smiled as the GOP governor at times poked fun at the fact he vetoed their priorities 
  <p class="updated_time"> 06:35 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/massachusetts-attorney-general-democrats.html">The Massachusetts Race for Democrats’ Next Crusading Attorney General</a> NYT: In cerulean-blue Massachusetts, candidates for the state’s top law enforcement job are seeking to demonstrate their faith in progressive ideals. But the race could be decided on other grounds. 
  <p class="updated_time"> 06:08 PM CT, Jun. 02 </p> 
@@ -296,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102728950/thousands-of-high-schoolers-protested-after-parkland-this-one-says-little-change">Thousands of high schoolers protested after Parkland. This one says little changed</a> NPR: One of thousands of high school students who walked out of class demanding action after the Parkland shooting says that there has been no meaningful reform, and America's politics are ruled by fear. 
  <p class="updated_time"> 03:35 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102728949/biden-to-address-the-nation-about-gun-violence">President Biden criticizes Republicans on gun votes in address to the nation</a> NPR: President Biden made a national address Thursday night about the recent mass shootings and is calling on Congress to act on gun violence prevention. 
- <p class="updated_time"> 03:22 PM CT, Jun. 02 </p> 
- <a href="https://www.politico.com/news/2022/06/02/economic-recovery-buoy-social-security-medicare-00036806">Economic recovery buoys Social Security, Medicare</a> Politico: The report projects that the retirement program’s combined reserves will be depleted by 2035, one year later than was projected last August. 
  <p class="updated_time"> 03:17 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102587475/russia-ukraine-war-what-happened-today-june-2">Russia-Ukraine war: What happened today (June 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:44 PM CT, Jun. 02 </p> 
