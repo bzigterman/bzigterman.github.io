@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jun. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61688827?at_medium=RSS&at_campaign=KARANGA">Cuba floods: At least two dead as heavy rain hits island</a> BBC: Havana residents knee-deep in water as the aftermath of Hurricane Agatha hits the Cuban capital. 
  <p class="updated_time"> 05:59 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Length of Front Line Puts Pressure on Ukraine</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
  <p class="updated_time"> 05:45 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. 
- <p class="updated_time"> 05:18 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 05:30 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 05:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 Years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
@@ -21,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/04/1103072441/police-hong-kong-park-tiananmen-vigil-ban">Police patrol Hong Kong park to enforce Tiananmen vigil ban</a> NPR: Police patrolled Hong Kong's Victoria Park on Saturday after authorities for a third consecutive year banned public commemoration of the anniversary of the deadly 1989 Tiananmen Square crackdown. 
  <p class="updated_time"> 05:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/canada/canada-tightens-gun-laws.html">Amid a Wave of Mass Shootings in the U.S., Canada Tightens Gun Laws</a> NYT: The handgun market in Canada has been frozen as Parliament reviews sweeping legal changes, including a mandatory buyback of some rifles. 
+ <p class="updated_time"> 04:30 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 04:22 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61688826?at_medium=RSS&at_campaign=KARANGA">Mariah Carey sued for copyright over 'All I want for Christmas is You'</a> BBC: A US singer says he co-wrote a song called 'All I want for Christmas is You' five years before Carey's 1994 hit. 
- <p class="updated_time"> 04:18 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 04:02 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
@@ -37,13 +39,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Tanned, Buff and Ready to Pose, Gaza Bodybuilders Feel Weight of Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
- <p class="updated_time"> 03:18 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 03:30 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 02:18 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 02:30 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 01:18 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 01:30 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/iran-probes-revolutionary-guard-commanders-death-11654269443">Iran Probes Revolutionary Guard Commander’s Death</a> WSJ: Iran Probes Revolutionary Guard Commander’s Death 
  <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
- <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61679615?at_medium=RSS&at_campaign=KARANGA">Madhya Pradesh: Viral video shows Indians risking life for water</a> BBC: Footage shows women scaling a well without a rope or harness to access water. 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
@@ -222,8 +222,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Jun. 04 </p> 
+ <a href="https://www.politico.com/news/2022/06/04/albany-to-adams-you-cant-always-get-what-you-want-00037160">Albany to Adams: You can’t always get what you want</a> Politico: While Team Adams also notched several wins, more than half a dozen lawmakers and legislative aides said in interviews that the city’s high-profile losses were sealed by unrealistic expectations and outreach from the mayor. 
  <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/trump-weighs-a-big-bet-in-alabama-senate-race-00037154">Trump weighs a big bet in Alabama Senate race</a> Politico: The former president could use a win after his Georgia shellacking. But his endorsement choices in the GOP runoff are tricky. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.politico.com/news/2022/06/04/push-to-supersize-pentagon-budget-ratchets-up-00036987">The push to supersize Pentagon spending ratchets up</a> Politico: The fight over Biden's $813 billion national defense budget will come to a head when the House and Senate begin work this month. 
  <p class="updated_time"> 02:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/beto-orourke-gun-control.html">For Beto O’Rourke, Talk of Gun Control Has Become Both a Political Risk and Reward</a> NYT: Mr. O’Rourke is returning to an issue that had haunted his campaign for Texas governor for months. 
  <p class="updated_time"> 09:56 PM CT, Jun. 03 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/u-s-general-west-should-send-jets-to-ukraine-asap-00037173">U.S. general calls on West to send fighter jets to Ukraine ‘as soon as possible'</a> Politico: He added that sending Soviet-era MiG fighters to Ukraine in the near term is the best “immediate solution.” 
  <p class="updated_time"> 02:34 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/fetterman-had-a-previously-undisclosed-heart-condition-00037175">Fetterman had a previously undisclosed heart condition</a> Politico: The Pennsylvania Democratic Senate nominee's cardiologist said in a letter that Fetterman did not follow doctor’s orders after a 2017 appointment. 
- <p class="updated_time"> 02:24 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/amazon-urges-consultant-to-push-message-from-minority-groups-00037169">Amazon urges consultant to ‘push’ message from minority groups</a> Politico: It's the latest instance of a tech company arguing that regulation would harm communities of color. 
  <p class="updated_time"> 02:14 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/monkeypox-increase-expected-because-of-community-spread-00037159">More cases of monkeypox expected as CDC warns of community spread</a> Politico: Since May, there have been more than 700 global cases of monkeypox identified in countries outside West and Central Africa where the virus is endemic. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
@@ -280,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/special-olympics-reverses-vaccine-requirement-after-florida-threatens-27-5m-fine-00037123">Special Olympics reverses vaccine requirement after Florida threatens $27.5M fine</a> Politico: Florida Gov. Ron DeSantis on Friday during a press conference hailed the decision by the Special Olympics to reverse the vaccine mandate as a win for the thousands of athletes who are expected to compete in the games. 
  <p class="updated_time"> 12:45 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/west-point-expected-to-be-ordered-to-take-down-portrait-of-robert-e-lee-00037115">West Point expected to be ordered to take down portrait of Robert E. Lee</a> Politico: A congressionally established commission is likely to recommend the removal, sources say. 
- <p class="updated_time"> 12:17 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/bipartisan-draft-bill-breaks-stalemate-on-federal-privacy-bill-negotiations-00037092">Bipartisan draft bill breaks stalemate on federal data privacy negotiations</a> Politico: Leaders of key House and Senate committees have compromised in a draft bill released today. 
  <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/ads-gop-lawmakers-gun-safety-00037100">Everytown launches ads targeting GOP lawmakers to act on gun-safety measures</a> Politico: The weeklong media campaign from the nation’s largest gun safety group comes as Capitol Hill negotiations enter a key stretch. 
  <p class="updated_time"> 11:29 AM CT, Jun. 03 </p> 
@@ -310,10 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/upshot/gun-control-polling-votes.html">Voters Say They Want Gun Control. Their Votes Say Something Different.</a> NYT: Broad public support on the issue may not be as broad as polling shows or as Democrats hope. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/business/economy/price-gouging-inflation.html">Is ‘Greedflation’ Rewriting Economics, or Do Old Rules Still Apply?</a> NYT: Economists and politicians are debating whether monopolistic companies are fueling inflation in ways that confound longstanding theory. 
- <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/can-long-covid-lead-to-death-a-new-analysis-suggests-it-could-00036845">Can long Covid lead to death? A new analysis suggests it could</a> Politico: The CDC is beginning to look at death certificates that indicate more than 100 people who died had long Covid. 
- <p class="updated_time"> 03:31 AM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/eastern-ukraine-residents-russia-00036854">‘Everything is gone’: Eastern Ukraine residents say Russia is wiping their towns off the map</a> Politico: Tens of thousands of people remain caught in the crossfire as the bloody battle for the Donbas grinds on. 
  <p class="updated_time"> 03:31 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/cornyn-guns-talks-senate-uvalde-00036846">The Texas conservative turned Biden-approved ‘rational Republican’ on guns</a> Politico: If the Senate can’t agree on a legislative response after the killings in Uvalde, Sen. John Cornyn (R-Texas) said, “it will be embarrassing.” 
  <p class="updated_time"> 03:30 AM CT, Jun. 03 </p> 
