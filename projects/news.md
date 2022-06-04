@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 06:51 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War — Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
+ <p class="updated_time"> 06:43 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687873?at_medium=RSS&at_campaign=KARANGA">Trump-backed celebrity doctor wins Pennsylvania Senate primary</a> BBC: Mehmet Oz declared himself the "presumptive Republican" nominee before the recount had even begun. 
+ <p class="updated_time"> 06:31 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
+ <p class="updated_time"> 06:29 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 06:16 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 06:07 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War — Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/health-61604996?at_medium=RSS&at_campaign=KARANGA">Covid: Why do some vaccines protect you for longer than others?</a> BBC: Here's why you need more than one Covid jab. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
- <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61666181?at_medium=RSS&at_campaign=KARANGA">Mother of world's only nonuplets on how she cares for nine babies</a> BBC: Halima Cissé, who gave birth to nine babies last year, explains how she manages to look after them all. 
- <p class="updated_time"> 05:27 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 05:29 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 05:19 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/united-nations-turkey-syria-refugees.html">‘We Have Not Forgotten Syria’: U.S. Envoy Vows to Protect Refugees</a> NYT: After 11 years of war, Syria has become a cautionary example of what can happen in a conflict with no end in sight, like the one that began 100 days ago in Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Jun. 03 </p> 
@@ -35,8 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/asia/philippines-drug-war-raquel-fortun.html">In the Philippines, a Doctor Unearths a Drug War’s True Toll</a> NYT: Raquel Fortun, one of only two forensic pathologists in the Philippines, is using her skills to show how other doctors falsely claimed some victims of the country’s drug war had died natural deaths. 
  <p class="updated_time"> 04:31 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 04:27 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
+ <p class="updated_time"> 04:29 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-100-days.html">100 Days of War in Ukraine: Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
  <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
@@ -53,8 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102989995/u-k-is-marking-queen-elizabeths-platinum-jubilee-with-parties-parades-and-merch">U.K. is marking Queen Elizabeth's Platinum Jubilee with parties, parades — and merch</a> NPR: Britain's celebration of Queen Elizabeth's 70 years on the throne now spans four days, a parade with 1,400 troops, a concert with Duran Duran, more than 16,000 street parties and a lot of merchandise. 
  <p class="updated_time"> 03:44 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989988/ukraine-has-russian-war-wreckage-on-display-as-a-reminder">Ukraine has Russian war wreckage on display as a reminder</a> NPR: Ukrainian officials have put up a display of destroyed Russian vehicles in front of the country's Foreign Ministry, intending to show the residents Kyiv and the world that Russia can be defeated. 
- <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
+ <p class="updated_time"> 03:29 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102989974/this-australian-candy-shop-has-mesmerized-the-internet">This Australian candy shop has mesmerized the internet</a> NPR: After nearing a lockdown-induced bankruptcy, millions of people around the world now follow this Australian candy shop on social media. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
@@ -65,16 +67,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-critics-arrests.html">Thousands Swept Up as Kremlin Clamps Down on War Criticism</a> NYT: The arrests are a stark gauge of how the Kremlin has intensified repression of critics. At least 50 people now face years-long prison sentences. 
  <p class="updated_time"> 02:56 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102935668/russia-ukraine-war-100-days-refugees-ukrainians-return">100 days after Ukraine was plunged into war, over 2 million Ukrainians have returned</a> NPR: "In recent weeks more people have been returning to Ukraine than leaving the country," according to the European Border and Coast Guard Agency. 
- <p class="updated_time"> 02:27 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
+ <p class="updated_time"> 02:29 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 02:03 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685117?at_medium=RSS&at_campaign=KARANGA">US shootings: Firm unveils plans for Taser-armed drones</a> BBC: The plan unveiled by the firm's CEO following a school shooting raised alarm at Taser's ethics board. 
  <p class="updated_time"> 01:56 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
  <p class="updated_time"> 01:32 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61686639?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa apologises to Liverpool and Real Madrid fans</a> BBC: Uefa apologises to Liverpool and Real Madrid fans "who had to experience or witness frightening and distressing events" at last Saturday's Champions League final. 
- <p class="updated_time"> 01:27 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 01:22 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 01:15 PM CT, Jun. 03 </p> 
@@ -216,6 +216,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:07 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/michigan-governors-republicans.html">3 G.O.P. Candidates for Michigan Governor Will Stay Off Ballot, a Top Court Rules</a> NYT: The decision leaves Republicans greatly weakened in their primary for governor in a key battleground state, and strengthens the hand of Gov. Gretchen Whitmer, a Democrat. 
+ <p class="updated_time"> 06:56 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Navarro Indicted as Justice Dept. Opts Not to Charge Meadows and Scavino</a> NYT: The House had recommended contempt charges against all three Trump White House aides over their stonewalling of its Jan. 6 inquiry. 
+ <p class="updated_time"> 06:49 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/cheri-beasley-attack-ad.html">North Carolina TV stations pull an attack ad against Cheri Beasley, a Democrat running for Senate.</a> NYT: Ms. Beasley is running against Representative Ted Budd, a Republican, in a race for an open seat that is important in determining control of the Senate. 
+ <p class="updated_time"> 06:42 PM CT, Jun. 03 </p> 
+ <a href="https://www.npr.org/2022/06/03/1103046665/dave-mccormick-concedes-to-dr-oz-in-pennsylvanias-gop-primary">Dr. Oz wins Pennsylvania's GOP Senate primary after opponent Dave McCormick concedes</a> NPR: Oz led McCormick by less than 1,000 votes as state officials conducted a recount after the May 17 primary. 
+ <p class="updated_time"> 06:38 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/pennsylvania-mccormick-undated-ballots.html">Pennsylvania Court Orders Undated Ballots to Be Counted, Siding With McCormick For Now</a> NYT: David McCormick, who was trailing Dr. Mehmet Oz by fewer than 1,000 votes, had sued to have ballots without handwritten dates on their return envelopes counted. 
  <p class="updated_time"> 06:14 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/john-fetterman-heart-condition.html">Fetterman Discloses Extent of Heart Issues: ‘I Avoided Going to the Doctor.’</a> NYT: The Democratic candidate for Senate in Pennsylvania did not give a timeline for when he would return to the campaign trail. 
  <p class="updated_time"> 06:10 PM CT, Jun. 03 </p> 
@@ -228,8 +238,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1103025750/fda-investigation-baby-formula-shortage">The FDA is facing an investigation into its handling of the baby formula shortage</a> NPR: The Department of Health and Human Services wants to know if the FDA followed its rules and procedures in investigating the contamination of baby formula and recalling it. 
  <p class="updated_time"> 05:19 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/united-nations-turkey-syria-refugees.html">‘We Have Not Forgotten Syria’: U.S. Envoy Vows to Protect Refugees</a> NYT: After 11 years of war, Syria has become a cautionary example of what can happen in a conflict with no end in sight, like the one that began 100 days ago in Ukraine. 
- <p class="updated_time"> 04:31 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Former Trump Adviser Charged With Contempt for Defying Jan. 6 Subpoena</a> NYT: Peter Navarro is the second associate of former President Donald J. Trump, after Stephen K. Bannon, to face criminal charges for stonewalling the inquiry into the Capitol riot. 
  <p class="updated_time"> 04:17 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jacobs-reelection-gun-control-00037187">New York Rep. Chris Jacobs ends reelection bid following support for gun control</a> Politico: Jacobs' departure from the race will likely lead to a scramble among Republicans in what will now be an open contest in New York’s reddest seat. 
  <p class="updated_time"> 03:27 PM CT, Jun. 03 </p> 
@@ -256,8 +264,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/west-point-expected-to-be-ordered-to-take-down-portrait-of-robert-e-lee-00037115">West Point expected to be ordered to take down portrait of Robert E. Lee</a> Politico: A congressionally established commission is likely to recommend the removal, sources say. 
  <p class="updated_time"> 12:17 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/bipartisan-draft-bill-breaks-stalemate-on-federal-privacy-bill-negotiations-00037092">Bipartisan draft bill breaks stalemate on federal data privacy negotiations</a> Politico: Leaders of key House and Senate committees have compromised in a draft bill released today. 
- <p class="updated_time"> 12:05 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/pennsylvania-mccormick-undated-ballots.html">Pennsylvania Court Orders Undated Ballots to Be Counted, Siding With McCormick For Now</a> NYT: David McCormick, who was trailing Dr. Mehmet Oz by fewer than 1,000 votes, had sued to have ballots without handwritten dates on their return envelopes counted. 
  <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/ads-gop-lawmakers-gun-safety-00037100">Everytown launches ads targeting GOP lawmakers to act on gun-safety measures</a> Politico: The weeklong media campaign from the nation’s largest gun safety group comes as Capitol Hill negotiations enter a key stretch. 
  <p class="updated_time"> 11:29 AM CT, Jun. 03 </p> 
@@ -300,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/02/politics/meadows-texts-january-6-trump-stop-violence/index.html">Republicans who texted Meadows with urgent pleas on January 6 say Trump could have stopped the violence </a> CNN: Within minutes of the US Capitol breach on January 6, 2021, messages began pouring into the cell phone of White House chief of staff Mark Meadows. Among those texting were Republican members of Congress, former members of the Trump administration, GOP activists, Fox personalities -- even the President's son. Their texts all carried the same urgent plea: President Donald Trump needed to immediately denounce the violence and tell the mob to go home. 
  <p class="updated_time"> 09:29 PM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:08 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/desantis-florida-voting-map.html">Florida Supreme Court Turns Down DeSantis Voting Map Challenge</a> NYT: A decision by the Florida Supreme Court means the November elections there will most likely be based on legislative maps that a lower court said illegally diluted the power of Black voters. 
  <p class="updated_time"> 06:55 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
  <p class="updated_time"> 06:35 PM CT, Jun. 02 </p> 
@@ -314,10 +318,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
  <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address followed recent mass shootings in New York, Texas and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
- <p class="updated_time"> 04:20 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/attack-ads-mccormick-dr-oz.html">Democrats Attack Both Oz and McCormick in Pennsylvania Senate Race Ads</a> NYT: Ads criticizing both Dr. Mehmet Oz and David McCormick preview how the general election could unfold in a critical midterm Senate contest. 
  <p class="updated_time"> 04:14 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/jared-kushner-house-investigation.html">House Panel Examining Jared Kushner Over Saudi Investment in New Firm</a> NYT: The House Oversight Committee is seeking documents related to the $2 billion investment by a Saudi fund in the private equity firm started by Mr. Kushner, Donald Trump’s son-in-law and former adviser. 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/jared-kushner-house-investigation.html">Jared Kushner Under Investigation Over Saudi Investment in New Firm</a> NYT: The House Oversight Committee is seeking documents related to the $2 billion investment by a Saudi fund in the private equity firm started by Mr. Kushner, Donald Trump’s son-in-law and former adviser. 
+ <p class="updated_time"> 04:00 PM CT, Jun. 02 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/michigan-governors-republicans-lose-appeal.html">Disqualified Republican candidates in Michigan governor’s race lose appeals.</a> NYT: James Craig and Perry Johnson, two of the top G.O.P. contenders, asked the courts to overturn a canvassing board’s ruling that their nominating petitions contained forged signatures. 
  <p class="updated_time"> 03:39 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102728950/thousands-of-high-schoolers-protested-after-parkland-this-one-says-little-change">Thousands of high schoolers protested after Parkland. This one says little changed</a> NPR: One of thousands of high school students who walked out of class demanding action after the Parkland shooting says that there has been no meaningful reform, and America's politics are ruled by fear. 
  <p class="updated_time"> 03:35 PM CT, Jun. 02 </p> 
@@ -326,16 +330,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102587475/russia-ukraine-war-what-happened-today-june-2">Russia-Ukraine war: What happened today (June 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:18 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102692689/avenatti-4-years-prison-for-cheating-stormy-daniels">Avenatti gets 4 years in prison for cheating Stormy Daniels out of book proceeds</a> NPR: Michael Avenatti was sentenced for stealing about $300,000 from Daniels, the porn actor who catapulted him to fame as he represented her during her legal battles with then-President Donald Trump. 
- <p class="updated_time"> 02:10 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html">U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability</a> NYT: Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years. 
  <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
  <p class="updated_time"> 12:20 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102485484/why-several-republican-candidates-for-michigan-governor-were-blocked-from-the-ba">Why several Republican candidates for Michigan governor were blocked from the ballot</a> NPR: State officials blocked five GOP candidates from the ballot after signatures they submitted included alleged forgeries. The Republicans said they were unaware of problems with the signatures. 
  <p class="updated_time"> 11:01 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/06/02/politics/read-mark-meadows-texts-january-6-capitol-riot/index.html">READ: The Meadows text messages from January 6 </a> CNN: CNN has obtained 2,319 text messages that former White House chief of staff Mark Meadows handed over to the January 6 committee that were sent and received between Election Day 2020 and President Joe Biden's inauguration, including more than 150 on January 6. 
- <p class="updated_time"> 10:25 AM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102629730/john-hinckley-reagan-free-restrictions">John Hinckley, who shot Reagan, will be free of court restrictions June 15</a> NPR: John Hinckley Jr., who shot President Ronald Reagan in 1981, is saying thank you to the people who helped him win freedom from court oversight. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/05/26/politics/biden-student-loan-debt-forgiveness-complications/index.html">Biden is considering canceling some student debt. Here's why it might not be such a great idea</a> CNN: President Joe Biden is considering canceling some federal student loan debt, suggesting a once pie-in-the-sky idea is closer than ever to becoming reality. 
  <p class="updated_time"> 06:56 AM CT, Jun. 02 </p> 
