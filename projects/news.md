@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:24 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
+ <p class="updated_time"> 04:22 AM CT, Jun. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61688826?at_medium=RSS&at_campaign=KARANGA">Mariah Carey sued for copyright over 'All I want for Christmas is You'</a> BBC: A US singer says he co-wrote a song called 'All I want for Christmas is You' five years before Carey's 1994 hit. 
  <p class="updated_time"> 04:02 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
+ <a href="https://www.npr.org/2022/06/04/1102668843/meet-isaac-and-nora-two-french-kids-who-are-big-in-latin-american-music">Meet Isaac and Nora, two French kids who are big in Latin American music </a> NPR: In 2019, an amateur video of two kids singing a Cuban bolero went viral on the internet. Three years later, the video of the song Veinte Años has been watched by millions on social media. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
@@ -21,17 +25,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Tanned, Buff and Ready to Pose, Gaza Bodybuilders Feel Weight of Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
- <p class="updated_time"> 03:03 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 03:40 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 02:40 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 02:03 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
- <p class="updated_time"> 01:03 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 01:40 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 12:03 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:40 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
- <p class="updated_time"> 11:03 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 11:40 PM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
@@ -111,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61685220?at_medium=RSS&at_campaign=KARANGA">100 days: Meet the baby as old as the Ukraine war</a> BBC: Born on 25 February, a child from Kyiv is growing up in a Ukraine ruptured by war. 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
- <p class="updated_time"> 10:30 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61680965?at_medium=RSS&at_campaign=KARANGA">Machine guns found in raid on French neo-Nazi gang</a> BBC: Authorities say the group went on a "Jew hunt" during a football match in Strasbourg. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:58 AM CT, Jun. 03 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102728946/a-look-at-jewish-extremism-in-israel">A look at Jewish extremism in Israel</a> NPR: After violence by Jewish nationalists in the Muslim Quarter of Jerusalem on Sunday, Israel is debating who is an extremist. 
  <p class="updated_time"> 03:33 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102728944/70-years-on-the-throne-queen-elizabeth-is-still-popular-unlike-her-heir-charles">70 years on the throne, Queen Elizabeth is still popular — unlike her heir, Charles</a> NPR: Prince Charles, heir to the throne, is far less popular than his mother. He has a reputation for meddling in public affairs and many still blame him for the collapse of his marriage to Princess Diana. 
- <p class="updated_time"> 03:17 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102587475/russia-ukraine-war-what-happened-today-june-2">Russia-Ukraine war: What happened today (June 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:44 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/russia-oligarchs-yachts-sanctions.html">U.S. Imposes Sanctions on Yacht Company That Caters to Russian Elites</a> NYT: The Treasury Department also identified four yachts as being linked to President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 02:43 PM CT, Jun. 02 </p> 
