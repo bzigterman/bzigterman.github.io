@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Jun. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61690382?at_medium=RSS&at_campaign=KARANGA">Abbott: US baby formula plant linked to national shortage resumes production</a> BBC: Abbott says it is restarting its plant in Michigan after it was closed because of contamination. 
  <p class="updated_time"> 01:32 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street battles raged in the eastern city, Sievierodonetsk, as Ukrainian troops, boosted by foreign volunteers, pushed back against Russian forces. A local Ukrainian official said Kyiv’s forces managed to retake some areas, but control of the city remained contested. 
  <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
  <p class="updated_time"> 12:52 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
- <p class="updated_time"> 12:40 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:51 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
  <p class="updated_time"> 11:57 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 11:51 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
  <p class="updated_time"> 11:46 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61691816?at_medium=RSS&at_campaign=KARANGA">Ukraine anger as Macron says 'Don't humiliate Russia'</a> BBC: The French leader wants to give Vladimir Putin an "exit ramp", but Ukraine rejects that stance. 
- <p class="updated_time"> 11:40 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
  <p class="updated_time"> 11:38 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
  <p class="updated_time"> 11:31 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
- <p class="updated_time"> 10:40 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:51 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 10:37 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Arrests reported in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
@@ -37,17 +39,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/04/1103084679/french-open-iga-swiatek-wins-over-coco-gauff-tennis">Iga Swiatek tops Coco Gauff to win the French Open</a> NPR: Tennis's top-ranked Swiatek beat Gauff 6-1, 6-3 in the final at Roland Garros. Swiatek's unbeaten run of 35 matches equals one by Venus Williams in 2000 as the longest this century. 
  <p class="updated_time"> 10:04 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
+ <p class="updated_time"> 09:51 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 09:46 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
- <p class="updated_time"> 09:40 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 09:14 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
  <p class="updated_time"> 09:12 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
  <p class="updated_time"> 09:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 08:40 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 08:51 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
@@ -123,16 +125,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/canada-british-monarchy-queen.html">Most Canadians Want to See the British Monarchy Come to an End</a> NYT: In a recent poll, 67 percent of respondents said they opposed the idea of Charles succeeding his mother to become Canada’s king. 
- <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61685643?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl scarred by Russian troops' damage and looting</a> BBC: Ukraine says the Russian army stole much equipment from Chernobyl but the radiation level is safe. 
  <p class="updated_time"> 12:28 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685718?at_medium=RSS&at_campaign=KARANGA">Champions League Final: Harrowing accounts of post-match violence spark debate</a> BBC: UFC fighter Paddy Pimblett tells French media men with weapons were attacking and robbing fans. 
  <p class="updated_time"> 12:19 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
  <p class="updated_time"> 11:44 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
- <p class="updated_time"> 11:07 AM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61685220?at_medium=RSS&at_campaign=KARANGA">100 days: Meet the baby as old as the Ukraine war</a> BBC: Born on 25 February, a child from Kyiv is growing up in a Ukraine ruptured by war. 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
