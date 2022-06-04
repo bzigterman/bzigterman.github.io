@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:16 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 02:40 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street battles raged in the eastern city, Sievierodonetsk, as Ukrainian troops, boosted by foreign volunteers, pushed back against Russian forces. A local Ukrainian official said Kyiv’s forces managed to retake some areas, but control of the city remained contested. 
  <p class="updated_time"> 02:08 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
@@ -17,34 +17,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 01:53 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
+ <p class="updated_time"> 01:48 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 01:35 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61690382?at_medium=RSS&at_campaign=KARANGA">Abbott: US baby formula plant linked to national shortage resumes production</a> BBC: Abbott says it is restarting its plant in Michigan after it was closed because of contamination. 
- <p class="updated_time"> 01:23 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
- <p class="updated_time"> 12:23 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
+ <p class="updated_time"> 12:48 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
  <p class="updated_time"> 11:57 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 11:48 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 11:46 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61691816?at_medium=RSS&at_campaign=KARANGA">Ukraine anger as Macron says 'Don't humiliate Russia'</a> BBC: The French leader wants to give Vladimir Putin an "exit ramp", but Ukraine rejects that stance. 
  <p class="updated_time"> 11:38 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
- <p class="updated_time"> 11:23 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
+ <p class="updated_time"> 10:48 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 10:37 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Arrests reported in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
- <p class="updated_time"> 10:23 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 10:09 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103084679/french-open-iga-swiatek-wins-over-coco-gauff-tennis">Iga Swiatek tops Coco Gauff to win the French Open</a> NPR: Tennis's top-ranked Swiatek beat Gauff 6-1, 6-3 in the final at Roland Garros. Swiatek's unbeaten run of 35 matches equals one by Venus Williams in 2000 as the longest this century. 
  <p class="updated_time"> 10:04 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 09:23 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
+ <p class="updated_time"> 09:48 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 09:14 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
  <p class="updated_time"> 09:12 AM CT, Jun. 04 </p> 
@@ -133,6 +133,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
+ <p class="updated_time"> 10:18 AM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia's Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: Russia’s economy is faltering and losses of troops and materiel are high, but President Vladimir Putin still enjoys widespread domestic support. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
@@ -216,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 01:45 PM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/biden-evacuated-to-secure-location-after-plane-flies-near-beach-house-in-delaware-00037242">Bidens evacuated from Delaware residence after plane flies into restricted airspace</a> Politico: The president and the first lady are now back at the beach house with no threat apparent. 
  <p class="updated_time"> 01:30 PM CT, Jun. 04 </p> 
@@ -330,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/06/03/the-nations-cartoonists-on-the-week-in-politics-00036887">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 08:37 PM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/06/02/politics/joe-biden-messaging-struggles/index.html">Beneath Biden's struggle to break through is a deeper dysfunction among White House aides</a> CNN: Being familiar never makes the feeling less dreadful: White House aides emailing each other during one of President Joe Biden's stops on the road, tracking who's covering what he's saying, which TV channels are taking the speech live -- and realizing a number of times that the answer was none. 
- <p class="updated_time"> 06:55 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
  <p class="updated_time"> 06:35 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/massachusetts-attorney-general-democrats.html">The Massachusetts Race for Democrats’ Next Crusading Attorney General</a> NYT: In cerulean-blue Massachusetts, candidates for the state’s top law enforcement job are seeking to demonstrate their faith in progressive ideals. But the race could be decided on other grounds. 
  <p class="updated_time"> 05:11 PM CT, Jun. 02 </p> 
