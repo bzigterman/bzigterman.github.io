@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street-by-street battles raged in the eastern city, Sievierodonetsk, and in the seesawing fight, a local Ukrainian official said Kyiv’s forces managed to take back some territory there. 
+ <p class="updated_time"> 12:25 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street battles raged in the eastern city, Sievierodonetsk, as Ukrainian troops, boosted by foreign volunteers, pushed back against Russian forces. A local Ukrainian official said Kyiv’s forces managed to retake some areas, but control of the city remained contested. 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
  <p class="updated_time"> 11:57 AM CT, Jun. 04 </p> 
@@ -22,12 +22,12 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:38 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
  <p class="updated_time"> 11:31 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia Faces Fierce Ukrainian Resistance in Key Eastern City</a> WSJ: Russia Faces Fierce Ukrainian Resistance in Key Eastern City 
+ <p class="updated_time"> 11:31 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
- <p class="updated_time"> 11:15 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 10:37 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Arrests reported in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
- <p class="updated_time"> 10:15 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:31 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
  <p class="updated_time"> 10:09 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103084679/french-open-iga-swiatek-wins-over-coco-gauff-tennis">Iga Swiatek tops Coco Gauff to win the French Open</a> NPR: Tennis's top-ranked Swiatek beat Gauff 6-1, 6-3 in the final at Roland Garros. Swiatek's unbeaten run of 35 matches equals one by Venus Williams in 2000 as the longest this century. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
  <p class="updated_time"> 09:46 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
- <p class="updated_time"> 09:15 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 09:31 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 09:14 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
@@ -43,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
  <p class="updated_time"> 09:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 08:15 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 08:31 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
  <p class="updated_time"> 07:34 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61690519?at_medium=RSS&at_campaign=KARANGA">Russian man accused of Alexander Litvinenko killing dies of Covid-19</a> BBC: Dmitry Kovtun, one of two men the UK says were behind the poisoning, has died in Russia of Covid. 
- <p class="updated_time"> 07:15 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 07:31 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 07:15 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. The police later said it was not related to terrorism. 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:28 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 11:15 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
  <p class="updated_time"> 10:51 AM CT, Jun. 04 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
  <p class="updated_time"> 06:35 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/massachusetts-attorney-general-democrats.html">The Massachusetts Race for Democrats’ Next Crusading Attorney General</a> NYT: In cerulean-blue Massachusetts, candidates for the state’s top law enforcement job are seeking to demonstrate their faith in progressive ideals. But the race could be decided on other grounds. 
- <p class="updated_time"> 06:08 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/children-covid-vaccine.html">Children Under 5 Could Get Covid Shots in Late June, White House Says</a> NYT: President Biden’s coronavirus response coordinator shared the timeline in anticipation of federal regulators authorizing coronavirus vaccines for children younger than 5. 
  <p class="updated_time"> 05:11 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
  <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
