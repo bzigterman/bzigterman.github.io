@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:17 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War — Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
+ <p class="updated_time"> 10:14 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Leave Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
+ <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
+ <p class="updated_time"> 09:27 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 09:16 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
- <p class="updated_time"> 08:35 PM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
- <p class="updated_time"> 08:25 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
- <p class="updated_time"> 07:40 PM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61687873?at_medium=RSS&at_campaign=KARANGA">Trump-backed celebrity doctor wins Pennsylvania Senate primary</a> BBC: Mehmet Oz declared himself the "presumptive Republican" nominee before the recount had even begun. 
- <p class="updated_time"> 07:25 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 08:27 PM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
+ <p class="updated_time"> 07:40 PM CT, Jun. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61687873?at_medium=RSS&at_campaign=KARANGA">Trump-backed celebrity doctor wins Pennsylvania Senate primary</a> BBC: Television heart surgeon Mehmet Oz would become the nation's first Muslim senator if elected. 
+ <p class="updated_time"> 07:27 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 06:31 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
- <p class="updated_time"> 06:25 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
+ <p class="updated_time"> 06:27 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
  <p class="updated_time"> 06:16 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/health-61604996?at_medium=RSS&at_campaign=KARANGA">Covid: Why do some vaccines protect you for longer than others?</a> BBC: Here's why you need more than one Covid jab. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61666181?at_medium=RSS&at_campaign=KARANGA">Mother of world's only nonuplets on how she cares for nine babies</a> BBC: Halima Cissé, who gave birth to nine babies last year, explains how she manages to look after them all. 
- <p class="updated_time"> 05:25 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
+ <p class="updated_time"> 05:27 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 05:19 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/united-nations-turkey-syria-refugees.html">‘We Have Not Forgotten Syria’: U.S. Envoy Vows to Protect Refugees</a> NYT: After 11 years of war, Syria has become a cautionary example of what can happen in a conflict with no end in sight, like the one that began 100 days ago in Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Jun. 03 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/asia/philippines-drug-war-raquel-fortun.html">In the Philippines, a Doctor Unearths a Drug War’s True Toll</a> NYT: Raquel Fortun, one of only two forensic pathologists in the Philippines, is using her skills to show how other doctors falsely claimed some victims of the country’s drug war had died natural deaths. 
  <p class="updated_time"> 04:31 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 04:25 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-100-days.html">100 Days of War in Ukraine: Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
  <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:56 PM CT, Jun. 03 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Navarro Indicted as Justice Dept. Opts Not to Charge Meadows and Scavino</a> NYT: The House had recommended contempt charges against all three Trump White House aides over their stonewalling of its Jan. 6 inquiry. 
  <p class="updated_time"> 09:13 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103060104/buffalo-area-gop-rep-jacobs-wont-run-again-after-backlash-for-gun-control-suppor">Buffalo-area GOP Rep. Jacobs won't run again after backlash for gun control support</a> NPR: After mass shootings in Buffalo and at a Texas school, Jacobs said he would vote for a federal assault weapons ban if he had a chance. His comments sparked a furious reaction from conservatives, 
  <p class="updated_time"> 08:16 PM CT, Jun. 03 </p> 
@@ -228,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/pressure-for-durham-to-ditch-russia-probe-00037225">Pressure builds for Durham to ditch Russia probe</a> Politico: But the Department of Justice seems unlikely to pull the plug on investigation despite Sussmann acquittal. 
  <p class="updated_time"> 07:07 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/michigan-governors-republicans.html">3 G.O.P. Candidates for Michigan Governor Will Stay Off Ballot, a Top Court Rules</a> NYT: The decision leaves Republicans greatly weakened in their primary for governor in a key battleground state, and strengthens the hand of Gov. Gretchen Whitmer, a Democrat. 
- <p class="updated_time"> 06:56 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Navarro Indicted as Justice Dept. Opts Not to Charge Meadows and Scavino</a> NYT: The House had recommended contempt charges against all three Trump White House aides over their stonewalling of its Jan. 6 inquiry. 
  <p class="updated_time"> 06:42 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103046665/dave-mccormick-concedes-to-dr-oz-in-pennsylvanias-gop-primary">Dr. Oz wins the GOP Senate primary in Pennsylvania after McCormick concedes</a> NPR: Oz led McCormick by less than 1,000 votes as state officials conducted a recount after the May 17 primary. 
  <p class="updated_time"> 06:38 PM CT, Jun. 03 </p> 
