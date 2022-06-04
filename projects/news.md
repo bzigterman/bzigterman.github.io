@@ -9,43 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:32 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street battles raged in the eastern city, Sievierodonetsk, as Ukrainian troops, boosted by foreign volunteers, pushed back against Russian forces. A local Ukrainian official said Kyiv’s forces managed to retake some areas, but control of the city remained contested. 
+ <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
  <p class="updated_time"> 12:52 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
- <p class="updated_time"> 12:30 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street battles raged in the eastern city, Sievierodonetsk, as Ukrainian troops, boosted by foreign volunteers, pushed back against Russian forces. A local Ukrainian official said Kyiv’s forces managed to retake some areas, but control of the city remained contested. 
+ <p class="updated_time"> 12:40 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
  <p class="updated_time"> 11:57 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 11:56 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 11:46 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61691816?at_medium=RSS&at_campaign=KARANGA">Ukraine anger as Macron says 'Don't humiliate Russia'</a> BBC: The French leader wants to give Vladimir Putin an "exit ramp", but Ukraine rejects that stance. 
+ <p class="updated_time"> 11:40 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
  <p class="updated_time"> 11:38 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
  <p class="updated_time"> 11:31 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
- <p class="updated_time"> 10:56 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: 100 Days In, Russia’s Claims of Success in Ukraine Face Hard Test of Reality 
+ <p class="updated_time"> 10:40 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 10:37 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Arrests reported in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
  <p class="updated_time"> 10:09 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103084679/french-open-iga-swiatek-wins-over-coco-gauff-tennis">Iga Swiatek tops Coco Gauff to win the French Open</a> NPR: Tennis's top-ranked Swiatek beat Gauff 6-1, 6-3 in the final at Roland Garros. Swiatek's unbeaten run of 35 matches equals one by Venus Williams in 2000 as the longest this century. 
  <p class="updated_time"> 10:04 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 09:56 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 09:46 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
+ <p class="updated_time"> 09:40 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 09:14 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
  <p class="updated_time"> 09:12 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
  <p class="updated_time"> 09:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 08:56 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 07:56 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 08:40 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
  <p class="updated_time"> 07:40 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687873?at_medium=RSS&at_campaign=KARANGA">Trump-backed celebrity doctor wins Pennsylvania Senate primary</a> BBC: Television heart surgeon Mehmet Oz would become the nation's first Muslim senator if elected. 
- <p class="updated_time"> 06:31 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/health-61604996?at_medium=RSS&at_campaign=KARANGA">Covid: Why do some vaccines protect you for longer than others?</a> BBC: Here's why you need more than one Covid jab. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
@@ -218,12 +218,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
+ <p class="updated_time"> 01:06 PM CT, Jun. 04 </p> 
+ <a href="https://www.npr.org/2022/06/04/1103096391/small-plane-biden-beach-house-delaware">A small plane flew near Biden's beach house in Delaware</a> NPR: The White House said it was apparently by mistake that a small private plane entered restricted airspace. The president and first lady were evacuated but have since returned. 
  <p class="updated_time"> 12:38 PM CT, Jun. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:28 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 11:15 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
  <p class="updated_time"> 10:51 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/gop-diversity-texas-arizona.html">Republicans Elevate Diverse Recruits in Bid to Win House Majority</a> NYT: The G.O.P.’s plan to win back the House rests on candidates of color who leaders hope can help broaden the party’s appeal. 
  <p class="updated_time"> 10:05 AM CT, Jun. 04 </p> 
@@ -243,7 +245,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/push-to-supersize-pentagon-budget-ratchets-up-00036987">The push to supersize Pentagon spending ratchets up</a> Politico: The fight over Biden's $813 billion national defense budget will come to a head when the House and Senate begin work this month. 
  <p class="updated_time"> 02:00 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/us/politics/beto-orourke-gun-control.html">For Beto O’Rourke, Talk of Gun Control Has Become Both a Political Risk and Reward</a> NYT: Mr. O’Rourke is returning to an issue that had haunted his campaign for Texas governor for months. 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/beto-orourke-gun-control.html">Beto O’Rourke’s Talk of Gun Control Has Become Both a Political Risk and Reward</a> NYT: Mr. O’Rourke is returning to an issue that had haunted his campaign for Texas governor for months. 
  <p class="updated_time"> 09:56 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Navarro Indicted as Justice Dept. Opts Not to Charge Meadows and Scavino</a> NYT: The House had recommended contempt charges against all three Trump White House aides over their stonewalling of its Jan. 6 inquiry. 
  <p class="updated_time"> 09:13 PM CT, Jun. 03 </p> 
@@ -297,7 +299,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/ads-gop-lawmakers-gun-safety-00037100">Everytown launches ads targeting GOP lawmakers to act on gun-safety measures</a> Politico: The weeklong media campaign from the nation’s largest gun safety group comes as Capitol Hill negotiations enter a key stretch. 
  <p class="updated_time"> 11:29 AM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102923746/former-trump-adviser-navarro-indicted-for-contempt-of-congress-over-jan-6-subpoe">Former Trump adviser Navarro indicted for contempt of Congress over Jan. 6 subpoena</a> NPR: A federal grand jury has indicted Peter Navarro on two counts of contempt of Congress after he failed to comply with a subpoena from the Jan. 6 committee 
+ <a href="https://www.npr.org/2022/06/03/1102923746/former-trump-adviser-navarro-indicted-for-contempt-of-congress-over-jan-6-subpoe">Former Trump aide Navarro indicted, but Justice Dept. won't charge Meadows or Scavino</a> NPR: A federal grand jury has indicted Peter Navarro on two counts of contempt of Congress. He failed to comply with a subpoena from the Jan. 6 committee. Two other Trump aides won't face the same charges. 
  <p class="updated_time"> 10:56 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/navarro-indicted-for-contempt-of-congress-after-defying-jan-6-committee-subpoena-00037069">Navarro indicted for contempt of Congress after defying Jan. 6 panel subpoena</a> Politico: After Trump’s defeat in the 2020 election and subsequent false election fraud claims, Peter Navarro started spearheading efforts to overturn the election. 
  <p class="updated_time"> 10:52 AM CT, Jun. 03 </p> 
@@ -340,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/us/politics/michigan-governors-republicans-lose-appeal.html">Disqualified Republican candidates in Michigan governor’s race lose appeals.</a> NYT: James Craig and Perry Johnson, two of the top G.O.P. contenders, asked the courts to overturn a canvassing board’s ruling that their nominating petitions contained forged signatures. 
  <p class="updated_time"> 03:39 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102728950/thousands-of-high-schoolers-protested-after-parkland-this-one-says-little-change">Thousands of high schoolers protested after Parkland. This one says little changed</a> NPR: One of thousands of high school students who walked out of class demanding action after the Parkland shooting says that there has been no meaningful reform, and America's politics are ruled by fear. 
- <p class="updated_time"> 03:35 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102728949/biden-to-address-the-nation-about-gun-violence">President Biden criticizes Republicans on gun votes in address to the nation</a> NPR: President Biden made a national address Thursday night about the recent mass shootings and is calling on Congress to act on gun violence prevention. 
  <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
