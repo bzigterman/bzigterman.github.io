@@ -11,22 +11,22 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 01:12 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 01:53 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 12:53 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
  <p class="updated_time"> 12:37 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/russia-ukraine-war-news">What Happened on Day 100 of the War in Ukraine</a> NYT: The grinding conflict has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
- <p class="updated_time"> 12:12 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
- <p class="updated_time"> 11:12 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 11:53 PM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 10:12 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 10:53 PM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
+ <p class="updated_time"> 09:53 PM CT, Jun. 03 </p> 
+ <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
  <p class="updated_time"> 09:16 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
- <p class="updated_time"> 09:12 PM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 07:40 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687873?at_medium=RSS&at_campaign=KARANGA">Trump-backed celebrity doctor wins Pennsylvania Senate primary</a> BBC: Television heart surgeon Mehmet Oz would become the nation's first Muslim senator if elected. 
  <p class="updated_time"> 06:31 PM CT, Jun. 03 </p> 
@@ -159,6 +159,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
  <p class="updated_time"> 06:41 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61664982?at_medium=RSS&at_campaign=KARANGA">Could toxic Depp-Heard case have chilling effect on accusers?</a> BBC: Could the Depp-Heard case have a chilling effect on others bringing allegations of domestic abuse? 
+ <p class="updated_time"> 06:11 PM CT, Jun. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61638389?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How Russian TV has reported the 100 days of conflict</a> BBC: TV viewers in Russia see only the Kremlin’s version of events in Ukraine. 
  <p class="updated_time"> 06:09 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61671032?at_medium=RSS&at_campaign=KARANGA">Sologamy: India woman's plan to 'marry herself' sparks debate</a> BBC: Kshama Bindu will have all the trappings of a traditional wedding ceremony apart from an actual groom. 
  <p class="updated_time"> 06:09 PM CT, Jun. 02 </p> 
@@ -327,7 +329,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address followed recent mass shootings in New York, Texas and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
  <p class="updated_time"> 04:14 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/jared-kushner-house-investigation.html">House Panel Examining Jared Kushner Over Saudi Investment in New Firm</a> NYT: The House Oversight Committee is seeking documents related to the $2 billion investment by a Saudi fund in the private equity firm started by Mr. Kushner, Donald Trump’s son-in-law and former adviser. 
+ <a href="https://www.nytimes.com/2022/06/02/us/politics/jared-kushner-house-investigation.html">Jared Kushner Under Investigation Over Saudi Investment in New Firm</a> NYT: The House Oversight Committee is seeking documents related to the $2 billion investment by a Saudi fund in the private equity firm started by Mr. Kushner, Donald Trump’s son-in-law and former adviser. 
  <p class="updated_time"> 04:00 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/michigan-governors-republicans-lose-appeal.html">Disqualified Republican candidates in Michigan governor’s race lose appeals.</a> NYT: James Craig and Perry Johnson, two of the top G.O.P. contenders, asked the courts to overturn a canvassing board’s ruling that their nominating petitions contained forged signatures. 
  <p class="updated_time"> 03:39 PM CT, Jun. 02 </p> 
