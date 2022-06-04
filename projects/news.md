@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:50 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Length of Front Line Puts Pressure on Ukraine</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
+ <p class="updated_time"> 08:24 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
+ <p class="updated_time"> 08:19 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: Russia Faces Stiff Resistance in Eastern City; Ukraine Claims Small Gains</a> NYT: Street-by-street battles raged in the eastern city, Sievierodonetsk, and in the seesawing fight, a local Ukrainian official said Kyiv’s forces managed to take back some territory there. 
  <p class="updated_time"> 07:50 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
  <p class="updated_time"> 07:34 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61690519?at_medium=RSS&at_campaign=KARANGA">Russian man accused of Alexander Litvinenko killing dies of Covid-19</a> BBC: Dmitry Kovtun, one of two men the UK says were behind the poisoning, has died in Russia of Covid. 
+ <p class="updated_time"> 07:29 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia Faces Fierce Ukrainian Resistance in Key Eastern City</a> WSJ: Russia Faces Fierce Ukrainian Resistance in Key Eastern City 
  <p class="updated_time"> 07:15 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. The police later said it was not related to terrorism. 
  <p class="updated_time"> 07:10 AM CT, Jun. 04 </p> 
@@ -26,25 +30,25 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:02 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075880/russia-could-veto-un-aid-going-to-syria">Russia could veto UN aid going to Syria</a> NPR: Linda Thomas-Greenfield, U.S. Ambassador to the U.N., traveled to the southern border of Turkey to observe the flow of humanitarian aid to victims of the civil war in neighboring Syria. 
  <p class="updated_time"> 07:02 AM CT, Jun. 04 </p> 
- <a href="https://www.npr.org/2022/06/04/1103075873/russia-closes-in-on-a-city-in-eastern-ukraine-after-200-days-of-war">Russia closes in on a city in eastern Ukraine after 200 days of war</a> NPR: Fighting between Russian and Ukrainian forces has intensified around Severodonetsk in eastern Ukraine. A victory there would be a major accomplishment for President Vladimir Putin. 
- <p class="updated_time"> 06:58 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia Faces Fierce Ukrainian Resistance in Key Eastern City</a> WSJ: Russia Faces Fierce Ukrainian Resistance in Key Eastern City 
+ <a href="https://www.npr.org/2022/06/04/1103075873/russia-closes-in-on-a-city-in-eastern-ukraine-after-100-days-of-war">Russia closes in on a city in eastern Ukraine after 100 days of war</a> NPR: Fighting between Russian and Ukrainian forces has intensified around Severodonetsk in eastern Ukraine. A victory there would be a major accomplishment for President Vladimir Putin. 
  <p class="updated_time"> 06:46 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61690379?at_medium=RSS&at_campaign=KARANGA">Iran's Khamenei accuses 'enemy' of stirring up protests</a> BBC: His comments come after several weeks of demonstrations in cities over the rising cost of basic foods. 
  <p class="updated_time"> 06:43 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
+ <p class="updated_time"> 06:29 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 06:15 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61688827?at_medium=RSS&at_campaign=KARANGA">Cuba floods: At least two dead as heavy rain hits island</a> BBC: Havana residents knee-deep in water as the aftermath of Hurricane Agatha hits the Cuban capital. 
- <p class="updated_time"> 05:58 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
+ <p class="updated_time"> 05:29 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 05:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 Years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
  <p class="updated_time"> 05:03 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103072441/police-hong-kong-park-tiananmen-vigil-ban">Police patrol Hong Kong park to enforce Tiananmen vigil ban</a> NPR: Police patrolled Hong Kong's Victoria Park on Saturday after authorities for a third consecutive year banned public commemoration of the anniversary of the deadly 1989 Tiananmen Square crackdown. 
  <p class="updated_time"> 05:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/canada/canada-tightens-gun-laws.html">Amid a Wave of Mass Shootings in the U.S., Canada Tightens Gun Laws</a> NYT: The handgun market in Canada has been frozen as Parliament reviews sweeping legal changes, including a mandatory buyback of some rifles. 
- <p class="updated_time"> 04:58 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
+ <p class="updated_time"> 04:29 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 04:22 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61688826?at_medium=RSS&at_campaign=KARANGA">Mariah Carey sued for copyright over 'All I want for Christmas is You'</a> BBC: A US singer says he co-wrote a song called 'All I want for Christmas is You' five years before Carey's 1994 hit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
@@ -55,9 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/04/1102569849/actor-pepe-serna-wasnt-interested-in-becoming-a-star-he-just-wanted-to-work">Actor Pepe Serna wasn't interested in becoming a star. He just wanted to work</a> NPR: Edward James Olmos calls Serna the "most extraordinary improvisational actor" he's seen. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Tanned, Buff and Ready to Pose, Gaza Bodybuilders Feel Weight of Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
- <p class="updated_time"> 03:58 AM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
- <p class="updated_time"> 02:58 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 03:29 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
- <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/queen-elizabeth-jubilee-caribbean.html">Caribbean Nations Reassess British Crown, in Wake of Black Lives Matter</a> NYT: Public sentiment toward the monarchy has soured in the region, and calls for reparations for Britain’s often brutal role in the slave trade have been rising. 
  <p class="updated_time"> 06:38 AM CT, Jun. 03 </p> 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/republicans-elevate-diverse-recruits-in-bid-to-win-house-majority.html">Republicans Elevate Diverse Recruits in Bid to Win House Majority</a> NYT: The G.O.P.’s plan to win back the House rests on candidates of color who leaders hope can help broaden the party’s appeal. 
  <p class="updated_time"> 07:53 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/cheri-beasley-attack-ad.html">North Carolina TV stations pull an attack ad against Cheri Beasley, a Democrat running for Senate.</a> NYT: Ms. Beasley is running against Representative Ted Budd, a Republican, in a race for an open seat that is important in determining control of the Senate. 
  <p class="updated_time"> 07:02 AM CT, Jun. 04 </p> 
@@ -249,7 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:14 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/john-fetterman-heart-condition.html">Fetterman Discloses Extent of Heart Issues: ‘I Avoided Going to the Doctor.’</a> NYT: The Democratic candidate for Senate in Pennsylvania did not give a timeline for when he would return to the campaign trail. 
  <p class="updated_time"> 06:10 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/california-house-races-jan-6.html">Is Jan. 6 a Winning Political Issue in California? We’re About to Find Out.</a> NYT: Democratic candidates have shied away from talking about the Capitol siege. That could change if voters flock to a former federal prosecutor running for a House seat in California. 
+ <a href="https://www.nytimes.com/2022/06/03/us/politics/california-house-races-jan-6.html">Is Jan. 6 a Winning Political Issue? We’re About to Find Out.</a> NYT: Democratic candidates have shied away from talking about the Capitol siege. That could change if voters flock to a former federal prosecutor running for a House seat in California. 
  <p class="updated_time"> 05:44 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/cia-gina-haspel-black-site.html">Gina Haspel Observed Waterboarding at C.I.A. Black Site, Psychologist Testifies</a> NYT: The testimony emerged in pretrial hearings in the Cole bombing case at Guantánamo Bay, where the war court is wrestling with the legacy of torture after 9/11. 
  <p class="updated_time"> 05:41 PM CT, Jun. 03 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
  <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address followed recent mass shootings in New York, Texas and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
- <p class="updated_time"> 04:14 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/jared-kushner-house-investigation.html">Jared Kushner Under Investigation Over Saudi Investment in New Firm</a> NYT: The House Oversight Committee is seeking documents related to the $2 billion investment by a Saudi fund in the private equity firm started by Mr. Kushner, Donald Trump’s son-in-law and former adviser. 
  <p class="updated_time"> 04:00 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/michigan-governors-republicans-lose-appeal.html">Disqualified Republican candidates in Michigan governor’s race lose appeals.</a> NYT: James Craig and Perry Johnson, two of the top G.O.P. contenders, asked the courts to overturn a canvassing board’s ruling that their nominating petitions contained forged signatures. 
  <p class="updated_time"> 03:39 PM CT, Jun. 02 </p> 
@@ -340,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/02/1102728949/biden-to-address-the-nation-about-gun-violence">President Biden criticizes Republicans on gun votes in address to the nation</a> NPR: President Biden made a national address Thursday night about the recent mass shootings and is calling on Congress to act on gun violence prevention. 
  <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
- <p class="updated_time"> 11:06 AM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/01/us/politics/david-c-macmichael-dead.html">David C. MacMichael, C.I.A. Whistleblower, Dies at 95</a> NYT: An expert on Latin America, he left the agency and called out the Reagan administration for overselling the Communist threat in Nicaragua. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/05/26/politics/biden-student-loan-debt-forgiveness-complications/index.html">Biden is considering canceling some student debt. Here's why it might not be such a great idea</a> CNN: President Joe Biden is considering canceling some federal student loan debt, suggesting a once pie-in-the-sky idea is closer than ever to becoming reality. 
  <p class="updated_time"> 06:56 AM CT, Jun. 02 </p> 
