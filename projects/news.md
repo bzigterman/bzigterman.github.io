@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
+ <p class="updated_time"> 05:45 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. 
  <p class="updated_time"> 05:07 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 Years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
  <p class="updated_time"> 05:03 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103072441/police-hong-kong-park-tiananmen-vigil-ban">Police patrol Hong Kong park to enforce Tiananmen vigil ban</a> NPR: Police patrolled Hong Kong's Victoria Park on Saturday after authorities for a third consecutive year banned public commemoration of the anniversary of the deadly 1989 Tiananmen Square crackdown. 
  <p class="updated_time"> 05:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/canada/canada-tightens-gun-laws.html">Amid a Wave of Mass Shootings in the U.S., Canada Tightens Gun Laws</a> NYT: The handgun market in Canada has been frozen as Parliament reviews sweeping legal changes, including a mandatory buyback of some rifles. 
- <p class="updated_time"> 04:32 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 04:56 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
- <p class="updated_time"> 04:24 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
  <p class="updated_time"> 04:22 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61688826?at_medium=RSS&at_campaign=KARANGA">Mariah Carey sued for copyright over 'All I want for Christmas is You'</a> BBC: A US singer says he co-wrote a song called 'All I want for Christmas is You' five years before Carey's 1994 hit. 
  <p class="updated_time"> 04:02 AM CT, Jun. 04 </p> 
@@ -33,15 +35,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Tanned, Buff and Ready to Pose, Gaza Bodybuilders Feel Weight of Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
- <p class="updated_time"> 03:32 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 03:56 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
- <p class="updated_time"> 02:32 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 02:56 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 01:32 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 01:56 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
- <p class="updated_time"> 12:32 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:56 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/iran-probes-revolutionary-guard-commanders-death-11654269443">Iran Probes Revolutionary Guard Commander’s Death</a> WSJ: Iran Probes Revolutionary Guard Commander’s Death 
  <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
@@ -129,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/middleeast/israel-laser-rockets.html">Israel Builds a Laser Weapon to Zap Threats Out of the Sky</a> NYT: From science fiction to facts in the air: Israel says a prototype downed rockets and drones in recent tests. 
  <p class="updated_time"> 09:17 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/germany-train-derailment.html">At Least 4 Dead After Train Derails in Germany</a> NYT: Rescue crews from Austria were helping on the scene in southern Germany, where more than a dozen people were taken to a hospital with serious injuries. 
- <p class="updated_time"> 08:29 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/02/books/cameroon-nganang.html">In Patrice Nganang’s Trilogy, Cameroon’s Past Is Still Very Present</a> NYT: Patrice Nganang’s trilogy of historical novels explores his country’s national identity, rife with great promise and pain. “The dream of Cameroon is contradictory,” he says. 
  <p class="updated_time"> 07:42 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/americas/queen-elizabeth-jubilee-caribbean.html">Caribbean Nations Reassess British Crown, in Wake of Black Lives Matter</a> NYT: Public sentiment toward the monarchy has soured in the region, and calls for reparations for Britain’s often brutal role in the slave trade have been rising. 
  <p class="updated_time"> 06:38 AM CT, Jun. 03 </p> 
