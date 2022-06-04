@@ -9,21 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:44 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
- <p class="updated_time"> 03:01 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 04:02 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 02:50 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Ukraine Live Updates: 100 Days of War Feel Like a ‘Long, Difficult Day’</a> NYT: Kyiv’s mayor called the past few months “a time of courage and perseverance.” Analysts and officials say no end to the conflict is in sight. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.npr.org/2022/06/04/1102569849/actor-pepe-serna-wasnt-interested-in-becoming-a-star-he-just-wanted-to-work">Actor Pepe Serna wasn't interested in becoming a star. He just wanted to work</a> NPR: Edward James Olmos calls Serna the "most extraordinary improvisational actor" he's seen. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Tanned, Buff and Ready to Pose, Gaza Bodybuilders Feel Weight of Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
+ <p class="updated_time"> 03:03 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938">Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</a> WSJ: Russia’s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 01:50 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 02:03 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037">Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</a> WSJ: Aboard the Last Train Service Evacuating Front-Line Towns in Donbas 
- <p class="updated_time"> 12:50 AM CT, Jun. 04 </p> 
+ <p class="updated_time"> 01:03 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-steps-up-memorial-bans-for-tiananmen-square-massacre-anniversary-11654264250">Hong Kong Steps Up Bans on Tiananmen Anniversary</a> WSJ: Hong Kong Steps Up Bans on Tiananmen Anniversary 
- <p class="updated_time"> 11:50 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 12:03 AM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/harry-and-meghan-reunited-with-royal-family-for-queens-platinum-jubilee-11654257804">Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee</a> WSJ: Harry and Meghan Reunited With Royal Family for Queen’s Platinum Jubilee 
- <p class="updated_time"> 10:50 PM CT, Jun. 03 </p> 
+ <p class="updated_time"> 11:03 PM CT, Jun. 03 </p> 
  <a href="https://www.wsj.com/articles/beijing-sticks-to-xis-covid-19-stance-while-endorsing-premier-as-economic-fixer-11654278219">Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer</a> WSJ: Beijing Sticks to Xi’s Covid-19 Stance While Endorsing Premier as Economic Fixer 
  <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
@@ -83,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
  <p class="updated_time"> 01:32 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61686639?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa apologises to Liverpool and Real Madrid fans</a> BBC: Uefa apologises to Liverpool and Real Madrid fans "who had to experience or witness frightening and distressing events" at last Saturday's Champions League final. 
- <p class="updated_time"> 01:22 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-photos.html">Queen Elizabeth’s Platinum Jubilee: Seven Decades in Photos</a> NYT: The images show the jubilee is above all a tribute to one of history’s great acts of constancy. 
  <p class="updated_time"> 12:44 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/magazine/ukraine-afghanistan-refugees-new-york.html">They Fled Danger for New York. When Will Their New Lives Start?</a> NYT: Nothing about moving to New York is easy — especially for those fleeing Ukraine and Afghanistan. But locals do what they can to help. 
  <p class="updated_time"> 12:37 PM CT, Jun. 03 </p> 
@@ -197,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/arts/television/this-is-going-to-hurt.html">‘This is Going to Hurt’ Finds Dark Humor on the Maternity Ward</a> NYT: “This Is Going to Hurt,” a dramedy starring Ben Whishaw, kindled debate in Britain about hospital care for pregnant women and the pressures on doctors. 
  <p class="updated_time"> 12:55 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/africa/who-africa-covid-deaths.html">W.H.O Predicts Steep Drop in Covid Deaths in Africa in 2022</a> NYT: A study by the World Health Organization says that more than half the region’s population now has some level of immunity, mainly from unreported past infections. 
- <p class="updated_time"> 12:26 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/06/02/1102604453/queen-elizabeth-ii-platinum-jubilee-in-photos">Photos: Britain celebrates Queen Elizabeth's Platinum Jubilee</a> NPR: Huge crowds converged on central London on Thursday for the start of four days of public events to mark the queen's history-making 70 years on the throne. 
  <p class="updated_time"> 11:51 AM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/jubilee-tourists-us.html">Americans Visit London for the Queen’s Jubilee</a> NYT: They traveled from afar to celebrate Queen Elizabeth II’s 70-year reign. 
  <p class="updated_time"> 11:00 AM CT, Jun. 02 </p> 
