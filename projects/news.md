@@ -13,33 +13,33 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses against one another in the street-by-street battle for the city of Sievierodonetsk in the east. 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
+ <p class="updated_time"> 04:44 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 04:33 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
- <p class="updated_time"> 04:32 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 04:21 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103114124/ukraines-hoping-to-keep-the-surprises-coming-in-the-mens-world-cup-qualifiers">Ukraine's hoping to keep the surprises coming in the men's World Cup Qualifiers</a> NPR: NPR's Elissa Nadworny speaks with sports podcaster Roger Bennett about the Ukraine national soccer team's upset win over Scotland, and tomorrow's match against Wales. 
  <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103114110/the-leader-of-the-african-union-met-with-putin-to-tackle-the-food-crisis-issue">The leader of the African Union met with Putin to tackle the food crisis issue </a> NPR: More than three months into the Ukraine war, one of its major consequences is taking the spotlight: growing concerns of a global food crisis. 
- <p class="updated_time"> 03:32 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 03:44 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 03:20 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61691819?at_medium=RSS&at_campaign=KARANGA">Nigeria clash: Abuja mob burns man to death over row with Muslim cleric</a> BBC: Nigerian police say a mob burnt a vigilante to death after he argued with a Muslim cleric in Abuja. 
  <p class="updated_time"> 03:02 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee">Second Day of Platinum Jubilee Celebrated Queen Elizabeth in Her Absence</a> NYT: After making three public appearances at the start of her Platinum Jubilee festivities, Queen Elizabeth II skipped Friday’s event, where Prince Harry and his wife, Meghan, were among the crowd. 
- <p class="updated_time"> 02:32 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 02:44 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 02:08 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
+ <p class="updated_time"> 01:44 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 01:35 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61690382?at_medium=RSS&at_campaign=KARANGA">Abbott: US baby formula plant linked to national shortage resumes production</a> BBC: Abbott says it is restarting its plant in Michigan after it was closed because of contamination. 
- <p class="updated_time"> 01:32 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
- <p class="updated_time"> 12:32 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:44 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
@@ -360,8 +360,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/02/congress-pentagon-ukraine-aid-oversight-00036463">Pentagon vs. Congress tension builds over monitoring billions in Ukraine aid</a> Politico: The Hill is closely watching how the Defense Department allocates the recently passed $40 billion in aid to Ukraine, aware it's been burned in the past. 
  <p class="updated_time"> 05:47 PM CT, Jun. 01 </p> 
  <a href="https://www.politico.com/news/2022/06/01/fetterman-will-have-announcement-soon-on-return-to-campaign-trail-00036570">Fetterman will have announcement 'soon’ on return to campaign trail</a> Politico: The Pennsylvania Democratic Senate nominee's doctors 'want him to continue to rest.' 
- <p class="updated_time"> 05:35 PM CT, Jun. 01 </p> 
- <a href="https://www.cnn.com/2022/06/01/politics/recession-inflation-economy-hurricane-what-matters/index.html">Predicting a recession and a 'hurricane'</a> CNN: There's a consensus emerging that some tougher economic times are ahead of us. 
 
 
 </details>
