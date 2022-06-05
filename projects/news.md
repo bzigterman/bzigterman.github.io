@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:50 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 04:00 PM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
+ <p class="updated_time"> 03:56 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
  <p class="updated_time"> 03:49 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
@@ -17,21 +19,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 03:30 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
- <p class="updated_time"> 02:55 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:19 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
- <p class="updated_time"> 01:55 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 02:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61697093?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin vows to hit new targets if West sends weapons to Ukraine</a> BBC: The warning came as parts of Kyiv were hit in the first assault on Ukraine's capital for weeks. 
+ <p class="updated_time"> 02:19 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
- <p class="updated_time"> 12:55 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 01:19 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
+ <p class="updated_time"> 12:19 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 11:55 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 11:28 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 11:27 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 10:55 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 11:19 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshipers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
- <p class="updated_time"> 08:29 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
  <p class="updated_time"> 08:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
@@ -121,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61688826?at_medium=RSS&at_campaign=KARANGA">Mariah Carey sued for copyright over 'All I want for Christmas is You'</a> BBC: A US singer says he co-wrote a song called 'All I want for Christmas is You' five years before Carey's 1994 hit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1102668843/meet-isaac-and-nora-two-french-kids-who-are-big-in-latin-american-music">Meet Isaac and Nora, two French kids who are big in Latin American music </a> NPR: In 2019, an amateur video of two kids singing a Cuban bolero went viral on the internet. Three years later, the video of the song Veinte Años has been watched by millions on social media. 
- <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
- <a href="https://www.npr.org/2022/06/04/1102569849/actor-pepe-serna-wasnt-interested-in-becoming-a-star-he-just-wanted-to-work">Actor Pepe Serna wasn't interested in becoming a star. He just wanted to work</a> NPR: Edward James Olmos calls Serna the "most extraordinary improvisational actor" he's seen. 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
  <p class="updated_time"> 09:16 PM CT, Jun. 03 </p> 
