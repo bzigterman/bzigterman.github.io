@@ -1402,15 +1402,15 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">19K</td>
 <td class="gt_row gt_right gt_striped">22K</td>
-<td class="gt_row gt_right gt_striped">+17%</td></tr>
+<td class="gt_row gt_right gt_striped">+16%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">290</td>
 <td class="gt_row gt_right">247</td>
 <td class="gt_row gt_right">&minus;15%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">350K</td>
-<td class="gt_row gt_right gt_striped">174K</td>
-<td class="gt_row gt_right gt_striped">&minus;50%</td></tr>
+<td class="gt_row gt_right gt_striped">202K</td>
+<td class="gt_row gt_right gt_striped">&minus;42%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
