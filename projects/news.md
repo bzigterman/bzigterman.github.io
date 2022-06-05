@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 06:41 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 06:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61697093?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns over Western long-range weapons</a> BBC: Russia will expand its target list in Ukraine if Western countries send long-range weapons, he says. 
@@ -19,17 +19,23 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61659620?at_medium=RSS&at_campaign=KARANGA">Bonn climate conference: Ukraine war no excuse for prolonging coal, Kerry warns</a> BBC: US climate envoy John Kerry warns the world is "cooked" if countries continue using coal. 
  <p class="updated_time"> 06:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61565485?at_medium=RSS&at_campaign=KARANGA">Why the Central African Republic adopted Bitcoin</a> BBC: Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin. 
+ <p class="updated_time"> 06:02 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61590756?at_medium=RSS&at_campaign=KARANGA">Wheat: Why India's export ban matters to the world</a> BBC: India's move to ban exports rattled global markets, but the government says it won't have much impact. 
+ <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61511546?at_medium=RSS&at_campaign=KARANGA">How China plans to become the next big space power</a> BBC: China plans to put astronauts on the Moon and send probes to Mars and Jupiter. Why the grand plans? 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html">Russia Seeks Buyers for Plundered Ukraine Grain, U.S. Warns</a> NYT: American diplomats have alerted 14 countries, most in Africa, that Russian ships filled with stolen Ukrainian grain could be headed their way, posing a dilemma to countries facing dire food shortages. 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
- <p class="updated_time"> 05:33 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 05:48 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 05:07 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
  <p class="updated_time"> 05:06 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
- <p class="updated_time"> 04:33 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 04:48 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 04:28 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1098946788/russia-ukraine-war-what-happened-this-weekend-june-4-5">Russia-Ukraine war: What happened this weekend (June 4-5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -37,15 +43,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
  <p class="updated_time"> 03:56 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 03:49 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 03:42 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
- <p class="updated_time"> 03:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
- <p class="updated_time"> 02:33 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:25 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61669954?at_medium=RSS&at_campaign=KARANGA">Why Australia is declaring a 'new era' in the Pacific</a> BBC: Albanese's government is promising to restore ties with its "brothers and sisters" - is it too late? 
+ <p class="updated_time"> 02:48 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
- <p class="updated_time"> 01:33 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 01:48 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
@@ -174,8 +180,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
  <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-will-skip-a-church-service-on-friday-after-discomfort-during-jubilee-ceremony.html">Queen Elizabeth will skip Friday’s church service after ‘discomfort’ during the jubilee’s first day.</a> NYT: The queen will not attend a thanksgiving service on Friday that is a major event of her Platinum Jubilee. 
- <p class="updated_time"> 05:32 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/prince-andrew-covid-positive.html">Prince Andrew Tests Positive and Will Miss Jubilee Event on Friday</a> NYT: The thanksgiving service was the only major event of the Platinum Jubilee that the prince had been expected to attend. 
  <p class="updated_time"> 05:31 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/great-paul-st-pauls-cathedral-london.html">What to Know About Great Paul Bell at St. Paul’s Cathedral</a> NYT: The London cathedral’s bronze bell, weighing over 16 tons, is the largest bell ever cast in the British Isles. 
@@ -191,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/australia/when-freedom-is-only-the-beginning.html">When Freedom Is Only the Beginning</a> NYT: Refugees who’d spent years in detention had a lot of questions about their new lives in Australia. Some were easier to answer than others. 
  <p class="updated_time"> 06:55 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
- <p class="updated_time"> 06:41 PM CT, Jun. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61664982?at_medium=RSS&at_campaign=KARANGA">Could toxic Depp-Heard case have chilling effect on accusers?</a> BBC: Could the Depp-Heard case have a chilling effect on others bringing allegations of domestic abuse? 
 
 
 </details>
