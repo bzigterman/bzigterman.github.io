@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:19 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 10:30 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
- <p class="updated_time"> 09:17 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria violence: Gunmen attack Catholic church in Ondo state</a> BBC: The armed men entered the church during a service and killed several people. 
+ <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
+ <p class="updated_time"> 10:04 AM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria violence: Gunmen attack Catholic church killing worshippers in Ondo state</a> BBC: The armed men entered the church in south-west Nigeria during a service and killed several people. 
+ <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
+ <p class="updated_time"> 09:59 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 09:31 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">Dozens are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshipers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
- <p class="updated_time"> 08:40 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 08:31 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 08:29 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
  <p class="updated_time"> 08:16 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 08:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
- <p class="updated_time"> 07:51 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 07:40 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
+ <p class="updated_time"> 07:31 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-europe-to-accelerate-energy-efficiency-11654434181">Ukraine War Drives Europe to Accelerate Energy Efficiency</a> WSJ: Ukraine War Drives Europe to Accelerate Energy Efficiency 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
  <p class="updated_time"> 06:45 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61696973?at_medium=RSS&at_campaign=KARANGA">China fighter jet intercepts Australian plane - Canberra</a> BBC: Australia accuses a Chinese pilot of dangerous actions near the aircraft over the South China Sea. 
- <p class="updated_time"> 06:40 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-europe-to-accelerate-energy-efficiency-11654434181">Ukraine War Drives Europe to Accelerate Energy Efficiency</a> WSJ: Ukraine War Drives Europe to Accelerate Energy Efficiency 
- <p class="updated_time"> 05:40 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 06:31 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Over 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
- <p class="updated_time"> 04:40 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
+ <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Over 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A fire at a depot in Bangladesh has killed at least 49 and injured more than 100</a> NPR: The blaze in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
  <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
@@ -135,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/asia/philippines-drug-war-raquel-fortun.html">In the Philippines, a Doctor Unearths a Drug War’s True Toll</a> NYT: Raquel Fortun, one of only two forensic pathologists in the Philippines, is using her skills to show how other doctors falsely claimed some victims of the country’s drug war had died natural deaths. 
  <p class="updated_time"> 04:13 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-100-days.html">100 Days of War in Ukraine: Death, Destruction and Loss</a> NYT: The grinding conflict in Ukraine has rocked the global order, wrought destruction that “defies comprehension” and shows little sign of ending soon. 
- <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102990029/russia-has-blocked-20-million-tons-of-grain-from-being-exported-from-ukraine">Russia has blocked 20 million tons of grain from being exported from Ukraine</a> NPR: 20 million tons of grain are trapped in Ukraine because of a Russian blockade of its ports. Getting the grain out by rail or truck is proving to be a huge logistical challenge. 
  <p class="updated_time"> 03:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-ukraine-war-critics-arrests.html">Thousands Swept Up as Kremlin Clamps Down on War Criticism</a> NYT: The arrests are a stark gauge of how the Kremlin has intensified repression of critics. At least 50 people now face years-long prison sentences. 
  <p class="updated_time"> 01:56 PM CT, Jun. 03 </p> 
@@ -220,6 +222,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 09:43 AM CT, Jun. 05 </p> 
+ <a href="https://www.politico.com/news/2022/06/05/tom-rice-trump-impeachment-00037265">‘That was the conservative vote,’ Tom Rice says of his vote to impeach Trump</a> Politico: The South Carolina Republican is a target of the former president in his state's upcoming primary. 
+ <p class="updated_time"> 09:38 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
  <p class="updated_time"> 09:03 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/pete-buttigieg-guns-washington-00037262">Buttigieg sees 'insanity' in reaction to gun violence</a> Politico: "Will we actually acknowledge the reasons why we are the only country, the only developed country, where this happens on a routine basis?" 
  <p class="updated_time"> 08:08 AM CT, Jun. 05 </p> 
@@ -238,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan. 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and… Merrick Garland. 
  <p class="updated_time"> 05:48 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/russia-ukraine-kyiv-tanks-00037249">Russia says strikes on Kyiv  destroyed tanks donated by West</a> Politico: There was no immediate confirmation from Ukraine. 
- <p class="updated_time"> 04:00 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">How Influential Election Deniers Have Fueled a Fight to Control Elections</a> NYT: Several prominent promoters of election misinformation are backing a slate of Republican candidates running for secretary of state in races across the country. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/us/politics/border-migrants-asylum.html">How Asylum Seekers Cross the Border</a> NYT: The southern border is seeing a historic spike in migrant crossings. Many are coming in hope of asking for asylum, a right that has been unavailable because of pandemic-related restrictions on immigration. A New York Times photographer documented three ways that people cross the border into the United States. 
  <p class="updated_time"> 11:42 PM CT, Jun. 04 </p> 
@@ -254,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
  <p class="updated_time"> 01:06 PM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103096391/small-plane-biden-beach-house-delaware">A small plane flew near Biden's beach house in Delaware</a> NPR: The White House said it was apparently by mistake that a small private plane entered restricted airspace. The president and first lady were evacuated but have since returned. 
- <p class="updated_time"> 12:38 PM CT, Jun. 04 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:51 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/gop-diversity-texas-arizona.html">Republicans Elevate Diverse Recruits in Bid to Win House Majority</a> NYT: The G.O.P.’s plan to win back the House rests on candidates of color who leaders hope can help broaden the party’s appeal. 
  <p class="updated_time"> 10:05 AM CT, Jun. 04 </p> 
@@ -310,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/us/politics/trump-pence-safety-jan-6.html">Before Jan. 6, Aide Warned Secret Service of Security Risk to Pence</a> NYT: New details flesh out how the pressure campaign by Donald J. Trump and his allies to block certification of the 2020 election left the vice president’s staff fearing for his safety. 
  <p class="updated_time"> 02:51 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/u-s-general-west-should-send-jets-to-ukraine-asap-00037173">U.S. general calls on West to send fighter jets to Ukraine ‘as soon as possible'</a> Politico: He added that sending Soviet-era MiG fighters to Ukraine in the near term is the best “immediate solution.” 
- <p class="updated_time"> 02:34 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/fetterman-had-a-previously-undisclosed-heart-condition-00037175">Fetterman had a previously undisclosed heart condition</a> Politico: The Pennsylvania Democratic Senate nominee's cardiologist said in a letter that Fetterman did not follow doctor’s orders after a 2017 appointment. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over ‘unauthorized’ interview by former adviser</a> Politico: The select committee’s staff director told aides he was “deeply disappointed” after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
  <p class="updated_time"> 01:20 PM CT, Jun. 03 </p> 
