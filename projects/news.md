@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:59 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Live Updates: Ukraine Rejects French Diplomatic Push and Vows to Press On</a> NYT: Ukraine condemned President Emmanuel Macron’s call not to “humiliate” Russia as the war grinds to a stalemate in the east. Kyiv’s mayor said the capital was rocked by explosions on Sunday after weeks of relative calm. 
  <p class="updated_time"> 04:33 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
  <p class="updated_time"> 04:17 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
- <p class="updated_time"> 03:52 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Live Updates: Ukraine Rejects French Diplomatic Push and Vows to Press On</a> NYT: Ukraine condemned President Emmanuel Macron’s call not to “humiliate” Russia as the war grinds to a stalemate in the east. Kyiv’s mayor said the capital was rocked by explosions on Sunday after weeks of relative calm. 
- <p class="updated_time"> 03:50 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 04:05 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A Bangladesh container depot fire has killed at least 28 and injured more that 100</a> NPR: The fire at a container depot in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
@@ -23,21 +23,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 39 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
- <p class="updated_time"> 02:50 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
+ <p class="updated_time"> 02:05 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
- <p class="updated_time"> 01:50 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 01:29 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103136360/north-korea-test-fires-short-range-missiles">North Korea has test-fired a salvo of short-range missiles</a> NPR: The barrage of eight missiles test-fired over 35 minutes extends a streak in weapons demonstrations this year that U.S. and South Korean officials say may culminate with a nuclear test explosion. 
- <p class="updated_time"> 12:50 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 01:05 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
- <p class="updated_time"> 11:50 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:05 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 11:39 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
