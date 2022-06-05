@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
+ <p class="updated_time"> 06:19 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 06:10 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 05:52 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Over 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
- <p class="updated_time"> 04:52 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 05:19 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
+ <p class="updated_time"> 04:19 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 04:17 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
- <p class="updated_time"> 03:52 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A Bangladesh container depot fire has killed at least 38 and injured more than 100</a> NPR: The fire at a container depot in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 39 people, including firefighters. Many others were in critical condition. 
+ <p class="updated_time"> 03:19 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
- <p class="updated_time"> 02:52 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
+ <p class="updated_time"> 02:19 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
- <p class="updated_time"> 01:52 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 01:29 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103136360/north-korea-test-fires-short-range-missiles">North Korea has test-fired a salvo of short-range missiles</a> NPR: The barrage of eight missiles test-fired over 35 minutes extends a streak in weapons demonstrations this year that U.S. and South Korean officials say may culminate with a nuclear test explosion. 
  <p class="updated_time"> 11:39 PM CT, Jun. 04 </p> 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102990029/russia-has-blocked-20-million-tons-of-grain-from-being-exported-from-ukraine">Russia has blocked 20 million tons of grain from being exported from Ukraine</a> NPR: 20 million tons of grain are trapped in Ukraine because of a Russian blockade of its ports. Getting the grain out by rail or truck is proving to be a huge logistical challenge. 
  <p class="updated_time"> 04:11 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102990015/the-eu-will-likely-bar-insurance-on-ships-carrying-russian-oil-itd-be-a-big-blow">The EU moves to bar insurance on ships carrying Russian oil. It'd be a big blow</a> NPR: While the European Union cuts its purchases of Russian oil, it's also making a move to strike another, less-noticed blow to the Russian economy — depriving insurance for ships carrying its oil. 
- <p class="updated_time"> 03:54 PM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102596369/russia-ukraine-war-what-happened-today-june-3">Russia-Ukraine war: What happened today (June 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:30 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61685720?at_medium=RSS&at_campaign=KARANGA">Emerson Royal: Footballer unscathed after gunfight during mugging in Brazil</a> BBC: Emerson Royal thanks an off-duty police officer who saved him from an armed robbery in Brazil. 
  <p class="updated_time"> 03:20 PM CT, Jun. 03 </p> 
@@ -218,6 +218,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103145012/politics-chat-jan-6-findings-gun-legislation-oz-and-fetterman-on-pa-ballot">Politics chat: Jan. 6 findings; gun legislation; Oz and Fetterman on PA ballot</a> NPR: The House select committee investigating the January 6 attack begin hearings in prime time this week; negotiations over gun legislation continue; PA's Democratic senate candidate has medical news. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103144991/5-republicans-are-off-the-michigan-gubernatorial-ballot-after-signature-fraud">5 Republicans are off the Michigan gubernatorial ballot after signature fraud</a> NPR: Five of Michigan's GOP candidates for governor were removed from the race after using fraudulent signatures to get on the ballot. But Gov. Gretchen Whitmer will still need to work hard to keep office. 
+ <p class="updated_time"> 06:56 AM CT, Jun. 05 </p> 
+ <a href="https://www.politico.com/news/2022/06/05/wisconsin-gunman-evers-whitmer-mcconnell-00037250">Whitmer, McConnell, Evers reportedly on Wisconsin gunman’s list</a> Politico: Douglas K. Uhde is suspected of killing a former county judge. 
  <p class="updated_time"> 06:01 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/trumps-endorsement-stumper-family-friends-or-fierce-ally-00036313">Trump’s endorsement stumper: Family friends or fierce ally</a> Politico: The former president hasn't picked sides as Republicans Andrew Giuliani, Lee Zeldin and others compete for the Republican nomination for governor of New York. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
@@ -302,12 +308,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/monkeypox-increase-expected-because-of-community-spread-00037159">More cases of monkeypox expected as CDC warns of community spread</a> Politico: Since May, there have been more than 700 global cases of monkeypox identified in countries outside West and Central Africa where the virus is endemic. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over ‘unauthorized’ interview by former adviser</a> Politico: The select committee’s staff director told aides he was “deeply disappointed” after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
- <p class="updated_time"> 01:42 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/williams-recommended-to-be-next-army-europe-commander-00037157">Williams recommended to be next Army Europe commander</a> Politico: The West Point superintendent would become the first Black general to head the Germany-based command. 
  <p class="updated_time"> 01:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/los-angeles-mayors-race-caruso.html">Rick Caruso’s Law-and-Order Campaign for Los Angeles Mayor</a> NYT: Rick Caruso, a billionaire front-runner in Tuesday’s primary election for Los Angeles mayor, has built his campaign on a law-and-order message. 
- <p class="updated_time"> 01:18 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/special-olympics-reverses-vaccine-requirement-after-florida-threatens-27-5m-fine-00037123">Special Olympics reverses vaccine requirement after Florida threatens $27.5M fine</a> Politico: Florida Gov. Ron DeSantis on Friday during a press conference hailed the decision by the Special Olympics to reverse the vaccine mandate as a win for the thousands of athletes who are expected to compete in the games. 
  <p class="updated_time"> 12:45 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/west-point-expected-to-be-ordered-to-take-down-portrait-of-robert-e-lee-00037115">West Point expected to be ordered to take down portrait of Robert E. Lee</a> Politico: A congressionally established commission is likely to recommend the removal, sources say. 
  <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
@@ -344,16 +346,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/02/biden-demands-action-on-guns-how-much-more-carnage-are-we-willing-to-accept-00036916">Biden demands action on guns: ‘How much more carnage are we willing to accept?’</a> Politico: In a rare prime-time address, the president weighed in forcefully — and specifically — on the issue that’s gutting communities across the country. 
  <p class="updated_time"> 05:11 PM CT, Jun. 02 </p> 
  <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
- <p class="updated_time"> 05:00 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102660499/biden-gun-control-speech-congress">President Biden calls for assault weapons ban and other measures to curb gun violence</a> NPR: The address followed recent mass shootings in New York, Texas and Oklahoma. Biden said the measures aren't about taking away rights, but about protecting Americans. 
- <p class="updated_time"> 03:39 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102728950/thousands-of-high-schoolers-protested-after-parkland-this-one-says-little-change">Thousands of high schoolers protested after Parkland. This one says little changed</a> NPR: One of thousands of high school students who walked out of class demanding action after the Parkland shooting says that there has been no meaningful reform, and America's politics are ruled by fear. 
  <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
  <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
  <a href="https://www.cnn.com/2022/05/26/politics/biden-student-loan-debt-forgiveness-complications/index.html">Biden is considering canceling some student debt. Here's why it might not be such a great idea</a> CNN: President Joe Biden is considering canceling some federal student loan debt, suggesting a once pie-in-the-sky idea is closer than ever to becoming reality. 
- <p class="updated_time"> 06:56 AM CT, Jun. 02 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/06/02/house-jumpstarts-action-on-guns-00036634">House jumpstarts action on guns</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
