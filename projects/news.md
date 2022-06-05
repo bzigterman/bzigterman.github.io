@@ -9,30 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
- <p class="updated_time"> 07:45 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:05 PM CT, Jun. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Five killed, scores injured in depot blast</a> BBC: The explosion happened after a fire broke out at a depot in the south-eastern town of Sitakunda. 
+ <p class="updated_time"> 09:21 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses against one another in the street-by-street battle for the city of Sievierodonetsk in the east. 
+ <p class="updated_time"> 09:17 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
+ <p class="updated_time"> 08:17 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 07:45 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
- <p class="updated_time"> 07:12 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
+ <p class="updated_time"> 07:17 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 06:54 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
- <p class="updated_time"> 06:50 PM CT, Jun. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Five killed, scores injured in depot blast</a> BBC: The explosion happened after a fire broke out at a depot in the south-eastern town of Sitakunda. 
  <p class="updated_time"> 06:31 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Six held in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
- <p class="updated_time"> 06:12 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
- <p class="updated_time"> 05:12 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 06:17 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
+ <p class="updated_time"> 05:17 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
  <p class="updated_time"> 04:21 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 04:12 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
  <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103114124/ukraines-hoping-to-keep-the-surprises-coming-in-the-mens-world-cup-qualifiers">Ukraine's hoping to keep the surprises coming in the men's World Cup Qualifiers</a> NPR: NPR's Elissa Nadworny speaks with sports podcaster Roger Bennett about the Ukraine national soccer team's upset win over Scotland, and tomorrow's match against Wales. 
  <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
@@ -137,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/asia/india-kashmir-hindu-pandits-attacks.html">Hindus in Kashmir Desperate to Flee Amid Spike in Attacks</a> NYT: Decades after militant violence forced many of them out of the disputed region, hundreds of families have left in another exodus. 
- <p class="updated_time"> 10:18 AM CT, Jun. 03 </p> 
- <a href="https://www.wsj.com/articles/100-days-in-russias-claims-of-success-in-ukraine-face-hard-test-of-reality-11654283900">100 Days In, Russia's Claims of Success in Ukraine Face Hard Test of Reality</a> WSJ: Russia’s economy is faltering and losses of troops and materiel are high, but President Vladimir Putin still enjoys widespread domestic support. 
  <p class="updated_time"> 10:01 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/uk-visa-high-potential-individual.html">U.K.’s ‘Brightest and Best’ Visa Leaves Out Africa, India and Latin America</a> NYT: Under the new program, graduates of top-ranked global colleges can move to Britain for two years, even without a job offer. But critics say the plan nurtures global inequalities. 
  <p class="updated_time"> 09:25 AM CT, Jun. 03 </p> 
@@ -220,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:05 PM CT, Jun. 04 </p> 
+ <a href="https://www.politico.com/news/2022/06/04/north-korea-test-fires-salvo-of-short-range-missiles-00037246">North Korea test-fires salvo of short-range missiles</a> Politico: The launch came a day after the U.S. aircraft carrier Ronald Reagan concluded a three-day naval drill with South Korea. 
  <p class="updated_time"> 04:37 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 03:46 PM CT, Jun. 04 </p> 
