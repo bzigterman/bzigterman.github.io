@@ -9,38 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:50 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 02:26 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 01:33 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 01:11 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
+ <p class="updated_time"> 01:30 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
- <p class="updated_time"> 12:11 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 12:30 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
+ <p class="updated_time"> 11:30 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 11:28 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 11:27 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 11:11 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
+ <p class="updated_time"> 10:30 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
- <p class="updated_time"> 10:11 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
  <p class="updated_time"> 09:59 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 09:31 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine's Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Hundreds of its fighters are prisoners of war after a brutal battle with Russia for Mariupol, but the regiment is training new members and hoping to benefit from Western aid. 
+ <p class="updated_time"> 09:30 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshipers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
- <p class="updated_time"> 09:11 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 08:29 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
  <p class="updated_time"> 08:00 AM CT, Jun. 05 </p> 
@@ -279,9 +279,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/albany-to-adams-you-cant-always-get-what-you-want-00037160">Albany to Adams: You can’t always get what you want</a> Politico: While Team Adams also notched several wins, more than half a dozen lawmakers and legislative aides said in interviews that the city’s high-profile losses were sealed by unrealistic expectations and outreach from the mayor. 
  <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
- <a href="https://www.politico.com/news/2022/06/04/trump-weighs-a-big-bet-in-alabama-senate-race-00037154">Trump weighs a big bet in Alabama Senate race</a> Politico: The former president could use a win after his Georgia shellacking. But his endorsement choices in the GOP runoff are tricky. 
- <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/push-to-supersize-pentagon-budget-ratchets-up-00036987">The push to supersize Pentagon spending ratchets up</a> Politico: The fight over Biden's $813 billion national defense budget will come to a head when the House and Senate begin work this month. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 04 </p> 
+ <a href="https://www.politico.com/news/2022/06/04/trump-weighs-a-big-bet-in-alabama-senate-race-00037154">Trump weighs a big bet in Alabama Senate race</a> Politico: The former president could use a win after his Georgia shellacking. But his endorsement choices in the GOP runoff are tricky. 
  <p class="updated_time"> 02:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/beto-orourke-gun-control.html">Beto O’Rourke’s Talk of Gun Control Has Become Both a Political Risk and Reward</a> NYT: Mr. O’Rourke is returning to an issue that had haunted his campaign for Texas governor for months. 
  <p class="updated_time"> 09:56 PM CT, Jun. 03 </p> 
@@ -320,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over ‘unauthorized’ interview by former adviser</a> Politico: The select committee’s staff director told aides he was “deeply disappointed” after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
  <p class="updated_time"> 01:20 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/los-angeles-mayors-race-caruso.html">Rick Caruso’s Law-and-Order Campaign for Los Angeles Mayor</a> NYT: Rick Caruso, a billionaire front-runner in Tuesday’s primary election for Los Angeles mayor, has built his campaign on a law-and-order message. 
- <p class="updated_time"> 12:45 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/west-point-expected-to-be-ordered-to-take-down-portrait-of-robert-e-lee-00037115">West Point expected to be ordered to take down portrait of Robert E. Lee</a> Politico: A congressionally established commission is likely to recommend the removal, sources say. 
  <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/ads-gop-lawmakers-gun-safety-00037100">Everytown launches ads targeting GOP lawmakers to act on gun-safety measures</a> Politico: The weeklong media campaign from the nation’s largest gun safety group comes as Capitol Hill negotiations enter a key stretch. 
  <p class="updated_time"> 11:29 AM CT, Jun. 03 </p> 
@@ -330,6 +328,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/navarro-indicted-for-contempt-of-congress-after-defying-jan-6-committee-subpoena-00037069">Navarro indicted for contempt of Congress after defying Jan. 6 panel subpoena</a> Politico: After Trump’s defeat in the 2020 election and subsequent false election fraud claims, Peter Navarro started spearheading efforts to overturn the election. 
  <p class="updated_time"> 10:52 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102872199/gallup-poll-pro-choice-roe-v-wade-supreme-court">In a new U.S. poll, a majority identify as 'pro-choice' for the first time in decades</a> NPR: The Gallup poll, conducted after the leak of a draft Supreme Court opinion that would overturn Roe v. Wade, says that 55 percent of Americans now identify as pro-choice, up from 49 percent last year. 
+ <p class="updated_time"> 08:45 AM CT, Jun. 03 </p> 
+ <a href="https://www.politico.com/news/2022/06/03/white-house-climate-office-action-00036886">‘Slow-walked or watered down’: Friendly fire strafes Biden’s climate office</a> Politico: Top domestic climate adviser Gina McCarthy says she is "leaving no stone unturned" to meet President Joe Biden's goals. Her office's critics say it's producing interference and delay. 
  <p class="updated_time"> 08:36 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-speech-transcript-gun-control.html">Full Transcript: Biden’s Speech on Gun Control</a> NYT: As the nation grieves for the victims of several recent mass shootings, the president called for a ban on assault weapons and new “red flag” laws. 
  <p class="updated_time"> 06:48 AM CT, Jun. 03 </p> 
