@@ -9,25 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Gaza Bodybuilders Feel Weight of Israeli Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
+ <p class="updated_time"> 11:23 PM CT, Jun. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61693783?at_medium=RSS&at_campaign=KARANGA">El Zulia mine blast: Nine miners dead and six still trapped</a> BBC: Rescue workers are working against the clock to rescue the surviving miners still trapped underground. 
+ <p class="updated_time"> 11:10 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses in the battle for the city of Sievierodonetsk. Russian forces appeared to attack Kyiv on Sunday after weeks of calm there. 
  <p class="updated_time"> 10:32 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh: 16 killed, scores injured in depot blast</a> BBC: The explosion happened after a fire broke out at a depot in the south-eastern town of Sitakunda. 
- <p class="updated_time"> 10:00 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:30 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
- <p class="updated_time"> 09:21 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses against one another in the street-by-street battle for the city of Sievierodonetsk in the east. 
- <p class="updated_time"> 09:00 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 09:30 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
- <p class="updated_time"> 08:00 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 08:30 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
  <p class="updated_time"> 07:45 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
- <p class="updated_time"> 07:00 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 07:30 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 06:54 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 06:31 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Six held in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
- <p class="updated_time"> 06:00 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 06:30 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
@@ -89,12 +93,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/04/1102668843/meet-isaac-and-nora-two-french-kids-who-are-big-in-latin-american-music">Meet Isaac and Nora, two French kids who are big in Latin American music </a> NPR: In 2019, an amateur video of two kids singing a Cuban bolero went viral on the internet. Three years later, the video of the song Veinte Años has been watched by millions on social media. 
  <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1102569849/actor-pepe-serna-wasnt-interested-in-becoming-a-star-he-just-wanted-to-work">Actor Pepe Serna wasn't interested in becoming a star. He just wanted to work</a> NPR: Edward James Olmos calls Serna the "most extraordinary improvisational actor" he's seen. 
- <p class="updated_time"> 04:00 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Gaza Bodybuilders Feel Weight of Israeli Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 02:04 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61667282?at_medium=RSS&at_campaign=KARANGA">Shot dead by Sri Lankan police while trying to get fuel</a> BBC: The UN and human rights groups have warned authorities in Sri Lanka against using excessive force. 
- <p class="updated_time"> 09:31 PM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61687874?at_medium=RSS&at_campaign=KARANGA">Peter Navarro: Ex-Trump aide charged with contempt of Congress</a> BBC: Peter Navarro was arrested after refusing to co-operate with the inquiry into last year's US Capitol riot. 
  <p class="updated_time"> 09:16 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html">Carbon Dioxide Levels Are Highest in Human History</a> NYT: Humans pumped 36 billion tons of the planet-warming gas into the atmosphere in 2021, more than in any previous year. It comes from burning oil, gas and coal. 
  <p class="updated_time"> 06:00 PM CT, Jun. 03 </p> 
