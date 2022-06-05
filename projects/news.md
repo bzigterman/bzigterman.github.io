@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:12 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 39, including several firefighters. Many other people were in critical condition. 
+ <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
+ <p class="updated_time"> 03:02 AM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: 34 killed, hundreds injured in depot blast</a> BBC: The explosion happened as rescuers tackled a fire at a depot near the south-eastern city of Chittagong. 
+ <p class="updated_time"> 02:57 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Live Updates: Ukraine Rejects French Diplomatic Push and Vows to Press On</a> NYT: Ukraine condemned President Emmanuel Macron’s call not to “humiliate” Russia as the war grinds to a stalemate in the east. Kyiv’s mayor said the capital was rocked by explosions on Sunday after weeks of relative calm. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
+ <p class="updated_time"> 02:16 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 02:10 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
- <p class="updated_time"> 02:05 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: 32 killed, hundreds injured in depot blast</a> BBC: The explosion happened as rescuers tackled a fire at a depot near the south-eastern city of Chittagong. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
- <p class="updated_time"> 01:53 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 01:29 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103136360/north-korea-test-fires-short-range-missiles">North Korea has test-fired a salvo of short-range missiles</a> NPR: The barrage of eight missiles test-fired over 35 minutes extends a streak in weapons demonstrations this year that U.S. and South Korean officials say may culminate with a nuclear test explosion. 
- <p class="updated_time"> 12:53 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 01:16 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
- <p class="updated_time"> 11:53 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 12:16 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
- <p class="updated_time"> 11:40 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
  <p class="updated_time"> 11:39 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
  <p class="updated_time"> 11:28 PM CT, Jun. 04 </p> 
@@ -39,9 +41,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Gaza Bodybuilders Feel Weight of Israeli Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 11:23 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61693783?at_medium=RSS&at_campaign=KARANGA">El Zulia mine blast: Nine miners dead and six still trapped</a> BBC: Rescue workers are working against the clock to rescue the surviving miners still trapped underground. 
- <p class="updated_time"> 10:53 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 11:16 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
- <p class="updated_time"> 09:53 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:16 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 06:54 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
@@ -56,7 +58,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103114110/the-leader-of-the-african-union-met-with-putin-to-tackle-the-food-crisis-issue">The leader of the African Union met with Putin to tackle the food crisis issue </a> NPR: More than three months into the Ukraine war, one of its major consequences is taking the spotlight: growing concerns of a global food crisis. 
  <p class="updated_time"> 03:20 PM CT, Jun. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61691819?at_medium=RSS&at_campaign=KARANGA">Nigeria clash: Abuja mob burns man to death over row with Muslim cleric</a> BBC: Nigerian police say a mob burnt a vigilante to death after he argued with a Muslim cleric in Abuja. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61691819?at_medium=RSS&at_campaign=KARANGA">Nigeria clash: Abuja mob burns man to death over row with Muslim cleric</a> BBC: Nigerian police say a mob burnt the man to death in the capital after he rowed with a Muslim cleric. 
  <p class="updated_time"> 02:08 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 01:35 PM CT, Jun. 04 </p> 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html">U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability</a> NYT: Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years. 
  <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/americas/canada-gun-buyback-parliament.html">Why Canada Races on Gun Policy When America Crawls </a> NYT: The speed of policymaking in Canada, and its frequent deadlock in the U.S., may come down to the rules of their political systems. 
- <p class="updated_time"> 01:01 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/arts/television/this-is-going-to-hurt.html">‘This is Going to Hurt’ Finds Dark Humor on the Maternity Ward</a> NYT: “This Is Going to Hurt,” a dramedy starring Ben Whishaw, kindled debate in Britain about hospital care for pregnant women and the pressures on doctors. 
  <p class="updated_time"> 12:55 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/africa/who-africa-covid-deaths.html">W.H.O Predicts Steep Drop in Covid Deaths in Africa in 2022</a> NYT: A study by the World Health Organization says that more than half the region’s population now has some level of immunity, mainly from unreported past infections. 
  <p class="updated_time"> 11:51 AM CT, Jun. 02 </p> 
