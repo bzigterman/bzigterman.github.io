@@ -9,30 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
+ <p class="updated_time"> 11:39 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
+ <p class="updated_time"> 11:29 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses in the battle for the city of Sievierodonetsk. Russian forces appeared to attack Kyiv on Sunday after weeks of calm there. 
+ <p class="updated_time"> 11:28 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
  <p class="updated_time"> 11:27 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/gaza-palestinians-bodybuilding.html">Gaza Bodybuilders Feel Weight of Israeli Blockade</a> NYT: Bodybuilding is popular among Palestinians living in Gaza, but travel restrictions and other obstacles as a result of the Israeli blockade make competing abroad a struggle. 
  <p class="updated_time"> 11:23 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61693783?at_medium=RSS&at_campaign=KARANGA">El Zulia mine blast: Nine miners dead and six still trapped</a> BBC: Rescue workers are working against the clock to rescue the surviving miners still trapped underground. 
- <p class="updated_time"> 11:10 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/06/04/world/russia-ukraine-war-news">Live Updates: As Battles Rage, Ukraine Rejects Macron’s Plea Not to ‘Humiliate’ Russia</a> NYT: The Ukrainians and Russians both claimed to be inflicting decisive losses in the battle for the city of Sievierodonetsk. Russian forces appeared to attack Kyiv on Sunday after weeks of calm there. 
+ <p class="updated_time"> 11:07 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
  <p class="updated_time"> 10:32 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh: 16 killed, scores injured in depot blast</a> BBC: The explosion happened after a fire broke out at a depot in the south-eastern town of Sitakunda. 
- <p class="updated_time"> 10:30 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618">Russia, Ukraine Battle in Key Eastern City</a> WSJ: Russia, Ukraine Battle in Key Eastern City 
- <p class="updated_time"> 09:30 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 10:07 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
- <p class="updated_time"> 08:30 PM CT, Jun. 04 </p> 
+ <p class="updated_time"> 09:07 PM CT, Jun. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
+ <p class="updated_time"> 08:07 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
  <p class="updated_time"> 07:45 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
- <p class="updated_time"> 07:30 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/china-high-speed-train-crash-leaves-one-dead-eight-injured-11654343267">China High-Speed Train Crash Leaves One Dead, Eight Injured</a> WSJ: China High-Speed Train Crash Leaves One Dead, Eight Injured 
+ <p class="updated_time"> 07:07 PM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 06:54 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 06:31 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61690523?at_medium=RSS&at_campaign=KARANGA">Tiananmen: Six held in Hong Kong on anniversary of massacre</a> BBC: China has effectively banned the city's annual vigil commemorating the Tiananmen Square massacre. 
- <p class="updated_time"> 06:30 PM CT, Jun. 04 </p> 
- <a href="https://www.wsj.com/articles/russians-get-conflicting-news-on-the-ukraine-war-as-telegram-turns-into-an-information-battlefield-11654314693">Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield</a> WSJ: Russians Get Conflicting News on the Ukraine War as Telegram Turns Into an Information Battlefield 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
  <p class="updated_time"> 04:21 PM CT, Jun. 04 </p> 
@@ -55,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/russia-africa-grain.html">Russia Needs Friends. Africa, Needing Food, Isn’t Turning Its Back.</a> NYT: A meeting between President Vladimir V. Putin of Russia and the head of the African Union, President Macky Sall of Senegal, showed that Africa is not prepared to cut ties to Russia. 
  <p class="updated_time"> 11:46 AM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61691816?at_medium=RSS&at_campaign=KARANGA">Ukraine anger as Macron says 'Don't humiliate Russia'</a> BBC: The French leader wants to give Vladimir Putin an "exit ramp", but Ukraine rejects that stance. 
- <p class="updated_time"> 11:38 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
  <p class="updated_time"> 10:09 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103084679/french-open-iga-swiatek-wins-over-coco-gauff-tennis">Iga Swiatek tops Coco Gauff to win the French Open</a> NPR: Tennis's top-ranked Swiatek beat Gauff 6-1, 6-3 in the final at Roland Garros. Swiatek's unbeaten run of 35 matches equals one by Venus Williams in 2000 as the longest this century. 
  <p class="updated_time"> 10:04 AM CT, Jun. 04 </p> 
@@ -131,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/americas/canada-british-monarchy-queen.html">Most Canadians Want to See the British Monarchy Come to an End</a> NYT: In a recent poll, 67 percent of respondents said they opposed the idea of Charles succeeding his mother to become Canada’s king. 
  <p class="updated_time"> 12:28 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685718?at_medium=RSS&at_campaign=KARANGA">Champions League Final: Harrowing accounts of post-match violence spark debate</a> BBC: UFC fighter Paddy Pimblett tells French media men with weapons were attacking and robbing fans. 
- <p class="updated_time"> 12:19 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
  <p class="updated_time"> 11:44 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
  <p class="updated_time"> 10:38 AM CT, Jun. 03 </p> 
@@ -218,12 +220,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 PM CT, Jun. 04 </p> 
+ <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 09:05 PM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/north-korea-test-fires-salvo-of-short-range-missiles-00037246">North Korea test-fires salvo of short-range missiles</a> Politico: The launch came a day after the U.S. aircraft carrier Ronald Reagan concluded a three-day naval drill with South Korea. 
  <p class="updated_time"> 04:37 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 03:46 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 01:45 PM CT, Jun. 04 </p> 
  <a href="https://www.politico.com/news/2022/06/04/biden-evacuated-to-secure-location-after-plane-flies-near-beach-house-in-delaware-00037242">Bidens evacuated from Delaware residence after plane flies into restricted airspace</a> Politico: The president and the first lady are now back at the beach house with no threat apparent. 
  <p class="updated_time"> 01:30 PM CT, Jun. 04 </p> 
