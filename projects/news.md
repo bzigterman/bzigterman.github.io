@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 08:16 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
+ <p class="updated_time"> 08:08 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
+ <p class="updated_time"> 08:00 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
+ <p class="updated_time"> 07:51 AM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 07:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
- <p class="updated_time"> 06:19 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
- <p class="updated_time"> 06:10 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
+ <p class="updated_time"> 06:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Over 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
- <p class="updated_time"> 05:19 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
- <p class="updated_time"> 04:19 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
+ <p class="updated_time"> 05:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-europe-to-accelerate-energy-efficiency-11654434181">Ukraine War Drives Europe to Accelerate Energy Efficiency</a> WSJ: Ukraine War Drives Europe to Accelerate Energy Efficiency 
+ <p class="updated_time"> 04:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 04:17 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A Bangladesh container depot fire has killed at least 38 and injured more than 100</a> NPR: The fire at a container depot in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
- <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 39 people, including firefighters. Many others were in critical condition. 
- <p class="updated_time"> 03:19 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre 
+ <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A fire at a depot in Bangladesh has killed at least 49 and injured more than 100</a> NPR: The blaze in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
+ <p class="updated_time"> 03:22 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 03:05 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
- <p class="updated_time"> 02:19 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/in-colombias-presidential-race-a-tiktok-star-surges-ahead-of-vote-11654351201">In Colombia’s Presidential Race, a TikTok Star Surges</a> WSJ: In Colombia’s Presidential Race, a TikTok Star Surges 
- <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">‘From Russia With Love’: A Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
  <p class="updated_time"> 01:29 AM CT, Jun. 05 </p> 
@@ -79,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
  <p class="updated_time"> 09:12 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
+ <p class="updated_time"> 08:08 AM CT, Jun. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479">Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</a> WSJ: Hong Kong police blanketed a busy district and stopped people entering a park that traditionally held a mass vigil on the anniversary of the Tiananmen Square Massacre, but many people staged small acts of defiance. 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
  <p class="updated_time"> 07:34 AM CT, Jun. 04 </p> 
@@ -218,6 +220,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:08 AM CT, Jun. 05 </p> 
+ <a href="https://www.politico.com/news/2022/06/05/philadelphia-shooting-south-street-00037258">3 dead, 11 wounded in Philadelphia shooting</a> Politico: Two men and a woman were among those killed in the shooting. 
+ <p class="updated_time"> 08:04 AM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103145054/tv-stations-pull-controversial-ads-targeting-democratic-senate-nominee-cheri-bea">TV stations pull controversial ads targeting Democratic Senate nominee Cheri Beasley</a> NPR: TV stations in North Carolina have pulled controversial ads targeting Democratic U.S. Senate nominee Cheri Beasley. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103145012/politics-chat-jan-6-findings-gun-legislation-oz-and-fetterman-on-pa-ballot">Politics chat: Jan. 6 findings; gun legislation; Oz and Fetterman on PA ballot</a> NPR: The House select committee investigating the January 6 attack begin hearings in prime time this week; negotiations over gun legislation continue; PA's Democratic senate candidate has medical news. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
@@ -227,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/trumps-endorsement-stumper-family-friends-or-fierce-ally-00036313">Trump’s endorsement stumper: Family friends or fierce ally</a> Politico: The former president hasn't picked sides as Republicans Andrew Giuliani, Lee Zeldin and others compete for the Republican nomination for governor of New York. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan, 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and… Merrick Garland. 
+ <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan. 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and… Merrick Garland. 
  <p class="updated_time"> 05:48 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/russia-ukraine-kyiv-tanks-00037249">Russia says strikes on Kyiv  destroyed tanks donated by West</a> Politico: There was no immediate confirmation from Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Jun. 05 </p> 
@@ -304,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/u-s-general-west-should-send-jets-to-ukraine-asap-00037173">U.S. general calls on West to send fighter jets to Ukraine ‘as soon as possible'</a> Politico: He added that sending Soviet-era MiG fighters to Ukraine in the near term is the best “immediate solution.” 
  <p class="updated_time"> 02:34 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/fetterman-had-a-previously-undisclosed-heart-condition-00037175">Fetterman had a previously undisclosed heart condition</a> Politico: The Pennsylvania Democratic Senate nominee's cardiologist said in a letter that Fetterman did not follow doctor’s orders after a 2017 appointment. 
- <p class="updated_time"> 02:14 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/monkeypox-increase-expected-because-of-community-spread-00037159">More cases of monkeypox expected as CDC warns of community spread</a> Politico: Since May, there have been more than 700 global cases of monkeypox identified in countries outside West and Central Africa where the virus is endemic. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over ‘unauthorized’ interview by former adviser</a> Politico: The select committee’s staff director told aides he was “deeply disappointed” after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
  <p class="updated_time"> 01:20 PM CT, Jun. 03 </p> 
@@ -344,12 +348,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/02/politics/joe-biden-messaging-struggles/index.html">Beneath Biden's struggle to break through is a deeper dysfunction among White House aides</a> CNN: Being familiar never makes the feeling less dreadful: White House aides emailing each other during one of President Joe Biden's stops on the road, tracking who's covering what he's saying, which TV channels are taking the speech live -- and realizing a number of times that the answer was none. 
  <p class="updated_time"> 07:03 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/biden-demands-action-on-guns-how-much-more-carnage-are-we-willing-to-accept-00036916">Biden demands action on guns: ‘How much more carnage are we willing to accept?’</a> Politico: In a rare prime-time address, the president weighed in forcefully — and specifically — on the issue that’s gutting communities across the country. 
- <p class="updated_time"> 05:11 PM CT, Jun. 02 </p> 
- <a href="https://www.npr.org/2022/06/02/1102642702/jan-6-panel-promises-previously-unseen-material-in-prime-time-hearing-on-june-9">Jan. 6 panel promises 'previously unseen material' in prime-time hearing on June 9 </a> NPR: The panel is expected to hold about a half dozen public hearings in June and release a report on its findings in September. 
  <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
- <p class="updated_time"> 08:16 AM CT, Jun. 02 </p> 
- <a href="https://www.cnn.com/2022/05/26/politics/biden-student-loan-debt-forgiveness-complications/index.html">Biden is considering canceling some student debt. Here's why it might not be such a great idea</a> CNN: President Joe Biden is considering canceling some federal student loan debt, suggesting a once pie-in-the-sky idea is closer than ever to becoming reality. 
 
 
 </details>
