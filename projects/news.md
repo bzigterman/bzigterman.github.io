@@ -9,29 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:11 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
- <p class="updated_time"> 03:05 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:50 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 03:03 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:49 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 02:29 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
- <p class="updated_time"> 01:37 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:42 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
- <p class="updated_time"> 01:29 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
+ <p class="updated_time"> 02:55 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 01:55 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
- <p class="updated_time"> 12:29 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 12:55 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 11:29 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 11:55 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 11:28 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 11:27 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 10:29 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 10:55 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61674469?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five ways Russia's invasion may play out</a> BBC: As the offensive intensifies in the country's east, what will happen next? Here are some potential scenarios. 
  <p class="updated_time"> 06:04 PM CT, Jun. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61659908?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 27 May - 2 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 06:01 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-war-museum.html">Ukraine Tells Story of War in Museum Show</a> NYT: The exhibition, called “Crucified Ukraine,” is one of several ways that the country’s government is highlighting the devastation that its people have endured. 
  <p class="updated_time"> 05:04 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-russia-donbas-zelensky.html">As War Approaches 100th Day, Russia Now Controls a Fifth of Ukraine</a> NYT: While President Volodymyr Zelensky acknowledged Russian gains, Ukrainian forces pressed a counteroffensive in the south. 
  <p class="updated_time"> 05:04 PM CT, Jun. 02 </p> 
@@ -210,14 +208,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
+ <a href="https://www.npr.org/2022/06/05/1103172321/jan-6-hearings-hit-primetime-tv-this-week">Jan. 6 hearings hit primetime TV this week</a> NPR: NPR's Elissa Nadworny speaks with Harry Litman, a law professor and former DOJ official, about the upcoming hearings from the committee investigating the attack on the U.S. Capitol. 
+ <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
+ <p class="updated_time"> 03:33 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
  <p class="updated_time"> 01:13 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
  <p class="updated_time"> 01:05 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 01:04 PM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/queen-elizabeth-platinum-jubilee-waved-00037288">And she waved: Festive pageant caps queen’s Platinum Jubilee</a> Politico: The 96-year-old monarch made a splash. 
- <p class="updated_time"> 12:57 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
  <p class="updated_time"> 11:36 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/raimondo-inflation-pain-yellen-biden-00037256">Commerce secretary acknowledges pain of inflation</a> Politico: Gina Raimondo said the Biden administration is looking to lift some tariffs to help the situation. 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
@@ -245,7 +247,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/trumps-endorsement-stumper-family-friends-or-fierce-ally-00036313">Trump’s endorsement stumper: Family friends or fierce ally</a> Politico: The former president hasn't picked sides as Republicans Andrew Giuliani, Lee Zeldin and others compete for the Republican nomination for governor of New York. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/headlinegoeshere-00036420">Inflation strikes twice for many retirees</a> Politico: A tax on Social Security earnings isn't indexed for inflation, and it's pulling in more older Americans. 
+ <a href="https://www.politico.com/news/2022/06/05/inflation-retirees-social-security-00036420">Inflation strikes twice for many retirees</a> Politico: A tax on Social Security earnings isn't indexed for inflation, and it's pulling in more older Americans. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan. 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and… Merrick Garland. 
  <p class="updated_time"> 05:48 AM CT, Jun. 05 </p> 
@@ -326,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102872199/gallup-poll-pro-choice-roe-v-wade-supreme-court">In a new U.S. poll, a majority identify as 'pro-choice' for the first time in decades</a> NPR: The Gallup poll, conducted after the leak of a draft Supreme Court opinion that would overturn Roe v. Wade, says that 55 percent of Americans now identify as pro-choice, up from 49 percent last year. 
  <p class="updated_time"> 08:45 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/white-house-climate-office-action-00036886">‘Slow-walked or watered down’: Friendly fire strafes Biden’s climate office</a> Politico: Top domestic climate adviser Gina McCarthy says she is "leaving no stone unturned" to meet President Joe Biden's goals. Her office's critics say it's producing interference and delay. 
- <p class="updated_time"> 08:36 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-speech-transcript-gun-control.html">Full Transcript: Biden’s Speech on Gun Control</a> NYT: As the nation grieves for the victims of several recent mass shootings, the president called for a ban on assault weapons and new “red flag” laws. 
  <p class="updated_time"> 06:48 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/03/will-congress-heed-bidens-call-00036965">Is Cornyn the key to a compromise?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Jun. 03 </p> 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/03/where-biden-pelosi-and-cornyn-might-agree-00036961"> Where Biden, Pelosi and Cornyn might agree</a> Politico Playbook: And Biden will travel to Saudi Arabia later this month for an expected meeting with Crown Prince Mohammed Bin Salman. 
  <p class="updated_time"> 04:49 AM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1102681056/chicago-archbishop-adds-voice-outcry-against-gun-violence">Chicago archbishop adds his voice to the calls for gun safety legislation</a> NPR: While some cardinals have sidestepped political discussions, Cupich spoke out against gun violence on Twitter hours after the shooting at Robb Elementary School. 
- <p class="updated_time"> 04:09 AM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102841085/morning-news-brief">News brief: Biden's gun speech, Uvalde shooting probe, May unemployment</a> NPR: An emotional President Biden pleads with Congress on gun control. Some in Uvalde, Texas, support limits on the most lethal firearms. May's jobs report is likely to show a moderate slowdown in hiring. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/upshot/gun-control-polling-votes.html">Voters Say They Want Gun Control. Their Votes Say Something Different.</a> NYT: Broad public support on the issue may not be as broad as polling shows or as Democrats hope. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
