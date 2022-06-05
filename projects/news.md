@@ -9,35 +9,37 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
- <p class="updated_time"> 01:34 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit new targets if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 01:33 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/queen-platinum-jubilee-britain.html">Party Before the Hangover: Queen’s Jubilee Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 12:41 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
+ <p class="updated_time"> 01:11 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 12:11 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 11:41 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 11:28 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 11:27 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
- <p class="updated_time"> 10:41 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 11:11 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
  <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
+ <p class="updated_time"> 10:11 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
  <p class="updated_time"> 09:59 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
- <p class="updated_time"> 09:41 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
+ <p class="updated_time"> 09:31 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine's Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Hundreds of its fighters are prisoners of war after a brutal battle with Russia for Mariupol, but the regiment is training new members and hoping to benefit from Western aid. 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshipers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
- <p class="updated_time"> 08:41 AM CT, Jun. 05 </p> 
+ <p class="updated_time"> 09:11 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-short-range-missiles-into-sea-11654396185">North Korea Launches Short-Range Missiles Into Sea</a> WSJ: North Korea Launches Short-Range Missiles Into Sea 
  <p class="updated_time"> 08:29 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61695244?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions shake Kyiv while battles rage in east</a> BBC: A number of blasts hit parts of Kyiv in the first assault on Ukraine's capital for several weeks. 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/europe/turkiye-turkey-united-nations.html">Now It’s Türkiye, Not Turkey, at the United Nations</a> NYT: The Turkish government wants the rest of the world to use the country’s own name for itself, and lose the association with a certain bird. 
  <p class="updated_time"> 02:43 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/dolphins-dying-ukraine-war.html">Dead Dolphins May Be Casualties of Ukraine War, Scientist Say</a> NYT: The washing up of dolphins on the coasts of Bulgaria, Romania, Turkey and Ukraine is raising concerns that the war in may be interfering with marine life. But more research is needed, scientists say. 
- <p class="updated_time"> 02:10 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html">U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability</a> NYT: Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years. 
 
 
 </details>
@@ -352,8 +352,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/02/politics/joe-biden-messaging-struggles/index.html">Beneath Biden's struggle to break through is a deeper dysfunction among White House aides</a> CNN: Being familiar never makes the feeling less dreadful: White House aides emailing each other during one of President Joe Biden's stops on the road, tracking who's covering what he's saying, which TV channels are taking the speech live -- and realizing a number of times that the answer was none. 
  <p class="updated_time"> 07:03 PM CT, Jun. 02 </p> 
  <a href="https://www.politico.com/news/2022/06/02/biden-demands-action-on-guns-how-much-more-carnage-are-we-willing-to-accept-00036916">Biden demands action on guns: ‘How much more carnage are we willing to accept?’</a> Politico: In a rare prime-time address, the president weighed in forcefully — and specifically — on the issue that’s gutting communities across the country. 
- <p class="updated_time"> 01:59 PM CT, Jun. 02 </p> 
- <a href="https://www.politico.com/news/2022/06/02/florida-redistricting-map-court-decision-00036740">Florida Supreme Court locks in DeSantis-backed redistricting map</a> Politico: Groups that challenged the map sharply criticized the ruling and said they will not drop their underlying lawsuit. 
 
 
 </details>
