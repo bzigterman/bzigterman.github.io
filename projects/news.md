@@ -29,29 +29,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html">Russia Seeks Buyers for Plundered Ukraine Grain, U.S. Warns</a> NYT: American diplomats have alerted 14 countries, most in Africa, that Russian ships filled with stolen Ukrainian grain could be headed their way, posing a dilemma to countries facing dire food shortages. 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
- <p class="updated_time"> 05:48 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 05:57 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 05:07 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
  <p class="updated_time"> 05:06 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
- <p class="updated_time"> 04:48 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 04:57 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 04:28 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1098946788/russia-ukraine-war-what-happened-this-weekend-june-4-5">Russia-Ukraine war: What happened this weekend (June 4-5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
+ <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 03:56 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 03:42 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 03:25 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61669954?at_medium=RSS&at_campaign=KARANGA">Why Australia is declaring a 'new era' in the Pacific</a> BBC: Albanese's government is promising to restore ties with its "brothers and sisters" - is it too late? 
- <p class="updated_time"> 02:48 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 02:57 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip</a> WSJ: U.S. Urged to Step Up in the Pacific After China’s Whirlwind Trip 
- <p class="updated_time"> 01:48 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 01:57 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/the-spy-diplomat-sent-on-bidens-toughest-missions-11654430401">The Spy-Diplomat Sent on Biden’s Toughest Missions</a> WSJ: The Spy-Diplomat Sent on Biden’s Toughest Missions 
  <p class="updated_time"> 12:08 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
@@ -193,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61671917?at_medium=RSS&at_campaign=KARANGA">A city set on healing after 100 days of war</a> BBC: As the threat of Russia’s invasion loomed, Kyiv refused to cower. But then it was forced to adapt. 
  <p class="updated_time"> 10:44 PM CT, Jun. 02 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/australia/when-freedom-is-only-the-beginning.html">When Freedom Is Only the Beginning</a> NYT: Refugees who’d spent years in detention had a lot of questions about their new lives in Australia. Some were easier to answer than others. 
- <p class="updated_time"> 06:55 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html">Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status</a> NYT: As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia. 
 
 
 </details>
