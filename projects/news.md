@@ -9,24 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:21 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 11:43 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
+ <p class="updated_time"> 11:42 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
+ <p class="updated_time"> 11:28 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61701465?at_medium=RSS&at_campaign=KARANGA">South Korea and US fire missiles in warning to North Korea</a> BBC: The joint exercise comes after North Korea test-fired several ballistic missiles on Sunday. 
+ <p class="updated_time"> 10:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 09:58 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61701017?at_medium=RSS&at_campaign=KARANGA">Alec John Such: Former Bon Jovi bassist dies aged 70</a> BBC: The legendary US group remember their former bassist as a dear friend who was "wild and full of life". 
+ <p class="updated_time"> 09:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 09:48 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61701235?at_medium=RSS&at_campaign=KARANGA">Mercedes recalls almost 1m cars over faulty brakes</a> BBC: The German carmaker said the brakes of some older cars may be affected by "advanced corrosion". 
- <p class="updated_time"> 09:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
- <p class="updated_time"> 08:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
+ <p class="updated_time"> 08:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 08:02 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
- <p class="updated_time"> 07:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
+ <p class="updated_time"> 07:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 07:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
- <p class="updated_time"> 06:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
+ <p class="updated_time"> 06:50 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 06:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61697093?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns over Western long-range weapons</a> BBC: Russia will expand its target list in Ukraine if Western countries send long-range weapons, he says. 
  <p class="updated_time"> 06:11 PM CT, Jun. 05 </p> 
@@ -47,15 +53,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
  <p class="updated_time"> 05:56 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/chinese-influencers-ice-cream-pitch-inadvertently-introduces-fans-to-tiananmen-square-massacre-11654442707">Chinese Influencer's Ice-Cream Pitch Inadvertently Introduces Fans to Tiananmen Square Massacre</a> WSJ: One of China’s biggest online influencers stepped on a political land mine while promoting an ice-cream product on Friday. In the process, he set off a wave of curiosity about the government’s bloody 1989 crackdown on Tiananmen Square protesters among hordes of fans too young to remember it. 
- <p class="updated_time"> 05:33 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 05:06 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
  <p class="updated_time"> 04:28 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1098946788/russia-ukraine-war-what-happened-this-weekend-june-4-5">Russia-Ukraine war: What happened this weekend (June 4-5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
- <p class="updated_time"> 03:56 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
  <p class="updated_time"> 03:49 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
@@ -77,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshippers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
- <p class="updated_time"> 08:00 AM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
  <p class="updated_time"> 06:45 AM CT, Jun. 05 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61691819?at_medium=RSS&at_campaign=KARANGA">Nigeria clash: Abuja mob burns man to death over row with Muslim cleric</a> BBC: Nigerian police say a mob burnt the man to death in the capital after he rowed with a Muslim cleric. 
  <p class="updated_time"> 02:23 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61692278?at_medium=RSS&at_campaign=KARANGA">Party at the Palace: The Queen meets Paddington Bear for jubilee celebrations</a> BBC: The Queen and the animated children's character professed a shared love for marmalade sandwiches. 
- <p class="updated_time"> 01:35 PM CT, Jun. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61690382?at_medium=RSS&at_campaign=KARANGA">Abbott: US baby formula plant linked to national shortage resumes production</a> BBC: Abbott says it is restarting its plant in Michigan after it was closed because of contamination. 
  <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/zelensky-us-russia-sister-cities.html">Zelensky Tells U.S. Mayors to End Their Sister-City Ties with Russia</a> NYT: The Ukrainian president said the relationships allow Moscow to say ‘it is not isolated.’ 
  <p class="updated_time"> 12:13 PM CT, Jun. 04 </p> 
@@ -197,10 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/02/world/australia/australia-refugees-manus-park-hotel.html">Refugees in Australia Learn to Live Again After 9 Years Detained</a> NYT: Australia suddenly released migrants held under its tough approach to asylum seekers. While the worst of their ordeal is over, their future remains precarious. 
  <p class="updated_time"> 12:48 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-platinum-jubilee-beacons.html">Communities Light Beacons to Honor Queen Elizabeth II in U.K. and Beyond</a> NYT: Queen Elizabeth II led the lighting of a beacon at Windsor Castle, and her grandson Prince William lit one outside Buckingham Palace on Thursday night. 
- <p class="updated_time"> 11:41 PM CT, Jun. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61671917?at_medium=RSS&at_campaign=KARANGA">A city set on healing after 100 days of war</a> BBC: As the threat of Russia’s invasion loomed, Kyiv refused to cower. But then it was forced to adapt. 
- <p class="updated_time"> 10:44 PM CT, Jun. 02 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/australia/when-freedom-is-only-the-beginning.html">When Freedom Is Only the Beginning</a> NYT: Refugees who’d spent years in detention had a lot of questions about their new lives in Australia. Some were easier to answer than others. 
 
 
 </details>
