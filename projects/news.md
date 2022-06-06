@@ -9,12 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 12:17 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence">Live Updates: Boris Johnson Faces No-Confidence Vote in U.K.</a> NYT: Conservative lawmakers have triggered the internal party vote after several months of simmering scandal about lockdown-breaking parties held at Downing Street during the height of the Covid crisis. 
- <p class="updated_time"> 11:13 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 12:12 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news">Live Updates: Britain Offers Long-Range Weapons to Ukraine, as Russian Artillery Hammers East</a> NYT: Britain joined the United States in pledging advanced rocket systems, despite President Vladimir Putin’s warnings against supplying the weapons. Ukraine’s president visited frontline troops to boost morale. 
- <p class="updated_time"> 10:59 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 12:11 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61709782?at_medium=RSS&at_campaign=KARANGA">Elon Musk threatens to walk away from Twitter deal</a> BBC: The billionaire accuses the company of "thwarting" his requests to learn more about spam accounts. 
+ <p class="updated_time"> 12:03 PM CT, Jun. 06 </p> 
+ <a href="https://www.npr.org/2022/06/06/1103319375/hear-throughlines-peabody-award-winning-series-on-afghanistan">Hear Throughline's Peabody Award-Winning Series On Afghanistan</a> NPR: The series was recognized for unapologetically challenging narratives we accept in the U.S. 
+ <p class="updated_time"> 11:59 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
+ <p class="updated_time"> 11:50 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: However the no-confidence vote goes, analysts see positives for getting it done. 
+ <p class="updated_time"> 11:47 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/europe/occupied-ukraine-guerrilla-attacks.html">Ukraine Insurgents Strike in Russia-Occupied Regions</a> NYT: Fueled by brutal Russian repression and worsening humanitarian conditions, Ukrainian partisans appear to be striking deep inside Russian-controlled territory. 
+ <p class="updated_time"> 11:44 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-military-western-weapons.html">High-tech Western Weapons Pose Challenges for Ukraine Military</a> NYT: Ukrainian fighters are getting increasingly sophisticated weaponry from abroad. Some have been reduced to Googling instructions. 
+ <p class="updated_time"> 11:29 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Suffered a Stunning Political Reversal</a> NYT: The same baffling mix of strengths and foibles that propelled Mr. Johnson’s rise have brought him low: rare political intuition, and breathtaking personal recklessness. 
+ <p class="updated_time"> 11:20 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 10:59 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61703174?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: South African fury over language quiz</a> BBC: Many black South Africans associate the Afrikaans language with white-minority rule. 
  <p class="updated_time"> 10:56 AM CT, Jun. 06 </p> 
@@ -22,11 +36,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:31 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/tropical-storm-alex-bermuda.html">Tropical Storm Alex Takes Aim at Bermuda After Flooding Florida</a> NYT: The storm was expected to bring rain and strong winds to Bermuda before weakening. 
  <p class="updated_time"> 10:20 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
+ <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 10:17 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61702868?at_medium=RSS&at_campaign=KARANGA">Bangladesh officials say depot fire exacerbated by mislabelled chemicals</a> BBC: Officials say hydrogen peroxide containers were mislabelled, exacerbating a blaze that killed dozens. 
- <p class="updated_time"> 10:14 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-military-western-weapons.html">High-tech Western Weapons Pose Challenges for Ukraine Military</a> NYT: Ukrainian fighters are getting increasingly sophisticated weaponry from abroad. Some have been reduced to Googling instructions. 
  <p class="updated_time"> 10:07 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
  <p class="updated_time"> 09:32 AM CT, Jun. 06 </p> 
@@ -34,35 +46,27 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:28 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/asia/myanmar-assassinations-coup.html">Assassinations Become Weapon of Choice for Guerrilla Groups in Myanmar</a> NYT: A movement to restore democracy has evolved into deadly warfare between a ruthless military and a resistance force with limited weaponry. 
  <p class="updated_time"> 09:20 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 09:07 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
  <p class="updated_time"> 08:46 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html">Russia Seeks Buyers for Plundered Ukraine Grain, U.S. Warns</a> NYT: American diplomats have alerted 14 countries, most in Africa, that Russian ships filled with stolen Ukrainian grain could be headed their way, posing a dilemma to countries facing dire food shortages. 
  <p class="updated_time"> 08:20 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces No-Confidence Vote Over Lockdown Parties 
+ <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies 
  <p class="updated_time"> 08:20 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61702862?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Another Russian general killed by Ukrainian forces - reports</a> BBC: Russian state media said Major General Roman Kutuzov was the latest commander killed in fighting. 
  <p class="updated_time"> 07:20 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies 
+ <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 07:03 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103271374/muslim-countries-angry-india-insults-islam-prophet-muhammad">Muslim countries express outrage to India over derogatory remarks about Islam</a> NPR: India is facing major diplomatic outrage from Muslim-majority countries after top officials in the governing Hindu nationalist party made derogatory references to Islam and the Prophet Muhammad. 
  <p class="updated_time"> 06:53 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61706122?at_medium=RSS&at_campaign=KARANGA">Colombia rescuers 'won't give up' search for miners after blast</a> BBC: Three miners remain missing after 12 were killed in an explosion at a coal mine a week ago. 
- <p class="updated_time"> 06:44 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: However the no-confidence vote goes, analysts see positives for getting it done. 
- <p class="updated_time"> 06:20 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
- <p class="updated_time"> 06:19 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Suffered a Stunning Political Reversal</a> NYT: The same baffling mix of strengths and foibles that propelled Mr. Johnson’s rise have brought him low: rare political intuition, and breathtaking personal recklessness. 
  <p class="updated_time"> 06:19 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
  <p class="updated_time"> 05:52 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-61705370?at_medium=RSS&at_campaign=KARANGA">British geologist jailed in Iraq after taking artefacts</a> BBC: Jim Fitton, 66, is sentenced to 15 years for attempting to smuggle 12 stones and broken pottery. 
  <p class="updated_time"> 05:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
- <p class="updated_time"> 05:07 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
  <p class="updated_time"> 04:41 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
@@ -157,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. The police later said it was not related to terrorism. 
  <p class="updated_time"> 07:06 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075915/un-report-says-iran-has-enough-uranium-to-produce-nuclear-weapons">UN report says Iran has enough uranium to produce nuclear weapons</a> NPR: Foreign policy journalist Laura Rozen gives NPR's Scott Simon her assessment of the state of negotiations over Iran's nuclear program. 
- <p class="updated_time"> 07:02 AM CT, Jun. 04 </p> 
- <a href="https://www.npr.org/2022/06/04/1103075880/russia-could-veto-un-aid-going-to-syria">Russia could veto UN aid going to Syria</a> NPR: Linda Thomas-Greenfield, U.S. Ambassador to the U.N., traveled to the southern border of Turkey to observe the flow of humanitarian aid to victims of the civil war in neighboring Syria. 
  <p class="updated_time"> 05:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/canada/canada-tightens-gun-laws.html">Canada Tightens Gun Laws Amid a Wave of Mass Shootings in the U.S.</a> NYT: The handgun market in Canada has been frozen as Parliament reviews sweeping legal changes, including a mandatory buyback of some rifles. 
  <p class="updated_time"> 09:16 PM CT, Jun. 03 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/americas/canada-british-monarchy-queen.html">Most Canadians Want to See the British Monarchy Come to an End</a> NYT: In a recent poll, 67 percent of respondents said they opposed the idea of Charles succeeding his mother to become Canada’s king. 
  <p class="updated_time"> 12:28 PM CT, Jun. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61685718?at_medium=RSS&at_campaign=KARANGA">Champions League Final: Harrowing accounts of post-match violence spark debate</a> BBC: UFC fighter Paddy Pimblett tells French media men with weapons were attacking and robbing fans. 
- <p class="updated_time"> 11:44 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/world/australia/australia-new-zealand-monarchy.html">Could Australia and New Zealand ‘Divorce’ From the British Monarchy?</a> NYT: The debate over whether to sever ties with Britain’s royal family has traditionally attracted little mainstream interest in the two members of the Commonwealth. 
 
 
 </details>
@@ -188,6 +188,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:08 PM CT, Jun. 06 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:51 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/hershel-walker-gas-vouchers.html">A group supporting Herschel Walker gave out gas vouchers. Georgia Democrats cried foul.</a> NYT: The group handed out $25 fuel vouchers and Walker campaign flyers to motorists in line at a downtown Atlanta gas station. 
+ <p class="updated_time"> 11:03 AM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/new-york-gun-control-measure-law-00037363">New York signs stronger gun-control measure into law. Here's what will change.</a> Politico: The new laws will bolster existing ones and close what state leaders viewed as loopholes that included allowing the Buffalo shooter to slip through the state's Red Flag statute. 
  <p class="updated_time"> 10:57 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/business/economy/biden-solar-tariffs.html">Biden to Pause New Solar Tariffs as White House Aims to Boost Adoption</a> NYT: The Commerce Department had been considering whether to impose the tariffs as part of a trade case against Chinese companies. 
  <p class="updated_time"> 10:56 AM CT, Jun. 06 </p> 
@@ -240,16 +246,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 01:04 PM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/queen-elizabeth-platinum-jubilee-waved-00037288">And she waved: Festive pageant caps queen’s Platinum Jubilee</a> Politico: The 96-year-old monarch made a splash. 
+ <p class="updated_time"> 12:01 PM CT, Jun. 05 </p> 
+ <a href="https://www.cnn.com/2022/06/05/politics/donald-trump-preparations-january-6-hearing/index.html">Trump mobilizing his MAGA allies to defend him ahead of January 6 hearings</a> CNN: Former President Donald Trump has made it clear he is looking for cover from his closest allies around the upcoming public hearings by the House select committee investigating the January 6 insurrection -- and some prominent names in Congress and the Republican Party are answering the call. 
  <p class="updated_time"> 11:36 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/raimondo-inflation-pain-yellen-biden-00037256">Commerce secretary acknowledges pain of inflation</a> Politico: Gina Raimondo said the Biden administration is looking to lift some tariffs to help the situation. 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/05/democracy-week-in-washington-00037266"> Democracy week in Washington</a> Politico Playbook: And Russian missiles strike Kyiv. 
- <p class="updated_time"> 10:48 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/un-russia-ukraine-grain-00037240">U.S. skeptical U.N.-Russia talks will free trapped Ukrainian grain</a> Politico: Russian officials are offering to allow Ukrainian grain safe passage through a Russian blockade in exchange for sanctions relief. 
  <p class="updated_time"> 10:40 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/chris-murphy-florida-gun-law-00037255">Murphy calls Florida gun law 'the right one’ as senators negotiate federal legislation</a> Politico: “We have to make the case for Republicans that right now this is good politics,” the Connecticut senator said. 
- <p class="updated_time"> 10:22 AM CT, Jun. 05 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:43 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/tom-rice-trump-impeachment-00037265">‘That was the conservative vote,’ Tom Rice says of his vote to impeach Trump</a> Politico: The South Carolina Republican is a target of the former president in his state's upcoming primary. 
  <p class="updated_time"> 09:03 AM CT, Jun. 05 </p> 
@@ -288,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/04/push-to-supersize-pentagon-budget-ratchets-up-00036987">The push to supersize Pentagon spending ratchets up</a> Politico: The fight over Biden's $813 billion national defense budget will come to a head when the House and Senate begin work this month. 
  <p class="updated_time"> 02:00 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/beto-orourke-gun-control.html">Beto O’Rourke’s Talk of Gun Control Has Become Both a Political Risk and Reward</a> NYT: Mr. O’Rourke is returning to an issue that had haunted his campaign for Texas governor for months. 
- <p class="updated_time"> 09:56 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/peter-navarro-contempt-jan-6.html">Navarro Indicted as Justice Dept. Opts Not to Charge Meadows and Scavino</a> NYT: The House had recommended contempt charges against all three Trump White House aides over their stonewalling of its Jan. 6 inquiry. 
  <p class="updated_time"> 09:13 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103060104/buffalo-area-gop-rep-jacobs-wont-run-again-after-backlash-for-gun-control-suppor">Buffalo-area GOP Rep. Jacobs won't run again after backlash for gun control support</a> NPR: After mass shootings in Buffalo and at a Texas school, Jacobs said he would vote for a federal assault weapons ban if he had a chance. His comments sparked a furious reaction from conservatives, 
  <p class="updated_time"> 08:16 PM CT, Jun. 03 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/us/politics/trump-pence-safety-jan-6.html">Pence Staff Feared for His Safety Amid Trump’s Pressure Campaign Before Jan. 6</a> NYT: New details flesh out how the pressure campaign by Donald J. Trump and his allies to block certification of the 2020 election left the vice president’s staff fearing for his safety. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jan-6-panel-fumes-over-unauthorized-interview-by-former-adviser-00037165">Jan. 6 panel fumes over ‘unauthorized’ interview by former adviser</a> Politico: The select committee’s staff director told aides he was “deeply disappointed” after private details were shared by onetime Rep. Denver Riggleman (R-Va.). 
- <p class="updated_time"> 12:02 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/ads-gop-lawmakers-gun-safety-00037100">Everytown launches ads targeting GOP lawmakers to act on gun-safety measures</a> Politico: The weeklong media campaign from the nation’s largest gun safety group comes as Capitol Hill negotiations enter a key stretch. 
 
 
 </details>
