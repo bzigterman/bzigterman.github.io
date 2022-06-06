@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:14 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 10:21 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
- <p class="updated_time"> 08:06 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 09:58 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61701017?at_medium=RSS&at_campaign=KARANGA">Alec John Such: Former Bon Jovi bassist dies aged 70</a> BBC: The legendary US group remember their former bassist as a dear friend who was "wild and full of life". 
+ <p class="updated_time"> 09:48 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61701235?at_medium=RSS&at_campaign=KARANGA">Mercedes recalls almost 1m cars over faulty brakes</a> BBC: The German carmaker said the brakes of some older cars may be affected by "advanced corrosion". 
+ <p class="updated_time"> 09:33 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 08:33 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 08:02 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
+ <p class="updated_time"> 07:33 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 07:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
- <p class="updated_time"> 07:06 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
+ <p class="updated_time"> 06:33 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 06:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61697093?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns over Western long-range weapons</a> BBC: Russia will expand its target list in Ukraine if Western countries send long-range weapons, he says. 
  <p class="updated_time"> 06:11 PM CT, Jun. 05 </p> 
@@ -27,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61659620?at_medium=RSS&at_campaign=KARANGA">Bonn climate conference: Ukraine war no excuse for prolonging coal, Kerry warns</a> BBC: US climate envoy John Kerry warns the world is "cooked" if countries continue using coal. 
  <p class="updated_time"> 06:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
- <p class="updated_time"> 06:06 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 06:03 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61565485?at_medium=RSS&at_campaign=KARANGA">Why the Central African Republic adopted Bitcoin</a> BBC: Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin. 
  <p class="updated_time"> 06:02 PM CT, Jun. 05 </p> 
@@ -39,14 +45,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html">Russia Seeks Buyers for Plundered Ukraine Grain, U.S. Warns</a> NYT: American diplomats have alerted 14 countries, most in Africa, that Russian ships filled with stolen Ukrainian grain could be headed their way, posing a dilemma to countries facing dire food shortages. 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
+ <p class="updated_time"> 05:56 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/chinese-influencers-ice-cream-pitch-inadvertently-introduces-fans-to-tiananmen-square-massacre-11654442707">Chinese Influencer's Ice-Cream Pitch Inadvertently Introduces Fans to Tiananmen Square Massacre</a> WSJ: One of China’s biggest online influencers stepped on a political land mine while promoting an ice-cream product on Friday. In the process, he set off a wave of curiosity about the government’s bloody 1989 crackdown on Tiananmen Square protesters among hordes of fans too young to remember it. 
+ <p class="updated_time"> 05:33 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 05:06 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
- <p class="updated_time"> 05:06 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 04:28 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1098946788/russia-ukraine-war-what-happened-this-weekend-june-4-5">Russia-Ukraine war: What happened this weekend (June 4-5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:06 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 04:00 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
  <p class="updated_time"> 03:56 PM CT, Jun. 05 </p> 
@@ -77,10 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
  <p class="updated_time"> 06:45 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61696973?at_medium=RSS&at_campaign=KARANGA">China fighter jet intercepts Australian plane - Canberra</a> BBC: Australia accuses a Chinese pilot of dangerous actions near the aircraft over the South China Sea. 
- <p class="updated_time"> 06:25 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/chinese-influencers-ice-cream-pitch-inadvertently-introduces-fans-to-tiananmen-square-massacre-11654442707">Chinese Influencer's Ice-Cream Pitch Inadvertently Introduces Fans to Tiananmen Square Massacre</a> WSJ: One of China’s biggest online influencers stepped on a political land mine while promoting an ice-cream product on Friday. In the process, he set off a wave of curiosity about the government’s bloody 1989 crackdown on Tiananmen Square protesters among hordes of fans too young to remember it. 
  <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Over 40 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Nearly 50 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
  <p class="updated_time"> 03:55 AM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China's Whirlwind Trip</a> WSJ: Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “It’s not only about having McDonald’s in Fiji.” 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
  <p class="updated_time"> 07:44 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075922/her-majesty-has-been-unifying-the-united-kingdom-for-70-years">Her Majesty has been unifying the United Kingdom for 70 years</a> NPR: As Queen Elizabeth II marks 70 years on the throne, many Britons say the monarchy is still relevant in the 21st century, playing a big role in unifying the country. 
- <p class="updated_time"> 07:34 AM CT, Jun. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61690519?at_medium=RSS&at_campaign=KARANGA">Russian man accused of Alexander Litvinenko killing dies of Covid-19</a> BBC: Dmitry Kovtun, one of two men the UK says were behind the poisoning, has died in Russia of Covid. 
  <p class="updated_time"> 07:15 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/trafalgar-square-london-evacuation.html">London Police Evacuate Trafalgar Square, but Say ‘Incident Has Now Been Concluded’</a> NYT: The evacuation of the square in Central London rattled the capital on the third day of Queen Elizabeth’s Platinum Jubilee. The police later said it was not related to terrorism. 
  <p class="updated_time"> 07:06 AM CT, Jun. 04 </p> 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/04/1103075880/russia-could-veto-un-aid-going-to-syria">Russia could veto UN aid going to Syria</a> NPR: Linda Thomas-Greenfield, U.S. Ambassador to the U.N., traveled to the southern border of Turkey to observe the flow of humanitarian aid to victims of the civil war in neighboring Syria. 
  <p class="updated_time"> 07:02 AM CT, Jun. 04 </p> 
  <a href="https://www.npr.org/2022/06/04/1103075873/russia-closes-in-on-a-city-in-eastern-ukraine-after-100-days-of-war">Russia closes in on a city in eastern Ukraine after 100 days of war</a> NPR: Fighting between Russian and Ukrainian forces has intensified around Severodonetsk in eastern Ukraine. A victory there would be a major accomplishment for President Vladimir Putin. 
- <p class="updated_time"> 06:15 AM CT, Jun. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61688827?at_medium=RSS&at_campaign=KARANGA">Cuba floods: At least two dead as heavy rain hits island</a> BBC: Havana residents knee-deep in water as the aftermath of Hurricane Agatha hits the Cuban capital. 
  <p class="updated_time"> 05:07 AM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/queen-elizabeth-jubilee.html">Queen Elizabeth’s Platinum Jubilee Celebrates Her 70 Years on the Throne</a> NYT: The dysfunction of the royal family was pushed temporarily offstage on Thursday by a joyful celebration of its 96-year-old matriarch, whose reign has been an anchor for her country. 
  <p class="updated_time"> 05:03 AM CT, Jun. 04 </p> 
@@ -208,16 +208,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:29 PM CT, Jun. 05 </p> 
+ <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
+ <p class="updated_time"> 09:04 PM CT, Jun. 05 </p> 
+ <a href="https://www.politico.com/news/2022/06/05/north-south-korea-missiles-00037334">U.S., South Korea fire missiles to sea, matching North’s launches</a> Politico: South Korea’s Joint Chiefs of Staff said the allies’ live-fire exercise involved eight Army Tactical Missile System missiles. 
  <p class="updated_time"> 08:21 PM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/pastor-uvalde-gunman-recounts-terror-sermon-00037330">Pastor shot at by Uvalde gunman recounts terror in sermon</a> Politico: “Church, you are armed by this,” he said, holding up a Bible. 
  <p class="updated_time"> 07:00 PM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/biden-wants-to-get-out-more-seething-that-his-standing-is-now-worse-than-trumps-00037278">Biden wants to get out more, seething that his standing is now worse than Trump’s</a> Politico: Morale is falling. Staff turnover is growing. And the window for a political revival is closing. 
+ <a href="https://www.politico.com/news/2022/06/05/biden-wants-to-get-out-more-seething-that-his-standing-is-now-worse-than-trumps-00037278">Biden wants to get out more, seething that his standing is now worse than Trump’s</a> Politico: Frustrations are mounting and the window for a political revival is closing. 
  <p class="updated_time"> 05:48 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
  <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103172321/jan-6-hearings-hit-primetime-tv-this-week">Jan. 6 hearings hit primetime TV this week</a> NPR: NPR's Elissa Nadworny speaks with Harry Litman, a law professor and former DOJ official, about the upcoming hearings from the committee investigating the attack on the U.S. Capitol. 
- <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
  <p class="updated_time"> 01:13 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/barry-sussman-dead.html">Barry Sussman, Washington Post Watergate Editor, Dies at 87</a> NYT: He worked closely with the reporters Bob Woodward and Carl Bernstein in covering the break-in and the subsequent scandal that doomed Richard Nixon. 
  <p class="updated_time"> 01:05 PM CT, Jun. 05 </p> 
@@ -249,7 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:56 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/wisconsin-gunman-evers-whitmer-mcconnell-00037250">Whitmer, McConnell, Evers reportedly on Wisconsin gunman’s list</a> Politico: Douglas K. Uhde is suspected of killing a former county judge. 
  <p class="updated_time"> 06:01 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/trumps-endorsement-stumper-family-friends-or-fierce-ally-00036313">Trump’s endorsement stumper: Family friends or fierce ally</a> Politico: The former president hasn't picked sides as Republicans Andrew Giuliani, Lee Zeldin and others compete for the Republican nomination for governor of New York. 
+ <a href="https://www.politico.com/news/2022/06/05/trumps-endorsement-stumper-family-friends-or-fierce-ally-00036313">Trump’s endorsement stumper: Family friends or fierce ally</a> Politico: He hasn't picked sides as Republicans Andrew Giuliani, Lee Zeldin and others compete for the Republican nomination for governor of New York. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan. 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and … Merrick Garland. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
