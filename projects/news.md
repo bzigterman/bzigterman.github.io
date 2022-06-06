@@ -9,37 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Suffered a Stunning Political Reversal</a> NYT: The same baffling mix of strengths and foibles that propelled Mr. Johnson’s rise have brought him low: rare political intuition, and breathtaking personal recklessness. 
+ <p class="updated_time"> 06:16 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence">Live Updates: Boris Johnson to Face No-Confidence Vote in U.K.</a> NYT: Conservative lawmakers have triggered the internal party vote after several months of simmering scandal about lockdown-breaking parties held at Downing Street during the height of the Covid crisis. 
+ <p class="updated_time"> 06:05 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news">Live Updates: Britain Offers Long-Range Weapons to Ukraine, as Russian Artillery Hammers East</a> NYT: Britain joined the United States in pledging advanced rocket systems, despite President Vladimir Putin’s warnings against supplying the weapons. Ukraine’s president visited frontline troops to boost morale. 
+ <p class="updated_time"> 06:03 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/americas/tropical-storm-alex-bermuda.html">Tropical Storm Alex Takes Aim at Bermuda After Flooding Florida</a> NYT: The storm was expected to bring rain and strong winds to Bermuda before weakening. 
+ <p class="updated_time"> 05:52 AM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-somerset-61705370?at_medium=RSS&at_campaign=KARANGA">British geologist jailed in Iraq after taking artefacts</a> BBC: Jim Fitton, 66, who is charged with taking 12 stones and broken pottery, is jailed for 15 years. 
  <p class="updated_time"> 05:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
- <p class="updated_time"> 05:42 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence">Live Updates: Boris Johnson to Face No-Confidence Vote in U.K.</a> NYT: Conservative lawmakers have triggered the internal party vote after several months of simmering scandal about lockdown-breaking parties held at Downing Street during the height of the Covid crisis. 
- <p class="updated_time"> 05:41 AM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-somerset-61705370?at_medium=RSS&at_campaign=KARANGA">British geologist jailed in Iraq after taking artefacts</a> BBC: Jim Fitton, 66, charged with taking 12 stones and broken pottery, is sentenced to 15 years. 
- <p class="updated_time"> 05:37 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news">Live Updates: Russian Artillery Hammers East as Britain Offers Long-Range Weapons to Ukraine</a> NYT: Britain joined the United States in pledging advanced rocket systems, despite President Vladimir Putin’s warnings against supplying the weapons. Ukraine’s president visited frontline troops to boost morale. 
+ <p class="updated_time"> 05:44 AM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61703174?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: South African fury over language quiz</a> BBC: South Africans flying on Ryanair must take a test in the Afrikaans language to prove their nationality. 
+ <p class="updated_time"> 05:21 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 05:07 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
  <p class="updated_time"> 05:00 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 04:48 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 04:41 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
+ <p class="updated_time"> 04:21 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 04:09 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61702862?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Another Russian general killed by Ukrainian forces - reports</a> BBC: Russian state media said Major General Roman Kutuzov was the latest commander killed in fighting. 
- <p class="updated_time"> 03:48 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 03:21 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">British Prime Minister Boris Johnson to face no-confidence vote</a> NPR: The vote follows revelations that Johnson and his staff repeatedly flouted restrictions they imposed on Britain in 2020 and 2021, which stirred public outrage. 
- <p class="updated_time"> 02:48 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 02:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad controversy tests India-Islamic world ties</a> BBC: Saudi Arabia, Kuwait, Qatar and Iran have registered protests over the remark by BJP leader Nupur Sharma. 
+ <p class="updated_time"> 02:21 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 02:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/asia/myanmar-assassinations-coup.html">Assassinations Become Weapon of Choice for Guerrilla Groups in Myanmar</a> NYT: A movement to restore democracy has evolved into deadly warfare between a ruthless military and a resistance force with limited weaponry. 
- <p class="updated_time"> 01:48 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
- <p class="updated_time"> 12:48 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 01:21 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
@@ -83,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 03:25 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61669954?at_medium=RSS&at_campaign=KARANGA">Why Australia is declaring a 'new era' in the Pacific</a> BBC: Albanese's government is promising to restore ties with its "brothers and sisters" - is it too late? 
- <p class="updated_time"> 11:59 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61695085?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Six of the best royal moments</a> BBC: A prince steals the show, a surprise encounter with Paddington Bear and a balcony finale. 
  <p class="updated_time"> 11:28 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-sievierodonetsk-russian-army.html">Ukraine Official Says Forces Pushed Back Russians in Eastern City</a> NYT: Ukrainian forces poured men and armor toward the front line in Sievierodonetsk on Friday, and a military official said Ukrainian troops had managed to push Russian forces back by 20 percent. 
  <p class="updated_time"> 11:27 AM CT, Jun. 05 </p> 
