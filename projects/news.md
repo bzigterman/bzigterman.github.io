@@ -9,30 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:43 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Missiles Hit Kyiv, as Putin Issues Warning to the West</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
+ <p class="updated_time"> 12:01 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">What Happened on Day 102 of the War in Ukraine</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 11:42 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
+ <p class="updated_time"> 11:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 11:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61701465?at_medium=RSS&at_campaign=KARANGA">South Korea and US fire missiles in warning to North Korea</a> BBC: The joint exercise comes after North Korea test-fired several ballistic missiles on Sunday. 
- <p class="updated_time"> 10:50 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
+ <p class="updated_time"> 10:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 09:58 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61701017?at_medium=RSS&at_campaign=KARANGA">Alec John Such: Former Bon Jovi bassist dies aged 70</a> BBC: The legendary US group remember their former bassist as a dear friend who was "wild and full of life". 
- <p class="updated_time"> 09:50 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 09:48 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61701235?at_medium=RSS&at_campaign=KARANGA">Mercedes recalls almost 1m cars over faulty brakes</a> BBC: The German carmaker said the brakes of some older cars may be affected by "advanced corrosion". 
- <p class="updated_time"> 08:50 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 09:30 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
+ <p class="updated_time"> 08:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 08:02 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
- <p class="updated_time"> 07:50 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
+ <p class="updated_time"> 07:30 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 07:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">North Korea Launches a Volley of Short-Range Missiles</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
- <p class="updated_time"> 06:50 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 06:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61697093?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns over Western long-range weapons</a> BBC: Russia will expand its target list in Ukraine if Western countries send long-range weapons, he says. 
  <p class="updated_time"> 06:11 PM CT, Jun. 05 </p> 
@@ -88,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Nearly 50 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
  <p class="updated_time"> 03:55 AM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China's Whirlwind Trip</a> WSJ: Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “It’s not only about having McDonald’s in Fiji.” 
+ <a href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738">U.S. Urged to Step Up in the Pacific After China's Whirlwind Trip</a> WSJ: Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “We see China everywhere.” 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A fire at a depot in Bangladesh has killed at least 49 and injured more than 100</a> NPR: The blaze in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
