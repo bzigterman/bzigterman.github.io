@@ -17,29 +17,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">What Happened on Day 102 of the War in Ukraine</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
  <p class="updated_time"> 02:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad controversy tests India-Islamic world ties</a> BBC: Saudi Arabia, Kuwait, Qatar and Iran have registered protests over the remark by BJP leader Nupur Sharma. 
- <p class="updated_time"> 02:25 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 02:44 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 02:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/asia/myanmar-assassinations-coup.html">Assassinations Become Weapon of Choice for Guerrilla Groups in Myanmar</a> NYT: A movement to restore democracy has evolved into deadly warfare between a ruthless military and a resistance force with limited weaponry. 
  <p class="updated_time"> 01:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 01:25 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 01:44 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
  <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
- <p class="updated_time"> 12:25 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 12:00 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61667292?at_medium=RSS&at_campaign=KARANGA">Lebanon crisis: 'A father without his children, it's terrible'</a> BBC: As the economic crisis in Lebanon continues to bite, parents are struggling to support their children. 
  <p class="updated_time"> 11:50 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61701055?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK to send Ukraine M270 multiple-launch rocket systems</a> BBC: A small number of cutting-edge rocket systems will be sent, despite a fresh warning from Russia. 
+ <p class="updated_time"> 11:44 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 11:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61701465?at_medium=RSS&at_campaign=KARANGA">South Korea and US fire missiles in warning to North Korea</a> BBC: The joint exercise comes after North Korea test-fired several ballistic missiles on Sunday. 
- <p class="updated_time"> 11:25 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 10:52 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces Confidence Vote Over Lockdown Parties</a> WSJ: A ballot was triggered by rebel lawmakers in the Conservative Party following a collapse in the U.K. prime minister’s poll ratings caused in part by parties in Downing Street during Covid-19 lockdowns. 
- <p class="updated_time"> 10:25 PM CT, Jun. 05 </p> 
+ <p class="updated_time"> 10:44 PM CT, Jun. 05 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
  <p class="updated_time"> 09:58 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61701017?at_medium=RSS&at_campaign=KARANGA">Alec John Such: Former Bon Jovi bassist dies aged 70</a> BBC: The legendary US group remember their former bassist as a dear friend who was "wild and full of life". 
@@ -47,6 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61701235?at_medium=RSS&at_campaign=KARANGA">Mercedes recalls almost 1m cars over faulty brakes</a> BBC: The German carmaker said the brakes of some older cars may be affected by "advanced corrosion". 
  <p class="updated_time"> 08:02 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
+ <p class="updated_time"> 07:16 PM CT, Jun. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61647195?at_medium=RSS&at_campaign=KARANGA">Digital fingerprints of a million child abuse images made</a> BBC: A new system for classifying images will help stop them being shared online, a UK charity says. 
  <p class="updated_time"> 07:09 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/north-korea-missile.html">U.S. and South Korea Launch Missiles In Response to North Korean Tests</a> NYT: The North’s latest test, involving eight missiles, came a day after the United States and South Korea finished joint naval exercises in the East China Sea. 
  <p class="updated_time"> 06:11 PM CT, Jun. 05 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
  <p class="updated_time"> 11:20 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61698698?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: The Queen waves from Buckingham Palace balcony for pageant</a> BBC: The Queen watched Friday and Saturday's Jubilee events from home after experiencing "discomfort". 
- <p class="updated_time"> 10:18 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/health-61696974?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Cases outside Africa rise to 780 in three weeks</a> BBC: WHO figures show confirmed cases tripled in a week, which is likely to be an underestimate. 
  <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
@@ -334,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/upshot/gun-control-polling-votes.html">Voters Say They Want Gun Control. Their Votes Say Something Different.</a> NYT: Broad public support on the issue may not be as broad as polling shows or as Democrats hope. 
  <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/business/economy/price-gouging-inflation.html">Is ‘Greedflation’ Rewriting Economics, or Do Old Rules Still Apply?</a> NYT: Economists and politicians are debating whether monopolistic companies are fueling inflation in ways that confound longstanding theory. 
- <p class="updated_time"> 03:31 AM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/cornyn-guns-talks-senate-uvalde-00036846">The Texas conservative turned Biden-approved ‘rational Republican’ on guns</a> Politico: If the Senate can’t agree on a legislative response after the killings in Uvalde, Sen. John Cornyn (R-Texas) said, “it will be embarrassing.” 
 
 
 </details>
