@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61702862?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Another Russian general killed by Ukrainian forces - reports</a> BBC: Russian state media said Major General Roman Kutuzov was the latest commander killed in fighting. 
+ <p class="updated_time"> 04:02 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence/the-prime-minister-faces-a-decisive-vote-on-monday-evening">The prime minister faces a decisive vote on Monday evening.</a> NYT: Members of the British leader’s party reached a threshold to hold the vote, after he had come under fire about claims he misled Parliament about Downing Street parties during the pandemic. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
+ <p class="updated_time"> 03:22 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">British Prime Minister Boris Johnson to face no-confidence vote</a> NPR: The vote follows revelations that Johnson and his staff repeatedly flouted restrictions they imposed on Britain in 2020 and 2021, which stirred public outrage. 
- <p class="updated_time"> 03:12 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence/the-prime-minister-faces-a-decisive-vote-on-monday-evening">The prime minister faces a decisive vote on Monday evening.</a> NYT: Members of the British leader’s party reached a threshold to hold the vote, after he had come under fire about claims he misled Parliament about Downing Street parties during the pandemic. 
  <p class="updated_time"> 03:11 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/06/05/world/russia-ukraine-war-news">What Happened on Day 102 of the War in Ukraine</a> NYT: The first strikes in the capital in more than a month destroyed tanks supplied by Ukraine’s allies, Russia said. President Vladimir Putin warned that Moscow would hit targets “we haven’t hit before” if Western nations delivered longer-range missiles to Ukraine. 
- <p class="updated_time"> 02:56 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 02:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad controversy tests India-Islamic world ties</a> BBC: Saudi Arabia, Kuwait, Qatar and Iran have registered protests over the remark by BJP leader Nupur Sharma. 
+ <p class="updated_time"> 02:22 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098">Ukraine Counterattack Takes Back Parts of Strategic Donbas City</a> WSJ: Ukraine Counterattack Takes Back Parts of Strategic Donbas City 
  <p class="updated_time"> 02:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/asia/myanmar-assassinations-coup.html">Assassinations Become Weapon of Choice for Guerrilla Groups in Myanmar</a> NYT: A movement to restore democracy has evolved into deadly warfare between a ruthless military and a resistance force with limited weaponry. 
- <p class="updated_time"> 01:56 AM CT, Jun. 06 </p> 
+ <p class="updated_time"> 01:22 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-struggling-to-export-its-grain-and-heres-why-11654421400">Ukraine Is Struggling to Export Its Grain, and Here’s Why</a> WSJ: Ukraine Is Struggling to Export Its Grain, and Here’s Why 
- <p class="updated_time"> 01:46 AM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61697409?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Gunmen kill Catholic worshippers in Ondo</a> BBC: The armed men entered the church in south-west Nigeria during a service killing several people. 
- <p class="updated_time"> 12:56 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
+ <p class="updated_time"> 12:22 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889">Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image</a> WSJ: Ukraine’s Azov Battalion Looks to Regroup and Clean Up Image 
  <p class="updated_time"> 12:00 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61667292?at_medium=RSS&at_campaign=KARANGA">Lebanon crisis: 'A father without his children, it's terrible'</a> BBC: As the economic crisis in Lebanon continues to bite, parents are struggling to support their children. 
- <p class="updated_time"> 11:56 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 11:50 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61701055?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK to send Ukraine M270 multiple-launch rocket systems</a> BBC: A small number of cutting-edge rocket systems will be sent, despite a fresh warning from Russia. 
  <p class="updated_time"> 11:28 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61701465?at_medium=RSS&at_campaign=KARANGA">South Korea and US fire missiles in warning to North Korea</a> BBC: The joint exercise comes after North Korea test-fired several ballistic missiles on Sunday. 
- <p class="updated_time"> 10:56 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Elizabeth II’s Jubilee Celebration Concludes</a> WSJ: Queen Elizabeth II’s Jubilee Celebration Concludes 
- <p class="updated_time"> 10:52 PM CT, Jun. 05 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces Confidence Vote Over Lockdown Parties</a> WSJ: A ballot was triggered by rebel lawmakers in the Conservative Party following a collapse in the U.K. prime minister’s poll ratings caused in part by parties in Downing Street during Covid-19 lockdowns. 
+ <p class="updated_time"> 11:22 PM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/gunmen-in-southwestern-nigeria-kill-dozens-at-church-service-11654459554">Gunmen in Southwestern Nigeria Kill Dozens at Church Service</a> WSJ: Gunmen in Southwestern Nigeria Kill Dozens at Church Service 
  <p class="updated_time"> 09:58 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61701017?at_medium=RSS&at_campaign=KARANGA">Alec John Such: Former Bon Jovi bassist dies aged 70</a> BBC: The legendary US group remember their former bassist as a dear friend who was "wild and full of life". 
  <p class="updated_time"> 09:48 PM CT, Jun. 05 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103168586/russia-bombed-a-railcar-repair-facility-in-kyiv">Russia bombed a railcar repair facility in Kyiv</a> NPR: It was the first Russian bombing of Kyiv in more than a month. Russia said it was targeting tanks, but NPR saw no evidence of any weapons at the scene. 
  <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 03:49 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/02/world/europe/elizabeth-jubilee-photos.html">In Photos: Queen Elizabeth II Celebrates Her Platinum Jubilee</a> NYT: The royal family gathered at Buckingham Palace to kick off a joyful commemorative weekend marking Elizabeth II’s 70 years as queen. 
  <p class="updated_time"> 03:42 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/asia/bangladesh-fire-explosion.html">Dozens Killed and Hundreds Burned in Bangladesh Depot Disaster</a> NYT: A fire set off a series of explosions, killing at least 49 people, including firefighters. Many others were in critical condition. 
  <p class="updated_time"> 03:25 PM CT, Jun. 05 </p> 
@@ -89,14 +89,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61698698?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: The Queen waves from Buckingham Palace balcony for pageant</a> BBC: The Queen watched Friday and Saturday's Jubilee events from home after experiencing "discomfort". 
  <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
+ <p class="updated_time"> 09:50 AM CT, Jun. 05 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-iis-jubilee-celebration-ends-11654455000">Queen Marks End of Jubilee Celebrations With Rare Public Appearance</a> WSJ: The monarch’s limited appearances at events as her son took center stage is a template for the last part of her reign. 
  <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshippers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
  <p class="updated_time"> 06:45 AM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61696973?at_medium=RSS&at_campaign=KARANGA">China fighter jet intercepts Australian plane - Canberra</a> BBC: Australia accuses a Chinese pilot of dangerous actions near the aircraft over the South China Sea. 
- <p class="updated_time"> 05:31 AM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61693778?at_medium=RSS&at_campaign=KARANGA">Bangladesh fire: Nearly 50 killed, hundreds injured in depot blast</a> BBC: The explosion at a storage depot is the latest disaster in a country with a poor industrial safety record. 
  <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A fire at a depot in Bangladesh has killed at least 49 and injured more than 100</a> NPR: The blaze in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/great-paul-st-pauls-cathedral-london.html">What to Know About Great Paul Bell at St. Paul’s Cathedral</a> NYT: The London cathedral’s bronze bell, weighing over 16 tons, is the largest bell ever cast in the British Isles. 
  <p class="updated_time"> 04:36 AM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/02/world/europe/ukraine-grain-putin-african-union.html">African Union Head Will Urge Putin to Release Ukraine’s Grain</a> NYT: Amid fears of a global food crisis, the president of Senegal is to meet with the president of Russia at a Black Sea resort on Friday. Aides say he will speak of the risk of famine in Africa. 
- <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/travel/iceland-drive-diamond-circle.html">Driving Iceland’s Overlooked North</a> NYT: For those seeking an alternative to the popular Golden Circle, the Diamond Circle winds through volcanic landscapes featuring powerful waterfalls, misty vistas and sulfurous pools. 
 
 
 </details>
@@ -200,6 +198,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/gas-prices-california-politics-democrats.html">High California Gas Prices Rattle Democrats Ahead of Midterms</a> NYT: “I don’t hear anything about the other national issues we’re focusing on in Washington,” a congressman said. A driver put it succinctly: “I’m really unhappy.” 
+ <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/supreme-court-state-legislatures-elections.html">Supreme Court May Hear ‘800-Pound Gorilla’ of Election Law Cases</a> NYT: Next week the justices will consider whether to resolve a long-simmering dispute about the power of state legislatures in federal elections. 
+ <p class="updated_time"> 03:59 AM CT, Jun. 06 </p> 
+ <a href="https://www.npr.org/2022/06/06/1103252678/the-summit-of-americas-in-los-angeles-is-mired-in-tension">The Summit of Americas in Los Angeles is mired in tension</a> NPR: The Summit of Americas is underway. But with discord over attendance and low expectations of a major breakthrough among those who will be there — how much need is there for such a gathering? 
+ <p class="updated_time"> 03:59 AM CT, Jun. 06 </p> 
+ <a href="https://www.npr.org/2022/06/06/1103252622/cuban-activists-applaud-u-s-decision-to-exclude-cuba-from-summit-of-the-americas">Cuban activists applaud U.S. decision to exclude Cuba from Summit of the Americas</a> NPR: The Biden administration declined to invite Cuba to this week's Summit of the Americas. Free speech advocates point to a crackdown in Cuba that heightens surveillance and stifles dissent. 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">British Prime Minister Boris Johnson to face no-confidence vote</a> NPR: The vote follows revelations that Johnson and his staff repeatedly flouted restrictions they imposed on Britain in 2020 and 2021, which stirred public outrage. 
  <p class="updated_time"> 10:29 PM CT, Jun. 05 </p> 
@@ -322,18 +328,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/03/1102923746/former-trump-adviser-navarro-indicted-for-contempt-of-congress-over-jan-6-subpoe">Former Trump aide Navarro indicted, but Justice Dept. won't charge Meadows or Scavino</a> NPR: A federal grand jury has indicted Peter Navarro on two counts of contempt of Congress. He failed to comply with a subpoena from the Jan. 6 committee. Two other Trump aides won't face the same charges. 
  <p class="updated_time"> 10:56 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/navarro-indicted-for-contempt-of-congress-after-defying-jan-6-committee-subpoena-00037069">Navarro indicted for contempt of Congress after defying Jan. 6 panel subpoena</a> Politico: After Trump’s defeat in the 2020 election and subsequent false election fraud claims, Peter Navarro started spearheading efforts to overturn the election. 
- <p class="updated_time"> 10:52 AM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102872199/gallup-poll-pro-choice-roe-v-wade-supreme-court">In a new U.S. poll, a majority identify as 'pro-choice' for the first time in decades</a> NPR: The Gallup poll, conducted after the leak of a draft Supreme Court opinion that would overturn Roe v. Wade, says that 55 percent of Americans now identify as pro-choice, up from 49 percent last year. 
  <p class="updated_time"> 06:48 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/03/will-congress-heed-bidens-call-00036965">Is Cornyn the key to a compromise?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:17 AM CT, Jun. 03 </p> 
- <a href="https://www.npr.org/2022/06/03/1102851555/in-an-address-to-the-nation-biden-renews-his-calls-for-gun-control">In an address to the nation, Biden renews his calls for gun control</a> NPR: President Biden called on Congress to ban assault weapons or to raise the age to be able to buy one from 18 to 21 and other measures to curb gun violence. What's the reaction from Uvalde, Texas? 
  <p class="updated_time"> 05:33 AM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/03/where-biden-pelosi-and-cornyn-might-agree-00036961"> Where Biden, Pelosi and Cornyn might agree</a> Politico Playbook: And Biden will travel to Saudi Arabia later this month for an expected meeting with Crown Prince Mohammed Bin Salman. 
- <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/upshot/gun-control-polling-votes.html">Voters Say They Want Gun Control. Their Votes Say Something Different.</a> NYT: Broad public support on the issue may not be as broad as polling shows or as Democrats hope. 
- <p class="updated_time"> 04:00 AM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/business/economy/price-gouging-inflation.html">Is ‘Greedflation’ Rewriting Economics, or Do Old Rules Still Apply?</a> NYT: Economists and politicians are debating whether monopolistic companies are fueling inflation in ways that confound longstanding theory. 
 
 
 </details>
