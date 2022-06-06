@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence">Live Updates: Boris Johnson Weathers No-Confidence Vote With a Weakened Grip on Power</a> NYT: The prime minister has lost support in his Conservative Party over lockdown-breaking parties at Downing Street during the height of the Covid crisis. 
+ <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
+ <p class="updated_time"> 04:36 PM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption and exerting unfair political influence. 
+ <p class="updated_time"> 04:25 PM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61712871?at_medium=RSS&at_campaign=KARANGA">Arizona police placed on leave after watching man drown</a> BBC: Three Arizona officers are placed on leave after standing by as a man in a lake pleaded for help. 
  <p class="updated_time"> 04:13 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news">Live Updates: Britain Offers Long-Range Weapons to Ukraine, as Russian Artillery Hammers East</a> NYT: Britain joined the United States in pledging advanced rocket systems, despite President Vladimir Putin’s warnings against supplying the weapons. Ukraine’s president, Volodymyr Zelensky, visited frontline troops to boost morale. 
- <p class="updated_time"> 04:11 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/06/06/world/uk-boris-johnson-no-confidence">Live Updates: Boris Johnson Weathers No-Confidence Vote With a Weakened Grip on Power</a> NYT: The prime minister has lost support in his Conservative Party over lockdown-breaking parties at Downing Street during the height of the Covid crisis. 
+ <p class="updated_time"> 04:12 PM CT, Jun. 06 </p> 
+ <a href="https://www.npr.org/2022/06/06/1103372606/class-of-54-a-d-a-marble-slab-in-storage-turned-out-to-be-an-ancient-greek-yearb">Class of 54 A.D.: a marble slab in storage turned out to be an ancient Greek yearbook</a> NPR: An ancient Greek inscription on a marble slab has been sitting in a museum for 135 years. Researchers have learned it's a list of young men who had graduated from a military training class. 
+ <p class="updated_time"> 04:12 PM CT, Jun. 06 </p> 
+ <a href="https://www.npr.org/2022/06/06/1103372599/the-summit-of-the-americas-is-often-messy-and-this-years-looks-to-be-no-differen">The Summit of the Americas is often messy, and this year's looks to be no different</a> NPR: The Summit of the Americas has a long history of being kind of messy. This year's summit in Los Angeles seems quite likely to follow suit. 
  <p class="updated_time"> 04:11 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/the-prime-minister-faces-a-decisive-vote-on-monday-evening.html">Britain’s prime minister, beset by a scandal over lockdown parties, faces a decisive vote.</a> NYT: Members of the British leader’s party reached a threshold to hold the vote, after he had come under fire about claims he misled Parliament about Downing Street parties during the pandemic. 
  <p class="updated_time"> 04:07 PM CT, Jun. 06 </p> 
@@ -25,54 +35,52 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/06/1103372564/monkeypox-cases-are-going-undetected-or-misdiagnosed">Monkeypox cases are going undetected or misdiagnosed</a> NPR: The monkeypox outbreak has grown to more than 800 cases in dozens of countries. Officials say cases are going undetected because the disease looks different than what's described in medical textbooks. 
  <p class="updated_time"> 03:56 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61712872?at_medium=RSS&at_campaign=KARANGA">Dominican Republic minister shot dead in office</a> BBC: Orlando Jorge Mera, 55, was killed by a close friend as he was holding a meeting, officials say. 
+ <p class="updated_time"> 03:55 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 03:54 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: Markets are moved more by global concerns, like the war in Ukraine, than by domestic political infighting. 
  <p class="updated_time"> 03:53 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells,a Monastery RemainsLoyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
- <p class="updated_time"> 03:49 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption and exerting unfair political influence. 
  <p class="updated_time"> 03:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Shattered His Own Invincibility</a> NYT: The prime minister survived a no-confidence vote, but has been politically wounded by the same baffling mix of strengths and foibles that propelled his rise: rare political intuition, and breathtaking personal recklessness. 
  <p class="updated_time"> 03:29 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1102603897/wagner-group-mercenary-russia-ukraine-war">An ex-member of one of the world's most dangerous mercenary groups has gone public</a> NPR: The Wagner Group, known as "Putin's shadow army," has come to the world's attention because of the Ukraine war. Marat Gabidullin, who left Wagner after fighting in Syria, has written a book about it. 
  <p class="updated_time"> 03:20 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/mexico-obrador-americas-summit.html">Mexico’s President Obrador Will Not Attend Americas Summit</a> NYT: President Andrés Manuel López Obrador of Mexico said he made the decision because Cuba, Nicaragua and Venezuela were not invited. 
- <p class="updated_time"> 03:15 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 03:09 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
+ <p class="updated_time"> 02:55 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 02:53 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61711028?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Severodonetsk and Lysychansk are dead cities - Zelensky</a> BBC: Ukraine's president says fighting in the key cities of Severodonetsk and Lysychansk has been intense. 
  <p class="updated_time"> 02:47 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61707872?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Blood on the altar</a> BBC: "I don't think the shock of what I saw will leave me for the rest of my life," one man tells the BBC. 
  <p class="updated_time"> 02:18 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
- <p class="updated_time"> 02:15 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
+ <p class="updated_time"> 01:55 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 01:29 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/james-fitton-iraq-geologist.html">British Tourist Gets 15 Years in Iraqi Jail for Taking Shards From Archaeology Site</a> NYT: The retired geologist said he did not know it was illegal to take the pottery shards when he picked them up from the site. The harshness of his sentence came as a surprise. 
- <p class="updated_time"> 01:15 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 12:56 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61711398?at_medium=RSS&at_campaign=KARANGA">Mexico's governing party captures four more states</a> BBC: Preliminary results suggest Morena candidates will now govern in 20 out of 32 regional governments. 
+ <p class="updated_time"> 12:55 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Summit After U.S. Snubs Autocracies 
  <p class="updated_time"> 12:47 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103288006/a-journalist-revisits-her-parents-activism-in-they-said-they-wanted-revolution">A journalist revisits her parents' activism in 'They Said They Wanted Revolution'</a> NPR: Neda Toloui-Semnani shares the story of her parents, two Iranian students who met at Berkeley in 1969 and later, in Iran, worked to build a more democratic nation. Her father was executed in 1983. 
- <p class="updated_time"> 12:15 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Summit After U.S. Snubs Autocracies 
  <p class="updated_time"> 12:09 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-speech-conservatives.html">Boris Johnson Makes His Case in Speech to Conservatives: ‘We Can Unite’</a> NYT: In a speech to his fellow Conservatives, the prime minister warned against “pointless fratricidal debate.” 
  <p class="updated_time"> 12:03 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103319375/hear-throughlines-peabody-award-winning-series-on-afghanistan">Hear Throughline's Peabody Award-Winning Series On Afghanistan</a> NPR: The series was recognized for unapologetically challenging narratives we accept in the U.S. 
  <p class="updated_time"> 11:59 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
+ <p class="updated_time"> 11:55 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 11:47 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/occupied-ukraine-guerrilla-attacks.html">Ukraine Insurgents Strike in Russia-Occupied Regions</a> NYT: Fueled by brutal Russian repression and worsening humanitarian conditions, Ukrainian partisans appear to be striking deep inside Russian-controlled territory. 
  <p class="updated_time"> 11:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-military-western-weapons.html">High-tech Western Weapons Pose Challenges for Ukraine Military</a> NYT: Ukrainian fighters are getting increasingly sophisticated weaponry from abroad. Some have been reduced to Googling instructions. 
- <p class="updated_time"> 11:15 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 10:59 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61703174?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: South African fury over language quiz</a> BBC: Many black South Africans associate the Afrikaans language with white-minority rule. 
  <p class="updated_time"> 10:17 AM CT, Jun. 06 </p> 
@@ -91,12 +99,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61706122?at_medium=RSS&at_campaign=KARANGA">Colombia rescuers 'won't give up' search for miners after blast</a> BBC: Three miners remain missing after 12 were killed in an explosion at a coal mine a week ago. 
  <p class="updated_time"> 06:19 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61698462?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Flight ban hits Russian foreign minister's visit to Serbia</a> BBC: Balkan countries deny Sergei Lavrov's plane use of their airspace, scuppering his Serbia visit. 
- <p class="updated_time"> 05:52 AM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-somerset-61705370?at_medium=RSS&at_campaign=KARANGA">British geologist jailed in Iraq after taking artefacts</a> BBC: Jim Fitton, 66, is sentenced to 15 years for attempting to smuggle 12 stones and broken pottery. 
  <p class="updated_time"> 03:45 AM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/beijing-cautiously-reopens-after-covid-19-wave-11654519507">Beijing Cautiously Reopens After Covid-19 Wave</a> WSJ: China’s capital lifted restrictions on dining in restaurants and many workers returned to their offices, but new Covid-19 flare-ups around the country and fresh lockdowns in parts of Shanghai continue to pose risks to the economy. 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">Boris Johnson faces a no-confidence vote. His exit may be a matter of when, not if</a> NPR: Johnson was booed during the queen's Platinum Jubilee — the latest sign of intense public anger over his flouting of his own government's COVID-19 rules. 
+ <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">Boris Johnson survives no-confidence vote in a victory of sorts</a> NPR: Johnson was booed during the queen's Platinum Jubilee — the latest sign of intense public anger over his flouting of his own government's COVID-19 rules. 
  <p class="updated_time"> 02:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad controversy tests India-Islamic world ties</a> BBC: Saudi Arabia, Kuwait, Qatar and Iran have registered protests over the remark by BJP leader Nupur Sharma. 
  <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
@@ -145,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
- <p class="updated_time"> 01:29 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103136360/north-korea-test-fires-short-range-missiles">North Korea has test-fired a salvo of short-range missiles</a> NPR: The barrage of eight missiles test-fired over 35 minutes extends a streak in weapons demonstrations this year that U.S. and South Korean officials say may culminate with a nuclear test explosion. 
  <p class="updated_time"> 11:39 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/alameda-county-mask-mandate.html">Alameda County in California Reinstates Indoor Mask Mandate</a> NYT: Officials cited growing hospitalizations in reimposing the policy. 
  <p class="updated_time"> 11:28 PM CT, Jun. 04 </p> 
@@ -157,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
- <p class="updated_time"> 04:11 PM CT, Jun. 04 </p> 
- <a href="https://www.npr.org/2022/06/04/1103114124/ukraines-hoping-to-keep-the-surprises-coming-in-the-mens-world-cup-qualifiers">Ukraine's hoping to keep the surprises coming in the men's World Cup Qualifiers</a> NPR: NPR's Elissa Nadworny speaks with sports podcaster Roger Bennett about the Ukraine national soccer team's upset win over Scotland, and tomorrow's match against Wales. 
  <p class="updated_time"> 02:23 PM CT, Jun. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61692278?at_medium=RSS&at_campaign=KARANGA">Party at the Palace: The Queen meets Paddington Bear for jubilee celebrations</a> BBC: The Queen and the animated children's character professed a shared love for marmalade sandwiches. 
  <p class="updated_time"> 12:55 PM CT, Jun. 04 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/us/politics/united-nations-turkey-syria-refugees.html">‘We Have Not Forgotten Syria’: U.S. Envoy Vows to Protect Refugees</a> NYT: After 11 years of war, Syria has become a cautionary example of what can happen in a conflict with no end in sight, like the one that began 100 days ago in Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/covid-vaccine-pregnancy-misinformation.html">Covid Vaccine Misinformation Still Fuels Fears Surrounding Pregnancy, a New Study Finds.</a> NYT: Health experts, including the Centers for Disease Control and Prevention, recommend that pregnant women get vaccinated against the coronavirus as soon as possible, to protect both maternal and fetal health. 
- <p class="updated_time"> 04:51 PM CT, Jun. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61687586?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: We are holding on, say Mykolaiv residents</a> BBC: Residents in the southern region of Ukraine speak of their defiance and dread as the war rages on. 
 
 
 </details>
@@ -188,6 +188,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/business/economy/biden-solar-tariffs.html">Biden to Pause New Solar Tariffs as White House Aims to Boost Adoption</a> NYT: Critics said the move would shortcut an investigation by the Commerce Department, which has been considering whether to impose the tariffs as part of a trade case against Chinese companies. 
+ <p class="updated_time"> 04:31 PM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/dday-normandy-veterans-00037549">Joy, sadness mix at Normandy’s D-Day commemorations</a> Politico: Several dozen veterans were there, all in their 90s. 
  <p class="updated_time"> 04:12 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103372599/the-summit-of-the-americas-is-often-messy-and-this-years-looks-to-be-no-differen">The Summit of the Americas is often messy, and this year's looks to be no different</a> NPR: The Summit of the Americas has a long history of being kind of messy. This year's summit in Los Angeles seems quite likely to follow suit. 
  <p class="updated_time"> 04:06 PM CT, Jun. 06 </p> 
@@ -208,8 +212,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/06/1103372485/new-york-and-tennessee-have-starkly-different-plans-to-curb-gun-violence">New York and Tennessee have starkly different plans to curb gun violence</a> NPR: While New York's governor has toughened gun laws in a bill signing,  Tennessee's governor is focusing on "hardening" schools — showing how differently states are addressing gun violence. 
  <p class="updated_time"> 03:29 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1102603897/wagner-group-mercenary-russia-ukraine-war">An ex-member of one of the world's most dangerous mercenary groups has gone public</a> NPR: The Wagner Group, known as "Putin's shadow army," has come to the world's attention because of the Ukraine war. Marat Gabidullin, who left Wagner after fighting in Syria, has written a book about it. 
- <p class="updated_time"> 03:26 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/business/economy/biden-solar-tariffs.html">Biden to Pause New Solar Tariffs as White House Aims to Boost Adoption</a> NYT: Critics said the move would shortcut an investigation by the Commerce Department, which has been considering whether to impose the tariffs as part of a trade case against Chinese companies. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/doj-charges-proud-boys-leaders-with-seditious-conspiracy-over-jan-6-attack-00037518">DOJ charges Proud Boys leaders with seditious conspiracy over Jan. 6 attack</a> Politico: The charges come the same week that the Jan. 6 select committee plans to hold its first hearing analyzing the Capitol breach. 
  <p class="updated_time"> 03:09 PM CT, Jun. 06 </p> 
@@ -240,6 +242,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/06/1103291476/biden-solar-panel-imports-defense-production-act">Biden allows solar panel imports while also moving to boost domestic production</a> NPR: The Biden administration will invoke the Defense Production Act to increase U.S. manufacturing of solar panels while declaring a two-year tariff exemption on panels from Southeast Asia. 
  <p class="updated_time"> 10:18 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/mexican-president-summit-of-the-americas-00037378">Mexican president won't attend Summit of the Americas</a> Politico: President Andrés Manuel López Obrador confirmed his decision Monday following weeks of threats that he would to stay home if the White House refused to invite leaders from Cuba, Nicaragua and Venezuela. 
+ <p class="updated_time"> 09:30 AM CT, Jun. 06 </p> 
+ <a href="https://www.cnn.com/2022/06/05/politics/supreme-court-june-opinions/index.html">Supreme Court has 30 opinions remaining in one-month sprint to end controversial term</a> CNN: As the Supreme Court rounds the final weeks of the term it has yet to decide an unusually high number of cases including disputes over abortion, gun rights, religious liberty, immigration and the environment -- issues that deeply divide the public and exacerbate the ideological split on the 6-3 conservative-liberal court. 
  <p class="updated_time"> 08:54 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/biden-solar-power-equipment-imports-00037359">Biden moves to ease trade turmoil threatening his solar energy ambitions</a> Politico: The moves come as the solar energy industry has been roiled by a Commerce Department probe into whether companies in four Southeast Asian countries have circumvented the tariffs on Chinese shipments of solar equipment to the U.S. 
  <p class="updated_time"> 08:21 AM CT, Jun. 06 </p> 
@@ -250,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
  <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow">Watergate Committee hearings may be both an inspiration and a hard act to follow</a> NPR: Fifty years from now, when Americans look back on the riotous break-in at the Capitol on Jan. 6, 2021, will it have as much impact as memories of the Watergate scandal continue to have today? 
+ <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/free-speech-group-first-amendment-00037320">Free-speech group will spend millions to promote First Amendment cases</a> Politico: Some backers see FIRE moving to take on fights ceded by ACLU. 
  <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/supreme-court-state-legislatures-elections.html">Supreme Court May Hear ‘800-Pound Gorilla’ of Election Law Cases</a> NYT: Next week the justices will consider whether to resolve a long-simmering dispute about the power of state legislatures in federal elections. 
  <p class="updated_time"> 03:59 AM CT, Jun. 06 </p> 
@@ -286,12 +292,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/05/raimondo-inflation-pain-yellen-biden-00037256">Commerce secretary acknowledges pain of inflation</a> Politico: Gina Raimondo said the Biden administration is looking to lift some tariffs to help the situation. 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/05/democracy-week-in-washington-00037266"> Democracy week in Washington</a> Politico Playbook: And Russian missiles strike Kyiv. 
+ <p class="updated_time"> 10:48 AM CT, Jun. 05 </p> 
+ <a href="https://www.politico.com/news/2022/06/05/un-russia-ukraine-grain-00037240">U.S. skeptical U.N.-Russia talks will free trapped Ukrainian grain</a> Politico: Russian officials are offering to allow Ukrainian grain safe passage through a Russian blockade in exchange for sanctions relief. 
  <p class="updated_time"> 10:40 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/chris-murphy-florida-gun-law-00037255">Murphy calls Florida gun law 'the right one’ as senators negotiate federal legislation</a> Politico: “We have to make the case for Republicans that right now this is good politics,” the Connecticut senator said. 
  <p class="updated_time"> 09:43 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/tom-rice-trump-impeachment-00037265">‘That was the conservative vote,’ Tom Rice says of his vote to impeach Trump</a> Politico: The South Carolina Republican is a target of the former president in his state's upcoming primary. 
- <p class="updated_time"> 09:03 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/pete-buttigieg-guns-washington-00037262">Buttigieg sees 'insanity' in reaction to gun violence</a> Politico: "Will we actually acknowledge the reasons why we are the only country, the only developed country, where this happens on a routine basis?" 
  <p class="updated_time"> 08:04 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103145054/tv-stations-pull-controversial-ads-targeting-democratic-senate-nominee-cheri-bea">TV stations pull controversial ads targeting Democratic Senate nominee Cheri Beasley</a> NPR: TV stations in North Carolina have pulled controversial ads targeting Democratic U.S. Senate nominee Cheri Beasley. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
@@ -320,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/doj-declines-to-charge-meadows-scavino-with-contempt-of-congress-for-defying-jan-6-committee-00037230">DOJ declines to charge Meadows, Scavino with contempt of Congress for defying Jan. 6 committee</a> Politico: Former Trump trade adviser Peter Navarro was arrested on charges of contempt of Congress earlier Friday. 
  <p class="updated_time"> 05:41 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/mccormick-concedes-in-pennsylvania-gop-senate-primary-00037220">Oz wins Pennsylvania GOP Senate primary as McCormick concedes</a> Politico: McCormick’s withdrawal guarantees the Trump-endorsed Oz will face-off with Democratic Senate nominee John Fetterman in November. 
- <p class="updated_time"> 04:17 PM CT, Jun. 03 </p> 
- <a href="https://www.politico.com/news/2022/06/03/jacobs-reelection-gun-control-00037187">New York Rep. Chris Jacobs ends reelection bid following support for gun control</a> Politico: Jacobs' departure from the race will likely lead to a scramble among Republicans in what will now be an open contest in New York’s reddest seat. 
 
 
 </details>
