@@ -927,21 +927,21 @@ html {
 <td class="gt_row gt_right">5K</td>
 <td class="gt_row gt_right">&minus;19%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">836</td>
-<td class="gt_row gt_right gt_striped">1K</td>
-<td class="gt_row gt_right gt_striped">+21%</td></tr>
+<td class="gt_row gt_right gt_striped">877</td>
+<td class="gt_row gt_right gt_striped">967</td>
+<td class="gt_row gt_right gt_striped">+10%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">9</td>
 <td class="gt_row gt_right">8</td>
 <td class="gt_row gt_right">&minus;11%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">14K</td>
-<td class="gt_row gt_right gt_striped">10K</td>
-<td class="gt_row gt_right gt_striped">&minus;31%</td></tr>
+<td class="gt_row gt_right gt_striped">15K</td>
+<td class="gt_row gt_right gt_striped">9K</td>
+<td class="gt_row gt_right gt_striped">&minus;38%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1400,21 +1400,21 @@ html {
 <td class="gt_row gt_right">98K</td>
 <td class="gt_row gt_right">&minus;10%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">19K</td>
+<td class="gt_row gt_right gt_striped">20K</td>
 <td class="gt_row gt_right gt_striped">22K</td>
-<td class="gt_row gt_right gt_striped">+16%</td></tr>
+<td class="gt_row gt_right gt_striped">+9%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">290</td>
+<td class="gt_row gt_right">294</td>
 <td class="gt_row gt_right">247</td>
-<td class="gt_row gt_right">&minus;15%</td></tr>
+<td class="gt_row gt_right">&minus;16%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">350K</td>
-<td class="gt_row gt_right gt_striped">202K</td>
-<td class="gt_row gt_right gt_striped">&minus;42%</td></tr>
+<td class="gt_row gt_right gt_striped">358K</td>
+<td class="gt_row gt_right gt_striped">177K</td>
+<td class="gt_row gt_right gt_striped">&minus;51%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
