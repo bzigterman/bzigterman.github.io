@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/middleeast/james-fitton-iraq-geologist.html">British Tourist Gets 15 Years in Iraqi Jail for Taking Shards From Archaeology Site</a> NYT: The retired geologist said he did not know it was illegal to take the pottery shards when he picked them up from the site. The harshness of his sentence came as a surprise. 
+ <p class="updated_time"> 01:11 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/world/americas/mexico-obrador-americas-summit.html">Mexico’s President Obrador Will Not Attend Americas Summit</a> NYT: President Andrés Manuel López Obrador of Mexico said he made the decision because Cuba, Nicaragua and Venezuela were not invited. 
+ <p class="updated_time"> 01:06 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
+ <p class="updated_time"> 01:05 PM CT, Jun. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61711028?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Severodonetsk and Lysychansk are dead cities - Zelensky</a> BBC: Ukraine's president says fighting in the key cities of Severodonetsk and Lysychansk has been intense. 
  <p class="updated_time"> 12:56 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61711398?at_medium=RSS&at_campaign=KARANGA">Mexico's governing party captures four more states</a> BBC: Preliminary results suggest Morena candidates will now govern in 20 out of 32 regional governments. 
  <p class="updated_time"> 12:47 PM CT, Jun. 06 </p> 
@@ -17,18 +25,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/06/1103288006/a-journalist-revisits-her-parents-activism-in-they-said-they-wanted-revolution">A journalist revisits her parents' activism in 'They Said They Wanted Revolution'</a> NPR: Neda Toloui-Semnani shares the story of her parents, two Iranian students who met at Berkeley in 1969 and later, in Iran, worked to build a more democratic nation. Her father was executed in 1983. 
  <p class="updated_time"> 12:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news">Live Updates: Britain Offers Long-Range Weapons to Ukraine, as Russian Artillery Hammers East</a> NYT: Britain joined the United States in pledging advanced rocket systems, despite President Vladimir Putin’s warnings against supplying the weapons. Ukraine’s president visited frontline troops to boost morale. 
- <p class="updated_time"> 12:38 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/middleeast/james-fitton-iraq-geologist.html">British Tourist Gets 15 Years in Iraqi Jail for Taking Shards From Archaeology Site</a> NYT: The retired geologist said he did not know it was illegal to take the pottery shards when he picked them up from the site. The harshness of his sentence came as a surprise. 
- <p class="updated_time"> 12:23 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for the Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
+ <p class="updated_time"> 12:32 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 12:11 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61709782?at_medium=RSS&at_campaign=KARANGA">Elon Musk threatens to walk away from Twitter deal</a> BBC: The billionaire accuses the company of "thwarting" his requests to learn more about spam accounts. 
  <p class="updated_time"> 12:09 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-speech-conservatives.html">Boris Johnson Makes His Case in Speech to Conservatives: ‘We Can Unite’</a> NYT: In a speech to his fellow Conservatives, the prime minister warned against “pointless fratricidal debate.” 
  <p class="updated_time"> 12:03 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103319375/hear-throughlines-peabody-award-winning-series-on-afghanistan">Hear Throughline's Peabody Award-Winning Series On Afghanistan</a> NPR: The series was recognized for unapologetically challenging narratives we accept in the U.S. 
- <p class="updated_time"> 12:02 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 11:59 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html">Behold the Lionfish, as Transfixing as It Is Destructive</a> NYT: Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats. 
  <p class="updated_time"> 11:50 AM CT, Jun. 06 </p> 
@@ -37,36 +41,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/europe/occupied-ukraine-guerrilla-attacks.html">Ukraine Insurgents Strike in Russia-Occupied Regions</a> NYT: Fueled by brutal Russian repression and worsening humanitarian conditions, Ukrainian partisans appear to be striking deep inside Russian-controlled territory. 
  <p class="updated_time"> 11:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-military-western-weapons.html">High-tech Western Weapons Pose Challenges for Ukraine Military</a> NYT: Ukrainian fighters are getting increasingly sophisticated weaponry from abroad. Some have been reduced to Googling instructions. 
+ <p class="updated_time"> 11:32 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 11:29 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Suffered a Stunning Political Reversal</a> NYT: The same baffling mix of strengths and foibles that propelled Mr. Johnson’s rise have brought him low: rare political intuition, and breathtaking personal recklessness. 
- <p class="updated_time"> 11:02 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 10:59 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61703174?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: South African fury over language quiz</a> BBC: Many black South Africans associate the Afrikaans language with white-minority rule. 
- <p class="updated_time"> 10:56 AM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/americas/mexico-obrador-americas-summit.html">Mexico’s President Obrador Will Not Attend Americas Summit</a> NYT: President Andrés Manuel López Obrador of Mexico said he made the decision because Cuba, Nicaragua and Venezuela were not invited. 
+ <p class="updated_time"> 10:32 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 10:31 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/tropical-storm-alex-bermuda.html">Tropical Storm Alex Takes Aim at Bermuda After Flooding Florida</a> NYT: The storm was expected to bring rain and strong winds to Bermuda before weakening. 
  <p class="updated_time"> 10:17 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61702868?at_medium=RSS&at_campaign=KARANGA">Bangladesh officials say depot fire exacerbated by mislabelled chemicals</a> BBC: Officials say hydrogen peroxide containers were mislabelled, exacerbating a blaze that killed dozens. 
  <p class="updated_time"> 10:07 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
- <p class="updated_time"> 10:02 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Faces No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Faces No-Confidence Vote Over Lockdown Parties 
+ <p class="updated_time"> 09:32 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies 
  <p class="updated_time"> 09:32 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61707872?at_medium=RSS&at_campaign=KARANGA">Nigeria Owo church attack: Blood on the altar</a> BBC: "I don't think the shock of what I saw will leave me for the rest of my life," one man tells the BBC. 
  <p class="updated_time"> 09:28 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/asia/myanmar-assassinations-coup.html">Assassinations Become Weapon of Choice for Guerrilla Groups in Myanmar</a> NYT: A movement to restore democracy has evolved into deadly warfare between a ruthless military and a resistance force with limited weaponry. 
  <p class="updated_time"> 09:07 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/03/health/monkeypox-vaccine-treatments.html">21 Americans Infected With Monkeypox, C.D.C. Reports</a> NYT: As the number of cases outside Africa approaches 800, governments are scrambling for a limited pool of vaccines and treatments with unclear effectiveness. 
- <p class="updated_time"> 09:02 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies</a> WSJ: Mexico’s Leader to Skip Regional Summit After U.S. Snubs Autocracies 
  <p class="updated_time"> 08:46 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html">Russia Seeks Buyers for Plundered Ukraine Grain, U.S. Warns</a> NYT: American diplomats have alerted 14 countries, most in Africa, that Russian ships filled with stolen Ukrainian grain could be headed their way, posing a dilemma to countries facing dire food shortages. 
+ <p class="updated_time"> 08:32 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 08:20 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61702862?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Another Russian general killed by Ukrainian forces - reports</a> BBC: Russian state media said Major General Roman Kutuzov was the latest commander killed in fighting. 
- <p class="updated_time"> 08:02 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 07:03 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103271374/muslim-countries-angry-india-insults-islam-prophet-muhammad">Muslim countries express outrage to India over derogatory remarks about Islam</a> NPR: India is facing major diplomatic outrage from Muslim-majority countries after top officials in the governing Hindu nationalist party made derogatory references to Islam and the Prophet Muhammad. 
  <p class="updated_time"> 06:53 AM CT, Jun. 06 </p> 
@@ -79,12 +81,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/03/world/europe/queen-elizabeth-jubilee-boris-johnson.html">For Boris Johnson, a Welcome Break From Political Pressures</a> NYT: His attendance at the service of thanksgiving during the Platinum Jubilee celebrations for Queen Elizabeth II is also an opportunity to stride the global stage and rub shoulders with royalty. 
  <p class="updated_time"> 04:41 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
+ <p class="updated_time"> 03:45 AM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/beijing-cautiously-reopens-after-covid-19-wave-11654519507">Beijing Cautiously Reopens After Covid-19 Wave</a> WSJ: China’s capital lifted restrictions on dining in restaurants and many workers returned to their offices, but new Covid-19 flare-ups around the country and fresh lockdowns in parts of Shanghai continue to pose risks to the economy. 
  <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">Boris Johnson faces a no-confidence vote. His exit may be a matter of when, not if</a> NPR: Johnson was booed during the queen's Platinum Jubilee — the latest sign of intense public anger over his flouting of his own government's COVID-19 rules. 
  <p class="updated_time"> 02:46 AM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad controversy tests India-Islamic world ties</a> BBC: Saudi Arabia, Kuwait, Qatar and Iran have registered protests over the remark by BJP leader Nupur Sharma. 
- <p class="updated_time"> 01:36 AM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-capitalizes-on-ukraine-crisis-as-grip-at-home-wavers-11654511811">Turkey's Erdogan Capitalizes on Ukraine Crisis as Grip at Home Wavers</a> WSJ: President Recep Tayyip Erdogan is following a playbook he has pulled out repeatedly over more than two decades of public life, transforming crises into political opportunities, analysts say. 
  <p class="updated_time"> 12:44 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/wagner-russia-sudan-gold-putin.html">Putin Ally Mines Gold and Plays Favorites in Sudan</a> NYT: Backed by the Kremlin, the shadowy network known as the Wagner Group is getting rich in Sudan while helping the military to crush a democracy movement. 
  <p class="updated_time"> 12:00 AM CT, Jun. 06 </p> 
@@ -190,8 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:23 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for the Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
+ <p class="updated_time"> 01:26 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/gun-control-cornyn-senate-republicans.html">With Cornyn in the Room, Senate Gun Talks Focus on Narrow Changes</a> NYT: The conservative Texan’s involvement in bipartisan talks means that an agreement, if there is one, is likely to include incremental steps. 
+ <p class="updated_time"> 01:22 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/business/economy/the-potential-dark-side-of-a-white-hot-labor-market.html">The Potential Dark Side of a White-Hot Labor Market</a> NYT: The strong job market may be about to take a turn for the worse. That could come to haunt those who made choices based on today’s conditions. 
+ <p class="updated_time"> 01:06 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
+ <p class="updated_time"> 12:24 PM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/six-things-to-watch-during-the-summit-of-the-americas-00037384">Six things to watch during the Summit of the Americas</a> Politico: As President Joe Biden prepares to host Latin American nations in Los Angeles, questions remain about U.S. influence in the region. 
  <p class="updated_time"> 12:16 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/michelle-long-spears-georgia.html">Georgia Candidate Who Appeared to Get Few Votes Was Actually in 1st Place</a> NYT: The discrepancy in a race for a county-level board of commissioners seat was blamed on a series of technical errors. 
  <p class="updated_time"> 12:08 PM CT, Jun. 06 </p> 
@@ -304,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/doj-declines-to-charge-meadows-scavino-with-contempt-of-congress-for-defying-jan-6-committee-00037230">DOJ declines to charge Meadows, Scavino with contempt of Congress for defying Jan. 6 committee</a> Politico: Former Trump trade adviser Peter Navarro was arrested on charges of contempt of Congress earlier Friday. 
  <p class="updated_time"> 06:42 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103046665/dave-mccormick-concedes-to-dr-oz-in-pennsylvanias-gop-primary">Dr. Oz wins the GOP Senate primary in Pennsylvania after McCormick concedes</a> NPR: Oz led McCormick by less than 1,000 votes as state officials conducted a recount after the May 17 primary. 
- <p class="updated_time"> 06:14 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/john-fetterman-heart-condition.html">Fetterman Discloses Extent of Heart Issues: ‘I Avoided Going to the Doctor.’</a> NYT: The Democratic candidate for Senate in Pennsylvania did not give a timeline for when he would return to the campaign trail. 
  <p class="updated_time"> 06:10 PM CT, Jun. 03 </p> 
  <a href="https://www.nytimes.com/2022/06/03/us/politics/california-house-races-jan-6.html">Is Jan. 6 a Winning Political Issue in California? We’re About to Find Out.</a> NYT: Democratic candidates have shied away from talking about the Capitol siege. That could change if voters flock to a former federal prosecutor running for a House seat in California. 
  <p class="updated_time"> 05:44 PM CT, Jun. 03 </p> 
@@ -314,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/03/mccormick-concedes-in-pennsylvania-gop-senate-primary-00037220">Oz wins Pennsylvania GOP Senate primary as McCormick concedes</a> Politico: McCormick’s withdrawal guarantees the Trump-endorsed Oz will face-off with Democratic Senate nominee John Fetterman in November. 
  <p class="updated_time"> 05:21 PM CT, Jun. 03 </p> 
  <a href="https://www.npr.org/2022/06/03/1103025750/fda-investigation-baby-formula-shortage">The FDA is facing an investigation into its handling of the baby formula shortage</a> NPR: The Department of Health and Human Services wants to know if the FDA followed its rules and procedures in investigating the contamination of baby formula and recalling it. 
- <p class="updated_time"> 05:19 PM CT, Jun. 03 </p> 
- <a href="https://www.nytimes.com/2022/06/03/us/politics/united-nations-turkey-syria-refugees.html">‘We Have Not Forgotten Syria’: U.S. Envoy Vows to Protect Refugees</a> NYT: After 11 years of war, Syria has become a cautionary example of what can happen in a conflict with no end in sight, like the one that began 100 days ago in Ukraine. 
  <p class="updated_time"> 04:17 PM CT, Jun. 03 </p> 
  <a href="https://www.politico.com/news/2022/06/03/jacobs-reelection-gun-control-00037187">New York Rep. Chris Jacobs ends reelection bid following support for gun control</a> Politico: Jacobs' departure from the race will likely lead to a scramble among Republicans in what will now be an open contest in New York’s reddest seat. 
  <p class="updated_time"> 02:01 PM CT, Jun. 03 </p> 
