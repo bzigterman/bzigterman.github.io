@@ -15,25 +15,25 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption, which they deny. 
  <p class="updated_time"> 03:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Ukraine Live Updates: E.U. Leaders Pin Global Food Worries on Russia</a> NYT: Moscow shifted blame for food shortages to sanctions. Both Ukraine and Russia are claiming to have inflicted decisive losses against one another in recent days in the fight for a key eastern city. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61716761?at_medium=RSS&at_campaign=KARANGA">Ukraine: Severodonetsk and Lysychansk have 'no people on the streets' - Zelensky</a> BBC: The Ukrainian president says there are no civilians on the streets in Severodonetsk and Lysychansk. 
- <p class="updated_time"> 03:08 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
- <p class="updated_time"> 02:08 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 02:30 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">The Museum Was Built So No One Would Forget. Now It’s Falling Apart.</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
- <p class="updated_time"> 01:08 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 01:30 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 01:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
- <p class="updated_time"> 12:08 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 12:30 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
  <p class="updated_time"> 12:01 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
- <p class="updated_time"> 11:08 PM CT, Jun. 06 </p> 
+ <p class="updated_time"> 11:30 PM CT, Jun. 06 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 11:07 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Veteran British journalist Dom Phillips missing in Amazon</a> BBC: The journalist was travelling with a Brazilian indigenous expert in Brazil when they went missing. 
@@ -55,6 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
  <p class="updated_time"> 05:40 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61712873?at_medium=RSS&at_campaign=KARANGA">Proud Boys leader faces sedition charge over US Capitol riot</a> BBC: Prosecutors say Enrique Tarrio and his group tried to oppose by force the peaceful transfer of power. 
+ <p class="updated_time"> 05:13 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Dom Phillips, who is writing a book about the Amazon, was last seen with indigenous expert Bruno Pereira Sunday morning in the Javari Valley, a vast territory plagued by illegal logging, mining and poaching. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
  <p class="updated_time"> 04:25 PM CT, Jun. 06 </p> 
@@ -99,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/james-fitton-iraq-geologist.html">British Tourist Gets 15 Years in Iraqi Jail for Taking Shards From Archaeology Site</a> NYT: The retired geologist said he did not know it was illegal to take the pottery shards when he picked them up from the site. The harshness of his sentence came as a surprise. 
  <p class="updated_time"> 12:47 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103288006/a-journalist-revisits-her-parents-activism-in-they-said-they-wanted-revolution">A journalist revisits her parents' activism in 'They Said They Wanted Revolution'</a> NPR: Neda Toloui-Semnani shares the story of her parents, two Iranian students who met at Berkeley in 1969 and later, in Iran, worked to build a more democratic nation. Her father was executed in 1983. 
+ <p class="updated_time"> 12:29 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Moscow has complained about what it describes as hostile behavior toward Russian journalists in the U.S. and warned of equivalent measures against American reporters in Russia. 
  <p class="updated_time"> 12:09 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-speech-conservatives.html">Boris Johnson Makes His Case in Speech to Conservatives: ‘We Can Unite’</a> NYT: In a speech to his fellow Conservatives, the prime minister warned against “pointless fratricidal debate.” 
  <p class="updated_time"> 12:03 PM CT, Jun. 06 </p> 
@@ -214,6 +218,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1102190697/iowa-primary-election-results">Here are the key primary election results from Iowa</a> NPR: Democrats vie to take on longtime U.S. Sen. Chuck Grassley, and three Republicans face off to challenge Rep. Cindy Axne in the 3rd Congressional District. 
  <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Persistent Inflation Puts Yellen in the Spotlight</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/fetterman-runs-first-tv-ad-on-fox-00037659">Fetterman airs first general election ad on Fox</a> Politico: The Pennsylvania Democratic Senate nominee's spot portrays him as a political outsider who has pushed for policies that benefit the working class. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/south-texas-election-ad-00037595">Democrats go on air in South Texas special</a> Politico: House Majority PAC is launching a TV ad buy ahead of the June 14 contest to replace former Democratic Rep. Filemon Vela, who resigned. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/fed-workers-covid-inflation-00036970">How Covid threatens the left’s win at the Fed</a> Politico: Critics of easy money policies say the central bank’s new pro-worker pivot stoked price spikes and made the central bank late to fighting them. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/california-primary-what-to-watch-00037645">California’s test on crime, House members in danger and more: What to watch in Tuesday’s primaries</a> Politico: Tough-on-crime messaging has dominated races in California and beyond. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/jan-6-hearings-tv-democrats.html">Jan. 6 Hearings Give Democrats a Chance to Recast Midterm Message</a> NYT: With their majority at stake, Democrats plan to use the six high-profile hearings to refocus voters’ attention on Republicans’ role in the attack. 
  <p class="updated_time"> 11:12 PM CT, Jun. 06 </p> 
@@ -242,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/06/unions-lobby-biden-for-bolder-approach-to-student-debt-relief-00037440">Unions lobby Biden for bolder approach to student debt relief</a> Politico: Some labor groups want Biden to go higher than $10K per borrower and avoid income limits. 
  <p class="updated_time"> 05:09 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/taddeo-drops-out-of-florida-governors-race-00037562">Taddeo drops out of Florida governor's race</a> Politico: After expected exit, Miami Democrat set to challenge Republican Rep. Maria Elvira Salazar 
- <p class="updated_time"> 05:00 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/lawmakers-dod-stalled-cruise-missile-decision-00037547">Lawmakers threaten DoD's No. 2 over 'stalled' cruise missile decision</a> Politico: A House panel wants the Pentagon to designate an office to oversee cruise missile defense. 
  <p class="updated_time"> 04:31 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/dday-normandy-veterans-00037549">Joy, sadness mix at Normandy’s D-Day commemorations</a> Politico: Several dozen veterans were there, all in their 90s. 
  <p class="updated_time"> 04:12 PM CT, Jun. 06 </p> 
@@ -266,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
  <p class="updated_time"> 01:34 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/business/economy/the-potential-dark-side-of-a-white-hot-labor-market.html">The Potential Dark Side of a White-Hot Labor Market</a> NYT: The strong job market may be about to take a turn for the worse. That could come to haunt those who made choices based on today’s conditions. 
- <p class="updated_time"> 12:24 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/six-things-to-watch-during-the-summit-of-the-americas-00037384">6 things to watch during the Summit of the Americas</a> Politico: As President Joe Biden prepares to host Latin American nations in Los Angeles, questions remain about U.S. influence in the region. 
  <p class="updated_time"> 12:16 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/michelle-long-spears-georgia.html">Georgia Candidate Who Appeared to Get Few Votes Was Actually in 1st Place</a> NYT: The discrepancy in a race for a county-level board of commissioners seat was blamed on a series of technical errors. 
  <p class="updated_time"> 11:57 AM CT, Jun. 06 </p> 
@@ -290,10 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/06/free-speech-group-first-amendment-00037320">Free-speech group will spend millions to promote First Amendment cases</a> Politico: Some backers see FIRE moving to take on fights ceded by ACLU. 
  <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/supreme-court-state-legislatures-elections.html">Supreme Court May Hear ‘800-Pound Gorilla’ of Election Law Cases</a> NYT: Next week the justices will consider whether to resolve a long-simmering dispute about the power of state legislatures in federal elections. 
- <p class="updated_time"> 03:33 AM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/lummis-and-gillibrands-crypto-hype-machine-00036712">Crypto lobbying hits fever pitch as Bitcoin's favorite senator finishes bill</a> Politico: The contents of the bill will likely shed light on who holds sway in the ever-expanding universe of crypto lobbying. 
- <p class="updated_time"> 03:30 AM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/rick-caruso-billionaire-los-angeles-mayoral-race-00037202">How a billionaire mall magnate pulled ahead in the Los Angeles mayoral race</a> Politico: Rick Caruso is best known as the developer of luxury retail. Will his message on crime propel him to city hall? 
  <p class="updated_time"> 10:29 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
  <p class="updated_time"> 07:00 PM CT, Jun. 05 </p> 
