@@ -9,17 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:13 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 02:35 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
+ <p class="updated_time"> 02:33 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
+ <p class="updated_time"> 02:25 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey: 'This should be a nonpartisan issue'</a> BBC: The actor spoke at the White House to advocate for "responsible gun ownership". 
  <p class="updated_time"> 02:13 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
  <p class="updated_time"> 02:04 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
  <p class="updated_time"> 02:02 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/boris-johnson-no-confidence.html">What’s Next for Boris Johnson After Narrowly Surviving No-Confidence Vote</a> NYT: After narrowly winning a no-confidence vote on Monday, Prime Minister Boris Johnson faces a long list of threats to his leadership. 
- <p class="updated_time"> 01:34 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
- <p class="updated_time"> 01:27 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 01:40 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 01:26 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">Kansas Woman Who Joined ISIS Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
@@ -27,7 +29,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/golf/61723195?at_medium=RSS&at_campaign=KARANGA">Tiger Woods to miss US Open to give himself time to 'get stronger'</a> BBC: Tiger Woods confirms he will not play at next week's US Open, but still plans to compete at the 150th Open Championship at St Andrews next month. 
  <p class="updated_time"> 12:52 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-saudi-arabia-congress.html">Democratic Lawmakers Urge Biden to Ensure Saudi Ties Serve U.S.</a> NYT: A letter to President Biden ahead of his planned trip to Saudi Arabia raises concerns about the kingdom’s cooperation with China on ballistic missiles and its human rights violations. 
- <p class="updated_time"> 12:27 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 12:40 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">A Domestic Political Fight in Sweden Gets Embroiled in Geopolitics</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join NATO. 
@@ -39,17 +41,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
+ <p class="updated_time"> 11:40 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61720402?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Why I risk my life to provide aid in Ukraine</a> BBC: The British volunteers helping Ukrainians escape Russian attacks. 
- <p class="updated_time"> 11:27 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 11:22 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61720276?at_medium=RSS&at_campaign=KARANGA">EU sets date for common phone charge cable</a> BBC: The EU has provisionally agreed new mobile devices must, by autumn 2024, use the same type of charger. 
  <p class="updated_time"> 11:20 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/mariupol-bodies-ukraine-russia.html">Ukraine and Russia Exchange War Dead Remains</a> NYT: In the first official confirmed exchange of war dead, Russia and Ukraine each received about 160 bodies. 
  <p class="updated_time"> 10:46 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Family of British journalist missing in Amazon urges action</a> BBC: The journalist and a Brazilian indigenous expert had received threats before they disappeared. 
- <p class="updated_time"> 10:27 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 10:40 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 09:59 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61719554?at_medium=RSS&at_campaign=KARANGA">EU deal links minimum wage to decent standard of living</a> BBC: Under the deal EU member states would have to follow common rules but not have the same rates. 
@@ -57,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
  <p class="updated_time"> 09:40 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103456116/cuba-cuban-migrants-real-estate">With Cubans leaving en masse, much of Cuba's real estate is up for sale</a> NPR: Cubans are fleeing because of a steep economic downturn. Immigration is a big issue as leaders meet at this week's Summit of the Americas — but communist-controlled Cuba isn't invited. 
- <p class="updated_time"> 09:27 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 09:40 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-russia-rename-streets.html">Ukrainian Officials Move to Rechristen Landmarks With Russian Names</a> NYT: Across the country, officials are evaluating and rechristening roads, parks and other sites bearing Russian names. 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61714989?at_medium=RSS&at_campaign=KARANGA">KFC Australia forced to swap lettuce for cabbage</a> BBC: It comes as Australian shoppers have been hit with soaring prices for some fresh fruits and vegetables. 
  <p class="updated_time"> 12:01 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
- <p class="updated_time"> 09:02 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61714234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU blames Russia for food crisis prompting walkout</a> BBC: Ukraine is a major exporter of grain and cooking oil but the war has cut off supplies at ports. 
  <p class="updated_time"> 08:57 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/dom-phillips-bruno-araujo-pereira-missing-amazon.html">British Journalist and Brazilian Indigenous Expert Missing in the Amazon</a> NYT: Dom Phillips and Bruno Araújo Pereira were last seen Sunday morning traveling in a boat in the northern Brazilian state of Amazonas. 
  <p class="updated_time"> 07:32 PM CT, Jun. 06 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:35 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Yellen Defends Pandemic Spending as Inflation Persists</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
  <p class="updated_time"> 02:18 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/business/media/fox-jan-6-hearings.html">Fox News Doesn’t Plan to Carry Jan. 6 Hearings Live</a> NYT: Its sister network, the lower-rated Fox Business, will carry live coverage, while star prime-time hosts like Tucker Carlson and Sean Hannity will proceed as usual. 
  <p class="updated_time"> 02:05 PM CT, Jun. 07 </p> 
@@ -222,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/jan-6-hearings-tv-democrats.html">Jan. 6 Hearings Give Democrats a Chance to Recast Midterm Message</a> NYT: With their majority at stake, Democrats plan to use the six high-profile hearings to refocus voters’ attention on Republicans’ role in the attack. 
  <p class="updated_time"> 12:52 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-saudi-arabia-congress.html">Democratic Lawmakers Urge Biden to Ensure Saudi Ties Serve U.S.</a> NYT: A letter to President Biden ahead of his planned trip to Saudi Arabia raises concerns about the kingdom’s cooperation with China on ballistic missiles and its human rights violations. 
- <p class="updated_time"> 12:39 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Yellen Defends Pandemic Spending as Inflation Persists</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
  <p class="updated_time"> 12:15 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/jan-6-committee-interviews-head-of-trumps-secret-service-detail-on-day-of-capitol-attack-00037748">Jan. 6 committee interviews head of Trump's Secret Service detail on day of Capitol attack</a> Politico: Given the importance of trust in their relationships with protectees, agents generally feel deep discomfort when fielding investigators’ questions. 
  <p class="updated_time"> 11:30 AM CT, Jun. 07 </p> 
