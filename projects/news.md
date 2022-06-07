@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/africa/ryanair-south-africa-afrikaans.html">Ryanair Asks Travelers to Prove South African Nationality, in Afrikaans</a> NYT: The choice of a language that had been imposed by the apartheid government and is not even spoken by many South Africans today has set off complaints. 
  <p class="updated_time"> 04:04 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103457466/russia-ukraine-war-what-happened-today-june-7">Russia-Ukraine war: What happened today (June 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:00 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 03:59 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569620/the-biggest-and-most-complicated-topic-at-the-summit-of-the-americas-migration">The biggest and most complicated topic at the Summit of the Americas? Migration</a> NPR: Migration is the biggest issue on the table at the Summit of the Americas this week. What can the regions leaders do to help relieve the crush and human misery at their borders? 
  <p class="updated_time"> 03:58 PM CT, Jun. 07 </p> 
@@ -33,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569585/russia-is-still-blocking-key-ukrainian-port-as-fighting-continues-in-ukraines-ea">Russia is still blocking key Ukrainian port as fighting continues in Ukraine's east</a> NPR: There's intense fighting in the east of Ukraine, new information on a Ukrainian city under Russian occupation, and a possible cholera outbreak in Mariupol. 
- <p class="updated_time"> 03:36 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 03:28 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 03:23 PM CT, Jun. 07 </p> 
@@ -47,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 03:04 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/07/1102930419/-swedengate-sparks-food-fight-why-some-countries-share-meals-more-than-others">#SwedenGate sparks food fight: Why some countries share meals more than others </a> NPR: A Reddit user claimed that while visiting a friend's house in Sweden, he had to sit in another room while the family ate dinner. The story ignited a conversation about how the rest of the world eats. 
- <p class="updated_time"> 02:36 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 03:00 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 02:33 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
@@ -57,11 +57,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
  <p class="updated_time"> 02:02 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/boris-johnson-no-confidence.html">What’s Next for Boris Johnson After Narrowly Surviving No-Confidence Vote</a> NYT: After narrowly winning a no-confidence vote on Monday, Prime Minister Boris Johnson faces a long list of threats to his leadership. 
- <p class="updated_time"> 01:36 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 02:00 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 01:17 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61723195?at_medium=RSS&at_campaign=KARANGA">Tiger Woods to miss US Open to give himself time to 'get stronger'</a> BBC: Tiger Woods confirms he will not play at next week's US Open, but still plans to compete at the 150th Open Championship at St Andrews next month. 
- <p class="updated_time"> 12:36 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 01:00 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">A Domestic Political Fight in Sweden Gets Embroiled in Geopolitics</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join NATO. 
@@ -69,12 +69,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103493025/european-union-to-require-mobile-devices-to-have-usb-c-ports">One charger for them all: The European Union sets a new standard for mobile devices</a> NPR: Cell phones and handheld electronic devices in the European Union will be required to have a USB-C charging port by 2024. 
  <p class="updated_time"> 12:07 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
+ <p class="updated_time"> 12:00 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 11:58 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
- <p class="updated_time"> 11:36 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61720402?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Why I risk my life to provide aid in Ukraine</a> BBC: The British volunteers helping Ukrainians escape Russian attacks. 
  <p class="updated_time"> 11:22 AM CT, Jun. 07 </p> 
@@ -200,6 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:58 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/jan-6-hearings-watch-tv-channel.html">How to Watch the Jan. 6 Committee Hearings</a> NYT: The first of several upcoming hearings by the House committee investigating the attack on the Capitol will be held on Thursday evening. 
+ <p class="updated_time"> 04:16 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/lightfoot-chicago-mayoral-field-reelection-00037854">Lightfoot splashes into crowded Chicago mayoral field with reelection launch</a> Politico: The Chicago mayor, a Democrat, has critics across the political spectrum and at least six challengers ahead of the mayoral election in February. 
  <p class="updated_time"> 04:12 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/fda-recommends-novavax-covid-vaccine-00037858">FDA advisers vote to recommend Novavax Covid-19 vaccine</a> Politico: Advisers signaled interest in making available a vaccine made with a technology different from the messenger RNA shots that have dominated the U.S. immunization arsenal against the disease. 
  <p class="updated_time"> 04:04 PM CT, Jun. 07 </p> 
@@ -299,8 +303,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/fetterman-runs-first-tv-ad-on-fox-00037659">Fetterman airs first general election ad on Fox</a> Politico: The Pennsylvania Democratic Senate nominee's spot portrays him as a political outsider who has pushed for policies that benefit the working class. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/fed-workers-covid-inflation-00036970">How Covid threatens the left’s win at the Fed</a> Politico: Critics of easy money policies say the central bank’s new pro-worker pivot stoked price spikes and made the central bank late to fighting them. 
- <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/south-texas-election-ad-00037595">Democrats go on air in South Texas special</a> Politico: House Majority PAC is launching a TV ad buy ahead of the June 14 contest to replace former Democratic Rep. Filemon Vela, who resigned. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
@@ -312,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/06/proud-boys-documentarian-expected-to-testify-at-first-jan-6-hearing-00037639">Proud Boys documentarian expected to testify at first Jan. 6 hearing</a> Politico: Nick Quested captured some of the most harrowing and vivid footage of the violence that day. 
  <p class="updated_time"> 06:42 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/biden-is-making-a-bid-to-unite-the-hemisphere-attendance-an-issue-00037628">Biden is making a bid to unite the hemisphere. Attendance is an issue.</a> Politico: The Summit of the Americas starts off being defined by those who aren’t there. 
- <p class="updated_time"> 05:09 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/taddeo-drops-out-of-florida-governors-race-00037562">Taddeo drops out of Florida governor's race</a> Politico: After expected exit, Miami Democrat set to challenge Republican Rep. Maria Elvira Salazar 
  <p class="updated_time"> 05:00 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/lawmakers-dod-stalled-cruise-missile-decision-00037547">Lawmakers threaten DoD's No. 2 over 'stalled' cruise missile decision</a> Politico: A House panel wants the Pentagon to designate an office to oversee cruise missile defense. 
  <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
