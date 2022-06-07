@@ -9,62 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 09:23 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Growing Civilian Toll Points to Stark Challenges for Ukraine</a> NYT: More than 40,000 Ukrainian civilians have been killed or wounded in the war, and roughly three million are now living under Russian occupation, according to the Ukrainian government. 
  <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-russia-rename-streets.html">Ukrainian Officials Move to Rechristen Landmarks With Russian Names</a> NYT: Across the country, officials are evaluating and rechristening roads, parks and other sites bearing Russian names. 
  <p class="updated_time"> 08:47 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
+ <p class="updated_time"> 08:27 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 08:13 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103461192/british-writer-dom-phillips-brazil-indigenous-official-missing-amazon">A British writer and a Brazil Indigenous official are missing in the Amazon</a> NPR: Dom Phillips, who has been a regular contributor to the British newspaper the Guardian, and Bruno Araújo Pereira were last seen early Sunday. 
- <p class="updated_time"> 08:05 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 07:51 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
  <p class="updated_time"> 07:48 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-61718262?at_medium=RSS&at_campaign=KARANGA">Geologist Jim Fitton jailed in Iraq 'shell shocked' over verdict</a> BBC: Jim Fitton, 66, was sentenced to 15 years for attempting to smuggle 12 stones and broken pottery. 
  <p class="updated_time"> 07:44 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61718101?at_medium=RSS&at_campaign=KARANGA">Apple announces buy now pay later, among iOS 16 plans</a> BBC: The tech giant is introducing the controversial service as part of its iOS 16 update. 
- <p class="updated_time"> 07:05 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation 
+ <p class="updated_time"> 07:27 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/disabled-teen-who-fled-ukraine-meets-john-cena-the-wrestling-star-who-motivated-his-journey-11654605227">Disabled Teen Who Fled Ukraine Meets Wrestling Star Who Motivated His Journey</a> WSJ: Disabled Teen Who Fled Ukraine Meets Wrestling Star Who Motivated His Journey 
  <p class="updated_time"> 07:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/china-college-entrance-exams-covid.html">China Tries to Keep Covid Out of Its Grueling College Entrance Exams</a> NYT: Some students have to travel from locked-down areas to testing sites in special vehicles, while others might be isolated for the exam. 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/no-confidence-vote-theresa-may.html">Theresa May and Others Who Survived No-Confidence Votes Didn’t Last Long After</a> NYT: Two previous Conservative prime ministers were ultimately forced out, and one lost a landslide election two years later. 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103453336/figure-skating-age-limits-kamila-valieva">Figure skaters' minimum age for top competitions will rise to 17 after scandal</a> NPR: The move comes months after Russia's Kamila Valieva, then 15, was caught in a storm of controversy at the Beijing Winter Olympics. 
+ <p class="updated_time"> 06:27 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
- <p class="updated_time"> 06:05 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 05:59 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Family of British journalist missing in Amazon urges action</a> BBC: The journalist and a Brazilian indigenous expert had received threats before they disappeared. 
  <p class="updated_time"> 05:42 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
- <p class="updated_time"> 05:05 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Brazilian Navy Searches for Missing British Journalist in Amazon 
+ <p class="updated_time"> 05:27 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/gupta-brothers-arrested-in-dubai-offering-relief-for-south-africas-embattled-president-11654605219">Gupta Brothers Arrested in Dubai, Offering Relief for South Africa’s Embattled President</a> WSJ: Gupta Brothers Arrested in Dubai, Offering Relief for South Africa’s Embattled President 
+ <p class="updated_time"> 04:50 AM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61716241?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: The Indian woman behind offensive Prophet Muhammad comments</a> BBC: Who is Nupur Sharma, the politician whose offensive comments have incensed the Islamic world? 
+ <p class="updated_time"> 04:27 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 04:11 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61717081?at_medium=RSS&at_campaign=KARANGA">Tiger King's Doc Antle charged with money laundering</a> BBC: Bhagavan "Doc" Antle has been charged with laundering more than half a million dollars. 
- <p class="updated_time"> 04:05 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
  <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
  <p class="updated_time"> 03:35 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61715843?at_medium=RSS&at_campaign=KARANGA">Li Jiaqi: China Lipstick King sparks Tiananmen questions</a> BBC: Livestreamer Li Jiaqi is yet to reappear after an apparent reference to the massacre on his show. 
- <p class="updated_time"> 03:33 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/gupta-brothers-arrested-in-dubai-offering-relief-for-south-africas-embattled-president-11654605219">Gupta Brothers Arrested in Dubai, Offering Relief for South Africa's Embattled President</a> WSJ: Dubai police arrested two brothers at the center of a sprawling government graft scandal in South Africa, offering some relief to that country’s embattled president, Cyril Ramaphosa, and his sputtering anticorruption drive. 
- <p class="updated_time"> 03:33 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/disabled-teen-who-fled-ukraine-meets-john-cena-the-wrestling-star-who-motivated-his-journey-11654605227">Disabled Teen Who Fled Ukraine Meets Wrestling Star Who Motivated His Journey</a> WSJ: A teenager with Down syndrome escaped besieged Mariupol as his mother wove a motivational fantasy that John Cena lay at the end of their dangerous journey out of Ukraine. The fantasy ended with a happy reality. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61716761?at_medium=RSS&at_campaign=KARANGA">Ukraine: Severodonetsk and Lysychansk have 'no people on the streets' - Zelensky</a> BBC: The Ukrainian president says there are no civilians on the streets in Severodonetsk and Lysychansk. 
- <p class="updated_time"> 02:15 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn't Matter</a> WSJ: A group within Japan’s ruling party says the nation has room to spend a lot more, while people on the other side of the argument say the country is like the Titanic, heading for a massive iceberg of debt. 
  <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">Philippines Struggles to Save Monument of Heroes Museum</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
- <p class="updated_time"> 01:17 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: European officials blamed Moscow for a looming global food crisis as Russia’s blockade of Ukrainian ports threatens the country’s grain exports, while fighting rages in the east. 
  <p class="updated_time"> 01:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
  <p class="updated_time"> 12:57 AM CT, Jun. 07 </p> 
@@ -73,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
  <p class="updated_time"> 10:51 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61714737?at_medium=RSS&at_campaign=KARANGA">Top Gun maker Paramount sued over copyright breach</a> BBC: The lawsuit claims the film studio did not have the rights to release Top Gun: Maverick. 
- <p class="updated_time"> 10:50 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad row deepens India’s diplomatic woes</a> BBC: A statement by a spokesperson of India's ruling party has snowballed into an international controversy. 
  <p class="updated_time"> 09:02 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61714234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU blames Russia for food crisis prompting walkout</a> BBC: Ukraine is a major exporter of grain and cooking oil but the war has cut off supplies at ports. 
  <p class="updated_time"> 08:57 PM CT, Jun. 06 </p> 
@@ -87,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61657237?at_medium=RSS&at_campaign=KARANGA">KK: Remembering the voice that touched millions of Indian love stories</a> BBC: The magical voice of singer KK - who died last week - gave Indians company through joy and heartbreak. 
  <p class="updated_time"> 07:07 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
+ <p class="updated_time"> 05:13 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Dom Phillips, who is writing a book about the Amazon, was last seen with indigenous expert Bruno Pereira Sunday morning in the Javari Valley, a vast territory plagued by illegal logging, mining and poaching. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
  <p class="updated_time"> 04:25 PM CT, Jun. 06 </p> 
@@ -191,10 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
- <p class="updated_time"> 09:14 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/world/middleeast/iran-israel-guards-death.html">Senior Iranian Officer Dies, Leaving Questions About His Death</a> NYT: Col. Ali Esmaelzadeh was the second high-ranking officer of the same unit to die in a week. The circumstances were unclear, and Iranian news media provided conflicting reports. 
- <p class="updated_time"> 09:12 AM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/world/europe/platinum-jubilee-queen-elizabeth-prince-charles.html">Jubilee Honors Queen Elizabeth, but Also Highlights Her Increasing Absences</a> NYT: Throngs of admirers cheered Queen Elizabeth II at her Platinum Jubilee appearance on Thursday, but she was unable to attend a service on Friday. Prince Charles, in a familiar role, played the understudy. 
 
 
 </details>
@@ -202,6 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/iowa-how-to-vote.html">Iowa: How to vote, where to vote and what’s on the ballot.</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
+ <p class="updated_time"> 09:15 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-how-to-vote.html">New Mexico: How to vote, where to vote and what’s on the ballot.</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
+ <p class="updated_time"> 09:12 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/jessica-cisneros-cuellar-recount.html">Jessica Cisneros Calls for Recount in Texas Runoff Against Rep. Cuellar</a> NYT: The Cisneros campaign said a Texas Democratic Party certification of the results found that Mr. Cuellar was up by 281 votes. 
+ <p class="updated_time"> 09:05 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/california-how-to-vote.html">California: How to vote, where to vote and what’s on the ballot today.</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 08:59 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/california-new-jersey-primary-elections-today.html">What to Watch in Today’s Primary Elections in California, New Jersey and More</a> NYT: Crime and homelessness loom large in California, Democrats look for some rays of light in a rough year, and dozens of House races will take shape for the fall midterms. 
  <p class="updated_time"> 08:57 AM CT, Jun. 07 </p> 
@@ -264,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/us/politics/louisiana-congressional-map.html">Louisiana House Map Is Blocked by Judge Who Calls It a Racial Gerrymander</a> NYT: The judge ordered the state’s Republican-controlled Legislature to redraw the map to include a second district that gives Black voters the chance to elect a candidate of their choice. 
  <p class="updated_time"> 06:57 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/proud-boys-documentarian-expected-to-testify-at-first-jan-6-hearing-00037639">Proud Boys documentarian expected to testify at first Jan. 6 hearing</a> Politico: Nick Quested captured some of the most harrowing and vivid footage of the violence that day. 
- <p class="updated_time"> 06:56 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/us/politics/jessica-cisneros-cuellar-recount.html">Jessica Cisneros Calls for Recount in Texas Runoff Against Rep. Cuellar</a> NYT: The Cisneros campaign said a Texas Democratic Party certification of the results found that Mr. Cuellar was up by 281 votes. 
  <p class="updated_time"> 06:42 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/biden-is-making-a-bid-to-unite-the-hemisphere-attendance-an-issue-00037628">Biden is making a bid to unite the hemisphere. Attendance is an issue.</a> Politico: The Summit of the Americas starts off being defined by those who aren’t there. 
  <p class="updated_time"> 06:25 PM CT, Jun. 06 </p> 
@@ -326,10 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
  <p class="updated_time"> 07:00 PM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/biden-wants-to-get-out-more-seething-that-his-standing-is-now-worse-than-trumps-00037278">Biden wants to get out more, seething that his standing is now worse than Trump’s</a> Politico: Frustrations are mounting and the window for a political revival is closing. 
- <p class="updated_time"> 05:48 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
- <p class="updated_time"> 01:05 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 12:01 PM CT, Jun. 05 </p> 
  <a href="https://www.cnn.com/2022/06/05/politics/donald-trump-preparations-january-6-hearing/index.html">Trump mobilizing his MAGA allies to defend him ahead of January 6 hearings</a> CNN: Former President Donald Trump has made it clear he is looking for cover from his closest allies around the upcoming public hearings by the House select committee investigating the January 6 insurrection -- and some prominent names in Congress and the Republican Party are answering the call. 
  <p class="updated_time"> 11:36 AM CT, Jun. 05 </p> 
