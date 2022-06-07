@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:22 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 08:14 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
- <p class="updated_time"> 07:21 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 08:13 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1103461192/british-writer-dom-phillips-brazil-indigenous-official-missing-amazon">A British writer and a Brazil Indigenous official are missing in the Amazon</a> NPR: Dom Phillips, who has been a regular contributor to the British newspaper the Guardian, and Bruno Araújo Pereira were last seen early Sunday. 
+ <p class="updated_time"> 08:07 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Growing Civilian Toll Points to Stark Challenges for Ukraine</a> NYT: More than 40,000 Ukrainian civilians have been killed or wounded in the war, and roughly three million are now living under Russian occupation, according to the Ukrainian government. 
+ <p class="updated_time"> 07:51 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
+ <p class="updated_time"> 07:48 AM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-somerset-61718262?at_medium=RSS&at_campaign=KARANGA">Geologist Jim Fitton jailed in Iraq 'shell shocked' over verdict</a> BBC: Jim Fitton, 66, was sentenced to 15 years for attempting to smuggle 12 stones and broken pottery. 
+ <p class="updated_time"> 07:44 AM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61718101?at_medium=RSS&at_campaign=KARANGA">Apple announces buy now, pay later, among iOS 16 plans</a> BBC: The tech giant is introducing the controversial service as part of its iOS 16 update. 
+ <p class="updated_time"> 07:20 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 07:12 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-russia-rename-streets.html">Ukrainian Officials Move to Rechristen Landmarks With Russian Names</a> NYT: Across the country, officials are evaluating and rechristening roads, parks and other sites bearing Russian names. 
  <p class="updated_time"> 07:01 AM CT, Jun. 07 </p> 
@@ -21,36 +31,40 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/no-confidence-vote-theresa-may.html">Theresa May and Others Who Survived No-Confidence Votes Didn’t Last Long After</a> NYT: Two previous Conservative prime ministers were ultimately forced out, and one lost a landslide election two years later. 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103453336/figure-skating-age-limits-kamila-valieva">Figure skaters' minimum age for top competitions will rise to 17 after scandal</a> NPR: The move comes months after Russia's Kamila Valieva, then 15, was caught in a storm of controversy at the Beijing Winter Olympics. 
- <p class="updated_time"> 06:34 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
+ <p class="updated_time"> 06:20 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
  <p class="updated_time"> 05:59 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Family of British journalist missing in Amazon urges action</a> BBC: The journalist and a Brazilian indigenous expert had received threats before they disappeared. 
  <p class="updated_time"> 05:42 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored on Site</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
- <p class="updated_time"> 05:34 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation 
- <p class="updated_time"> 04:34 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 05:20 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
+ <p class="updated_time"> 04:20 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Brazilian Navy Searches for Missing British Journalist in Amazon 
  <p class="updated_time"> 04:11 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61717081?at_medium=RSS&at_campaign=KARANGA">Tiger King's Doc Antle charged with money laundering</a> BBC: Bhagavan "Doc" Antle has been charged with laundering more than half a million dollars. 
  <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
- <p class="updated_time"> 03:53 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption, which they deny. 
  <p class="updated_time"> 03:35 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61715843?at_medium=RSS&at_campaign=KARANGA">Li Jiaqi: China Lipstick King sparks Tiananmen questions</a> BBC: Livestreamer Li Jiaqi is yet to reappear after an apparent reference to the massacre on his show. 
- <p class="updated_time"> 03:34 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Brazilian Navy Searches for Missing British Journalist in Amazon 
+ <p class="updated_time"> 03:33 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/gupta-brothers-arrested-in-dubai-offering-relief-for-south-africas-embattled-president-11654605219">Gupta Brothers Arrested in Dubai, Offering Relief for South Africa's Embattled President</a> WSJ: Dubai police arrested two brothers at the center of a sprawling government graft scandal in South Africa, offering some relief to that country’s embattled president, Cyril Ramaphosa, and his sputtering anticorruption drive. 
+ <p class="updated_time"> 03:33 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/disabled-teen-who-fled-ukraine-meets-john-cena-the-wrestling-star-who-motivated-his-journey-11654605227">Disabled Teen Who Fled Ukraine Meets Wrestling Star Who Motivated His Journey</a> WSJ: A teenager with Down syndrome escaped besieged Mariupol as his mother wove a motivational fantasy that John Cena lay at the end of their dangerous journey out of Ukraine. The fantasy ended with a happy reality. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61716761?at_medium=RSS&at_campaign=KARANGA">Ukraine: Severodonetsk and Lysychansk have 'no people on the streets' - Zelensky</a> BBC: The Ukrainian president says there are no civilians on the streets in Severodonetsk and Lysychansk. 
- <p class="updated_time"> 02:34 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 03:20 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
+ <p class="updated_time"> 02:15 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn't Matter</a> WSJ: A group within Japan’s ruling party says the nation has room to spend a lot more, while people on the other side of the argument say the country is like the Titanic, heading for a massive iceberg of debt. 
  <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">The Museum Was Built So No One Would Forget. Now It’s Falling Apart.</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
+ <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">Philippines Struggles to Save Monument of Heroes Museum</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
+ <p class="updated_time"> 01:17 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: European officials blamed Moscow for a looming global food crisis as Russia’s blockade of Ukrainian ports threatens the country’s grain exports, while fighting rages in the east. 
  <p class="updated_time"> 01:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
  <p class="updated_time"> 12:57 AM CT, Jun. 07 </p> 
@@ -61,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61714737?at_medium=RSS&at_campaign=KARANGA">Top Gun maker Paramount sued over copyright breach</a> BBC: The lawsuit claims the film studio did not have the rights to release Top Gun: Maverick. 
  <p class="updated_time"> 10:50 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad row deepens India’s diplomatic woes</a> BBC: A statement by a spokesperson of India's ruling party has snowballed into an international controversy. 
- <p class="updated_time"> 09:38 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
  <p class="updated_time"> 09:02 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61714234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU blames Russia for food crisis prompting walkout</a> BBC: Ukraine is a major exporter of grain and cooking oil but the war has cut off supplies at ports. 
  <p class="updated_time"> 08:57 PM CT, Jun. 06 </p> 
@@ -107,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61711028?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Severodonetsk and Lysychansk are dead cities - Zelensky</a> BBC: Ukraine's president says fighting in the key cities of Severodonetsk and Lysychansk has been intense. 
  <p class="updated_time"> 02:18 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/africa/nigeria-church-attack.html">Dozens Feared Dead in Church Attack in Owo, Nigeria</a> NYT: Gunmen fired on Catholics celebrating Mass in a usually peaceful part of the country. There was no claim of responsibility and the motive was unclear. 
- <p class="updated_time"> 02:16 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/mexicos-leader-to-skip-regional-summit-after-u-s-snubs-cuba-nicaragua-and-venezuela-11654528791">Mexico's Leader to Skip Summit After U.S. Snubs Autocracies</a> WSJ: The Biden administration will exclude Cuba, Nicaragua and Venezuela from the Summit of the Americas despite pressure from Mexico and other countries. 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
  <p class="updated_time"> 01:29 PM CT, Jun. 06 </p> 
@@ -169,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-farmer-sievierodonetsk.html">A Farmer Holds On, a Fraying Lifeline for a Besieged Corner of Ukraine</a> NYT: Most farmers have fled the Russian advance, but Oleksandr Chaplik has stayed, despite the lethal risks and a lack of workers, water and power. 
  <p class="updated_time"> 10:02 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103147874/paddington-bear-joins-the-queen-for-tea-platinum-jubilee">Paddington Bear joins Queen Elizabeth II for tea at Buckingham Palace </a> NPR: Paddington and the queen have more in common than you might think. The two always keep a marmalade sandwich hidden away ... for emergencies. 
- <p class="updated_time"> 09:12 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshippers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
@@ -194,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Persistent Inflation Puts Yellen in the Spotlight</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
+ <p class="updated_time"> 07:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102533859/california-governor-primary-election-newsom-democrat-republican">In California, Newsom runs for reelection 9 months after defeating a recall attempt</a> NPR: In 2021, the GOP forced Democratic Gov. Gavin Newsom into a recall election. After a decisive victory, he's seeking another four years in office while facing high inflation and chronic homelessness. 
  <p class="updated_time"> 07:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/07/lucky-sevens-its-primary-day-00037677">Lucky sevens: It's primary day</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:03 AM CT, Jun. 07 </p> 
@@ -224,8 +236,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1102192665/mississippi-primary-election-results">Here are the key primary election results from Mississippi</a> NPR: Here are the key primary election results from Mississippi, where notable races include U.S. House districts. 
  <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1102190697/iowa-primary-election-results">Here are the key primary election results from Iowa</a> NPR: Democrats vie to take on longtime U.S. Sen. Chuck Grassley, and three Republicans face off to challenge Rep. Cindy Axne in the 3rd Congressional District. 
- <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Persistent Inflation Puts Yellen in the Spotlight</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
  <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/fetterman-runs-first-tv-ad-on-fox-00037659">Fetterman airs first general election ad on Fox</a> Politico: The Pennsylvania Democratic Senate nominee's spot portrays him as a political outsider who has pushed for policies that benefit the working class. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
@@ -272,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/06/1103372599/the-summit-of-the-americas-is-often-messy-and-this-years-looks-to-be-no-differen">The Summit of the Americas is often messy, and this year's looks to be no different</a> NPR: The Summit of the Americas has a long history of being kind of messy. This year's summit in Los Angeles seems quite likely to follow suit. 
  <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/garcetti-allies-tried-to-put-the-screws-to-mark-kelly-it-may-have-backfired-00037536">Garcetti allies tried to put the screws to Mark Kelly. It may have backfired.</a> Politico: It’s been more than a year since the LA mayor was nominated. The attempts to break the logjam are getting more aggressive. 
- <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103372557/montana-democrats-hustle-for-a-spot-in-the-u-s-house">Montana Democrats hustle for a spot in the U.S. House</a> NPR: For the first time in 30 years, Montana has two U.S. House districts. Democrats haven't had representation in decades and have three candidates in Tuesday's primary, along with a big-name Republican. 
  <p class="updated_time"> 03:44 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/gun-control-cornyn-senate-republicans.html">With Cornyn in the Room, Senate Gun Talks Focus on Narrow Changes</a> NYT: The conservative Texan’s involvement in bipartisan talks means that an agreement, if there is one, is likely to include incremental steps. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
