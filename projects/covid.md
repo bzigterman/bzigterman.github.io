@@ -923,25 +923,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Average New Cases</td>
-<td class="gt_row gt_right">6K</td>
 <td class="gt_row gt_right">5K</td>
-<td class="gt_row gt_right">&minus;19%</td></tr>
+<td class="gt_row gt_right">7K</td>
+<td class="gt_row gt_right">+23%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">877</td>
-<td class="gt_row gt_right gt_striped">967</td>
-<td class="gt_row gt_right gt_striped">+10%</td></tr>
+<td class="gt_row gt_right gt_striped">895</td>
+<td class="gt_row gt_right gt_striped">1K</td>
+<td class="gt_row gt_right gt_striped">+17%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
-<td class="gt_row gt_right">9</td>
-<td class="gt_row gt_right">8</td>
-<td class="gt_row gt_right">&minus;11%</td></tr>
+<td class="gt_row gt_right">11</td>
+<td class="gt_row gt_right">13</td>
+<td class="gt_row gt_right">+18%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">15K</td>
-<td class="gt_row gt_right gt_striped">9K</td>
-<td class="gt_row gt_right gt_striped">&minus;38%</td></tr>
+<td class="gt_row gt_right gt_striped">10K</td>
+<td class="gt_row gt_right gt_striped">&minus;34%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   
@@ -1912,7 +1912,7 @@ html {
 As of Monday, the 14-day percent change in average new cases was:
   
 - 6% in Champaign County
-- -19% in Illinois
+- 23% in Illinois
 - 8% in the United States
 - -14% worldwide
 
@@ -1928,7 +1928,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Monday, the 14-day percent change in average new deaths was:
   
-- -11% in Illinois
+- 18% in Illinois
 - -11% in the United States
 - -20% worldwide
 
