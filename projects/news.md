@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
+ <p class="updated_time"> 03:53 AM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption, which they deny. 
  <p class="updated_time"> 03:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Ukraine Live Updates: E.U. Leaders Pin Global Food Worries on Russia</a> NYT: Moscow shifted blame for food shortages to sanctions. Both Ukraine and Russia are claiming to have inflicted decisive losses against one another in recent days in the fight for a key eastern city. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61716761?at_medium=RSS&at_campaign=KARANGA">Ukraine: Severodonetsk and Lysychansk have 'no people on the streets' - Zelensky</a> BBC: The Ukrainian president says there are no civilians on the streets in Severodonetsk and Lysychansk. 
- <p class="updated_time"> 02:52 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 03:08 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
+ <p class="updated_time"> 02:08 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
  <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">The Museum Was Built So No One Would Forget. Now It’s Falling Apart.</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
- <p class="updated_time"> 01:52 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
+ <p class="updated_time"> 01:08 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 01:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
- <p class="updated_time"> 12:52 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
+ <p class="updated_time"> 12:08 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
  <p class="updated_time"> 12:01 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
- <p class="updated_time"> 11:52 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
+ <p class="updated_time"> 11:08 PM CT, Jun. 06 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 11:07 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Veteran British journalist Dom Phillips missing in Amazon</a> BBC: The journalist was travelling with a Brazilian indigenous expert in Brazil when they went missing. 
- <p class="updated_time"> 10:52 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
  <p class="updated_time"> 10:50 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61701908?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Prophet Muhammad row deepens India’s diplomatic woes</a> BBC: A statement by a spokesperson of India's ruling party has snowballed into an international controversy. 
  <p class="updated_time"> 09:38 PM CT, Jun. 06 </p> 
@@ -53,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61712873?at_medium=RSS&at_campaign=KARANGA">Proud Boys leader faces sedition charge over US Capitol riot</a> BBC: Prosecutors say Enrique Tarrio and his group tried to oppose by force the peaceful transfer of power. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
- <p class="updated_time"> 04:36 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption and exerting unfair political influence. 
  <p class="updated_time"> 04:25 PM CT, Jun. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61712871?at_medium=RSS&at_campaign=KARANGA">Arizona police placed on leave after watching man drown</a> BBC: Three Arizona officers watched a man who was begging for help drown in a reservoir. 
  <p class="updated_time"> 04:12 PM CT, Jun. 06 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/05/1103151969/nigeria-church-attack-ondo-state">More than 50 people are feared dead in an attack on a Catholic church in Nigeria </a> NPR: Gunmen opened fire and detonated explosives as worshippers were celebrating mass at the St. Francis Catholic Church in Ondo state. Several children were among the dead, a state lawmaker said. 
  <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
  <a href="https://www.npr.org/2022/06/05/1103144977/climate-change-and-overuse-is-threatening-pakistans-main-waterway">Climate change and overuse is threatening Pakistan's main waterway</a> NPR: In a rare journey down the length of the Indus River, a filmmaker and environmental activists survey damage done to Pakistan's main water artery and meet the people who live on its ancient banks. 
- <p class="updated_time"> 03:30 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103139651/bangladesh-container-depot-fire-chittagong">A fire at a depot in Bangladesh has killed at least 49 and injured more than 100</a> NPR: The blaze in the city of Chittagong broke out around midnight Saturday following explosions in a container full of chemicals. The cause could not immediately be determined. 
  <p class="updated_time"> 02:48 AM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-soccer-leagues.html">Ukraine aims to restart soccer leagues on its own soil in August.</a> NYT: In an interview with The Associated Press, the leader of Ukraine’s soccer federation said President Volodymyr Zelensky had approved the decision. 
  <p class="updated_time"> 02:00 AM CT, Jun. 05 </p> 
@@ -188,6 +188,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1103363218/iowa-senate-democratic-primary-finkenauer-franken-grassley">Iowa's Finkenauer aims for a return to Congress, this time by toppling Sen. Grassley</a> NPR: Former U.S. Rep. Abby Finkenauer is facing a tougher-than-expected Democratic U.S. Senate primary in a state that has become more of a GOP stronghold in the last decade. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102194026/new-mexico-primary-election-results">Here are the key primary election results from New Mexico</a> NPR: In New Mexico, five Republicans compete to take on Democratic Gov. Michelle Lujan Grisham. The 2nd Congressional District is also a notable contest. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102193554/montana-primary-election-results">Here are the key primary election results from Montana</a> NPR: In Montana, the top contest is for the brand-new 1st Congressional District. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102151781/here-are-the-key-primary-election-results-from-california">Here are the key primary election results from California</a> NPR: In California, there are a number of competitive U.S. House races to watch. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1103346506/iowa-governor-primary-reynolds-trump-dejear-uncontested">Here's why more people aren't running for governor in Iowa's primary</a> NPR: The incumbent Republican and her Democratic challenger are running unopposed in the primary after a well-respected Black Democrat said major political donors in the state refused to meet with him. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102194676/south-dakota-primary-election-results">Here are the key primary election results from South Dakota</a> NPR: Here are the key primary election results from South Dakota, where notable races include governor and U.S. Senate. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102193767/new-jersey-primary-election-results">Here are the key primary election results from New Jersey</a> NPR: Here are the key primary election results from New Jersey, where notable races include U.S. House districts. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1101576822/south-dakota-trump-noem-thune-governor-race-election">Trump has friends — and foes — in South Dakota Republicans running for reelection</a> NPR: In South Dakota, former President Trump has endorsed GOP Gov. Kristi Noem. As for Republican Sen. John Thune, Trump said his political career was "over" after Thune dismissed election fraud claims. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102965886/primaries-california-iowa-montana-new-mexico-new-jersey-mississippi-south-dakota">Primary contests to watch Tuesday, led by races in California, Iowa and Montana</a> NPR: June's primary calendar kicks off Tuesday with seven states holding contests. One local race to watch: LA mayor. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102668968/new-mexico-governor-primary-election-lujan-grisham-results">5 GOP contenders compete to take on New Mexico governor</a> NPR: The state has some of the strictest public health mandates in the country. Five Republicans head into Tuesday's primary election hoping to take on Democratic Gov. Michelle Lujan Grisham in November. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102192665/mississippi-primary-election-results">Here are the key primary election results from Mississippi</a> NPR: Here are the key primary election results from Mississippi, where notable races include U.S. House districts. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1102190697/iowa-primary-election-results">Here are the key primary election results from Iowa</a> NPR: Democrats vie to take on longtime U.S. Sen. Chuck Grassley, and three Republicans face off to challenge Rep. Cindy Axne in the 3rd Congressional District. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Persistent Inflation Puts Yellen in the Spotlight</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/jan-6-hearings-tv-democrats.html">Jan. 6 Hearings Give Democrats a Chance to Recast Midterm Message</a> NYT: With their majority at stake, Democrats plan to use the six high-profile hearings to refocus voters’ attention on Republicans’ role in the attack. 
  <p class="updated_time"> 11:12 PM CT, Jun. 06 </p> 
@@ -230,20 +256,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/us/politics/gun-control-cornyn-senate-republicans.html">With Cornyn in the Room, Senate Gun Talks Focus on Narrow Changes</a> NYT: The conservative Texan’s involvement in bipartisan talks means that an agreement, if there is one, is likely to include incremental steps. 
  <p class="updated_time"> 03:36 PM CT, Jun. 06 </p> 
  <a href="https://www.npr.org/2022/06/06/1103361814/second-house-jan-6-hearing-scheduled-for-the-morning-of-june-13">Second House Jan. 6 hearing scheduled for the morning of June 13</a> NPR: The House select committee investigating the January 6th insurrection has not yet announced witnesses for either Thursday's or next week's hearings. 
- <p class="updated_time"> 03:29 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103372550/gun-violence-prevention-advocates-wish-for-more-action-beyond-president-biden-s-">Gun violence prevention advocates wish for more action beyond President Biden's words</a> NPR: NPR's Mary Louise Kelly speaks with March for Our Lives organizer, Tatiana Washington, about President Biden's actions on gun violence. 
- <p class="updated_time"> 03:29 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103372485/new-york-and-tennessee-have-starkly-different-plans-to-curb-gun-violence">New York and Tennessee have starkly different plans to curb gun violence</a> NPR: While New York's governor has toughened gun laws in a bill signing,  Tennessee's governor is focusing on "hardening" schools — showing how differently states are addressing gun violence. 
- <p class="updated_time"> 03:29 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1102603897/wagner-group-mercenary-russia-ukraine-war">An ex-member of one of the world's most dangerous mercenary groups has gone public</a> NPR: The Wagner Group, known as "Putin's shadow army," has come to the world's attention because of the Ukraine war. Marat Gabidullin, who left Wagner after fighting in Syria, has written a book about it. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/doj-charges-proud-boys-leaders-with-seditious-conspiracy-over-jan-6-attack-00037518">DOJ charges Proud Boys leaders with seditious conspiracy over Jan. 6 attack</a> Politico: The charges come the same week that the Jan. 6 select committee plans to hold its first hearing analyzing the Capitol breach. 
- <p class="updated_time"> 03:09 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/04/us/politics/uss-kearsarge-stockholm.html">U.S. Warship Arrives in Stockholm for Military Exercises, and as a Warning</a> NYT: For Sweden and Finland, which want to join NATO, the U.S.S. Kearsarge is a promise of the protection that membership in the alliance would bring against President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 03:02 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/05/us/politics/border-migrants-asylum.html">How Asylum Seekers Cross the Border</a> NYT: The southern border is seeing a historic spike in migrant crossings. Many are coming in hope of asking for asylum, a right that has been unavailable because of pandemic-related restrictions on immigration. A New York Times photographer documented three ways that people cross the border into the United States. 
- <p class="updated_time"> 03:00 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103364995/proud-boys-leader-tarrio-four-others-charged-with-seditious-conspiracy">Proud Boys leader Tarrio, four others, charged with seditious conspiracy</a> NPR: The U.S. rarely charges suspects with seditious conspiracy, a very serious crime defined as two or more people conspiring to overthrow or destroy the government 
  <p class="updated_time"> 02:11 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/filibuster-house-gop-2024-midterms-majority-00037361">What filibuster? House GOP plans a 2024-minded majority</a> Politico: From Keystone XL to a "parents' bill of rights," Republicans eyeing the majority are teeing up proposals with little to no chance in the Senate. 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
@@ -260,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/us/politics/herschel-walker-gas-vouchers.html">A Pro-Herschel Walker Group Gave Out Gas Vouchers, Angering Democrats</a> NYT: The group handed out $25 fuel vouchers and Walker campaign flyers to motorists in line at a downtown Atlanta gas station. 
  <p class="updated_time"> 10:56 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/gas-prices-california-politics-democrats.html">High California Gas Prices Rattle Democrats Ahead of Midterms</a> NYT: “I don’t hear anything about the other national issues we’re focusing on in Washington,” a congressman said. A driver put it succinctly: “I’m really unhappy.” 
- <p class="updated_time"> 10:36 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103291476/biden-solar-panel-imports-defense-production-act">Biden allows solar panel imports while also moving to boost domestic production</a> NPR: The Biden administration will invoke the Defense Production Act to increase U.S. manufacturing of solar panels while declaring a two-year tariff exemption on panels from Southeast Asia. 
  <p class="updated_time"> 10:18 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/mexican-president-summit-of-the-americas-00037378">Mexican president won't attend Summit of the Americas</a> Politico: President Andrés Manuel López Obrador confirmed his decision Monday following weeks of threats that he would to stay home if the White House refused to invite leaders from Cuba, Nicaragua and Venezuela. 
  <p class="updated_time"> 09:30 AM CT, Jun. 06 </p> 
@@ -273,29 +287,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
  <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow">Watergate Committee hearings may be both an inspiration and a hard act to follow</a> NPR: Fifty years from now, when Americans look back on the riotous break-in at the Capitol on Jan. 6, 2021, will it have as much impact as memories of the Watergate scandal continue to have today? 
- <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/free-speech-group-first-amendment-00037320">Free-speech group will spend millions to promote First Amendment cases</a> Politico: Some backers see FIRE moving to take on fights ceded by ACLU. 
  <p class="updated_time"> 04:00 AM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/supreme-court-state-legislatures-elections.html">Supreme Court May Hear ‘800-Pound Gorilla’ of Election Law Cases</a> NYT: Next week the justices will consider whether to resolve a long-simmering dispute about the power of state legislatures in federal elections. 
- <p class="updated_time"> 03:59 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103252678/the-summit-of-americas-in-los-angeles-is-mired-in-tension">The Summit of Americas in Los Angeles is mired in tension</a> NPR: The Summit of Americas is underway. But with discord over attendance and low expectations of a major breakthrough among those who will be there — how much need is there for such a gathering? 
- <p class="updated_time"> 03:59 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103252622/cuban-activists-applaud-u-s-decision-to-exclude-cuba-from-summit-of-the-americas">Cuban activists applaud U.S. decision to exclude Cuba from Summit of the Americas</a> NPR: The Biden administration declined to invite Cuba to this week's Summit of the Americas. Free speech advocates point to a crackdown in Cuba that heightens surveillance and stifles dissent. 
  <p class="updated_time"> 03:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/lummis-and-gillibrands-crypto-hype-machine-00036712">Crypto lobbying hits fever pitch as Bitcoin's favorite senator finishes bill</a> Politico: The contents of the bill will likely shed light on who holds sway in the ever-expanding universe of crypto lobbying. 
  <p class="updated_time"> 03:30 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/rick-caruso-billionaire-los-angeles-mayoral-race-00037202">How a billionaire mall magnate pulled ahead in the Los Angeles mayoral race</a> Politico: Rick Caruso is best known as the developer of luxury retail. Will his message on crime propel him to city hall? 
- <p class="updated_time"> 03:17 AM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103211698/british-prime-minister-boris-johnson-to-face-no-confidence-vote">Boris Johnson survives no-confidence vote in a victory of sorts</a> NPR: Johnson was booed during the queen's Platinum Jubilee — the latest sign of intense public anger over his flouting of his own government's COVID-19 rules. 
  <p class="updated_time"> 10:29 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/business/biden-oil-saudi-arabia.html">Biden Has ‘Only Bad Options’ for Bringing Down Oil Prices</a> NYT: The president’s trip to Saudi Arabia is unlikely to reduce oil and gasoline prices, and it is not clear that anything else he might do would work, either. 
  <p class="updated_time"> 07:00 PM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/biden-wants-to-get-out-more-seething-that-his-standing-is-now-worse-than-trumps-00037278">Biden wants to get out more, seething that his standing is now worse than Trump’s</a> Politico: Frustrations are mounting and the window for a political revival is closing. 
  <p class="updated_time"> 05:48 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/us/politics/america-first-secretary-of-state-candidates.html">In Races to Run Elections, Candidates Are Backed by Key 2020 Deniers</a> NYT: The origin story behind a slate of Republican candidates for secretary of state features a QAnon figure and several promoters of 2020 conspiracies. 
- <p class="updated_time"> 03:48 PM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103172321/jan-6-hearings-hit-primetime-tv-this-week">Jan. 6 hearings hit primetime TV this week</a> NPR: NPR's Elissa Nadworny speaks with Harry Litman, a law professor and former DOJ official, about the upcoming hearings from the committee investigating the attack on the U.S. Capitol. 
  <p class="updated_time"> 01:05 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/04/us/politics/pa-senate-fetterman-dr-oz.html">Fetterman’s Heart Issues Add Wild Card to Key Pennsylvania Senate Race</a> NYT: Part of John Fetterman’s appeal as the Democratic Senate nominee has stemmed from his brash sense of vitality. It’s not clear if his recent stroke and absence from the trail will affect that. 
  <p class="updated_time"> 12:01 PM CT, Jun. 05 </p> 
@@ -310,10 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/05/chris-murphy-florida-gun-law-00037255">Murphy calls Florida gun law 'the right one’ as senators negotiate federal legislation</a> Politico: “We have to make the case for Republicans that right now this is good politics,” the Connecticut senator said. 
  <p class="updated_time"> 09:43 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/tom-rice-trump-impeachment-00037265">‘That was the conservative vote,’ Tom Rice says of his vote to impeach Trump</a> Politico: The South Carolina Republican is a target of the former president in his state's upcoming primary. 
- <p class="updated_time"> 08:04 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103145054/tv-stations-pull-controversial-ads-targeting-democratic-senate-nominee-cheri-bea">TV stations pull controversial ads targeting Democratic Senate nominee Cheri Beasley</a> NPR: TV stations in North Carolina have pulled controversial ads targeting Democratic U.S. Senate nominee Cheri Beasley. 
- <p class="updated_time"> 07:01 AM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1103145012/politics-chat-jan-6-findings-gun-legislation-oz-and-fetterman-on-pa-ballot">Politics chat: Jan. 6 findings; gun legislation; Oz and Fetterman on PA ballot</a> NPR: The House select committee investigating the January 6 attack begin hearings in prime time this week; negotiations over gun legislation continue; PA's Democratic senate candidate has medical news. 
  <p class="updated_time"> 06:00 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/biden-january-6-hearings-00037243">How Biden plans to handle the Jan. 6 hearings</a> Politico: The president will monitor but not react in real time. But the real audience is the public and … Merrick Garland. 
  <p class="updated_time"> 02:22 PM CT, Jun. 04 </p> 
