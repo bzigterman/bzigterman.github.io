@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61079265?at_medium=RSS&at_campaign=KARANGA">Kenyan mothers choose between work and their babies</a> BBC: Nutritionist Sophy Saronge knew she should breastfeed her baby for six months but says she had to work. 
+ <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61717373?at_medium=RSS&at_campaign=KARANGA">Tove Styrke is sick of the Spotify song formula</a> BBC: The Swedish star explains why she's rejected the slick, corporate Spotify sound to follow her gut. 
+ <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
+ <p class="updated_time"> 06:33 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61667500?at_medium=RSS&at_campaign=KARANGA">Irpin: Russia's reign of terror in a quiet neighbourhood near Kyiv</a> BBC: A handful of streets in a leafy town on Kyiv's doorstep were subjected to weeks of deadly occupation. 
  <p class="updated_time"> 06:13 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61727450?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Angela Merkel defends her record on Putin</a> BBC: Her approach has been criticised but she said she had "nothing to apologise for". 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
@@ -19,15 +27,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/boris-johnson-no-confidence.html">What’s Next for Boris Johnson After Narrowly Winning No-Confidence Vote</a> NYT: After narrowly winning a no-confidence vote on Monday, Prime Minister Boris Johnson faces a long list of threats to his leadership. 
  <p class="updated_time"> 06:01 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61722849?at_medium=RSS&at_campaign=KARANGA">If I go back to Iran, my husband will kill me</a> BBC: Human rights activists say the number of reported so-called 'honour killings' in Iran is rising 
+ <p class="updated_time"> 05:56 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 05:54 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 05:50 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61727520?at_medium=RSS&at_campaign=KARANGA">Kansas woman admits to training all-female IS battalion in Syria</a> BBC: Allison Fluke-Ekren admitted to leading an all-female IS unit in Syria and plotting attacks on the US. 
- <p class="updated_time"> 05:49 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
- <p class="updated_time"> 05:31 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
- <p class="updated_time"> 04:31 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 04:56 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 04:26 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-sievierodonetsk-donbas.html">Ukraine’s Dilemma: Fight to Hold a Ravaged City, or Pull Back</a> NYT: Sievierodonetsk, now site of the most intense combat, is “dead,” President Volodymyr Zelensky said, but letting it go might be worse than shedding blood to hold it. 
@@ -45,12 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-saudi-arabia-congress.html">Democratic Lawmakers Urge Biden to Ensure Saudi Ties Serve U.S.</a> NYT: A letter to President Biden ahead of his planned trip to Saudi Arabia raises concerns about the kingdom’s cooperation with China on ballistic missiles and its human rights violations. 
  <p class="updated_time"> 03:57 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569606/dustin-johnson-has-quit-the-pga-tour-for-controversial-new-saudi-backed-golf-ser">Dustin Johnson has quit the PGA Tour for controversial new Saudi-backed golf series</a> NPR: One of golf's leading stars, Dustin Johnson, has quit the PGA Tour to participate in a controversial new breakaway golf series. It's backed by Saudi Arabia and has created an uproar in the golf world. 
+ <p class="updated_time"> 03:56 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 03:55 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569585/russia-is-still-blocking-key-ukrainian-port-as-fighting-continues-in-ukraines-ea">Russia is still blocking key Ukrainian port as fighting continues in Ukraine's east</a> NPR: There's intense fighting in the east of Ukraine, new information on a Ukrainian city under Russian occupation, and a possible cholera outbreak in Mariupol. 
- <p class="updated_time"> 03:31 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 03:28 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 03:23 PM CT, Jun. 07 </p> 
@@ -63,15 +69,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 03:04 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/07/1102930419/-swedengate-sparks-food-fight-why-some-countries-share-meals-more-than-others">#SwedenGate sparks food fight: Why some countries share meals more than others </a> NPR: A Reddit user claimed that while visiting a friend's house in Sweden, he had to sit in another room while the family ate dinner. The story ignited a conversation about how the rest of the world eats. 
+ <p class="updated_time"> 02:56 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 02:33 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
- <p class="updated_time"> 02:31 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 02:25 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey: 'This should be a nonpartisan issue'</a> BBC: The actor spoke at the White House to advocate for "responsible gun ownership". 
  <p class="updated_time"> 02:04 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
- <p class="updated_time"> 01:31 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 01:56 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 01:17 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61723195?at_medium=RSS&at_campaign=KARANGA">Tiger Woods to miss US Open to give himself time to 'get stronger'</a> BBC: Tiger Woods confirms he will not play at next week's US Open, but still plans to compete at the 150th Open Championship at St Andrews next month. 
@@ -113,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103453336/figure-skating-age-limits-kamila-valieva">Figure skaters' minimum age for top competitions will rise to 17 after scandal</a> NPR: The move comes months after Russia's Kamila Valieva, then 15, was caught in a storm of controversy at the Beijing Winter Olympics. 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
- <p class="updated_time"> 04:50 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61716241?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: The Indian woman behind offensive Prophet Muhammad comments</a> BBC: Who is Nupur Sharma, the politician whose offensive comments have incensed the Islamic world? 
  <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
  <p class="updated_time"> 03:35 AM CT, Jun. 07 </p> 
@@ -135,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
  <p class="updated_time"> 08:57 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/dom-phillips-bruno-araujo-pereira-missing-amazon.html">British Journalist and Brazilian Indigenous Expert Missing in the Amazon</a> NYT: Dom Phillips and Bruno Araújo Pereira were last seen Sunday morning traveling in a boat in the northern Brazilian state of Amazonas. 
- <p class="updated_time"> 07:32 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61511681?at_medium=RSS&at_campaign=KARANGA">The Ethiopians changing their names as a show of pride</a> BBC: A surge in ethnic pride among Ethiopia’s Oromo community is leading some to ditch their names. 
  <p class="updated_time"> 07:31 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-advanced-weapons-training.html">Potent Weapons Reach Ukraine Faster Than the Know-How to Use Them</a> NYT: Soldiers desperate for advanced arms to match their Russian enemies have resorted to Google Translate to decipher the instructions for their sophisticated new tools. 
  <p class="updated_time"> 07:30 PM CT, Jun. 06 </p> 
@@ -185,18 +187,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61667292?at_medium=RSS&at_campaign=KARANGA">Lebanon crisis: 'A father without his children, it's terrible'</a> BBC: As the economic crisis in Lebanon continues to bite, parents are struggling to support their children. 
  <p class="updated_time"> 08:02 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
- <p class="updated_time"> 06:03 PM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61565485?at_medium=RSS&at_campaign=KARANGA">Why the Central African Republic adopted Bitcoin</a> BBC: Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin. 
- <p class="updated_time"> 06:02 PM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61590756?at_medium=RSS&at_campaign=KARANGA">India wheat export ban: Why it matters to the world</a> BBC: India's move to ban wheat exports rattled global markets, but the government says it won't have much impact. 
- <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61511546?at_medium=RSS&at_campaign=KARANGA">China's plans to go to the Moon, Mars and beyond</a> BBC: China plans to put astronauts on the Moon and send probes to Mars and Jupiter. Why the grand plans? 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
  <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
- <p class="updated_time"> 03:25 PM CT, Jun. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61669954?at_medium=RSS&at_campaign=KARANGA">Why Australia is declaring a 'new era' in the Pacific</a> BBC: Albanese's government is promising to restore ties with its "brothers and sisters" - is it too late? 
 
 
 </details>
@@ -204,7 +198,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:16 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/business/media/fox-jan-6-hearings.html">Fox News Doesn’t Plan to Carry Jan. 6 Hearings Live</a> NYT: Its sister network, the lower-rated Fox Business, will carry live coverage, while star prime-time hosts like Tucker Carlson and Sean Hannity will proceed as usual. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/summit-of-the-americas-biden.html">Biden to Host Latin American Leaders at Summit in Los Angeles</a> NYT: The president is already the subject of a boycott by some of the region’s most important heads of state, and his agenda is being met with deep skepticism. 
