@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:20 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 05:40 AM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Growing Civilian Toll Points to Stark Challenges for Ukraine</a> NYT: More than 40,000 Ukrainian civilians have been killed or wounded in the war, and roughly three million are now living under Russian occupation, according to the Ukrainian government. 
+ <p class="updated_time"> 05:36 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Is on Shaky Ground After No-Confidence Vote</a> NYT: Britain’s prime minister, facing a battered economy and a potentially damaging Parliamentary by-election this month, could also still face a rebellion by his fellow Conservative lawmakers. 
- <p class="updated_time"> 05:16 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Ukraine Live Updates: E.U. Leaders Pin Global Food Worries on Russia</a> NYT: Moscow shifted blame for food shortages to sanctions. Both Ukraine and Russia are claiming to have inflicted decisive losses against one another in recent days in the fight for a key eastern city. 
  <p class="updated_time"> 04:45 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-russia-rename-streets.html">Ukrainian Officials Move to Rechristen Landmarks With Russian Names</a> NYT: Across the country, officials are evaluating and rechristening roads, parks and other sites bearing Russian names. 
- <p class="updated_time"> 04:25 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 04:42 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-faces-vote-of-confidence-in-leadership-11654500337">Boris Johnson Survives No-Confidence Vote Over Lockdown Parties</a> WSJ: Boris Johnson Survives No-Confidence Vote Over Lockdown Parties 
  <p class="updated_time"> 04:11 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61717081?at_medium=RSS&at_campaign=KARANGA">Tiger King's Doc Antle charged with money laundering</a> BBC: Bhagavan "Doc" Antle has been charged with laundering more than half a million dollars. 
@@ -23,28 +23,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
  <p class="updated_time"> 03:53 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61713832?at_medium=RSS&at_campaign=KARANGA">South Africa: Wealthy Gupta brothers arrested in UAE</a> BBC: The pair are accused in South Africa of large-scale corruption, which they deny. 
+ <p class="updated_time"> 03:42 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation 
  <p class="updated_time"> 03:35 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61715843?at_medium=RSS&at_campaign=KARANGA">Li Jiaqi: China Lipstick King sparks Tiananmen questions</a> BBC: Livestreamer Li Jiaqi is yet to reappear after an apparent reference to the massacre on his show. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61716761?at_medium=RSS&at_campaign=KARANGA">Ukraine: Severodonetsk and Lysychansk have 'no people on the streets' - Zelensky</a> BBC: The Ukrainian president says there are no civilians on the streets in Severodonetsk and Lysychansk. 
- <p class="updated_time"> 03:25 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 02:42 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701">Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</a> WSJ: Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance 
- <p class="updated_time"> 02:25 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/chernobyl-workers-pick-up-the-pieces-after-russian-occupation-11654507800">Chernobyl Workers Pick Up the Pieces After Russian Occupation</a> WSJ: Chernobyl Workers Pick Up the Pieces After Russian Occupation 
  <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">The Museum Was Built So No One Would Forget. Now It’s Falling Apart.</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
- <p class="updated_time"> 01:25 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
- <p class="updated_time"> 01:08 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-u-s-mistreats-its-journalists-threatens-retaliation-11654550998">Russia Says U.S. Mistreats Its Journalists, Threatens Retaliation</a> WSJ: Moscow has complained about what it describes as hostile behavior toward Russian journalists in the U.S. and warned of equivalent measures against American reporters in Russia. 
+ <p class="updated_time"> 01:42 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Brazilian Navy Searches for Missing British Journalist in Amazon 
  <p class="updated_time"> 01:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-monastery-orthodox-church-russia.html">Battered by Russian Shells, a Monastery Remains Loyal to Moscow</a> NYT: The monks and nuns cloistered in a monastery complex in eastern Ukraine absorb daily bombardments from Russian artillery. And yet they remain loyal to the Russian Orthodox Church. 
  <p class="updated_time"> 12:57 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-61714989?at_medium=RSS&at_campaign=KARANGA">KFC Australia forced to swap lettuce for cabbage</a> BBC: It comes as Australian shoppers have been hit with soaring prices for some fresh fruits and vegetables. 
- <p class="updated_time"> 12:25 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-moves-toward-eventual-ties-with-israel-11654517783">Saudi Arabia Moves Toward Eventual Ties With Israel</a> WSJ: Saudi Arabia Moves Toward Eventual Ties With Israel 
+ <p class="updated_time"> 12:42 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-loses-parliamentary-vote-threatening-fragile-coalition-11654546660">Israel’s Government Loses Parliamentary Vote, Threatening Coalition</a> WSJ: Israel’s Government Loses Parliamentary Vote, Threatening Coalition 
  <p class="updated_time"> 12:01 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
  <p class="updated_time"> 11:07 PM CT, Jun. 06 </p> 
@@ -67,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61657237?at_medium=RSS&at_campaign=KARANGA">KK: Remembering the voice that touched millions of Indian love stories</a> BBC: The magical voice of singer KK - who died last week - gave Indians company through joy and heartbreak. 
  <p class="updated_time"> 07:07 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
- <p class="updated_time"> 05:13 PM CT, Jun. 06 </p> 
- <a href="https://www.wsj.com/articles/journalist-dom-phillips-goes-missing-in-amazon-spurring-brazilian-navy-to-conduct-search-11654568006">Brazilian Navy Searches for Missing British Journalist in Amazon</a> WSJ: Dom Phillips, who is writing a book about the Amazon, was last seen with indigenous expert Bruno Pereira Sunday morning in the Javari Valley, a vast territory plagued by illegal logging, mining and poaching. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
  <p class="updated_time"> 04:25 PM CT, Jun. 06 </p> 
@@ -196,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:29 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/07/california-braces-for-possible-political-earthquake-00037673">California braces for possible political earthquake</a> Politico Playbook: And five of the 35 House Republicans who voted to create a bipartisan commission to investigate the Jan. 6 attack at the Capitol are on the ballot today. 
  <p class="updated_time"> 04:03 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103363218/iowa-senate-democratic-primary-finkenauer-franken-grassley">Iowa's Finkenauer aims for a return to Congress, this time by toppling Sen. Grassley</a> NPR: Former U.S. Rep. Abby Finkenauer is facing a tougher-than-expected Democratic U.S. Senate primary in a state that has become more of a GOP stronghold in the last decade. 
  <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
