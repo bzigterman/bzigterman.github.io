@@ -9,14 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:47 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 12:30 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces ‘An Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
+ <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">A Domestic Political Fight in Sweden Gets Embroiled in Geopolitics</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join NATO. 
- <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
- <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
+ <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
+ <a href="https://www.npr.org/2022/06/07/1103493025/european-union-to-require-mobile-devices-to-have-usb-c-ports">One charger for them all: The European Union sets a new standard for mobile devices</a> NPR: Cell phones and handheld electronic devices in the European Union will be required to have a USB-C charging port by 2024. 
+ <p class="updated_time"> 12:10 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
+ <p class="updated_time"> 12:07 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
+ <p class="updated_time"> 12:07 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">U.K. Live Updates: Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
+ <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
+ <p class="updated_time"> 11:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 11:37 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61723195?at_medium=RSS&at_campaign=KARANGA">Tiger Woods to miss US Open to give himself time to 'get stronger'</a> BBC: Tiger Woods confirms he will not play at next week's US Open, but still plans to compete at the 150th Open Championship at St Andrews next month. 
  <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
@@ -27,40 +35,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/mariupol-bodies-ukraine-russia.html">Ukraine and Russia Exchange War Dead Remains</a> NYT: In the first official confirmed exchange of war dead, Russia and Ukraine each received about 160 bodies. 
  <p class="updated_time"> 11:12 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-saudi-arabia-congress.html">Democratic Lawmakers Urge Biden to Ensure Saudi Ties Serve U.S.</a> NYT: A letter to President Biden ahead of his planned trip to Saudi Arabia raises concerns about the kingdom’s cooperation with China on ballistic missiles and its human rights violations. 
- <p class="updated_time"> 10:58 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
- <p class="updated_time"> 10:51 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
  <p class="updated_time"> 10:46 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61714232?at_medium=RSS&at_campaign=KARANGA">Family of British journalist missing in Amazon urges action</a> BBC: The journalist and a Brazilian indigenous expert had received threats before they disappeared. 
+ <p class="updated_time"> 10:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 09:59 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61719554?at_medium=RSS&at_campaign=KARANGA">EU deal links minimum wage to decent standard of living</a> BBC: Under the deal EU member states would have to follow common rules but not have the same rates. 
- <p class="updated_time"> 09:58 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 09:52 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
  <p class="updated_time"> 09:48 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
+ <p class="updated_time"> 09:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 09:40 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103456116/cuba-cuban-migrants-real-estate">With Cubans leaving en masse, much of Cuba's real estate is up for sale</a> NPR: Cubans are fleeing because of a steep economic downturn. Immigration is a big issue as leaders meet at this week's Summit of the Americas — but communist-controlled Cuba isn't invited. 
  <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-russia-rename-streets.html">Ukrainian Officials Move to Rechristen Landmarks With Russian Names</a> NYT: Across the country, officials are evaluating and rechristening roads, parks and other sites bearing Russian names. 
- <p class="updated_time"> 08:58 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
+ <p class="updated_time"> 08:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 08:13 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103461192/british-writer-dom-phillips-brazil-indigenous-official-missing-amazon">A British writer and a Brazil Indigenous official are missing in the Amazon</a> NPR: Dom Phillips, who has been a regular contributor to the British newspaper the Guardian, and Bruno Araújo Pereira were last seen early Sunday. 
- <p class="updated_time"> 07:58 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 07:51 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
  <p class="updated_time"> 07:48 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-61718262?at_medium=RSS&at_campaign=KARANGA">Geologist Jim Fitton jailed in Iraq 'shell shocked' over verdict</a> BBC: Jim Fitton, 66, was sentenced to 15 years for attempting to smuggle 12 stones and broken pottery. 
  <p class="updated_time"> 07:44 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61718101?at_medium=RSS&at_campaign=KARANGA">Apple announces buy now pay later, among iOS 16 plans</a> BBC: The tech giant is introducing the controversial service as part of its iOS 16 update. 
+ <p class="updated_time"> 07:41 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 07:01 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/china-college-entrance-exams-covid.html">China Tries to Keep Covid Out of Its Grueling College Entrance Exams</a> NYT: Some students have to travel from locked-down areas to testing sites in special vehicles, while others might be isolated for the exam. 
- <p class="updated_time"> 06:58 AM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/japans-debt-debate-is-it-heading-for-a-titanic-crash-11654600541">Japan Adopts View That Huge Government Debt Doesn’t Matter</a> WSJ: Japan Adopts View That Huge Government Debt Doesn’t Matter 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/no-confidence-vote-theresa-may.html">Theresa May and Others Who Survived No-Confidence Votes Didn’t Last Long After</a> NYT: Two previous Conservative prime ministers were ultimately forced out, and one lost a landslide election two years later. 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
@@ -171,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61511546?at_medium=RSS&at_campaign=KARANGA">China's plans to go to the Moon, Mars and beyond</a> BBC: China plans to put astronauts on the Moon and send probes to Mars and Jupiter. Why the grand plans? 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
- <p class="updated_time"> 04:28 PM CT, Jun. 05 </p> 
- <a href="https://www.npr.org/2022/06/05/1098946788/russia-ukraine-war-what-happened-this-weekend-june-4-5">Russia-Ukraine war: What happened this weekend (June 4-5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
  <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
  <p class="updated_time"> 03:42 PM CT, Jun. 05 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/australia/new-zealands-predator-mammals.html">New Zealand’s Biodiversity Crisis Prompts Extreme Measures</a> NYT: A few years ago, the nation vowed to rid itself of most imported predators. But now some people are asking if that goal is feasible, or worth what it will cost. 
  <p class="updated_time"> 11:28 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/hong-kong-migrants-uk.html">In the U.K., Migrants From Hong Kong Build a New Life</a> NYT: More than a year after they first began arriving in Britain under a new visa program, people from Hong Kong are settling into their new home. But they still long for the one they left behind. 
- <p class="updated_time"> 06:54 PM CT, Jun. 04 </p> 
- <a href="https://www.nytimes.com/2022/06/04/world/asia/tiananmen-square-hong-kong-june-4.html">On the Anniversary of Tiananmen Massacre, Victims Remembered</a> NYT: In Taiwan and elsewhere, people met on Saturday to remember those killed in China in 1989 — and the freedoms lost in Hong Kong, where such vigils are now unthinkable. 
  <p class="updated_time"> 05:00 PM CT, Jun. 04 </p> 
  <a href="https://www.nytimes.com/2022/06/04/world/europe/ukraine-macron-russia-izium.html">As Battles Rage, Ukraine Rejects Macron Plea Not to ‘Humiliate’ Russia</a> NYT: Amid reports of battlefield gains by Ukraine, an official angrily rejected Mr. Macron’s advice, saying it “can only humiliate France.” 
 
@@ -198,12 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:25 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Yellen Defends Pandemic Spending as Inflation Persists</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
+ <p class="updated_time"> 12:15 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/jan-6-committee-interviews-head-of-trumps-secret-service-detail-on-day-of-capitol-attack-00037748">Jan. 6 committee interviews head of Trump's Secret Service detail on day of Capitol attack</a> Politico: Given the importance of trust in their relationships with protectees, agents generally feel deep discomfort when fielding investigators’ questions. 
  <p class="updated_time"> 11:37 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/south-dakota-how-to-vote.html">South Dakota: How to Vote, Where to Vote and What’s on the Ballot</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 11:12 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-saudi-arabia-congress.html">Democratic Lawmakers Urge Biden to Ensure Saudi Ties Serve U.S.</a> NYT: A letter to President Biden ahead of his planned trip to Saudi Arabia raises concerns about the kingdom’s cooperation with China on ballistic missiles and its human rights violations. 
  <p class="updated_time"> 11:04 AM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/massachusetts-governor-race-maura-healey-00037723">Massachusetts Democrats tired of Republican rule see Healey as their savior</a> Politico: “People don’t want ... Donald Trump acolytes or supporters in office. That’s why people are being very clear-eyed about who they support," one Democratic consultant said. 
+ <a href="https://www.politico.com/news/2022/06/07/massachusetts-governor-race-maura-healey-00037723">Enough with Trumpism: Mass. Dems rally to Healey in governor's race</a> Politico: “People don’t want ... Donald Trump acolytes or supporters in office. That’s why people are being very clear-eyed about who they support," one Democratic consultant said. 
  <p class="updated_time"> 11:03 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/researchers-monkeypox-00037620">What researchers do — and don’t — know about monkeypox</a> Politico: Researchers said better surveillance is needed to learn whether the virus is endemic but undetected in other nearby countries. 
  <p class="updated_time"> 10:40 AM CT, Jun. 07 </p> 
@@ -232,10 +236,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-how-to-vote.html">New Mexico: How to Vote, Where to Vote and What’s on the Ballot</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 09:12 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/jessica-cisneros-cuellar-recount.html">Jessica Cisneros Calls for Recount in Texas Runoff Against Rep. Cuellar</a> NYT: The Cisneros campaign said a Texas Democratic Party certification of the results found that Mr. Cuellar was up by 281 votes. 
- <p class="updated_time"> 08:59 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/california-new-jersey-primary-elections-today.html">What to Watch in Today’s Primary Elections in California, New Jersey and More</a> NYT: Crime and homelessness loom large in California, Democrats look for some rays of light in a rough year, and dozens of House races will take shape for the fall midterms. 
- <p class="updated_time"> 08:57 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Persistent Inflation Puts Yellen in the Spotlight</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
  <p class="updated_time"> 08:49 AM CT, Jun. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:06 AM CT, Jun. 07 </p> 
@@ -272,8 +272,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1102192665/mississippi-primary-election-results">Here are the key primary election results from Mississippi</a> NPR: Here are the key primary election results from Mississippi, where notable races include U.S. House districts. 
  <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1102190697/iowa-primary-election-results">Here are the key primary election results from Iowa</a> NPR: Democrats vie to take on longtime U.S. Sen. Chuck Grassley, and three Republicans face off to challenge Rep. Cindy Axne in the 3rd Congressional District. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/fetterman-runs-first-tv-ad-on-fox-00037659">Fetterman airs first general election ad on Fox</a> Politico: The Pennsylvania Democratic Senate nominee's spot portrays him as a political outsider who has pushed for policies that benefit the working class. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/fed-workers-covid-inflation-00036970">How Covid threatens the left’s win at the Fed</a> Politico: Critics of easy money policies say the central bank’s new pro-worker pivot stoked price spikes and made the central bank late to fighting them. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/south-texas-election-ad-00037595">Democrats go on air in South Texas special</a> Politico: House Majority PAC is launching a TV ad buy ahead of the June 14 contest to replace former Democratic Rep. Filemon Vela, who resigned. 
+ <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
  <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/california-primary-what-to-watch-00037645">California’s test on crime, House members in danger and more: What to watch in Tuesday’s primaries</a> Politico: Tough-on-crime messaging has dominated races in California and beyond. 
  <p class="updated_time"> 10:15 PM CT, Jun. 06 </p> 
@@ -302,22 +308,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/us/politics/gun-control-cornyn-senate-republicans.html">With Cornyn in the Room, Senate Gun Talks Focus on Narrow Changes</a> NYT: The conservative Texan’s involvement in bipartisan talks means that an agreement, if there is one, is likely to include incremental steps. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/doj-charges-proud-boys-leaders-with-seditious-conspiracy-over-jan-6-attack-00037518">DOJ charges Proud Boys leaders with seditious conspiracy over Jan. 6 attack</a> Politico: The charges come the same week that the Jan. 6 select committee plans to hold its first hearing analyzing the Capitol breach. 
- <p class="updated_time"> 03:02 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/05/us/politics/border-migrants-asylum.html">How Asylum Seekers Cross the Border</a> NYT: The southern border is seeing a historic spike in migrant crossings. Many are coming in hope of asking for asylum, a right that has been unavailable because of pandemic-related restrictions on immigration. A New York Times photographer documented three ways that people cross the border into the United States. 
  <p class="updated_time"> 02:11 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/filibuster-house-gop-2024-midterms-majority-00037361">What filibuster? House GOP plans a 2024-minded majority</a> Politico: From Keystone XL to a "parents' bill of rights," Republicans eyeing the majority are teeing up proposals with little to no chance in the Senate. 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/pete-buttigieg-covid-positive.html">Pete Buttigieg Tests Positive for Coronavirus</a> NYT: Mr. Buttigieg, who a White House spokesman said was not considered a close contact of President Biden, is at least the fifth cabinet secretary to test positive in about the last month. 
  <p class="updated_time"> 01:34 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/business/economy/the-potential-dark-side-of-a-white-hot-labor-market.html">The Potential Dark Side of a White-Hot Labor Market</a> NYT: The strong job market may be about to take a turn for the worse. That could come to haunt those who made choices based on today’s conditions. 
- <p class="updated_time"> 12:24 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/six-things-to-watch-during-the-summit-of-the-americas-00037384">6 things to watch during the Summit of the Americas</a> Politico: As President Joe Biden prepares to host Latin American nations in Los Angeles, questions remain about U.S. influence in the region. 
  <p class="updated_time"> 12:16 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/us/politics/michelle-long-spears-georgia.html">Georgia Candidate Who Appeared to Get Few Votes Was Actually in 1st Place</a> NYT: The discrepancy in a race for a county-level board of commissioners seat was blamed on a series of technical errors. 
  <p class="updated_time"> 11:57 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/senators-weigh-enhanced-background-checks-gun-talks-00037426">GOP senators surprisingly bullish on prospects for a bipartisan gun deal</a> Politico: The lawmakers at the core of the negotiations met again Monday evening. 
- <p class="updated_time"> 10:18 AM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/mexican-president-summit-of-the-americas-00037378">Mexican president won't attend Summit of the Americas</a> Politico: President Andrés Manuel López Obrador confirmed his decision Monday following weeks of threats that he would to stay home if the White House refused to invite leaders from Cuba, Nicaragua and Venezuela. 
+ <p class="updated_time"> 11:51 AM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/herschel-walker-gas-vouchers.html">A Pro-Herschel Walker Group Gave Out Gas Vouchers, Angering Democrats</a> NYT: The group handed out $25 fuel vouchers and Walker campaign flyers to motorists in line at a downtown Atlanta gas station. 
  <p class="updated_time"> 09:30 AM CT, Jun. 06 </p> 
  <a href="https://www.cnn.com/2022/06/05/politics/supreme-court-june-opinions/index.html">Supreme Court has 30 opinions remaining in one-month sprint to end controversial term</a> CNN: As the Supreme Court rounds the final weeks of the term it has yet to decide an unusually high number of cases including disputes over abortion, gun rights, religious liberty, immigration and the environment -- issues that deeply divide the public and exacerbate the ideological split on the 6-3 conservative-liberal court. 
  <p class="updated_time"> 08:54 AM CT, Jun. 06 </p> 
@@ -336,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/05/politics/donald-trump-preparations-january-6-hearing/index.html">Trump mobilizing his MAGA allies to defend him ahead of January 6 hearings</a> CNN: Former President Donald Trump has made it clear he is looking for cover from his closest allies around the upcoming public hearings by the House select committee investigating the January 6 insurrection -- and some prominent names in Congress and the Republican Party are answering the call. 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/05/democracy-week-in-washington-00037266"> Democracy week in Washington</a> Politico Playbook: And Russian missiles strike Kyiv. 
- <p class="updated_time"> 10:48 AM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/un-russia-ukraine-grain-00037240">U.S. skeptical U.N.-Russia talks will free trapped Ukrainian grain</a> Politico: Russian officials are offering to allow Ukrainian grain safe passage through a Russian blockade in exchange for sanctions relief. 
  <p class="updated_time"> 10:40 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/news/2022/06/05/chris-murphy-florida-gun-law-00037255">Murphy calls Florida gun law 'the right one’ as senators negotiate federal legislation</a> Politico: “We have to make the case for Republicans that right now this is good politics,” the Connecticut senator said. 
  <p class="updated_time"> 09:43 AM CT, Jun. 05 </p> 
