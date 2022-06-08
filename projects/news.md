@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:45 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 04:49 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
- <p class="updated_time"> 04:24 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 04:47 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61740692?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Zelensky ties fate of east Ukraine to battle for city</a> BBC: Ukraine's president says fighting for Severodonetsk may prove decisive in the battle for the east. 
  <p class="updated_time"> 04:21 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103785100/china-brought-a-major-initiative-to-pacific-island-nations-it-has-the-u-s-worrie">China brought a major initiative to Pacific Island nations. It has the U.S. worried</a> NPR: China's foreign minister recently wrapped up a visit to eight Pacific island nations, raising alarm in the U.S. and its allies. 
@@ -21,10 +21,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
  <p class="updated_time"> 04:02 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: Teacher dead and pupils hurt as car hits crowd</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
+ <p class="updated_time"> 04:01 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 03:50 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103785072/india-is-seeing-international-backlash-after-spokeswomans-comments-on-islam">India is seeing international backlash after spokeswoman's comments on Islam</a> NPR: The diplomatic uproar across the Muslim world is growing, after a spokeswoman for India's ruling party made derogatory remarks insulting the Prophet Muhammad. 
- <p class="updated_time"> 03:49 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 03:36 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
@@ -39,25 +39,25 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61719196?at_medium=RSS&at_campaign=KARANGA">Nuclear watchdog censures Iran over uranium traces - diplomats</a> BBC: Iran is accused of not fully answering questions about uranium traces found at three undeclared sites. 
  <p class="updated_time"> 03:05 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103766334/shrinkflation-globally-manufacturers-shrink-package-sizes">'Shrinkflation' accelerates globally as manufacturers quietly shrink package sizes</a> NPR: Shrinkflation isn't new, experts say. But it proliferates in times of high inflation as companies grapple with rising costs for ingredients, packaging, labor and transportation. 
- <p class="updated_time"> 02:49 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 03:01 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 02:39 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Plows Into a School Group in Berlin, Killing 1 and Injuring 14</a> NYT: A teacher was killed and those hurt were students traveling with her. The driver was described as “mentally impaired,” and police are investigating whether the crash was intentional. 
  <p class="updated_time"> 02:02 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
+ <p class="updated_time"> 02:01 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 02:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
- <p class="updated_time"> 01:49 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
  <p class="updated_time"> 01:41 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61736179?at_medium=RSS&at_campaign=KARANGA">Is Russia exporting grain from Ukraine?</a> BBC: Much Ukrainian grain is stuck in silos, while Russia reportedly ships some cargoes from Crimea. 
- <p class="updated_time"> 12:49 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 01:01 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
- <p class="updated_time"> 11:49 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 12:01 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 11:40 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: Official said the driver of the vehicle, who was quickly detained, suffered from mental problems and wasn’t politically motivated. 
