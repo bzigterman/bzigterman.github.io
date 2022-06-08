@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:28 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 08:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Ukraine Live Updates: Restoring Rail Links and Canal, Russia Seeks to Cement ‘Land Bridge’ in South</a> NYT: Moscow claimed that its military had repaired hundreds of miles of track, and that a key freshwater source was flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 07:55 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/world/africa/ryanair-south-africa-afrikaans.html">Ryanair Asks Travelers to Prove South African Nationality, in Afrikaans</a> NYT: The choice of a language that had been imposed by the apartheid government and is not even spoken by many South Africans today has set off complaints. 
+ <p class="updated_time"> 07:51 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
+ <p class="updated_time"> 07:45 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/world/australia/australias-monarchy-queen.html">Australia’s Baby Steps Toward Severing Ties With the Queen</a> NYT: The new Labor government has established a ministerial position to begin the process of making the country a republic. But the idea is far from the top of its agenda. 
+ <p class="updated_time"> 07:38 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Crashes Into a Berlin Crowd, Killing 1 and Injuring a Dozen</a> NYT: The police have arrested the driver of the car and opened an investigation into whether the crash was accidental or intentional. 
  <p class="updated_time"> 07:23 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Phillipe returns looted mask</a> BBC: It is the first of 84,000 colonial objects Belgian authorities have agreed to give back. 
- <p class="updated_time"> 07:16 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Crashes Into a Berlin Crowd, Killing 1 and Injuring a Dozen</a> NYT: The police have arrested the driver of the car and opened an investigation into whether the crash was accidental or intentional. 
+ <p class="updated_time"> 07:22 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 06:53 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103658195/berlin-car-crash-tauenzienstrasse">A car drove into a crowd in Berlin, killing 1 person, police say</a> NPR: Emergency responders have kept the man who was driving the vehicle at the scene, according to the Berlin police department. 
  <p class="updated_time"> 06:43 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61731631?at_medium=RSS&at_campaign=KARANGA">Paris woman condemns police for friend's fatal shooting</a> BBC: A young woman speaks out after her friend becomes the latest person to die in a police road check. 
  <p class="updated_time"> 06:37 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: One dead and others hurt as car drives into pedestrians</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
- <p class="updated_time"> 06:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
- <p class="updated_time"> 06:05 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/australia/australias-monarchy-queen.html">Australia’s Baby Steps Toward Severing Ties With the Queen</a> NYT: The new Labor government has established a ministerial position to begin the process of making the country a republic. But the idea is far from the top of its agenda. 
+ <p class="updated_time"> 06:22 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-turkey-hold-high-stakes-talks-on-safe-passage-for-ukraines-grain-11654677099">Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough</a> WSJ: Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough 
  <p class="updated_time"> 05:54 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 05:33 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
- <p class="updated_time"> 05:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-turkey-hold-high-stakes-talks-on-safe-passage-for-ukraines-grain-11654677099">Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough</a> WSJ: Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough 
  <p class="updated_time"> 05:24 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61729101?at_medium=RSS&at_campaign=KARANGA">Train derailment in eastern Iran kills 21</a> BBC: Dozens more people were injured after the train hit an excavator near the track, officials say. 
- <p class="updated_time"> 04:32 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 05:22 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: Russian Invasion Expected to Keep Inflation High in Rich Countries 
+ <p class="updated_time"> 04:22 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns 
  <p class="updated_time"> 04:17 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61731562?at_medium=RSS&at_campaign=KARANGA">Florida: Bodycam footage shows officials borrowing boat to chase suspected thief</a> BBC: Footage shows officials taking to the water to detain a man in the US state of Florida. 
  <p class="updated_time"> 04:01 AM CT, Jun. 08 </p> 
@@ -47,14 +53,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/magazine/george-w-bush-russia-war-iraq.html">When George W. Bush Confused Russia’s War in Ukraine With Iraq</a> NYT: A viral gaffe by the former president offers a dark reminder of America’s foreign-policy hypocrisies. 
  <p class="updated_time"> 03:54 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103286987/these-russian-couples-didnt-plan-to-get-married-the-ukraine-war-changed-their-mi">These Russian couples didn't plan to get married. The Ukraine war changed their minds</a> NPR: More couples — including those who stayed in Russia and those who fled — are urgently marrying, for reasons both practical and deeply emotional. 
- <p class="updated_time"> 03:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns 
  <p class="updated_time"> 03:23 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">Sweden’s NATO Bid Gets Tangled Up in a Domestic Political Dispute</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join the military alliance. 
+ <p class="updated_time"> 03:22 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: Car Plows Into Crowd in Berlin, Killing at Least One 
  <p class="updated_time"> 02:57 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103649468/russias-lavrov-in-turkey-to-discuss-plan-to-ship-ukrainian-grain">Russia's Lavrov in Turkey to discuss plan to ship Ukrainian grain</a> NPR: The talks scheduled for Wednesday aim to unlock an estimated 22 million tons of grains sitting in silos in Ukraine. 
- <p class="updated_time"> 02:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: Car Plows Into Crowd in Berlin, Killing at Least One 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 17</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
  <p class="updated_time"> 11:57 PM CT, Jun. 07 </p> 
@@ -89,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-sievierodonetsk-donbas.html">Ukraine’s Dilemma: Fight to Hold a Ravaged City, or Pull Back</a> NYT: Sievierodonetsk, now site of the most intense combat, is “dead,” President Volodymyr Zelensky said, but letting it go might be worse than shedding blood to hold it. 
  <p class="updated_time"> 04:18 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/health/monkeypox-masks-cdc.html">Monkeypox Can Be Airborne, Too</a> NYT: An abrupt change in C.D.C. guidance underscores a little-known phenomenon: On occasion, monkeypox can be transmitted through aerosols, similar to the coronavirus. 
- <p class="updated_time"> 04:14 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/africa/ryanair-south-africa-afrikaans.html">Ryanair Asks Travelers to Prove South African Nationality, in Afrikaans</a> NYT: The choice of a language that had been imposed by the apartheid government and is not even spoken by many South Africans today has set off complaints. 
  <p class="updated_time"> 04:04 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103457466/russia-ukraine-war-what-happened-today-june-7">Russia-Ukraine war: What happened today (June 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:59 PM CT, Jun. 07 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
  <p class="updated_time"> 02:25 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey brings dead girl's shoes to White House</a> BBC: The actor backed "responsible gun ownership" after a school shooting in his Texas hometown. 
- <p class="updated_time"> 02:04 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
  <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103493025/european-union-to-require-mobile-devices-to-have-usb-c-ports">The EU will soon require all cellphones to have the same type of charging port</a> NPR: Cellphones and handheld electronic devices in the European Union will be required to have a USB-C charging port by 2024. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
@@ -202,6 +202,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:07 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/general-john-allen-lobbying-qatar.html">Retired General Investigated Over Undisclosed Lobbying for Qatar</a> NYT: Documents show that the Justice Department has records indicating that John Allen, who now heads the Brookings Institution, secretly lobbied for Qatar and lied about it to federal agents. 
+ <p class="updated_time"> 07:56 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/rick-caruso-karen-bass-la-mayor.html">Rick Caruso and Karen Bass Head for Runoff in Los Angeles Mayor’s Race</a> NYT: Mr. Caruso, a billionaire developer who recently left the Republican Party to become a Democrat, will face off against Ms. Bass, a liberal congresswoman, to lead the nation’s second-largest city. 
+ <p class="updated_time"> 07:44 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html">California Sends Democrats and the Nation a Message on Crime</a> NYT: The recall of a progressive prosecutor in San Francisco and the strong showing by a former Republican in the mayor’s race in Los Angeles showed the shifting winds on criminal justice. 
  <p class="updated_time"> 07:25 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1102953329/republicans-turn-to-military-veterans-to-help-flip-control-of-house-in-midterms">Republicans turn to military veterans to help flip control of House in midterms</a> NPR: GOP candidates with military experience are competing in swing districts. After seeing Democrats pick up seats with a similar strategy in 2018 and fielding veterans in 2020, the party sees an opening. 
  <p class="updated_time"> 07:22 AM CT, Jun. 08 </p> 
@@ -217,9 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:11 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103658318/what-california-district-attorney-chesa-boudins-recall-means-for-democrats">What California District Attorney Chesa Boudin's recall means for Democrats</a> NPR: NPR's Leila Fadel speaks with Matt Bennett, co-founder of center-left think tank Third Way, about what the results from California's primary mean for the Democratic party nationwide. 
  <p class="updated_time"> 06:00 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/nassar-fbi-lawsuits.html">Nassar Victims, Including Simone Biles, Suing F.B.I. for Early Investigative Failures</a> NYT: The plaintiffs say Lawrence Nassar abused them after the bureau failed to act. The suits come after the Justice Department declined to prosecute the agents accused of bungling the inquiry. 
- <p class="updated_time"> 05:58 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/rick-caruso-karen-bass-la-mayor.html">Rick Caruso and Karen Bass Head for Runoff in Los Angeles Mayor’s Race</a> NYT: Mr. Caruso, a billionaire developer who recently left the Republican Party to become a Democrat, will face off against Ms. Bass, a liberal congresswoman, to lead the nation’s second-largest city. 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/nassar-fbi-lawsuits.html">Nassar Victims Suing F.B.I. for Early Investigative Failures</a> NYT: The plaintiffs say Lawrence Nassar abused them after the bureau failed to act. The suits come after the Justice Department declined to prosecute the agents accused of bungling the inquiry. 
  <p class="updated_time"> 05:29 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/08/a-bad-night-for-california-progressives-and-donald-trump-00038017"> A bad night for California progressives and Donald Trump</a> Politico Playbook: And new polling reveals a mixed reaction to the Biden administration's proposal to forgive $10,000 in student loan debt for those who make less than $150,000 a year. 
  <p class="updated_time"> 04:01 AM CT, Jun. 08 </p> 
@@ -231,17 +235,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson">Jan. 6 committee Chair Bennie Thompson says the U.S. came close to losing democracy</a> NPR: Fighting for civil rights and three decades in the House have primed Mississippi's Bennie Thompson for the most high-profile moment of his career — leading this month's hearings on Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html">California Sends Democrats and the Nation a Message on Crime</a> NYT: The recall of a progressive prosecutor in San Francisco and the strong showing by a former Republican in the mayor’s race in Los Angeles showed the shifting winds on criminal justice. 
- <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/technology/capital-one-hacker-trial.html">Accused Capital One Hacker Stands Trial for Fraud and Identity Theft</a> NYT: A woman is accused of downloading data of more than 100 million Capital One customers. Her lawyers argue a conviction would criminalize legitimate research practices. 
- <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/gop-campaign-house-elections-00037968">House GOP campaign arm books $52M in fall TV ads</a> Politico: Most of the NRCC's money is targeting House Democratic incumbents, as Republicans fight to flip the majority. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/house-senate-gop-split-over-jan-6-strategy-00037900">The latest House-Senate GOP split: How to respond to Jan. 6 hearings</a> Politico: One chamber's Republicans want to fight the select committee messaging that will go on blast this month. Their colleagues across the Capitol plan to ignore it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/abortion-survey-in-battleground-gov-races-00036466">Abortion access could soon be decided by the states. Here’s what the next governors say.</a> Politico: POLITICO asked leading gubernatorial candidates in seven battleground states to explain where they stand on one of the most contentious issues of the 2022 midterms. 
+ <a href="https://www.politico.com/news/2022/06/08/gop-campaign-house-elections-00037968">House GOP campaign arm books $52M in fall TV ads</a> Politico: Most of the NRCC's money is targeting House Democratic incumbents, as Republicans fight to flip the majority. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/mccormick-casey-pennsylvania-election-2024-00037938">The first big Senate race of 2024 takes shape</a> Politico: Pennsylvania Democrat Bob Casey could get a challenge from Republican David McCormick. 
+ <a href="https://www.politico.com/news/2022/06/08/mccormick-casey-pennsylvania-election-2024-00037938">GOP sets its sights on Bob Casey’s Senate seat</a> Politico: Pennsylvania Democrat Bob Casey could get a challenge from Republican David McCormick. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/abortion-survey-in-battleground-gov-races-00036466">Abortion access could soon be decided by the states. Here’s what the next governors say.</a> Politico: POLITICO asked leading gubernatorial candidates in seven battleground states to explain where they stand on one of the most contentious issues of the 2022 midterms. 
  <p class="updated_time"> 02:37 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/gavin-newsom-california-primary.html">Gavin Newsom Wins California Primary, Eyes Fall Re-Election Race</a> NYT: California’s governor was given a boost by last year’s failed recall effort, which effectively gave him an extra year to campaign. 
  <p class="updated_time"> 02:05 AM CT, Jun. 08 </p> 
@@ -272,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/mississippi-steven-palazzo-runoff.html">Representative Steven Palazzo is forced into a runoff in Mississippi.</a> NYT: Mr. Palazzo, a Republican who has represented the state’s Fourth Congressional District since 2011, is being investigated by the House Ethics Committee. 
  <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
- <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/general-john-allen-lobbying-qatar.html">Retired General Investigated Over Undisclosed Lobbying for Qatar</a> NYT: Documents show that the Justice Department has records indicating that John Allen, who now heads the Brookings Institution, secretly lobbied for Qatar and lied about it to federal agents. 
  <p class="updated_time"> 08:55 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/hochul-suozzi-williams-first-governor-debate-new-york-00037980">Hochul plays it cool as Suozzi, Williams attack in first New York governor debate</a> Politico: There was little cross talk or active arguing, but Williams and Suozzi stayed sharp in their critiques of Hochul’s nine short months in office. 
  <p class="updated_time"> 08:45 PM CT, Jun. 07 </p> 
@@ -324,8 +324,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/karen-bass-rick-caruso-la-mayor.html">Karen Bass Faces a Battle With Rick Caruso for Los Angeles Mayor</a> NYT: The congresswoman was poised to win the top job in the nation’s second-largest city until a billionaire entered the race with a tough-on-crime campaign. 
  <p class="updated_time"> 01:17 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/montana-how-to-vote.html">Montana: How to Vote, Where to Vote and What’s on the Ballot Today</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
+ <p class="updated_time"> 12:15 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/jan-6-committee-interviews-head-of-trumps-secret-service-detail-on-day-of-capitol-attack-00037748">Jan. 6 committee interviews head of Trump's Secret Service detail on day of Capitol attack</a> Politico: Given the importance of trust in their relationships with protectees, agents generally feel deep discomfort when fielding investigators’ questions. 
  <p class="updated_time"> 11:30 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/why-california-voters-can-choose-any-primary-candidate-republican-or-democrat.html">California Voters Have Top Two Open Primary Election on Tuesday</a> NYT: The state has had a top-two system for a decade with a goal of electing more moderate officials, but it may work better in theory than practice. 
+ <p class="updated_time"> 11:04 AM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/massachusetts-governor-race-maura-healey-00037723">Enough with Trumpism: Mass. Dems rally to Healey in governor's race</a> Politico: “People don’t want ... Donald Trump acolytes or supporters in office. That’s why people are being very clear-eyed about who they support," one Democratic consultant said. 
  <p class="updated_time"> 10:14 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/mississippi-how-to-vote.html">Mississippi: How to Vote, Where to Vote and What’s on the Ballot</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 10:08 AM CT, Jun. 07 </p> 
@@ -356,8 +360,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/07/south-texas-election-ad-00037595">Democrats go on air in South Texas special</a> Politico: House Majority PAC is launching a TV ad buy ahead of the June 14 contest to replace former Democratic Rep. Filemon Vela, who resigned. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
- <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/california-primary-what-to-watch-00037645">California’s test on crime, House members in danger and more: What to watch in Tuesday’s primaries</a> Politico: Tough-on-crime messaging has dominated races in California and beyond. 
+ <p class="updated_time"> 05:00 PM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/lawmakers-dod-stalled-cruise-missile-decision-00037547">Lawmakers threaten DoD's No. 2 over 'stalled' cruise missile decision</a> Politico: A House panel wants the Pentagon to designate an office to oversee cruise missile defense. 
  <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/garcetti-allies-tried-to-put-the-screws-to-mark-kelly-it-may-have-backfired-00037536">Garcetti allies tried to put the screws to Mark Kelly. It may have backfired.</a> Politico: It’s been more than a year since the LA mayor was nominated. The attempts to break the logjam are getting more aggressive. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
@@ -370,6 +374,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/06/06/gun-violence-still-tops-to-do-list-in-congress-00037344">Make-or-break week for Senate gun talks</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/rick-caruso-billionaire-los-angeles-mayoral-race-00037202">How a billionaire mall magnate pulled ahead in the Los Angeles mayoral race</a> Politico: Rick Caruso is best known as the developer of luxury retail. Will his message on crime propel him to city hall? 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/05/democracy-week-in-washington-00037266"> Democracy week in Washington</a> Politico Playbook: And Russian missiles strike Kyiv. 
  <p class="updated_time"> 10:40 AM CT, Jun. 05 </p> 
