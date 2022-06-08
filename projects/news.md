@@ -9,54 +9,60 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Jun. 08 </p> 
+ <a href="https://www.npr.org/2022/06/08/1103766334/shrinkflation-globally-manufacturers-shrink-package-sizes">'Shrinkflation' accelerates globally as manufacturers quietly shrink package sizes</a> NPR: Shrinkflation isn't new, experts say. But it proliferates in times of high inflation as companies grapple with rising costs for ingredients, packaging, labor and transportation. 
  <p class="updated_time"> 02:39 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Plows Into a School Group in Berlin, Killing 1 and Injuring 14</a> NYT: A teacher was killed and those hurt were students traveling with her. The driver was described as “mentally impaired,” and police are investigating whether the crash was intentional. 
+ <p class="updated_time"> 02:33 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
  <p class="updated_time"> 02:28 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 02:21 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 02:02 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
  <p class="updated_time"> 02:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
- <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 01:41 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61736179?at_medium=RSS&at_campaign=KARANGA">Is Russia exporting grain from Ukraine?</a> BBC: Much Ukrainian grain is stuck in silos, while Russia reportedly ships some cargoes from Crimea. 
  <p class="updated_time"> 01:37 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Survivor, 11, testifies before US lawmakers</a> BBC: Miah Cerillo, 11, told a lawmakers about her harrowing experience surviving the school shooting. 
+ <p class="updated_time"> 01:21 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 12:53 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: Teacher dead and pupils hurt as car hits crowd</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
- <p class="updated_time"> 12:44 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
+ <p class="updated_time"> 12:21 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
- <p class="updated_time"> 11:44 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">Iran Turns Off Nuclear-Monitoring Cameras Ahead of IAEA Censure Vote</a> WSJ: Iran Turns Off Nuclear-Monitoring Cameras Ahead of IAEA Censure Vote 
+ <p class="updated_time"> 11:21 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Philippe laments racism of colonial past</a> BBC: King Philippe is on a week-long visit to DR Congo at the invitation of President Félix Tshisekedi. 
  <p class="updated_time"> 10:46 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
- <p class="updated_time"> 10:44 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 10:43 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61736763?at_medium=RSS&at_campaign=KARANGA">Harvey Weinstein to be charged with indecent assault in UK</a> BBC: The Metropolitan Police has been authorised to charge the 70-year-old former Hollywood producer. 
+ <p class="updated_time"> 10:25 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: President Biden is expected to sign a joint migration declaration and lay out an economic-recovery agenda in the aftermath of the Covid-19 pandemic. 
+ <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
  <p class="updated_time"> 10:19 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
- <p class="updated_time"> 09:44 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 09:34 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
  <p class="updated_time"> 09:26 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/middleeast/netanyahu-israel-settlers.html">Netanyahu’s Plan to Regain Power in Israel: Vote Against His Views</a> NYT: To topple Israel’s government, Benjamin Netanyahu, the former prime minister, is voting down its initiatives — even if he agrees with them. 
+ <p class="updated_time"> 09:08 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-k-to-embrace-stricter-standards-around-sanctions-enforcement-11654711719">U.K. to Embrace Stricter Standards Around Sanctions Enforcement</a> WSJ: The U.K. is set to begin stricter enforcement of the country’s economic sanctions measures next week following legislation passed in the wake of Russia’s invasion of Ukraine. 
  <p class="updated_time"> 08:56 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61732548?at_medium=RSS&at_campaign=KARANGA">APC presidential primary: Who is Nigeria's Bola Tinubu?</a> BBC: Bola Tinubu, 70, will lead Nigeria's ruling APC into presidential elections next February. 
  <p class="updated_time"> 08:49 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103664950/fluke-ekren-guilty-isis-female-battalion">A U.S. woman pleads guilty to leading an all-female ISIS battalion</a> NPR: Allison Fluke-Ekren admitted to operating an all-female ISIS military group and training women and girls on how to use explosive devices. 
- <p class="updated_time"> 08:36 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: President Biden is expected to sign a joint migration declaration and lay out an economic-recovery agenda in the aftermath of the Covid-19 pandemic. 
  <p class="updated_time"> 07:55 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/ryanair-south-africa-afrikaans.html">Ryanair Asks Travelers to Prove South African Nationality, in Afrikaans</a> NYT: The choice of a language that had been imposed by the apartheid government and is not even spoken by many South Africans today has set off complaints. 
  <p class="updated_time"> 07:51 AM CT, Jun. 08 </p> 
@@ -99,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv">A big 32-hour workweek test is underway. Supporters think it could help productivity</a> NPR: A pilot of more than 3,300 workers in the U.K. is testing a theory about work. Can people in various industries remain as productive if they just work 32 hours a week with the same pay as 40 hours? 
- <p class="updated_time"> 07:08 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61079265?at_medium=RSS&at_campaign=KARANGA">Kenyan mothers choose between work and their babies</a> BBC: Nutritionist Sophy Saronge knew she should breastfeed her baby for six months but says she had to work. 
  <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
@@ -157,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/asia/china-college-entrance-exams-covid.html">China Tries to Keep Covid Out of Its Grueling College Entrance Exams</a> NYT: Some students have to travel from locked-down areas to testing sites in special vehicles, while others might be isolated for the exam. 
  <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/no-confidence-vote-theresa-may.html">Theresa May and Others Who Survived No-Confidence Votes Didn’t Last Long After</a> NYT: Two previous Conservative prime ministers were ultimately forced out, and one lost a landslide election two years later. 
- <p class="updated_time"> 06:43 AM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/2022/06/07/1103453336/figure-skating-age-limits-kamila-valieva">Figure skaters' minimum age for top competitions will rise to 17 after scandal</a> NPR: The move comes months after Russia's Kamila Valieva, then 15, was caught in a storm of controversy at the Beijing Winter Olympics. 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
@@ -210,6 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/pence-adviser-testify-jan-6-committee-00038206">Senior Pence adviser to testify before Jan. 6 committee</a> Politico: Gregory Jacob, who's expected to appear June 16, helped Mike Pence fend off efforts by Donald Trump and allies to disrupt the transition of presidential power. 
+ <p class="updated_time"> 02:42 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/california-primary-south-dakota.html">Four Names to Keep an Eye On in Tuesday’s Elections</a> NYT: In California, two House Republicans face tough primaries, and Los Angeles voters could elevate a conservative billionaire to lead the city. In South Dakota, a congressman faces a right-wing challenge. 
+ <p class="updated_time"> 02:32 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/california-bill-enshrine-abortion-rights-constitution-00038106">With Roe likely to fall, California lawmakers move to enshrine it in their constitution</a> Politico: The proposed constitutional amendment is up against a tight deadline and needs supermajority approval to make it on the November ballot. 
  <p class="updated_time"> 02:31 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/nassar-fbi-lawsuits.html">Nassar Victims Suing F.B.I. for Early Investigative Failures</a> NYT: The plaintiffs say the former U.S.A. Gymnastics doctor abused them after the bureau failed to act. The suits come after the Justice Department declined to prosecute the agents accused of bungling the inquiry. 
  <p class="updated_time"> 02:29 PM CT, Jun. 08 </p> 
@@ -285,11 +293,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/technology/capital-one-hacker-trial.html">Accused Capital One Hacker Stands Trial for Fraud and Identity Theft</a> NYT: A woman is accused of downloading data of more than 100 million Capital One customers. Her lawyers argue a conviction would criminalize legitimate research practices. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/mccormick-casey-pennsylvania-election-2024-00037938">GOP sets its sights on Bob Casey’s Senate seat</a> Politico: Pennsylvania Democrat Bob Casey could get a challenge from Republican David McCormick. 
+ <a href="https://www.politico.com/news/2022/06/08/house-senate-gop-split-over-jan-6-strategy-00037900">The latest House-Senate GOP split: How to respond to Jan. 6 hearings</a> Politico: One chamber's Republicans want to fight the select committee messaging that will go on blast this month. Their colleagues across the Capitol plan to ignore it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/abortion-survey-in-battleground-gov-races-00036466">Abortion access could soon be decided by the states. Here’s what the next governors say.</a> Politico: POLITICO asked leading gubernatorial candidates in seven battleground states to explain where they stand on one of the most contentious issues of the 2022 midterms. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/house-senate-gop-split-over-jan-6-strategy-00037900">The latest House-Senate GOP split: How to respond to Jan. 6 hearings</a> Politico: One chamber's Republicans want to fight the select committee messaging that will go on blast this month. Their colleagues across the Capitol plan to ignore it. 
+ <a href="https://www.politico.com/news/2022/06/08/mccormick-casey-pennsylvania-election-2024-00037938">GOP sets its sights on Bob Casey’s Senate seat</a> Politico: Pennsylvania Democrat Bob Casey could get a challenge from Republican David McCormick. 
  <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/gop-campaign-house-elections-00037968">House GOP campaign arm books $52M in fall TV ads</a> Politico: Most of the NRCC's money is targeting House Democratic incumbents, as Republicans fight to flip the majority. 
  <p class="updated_time"> 02:37 AM CT, Jun. 08 </p> 
@@ -304,18 +312,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:17 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-endorsed-candidates-2022-primary-result-00037416">Trump endorsed 16 candidates in Tuesday’s primaries. Here are the winners.</a> Politico: The former president ran the table with his endorsements Tuesday. But he largely backed candidates who were likely to win anyway. 
- <p class="updated_time"> 01:08 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/trump-primary-takeaways-00038010">Trump hits another snag: 6 takeaways from a big primary night</a> Politico: Some of the former president's least favorite Republicans survived their primaries. But in California, Democrats appear to have a turnout problem. 
- <p class="updated_time"> 01:00 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/katie-porter-scott-baugh-california.html">Katie Porter Will Face Scott Baugh in the Fall.</a> NYT: Ms. Porter, widely seen as a future Senate contender, would have her shine dimmed by a loss in a closely watched House race. 
- <p class="updated_time"> 12:31 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/la-mayors-race-bass-and-caruso-to-face-off-in-november-00038004">LA mayor’s race: Bass and Caruso to face off in November</a> Politico: Despite an aggressive primary campaign, the billionaire mall magnate didn’t win outright. 
- <p class="updated_time"> 11:42 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/08/establishment-candidates-prevail-in-new-jersey-house-primaries-00037987">Establishment candidates cruise to victory in New Jersey congressional primaries</a> Politico: Tuesday's low-turnout primary set the stage for a November general election that has Democrats nationally fretting as they try to maintain their slim control of the House. 
  <p class="updated_time"> 11:17 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/08/chesa-boudin-san-francisco-district-attorney-recall-00038002">San Francisco district attorney ousted in recall election</a> Politico: Chesa Boudin was toppled by a campaign fueled by crime concerns and funded by business groups. 
- <p class="updated_time"> 11:08 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/new-jersey-moderate-party.html">New Jersey Centrists Seek to Legalize Their Dream: The Moderate Party</a> NYT: A bipartisan alliance is trying to topple the state’s ban on fusion voting, a system under which third-party groups like the Working Families Party in New York have gained influence. 
  <p class="updated_time"> 10:41 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-republican-primary-mark-ronchetti.html">In New Mexico's Governor Race, Republicans’ Pick a Former TV Meteorologist</a> NYT: Mr. Ronchetti will challenge Gov. Michelle Lujan Grisham, a Democrat, in the general election. 
  <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
@@ -330,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">House Republicans face primary danger</a> Politico: Voters also nominated a slate of battleground candidates across seven states and issued verdicts on major public safety-themed campaigns in California. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-summit-los-angeles.html">Biden to Host Latin American Leaders at Summit in Los Angeles</a> NYT: The president is already the subject of a boycott by some of the region’s most important heads of state, and his agenda is being met with deep skepticism. 
- <p class="updated_time"> 06:00 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/california-primary-south-dakota.html">Four Names to Keep an Eye On in Tuesday’s Elections</a> NYT: In California, two House Republicans face tough primaries, and Los Angeles voters could elevate a conservative billionaire to lead the city. In South Dakota, a congressman faces a right-wing challenge. 
  <p class="updated_time"> 05:07 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/jan-6-hearings-watch-tv-channel.html">How to Watch the Jan. 6 Committee Hearings</a> NYT: The first of several upcoming hearings by the House committee investigating the attack on the Capitol will be held on Thursday evening. 
  <p class="updated_time"> 04:12 PM CT, Jun. 07 </p> 
@@ -348,8 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103569599/what-the-jan-6-hearings-have-in-common-with-the-watergate-hearings">What the Jan. 6 hearings have in common with the Watergate hearings</a> NPR: The upcoming hearings regarding the Jan. 6 riot at the U.S. Capitol are reminiscent of another watershed political event: the 1973 Watergate hearings. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569578/senators-return-to-gun-law-talks-following-a-weekend-of-mass-shootings-in-8-stat">Senators return to gun law talks following a weekend of mass shootings in 8 states</a> NPR: Senators say they're inching closer to a bipartisan agreement on strengthening the nation's gun laws. They returned to Washington after a weekend in which mass shootings occurred in eight states. 
- <p class="updated_time"> 03:09 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 03:01 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/matthew-mcconaughey-gun-reform-00037851">Matthew McConaughey at the White House on gun reform: 'We start by making the loss of these lives matter'</a> Politico: The actor called for several measures after the mass shooting at a school in his hometown of Uvalde, Texas. 
  <p class="updated_time"> 12:15 PM CT, Jun. 07 </p> 
