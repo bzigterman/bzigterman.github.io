@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Crashes Into a Berlin Crowd, Killing 1 and Injuring a Dozen</a> NYT: The police have arrested the driver of the car and opened an investigation into whether the crash was accidental or intentional. 
  <p class="updated_time"> 06:05 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/australia/australias-baby-steps-toward-severing-ties-with-the-queen.html">Australia’s Baby Steps Toward Severing Ties With the Queen</a> NYT: The new Labor government has established a ministerial position to begin the process of making the country a republic. But the idea is far from the top of its agenda. 
  <p class="updated_time"> 05:55 AM CT, Jun. 08 </p> 
@@ -19,16 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: One dead and others hurt as car drives into pedestrians</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
  <p class="updated_time"> 05:33 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
+ <p class="updated_time"> 05:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:24 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61729101?at_medium=RSS&at_campaign=KARANGA">Train derailment in eastern Iran kills 21</a> BBC: Dozens more people were injured after the train hit an excavator near the track, officials say. 
- <p class="updated_time"> 05:21 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Crashes Into a Berlin Crowd, Killing 1 and Injuring a Dozen</a> NYT: The police have arrested the driver of the car and opened an investigation into whether the crash was accidental or intentional. 
- <p class="updated_time"> 05:16 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-turkey-hold-high-stakes-talks-on-safe-passage-for-ukraines-grain-11654677099">Russia, Turkey Hold Talks on Safe Passage for Ukraine’s Grain</a> WSJ: Russia, Turkey Hold Talks on Safe Passage for Ukraine’s Grain 
+ <p class="updated_time"> 04:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-turkey-hold-high-stakes-talks-on-safe-passage-for-ukraines-grain-11654677099">Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough</a> WSJ: Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough 
  <p class="updated_time"> 04:17 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61731562?at_medium=RSS&at_campaign=KARANGA">Florida: Bodycam footage shows officials borrowing boat to chase suspected thief</a> BBC: Footage shows officials taking to the water to detain a man in the US state of Florida. 
- <p class="updated_time"> 04:16 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 04:01 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103531149/biden-is-hosting-the-summit-of-the-americas-but-mexicos-president-wont-be-there">Biden is hosting the Summit of the Americas, but Mexico's president won't be there</a> NPR: The Summit of the Americas was supposed to be a chance for the United States to make progress with its neighbors on migration and other big issues. But several key players won't be at the table. 
  <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
@@ -39,28 +39,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/magazine/george-w-bush-russia-war-iraq.html">When George W. Bush Confused Russia’s War in Ukraine With Iraq</a> NYT: A viral gaffe by the former president offers a dark reminder of America’s foreign-policy hypocrisies. 
  <p class="updated_time"> 03:54 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103286987/these-russian-couples-didnt-plan-to-get-married-the-ukraine-war-changed-their-mi">These Russian couples didn't plan to get married. The Ukraine war changed their minds</a> NPR: More couples — including those who stayed in Russia and those who fled — are urgently marrying, for reasons both practical and deeply emotional. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: Russian Invasion Expected to Keep Inflation High in Rich Countries 
  <p class="updated_time"> 03:23 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">Sweden’s NATO Bid Gets Tangled Up in a Domestic Political Dispute</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join the military alliance. 
- <p class="updated_time"> 03:16 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
  <p class="updated_time"> 02:57 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103649468/russias-lavrov-in-turkey-to-discuss-plan-to-ship-ukrainian-grain">Russia's Lavrov in Turkey to discuss plan to ship Ukrainian grain</a> NPR: The talks scheduled for Wednesday aim to unlock an estimated 22 million tons of grains sitting in silos in Ukraine. 
- <p class="updated_time"> 02:16 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
+ <p class="updated_time"> 02:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 17</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
  <p class="updated_time"> 01:57 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: A spokesman for Berlin’s police said it was too early to determine whether the crash was an accident or a deliberate attack. 
- <p class="updated_time"> 01:53 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: The Organization for Economic Cooperation and Development revised down its expectations for global growth and called on western governments to act promptly to get food to those in need. 
- <p class="updated_time"> 01:16 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
- <p class="updated_time"> 12:30 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine's Front-Line Cities Into Ghost Towns</a> WSJ: As Moscow’s forces push west, seeking to dislodge Ukrainians from their positions and seize control of the country’s east, residents are fleeing in droves, aided by volunteers who risk their lives to ferry them out. 
  <p class="updated_time"> 11:57 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61670661?at_medium=RSS&at_campaign=KARANGA">North Korea could carry out nuclear tests 'any time', warns US official</a> BBC: His comments come as Pyongyang tested eight missiles on Sunday - the highest daily record so far. 
- <p class="updated_time"> 11:56 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: Over two years, firms and technical experts from China’s military will build and renovate a number of structures at the facility, with the revamp funded by a Chinese grant. 
  <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 09:58 PM CT, Jun. 07 </p> 
@@ -151,6 +143,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: The British prime minister sought to rally his party behind him following an effort by his fellow Conservative lawmakers to oust him. 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
+ <p class="updated_time"> 05:34 AM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden's NATO Bid Rattles Kurdish Diaspora</a> WSJ: Turkey is blocking Sweden’s bid to join NATO over Stockholm’s contacts with Kurdish groups hoping to carve out a homeland straddling the borders of Turkey and Syria. 
  <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
@@ -208,10 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-omicron-variant.html">Revised Moderna Vaccine Works Better Against Omicron, Trial Suggests</a> NYT: The findings indicate that the updated vaccine produced a significantly stronger immune response against Omicron, but it is unclear how it will fare against future versions of the virus. 
  <p class="updated_time"> 06:11 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103658318/what-california-district-attorney-chesa-boudins-recall-means-for-democrats">What California District Attorney Chesa Boudin's recall means for Democrats</a> NPR: NPR's Leila Fadel speaks with Matt Bennett, co-founder of center-left think tank Third Way, about what the results from California's primary mean for the Democratic party nationwide. 
- <p class="updated_time"> 06:02 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-omicron-variant.html">Revised Moderna Vaccine Works Better Against Omicron, Trial Suggests</a> NYT: New findings indicate that the updated vaccine produced a significantly stronger immune response against Omicron than the existing vaccine. But it is unclear how it will fare against future versions of the virus. 
  <p class="updated_time"> 06:00 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/nassar-fbi-lawsuits.html">Nassar Victims Suing F.B.I. for Early Investigative Failures</a> NYT: The plaintiffs say Lawrence Nassar abused them after the bureau failed to act. The suits come after the Justice Department declined to prosecute the agents accused of bungling the inquiry. 
  <p class="updated_time"> 05:58 AM CT, Jun. 08 </p> 
