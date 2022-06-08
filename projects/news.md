@@ -9,12 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:19 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
+ <p class="updated_time"> 10:43 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
+ <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
+ <p class="updated_time"> 09:58 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
+ <p class="updated_time"> 09:43 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
+ <p class="updated_time"> 09:04 PM CT, Jun. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61727730?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Wounded teacher condemns police as cowards</a> BBC: Arnulfo Reyes lost 11 of his students in the gun attack on a primary school in Uvalde, Texas. 
+ <p class="updated_time"> 08:43 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv">A big 32-hour workweek test is underway. Supporters think it could help productivity</a> NPR: A pilot of more than 3,300 workers in the U.K. is testing a theory about work. Can people in various industries remain as productive if they just work 32 hours a week with the same pay as 40 hours? 
  <p class="updated_time"> 07:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
- <p class="updated_time"> 07:40 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 07:08 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
@@ -22,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61717373?at_medium=RSS&at_campaign=KARANGA">Tove Styrke is sick of the Spotify song formula</a> BBC: The Swedish star explains why she's rejected the slick, corporate Spotify sound to follow her gut. 
  <p class="updated_time"> 06:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
+ <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 06:33 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667500?at_medium=RSS&at_campaign=KARANGA">Irpin: Russia's reign of terror in a quiet neighbourhood near Kyiv</a> BBC: A handful of streets in a leafy town on Kyiv's doorstep were subjected to weeks of deadly occupation. 
  <p class="updated_time"> 06:13 PM CT, Jun. 07 </p> 
@@ -35,14 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/boris-johnson-no-confidence.html">What’s Next for Boris Johnson After Narrowly Surviving No-Confidence Vote</a> NYT: After narrowly winning a no-confidence vote on Monday, Prime Minister Boris Johnson faces a long list of threats to his leadership. 
  <p class="updated_time"> 06:01 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61722849?at_medium=RSS&at_campaign=KARANGA">If I go back to Iran, my husband will kill me</a> BBC: Human rights activists say the number of reported so-called 'honour killings' in Iran is rising 
- <p class="updated_time"> 05:54 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 05:50 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61727520?at_medium=RSS&at_campaign=KARANGA">Kansas woman admits to training all-female IS battalion in Syria</a> BBC: Allison Fluke-Ekren admitted to leading an all-female IS unit in Syria and plotting attacks on the US. 
- <p class="updated_time"> 05:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
- <p class="updated_time"> 04:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 04:26 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/ukraine-sievierodonetsk-donbas.html">Ukraine’s Dilemma: Fight to Hold a Ravaged City, or Pull Back</a> NYT: Sievierodonetsk, now site of the most intense combat, is “dead,” President Volodymyr Zelensky said, but letting it go might be worse than shedding blood to hold it. 
  <p class="updated_time"> 04:18 PM CT, Jun. 07 </p> 
@@ -63,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569585/russia-is-still-blocking-key-ukrainian-port-as-fighting-continues-in-ukraines-ea">Russia is still blocking key Ukrainian port as fighting continues in Ukraine's east</a> NPR: There's intense fighting in the east of Ukraine, new information on a Ukrainian city under Russian occupation, and a possible cholera outbreak in Mariupol. 
- <p class="updated_time"> 03:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 03:28 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 03:23 PM CT, Jun. 07 </p> 
@@ -80,7 +84,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:33 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
  <p class="updated_time"> 02:25 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey shows dead girl's shoes at White House</a> BBC: The actor spoke at the White House to advocate for "responsible gun ownership". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey shows dead girl's shoes at White House</a> BBC: The actor spoke to back "responsible gun ownership" after a school shooting in his Texas hometown. 
  <p class="updated_time"> 02:04 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
  <p class="updated_time"> 01:17 PM CT, Jun. 07 </p> 
@@ -89,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">A Domestic Political Fight in Sweden Gets Embroiled in Geopolitics</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join NATO. 
  <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103493025/european-union-to-require-mobile-devices-to-have-usb-c-ports">The EU will soon require all cellphones to have the same type of charging port</a> NPR: Cellphones and handheld electronic devices in the European Union will be required to have a USB-C charging port by 2024. 
- <p class="updated_time"> 11:58 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
  <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
  <p class="updated_time"> 03:54 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103444332/u-s-seeks-to-seize-2-luxury-jets-linked-to-russian-oligarch">U.S. seeks to seize 2 luxury jets linked to Russian oligarch</a> NPR: The action takes place just days after the United States announced new sanctions and penalties on Russian oligarchs and elites, Kremlin officials, businessmen linked to President Vladimir Putin. 
- <p class="updated_time"> 03:35 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61715843?at_medium=RSS&at_campaign=KARANGA">Li Jiaqi: China Lipstick King sparks Tiananmen questions</a> BBC: Livestreamer Li Jiaqi is yet to reappear after an apparent reference to the massacre on his show. 
  <p class="updated_time"> 03:33 AM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/gupta-brothers-arrested-in-dubai-offering-relief-for-south-africas-embattled-president-11654605219">Gupta Brothers Arrested in Dubai, Offering Relief for South Africa's Embattled President</a> WSJ: Dubai police arrested two brothers at the center of a sprawling government graft scandal in South Africa, offering some relief to that country’s embattled president, Cyril Ramaphosa, and his sputtering anticorruption drive. 
  <p class="updated_time"> 03:26 AM CT, Jun. 07 </p> 
@@ -200,12 +200,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:39 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/us/election-california-primary-new-jersey/mark-ronchetti-a-former-tv-meteorologist-is-republicans-pick-for-new-mexico-governor">Mark Ronchetti, a former TV meteorologist, is Republicans’ pick for New Mexico governor.</a> NYT: Mr. Ronchetti will challenge Gov. Michelle Lujan Grisham, a Democrat, in the general election. 
+ <p class="updated_time"> 11:19 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/chesa-boudin-recall-san-francisco.html">Chesa Boudin Ousted in District Attorney Recall</a> NYT: Mr. Boudin, who had eliminated cash bail and sought to reduce the prison population, was removed in a vote that is set to reverberate through Democratic politics across the country. 
+ <p class="updated_time"> 11:17 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/chesa-boudin-san-francisco-district-attorney-recall-00038002">San Francisco DA ousted in recall election</a> Politico: Chesa Boudin was toppled by a campaign fueled by crime concerns and funded by business groups. 
+ <p class="updated_time"> 11:13 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/gavin-newsom-california-primary.html">Gavin Newsom Wins California Primary, Eyes Fall Re-Election Race</a> NYT: California’s governor was given a boost by last year’s failed recall effort, which effectively gave him an extra year to campaign. 
+ <p class="updated_time"> 11:08 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/new-jersey-moderate-party.html">New Jersey Centrists Seek to Legalize Their Dream: The Moderate Party</a> NYT: A bipartisan alliance is trying to topple the state’s ban on fusion voting, a system under which third-party groups like the Working Families Party in New York have gained influence. 
+ <p class="updated_time"> 10:41 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-republican-primary-mark-ronchetti.html">In New Mexico's Governor Race, Republicans’ Pick a Former TV Meteorologist</a> NYT: Mr. Ronchetti will challenge Gov. Michelle Lujan Grisham, a Democrat, in the general election. 
+ <p class="updated_time"> 10:40 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/mississippi-steven-palazzo-runoff.html">Representative Steven Palazzo is forced into a runoff in Mississippi.</a> NYT: Mr. Palazzo, a Republican who has represented the state’s Fourth Congressional District since 2011, is being investigated by the House Ethics Committee. 
+ <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
+ <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/general-john-allen-lobbying-qatar.html">Retired General Investigated Over Undisclosed Lobbying for Qatar</a> NYT: Documents show that the Justice Department has records indicating that John Allen, who now heads the Brookings Institution, secretly lobbied for Qatar and lied about it to federal agents. 
+ <p class="updated_time"> 08:55 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/hochul-suozzi-williams-first-governor-debate-new-york-00037980">Hochul plays it cool as Suozzi, Williams attack in first New York governor debate</a> Politico: There was little cross talk or active arguing, but Williams and Suozzi stayed sharp in their critiques of Hochul’s nine short months in office. 
+ <p class="updated_time"> 08:45 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/07/fbi-general-data-qatar-lobbying-00037982">FBI seizes retired general's data related to Qatar lobbying</a> Politico: Federal court filings outlined a potential criminal case against former Marine Gen. John R. Allen. 
  <p class="updated_time"> 07:38 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103577387/matthew-mcconaughey-green-converse-shoes-sneakers-uvalde-maite-rodriguez">The story of a Uvalde victim's green shoes captures the White House's attention</a> NPR: Maite Rodriguez, a lover of animals and the environment, dreamed of being a marine biologist. She was killed during the school shooting in Uvalde, Texas. 
  <p class="updated_time"> 06:51 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">Battleground candidates take the field as GOP drives to flip the House</a> Politico: Tuesday's primaries include House incumbents in danger, swing-seat voters picking nominees and criminal justice-themed campaigns across California. 
+ <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">Public safety weighs on California races as San Francisco boots D.A.</a> Politico: Several Republican members of Congress are also facing difficult primaries as voters in seven states head to the polls. 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/business/media/fox-jan-6-hearings.html">Fox News Doesn’t Plan to Carry Jan. 6 Hearings Live</a> NYT: Its sister network, the lower-rated Fox Business, will carry live coverage, while star prime-time hosts like Tucker Carlson and Sean Hannity will proceed as usual. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
@@ -236,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103569599/what-the-jan-6-hearings-have-in-common-with-the-watergate-hearings">What the Jan. 6 hearings have in common with the Watergate hearings</a> NPR: The upcoming hearings regarding the Jan. 6 riot at the U.S. Capitol are reminiscent of another watershed political event: the 1973 Watergate hearings. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569578/senators-return-to-gun-law-talks-following-a-weekend-of-mass-shootings-in-8-stat">Senators return to gun law talks following a weekend of mass shootings in 8 states</a> NPR: Senators say they're inching closer to a bipartisan agreement on strengthening the nation's gun laws. They returned to Washington after a weekend in which mass shootings occurred in eight states. 
- <p class="updated_time"> 03:25 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/new-jersey-moderate-party.html">New Jersey Centrists Seek to Legalize Their Dream: The Moderate Party</a> NYT: A bipartisan alliance is trying to topple the state’s ban on fusion voting, a system under which third-party groups like the Working Families Party in New York have gained influence. 
  <p class="updated_time"> 03:20 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">From Benghazi to Raqqa, a Kansas Woman Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
  <p class="updated_time"> 03:09 PM CT, Jun. 07 </p> 
@@ -248,8 +264,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103544820/senate-gun-law-negotiators-working-toward-a-deal-by-the-end-of-the-week">Senate gun law negotiators working toward a deal by the end of the week</a> NPR: Negotiations have narrowed proposals to address school safety, standards for safe gun storage, federal support for mental health programs and incentives for states to create red flag laws. 
  <p class="updated_time"> 02:38 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/inflation-yellen.html">Yellen Defends Pandemic Spending as Inflation Persists</a> NYT: The Treasury secretary’s recent comments about rising prices have put the Biden administration on the defensive. 
- <p class="updated_time"> 02:22 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/yellen-us-curb-russia-oil-revenue-00037779">Yellen: U.S. working with allies to curb Russia's oil revenue</a> Politico: Yellen told the Senate Finance Committee that it was a desirable strategy to implement a cap on prices for Russian oil. 
  <p class="updated_time"> 02:05 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/south-dakota-how-to-vote.html">South Dakota: How to Vote, Where to Vote and What’s on the Ballot</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 02:00 PM CT, Jun. 07 </p> 
@@ -281,7 +295,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:15 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-how-to-vote.html">New Mexico: How to Vote, Where to Vote and What’s on the Ballot</a> NYT: Not sure if you can vote? Can’t find your ballot? Have your ballot but don’t know where to put it? Relax. Here is a handy, last-minute guide. 
  <p class="updated_time"> 07:41 AM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/2022/06/07/1102533859/california-governor-primary-election-newsom-democrat-republican">In California, Newsom runs for reelection 9 months after defeating a recall attempt</a> NPR: In 2021, the GOP forced Democratic Gov. Gavin Newsom into a recall election. After a decisive victory, he's seeking another four years in office while facing high inflation and chronic homelessness. 
+ <a href="https://www.npr.org/2022/06/07/1102533859/california-governor-primary-election-newsom-democrat-republican">Democrat Gavin Newsom to face Republican Brian Dahle in California race for governor</a> NPR: After swiftly grabbing the top spot in the "top two" primary on Tuesday, California Gov. Gavin Newsom is favored to win reelection in November over Republican state Sen. Brian Dahle. 
  <p class="updated_time"> 07:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/07/lucky-sevens-its-primary-day-00037677">Lucky sevens: It's primary day</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:03 AM CT, Jun. 07 </p> 
@@ -291,7 +305,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:03 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103363218/iowa-senate-democratic-primary-finkenauer-franken-grassley">Iowa's Finkenauer aims for a return to Congress, this time by toppling Sen. Grassley</a> NPR: Former U.S. Rep. Abby Finkenauer is facing a tougher-than-expected Democratic U.S. Senate primary in a state that has become more of a GOP stronghold in the last decade. 
  <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/2022/06/07/1102194026/new-mexico-primary-election-results">Here are the key primary election results from New Mexico</a> NPR: In New Mexico, five Republicans compete to take on Democratic Gov. Michelle Lujan Grisham. The 2nd Congressional District is also a notable contest. 
+ <a href="https://www.npr.org/2022/06/07/1102194026/new-mexico-primary-election-results">Here are the key primary election results from New Mexico</a> NPR: In New Mexico, former television meteorologist Mark Ronchetti is the Republican nominee to take on Democratic Gov. Michelle Lujan Grisham. The 2nd Congressional District is also a notable contest. 
  <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1102193554/montana-primary-election-results">Here are the key primary election results from Montana</a> NPR: In Montana, the top contest is for the brand-new 1st Congressional District. 
  <p class="updated_time"> 04:01 AM CT, Jun. 07 </p> 
@@ -306,10 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/07/south-texas-election-ad-00037595">Democrats go on air in South Texas special</a> Politico: House Majority PAC is launching a TV ad buy ahead of the June 14 contest to replace former Democratic Rep. Filemon Vela, who resigned. 
  <p class="updated_time"> 03:31 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
- <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/california-primary-what-to-watch-00037645">California’s test on crime, House members in danger and more: What to watch in Tuesday’s primaries</a> Politico: Tough-on-crime messaging has dominated races in California and beyond. 
- <p class="updated_time"> 07:39 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/judge-blocks-louisiana-congress-map-00037651">Judge blocks Louisiana Congress map</a> Politico: Gov. John Bel Edwards said he will call the GOP-dominated Legislature into special session. 
  <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/garcetti-allies-tried-to-put-the-screws-to-mark-kelly-it-may-have-backfired-00037536">Garcetti allies tried to put the screws to Mark Kelly. It may have backfired.</a> Politico: It’s been more than a year since the LA mayor was nominated. The attempts to break the logjam are getting more aggressive. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
@@ -322,6 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/06/06/gun-violence-still-tops-to-do-list-in-congress-00037344">Make-or-break week for Senate gun talks</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
+ <a href="https://www.politico.com/news/2022/06/06/free-speech-group-first-amendment-00037320">Free-speech group will spend millions to promote First Amendment cases</a> Politico: Some backers see FIRE moving to take on fights ceded by ACLU. 
  <p class="updated_time"> 03:30 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/rick-caruso-billionaire-los-angeles-mayoral-race-00037202">How a billionaire mall magnate pulled ahead in the Los Angeles mayoral race</a> Politico: Rick Caruso is best known as the developer of luxury retail. Will his message on crime propel him to city hall? 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
