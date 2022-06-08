@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:03 AM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
+ <p class="updated_time"> 12:50 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">What Happened on Day 104 of the War in Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
+ <p class="updated_time"> 12:10 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 11:57 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61670661?at_medium=RSS&at_campaign=KARANGA">North Korea could carry out nuclear tests 'any time', warns US official</a> BBC: His comments come as Pyongyang tested eight missiles on Sunday - the highest daily record so far. 
- <p class="updated_time"> 11:38 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
- <p class="updated_time"> 11:19 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
- <p class="updated_time"> 10:38 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 11:10 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
  <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
+ <p class="updated_time"> 10:10 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 09:58 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
- <p class="updated_time"> 09:38 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
+ <p class="updated_time"> 09:10 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 09:04 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61727730?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Wounded teacher condemns police as cowards</a> BBC: Arnulfo Reyes lost 11 of his students in the gun attack on a primary school in Uvalde, Texas. 
- <p class="updated_time"> 08:38 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv">A big 32-hour workweek test is underway. Supporters think it could help productivity</a> NPR: A pilot of more than 3,300 workers in the U.K. is testing a theory about work. Can people in various industries remain as productive if they just work 32 hours a week with the same pay as 40 hours? 
- <p class="updated_time"> 07:38 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 08:10 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 07:08 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/asia/bangladesh-fire-depot.html">Bangladesh Firefighters Unaware of Chemicals Stored at Shipping Container Depot</a> NYT: Nine firefighters were among at least 41 people killed in a blaze and a subsequent series of explosions. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569585/russia-is-still-blocking-key-ukrainian-port-as-fighting-continues-in-ukraines-ea">Russia is still blocking key Ukrainian port as fighting continues in Ukraine's east</a> NPR: There's intense fighting in the east of Ukraine, new information on a Ukrainian city under Russian occupation, and a possible cholera outbreak in Mariupol. 
- <p class="updated_time"> 03:28 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 03:23 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61725533?at_medium=RSS&at_campaign=KARANGA">Why Ukraine is furious with the UN nuclear watchdog</a> BBC: A row has broken out over a planned UN visit to the Russian-controlled Zaporizhzhia power plant. 
  <p class="updated_time"> 03:20 PM CT, Jun. 07 </p> 
@@ -105,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/mariupol-bodies-ukraine-russia.html">Bodies of Soldiers Killed Defending Mariupol Are Returned to Ukraine.</a> NYT: In the first official confirmed exchange of war dead, Russia and Ukraine each received about 160 bodies. 
  <p class="updated_time"> 11:14 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685118?at_medium=RSS&at_campaign=KARANGA">Migrant caravan heads to US as key summit begins</a> BBC: Thousands of migrants are headed to the US in a caravan timed to coincide with the Summit of the Americas. 
- <p class="updated_time"> 09:59 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61719554?at_medium=RSS&at_campaign=KARANGA">EU deal links minimum wage to decent standard of living</a> BBC: Under the deal EU member states would have to follow common rules but not have the same rates. 
  <p class="updated_time"> 09:40 AM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103456116/cuba-cuban-migrants-real-estate">With Cubans leaving en masse, much of Cuba's real estate is up for sale</a> NPR: Cubans are fleeing because of a steep economic downturn. Immigration is a big issue as leaders meet at this week's Summit of the Americas — but communist-controlled Cuba isn't invited. 
  <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
@@ -198,10 +196,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/katie-porter-scott-baugh-california.html">Katie Porter Will Face Scott Baugh in the Fall.</a> NYT: Ms. Porter, widely seen as a future Senate contender, would have her shine dimmed by a loss in a closely watched House race. 
+ <p class="updated_time"> 12:56 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/rick-caruso-karen-bass-la-mayor.html">Rick Caruso and Karen Bass Head for Runoff in Los Angeles Mayor’s Race</a> NYT: Mr. Caruso, a billionaire developer who recently left the Republican Party to become a Democrat, will face off against Ms. Bass, a liberal congresswoman, to lead the nation’s second-largest city. 
  <p class="updated_time"> 12:35 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/chesa-boudin-recall-san-francisco.html">Chesa Boudin Ousted in San Francisco District Attorney Recall</a> NYT: Mr. Boudin, who had eliminated cash bail and sought to reduce the prison population, was removed in a vote that is set to reverberate through Democratic politics across the country. 
- <p class="updated_time"> 11:55 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/rick-caruso-karen-bass-la-mayor.html">Rick Caruso and Karen Bass Head for Runoff in Los Angeles Mayor’s Race</a> NYT: Mr. Caruso, a billionaire developer who recently left the Republican Party to become a Democrat, will face off against Ms. Bass, a liberal congresswoman, to lead the nation’s second-largest city. 
+ <p class="updated_time"> 12:31 AM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/la-mayors-race-bass-and-caruso-to-face-off-in-november-00038004">LA mayor’s race: Bass and Caruso to face off in November</a> Politico: Despite an aggressive primary campaign, the billionaire mall magnate didn’t win outright. 
  <p class="updated_time"> 11:42 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/08/establishment-candidates-prevail-in-new-jersey-house-primaries-00037987">Establishment candidates cruise to victory in New Jersey congressional primaries</a> Politico: Tuesday's low-turnout primary set the stage for a November general election that has Democrats nationally fretting as they try to maintain their slim control of the House. 
  <p class="updated_time"> 11:17 PM CT, Jun. 07 </p> 
@@ -225,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:38 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103577387/matthew-mcconaughey-green-converse-shoes-sneakers-uvalde-maite-rodriguez">The story of a Uvalde victim's green shoes captures the White House's attention</a> NPR: Maite Rodriguez, a lover of animals and the environment, dreamed of being a marine biologist. She was killed during the school shooting in Uvalde, Texas. 
  <p class="updated_time"> 06:51 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">Public safety weighs on California races as San Francisco boots DA</a> Politico: Several Republican members of Congress are also facing difficult primaries as voters in seven states head to the polls. 
+ <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">House Republicans face primary danger</a> Politico: Voters also nominated a slate of battleground candidates across seven states and issued verdicts on major public safety-themed campaigns in California. 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/business/media/fox-jan-6-hearings.html">Fox News Doesn’t Plan to Carry Jan. 6 Hearings Live</a> NYT: Its sister network, the lower-rated Fox Business, will carry live coverage, while star prime-time hosts like Tucker Carlson and Sean Hannity will proceed as usual. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
@@ -334,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/06/06/gun-violence-still-tops-to-do-list-in-congress-00037344">Make-or-break week for Senate gun talks</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
- <p class="updated_time"> 04:01 AM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/free-speech-group-first-amendment-00037320">Free-speech group will spend millions to promote First Amendment cases</a> Politico: Some backers see FIRE moving to take on fights ceded by ACLU. 
  <p class="updated_time"> 03:30 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/rick-caruso-billionaire-los-angeles-mayoral-race-00037202">How a billionaire mall magnate pulled ahead in the Los Angeles mayoral race</a> Politico: Rick Caruso is best known as the developer of luxury retail. Will his message on crime propel him to city hall? 
  <p class="updated_time"> 11:33 AM CT, Jun. 05 </p> 
