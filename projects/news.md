@@ -9,15 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Survivor, 11, testifies before US lawmakers</a> BBC: Miah Cerillo, 11, told a lawmakers about her harrowing experience surviving the school shooting. 
+ <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 03:29 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
+ <p class="updated_time"> 03:23 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61727651?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WTO boss warns of global food crisis</a> BBC: If food shipments do not restart from Ukraine, a severe food crisis will last for years, WTO boss says. 
+ <p class="updated_time"> 03:21 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
  <p class="updated_time"> 03:05 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103766334/shrinkflation-globally-manufacturers-shrink-package-sizes">'Shrinkflation' accelerates globally as manufacturers quietly shrink package sizes</a> NPR: Shrinkflation isn't new, experts say. But it proliferates in times of high inflation as companies grapple with rising costs for ingredients, packaging, labor and transportation. 
  <p class="updated_time"> 02:39 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Plows Into a School Group in Berlin, Killing 1 and Injuring 14</a> NYT: A teacher was killed and those hurt were students traveling with her. The driver was described as “mentally impaired,” and police are investigating whether the crash was intentional. 
- <p class="updated_time"> 02:33 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
- <p class="updated_time"> 02:28 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
- <p class="updated_time"> 02:21 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 02:37 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 02:02 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
@@ -28,16 +34,14 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:41 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61736179?at_medium=RSS&at_campaign=KARANGA">Is Russia exporting grain from Ukraine?</a> BBC: Much Ukrainian grain is stuck in silos, while Russia reportedly ships some cargoes from Crimea. 
  <p class="updated_time"> 01:37 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Survivor, 11, testifies before US lawmakers</a> BBC: Miah Cerillo, 11, told a lawmakers about her harrowing experience surviving the school shooting. 
- <p class="updated_time"> 01:21 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 12:53 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: Teacher dead and pupils hurt as car hits crowd</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
- <p class="updated_time"> 12:21 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 12:37 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
- <p class="updated_time"> 11:21 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 11:37 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Philippe laments racism of colonial past</a> BBC: King Philippe is on a week-long visit to DR Congo at the invitation of President Félix Tshisekedi. 
@@ -45,10 +49,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 10:43 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61736763?at_medium=RSS&at_campaign=KARANGA">Harvey Weinstein to be charged with indecent assault in UK</a> BBC: The Metropolitan Police has been authorised to charge the 70-year-old former Hollywood producer. 
+ <p class="updated_time"> 10:37 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 10:25 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: President Biden is expected to sign a joint migration declaration and lay out an economic-recovery agenda in the aftermath of the Covid-19 pandemic. 
- <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
  <p class="updated_time"> 10:19 AM CT, Jun. 08 </p> 
@@ -183,12 +187,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
- <p class="updated_time"> 04:03 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/americas/tropical-storm-alex-bermuda.html">Tropical Storm Alex Drifts Into the Atlantic After Flooding Florida</a> NYT: The storm brought rain and strong winds to Bermuda before becoming a post-tropical cyclone. 
  <p class="updated_time"> 03:54 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: Markets are moved more by global concerns, like the war in Ukraine, than by domestic political infighting. 
- <p class="updated_time"> 03:41 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-confidence-vote.html">How Boris Johnson Shattered His Own Invincibility</a> NYT: The prime minister survived a no-confidence vote, but has been politically wounded by the same baffling mix of strengths and foibles that propelled his rise: rare political intuition, and breathtaking personal recklessness. 
  <p class="updated_time"> 03:20 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/mexico-obrador-americas-summit.html">Mexico’s President Obrador Will Not Attend Americas Summit</a> NYT: President Andrés Manuel López Obrador of Mexico said he made the decision because Cuba, Nicaragua and Venezuela were not invited. 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
