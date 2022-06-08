@@ -11,30 +11,30 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 11:19 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/russia-ukraine-war-news">Live Updates: Lost Ground in the East Creates Stark Choices for Ukraine</a> NYT: Its military leaders are increasingly confronting the question of whether to withdraw from frontline cities to preserve soldiers’ lives, even if it means a more brutal fight to regain them. 
- <p class="updated_time"> 10:43 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 11:01 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
+ <p class="updated_time"> 10:01 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
  <p class="updated_time"> 09:58 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
- <p class="updated_time"> 09:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
  <p class="updated_time"> 09:04 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61727730?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Wounded teacher condemns police as cowards</a> BBC: Arnulfo Reyes lost 11 of his students in the gun attack on a primary school in Uvalde, Texas. 
- <p class="updated_time"> 08:43 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 09:01 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv">A big 32-hour workweek test is underway. Supporters think it could help productivity</a> NPR: A pilot of more than 3,300 workers in the U.K. is testing a theory about work. Can people in various industries remain as productive if they just work 32 hours a week with the same pay as 40 hours? 
- <p class="updated_time"> 07:43 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 08:01 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
  <p class="updated_time"> 07:08 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61723282?at_medium=RSS&at_campaign=KARANGA">Mariupol: Azovstal defenders' bodies arrive in Kyiv - families</a> BBC: The soldiers' families say they were returned as part of a swap with Russia - 160 bodies on each side. 
+ <p class="updated_time"> 07:01 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61079265?at_medium=RSS&at_campaign=KARANGA">Kenyan mothers choose between work and their babies</a> BBC: Nutritionist Sophy Saronge knew she should breastfeed her baby for six months but says she had to work. 
  <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61717373?at_medium=RSS&at_campaign=KARANGA">Tove Styrke is sick of the Spotify song formula</a> BBC: The Swedish star explains why she's rejected the slick, corporate Spotify sound to follow her gut. 
- <p class="updated_time"> 06:43 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 06:33 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61667500?at_medium=RSS&at_campaign=KARANGA">Irpin: Russia's reign of terror in a quiet neighbourhood near Kyiv</a> BBC: A handful of streets in a leafy town on Kyiv's doorstep were subjected to weeks of deadly occupation. 
  <p class="updated_time"> 06:13 PM CT, Jun. 07 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/05/world/europe/ukraine-russia-war-kyiv.html">Struggling in Ukraine’s East, Russian Forces Strike in Kyiv</a> NYT: Vladimir Putin threatened “to strike targets we haven’t hit before” if Western nations proceed with plans to send long-range missiles to Ukraine. 
  <p class="updated_time"> 06:01 PM CT, Jun. 05 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61598048?at_medium=RSS&at_campaign=KARANGA">Who really shot Bobby Kennedy?</a> BBC: The campaigner who was shot and wants the Robert Kennedy murder case reopened. 
- <p class="updated_time"> 03:57 PM CT, Jun. 05 </p> 
- <a href="https://www.nytimes.com/2022/06/05/world/europe/queen-platinum-jubilee-britain.html">Queen’s Jubilee Celebrations Offers Britons Respite From Woes</a> NYT: The Platinum Jubilee celebrations ended Sunday. Monday political and economic unease returns. 
 
 
 </details>
@@ -200,10 +198,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 PM CT, Jun. 07 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/rick-caruso-karen-bass-la-mayor.html">Rick Caruso and Karen Bass Head for Runoff in Los Angeles Mayor’s Race</a> NYT: Mr. Caruso, a billionaire developer who recently left the Republican Party to become a Democrat, will face off against Ms. Bass, a liberal congresswoman, to lead the nation’s second-largest city. 
+ <p class="updated_time"> 11:42 PM CT, Jun. 07 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/establishment-candidates-prevail-in-new-jersey-house-primaries-00037987">Establishment candidates cruise to victory in New Jersey congressional primaries</a> Politico: Tuesday's low-turnout primary set the stage for a November general election that has Democrats nationally fretting as they try to maintain their slim control of the House. 
  <p class="updated_time"> 11:19 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/chesa-boudin-recall-san-francisco.html">Chesa Boudin Ousted in District Attorney Recall</a> NYT: Mr. Boudin, who had eliminated cash bail and sought to reduce the prison population, was removed in a vote that is set to reverberate through Democratic politics across the country. 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/chesa-boudin-recall-san-francisco.html">Chesa Boudin Ousted in San Francisco District Attorney Recall</a> NYT: Mr. Boudin, who had eliminated cash bail and sought to reduce the prison population, was removed in a vote that is set to reverberate through Democratic politics across the country. 
  <p class="updated_time"> 11:17 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/08/chesa-boudin-san-francisco-district-attorney-recall-00038002">San Francisco DA ousted in recall election</a> Politico: Chesa Boudin was toppled by a campaign fueled by crime concerns and funded by business groups. 
+ <a href="https://www.politico.com/news/2022/06/08/chesa-boudin-san-francisco-district-attorney-recall-00038002">Public safety weighs on California races as San Francisco boots DA</a> Politico: Chesa Boudin was toppled by a campaign fueled by crime concerns and funded by business groups. 
  <p class="updated_time"> 11:13 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/gavin-newsom-california-primary.html">Gavin Newsom Wins California Primary, Eyes Fall Re-Election Race</a> NYT: California’s governor was given a boost by last year’s failed recall effort, which effectively gave him an extra year to campaign. 
  <p class="updated_time"> 11:08 PM CT, Jun. 07 </p> 
@@ -223,7 +225,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:38 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103577387/matthew-mcconaughey-green-converse-shoes-sneakers-uvalde-maite-rodriguez">The story of a Uvalde victim's green shoes captures the White House's attention</a> NPR: Maite Rodriguez, a lover of animals and the environment, dreamed of being a marine biologist. She was killed during the school shooting in Uvalde, Texas. 
  <p class="updated_time"> 06:51 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">Public safety weighs on California races as San Francisco boots D.A.</a> Politico: Several Republican members of Congress are also facing difficult primaries as voters in seven states head to the polls. 
+ <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">Public safety weighs on California races as San Francisco boots DA</a> Politico: Several Republican members of Congress are also facing difficult primaries as voters in seven states head to the polls. 
  <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/business/media/fox-jan-6-hearings.html">Fox News Doesn’t Plan to Carry Jan. 6 Hearings Live</a> NYT: Its sister network, the lower-rated Fox Business, will carry live coverage, while star prime-time hosts like Tucker Carlson and Sean Hannity will proceed as usual. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
