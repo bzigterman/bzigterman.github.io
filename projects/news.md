@@ -9,30 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:11 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 03:26 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Updates: Ukraine Faces Tough Choices After Losses in East</a> NYT: President Volodymyr Zelensky insisted there was a compelling reason to stay and fight in Sievierodonetsk despite Russian forces closing in on his military. 
+ <p class="updated_time"> 03:23 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">Sweden’s NATO Bid Gets Tangled Up in a Domestic Political Dispute</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join the military alliance. 
+ <p class="updated_time"> 03:22 AM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61728101?at_medium=RSS&at_campaign=KARANGA">Joe Ferrari: Ex-Thai police chief convicted of suspect killing</a> BBC: A video had surfaced showing him and colleagues wrapping plastic bags around the head of a drug suspect. 
+ <p class="updated_time"> 02:58 AM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61729101?at_medium=RSS&at_campaign=KARANGA">Train derailment in eastern Iran kills at least 17</a> BBC: Dozens more people were injured after the train collides with an excavator, emergency officials say. 
+ <p class="updated_time"> 02:57 AM CT, Jun. 08 </p> 
+ <a href="https://www.npr.org/2022/06/08/1103649468/russias-lavrov-in-turkey-to-discuss-plan-to-ship-ukrainian-grain">Russia's Lavrov in Turkey to discuss plan to ship Ukrainian grain</a> NPR: The talks scheduled for Wednesday aim to unlock an estimated 22 million tons of grains sitting in silos in Ukraine. 
+ <p class="updated_time"> 02:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
  <p class="updated_time"> 02:11 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/06/07/world/uk-boris-johnson-vote-news">Boris Johnson Could Still Falter From Political Upheaval or the Economy</a> NYT: Despite surviving a no-confidence vote in Parliament, Britain’s prime minister must now weather a risky Parliamentary by-election this month and, potentially, even a rebellion by his fellow Conservative lawmakers. 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 17</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
- <p class="updated_time"> 01:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965">In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</a> WSJ: In Russia’s Battle for East Ukraine, Both Sides Have Higher Stakes at Play 
+ <p class="updated_time"> 01:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
  <p class="updated_time"> 01:03 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
- <p class="updated_time"> 12:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588">Biden Administration Divided as Food Crisis Related to Ukraine War Looms</a> WSJ: Biden Administration Divided as Food Crisis Related to Ukraine War Looms 
+ <p class="updated_time"> 12:30 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
  <p class="updated_time"> 11:57 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61670661?at_medium=RSS&at_campaign=KARANGA">North Korea could carry out nuclear tests 'any time', warns US official</a> BBC: His comments come as Pyongyang tested eight missiles on Sunday - the highest daily record so far. 
- <p class="updated_time"> 11:32 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039">Russia Is Weaponizing Food Supplies, Europe Says</a> WSJ: Russia Is Weaponizing Food Supplies, Europe Says 
- <p class="updated_time"> 10:32 PM CT, Jun. 07 </p> 
+ <p class="updated_time"> 11:30 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490">Sweden’s NATO Bid Rattles Kurdish Diaspora</a> WSJ: Sweden’s NATO Bid Rattles Kurdish Diaspora 
+ <p class="updated_time"> 10:30 PM CT, Jun. 07 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 09:58 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/arts/music/cliburn-piano-competition-texas-ukraine-war.html">Russian and Ukrainian Pianists Meet in Texas at Cliburn Competition</a> NYT: The war in Ukraine looms over the prestigious contest named for the pianist Van Cliburn, who was a symbol for art transcending global politics. 
- <p class="updated_time"> 09:32 PM CT, Jun. 07 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-with-ouster-attempt-behind-him-pledges-to-refocus-on-a-troubled-u-k-economy-11654616452">Boris Johnson Tries to Refocus on a Troubled U.K. Economy</a> WSJ: Boris Johnson Tries to Refocus on a Troubled U.K. Economy 
  <p class="updated_time"> 09:04 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61727730?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Wounded teacher condemns police as cowards</a> BBC: Arnulfo Reyes lost 11 of his students in the gun attack on a primary school in Uvalde, Texas. 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
@@ -91,18 +99,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey brings dead girl's shoes to White House</a> BBC: The actor backed "responsible gun ownership" after a school shooting in his Texas hometown. 
  <p class="updated_time"> 02:04 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
- <p class="updated_time"> 01:17 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/sport/golf/61723195?at_medium=RSS&at_campaign=KARANGA">Tiger Woods to miss US Open to give himself time to 'get stronger'</a> BBC: Tiger Woods confirms he will not play at next week's US Open, but still plans to compete at the 150th Open Championship at St Andrews next month. 
- <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">A Domestic Political Fight in Sweden Gets Embroiled in Geopolitics</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join NATO. 
  <p class="updated_time"> 12:23 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103493025/european-union-to-require-mobile-devices-to-have-usb-c-ports">The EU will soon require all cellphones to have the same type of charging port</a> NPR: Cellphones and handheld electronic devices in the European Union will be required to have a USB-C charging port by 2024. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
  <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61720402?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Why I risk my life to provide aid in Ukraine</a> BBC: The British volunteers helping Ukrainians escape Russian attacks. 
- <p class="updated_time"> 11:22 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61720276?at_medium=RSS&at_campaign=KARANGA">EU sets date for common phone charge cable</a> BBC: The EU has provisionally agreed new mobile devices must, by autumn 2024, use the same type of charger. 
  <p class="updated_time"> 11:20 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/mariupol-bodies-ukraine-russia.html">Bodies of Soldiers Killed Defending Mariupol Are Returned to Ukraine.</a> NYT: In the first official confirmed exchange of war dead, Russia and Ukraine each received about 160 bodies. 
  <p class="updated_time"> 11:14 AM CT, Jun. 07 </p> 
@@ -159,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/europe/the-prime-minister-faces-a-decisive-vote-on-monday-evening.html">Britain’s prime minister, beset by a scandal over lockdown parties, faces a decisive vote.</a> NYT: Members of the British leader’s party reached a threshold to hold the vote, after he had come under fire about claims he misled Parliament about Downing Street parties during the pandemic. 
  <p class="updated_time"> 04:03 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/tropical-storm-alex-bermuda.html">Tropical Storm Alex Drifts Into the Atlantic After Flooding Florida</a> NYT: The storm brought rain and strong winds to Bermuda before becoming a post-tropical cyclone. 
- <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
- <a href="https://www.npr.org/2022/06/06/1103275989/russia-ukraine-war-what-happened-today-june-6">Russia-Ukraine war: What happened today (June 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: Markets are moved more by global concerns, like the war in Ukraine, than by domestic political infighting. 
  <p class="updated_time"> 03:41 PM CT, Jun. 06 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:37 AM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/gavin-newsom-california-primary.html">Gavin Newsom Wins California Primary, Eyes Fall Re-Election Race</a> NYT: California’s governor was given a boost by last year’s failed recall effort, which effectively gave him an extra year to campaign. 
  <p class="updated_time"> 02:00 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/jared-kushner-trump-jan-6.html">How Jared Kushner Washed His Hands of Donald Trump Before Jan. 6</a> NYT: Mr. Kushner’s role in the final months of the Trump White House could come into sharp relief once the committee investigating the attack on the Capitol opens hearings. 
  <p class="updated_time"> 01:41 AM CT, Jun. 08 </p> 
@@ -220,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/establishment-candidates-prevail-in-new-jersey-house-primaries-00037987">Establishment candidates cruise to victory in New Jersey congressional primaries</a> Politico: Tuesday's low-turnout primary set the stage for a November general election that has Democrats nationally fretting as they try to maintain their slim control of the House. 
  <p class="updated_time"> 11:17 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/08/chesa-boudin-san-francisco-district-attorney-recall-00038002">San Francisco district attorney ousted in recall election</a> Politico: Chesa Boudin was toppled by a campaign fueled by crime concerns and funded by business groups. 
- <p class="updated_time"> 11:13 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/gavin-newsom-california-primary.html">Gavin Newsom Wins California Primary, Eyes Fall Re-Election Race</a> NYT: California’s governor was given a boost by last year’s failed recall effort, which effectively gave him an extra year to campaign. 
  <p class="updated_time"> 11:08 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/new-jersey-moderate-party.html">New Jersey Centrists Seek to Legalize Their Dream: The Moderate Party</a> NYT: A bipartisan alliance is trying to topple the state’s ban on fusion voting, a system under which third-party groups like the Working Families Party in New York have gained influence. 
  <p class="updated_time"> 10:41 PM CT, Jun. 07 </p> 
@@ -269,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569578/senators-return-to-gun-law-talks-following-a-weekend-of-mass-shootings-in-8-stat">Senators return to gun law talks following a weekend of mass shootings in 8 states</a> NPR: Senators say they're inching closer to a bipartisan agreement on strengthening the nation's gun laws. They returned to Washington after a weekend in which mass shootings occurred in eight states. 
  <p class="updated_time"> 03:20 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">From Benghazi to Raqqa, a Kansas Woman Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
+ <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">Kansas Woman Who Joined ISIS Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
  <p class="updated_time"> 03:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 03:01 PM CT, Jun. 07 </p> 
@@ -334,8 +334,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/07/indivisible-2022-election-spending-00037504">Trump-era progressive organizing group unveils $7M midterm plans</a> Politico: Indivisible will work to amplify stories of GOP extremism ahead of the November elections. 
  <p class="updated_time"> 03:30 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/california-primary-what-to-watch-00037645">California’s test on crime, House members in danger and more: What to watch in Tuesday’s primaries</a> Politico: Tough-on-crime messaging has dominated races in California and beyond. 
+ <p class="updated_time"> 10:15 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/proud-boys-charged-sedition-capitol-attack.html">Proud Boys Charged With Sedition in Capitol Attack</a> NYT: An amended federal indictment charged five members of the far-right group, including Enrique Tarrio, its former leader, with seditious conspiracy for their roles in the Jan. 6 assault. 
  <p class="updated_time"> 04:01 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/garcetti-allies-tried-to-put-the-screws-to-mark-kelly-it-may-have-backfired-00037536">Garcetti allies tried to put the screws to Mark Kelly. It may have backfired.</a> Politico: It’s been more than a year since the LA mayor was nominated. The attempts to break the logjam are getting more aggressive. 
+ <p class="updated_time"> 03:44 PM CT, Jun. 06 </p> 
+ <a href="https://www.nytimes.com/2022/06/06/us/politics/gun-control-cornyn-senate-republicans.html">With Cornyn in the Room, Senate Gun Talks Focus on Narrow Changes</a> NYT: The conservative Texan’s involvement in bipartisan talks means that an agreement, if there is one, is likely to include incremental steps. 
  <p class="updated_time"> 03:10 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/doj-charges-proud-boys-leaders-with-seditious-conspiracy-over-jan-6-attack-00037518">DOJ charges Proud Boys leaders with seditious conspiracy over Jan. 6 attack</a> Politico: The charges come the same week that the Jan. 6 select committee plans to hold its first hearing analyzing the Capitol breach. 
  <p class="updated_time"> 02:11 PM CT, Jun. 06 </p> 
