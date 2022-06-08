@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
  <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
- <p class="updated_time"> 11:32 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 11:47 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Philippe laments racism of colonial past</a> BBC: King Philippe is on a week-long visit to DR Congo at the invitation of President Félix Tshisekedi. 
@@ -25,40 +25,40 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Survivor, 11, testifies before US lawmakers</a> BBC: Miah Cerillo told a House committee about her harrowing experience surviving the school shooting. 
  <p class="updated_time"> 10:56 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Crashes Into a Berlin Crowd, Killing 1 and Injuring a Dozen</a> NYT: The police have arrested the driver of the car and opened an investigation into whether the crash was accidental or intentional. 
+ <p class="updated_time"> 10:47 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 10:46 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 10:43 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61736763?at_medium=RSS&at_campaign=KARANGA">Harvey Weinstein to be charged with indecent assault in UK</a> BBC: The Metropolitan Police has been authorised to charge the 70-year-old former Hollywood producer. 
- <p class="updated_time"> 10:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 10:28 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
  <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
  <p class="updated_time"> 10:19 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
+ <p class="updated_time"> 09:47 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: Russian Invasion Expected to Keep Inflation High in Rich Countries 
  <p class="updated_time"> 09:34 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html">How ‘Trustless’ Is Bitcoin, Really?</a> NYT: In myth, the cryptocurrency is egalitarian, decentralized and all but anonymous. The reality is very different, scientists have found. 
- <p class="updated_time"> 09:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: Russian Invasion Expected to Keep Inflation High in Rich Countries 
  <p class="updated_time"> 09:26 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/middleeast/netanyahu-israel-settlers.html">Netanyahu’s Plan to Regain Power in Israel: Vote Against His Views</a> NYT: To topple Israel’s government, Benjamin Netanyahu, the former prime minister, is voting down its initiatives — even if he agrees with them. 
  <p class="updated_time"> 08:56 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61732548?at_medium=RSS&at_campaign=KARANGA">APC presidential primary: Who is Nigeria's Bola Tinubu?</a> BBC: Bola Tinubu, 70, will lead Nigeria's ruling APC into presidential elections next February. 
  <p class="updated_time"> 08:49 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103664950/fluke-ekren-guilty-isis-female-battalion">A U.S. woman pleads guilty to leading an all-female ISIS battalion</a> NPR: Allison Fluke-Ekren admitted to operating an all-female ISIS military group and training women and girls on how to use explosive devices. 
- <p class="updated_time"> 08:32 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 08:47 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">Iran Turns Off Nuclear-Monitoring Cameras Ahead of IAEA Censure Vote</a> WSJ: Iran Turns Off Nuclear-Monitoring Cameras Ahead of IAEA Censure Vote 
  <p class="updated_time"> 07:55 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/ryanair-south-africa-afrikaans.html">Ryanair Asks Travelers to Prove South African Nationality, in Afrikaans</a> NYT: The choice of a language that had been imposed by the apartheid government and is not even spoken by many South Africans today has set off complaints. 
  <p class="updated_time"> 07:51 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/americas/mexico-violence-doctors.html">Violence in Rural Mexico Ensnares Doctors, Causing Worker Shortages</a> NYT: As criminal organizations control more territory in less-populated regions, health care workers, caught in the crossfire, grow reluctant to work in such places. 
+ <p class="updated_time"> 07:47 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: Biden to Push for Help on Migration at Summit of the Americas 
  <p class="updated_time"> 07:45 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/australia/australias-monarchy-queen.html">Australia’s Baby Steps Toward Severing Ties With the Queen</a> NYT: The new Labor government has established a ministerial position to begin the process of making the country a republic. But the idea is far from the top of its agenda. 
  <p class="updated_time"> 07:44 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: Police said it was too early to determine whether the crash was an accident or a deliberate attack. 
- <p class="updated_time"> 07:32 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: Biden to Push for Help on Migration at Summit of the Americas 
  <p class="updated_time"> 06:53 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103658195/berlin-car-crash-tauenzienstrasse">A car drove into a crowd in Berlin, killing 1 person, police say</a> NPR: Emergency responders have kept the man who was driving the vehicle at the scene, according to the Berlin police department. 
  <p class="updated_time"> 06:43 AM CT, Jun. 08 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-omicron-variant.html">Revised Moderna Vaccine Works Better Against Omicron, Trial Suggests</a> NYT: The findings indicate that the updated vaccine produced a significantly stronger immune response against Omicron, but it is unclear how it will fare against future versions of the virus. 
  <p class="updated_time"> 12:19 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103702696/parents-victims-buffalo-uvalde-testify-gun-control-congress">Parents of recent mass shooting victims urge Congress to act on gun control</a> NPR: Parents of children killed and wounded in shootings in Buffalo and Uvalde testified before Congress on Wednesday, imploring members to act quickly on gun control measures. 
  <p class="updated_time"> 12:08 PM CT, Jun. 08 </p> 
@@ -212,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/lawmaker-threat-pentagon-cruise-missile-decision-july-00038100">After lawmaker threat, Pentagon pledges to make cruise missile decision in July</a> Politico: Proposed legislation would cut the deputy defense secretary's travel budget over the matter. 
  <p class="updated_time"> 11:45 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/democrats-biden-saudi-trip-00037891">‘Pariah’ no more? Democrats grit their teeth over Biden’s Saudi trip</a> Politico: The president’s Middle East reset raises human rights concerns for some fellow Democrats. Others are prepared to get pragmatic. 
- <p class="updated_time"> 11:28 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-omicron-variant.html">Revised Moderna Vaccine Works Better Against Omicron, Trial Suggests</a> NYT: The findings indicate that the updated vaccine produced a significantly stronger immune response against Omicron, but it is unclear how it will fare against future versions of the virus. 
  <p class="updated_time"> 11:25 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/vaccines-white-house-funding.html">With aid stalled, the White House says it has to shift funds from testing to buy more vaccines and treatments.</a> NYT: The Biden administration has warned for months that without congressional action, it could have to unwind or sacrifice key pieces of the pandemic response. 
  <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
@@ -334,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103569599/what-the-jan-6-hearings-have-in-common-with-the-watergate-hearings">What the Jan. 6 hearings have in common with the Watergate hearings</a> NPR: The upcoming hearings regarding the Jan. 6 riot at the U.S. Capitol are reminiscent of another watershed political event: the 1973 Watergate hearings. 
  <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103569578/senators-return-to-gun-law-talks-following-a-weekend-of-mass-shootings-in-8-stat">Senators return to gun law talks following a weekend of mass shootings in 8 states</a> NPR: Senators say they're inching closer to a bipartisan agreement on strengthening the nation's gun laws. They returned to Washington after a weekend in which mass shootings occurred in eight states. 
- <p class="updated_time"> 03:20 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">Kansas Woman Who Joined ISIS Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
  <p class="updated_time"> 03:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 03:01 PM CT, Jun. 07 </p> 
