@@ -19,13 +19,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61724926?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Missing journalist's wife in tearful plea to step up search</a> BBC: Two days after Dom Phillips disappeared, his wife appeals to Brazil to locate "the love of my life". 
  <p class="updated_time"> 05:52 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: One dead and others hurt as car drives into pedestrians</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
+ <p class="updated_time"> 05:41 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:33 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
- <p class="updated_time"> 05:30 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:24 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61729101?at_medium=RSS&at_campaign=KARANGA">Train derailment in eastern Iran kills 21</a> BBC: Dozens more people were injured after the train hit an excavator near the track, officials say. 
- <p class="updated_time"> 04:30 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 04:41 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-turkey-hold-high-stakes-talks-on-safe-passage-for-ukraines-grain-11654677099">Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough</a> WSJ: Russia-Turkey Talks on Ukraine Grain Passage End Without Breakthrough 
  <p class="updated_time"> 04:17 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61731562?at_medium=RSS&at_campaign=KARANGA">Florida: Bodycam footage shows officials borrowing boat to chase suspected thief</a> BBC: Footage shows officials taking to the water to detain a man in the US state of Florida. 
@@ -39,13 +39,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/magazine/george-w-bush-russia-war-iraq.html">When George W. Bush Confused Russia’s War in Ukraine With Iraq</a> NYT: A viral gaffe by the former president offers a dark reminder of America’s foreign-policy hypocrisies. 
  <p class="updated_time"> 03:54 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103286987/these-russian-couples-didnt-plan-to-get-married-the-ukraine-war-changed-their-mi">These Russian couples didn't plan to get married. The Ukraine war changed their minds</a> NPR: More couples — including those who stayed in Russia and those who fled — are urgently marrying, for reasons both practical and deeply emotional. 
- <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 03:41 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-expected-to-double-inflation-rates-11654678800">Russian Invasion Expected to Keep Inflation High in Rich Countries</a> WSJ: Russian Invasion Expected to Keep Inflation High in Rich Countries 
  <p class="updated_time"> 03:23 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/sweden-turkey-nato-russia-ukraine.html">Sweden’s NATO Bid Gets Tangled Up in a Domestic Political Dispute</a> NYT: A move by right-wing lawmakers to remove Sweden’s justice minister has been dragged into a battle over the country’s efforts to join the military alliance. 
  <p class="updated_time"> 02:57 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103649468/russias-lavrov-in-turkey-to-discuss-plan-to-ship-ukrainian-grain">Russia's Lavrov in Turkey to discuss plan to ship Ukrainian grain</a> NPR: The talks scheduled for Wednesday aim to unlock an estimated 22 million tons of grains sitting in silos in Ukraine. 
- <p class="updated_time"> 02:30 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 02:41 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 17</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
