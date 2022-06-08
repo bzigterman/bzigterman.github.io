@@ -9,48 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 03:36 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Survivor, 11, testifies before US lawmakers</a> BBC: Miah Cerillo, 11, told a lawmakers about her harrowing experience surviving the school shooting. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <a href="https://www.nytimes.com/2022/06/08/world/europe/russia-ukraine-crimea-canal.html">Russia Is Racing to Cement Its Control in Southern Ukraine</a> NYT: The Kremlin says it has rebuilt rail and road links to Crimea, while appointing proxy officials in an effort to create facts on the ground. 
  <p class="updated_time"> 03:29 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
  <p class="updated_time"> 03:23 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61727651?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WTO boss warns of global food crisis</a> BBC: If food shipments do not restart from Ukraine, a severe food crisis will last for years, WTO boss says. 
  <p class="updated_time"> 03:21 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
+ <p class="updated_time"> 03:08 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61719196?at_medium=RSS&at_campaign=KARANGA">Nuclear watchdog censures Iran over uranium traces - diplomats</a> BBC: Iran is accused of not fully answering questions about uranium traces found at three undeclared sites. 
  <p class="updated_time"> 03:05 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103766334/shrinkflation-globally-manufacturers-shrink-package-sizes">'Shrinkflation' accelerates globally as manufacturers quietly shrink package sizes</a> NPR: Shrinkflation isn't new, experts say. But it proliferates in times of high inflation as companies grapple with rising costs for ingredients, packaging, labor and transportation. 
+ <p class="updated_time"> 02:49 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 02:39 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Plows Into a School Group in Berlin, Killing 1 and Injuring 14</a> NYT: A teacher was killed and those hurt were students traveling with her. The driver was described as “mentally impaired,” and police are investigating whether the crash was intentional. 
- <p class="updated_time"> 02:37 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 02:02 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
  <p class="updated_time"> 02:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
+ <p class="updated_time"> 01:49 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
  <p class="updated_time"> 01:41 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61736179?at_medium=RSS&at_campaign=KARANGA">Is Russia exporting grain from Ukraine?</a> BBC: Much Ukrainian grain is stuck in silos, while Russia reportedly ships some cargoes from Crimea. 
- <p class="updated_time"> 01:37 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 12:53 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: Teacher dead and pupils hurt as car hits crowd</a> BBC: Police say it is unclear whether the incident was an accident or a deliberate attack. 
- <p class="updated_time"> 12:37 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 12:49 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
- <p class="updated_time"> 11:37 AM CT, Jun. 08 </p> 
+ <p class="updated_time"> 11:49 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Philippe laments racism of colonial past</a> BBC: King Philippe is on a week-long visit to DR Congo at the invitation of President Félix Tshisekedi. 
- <p class="updated_time"> 10:46 AM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
+ <p class="updated_time"> 10:49 AM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 10:43 AM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61736763?at_medium=RSS&at_campaign=KARANGA">Harvey Weinstein to be charged with indecent assault in UK</a> BBC: The Metropolitan Police has been authorised to charge the 70-year-old former Hollywood producer. 
- <p class="updated_time"> 10:37 AM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 10:25 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden to Push for Help on Migration at Summit of the Americas</a> WSJ: President Biden is expected to sign a joint migration declaration and lay out an economic-recovery agenda in the aftermath of the Covid-19 pandemic. 
  <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/japanese-government-bank-halts-loans-to-russian-gas-export-plant-11654687875">Japan Halts Loans to Russian Gas-Export Plant</a> WSJ: A $21 billion natural-gas export plant under construction in Siberia suffered another setback when a Japanese government-owned bank said it has suspended loans to the project. 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 21</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
- <p class="updated_time"> 11:57 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61670661?at_medium=RSS&at_campaign=KARANGA">North Korea could carry out nuclear tests 'any time', warns US official</a> BBC: His comments come as Pyongyang tested eight missiles on Sunday - the highest daily record so far. 
  <p class="updated_time"> 11:56 PM CT, Jun. 07 </p> 
  <a href="https://www.wsj.com/articles/china-to-upgrade-ream-naval-base-in-cambodia-fueling-u-s-concerns-11654674382">China to Upgrade Ream Naval Base in Cambodia, Fueling U.S. Concerns</a> WSJ: Over two years, firms and technical experts from China’s military will build and renovate a number of structures at the facility, with the revamp funded by a Chinese grant. 
  <p class="updated_time"> 10:16 PM CT, Jun. 07 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
- <p class="updated_time"> 03:54 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/europe/british-pound-and-stocks-rise-as-vote-on-prime-minister-washes-over-markets.html">British pound and stocks rise as vote on prime minister washes over markets.</a> NYT: Markets are moved more by global concerns, like the war in Ukraine, than by domestic political infighting. 
  <p class="updated_time"> 03:20 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/mexico-obrador-americas-summit.html">Mexico’s President Obrador Will Not Attend Americas Summit</a> NYT: President Andrés Manuel López Obrador of Mexico said he made the decision because Cuba, Nicaragua and Venezuela were not invited. 
  <p class="updated_time"> 02:03 PM CT, Jun. 06 </p> 
@@ -212,6 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Jun. 08 </p> 
+ <a href="https://www.npr.org/2022/06/08/1103785023/the-jan-6-panel-will-reveal-their-findings-with-new-videos-and-photos-on-thursda">The Jan. 6 panel will reveal their findings with new videos and photos on Thursday</a> NPR: The House panel investigating the U.S. Capitol insurrection will launch a series of hearings Thursday. Committee members say they'll be telling the fuller story of the siege through videos and images. 
+ <p class="updated_time"> 03:38 PM CT, Jun. 08 </p> 
+ <a href="https://www.npr.org/2022/06/08/1103785009/mass-shooting-survivors-testified-to-congress-heres-where-gun-legislation-stands">Mass shooting survivors testified to Congress. Here's where gun legislation stands</a> NPR: Mass shooting survivors testified before Congress in favor of legislation to address gun violence. The emotional pleas contrast the businesslike negotiations between lawmakers to make change. 
  <p class="updated_time"> 02:55 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/pence-adviser-testify-jan-6-committee-00038206">Senior Pence adviser to testify before Jan. 6 committee</a> Politico: Gregory Jacob, who's expected to appear June 16, helped Mike Pence fend off efforts by Donald Trump and allies to disrupt the transition of presidential power. 
  <p class="updated_time"> 02:42 PM CT, Jun. 08 </p> 
@@ -340,10 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/07/1103569620/the-biggest-and-most-complicated-topic-at-the-summit-of-the-americas-migration">The biggest and most complicated topic at the Summit of the Americas? Migration</a> NPR: Migration is the biggest issue on the table at the Summit of the Americas this week. What can the regions leaders do to help relieve the crush and human misery at their borders? 
  <p class="updated_time"> 03:57 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/democrats-guns-deal-00037830">Dems' big bet on guns: Take a narrow deal now, push GOP later</a> Politico: Senate Majority Leader Chuck Schumer isn't placing any limits on gun negotiations, a sign that his caucus is willing to accept any piecemeal deal it can get — for now. 
- <p class="updated_time"> 03:57 PM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/2022/06/07/1103569599/what-the-jan-6-hearings-have-in-common-with-the-watergate-hearings">What the Jan. 6 hearings have in common with the Watergate hearings</a> NPR: The upcoming hearings regarding the Jan. 6 riot at the U.S. Capitol are reminiscent of another watershed political event: the 1973 Watergate hearings. 
- <p class="updated_time"> 03:49 PM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/2022/06/07/1103569578/senators-return-to-gun-law-talks-following-a-weekend-of-mass-shootings-in-8-stat">Senators return to gun law talks following a weekend of mass shootings in 8 states</a> NPR: Senators say they're inching closer to a bipartisan agreement on strengthening the nation's gun laws. They returned to Washington after a weekend in which mass shootings occurred in eight states. 
  <p class="updated_time"> 03:01 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/matthew-mcconaughey-gun-reform-00037851">Matthew McConaughey at the White House on gun reform: 'We start by making the loss of these lives matter'</a> Politico: The actor called for several measures after the mass shooting at a school in his hometown of Uvalde, Texas. 
  <p class="updated_time"> 12:15 PM CT, Jun. 07 </p> 
