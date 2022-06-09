@@ -9,30 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
- <p class="updated_time"> 11:02 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 12:20 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">What Happened on Day 105 of the War in Ukraine</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 11:25 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
+ <p class="updated_time"> 10:25 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 10:04 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61741422?at_medium=RSS&at_campaign=KARANGA">Thailand legalises cannabis trade but still bans recreational use</a> BBC: Thais can now grow cannabis for commerce, but the rules still ban recreational use. 
- <p class="updated_time"> 10:02 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
+ <p class="updated_time"> 09:25 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 09:21 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/south-korea-sewol-ferry-grief.html">Sewol Ferry Disaster in South Korea Leaves Unhealed Wounds </a> NYT: Eight years after the Sewol ferry disaster took the lives of 250 South Korean students, parents say they are still struggling to come to terms with the lessons the tragedy brought to bear. 
- <p class="updated_time"> 09:02 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 08:38 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde attack survivor, 11, covered herself in friend's blood</a> BBC: Miah Cerillo, 11, told lawmakers about her harrowing experience surviving the school shooting. 
  <p class="updated_time"> 08:36 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
- <p class="updated_time"> 08:02 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 08:25 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 07:46 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61710500?at_medium=RSS&at_campaign=KARANGA">Top Gun betrays Hollywood's weakness in China</a> BBC: Some claim that the Tom Cruise flick is standing up to Beijing, but it's too early to cheer. 
+ <p class="updated_time"> 07:25 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 07:04 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden Backs Economic-Recovery Agenda at Summit of the Americas</a> WSJ: The administration is also expected to seal a joint migration declaration on Friday. 
- <p class="updated_time"> 07:02 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 06:22 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/angela-merkel-russia-putin.html">Angela Merkel Says She ‘Won’t Apologize’ for Her Russia Diplomacy</a> NYT: Ms. Merkel has come under fire for pushing German-Russian business interests during her tenure as chancellor. 
  <p class="updated_time"> 06:17 PM CT, Jun. 08 </p> 
@@ -312,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/democrats-biden-saudi-trip-00037891">‘Pariah’ no more? Democrats grit their teeth over Biden’s Saudi trip</a> Politico: The president’s Middle East reset raises human rights concerns for some fellow Democrats. Others are prepared to get pragmatic. 
  <p class="updated_time"> 11:00 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103702099/man-arrested-kavanaugh-house">Police arrest an armed man outside Justice Kavanaugh's house </a> NPR: An armed man arrested near Kavanaugh's home was charged with "attempts to kidnap or murder, or threatens to assault, kidnap or murder" the justice, according to a charging document in the case. 
- <p class="updated_time"> 11:00 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/politico-harvard-poll-americans-covid-aid-uninsured-00037848">POLITICO-Harvard poll: Majority of Americans support more Covid aid for the uninsured</a> Politico: At the same time, more than six in 10 respondents believe that more congressional spending on Covid aid will contribute to inflation. 
  <p class="updated_time"> 08:38 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/california-primaries-boudin-caruso-bass.html">6 Takeaways From Tuesday’s Elections</a> NYT: Crime was on voters’ minds in California, and for Republican incumbents in the House, a vote for a bipartisan Jan. 6 inquiry loomed large. 
  <p class="updated_time"> 07:25 AM CT, Jun. 08 </p> 
