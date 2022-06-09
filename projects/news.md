@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:12 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61745508?at_medium=RSS&at_campaign=KARANGA">Aamir Liaquat Hussain: Pakistan's shock televangelist dies at 50</a> BBC: Aamir Liaquat Hussain was an outspoken, divisive anchor whose shows featured flashy prizes and abuse. 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘The Fate of Our Donbas Is Being Decided,’ Zelensky Says of Sievierodonetsk</a> NYT: From across the river in a twin city, the danger to outgunned Ukrainian forces is clear. The city is burning, and small-arms fire from street-to-street combat echoes across the water. 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 05:50 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61743846?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: Airline stands by South African language quiz</a> BBC: Many South Africans are outraged about the test in Afrikaans, because of its links to apartheid. 
+ <p class="updated_time"> 05:45 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:41 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61744246?at_medium=RSS&at_campaign=KARANGA">Champions League final: Paris police chief sorry for tear gassing Liverpool fans</a> BBC: The head of security at the Champions League final admits failings but says his aim was to save lives. 
- <p class="updated_time"> 05:33 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
  <p class="updated_time"> 04:58 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
- <p class="updated_time"> 04:33 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 04:45 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
@@ -33,18 +35,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 03:51 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61742732?at_medium=RSS&at_campaign=KARANGA">Uvalde attack: US House passes gun bill doomed to fail in senate</a> BBC: The measures include banning sales of semi-automatic weapons to under-21s, but they look set to be rejected. 
- <p class="updated_time"> 03:33 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 03:45 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 03:03 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61730756?at_medium=RSS&at_campaign=KARANGA">La Luz del Mundo megachurch leader jailed for child sex abuse</a> BBC: Naasón Joaquín García pleaded guilty last week to sexually abusing girls from his congregation. 
- <p class="updated_time"> 02:33 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 02:45 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 02:25 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61741424?at_medium=RSS&at_campaign=KARANGA">Daegu fire: Seven killed in suspected arson attack in South Korea</a> BBC: The explosion and fire swept through a law firm in central Daegu, injuring scores of office workers. 
+ <p class="updated_time"> 01:45 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 01:42 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103878929/thailand-decriminalizes-marijuana">Thailand decriminalizes marijuana, but not the strong stuff</a> NPR: Thailand's government says it is promoting cannabis for medical use only, warning that lighting up recreationally in public could still considered to be a nuisance subject to a potential fines. 
- <p class="updated_time"> 01:33 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
  <p class="updated_time"> 11:53 PM CT, Jun. 08 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
  <p class="updated_time"> 06:17 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61718906?at_medium=RSS&at_campaign=KARANGA">Cost of living: The shock of rising prices in Japan</a> BBC: Why making Japan's favourite snack more expensive was so controversial it prompted an ad campaign. 
- <p class="updated_time"> 06:06 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61739159?at_medium=RSS&at_campaign=KARANGA">Microplastics found in fresh Antarctic snow</a> BBC: Scientists say microplastic pollution, found for the first time in fresh Antarctic snow, is potentially harmful. 
  <p class="updated_time"> 06:02 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61722442?at_medium=RSS&at_campaign=KARANGA">Cameroon's Mankon people mourn 'missing' king and welcome successor</a> BBC: Cameroon's Mankon people regard it as a taboo to speak of the death of their 97-year-old monarch. 
  <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
