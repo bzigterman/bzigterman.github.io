@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:38 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A 50-year-old man who died in the blaze, at a law firm’s offices in the city of Daegu, was suspected of setting off the explosion that started it, the police said. 
+ <p class="updated_time"> 01:25 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A 50-year-old man was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
+ <p class="updated_time"> 12:39 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 12:34 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">What Happened on Day 105 of the War in Ukraine</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
- <p class="updated_time"> 11:51 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
- <p class="updated_time"> 10:51 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 11:39 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
+ <p class="updated_time"> 10:39 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 10:04 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61741422?at_medium=RSS&at_campaign=KARANGA">Thailand legalises cannabis trade but still bans recreational use</a> BBC: Thais can now grow cannabis for commerce, but the rules still ban recreational use. 
- <p class="updated_time"> 09:51 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
+ <p class="updated_time"> 09:39 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 09:21 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/south-korea-sewol-ferry-grief.html">Sewol Ferry Disaster in South Korea Leaves Unhealed Wounds </a> NYT: Eight years after the Sewol ferry disaster took the lives of 250 South Korean students, parents say they are still struggling to come to terms with the lessons the tragedy brought to bear. 
- <p class="updated_time"> 08:51 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
+ <p class="updated_time"> 08:39 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 08:38 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde attack survivor, 11, covered herself in friend's blood</a> BBC: Miah Cerillo, 11, told lawmakers about her harrowing experience surviving the school shooting. 
  <p class="updated_time"> 08:36 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
- <p class="updated_time"> 07:51 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 07:46 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61710500?at_medium=RSS&at_campaign=KARANGA">Top Gun betrays Hollywood's weakness in China</a> BBC: Some claim that the Tom Cruise flick is standing up to Beijing, but it's too early to cheer. 
  <p class="updated_time"> 07:04 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden Backs Economic-Recovery Agenda at Summit of the Americas</a> WSJ: The administration is also expected to seal a joint migration declaration on Friday. 
+ <a href="https://www.wsj.com/articles/biden-to-push-for-help-on-migration-at-summit-of-the-americas-11654685530">Biden Backs Economic-Recovery Agenda</a> WSJ: The administration is also expected to seal a joint migration declaration on Friday. 
  <p class="updated_time"> 06:22 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/angela-merkel-russia-putin.html">Angela Merkel Says She ‘Won’t Apologize’ for Her Russia Diplomacy</a> NYT: Ms. Merkel has come under fire for pushing German-Russian business interests during her tenure as chancellor. 
  <p class="updated_time"> 06:17 PM CT, Jun. 08 </p> 
@@ -61,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 04:59 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61730756?at_medium=RSS&at_campaign=KARANGA">La Luz del Mundo megachurch leader jailed for child sex abuse</a> BBC: Naasón Joaquín García pleaded guilty last week to sexually abusing girls from his congregation. 
- <p class="updated_time"> 04:47 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61740692?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Zelensky ties fate of east Ukraine to battle for city</a> BBC: Ukraine's president says fighting for Severodonetsk may prove decisive in the battle for the east. 
  <p class="updated_time"> 04:21 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103785100/china-brought-a-major-initiative-to-pacific-island-nations-it-has-the-u-s-worrie">China brought a major initiative to Pacific Island nations. It has the U.S. worried</a> NPR: China's foreign minister recently wrapped up a visit to eight Pacific island nations, raising alarm in the U.S. and its allies. 
  <p class="updated_time"> 04:14 PM CT, Jun. 08 </p> 
@@ -222,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/biden-jimmy-kimmel-guns-00038394">Biden urges Americans to make guns 'a voting issue'</a> Politico: During an extended interview with comedian Jimmy Kimmel, he urged Americans to make themselves heard on the emotional issue. 
  <p class="updated_time"> 11:05 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/09/ukraine-death-bodies-mariupol-00038386">Smashed buildings in Mariupol produce ‘endless caravan of death’</a> Politico: Ukrainian and Russian forces continued to battle fiercely for control of Sievierodonestk. 
  <p class="updated_time"> 11:04 PM CT, Jun. 08 </p> 
@@ -298,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/business/economy/inflation-biden-administration.html">White House Struggles to Talk About Inflation, the ‘Problem From Hell’</a> NYT: Inflation is upending voter confidence and posing a glaring political liability that looms over the Biden administration’s major policy decisions. 
  <p class="updated_time"> 01:01 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/lauren-boebert.html">Colorado to Examine Lauren Boebert’s Mileage Claims and Tax Liens</a> NYT: The state’s attorney general has referred for review a fraud complaint from the group that targeted Representative Madison Cawthorn, in a sign of trouble for the first-term congresswoman. 
- <p class="updated_time"> 12:50 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/california-primaries-winners-losers.html">Who won and who lost in Tuesday’s primary elections.</a> NYT: The recall of San Francisco’s district attorney and the Los Angeles mayor’s race drew the most attention, but several other contests were decided, too. 
  <p class="updated_time"> 12:19 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103702696/parents-victims-buffalo-uvalde-testify-gun-control-congress">Parents of recent mass shooting victims urge Congress to act on gun control</a> NPR: Parents of children killed and wounded in shootings in Buffalo and Uvalde testified before Congress on Wednesday, imploring members to act quickly on gun control measures. 
  <p class="updated_time"> 12:15 PM CT, Jun. 08 </p> 
