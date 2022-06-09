@@ -9,26 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:25 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A 50-year-old man was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 12:39 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
- <p class="updated_time"> 12:34 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 02:25 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61741424?at_medium=RSS&at_campaign=KARANGA">Daegu fire: Seven killed in suspected arson attack in South Korea</a> BBC: The explosion and fire swept through a law firm in central Daegu, injuring scores of office workers. 
+ <p class="updated_time"> 01:55 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">What Happened on Day 105 of the War in Ukraine</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 01:42 AM CT, Jun. 09 </p> 
+ <a href="https://www.npr.org/2022/06/09/1103878929/thailand-decriminalizes-marijuana">Thailand decriminalizes marijuana, but not the strong stuff</a> NPR: Thailand's government says it is promoting cannabis for medical use only, warning that lighting up recreationally in public could still considered to be a nuisance subject to a potential fines. 
+ <p class="updated_time"> 01:40 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A 50-year-old man was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
+ <p class="updated_time"> 01:33 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
+ <p class="updated_time"> 12:33 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
- <p class="updated_time"> 11:39 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
- <p class="updated_time"> 10:39 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 11:53 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61741352?at_medium=RSS&at_campaign=KARANGA">Climate change: New Zealand's plan to tax cow and sheep burps</a> BBC: It would make it the first country to charge farmers for the methane emissions from their animals. 
+ <p class="updated_time"> 11:33 PM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
+ <p class="updated_time"> 10:33 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
+ <p class="updated_time"> 10:13 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61703724?at_medium=RSS&at_campaign=KARANGA">Samrat Prithviraj: Why did a Bollywood film on a popular Hindu king fail?</a> BBC: A much-hyped film on the 12th Century Indian king Prithviraj Chauhan has tanked at the box office. Why? 
  <p class="updated_time"> 10:04 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61741422?at_medium=RSS&at_campaign=KARANGA">Thailand legalises cannabis trade but still bans recreational use</a> BBC: Thais can now grow cannabis for commerce, but the rules still ban recreational use. 
- <p class="updated_time"> 09:39 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
+ <p class="updated_time"> 09:33 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 09:21 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/south-korea-sewol-ferry-grief.html">Sewol Ferry Disaster in South Korea Leaves Unhealed Wounds </a> NYT: Eight years after the Sewol ferry disaster took the lives of 250 South Korean students, parents say they are still struggling to come to terms with the lessons the tragedy brought to bear. 
- <p class="updated_time"> 08:39 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 08:38 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde attack survivor, 11, covered herself in friend's blood</a> BBC: Miah Cerillo, 11, told lawmakers about her harrowing experience surviving the school shooting. 
  <p class="updated_time"> 08:36 PM CT, Jun. 08 </p> 
@@ -51,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61659141?at_medium=RSS&at_campaign=KARANGA">Covid-19 in China: Shanghai getting used to 'new normal'</a> BBC: The city had been in lockdown for two months as China imposed its "zero Covid" policy on the population of 25m. 
  <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61711468?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Qatar accused of under-reporting deaths in Gulf's killer heat</a> BBC: A BBC Arabic investigation uncovers allegations that Qatar is underreporting the number of migrant workers who have died of heat stroke. 
- <p class="updated_time"> 05:38 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-61727651?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WTO boss warns of global food crisis</a> BBC: If food shipments do not restart from Ukraine, a severe food crisis will last for years, WTO boss says. 
  <p class="updated_time"> 05:14 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61737567?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Saudi Arabia’s $2 billion golf series</a> BBC: Ros Atkins looks at the controversy surrounding the new Saudi-funded golf tournament. 
  <p class="updated_time"> 05:09 PM CT, Jun. 08 </p> 
@@ -93,10 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/vehicle-plows-into-crowd-in-berlin-killing-at-least-one-11654682566">Car Plows Into Crowd in Berlin, Killing at Least One</a> WSJ: Official said the driver of the vehicle, who was quickly detained, suffered from mental problems and wasn’t politically motivated. 
  <p class="updated_time"> 11:39 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/u-k-to-embrace-stricter-standards-around-sanctions-enforcement-11654711719">U.K. to Embrace Stricter Standards Around Sanctions Enforcement</a> WSJ: The U.K. is set to begin stricter enforcement of the country’s economic sanctions measures next week following legislation passed in the wake of Russia’s invasion of Ukraine. 
- <p class="updated_time"> 11:16 AM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61730651?at_medium=RSS&at_campaign=KARANGA">Belgian royals in DR Congo: King Philippe laments racism of colonial past</a> BBC: King Philippe is on a week-long visit to DR Congo at the invitation of President Félix Tshisekedi. 
- <p class="updated_time"> 10:43 AM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61736763?at_medium=RSS&at_campaign=KARANGA">Harvey Weinstein to be charged with indecent assault in UK</a> BBC: The Metropolitan Police has been authorised to charge the 70-year-old former Hollywood producer. 
  <p class="updated_time"> 10:21 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-volunteers-evacuation.html">In Ukraine, Evacuating the Vulnerable Amid the Terror of War</a> NYT: As Russian forces bear down on eastern Ukraine, a small army of volunteers is racing to bring to safety those unable to care for themselves. 
  <p class="updated_time"> 09:34 AM CT, Jun. 08 </p> 
@@ -115,12 +117,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/australia/australias-monarchy-queen.html">Australia’s Baby Steps Toward Severing Ties With the Queen</a> NYT: The new Labor government has established a ministerial position to begin the process of making the country a republic. But the idea is far from the top of its agenda. 
  <p class="updated_time"> 06:53 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103658195/berlin-car-crash-tauenzienstrasse">A car drove into a crowd in Berlin, killing 1 person, police say</a> NPR: Emergency responders have kept the man who was driving the vehicle at the scene, according to the Berlin police department. 
- <p class="updated_time"> 06:43 AM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61731631?at_medium=RSS&at_campaign=KARANGA">Paris woman condemns police for friend's fatal shooting</a> BBC: A young woman speaks out after her friend becomes the latest person to die in a police road check. 
  <p class="updated_time"> 04:30 AM CT, Jun. 08 </p> 
  <a href="https://www.wsj.com/articles/japan-central-bank-chief-apologizes-over-inflation-comment-11654695012">Yen Hits 20-Year Low, Fueling Price Rises and Apology</a> WSJ: Bank of Japan Gov. Haruhiko Kuroda says he didn’t mean to describe inflation favorably. 
- <p class="updated_time"> 04:17 AM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61731562?at_medium=RSS&at_campaign=KARANGA">Florida: Bodycam footage shows officials borrowing boat to chase suspected thief</a> BBC: Footage shows officials taking to the water to detain a man in the US state of Florida. 
  <p class="updated_time"> 04:01 AM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103531149/biden-is-hosting-the-summit-of-the-americas-but-mexicos-president-wont-be-there">Biden is hosting the Summit of the Americas, but Mexico's president won't be there</a> NPR: The Summit of the Americas was supposed to be a chance for the United States to make progress with its neighbors on migration and other big issues. But several key players won't be at the table. 
  <p class="updated_time"> 04:00 AM CT, Jun. 08 </p> 
@@ -143,12 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/andree-geulen-dead.html">Andrée Geulen, Savior of Jewish Children in Wartime, Dies at 100</a> NYT: A Belgian teacher, she kept them out of the hands of Nazis, hiding them in convents, monasteries and farms. After the war, she reunited many with their parents. 
  <p class="updated_time"> 08:31 PM CT, Jun. 07 </p> 
  <a href="https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv">A big 32-hour workweek test is underway. Supporters think it could help productivity</a> NPR: A pilot of more than 3,300 workers in the U.K. is testing a theory about work. Can people in various industries remain as productive if they just work 32 hours a week with the same pay as 40 hours? 
- <p class="updated_time"> 06:50 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61079265?at_medium=RSS&at_campaign=KARANGA">Kenyan mothers choose between work and their babies</a> BBC: Nutritionist Sophy Saronge knew she should breastfeed her baby for six months but says she had to work. 
- <p class="updated_time"> 06:47 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61717373?at_medium=RSS&at_campaign=KARANGA">Tove Styrke is sick of the streaming song formula</a> BBC: The Swedish star explains why she's rejected the slick, corporate Spotify sound to follow her gut. 
- <p class="updated_time"> 06:33 PM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61667500?at_medium=RSS&at_campaign=KARANGA">Irpin: Russia's reign of terror in a quiet neighbourhood near Kyiv</a> BBC: A handful of streets in a leafy town on Kyiv's doorstep were subjected to weeks of deadly occupation. 
  <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-summit-los-angeles.html">Biden to Host Latin American Leaders at Summit in Los Angeles</a> NYT: The president is already the subject of a boycott by some of the region’s most important heads of state, and his agenda is being met with deep skepticism. 
  <p class="updated_time"> 06:07 PM CT, Jun. 07 </p> 
@@ -175,14 +167,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">Kansas Woman Who Joined ISIS Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
  <p class="updated_time"> 03:09 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
- <p class="updated_time"> 03:04 PM CT, Jun. 07 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/07/1102930419/-swedengate-sparks-food-fight-why-some-countries-share-meals-more-than-others">#SwedenGate sparks food fight: Why some countries share meals more than others </a> NPR: A Reddit user claimed that while visiting a friend's house in Sweden, he had to sit in another room while the family ate dinner. The story ignited a conversation about how the rest of the world eats. 
  <p class="updated_time"> 02:25 PM CT, Jun. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61726841?at_medium=RSS&at_campaign=KARANGA">Matthew McConaughey brings dead girl's shoes to White House</a> BBC: The actor backed "responsible gun ownership" after a school shooting in his Texas hometown. 
  <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
- <p class="updated_time"> 11:31 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61720402?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Why I risk my life to provide aid in Ukraine</a> BBC: The British volunteers helping Ukrainians escape Russian attacks. 
  <p class="updated_time"> 11:20 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/europe/mariupol-bodies-ukraine-russia.html">Bodies of Soldiers Killed Defending Mariupol Are Returned to Ukraine.</a> NYT: In the first official confirmed exchange of war dead, Russia and Ukraine each received about 160 bodies. 
  <p class="updated_time"> 09:01 AM CT, Jun. 07 </p> 
@@ -197,14 +185,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/asia/philippines-martial-law-marcos-museum.html">Philippines Struggles to Save Monument of Heroes Museum</a> NYT: Organizers at the Monument of Heroes in the Philippines are racing to preserve documents related to the Marcos regime before the dictator’s son takes office. 
- <p class="updated_time"> 12:01 AM CT, Jun. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61713228?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Wounded but eager to go back to fight</a> BBC: Ukrainian soldiers are returning from home with "horrendous" injuries often requiring prosthetics. 
  <p class="updated_time"> 08:57 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/americas/dom-phillips-bruno-araujo-pereira-missing-amazon.html">British Journalist and Brazilian Indigenous Expert Missing in the Amazon</a> NYT: Dom Phillips and Bruno Araújo Pereira were last seen Sunday morning traveling in a boat in the northern Brazilian state of Amazonas. 
  <p class="updated_time"> 07:31 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-advanced-weapons-training.html">Potent Weapons Reach Ukraine Faster Than the Know-How to Use Them</a> NYT: Soldiers desperate for advanced arms to match their Russian enemies have resorted to Google Translate to decipher the instructions for their sophisticated new tools. 
- <p class="updated_time"> 07:30 PM CT, Jun. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61657237?at_medium=RSS&at_campaign=KARANGA">KK: Remembering the voice that touched millions of Indian love stories</a> BBC: The magical voice of singer KK - who died last week - gave Indians company through joy and heartbreak. 
  <p class="updated_time"> 07:07 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/boris-johnson-vote.html">Boris Johnson Survives Confidence Vote, Scarred but Still Standing </a> NYT: More than 40 percent of lawmakers in Mr. Johnson’s own Conservative Party voted to remove him, a sign that he may struggle to remain prime minister. 
  <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
