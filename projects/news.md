@@ -9,47 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:12 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘The Fate of Our Donbas Is Being Decided,’ Zelensky Says of Sievierodonetsk</a> NYT: From across the river in a twin city, the danger to outgunned Ukrainian forces is clear. The city is burning, and small-arms fire from street-to-street combat echoes across the water. 
+ <p class="updated_time"> 10:11 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
+ <p class="updated_time"> 10:09 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Live Updates: Biden Hosts Summit of the Americas, Without Key Leaders</a> NYT: The summit is focused on immigration, but the heads of Mexico, Honduras, El Salvador and Guatemala are skipping the meeting in Los Angeles. Their absence is a sign of a growing rift between the United States and Latin American nations. 
+ <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html">German Brewers Face ‘Unprecedented’ Beer Bottle Shortage</a> NYT: A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue. 
+ <p class="updated_time"> 09:51 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/sport/golf/61746560?at_medium=RSS&at_campaign=KARANGA">PGA Tour suspends golfers for playing Saudi-backed event</a> BBC: The PGA Tour is suspending all its members who are playing in this week's LIV Golf Invitational event at Centurion Club. 
  <p class="updated_time"> 09:45 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61742732?at_medium=RSS&at_campaign=KARANGA">Uvalde attack: US House passes gun bill doomed to fail in senate</a> BBC: The measures include banning sales of semi-automatic weapons to under-21s, but they look set to be rejected. 
- <p class="updated_time"> 09:42 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘The Fate of Our Donbas Is Being Decided,’ Zelensky Says of Sievierodonetsk</a> NYT: From across the river in a twin city, the danger to outgunned Ukrainian forces is clear. The city is burning, and small-arms fire from street-to-street combat echoes across the water. 
- <p class="updated_time"> 09:37 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
  <p class="updated_time"> 09:33 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61744246?at_medium=RSS&at_campaign=KARANGA">Champions League: Police chief admits security failure</a> BBC: The head of security at the Champions League final insists his aim was to save lives. 
- <p class="updated_time"> 09:29 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/golf/61746560?at_medium=RSS&at_campaign=KARANGA">PGA Tour suspends golfers for playing Saudi-backed event</a> BBC: The PGA Tour is suspending all its members who are playing in this week's LIV Golf Invitational event at Centurion Club. 
+ <p class="updated_time"> 09:17 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 09:12 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-61749090?at_medium=RSS&at_campaign=KARANGA">Eurozone interest rates set to rise for first time in 11 years</a> BBC: The European Central Bank will increase rates in July as it tries to control soaring inflation. 
+ <a href="https://www.bbc.co.uk/news/business-61749090?at_medium=RSS&at_campaign=KARANGA">Eurozone interest rates set to rise for first time in 11 years</a> BBC: The European Central Bank intends to increase rates in July as it tries to control soaring inflation. 
  <p class="updated_time"> 09:07 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/sports/golf/liv-golf-pga-tour.html">Saudi Arabia’s LIV Golf Series Upends Genteel World of Golf</a> NYT: By promising top players multimillion-dollar paydays to join its new tour, the kingdom moved beyond investing in a sport and instead made a play for control of one. 
- <p class="updated_time"> 08:54 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 08:51 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html">2 Officials in Vietnam Are Arrested in Covid Test Kit Scandal</a> NYT: The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials. 
  <p class="updated_time"> 08:46 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
  <p class="updated_time"> 08:40 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61745508?at_medium=RSS&at_campaign=KARANGA">Aamir Liaquat Hussain: Pakistan's shock televangelist dies at 50</a> BBC: Aamir Liaquat Hussain was an outspoken, divisive anchor whose shows featured flashy prizes and abuse. 
- <p class="updated_time"> 07:54 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61745508?at_medium=RSS&at_campaign=KARANGA">Aamir Liaquat Hussain: Pakistan's shock televangelist dies at 50</a> BBC: Aamir Liaquat Hussain was an outspoken, divisive host whose shows featured flashy prizes and abuse. 
+ <p class="updated_time"> 08:17 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine</a> WSJ: Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine 
- <p class="updated_time"> 07:52 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html">German Brewers Face ‘Unprecedented’ Beer Bottle Shortage</a> NYT: A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue. 
+ <p class="updated_time"> 07:17 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 07:00 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1102838828/complex-taiwanese-and-chinese-identities-are-exposed-after-gunman-enters-church">Complex Taiwanese and Chinese identities are exposed after gunman enters church </a> NPR: A gunman who killed one man and shot others exposes the complex identities of Taiwanese and Chinese people. 
- <p class="updated_time"> 06:54 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
+ <p class="updated_time"> 06:17 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
- <p class="updated_time"> 05:54 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 05:50 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61743846?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: Airline stands by South African language quiz</a> BBC: Many South Africans are outraged about the test in Afrikaans, because of its links to apartheid. 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 04:54 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 05:17 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-exports-rebounded-in-may-as-covid-restrictions-eased-11654761807">China’s Exports Rebounded in May as Covid Restrictions Eased</a> WSJ: China’s Exports Rebounded in May as Covid Restrictions Eased 
  <p class="updated_time"> 04:46 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61743567?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Brazil steps up search for missing journalist</a> BBC: Journalist Dom Phillips and indigenous expert Bruno Pereira disappeared on Sunday in the Amazon. 
@@ -193,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/06/world/americas/dom-phillips-bruno-araujo-pereira-missing-amazon.html">British Journalist and Brazilian Indigenous Expert Missing in the Amazon</a> NYT: Dom Phillips and Bruno Araújo Pereira were last seen Sunday morning traveling in a boat in the northern Brazilian state of Amazonas. 
  <p class="updated_time"> 07:31 PM CT, Jun. 06 </p> 
  <a href="https://www.nytimes.com/2022/06/06/world/europe/ukraine-advanced-weapons-training.html">Potent Weapons Reach Ukraine Faster Than the Know-How to Use Them</a> NYT: Soldiers desperate for advanced arms to match their Russian enemies have resorted to Google Translate to decipher the instructions for their sophisticated new tools. 
- <p class="updated_time"> 04:41 PM CT, Jun. 06 </p> 
- <a href="https://www.nytimes.com/2022/06/06/world/middleeast/israel-settlers-bennett-netanyahu.html">Israel’s Government Teeters Again, Losing Vote on Law that Supports West Bank Settlers</a> NYT: The vote’s failure — from defections within the governing bloc and a power move by usually pro-settler opposition lawmakers — could topple the government and throw a lifeline to former Prime Minister Benjamin Netanyahu. 
 
 
 </details>
@@ -202,9 +202,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:51 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
+ <p class="updated_time"> 10:11 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
- <p class="updated_time"> 09:40 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 09:58 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/brett-kavanaugh-threat-arrest.html">Armed Man Traveled to Justice Kavanaugh’s Home to Kill Him, Officials Say</a> NYT: The man, Nicholas John Roske, 26, said he was upset about the shooting in Uvalde, Texas, and impending decisions on abortion and guns, a federal affidavit says. 
+ <p class="updated_time"> 09:58 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/gun-violence-bill-uvalde-buffalo.html">As Survivors Demand Action, House Passes Gun Bill Doomed in the Senate</a> NYT: On a day of wrenching testimony from victims of the school shooting in Uvalde, Democrats pushed through a gun control package facing solid G.O.P. opposition and no path in the Senate. 
  <p class="updated_time"> 09:21 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">Trump and Unreleased Video Expected to Be Focus of First Jan 6. Hearing</a> NYT: The House panel investigating the attack will lead its public sessions with video testimony from people close to the former president and footage revealing the role of the Proud Boys. 
@@ -254,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/08/politics/house-gun-violence-hearing-uvalde-buffalo-key-moments/index.html">Key moments from Wednesday's emotional hearing on gun violence</a> CNN: A House committee hearing on Wednesday provided a high-profile platform for an 11-year-old survivor of the Uvalde elementary school shooting and others affected by gun violence to tell their harrowing stories to the American public. 
  <p class="updated_time"> 10:26 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/biden-summit-americas.html">At Summit of Americas, Biden Pledges U.S. Help on Latin American Problems</a> NYT: Opening the three-day summit, the president delivered a version of his domestic economic pitch, urging governments to invest in workers and the middle class. 
- <p class="updated_time"> 10:26 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/brett-kavanaugh-threat-arrest.html">Armed Man Traveled to Justice Kavanaugh’s Home to Kill Him, Officials Say</a> NYT: The man, Nicholas John Roske, 26, said he was upset about the shooting in Uvalde, Texas, and impending decisions on abortion and guns, a federal affidavit says. 
  <p class="updated_time"> 09:58 PM CT, Jun. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:35 PM CT, Jun. 08 </p> 
