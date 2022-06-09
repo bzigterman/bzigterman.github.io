@@ -9,23 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:31 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘The Fate of Our Donbas Is Being Decided,’ Zelensky Says of Sievierodonetsk</a> NYT: From across the river in a twin city, the danger to outgunned Ukrainian forces is clear. The city is burning, and small-arms fire from street-to-street combat echoes across the water. 
+ <p class="updated_time"> 12:31 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html">Putin Compares Himself to Peter the Great, the Famous Czar </a> NYT: Vladimir Putin likened his goals in Ukraine to the conquests of Peter the Great. 
+ <p class="updated_time"> 12:23 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Live Updates: Biden Hosts Summit of the Americas, Without Key Leaders</a> NYT: The summit is focused on immigration, but the heads of Mexico, Honduras, El Salvador and Guatemala are skipping the meeting in Los Angeles. Their absence is a sign of a growing rift between the United States and Latin American nations. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html">German Brewers Face ‘Unprecedented’ Beer Bottle Shortage</a> NYT: A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103937143/ukraine-medical-cannabis-war">The war is speeding up Ukraine's efforts to legalize medical cannabis </a> NPR: Some Ukrainian advocates and lawmakers have long campaigned for the legalization of medical cannabis. A revised version of a bill that failed last year is heading back to Parliament with new urgency. 
  <p class="updated_time"> 12:10 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61744246?at_medium=RSS&at_campaign=KARANGA">Champions League: French police looked for problems, says Liverpool mayor</a> BBC: Steve Rotheram tells the French Senate police sought confrontation at Champions League final in Paris. 
- <p class="updated_time"> 12:08 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘The Fate of Our Donbas Is Being Decided,’ Zelensky Says of Sievierodonetsk</a> NYT: From across the river in a twin city, the danger to outgunned Ukrainian forces is clear. The city is burning, and small-arms fire from street-to-street combat echoes across the water. 
- <p class="updated_time"> 12:08 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Live Updates: Biden Hosts Summit of the Americas, Without Key Leaders</a> NYT: The summit is focused on immigration, but the heads of Mexico, Honduras, El Salvador and Guatemala are skipping the meeting in Los Angeles. Their absence is a sign of a growing rift between the United States and Latin American nations. 
  <p class="updated_time"> 11:57 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/israel-bennett-uae-visit.html">Naftali Bennett, Israel’s Prime Minister, Visits U.A.E.</a> NYT: The trip by Naftali Bennett, the Israeli leader, burnishes his foreign policy credentials and provides some distraction from his domestic political troubles. 
  <p class="updated_time"> 11:53 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
+ <p class="updated_time"> 11:51 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61738919?at_medium=RSS&at_campaign=KARANGA">Ryan Kelley: FBI arrests Michigan gubernatorial candidate on 6 January charges</a> BBC: Ryan Kelley, a Republican candidate for governor of Michigan, faces four misdemeanour charges. 
  <p class="updated_time"> 11:37 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
- <p class="updated_time"> 11:16 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 11:36 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 11:12 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html">Russia Prosecuting 1,100 Captured Ukrainian Soldiers</a> NYT: Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow. 
@@ -35,16 +39,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
  <p class="updated_time"> 10:56 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html">Tourist Damages Rome’s Spanish Steps by Pushing a Scooter Down Them</a> NYT: An American woman and her companion caused $27,000 in damage to the landmark, officials said. They were fined and have been barred from the site for six months. 
- <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine</a> WSJ: Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine 
+ <p class="updated_time"> 10:36 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 09:51 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61746560?at_medium=RSS&at_campaign=KARANGA">PGA Tour suspends golfers for playing Saudi-backed event</a> BBC: The PGA Tour is suspending all its members who are playing in this week's LIV Golf Invitational event at Centurion Club. 
  <p class="updated_time"> 09:45 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61742732?at_medium=RSS&at_campaign=KARANGA">Uvalde attack: US House passes gun bill doomed to fail in senate</a> BBC: The measures include banning sales of semi-automatic weapons to under-21s, but they look set to be rejected. 
+ <p class="updated_time"> 09:36 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
- <p class="updated_time"> 09:16 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 09:12 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61749090?at_medium=RSS&at_campaign=KARANGA">Eurozone interest rates set to rise for first time in 11 years</a> BBC: The European Central Bank intends to increase rates in July as it tries to control soaring inflation. 
  <p class="updated_time"> 08:51 AM CT, Jun. 09 </p> 
@@ -53,9 +57,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
  <p class="updated_time"> 08:40 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61745508?at_medium=RSS&at_campaign=KARANGA">Aamir Liaquat Hussain: Pakistan's shock televangelist dies at 50</a> BBC: Aamir Liaquat Hussain was an outspoken, divisive host whose shows featured flashy prizes and abuse. 
- <p class="updated_time"> 08:16 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 08:36 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
- <p class="updated_time"> 07:16 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 07:36 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-exports-rebounded-in-may-as-covid-restrictions-eased-11654761807">China’s Exports Rebounded in May as Covid Restrictions Eased</a> WSJ: China’s Exports Rebounded in May as Covid Restrictions Eased 
  <p class="updated_time"> 07:00 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1102838828/complex-taiwanese-and-chinese-identities-are-exposed-after-gunman-enters-church">Complex Taiwanese and Chinese identities are exposed after gunman enters church </a> NPR: A gunman who killed one man and shot others exposes the complex identities of Taiwanese and Chinese people. 
@@ -195,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/world/europe/no-confidence-vote-theresa-may.html">Theresa May and Others Who Survived No-Confidence Votes Didn’t Last Long After</a> NYT: Two previous Conservative prime ministers were ultimately forced out, and one lost a landslide election two years later. 
  <p class="updated_time"> 06:17 AM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/world/africa/gupta-brothers-arrest-dubai.html">Gupta Brothers, Accused of Corruption in South Africa, Are Arrested in Dubai</a> NYT: Atul and Rajesh Gupta had fled South Africa four years ago amid intense law enforcement scrutiny and public outrage over allegations that they facilitated the gutting of state resources. 
- <p class="updated_time"> 02:06 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/world/europe/fiji-superyacht-russia-oligarch.html">Fiji Hands Over Superyacht That U.S. Says Is Tied to Russian Oligarch</a> NYT: The handover of the Amadea is the latest development in a global effort to seize the assets of oligarchs with ties to Russia’s president. 
 
 
 </details>
@@ -213,7 +215,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:13 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/hutchinson-former-meadows-aide-replaces-lawyer-jan-6-hearings-00038439">Hutchinson, former Meadows aide, replaces lawyer on cusp of Jan. 6 hearings</a> Politico: Her previous attorney has deep Trump World connections. Her new lawyer is a longtime close ally of former attorney general Jeff Sessions. 
  <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103925150/michigan-candidate-for-governor-ryan-kelley-arrested-by-fbi-for-jan-6-involvemen">Michigan candidate for governor, Ryan Kelley, arrested by FBI for Jan. 6 involvement</a> NPR: Thurs., the FBI arrested Ryan Kelley for charges related to the Capitol breach on Jan. 6, 2021. He's one of a few candidates running for governor in Michigan. Others were removed for signature fraud. 
+ <a href="https://www.npr.org/2022/06/09/1103925150/michigan-candidate-for-governor-ryan-kelley-arrested-by-fbi-for-jan-6-involvemen">Michigan candidate for governor, Ryan Kelley, arrested by FBI for Jan. 6 involvement</a> NPR: Thurs., Ryan Kelley faces charges related to the Capitol breach on Jan. 6, 2021. He's one of a few remaining candidates running for governor in Michigan who hasn't been accused of signature fraud. 
  <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/biden-summit-americas.html">At Summit of Americas, Biden Pledges U.S. Help on Latin American Problems</a> NYT: Opening the three-day summit, the president delivered a version of his domestic economic pitch, urging governments to invest in workers and the middle class. 
  <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
@@ -236,6 +238,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/us/politics/jan-6-republicans-primaries-trump.html">Jan. 6 Inquiry Votes Aren’t Costing G.O.P. Incumbents in Primaries, Yet</a> NYT: Eleven of 14 incumbents have won their primaries, with two contests still to be determined. Primary challenges still await a dozen more. 
  <p class="updated_time"> 07:08 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/09/opening-night-jan-6-committee-raises-the-curtain-00038416">Opening night: Jan. 6 committee raises the curtain</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:37 AM CT, Jun. 09 </p> 
+ <a href="https://www.cnn.com/2022/06/08/politics/january-6-committee-hearings-trump-culpability/index.html">January 6 panel eyes Trump's culpability as hearings begin</a> CNN: With public hearings kicking off this week, the House select committee investigating January 6 is zeroing in on former President Donald Trump, and is preparing to use its platform to argue that he was responsible for grave abuses of power that nearly upended US democracy. 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/09/what-to-expect-from-the-first-jan-6-hearing-00038396"> What to expect from the first Jan. 6 hearing</a> Politico Playbook: And Sen. Bernie Sanders (I-Vt.) has a blunt warning for Democrats. 
  <p class="updated_time"> 04:01 AM CT, Jun. 09 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/the-supreme-court-could-end-abortion-in-michigan-00038259">The Supreme Court could end abortion in Michigan. The race is on to let voters have their say.</a> Politico: Michigan is one of more than 20 states with a law on the books that would outlaw nearly all abortions if the Supreme Court overturns Roe v. Wade. 
  <p class="updated_time"> 11:05 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/09/ukraine-death-bodies-mariupol-00038386">Smashed buildings in Mariupol produce ‘endless caravan of death’</a> Politico: Ukrainian and Russian forces continued to battle fiercely for control of Sievierodonestk. 
- <p class="updated_time"> 11:04 PM CT, Jun. 08 </p> 
- <a href="https://www.cnn.com/2022/06/08/politics/house-gun-violence-hearing-uvalde-buffalo-key-moments/index.html">Key moments from Wednesday's emotional hearing on gun violence</a> CNN: A House committee hearing on Wednesday provided a high-profile platform for an 11-year-old survivor of the Uvalde elementary school shooting and others affected by gun violence to tell their harrowing stories to the American public. 
  <p class="updated_time"> 09:58 PM CT, Jun. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:24 PM CT, Jun. 08 </p> 
