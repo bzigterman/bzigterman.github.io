@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:42 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
- <p class="updated_time"> 06:37 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 08:38 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde attack survivor, 11, covered herself in friend's blood</a> BBC: Miah Cerillo, 11, told lawmakers about her harrowing experience surviving the school shooting. 
+ <p class="updated_time"> 08:36 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735321?at_medium=RSS&at_campaign=KARANGA">US man charged with attempted murder of Justice Brett Kavanaugh</a> BBC: The man was arrested early on Wednesday morning outside the home of Justice Brett Kavanaugh. 
+ <p class="updated_time"> 08:34 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/08/world/russia-ukraine-war-news">Live Ukraine Updates: Russia Restores Rail Links and Canal to Cement Hold on South</a> NYT: Moscow said its military had repaired hundreds of miles of track, and a key freshwater source is flowing again to Russian-occupied Crimea. Connecting Russia to territory captured in southern Ukraine would accomplish one of Moscow’s major objectives in the war. 
+ <p class="updated_time"> 08:03 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
+ <p class="updated_time"> 07:46 PM CT, Jun. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61710500?at_medium=RSS&at_campaign=KARANGA">Top Gun betrays Hollywood's weakness in China</a> BBC: Some claim that the Tom Cruise flick is standing up to Beijing, but it's too early to cheer. 
+ <p class="updated_time"> 07:03 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 06:22 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/angela-merkel-russia-putin.html">Angela Merkel Says She ‘Won’t Apologize’ for Her Russia Diplomacy</a> NYT: Ms. Merkel has come under fire for pushing German-Russian business interests during her tenure as chancellor. 
  <p class="updated_time"> 06:17 PM CT, Jun. 08 </p> 
@@ -21,16 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61718906?at_medium=RSS&at_campaign=KARANGA">Cost of living: The shock of rising prices in Japan</a> BBC: Why making Japan's favourite snack more expensive was so controversial it prompted an ad campaign. 
  <p class="updated_time"> 06:06 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61739159?at_medium=RSS&at_campaign=KARANGA">Microplastics found in fresh Antarctic snow</a> BBC: Scientists say microplastic pollution, found for the first time in fresh Antarctic snow, is potentially harmful. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 06:02 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61722442?at_medium=RSS&at_campaign=KARANGA">Cameroon's Mankon people mourn 'missing' king and welcome successor</a> BBC: Cameroon's Mankon people regard it as a taboo to speak of the death of their 97-year-old monarch. 
  <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61659141?at_medium=RSS&at_campaign=KARANGA">Covid-19 in China: Shanghai getting used to 'new normal'</a> BBC: The city had been in lockdown for two months as China imposed its "zero Covid" policy on the population of 25m. 
  <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61711468?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Qatar accused of under-reporting deaths in Gulf's killer heat</a> BBC: A BBC Arabic investigation uncovers allegations that Qatar is underreporting the number of migrant workers who have died of heat stroke. 
- <p class="updated_time"> 05:59 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61735606?at_medium=RSS&at_campaign=KARANGA">Uvalde attack survivor, 11, covered herself in friend's blood</a> BBC: Miah Cerillo, 11, told a lawmakers about her harrowing experience surviving the school shooting. 
- <p class="updated_time"> 05:57 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 05:38 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
  <p class="updated_time"> 05:38 PM CT, Jun. 08 </p> 
@@ -39,12 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61737567?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Saudi Arabia’s $2 billion golf series</a> BBC: Ros Atkins looks at the controversy surrounding the new Saudi-funded golf tournament. 
  <p class="updated_time"> 05:09 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61729102?at_medium=RSS&at_campaign=KARANGA">Berlin: Teacher dead and pupils hurt as car hits crowd</a> BBC: Evidence suggests the driver was a "mentally ill person running amok", a regional official says. 
+ <p class="updated_time"> 05:03 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 05:01 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 04:59 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61730756?at_medium=RSS&at_campaign=KARANGA">La Luz del Mundo megachurch leader jailed for child sex abuse</a> BBC: Naasón Joaquín García pleaded guilty last week to sexually abusing girls from his congregation. 
- <p class="updated_time"> 04:57 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 04:47 PM CT, Jun. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61740692?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Zelensky ties fate of east Ukraine to battle for city</a> BBC: Ukraine's president says fighting for Severodonetsk may prove decisive in the battle for the east. 
  <p class="updated_time"> 04:21 PM CT, Jun. 08 </p> 
@@ -53,8 +59,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/08/1103663784/russia-ukraine-war-what-happened-today-june-8">Russia-Ukraine war: What happened today (June 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
- <p class="updated_time"> 03:57 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
+ <p class="updated_time"> 04:03 PM CT, Jun. 08 </p> 
+ <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 03:50 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103785072/india-is-seeing-international-backlash-after-spokeswomans-comments-on-islam">India is seeing international backlash after spokeswoman's comments on Islam</a> NPR: The diplomatic uproar across the Muslim world is growing, after a spokeswoman for India's ruling party made derogatory remarks insulting the Prophet Muhammad. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
@@ -63,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61719196?at_medium=RSS&at_campaign=KARANGA">Nuclear watchdog censures Iran over uranium traces - diplomats</a> BBC: Iran is accused of not fully answering questions about uranium traces found at three undeclared sites. 
  <p class="updated_time"> 03:05 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103766334/shrinkflation-globally-manufacturers-shrink-package-sizes">'Shrinkflation' accelerates globally as manufacturers quietly shrink package sizes</a> NPR: Shrinkflation isn't new, experts say. But it proliferates in times of high inflation as companies grapple with rising costs for ingredients, packaging, labor and transportation. 
- <p class="updated_time"> 02:57 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 02:39 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/berlin-car-crash.html">Car Plows Into a School Group in Berlin, Killing 1 and Injuring 14</a> NYT: A teacher was killed and those hurt were students traveling with her. The driver was described as “mentally impaired,” and police are investigating whether the crash was intentional. 
  <p class="updated_time"> 02:18 PM CT, Jun. 08 </p> 
@@ -73,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
  <p class="updated_time"> 02:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
- <p class="updated_time"> 01:57 PM CT, Jun. 08 </p> 
- <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
  <p class="updated_time"> 01:41 PM CT, Jun. 08 </p> 
@@ -222,20 +224,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:50 PM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/trump-january-6-hearing-00038321">Trump World’s game plan for the Jan. 6 hearing? That’s still a bit TBD.</a> Politico: The president’s crew wants to cast the entire thing as a nothing burger. But they concede they’re in the dark about what’s coming. 
- <p class="updated_time"> 06:23 PM CT, Jun. 08 </p> 
+ <p class="updated_time"> 08:35 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/school-meal-pandemic-program-00038310">As universal school meals program nears end, Biden eyes other ways to get food to school kids</a> Politico: Congress has failed to extend the pandemic-era universal school meal program, which expires on June 30. 
+ <p class="updated_time"> 08:32 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/brett-kavanaugh-threat-arrest.html">Armed Man Traveled to Justice Kavanaugh’s Home to Kill Him, Officials Say</a> NYT: The man, Nicholas John Roske, 26, said he was upset about the shooting in Uvalde, Texas, and impending decisions on abortion and guns, a federal affidavit says. 
- <p class="updated_time"> 06:13 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-omicron-variant.html">Revised Moderna Vaccine Works Better Against Omicron, Trial Suggests</a> NYT: A significantly stronger immune response against Omicron is seen, but it remains unclear how an updated vaccine will fare against future versions of the virus. 
+ <p class="updated_time"> 08:14 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/house-gun-violence-hearing.html">As Survivors Demand Action, House Passes Gun Bill Doomed in the Senate</a> NYT: On a day of wrenching testimony from victims of the school shooting in Uvalde, Democrats pushed through a gun control package facing solid G.O.P. opposition and no path in the Senate. 
+ <p class="updated_time"> 07:44 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/biden-top-science-adviser-00038361">Biden narrows in on his next top science adviser</a> Politico: The former head of DARPA during the Obama years is a “leading contender” for White House for the office. 
+ <p class="updated_time"> 07:24 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/moderna-vaccine-booster-omicron-variant.html">Moderna Says Its Revised Covid Vaccine Works Better Against Omicron</a> NYT: A significantly stronger immune response against Omicron is seen, but it remains unclear how an updated vaccine will fare against future versions of the virus. 
+ <p class="updated_time"> 07:20 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/brad-raffensperger-testify-jan-6-committee-00038325">Raffensperger could testify publicly before Jan. 6 committee</a> Politico: The Georgia secretary of state withstood pressure from then-President Donald Trump to support his baseless claims of election fraud. 
+ <p class="updated_time"> 06:55 PM CT, Jun. 08 </p> 
+ <a href="https://www.nytimes.com/2022/06/08/us/politics/john-allen-brookings-institution.html">Brookings Puts Retired Gen. John Allen on Leave Amid Lobbying Inquiry</a> NYT: Documents obtained by prosecutors indicate that John R. Allen, a retired general and the head of the prestigious think tank, secretly lobbied for Qatar and lied to investigators about it. 
+ <p class="updated_time"> 06:50 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/trump-january-6-hearing-00038321">Trump World is still trying to figure out how best to respond to the Jan 6. hearing</a> Politico: The president’s crew wants to cast the entire thing as a nothing burger. But they concede they’re in the dark about what’s coming. 
  <p class="updated_time"> 06:09 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html">Progressive Backlash in California Fuels Democratic Debate Over Crime</a> NYT: Election results in San Francisco and Los Angeles were the latest signs of a restless Democratic electorate that remains deeply unsatisfied and concerned about public safety. 
  <p class="updated_time"> 06:02 PM CT, Jun. 08 </p> 
  <a href="https://www.npr.org/2022/06/08/1103804802/hudson-canyon-a-giant-underwater-chasm-could-be-the-newest-national-marine-sanct">Hudson Canyon, a giant underwater chasm, could be the newest national marine sanctuary</a> NPR: The site — comparable in size to the Grand Canyon — is about a hundred miles off the coast of New York City. It's home to a number of sensitive species including sperm whales and sea turtles. 
  <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/south-dakota-referendum-medicaid.html">How South Dakota Voters Won a Power Struggle With G.O.P. Legislators</a> NYT: The state roundly rejected a proposal, meant to block Medicaid expansion, that would have reduced voters’ ability to direct policy. It was just the latest clash between voters and state legislatures. 
- <p class="updated_time"> 05:38 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/john-allen-brookings-institution.html">Brookings Puts Retired Gen. John Allen on Leave Amid Lobbying Inquiry</a> NYT: Documents obtained by prosecutors indicate that John R. Allen, a retired general and the head of the prestigious think tank, secretly lobbied for Qatar and lied to investigators about it. 
  <p class="updated_time"> 05:28 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/jan-6-republicans-primaries-trump.html">Jan. 6 Inquiry Votes Aren’t Costing G.O.P. Incumbents in Primaries, Yet</a> NYT: Eleven of 14 incumbents have won their primaries, with two contests still to be determined. Primary challenges still await a dozen more. 
  <p class="updated_time"> 05:28 PM CT, Jun. 08 </p> 
@@ -273,13 +283,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:12 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/arts/television/ken-bode-dead.html">Ken Bode, Erudite ‘Washington Week’ Host on PBS, Dies at 83</a> NYT: Beginning in 1994, he brought to the moderator’s role credentials as a political activist, an academic and a national correspondent for NBC News. 
  <p class="updated_time"> 01:49 PM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/house-democrats-gun-reform-goals-00038111">House Dems set to pass major gun safety bill that will wither in the Senate</a> Politico: The bill would raise the purchase age of firearms, ban high-capacity magazines and expand background checks. 
+ <a href="https://www.politico.com/news/2022/06/08/house-democrats-gun-reform-goals-00038111">House Republicans dig in as Dems pass gun package</a> Politico: The bill would raise the purchase age of firearms, ban high-capacity magazines and expand background checks. 
  <p class="updated_time"> 01:16 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/uvalde-texas-school-shooting-survivor-pleads-with-congress-00038112">‘I don’t want it to happen again’: Texas school shooting survivor pleads with Congress</a> Politico: A survivor's recount of the attack in Uvalde, Texas, marked a wrenching point in a hearing on gun violence following mass shootings in the elementary school and in a Buffalo, N.Y., grocery store. 
  <p class="updated_time"> 01:15 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/us/politics/supreme-court-border-agent-excessive-force.html">Supreme Court Sides With Border Agent Accused of Using Excessive Force</a> NYT: In a 6-to-3 decision, the justices made it harder to sue federal officials for money in cases accusing them of violating the Constitution. 
  <p class="updated_time"> 01:14 PM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/man-gun-arrested-kavanaugh-00038137">Supreme Court security in spotlight after Kavanaugh threat</a> Politico: A California resident charged with attempted murder had gun near the justice’s home. 
+ <a href="https://www.politico.com/news/2022/06/08/man-gun-arrested-kavanaugh-00038137">Supreme Court security in spotlight after Kavanaugh threat</a> Politico: The suspect allegedly called police in Maryland and said he had a gun in his suitcase to kill “a specific Supreme Court justice.” 
  <p class="updated_time"> 01:11 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/business/economy/inflation-biden-administration.html">White House Struggles to Talk About Inflation, the ‘Problem From Hell’</a> NYT: Inflation is upending voter confidence and posing a glaring political liability that looms over the Biden administration’s major policy decisions. 
  <p class="updated_time"> 01:02 PM CT, Jun. 08 </p> 
@@ -348,8 +358,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/trump-endorsed-candidates-2022-primary-result-00037416">Trump endorsed 16 candidates in Tuesday’s primaries. Here are the winners.</a> Politico: The former president ran the table with his endorsements Tuesday. But he largely backed candidates who were likely to win anyway. 
  <p class="updated_time"> 01:08 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-primary-takeaways-00038010">Trump hits another snag: 6 takeaways from a big primary night</a> Politico: Some of the former president's least favorite Republicans survived their primaries. But in California, Democrats appear to have a turnout problem. 
- <p class="updated_time"> 10:41 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/new-mexico-republican-primary-mark-ronchetti.html">In New Mexico's Governor Race, Republicans’ Pick a Former TV Meteorologist</a> NYT: Mr. Ronchetti will challenge Gov. Michelle Lujan Grisham, a Democrat, in the general election. 
  <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
  <p class="updated_time"> 08:55 PM CT, Jun. 07 </p> 
@@ -376,16 +384,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/06/doj-charges-proud-boys-leaders-with-seditious-conspiracy-over-jan-6-attack-00037518">DOJ charges Proud Boys leaders with seditious conspiracy over Jan. 6 attack</a> Politico: The charges come the same week that the Jan. 6 select committee plans to hold its first hearing analyzing the Capitol breach. 
  <p class="updated_time"> 02:11 PM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/filibuster-house-gop-2024-midterms-majority-00037361">What filibuster? House GOP plans a 2024-minded majority</a> Politico: From Keystone XL to a "parents' bill of rights," Republicans eyeing the majority are teeing up proposals with little to no chance in the Senate. 
- <p class="updated_time"> 12:24 PM CT, Jun. 06 </p> 
- <a href="https://www.politico.com/news/2022/06/06/six-things-to-watch-during-the-summit-of-the-americas-00037384">6 things to watch during the Summit of the Americas</a> Politico: As President Joe Biden prepares to host Latin American nations in Los Angeles, questions remain about U.S. influence in the region. 
  <p class="updated_time"> 11:57 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/news/2022/06/06/senators-weigh-enhanced-background-checks-gun-talks-00037426">GOP senators surprisingly bullish on prospects for a bipartisan gun deal</a> Politico: The lawmakers at the core of the negotiations met again Monday evening. 
  <p class="updated_time"> 06:30 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/06/gun-violence-still-tops-to-do-list-in-congress-00037344">Make-or-break week for Senate gun talks</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:33 AM CT, Jun. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/06/mounting-frustrations-at-the-white-house-00037340"> Mounting frustrations at the White House</a> Politico Playbook: And Enes Kanter Freedom will appear at the Republican Study Committee's Wednesday lunch. 
- <p class="updated_time"> 07:00 PM CT, Jun. 05 </p> 
- <a href="https://www.politico.com/news/2022/06/05/biden-wants-to-get-out-more-seething-that-his-standing-is-now-worse-than-trumps-00037278">Biden wants to get out more, seething that his standing is now worse than Trump’s</a> Politico: Frustrations are mounting and the window for a political revival is closing. 
 
 
 </details>
