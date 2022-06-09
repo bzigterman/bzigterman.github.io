@@ -9,41 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:54 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Live Updates: Battle for Sievierodonetsk Could Decide Control of Eastern Ukraine, Zelensky Says</a> NYT: The Ukrainian leader described a “very fierce battle” for one of the last major cities in the Donbas region that has not fallen to Russia. “The fate of our Donbas is being decided there,” he said. 
+ <p class="updated_time"> 05:50 AM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61743846?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: Airline stands by South African language quiz</a> BBC: Many South Africans are outraged about the test in Afrikaans, because of its links to apartheid. 
  <p class="updated_time"> 05:41 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61744246?at_medium=RSS&at_campaign=KARANGA">Champions League final: Paris police chief sorry for tear gassing Liverpool fans</a> BBC: The head of security at the Champions League final admits failings but says his aim was to save lives. 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 05:17 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Live Updates: Battle for Sievierodonetsk Could Decide Control of Eastern Ukraine, Zelensky Says</a> NYT: The Ukrainian leader described a “very fierce battle” for one of the last major cities in the Donbas region that has not fallen to Russia. “The fate of our Donbas is being decided there,” he said. 
  <p class="updated_time"> 04:58 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
+ <p class="updated_time"> 04:58 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 04:48 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
- <p class="updated_time"> 04:46 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602">Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns</a> WSJ: Fear and Destruction Turn Ukraine’s Front-Line Cities Into Ghost Towns 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
+ <p class="updated_time"> 03:58 AM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
  <p class="updated_time"> 03:51 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61742732?at_medium=RSS&at_campaign=KARANGA">Uvalde attack: US House passes gun bill doomed to fail in senate</a> BBC: The measures include banning sales of semi-automatic weapons to under-21s, but they look set to be rejected. 
- <p class="updated_time"> 03:46 AM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870">Russia Takes Captured Mariupol Fighters to Its Territory</a> WSJ: Russia Takes Captured Mariupol Fighters to Its Territory 
- <p class="updated_time"> 03:36 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61743846?at_medium=RSS&at_campaign=KARANGA">Ryanair Afrikaans test: Airline stands by South African language quiz</a> BBC: Many South Africans are outraged about the test in Afrikaans, because of its links to apartheid. 
  <p class="updated_time"> 03:03 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61730756?at_medium=RSS&at_campaign=KARANGA">La Luz del Mundo megachurch leader jailed for child sex abuse</a> BBC: Naasón Joaquín García pleaded guilty last week to sexually abusing girls from his congregation. 
- <p class="updated_time"> 02:46 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 02:58 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/iran-turns-off-nuclear-monitoring-cameras-ahead-of-iaea-censure-vote-11654693514">U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate</a> WSJ: U.N. Nuclear Watchdog Rebukes Iran for Failure to Cooperate 
  <p class="updated_time"> 02:25 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61741424?at_medium=RSS&at_campaign=KARANGA">Daegu fire: Seven killed in suspected arson attack in South Korea</a> BBC: The explosion and fire swept through a law firm in central Daegu, injuring scores of office workers. 
- <p class="updated_time"> 01:46 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 01:58 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/high-fuel-prices-squeeze-african-consumers-strand-truckers-and-snarl-flights-11654709421">High Fuel Prices Further Squeeze African Consumers, Businesses</a> WSJ: High Fuel Prices Further Squeeze African Consumers, Businesses 
  <p class="updated_time"> 01:42 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103878929/thailand-decriminalizes-marijuana">Thailand decriminalizes marijuana, but not the strong stuff</a> NPR: Thailand's government says it is promoting cannabis for medical use only, warning that lighting up recreationally in public could still considered to be a nuisance subject to a potential fines. 
- <p class="updated_time"> 12:46 AM CT, Jun. 09 </p> 
+ <p class="updated_time"> 12:58 AM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075">Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</a> WSJ: Fertilizer Price Surge Drives Brazil to High-Tech Alternatives 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
@@ -221,8 +221,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">Jan. 6 Hearings Will Put Trump at the Center of Plot That Resulted in Capitol Riot</a> NYT: The House panel investigating the attack will lead off its public sessions with video testimony from people close to the former president, and footage revealing the role of the Proud Boys. 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/interactive/2022/us/politics/jan-6-timeline.html">Jan. 6: The Story So Far</a> NYT: How a president who couldn’t accept defeat worked with a cabal of loyalists to pursue one strategy after another to subvert democracy and overturn an election. 
- <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/mccarthy-warning-republicans-whip-00038301">McCarthy issues warning to Republicans openly vying for whip</a> Politico: "I think that would backfire on people, if they try to run for something that is not there yet,” the House minority leader told POLITICO. 
  <p class="updated_time"> 03:58 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103884750/what-outcomes-can-we-expect-from-the-summit-of-americas">What outcomes can we expect from the Summit of Americas?</a> NPR: Leaders of nations in the Western Hemisphere get down to business at the Summit of the Americas in Los Angeles. How likely is it that they'll achieve any of their goals? 
@@ -231,7 +229,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/housse-democrats-jan-6-2024-00038305">Dems know the Jan. 6 hearings won't help in November. They're leaning in anyway.</a> Politico: House control is unlikely to hinge on the select committee's findings. And lawmakers who want to stop Donald Trump in 2024 are thinking bigger. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/obama-copenhagen-russia-climate-00038265">Obama dials up his warnings about democracy’s peril</a> Politico: In a speech in Copenhagen, Obama will tackle disinformation, inequality, and Russia’s invasion. It comes as the Jan. 6 hearings commence. 
+ <a href="https://www.politico.com/news/2022/06/09/obama-copenhagen-russia-climate-00038265">Obama to deliver warning of democracy’s peril against twin backdrops: Jan. 6 and Ukraine</a> Politico: In a speech in Copenhagen, Obama will tackle disinformation, inequality, and Russia’s invasion. It comes as the Jan. 6 hearings commence. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/the-supreme-court-could-end-abortion-in-michigan-00038259">The Supreme Court could end abortion in Michigan. The race is on to let voters have their say.</a> Politico: Michigan is one of more than 20 states with a law on the books that would outlaw nearly all abortions if the Supreme Court overturns Roe v. Wade. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
