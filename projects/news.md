@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:29 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as Soldiers Are Outgunned and Putin Talks of Empire</a> NYT: As Ukrainian soldiers try to hold on in the besieged city of Sievierodonetsk, President Volodymyr Zelensky said that his country must not be forced to stay in a “gray zone” and that it needed more weapons and E.U. membership. 
+ <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 05:43 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine Appeals for More Weapons and E.U. Membership</a> NYT: As outgunned Ukrainian soldiers try to hold on in the besieged city of Sievierodonetsk, President Volodymyr Zelensky said his country must not be forced to stay in a “gray zone” under threat from Russia. But his hopes for swift action on E.U. membership are unlikely to be met. 
+ <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400">Business Losses From Russia Top $59 Billion</a> WSJ: Business Losses From Russia Top $59 Billion 
  <p class="updated_time"> 05:43 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
  <p class="updated_time"> 04:51 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
- <p class="updated_time"> 04:44 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
+ <p class="updated_time"> 04:43 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Coronavirus Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 03:44 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
+ <p class="updated_time"> 03:43 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 03:26 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
- <p class="updated_time"> 02:44 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
+ <p class="updated_time"> 02:43 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/chinas-inflationary-pressures-stay-muted-11654845788">China’s Inflationary Pressures Stay Muted</a> WSJ: China’s Inflationary Pressures Stay Muted 
  <p class="updated_time"> 02:31 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 01:44 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
+ <p class="updated_time"> 01:43 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries to Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries to Pledge to Take In More Migrants 
  <p class="updated_time"> 01:39 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
  <p class="updated_time"> 01:05 AM CT, Jun. 10 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump accused of attempted coup</a> BBC: A hearing shows clips of the ex-president's daughter and aides saying his claim of voter fraud was false. 
  <p class="updated_time"> 01:02 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
- <p class="updated_time"> 12:44 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-proposes-helping-israel-arab-states-coordinate-air-defenses-against-iran-11654779601">U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran</a> WSJ: U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran 
  <p class="updated_time"> 12:43 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/arts/television/song-hae-dead.html">Song Hae, Beloved South Korean TV Host, Dies at 95</a> NYT: Born in what is now North Korea, he was known for his cheeky grin and folksy wisecracks as the host of South Korea’s weekly “National Singing Contest” for more than three decades. 
  <p class="updated_time"> 12:07 AM CT, Jun. 10 </p> 
@@ -60,8 +62,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
- <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
  <p class="updated_time"> 06:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61702904?at_medium=RSS&at_campaign=KARANGA">Covid-19: Japan reopens to tourists - but with strict rules</a> BBC: The once-popular Asian destination has some of the world's toughest Covid-19 restrictions. 
@@ -74,7 +74,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:02 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61747276?at_medium=RSS&at_campaign=KARANGA">Bangladesh students rescuing snakes and keeping people safe</a> BBC: Bangladesh's Deep Ecology and Snake Rescue Foundation has rescued more than 1,500 wild snakes since 2018. 
  <p class="updated_time"> 06:00 PM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61749120?at_medium=RSS&at_campaign=KARANGA">YouTube accused of failing to tackle fake Elon Musk livestream scams</a> BBC: YouTube is being criticised for failing to tackle a network of scammers streaming fake Elon Musk videos. 
+ <a href="https://www.bbc.co.uk/news/technology-61749120?at_medium=RSS&at_campaign=KARANGA">YouTube accused of not tackling Musk Bitcoin scam streams</a> BBC: YouTube is being criticised for failing to tackle a network of scammers streaming fake Elon Musk videos. 
  <p class="updated_time"> 05:53 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
  <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
@@ -115,6 +115,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html">Tourist Damages Rome’s Spanish Steps by Pushing a Scooter Down Them</a> NYT: An American woman and her companion caused $27,000 in damage to the landmark, officials said. They were fined and have been barred from the site for six months. 
  <p class="updated_time"> 12:34 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html">Putin Compares Himself to Peter the Great, the Famous Czar </a> NYT: Vladimir Putin likened his goals in Ukraine to the conquests of Peter the Great. 
+ <p class="updated_time"> 12:14 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran's Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s removal of cameras monitoring its nuclear-related work could be a “fatal blow” to the 2015 nuclear accord unless the decision is reversed in the next three to four weeks, the head of the U.N. atomic agency said. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html">German Brewers Face ‘Unprecedented’ Beer Bottle Shortage</a> NYT: A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
@@ -198,6 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:13 AM CT, Jun. 10 </p> 
+ <a href="https://www.npr.org/2022/06/10/1104116505/rep-zoe-lofgren-talks-about-last-nights-jan-6-hearings">Rep. Zoe Lofgren talks about last night's Jan. 6 hearings</a> NPR: NPR's Rachel Martin asks Rep. Zoe Lofgren, Democrat of California, to respond to the first session of the January 6 hearings. 
+ <p class="updated_time"> 06:13 AM CT, Jun. 10 </p> 
+ <a href="https://www.npr.org/2022/06/10/1104116464/house-committee-places-blame-for-jan-6-riot-on-trump">House Committee places blame for Jan. 6 riot on Trump</a> NPR: During a hearing last night in prime time, the House Select Committee investigating January Six made it clear it blames former President Donald Trump for that day's deadly violence. 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/10/its-about-donald-trump-stupid-00038769"> It's about Donald Trump, stupid</a> Politico Playbook: And Rep. Dusty Johnson recounts what he witnessed on Jan. 6. 
  <p class="updated_time"> 04:01 AM CT, Jun. 10 </p> 
@@ -314,16 +320,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1103955686/how-to-watch-the-jan-6-committee-hearings">Here's how to watch the Jan. 6 committee hearings</a> NPR: The hearing on Thursday will be livestreamed on YouTube and on most TV news channels. 
  <p class="updated_time"> 01:23 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">‘It was carnage’: Committee tees up case that Trump fueled Jan. 6 violence</a> Politico: In the select committee’s first hearing, lawmakers tried to connect the former president's actions with escalations of violence during the Capitol attack. 
- <p class="updated_time"> 12:58 PM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103913507/the-planning-behind-the-jan-6-insurrection-went-far-deeper-than-it-initially-see">The planning behind the Jan. 6 insurrection went far deeper than it initially seemed</a> NPR: NY Times Congressional reporter Luke Broadwater says the effort to overturn the '20 election results was a "sprawling and diffuse" one that involved local governments as well as White House insiders. 
  <p class="updated_time"> 11:42 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/plastic-national-parks.html">Plastic Water Bottles to Be Phased Out at National Parks</a> NYT: An Interior Department order will end the sale of single-use plastic products at national parks and on other public lands in the United States by 2032. 
  <p class="updated_time"> 11:40 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/gop-candidate-for-michigan-governor-arrested-in-connection-with-jan-6-attack-00038479">GOP candidate for Michigan governor arrested in connection with Jan. 6 attack</a> Politico: Ryan Kelley was arrested Thursday on misdemeanor charges for participation in the Jan. 6 Capitol riot, according to the U.S. Attorney's Office for the District of Columbia. 
  <p class="updated_time"> 11:37 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
- <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103925150/michigan-candidate-for-governor-ryan-kelley-arrested-by-fbi-for-jan-6-involvemen">Michigan candidate for governor, Ryan Kelley, charged for Jan. 6 involvement</a> NPR: On Thursday, Ryan Kelley was charged with four misdemeanors related to the attack on the U.S. Capitol on Jan. 6, 2021. He's one of five candidates on the Republican primary ballot for governor. 
  <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
  <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
