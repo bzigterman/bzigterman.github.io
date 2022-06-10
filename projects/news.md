@@ -13,19 +13,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 11:08 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘Dead Cities’ Become the Focus of Fierce Fighting in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
+ <p class="updated_time"> 10:58 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 10:45 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries fiancé Sam Asghari</a> BBC: The couple tie the knot seven months after the termination of the pop star's legal conservatorship. 
- <p class="updated_time"> 10:41 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
  <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 10:06 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump accused of 'attempted coup'</a> BBC: A prime-time hearing airs a clip of Ivanka Trump distancing herself from her father's vote fraud claims. 
- <p class="updated_time"> 09:41 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 09:58 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
- <p class="updated_time"> 08:41 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 08:58 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
@@ -33,17 +33,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html">U.S. and Latin American Countries Will Commit to Receive More Migrants</a> NYT: A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
+ <p class="updated_time"> 07:58 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html">2 Officials in Vietnam Are Arrested in Virus Test Kit Scandal</a> NYT: The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials. 
- <p class="updated_time"> 07:41 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
- <p class="updated_time"> 06:41 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 06:58 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 06:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61702904?at_medium=RSS&at_campaign=KARANGA">Covid-19: Japan reopens to tourists - but with strict rules</a> BBC: The once-popular Asian destination has some of the world's toughest Covid-19 restrictions. 
@@ -309,7 +309,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:19 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103955686/how-to-watch-the-jan-6-committee-hearings">Here's how to watch the Jan. 6 committee hearings</a> NPR: The hearing on Thursday will be livestreamed on YouTube and on most TV news channels. 
  <p class="updated_time"> 01:23 PM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">Jan. 6 panel uses Trump allies’ own words to indict former president</a> Politico: In the select committee’s first hearing, lawmakers aired footage of former Attorney General Bill Barr and other officials saying there was no substance to Trump’s claims of election fraud. 
+ <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">‘It was carnage’: Committee tees up case that Trump fueled Jan. 6 violence</a> Politico: In the select committee’s first hearing, lawmakers tried to connect the former president's actions with escalations of violence during the Capitol attack. 
  <p class="updated_time"> 12:58 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103913507/the-planning-behind-the-jan-6-insurrection-went-far-deeper-than-it-initially-see">The planning behind the Jan. 6 insurrection went far deeper than it initially seemed</a> NPR: NY Times Congressional reporter Luke Broadwater says the effort to overturn the '20 election results was a "sprawling and diffuse" one that involved local governments as well as White House insiders. 
  <p class="updated_time"> 11:42 AM CT, Jun. 09 </p> 
