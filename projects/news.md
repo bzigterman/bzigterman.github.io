@@ -9,37 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as Soldiers Are Outgunned and Putin Talks of Empire</a> NYT: As Ukrainian soldiers try to hold on in the besieged city of Sievierodonetsk, President Volodymyr Zelensky said that his country must not be forced to stay in a “gray zone” and that it needed more weapons and E.U. membership. 
+ <p class="updated_time"> 10:49 AM CT, Jun. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61764296?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Five key moments from the US Capitol riot hearing</a> BBC: A Republican slams Trump, police describe chaos and the ex-president's daughter doubts his fraud claim. 
  <p class="updated_time"> 10:19 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The Vatican said Friday that doctors had ordered Francis to stay home and continue treatment on his right knee, which he has said is affected by a torn ligament. 
+ <p class="updated_time"> 10:14 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 10:04 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61738341?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Closer US-Brazil ties unlikely after 'Trump of the Tropics' meets Biden</a> BBC: Brazil's president Jair Bolsonaro, has questioned the validity of the US leader's victory. 
- <p class="updated_time"> 10:01 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as Soldiers Are Outgunned and Putin Talks of Empire</a> NYT: As Ukrainian soldiers try to hold on in the besieged city of Sievierodonetsk, President Volodymyr Zelensky said that his country must not be forced to stay in a “gray zone” and that it needed more weapons and E.U. membership. 
  <p class="updated_time"> 09:58 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
  <p class="updated_time"> 09:56 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 09:53 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 09:51 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-61762131?at_medium=RSS&at_campaign=KARANGA">Energy and food drive US inflation to highest for 40 years</a> BBC: Rising energy and food costs pushed inflation to 8.6% in May, the highest rate in more than 40 years. 
  <p class="updated_time"> 09:27 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. and Chinese Defense Officials Meet in Bid to Cool Regional Tensions</a> NYT: Despite public sparring over Taiwan, both sides indicated there had been some progress on steps to prevent inadvertent escalation of close military encounters. 
+ <p class="updated_time"> 09:14 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/asteroids-could-have-helped-jump-start-life-on-earth-study-finds-11654862129">Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds</a> WSJ: Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds 
  <p class="updated_time"> 09:09 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61756485?at_medium=RSS&at_campaign=KARANGA">Champions League: Chain of failures marred Paris final, French inquiry says</a> BBC: The report says the violence against fans at the Stade de France has "severely damaged" France's image. 
  <p class="updated_time"> 08:57 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
- <p class="updated_time"> 08:53 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/asteroids-could-have-helped-jump-start-life-on-earth-study-finds-11654862129">Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds</a> WSJ: Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds 
  <p class="updated_time"> 08:45 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61757827?at_medium=RSS&at_campaign=KARANGA">Border rapist trial starts in France for 56 attacks</a> BBC: Dino Scala is accused of a 30-year series of rapes and sexual assaults. 
  <p class="updated_time"> 08:34 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law">Drop that fork! Why eating at your desk is banned in France</a> NPR: What the French history of the leisurely lunch break can teach us about separating work from rest. 
- <p class="updated_time"> 07:53 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 08:14 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">North Korea Missile Tests Drawing Tougher Stance From U.S., South Korea</a> WSJ: North Korea Missile Tests Drawing Tougher Stance From U.S., South Korea 
- <p class="updated_time"> 06:53 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 07:14 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/chinese-fighter-jet-crashes-into-residential-buildings-killing-one-11654866349">Chinese Fighter Jet Crashes Into Residential Buildings, Killing One</a> WSJ: Chinese Fighter Jet Crashes Into Residential Buildings, Killing One 
- <p class="updated_time"> 05:53 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 06:14 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 05:51 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61757137?at_medium=RSS&at_campaign=KARANGA">Neighbours cast say farewell on TV soap's last day of filming</a> BBC: Stars of the long-running Australian show say the final day of filming is "incredibly emotional". 
@@ -151,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/asia/south-korea-sewol-ferry-grief.html">Sewol Ferry Disaster in South Korea Leaves Unhealed Wounds </a> NYT: Eight years after the Sewol ferry disaster took the lives of 250 South Korean students, parents say they are still struggling to come to terms with the lessons the tragedy brought to bear. 
  <p class="updated_time"> 06:22 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/angela-merkel-russia-putin.html">Angela Merkel Says She ‘Won’t Apologize’ for Her Russia Diplomacy</a> NYT: Ms. Merkel has come under fire for pushing German-Russian business interests during her tenure as chancellor. 
- <p class="updated_time"> 06:00 PM CT, Jun. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61711468?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Qatar accused of under-reporting deaths in Gulf's killer heat</a> BBC: A BBC Arabic investigation uncovers allegations that Qatar is underreporting the number of migrant workers who have died of heat stroke. 
  <p class="updated_time"> 05:01 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 04:21 PM CT, Jun. 08 </p> 
@@ -202,14 +202,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:45 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/style/after-a-political-storm-gay-days-return-to-disney.html">After a Political Storm, Gay Days Return to Disney</a> NYT: An L.G.B.T.Q. tradition at Disney World took on new significance this year, when Disney was ensnared in a heated cultural debate. 
- <p class="updated_time"> 10:15 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 11:09 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-inflation.html">Biden to Visit Port of Los Angeles, Casting Inflation as a Global Problem</a> NYT: The visit to the nation’s busiest entry point for goods comes as President Biden struggles to show progress on resolving supply chain issues that are fueling inflation across the country. 
+ <p class="updated_time"> 10:45 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/style/disney-gay-days.html">After a Political Storm, Gay Days Return to Disney</a> NYT: An L.G.B.T.Q. tradition at Disney World took on new significance this year, when Disney was ensnared in a heated cultural debate. 
  <p class="updated_time"> 10:12 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104138168/covid-19-negative-test-airline-travelers-lift">Starting on Sunday, you won't have to test for COVID-19 to fly into the U.S.</a> NPR: The Centers for Disease Control and Prevention is lifting its COVID-19 testing requirement for airline travelers coming into the country. It's a major change for the travel industry. 
  <p class="updated_time"> 10:10 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/us-testing-travel-mandate-covid.html">Virus Testing Mandate for International Travelers to the U.S. to End</a> NYT: A senior administration official said that the C.D.C. will re-evaluate the decision in 90 days, and said that the requirement for pre-departure testing could be reinstated if there are new concerns about another variant. 
+ <p class="updated_time"> 10:05 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/inflation-report-00038785">'Real hardship': What you need to know about the inflation report</a> Politico: The increase in CPI was broad-based — driven by rising prices for shelter, gasoline and food — offering little comfort to those who had suggested that inflation would begin to ease. 
  <p class="updated_time"> 09:59 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/u-s-ditches-negative-covid-test-for-international-visitors-00038800">U.S. ditches negative Covid test for international visitors</a> Politico: The White House said that the CDC still may bring back the requirement depending on rising Covid-19 cases. 
  <p class="updated_time"> 09:41 AM CT, Jun. 10 </p> 
@@ -253,13 +255,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104025539/new-hampshire-redistricting-competitive-districts-sununu">Competitive congressional districts are on the decline. New Hampshire bucks the trend</a> NPR: The GOP-led legislature passed a map to dramatically redraw the state's two districts. But Republican Gov. Chris Sununu wanted both of the districts to remain competitive. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
- <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/chesa-boudin-progressive-agenda-california-00038675">Chesa Boudin is out in San Francisco, but his agenda is alive in California</a> Politico: The progressive district attorney's recall defeat was counterbalanced by victories around the state. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/doug-ford-ontario-canada-progressives-00038502">What Doug Ford’s blue-collar victory means for Canada's progressives</a> Politico: The Progressive Conservative premier won a landslide thanks to working-class support. Are Canada's New Democrats at risk of losing their base? 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/gallery/2022/06/10/the-nations-cartoonists-on-the-week-in-politics-00038612">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 12:15 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/video/2022/06/10/we-told-a-story-thompson-talks-to-reporters-after-jan-6-hearing-604100">Jan. 6 chairman Bennie Thompson to present evidence that rioters scouted the capitol before breach</a> Politico: "It's clear that there was more to what was occurring than just coming to a 'Stop the Steal' rally," said Jan. 6 chairman Bennie Thompson after first Jan. 6 committee hearing. 
  <p class="updated_time"> 12:04 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/gallery/january-6-hearings/index.html">In pictures: The January 6 hearings</a> CNN: For the last 10 months, a House select committee has been investigating last year's deadly attack on the US Capitol. 
  <p class="updated_time"> 10:10 PM CT, Jun. 09 </p> 
