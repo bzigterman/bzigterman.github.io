@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html">Behind Enemy Lines, Scouts Help Ukrainians Execute Deadly Strikes</a> NYT: A nascent insurgency made up of civilians or former soldiers provided information that aided Ukraine’s attack on two Russian bases, according to a senior Ukrainian military official. 
+ <p class="updated_time"> 04:14 PM CT, Jun. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61767191?at_medium=RSS&at_campaign=KARANGA">Putin and Peter the Great: Russian leader likens himself to 18th Century tsar</a> BBC: With a nod to history, Putin now feels bold enough to admit that his operation is an occupation. 
  <p class="updated_time"> 04:07 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as It Runs Short on Ammunition and Putin Talks of Empire</a> NYT: Ukraine is running out of ammunition for Soviet-era artillery pieces as its military tries to hold the besieged city of Sievierodonetsk. President Volodymyr Zelensky said his country needed more weapons and E.U. membership. 
  <p class="updated_time"> 04:07 PM CT, Jun. 10 </p> 
@@ -21,24 +25,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104291214/gas-and-food-prices-are-rising-in-kenya-too-driven-by-the-war-in-ukraine">Gas and food prices are rising in Kenya, too, driven by the war in Ukraine</a> NPR: Inflation is the talk of the town in Nairobi, Kenya, just like it is in the United States. From gas to food to soap, here's how one African country is feeling the impact of the war in Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
+ <p class="updated_time"> 03:31 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 03:28 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/arts/television/song-hae-dead.html">Song Hae, Beloved South Korean TV Host, Dies at 95</a> NYT: Born in what is now North Korea, he was known for his cheeky grin and folksy wisecracks as the host of South Korea’s weekly “National Singing Contest” for more than three decades. 
- <p class="updated_time"> 03:14 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 02:51 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html">C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.</a> NYT: The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive. 
- <p class="updated_time"> 02:14 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 02:31 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
+ <p class="updated_time"> 01:31 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries to Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries to Pledge to Take In More Migrants 
  <p class="updated_time"> 01:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/08/magazine/george-w-bush-russia-war-iraq.html">When George W. Bush Confused Russia’s War in Ukraine With Iraq</a> NYT: A viral gaffe by the former president offers a dark reminder of America’s foreign-policy hypocrisies. 
  <p class="updated_time"> 01:24 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104194213/russian-mcdonalds-rebrand-logo">Russia's rebranded McDonald's unveils a new logo, but keeps its name a secret</a> NPR: The iconic Golden Arches have been replaced with two bold orange backslashes and a red circle, representing a tiny burger and a pair of large fries. 
- <p class="updated_time"> 01:22 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html">Behind Enemy Lines, Scouts Help Ukrainians Execute Deadly Strikes</a> NYT: A nascent insurgency made up of civilians or former soldiers provided information that aided Ukraine’s attack on two Russian bases, according to a senior Ukrainian military official. 
  <p class="updated_time"> 01:19 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html">For South Africa’s Leader, Being a Burglary Victim Spells Trouble</a> NYT: After a fortune in cash was stolen from President Cyril Ramaphosa’s farmhouse, he kept it secret. Now that word is out, critics ask what he was hiding. 
- <p class="updated_time"> 01:14 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries to Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries to Pledge to Take In More Migrants 
  <p class="updated_time"> 01:12 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-61762131?at_medium=RSS&at_campaign=KARANGA">Energy and food drive US inflation to highest for 40 years</a> BBC: Rising energy and food costs pushed inflation to 8.6% in May, the highest rate in more than 40 years. 
  <p class="updated_time"> 12:56 PM CT, Jun. 10 </p> 
@@ -47,16 +49,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685119?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Uvalde school police chief defends mass shooting response</a> BBC: The Uvalde school police chief told the Texas Tribune that officers responded without hesitation. 
  <p class="updated_time"> 12:44 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down. 
+ <p class="updated_time"> 12:31 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 12:29 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61757659?at_medium=RSS&at_campaign=KARANGA">Julee Cruise: Twin Peaks creator David Lynch pays tribute to 'great singer'</a> BBC: Director David Lynch remembers Cruise as "a great musician, a great singer and a great human being". 
- <p class="updated_time"> 12:14 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 11:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html">Royal Shipwreck From 1682 Is Found Off the Coast of England</a> NYT: The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week. 
+ <p class="updated_time"> 11:31 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
  <p class="updated_time"> 11:28 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump accused of attempted coup</a> BBC: A hearing shows clips of the ex-president's daughter and aides saying his claim of voter fraud was false. 
- <p class="updated_time"> 11:14 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
  <p class="updated_time"> 10:49 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61764296?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Five key moments from the US Capitol riot hearing</a> BBC: A Republican slams Trump, police describe chaos and the ex-president's daughter doubts his fraud claim. 
  <p class="updated_time"> 10:04 AM CT, Jun. 10 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 12:07 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-61750744?at_medium=RSS&at_campaign=KARANGA">Bear fight on cliff-edge ends in deadly fall</a> BBC: A female bear was forced to protect her cub from a male in Spain's Cantabrian mountains. 
- <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 09:28 PM CT, Jun. 09 </p> 
@@ -208,10 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:26 PM CT, Jun. 10 </p> 
+ <a href="https://www.npr.org/2022/06/10/1104135895/in-philadelphia-liberals-gather-to-experience-the-first-jan-6-hearing-together">In Philadelphia, liberals gather to experience the first Jan. 6 hearing together</a> NPR: In a northwest Philadelphia church, more than 40 people gathered to watch the hearings, calling for a moment of collective action. 
+ <p class="updated_time"> 04:16 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/business/media/jan-6-hearing-ratings.html">More Than 19 Million Watched Jan. 6 Hearing, Early Ratings Show</a> NYT: The number is in the ballpark of big television events like a “Sunday Night Football” game. 
  <p class="updated_time"> 04:08 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/alaska-election-sarah-palin.html">In Alaska, 48 House candidates and a first-of-its-kind special election</a> NYT: Voters are taking part in a mail-only special election with an open primary. Former Gov. Sarah Palin and Santa Claus are on the ballot. 
- <p class="updated_time"> 04:06 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/business/media/jan-6-hearing-ratings.html">More Than 19 Million Watched Jan. 6 Hearing, Early Ratings Show</a> NYT: The number is in the ballpark of big television events like a “Sunday Night Football” game. 
  <p class="updated_time"> 03:58 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-inflation.html">Biden Casts Inflation as a Global Problem During a Visit to the Port of Los Angeles</a> NYT: The visit to the nation’s busiest entry point for goods comes as President Biden struggles to show progress on resolving supply chain issues that are fueling inflation. 
  <p class="updated_time"> 03:56 PM CT, Jun. 10 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
  <p class="updated_time"> 08:02 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1104077632/bennie-thompson-jan-6-insurrection-riot-culmination-of-an-attempted-coup">Bennie Thompson says Jan. 6 was the 'culmination of an attempted coup'</a> NPR: The chair of the House committee investigating the Jan. 6, 2021, insurrection called the attack a "culmination of an attempted coup," in opening remarks at Thursday's hearing about that day's riot. 
- <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1104081027/ivanka-trump-said-she-accepted-barrs-conclusion-that-the-2020-election-wasnt-sto">Ivanka Trump said she accepted Barr's conclusion that the 2020 election wasn't stolen</a> NPR: Ivanka Trump reacted to then-Attorney General William Barr saying that the 2020 election was not stolen. 
  <p class="updated_time"> 07:56 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/us-covid-testing-supply.html">Health Officials Warn About Impact to U.S. Coronavirus Test Supply Without Aid</a> NYT: The officials described the consequences of repurposing Department of Health and Human Services funds meant for testing in order to pay for more vaccines and treatments. 
  <p class="updated_time"> 07:50 PM CT, Jun. 09 </p> 
