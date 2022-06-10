@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as It Runs Short on Ammunition and Putin Talks of Empire</a> NYT: Ukraine is running out of ammunition for Soviet-era artillery pieces as its military tries to hold the besieged city of Sievierodonetsk. President Volodymyr Zelensky said his country needed more weapons and E.U. membership. 
- <p class="updated_time"> 04:49 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 05:30 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Shortage of Artillery Ammo Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
+ <p class="updated_time"> 05:24 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Back, Moscow Style, as Russian Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
+ <p class="updated_time"> 05:00 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
+ <p class="updated_time"> 04:57 PM CT, Jun. 10 </p> 
+ <a href="https://www.npr.org/2022/06/10/1104291290/people-noticed-an-iconic-prague-clock-looked-different-4-years-after-it-was-rest">People noticed an iconic Prague clock looked different 4 years after it was restored</a> NPR: The iconic clock in Prague's Old Town Square was renovated in 2018. Four years later, a local preservation group noticed something off about the refurbishment. 
  <p class="updated_time"> 04:45 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammo Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
- <p class="updated_time"> 04:43 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s, Moscow Style, Is Back, as Russian Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership illustrates the economy’s surprising resilience in the face of intense sanctions, though difficult times lie ahead. 
  <p class="updated_time"> 04:40 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291283/macrons-party-faces-competition-from-the-far-left-for-control-of-french-parliame">Macron's party faces competition from the far left for control of French parliament</a> NPR: French president Emmanuel Macron recently won a second term, beating far-right leader Marine Le Pen. But if Macron wants to enact his agenda, he has to keep his majority in parliament this month. 
+ <p class="updated_time"> 04:34 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 04:31 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-61767303?at_medium=RSS&at_campaign=KARANGA">Fanfare and fireworks to open Russia-China border bridge</a> BBC: Moscow is seeking to boost trade with China after global sanctions hit the Russian economy. 
  <p class="updated_time"> 04:18 PM CT, Jun. 10 </p> 
@@ -27,20 +31,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61767191?at_medium=RSS&at_campaign=KARANGA">Putin and Peter the Great: Russian leader likens himself to 18th Century tsar</a> BBC: With a nod to history, Putin now feels bold enough to admit that his operation is an occupation. 
  <p class="updated_time"> 03:56 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104017114/russia-ukraine-war-what-happened-today-june-10">Russia-Ukraine war: What happened today (June 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:55 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 03:54 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291214/gas-and-food-prices-are-rising-in-kenya-too-driven-by-the-war-in-ukraine">Gas and food prices are rising in Kenya, too, driven by the war in Ukraine</a> NPR: Inflation is the talk of the town in Nairobi, Kenya, just like it is in the United States. From gas to food to soap, here's how one African country is feeling the impact of the war in Ukraine. 
+ <p class="updated_time"> 03:34 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 03:32 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
  <p class="updated_time"> 03:28 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/arts/television/song-hae-dead.html">Song Hae, Beloved South Korean TV Host, Dies at 95</a> NYT: Born in what is now North Korea, he was known for his cheeky grin and folksy wisecracks as the host of South Korea’s weekly “National Singing Contest” for more than three decades. 
- <p class="updated_time"> 02:55 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 02:51 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html">C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.</a> NYT: The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive. 
- <p class="updated_time"> 01:55 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 02:34 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries to Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries to Pledge to Take In More Migrants 
+ <p class="updated_time"> 01:34 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 01:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/08/magazine/george-w-bush-russia-war-iraq.html">When George W. Bush Confused Russia’s War in Ukraine With Iraq</a> NYT: A viral gaffe by the former president offers a dark reminder of America’s foreign-policy hypocrisies. 
  <p class="updated_time"> 01:24 PM CT, Jun. 10 </p> 
@@ -51,16 +55,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61762131?at_medium=RSS&at_campaign=KARANGA">Energy and food drive US inflation to highest for 40 years</a> BBC: Rising energy and food costs pushed inflation to 8.6% in May, the highest rate in more than 40 years. 
  <p class="updated_time"> 12:56 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61762787?at_medium=RSS&at_campaign=KARANGA">Cholera in Mariupol: Ruined city at risk of major cholera outbreak - UK</a> BBC: Conditions in the city, now in Russian hands, could lead to a resurgence of the disease, authorities fear. 
- <p class="updated_time"> 12:55 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 12:51 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685119?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Uvalde school police chief defends mass shooting response</a> BBC: The Uvalde school police chief told the Texas Tribune that officers responded without hesitation. 
  <p class="updated_time"> 12:44 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down. 
+ <p class="updated_time"> 12:34 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
  <p class="updated_time"> 12:29 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61757659?at_medium=RSS&at_campaign=KARANGA">Julee Cruise: Twin Peaks creator David Lynch pays tribute to 'great singer'</a> BBC: Director David Lynch remembers Cruise as "a great musician, a great singer and a great human being". 
- <p class="updated_time"> 11:55 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
  <p class="updated_time"> 11:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html">Royal Shipwreck From 1682 Is Found Off the Coast of England</a> NYT: The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week. 
  <p class="updated_time"> 11:28 AM CT, Jun. 10 </p> 
@@ -165,8 +167,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html">Russia Prosecuting 1,100 Captured Ukrainian Soldiers</a> NYT: Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow. 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
- <p class="updated_time"> 07:00 AM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1102838828/complex-taiwanese-and-chinese-identities-are-exposed-after-gunman-enters-church">Complex Taiwanese and Chinese identities are exposed after gunman enters church </a> NPR: A gunman who killed one man and shot others exposes the complex identities of Taiwanese and Chinese people. 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
@@ -208,6 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/ocasio-cortez-maloney-new-york-primary.html">Ocasio-Cortez Turns a New York Brawl into a National Democratic Proxy Battle</a> NYT: By endorsing her colleague’s primary challenger, Representative Alexandria Ocasio-Cortez has escalated a skirmish rippling beyond New York. 
+ <p class="updated_time"> 05:03 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/us-testing-travel-mandate-covid.html">Virus Testing Mandate for International Travelers to the U.S. to End</a> NYT: In a move hailed by the travel industry, starting Sunday morning passengers will be able to board flights to the U.S. without a negative coronavirus test. 
+ <p class="updated_time"> 05:01 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html">Inflation Sped Up Again in May, Dashing Hopes for Relief</a> NYT: The Consumer Price Index picked up by 8.6 percent, as price increases climbed at the fastest pace in more than 40 years. 
  <p class="updated_time"> 04:30 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/nyregion/carl-paladino-nick-langworthy-congress.html">How Carl Paladino Is Dividing New York Republicans</a> NYT: The incendiary congressional candidacy of Carl Paladino has divided New York Republicans and now threatens to shake up party leadership. 
  <p class="updated_time"> 04:26 PM CT, Jun. 10 </p> 
@@ -222,14 +228,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104017114/russia-ukraine-war-what-happened-today-june-10">Russia-Ukraine war: What happened today (June 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291207/sarah-palin-is-one-of-48-people-vying-for-alaskas-house-seat-in-a-primary-tomorr">Sarah Palin is one of 48 people vying for Alaska's House seat in a primary tomorrow</a> NPR: Former Alaska Gov. Sarah Palin is attempting a political comeback in a special election for her state's lone House seat. The top four candidates in Saturday's primary will advance. 
- <p class="updated_time"> 03:43 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html">Inflation Sped Up Again in May, Dashing Hopes for Relief</a> NYT: The Consumer Price Index picked up by 8.6 percent, as price increases climbed at the fastest pace in more than 40 years. 
  <p class="updated_time"> 03:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders to Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting them as a problem for the entire region, not just the United States. 
  <p class="updated_time"> 03:26 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291172/documentary-footage-from-filmmaker-shows-evidence-that-jan-6-was-a-planned-attac">Documentary footage from filmmaker shows evidence that Jan. 6 was a planned attack</a> NPR: Committee members heard testimony from a witness with evidence that Jan. 6 was a planned attack. Documentarian Nick Quested was filming the extremist group the Proud Boys before and during the riots. 
- <p class="updated_time"> 03:15 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/politics/us-testing-travel-mandate-covid.html">Virus Testing Mandate for International Travelers to the U.S. to End</a> NYT: In a move hailed by the travel industry, starting Sunday morning passengers will be able to board flights to the U.S. without a negative coronavirus test. 
  <p class="updated_time"> 02:45 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/pence-team-election-fraud-memo-00038921">Pence team couldn't verify Trump campaign's election fraud claims, new memo shows</a> Politico: In a previously unseen memo obtained by POLITICO, the former vice president's legal team called most of the fraud allegations minor and unverifiable. 
  <p class="updated_time"> 02:15 PM CT, Jun. 10 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/us/politics/democrats-assault-weapons-ban.html">Democrats Failed to Extend Assault Weapons Ban in 2004. They Regret It.</a> NYT: A push to renew the ban is so unlikely to succeed that one Democratic aide likened it to trying to jam the world’s biggest genie back into the world’s smallest bottle. 
  <p class="updated_time"> 07:04 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/bennie-thompson-chairman-jan-6-committee.html">Who is Bennie Thompson?</a> NYT: As the chairman of the nine-member panel, Mr. Thompson has been in charge of approving the committee’s subpoenas, authorizing more than 100 of them. 
- <p class="updated_time"> 06:33 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/justice-dept-louisiana-police.html">Justice Dept. Is Investigating Louisiana Police Over Accusations of Abuse</a> NYT: Similar investigations are underway into the Minneapolis Police Department in connection with the killing of George Floyd and the Louisville Police Department’s actions leading up to the shooting of Breonna Taylor. 
  <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/red-flag-bill-gun-control.html">House Passes Red-Flag Bill as Senate Talks on Gun Violence Continue</a> NYT: The legislation stands little chance of enactment in its current form, but the idea of incentivizing states to allow guns to be taken from dangerous people is in play in bipartisan Senate talks. 
  <p class="updated_time"> 05:39 PM CT, Jun. 09 </p> 
