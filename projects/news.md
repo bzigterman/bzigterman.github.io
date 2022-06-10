@@ -13,19 +13,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
  <p class="updated_time"> 03:52 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">What Happened on Day 106 of the War in Ukraine</a> NYT: Amid relentless Russian attacks, Ukraine is holding on and waiting for Western weapons. 
+ <p class="updated_time"> 03:33 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 03:26 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
- <p class="updated_time"> 03:13 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 03:11 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
+ <p class="updated_time"> 02:33 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 02:31 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 02:13 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 01:39 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
- <p class="updated_time"> 01:13 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 01:33 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 01:05 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61737537?at_medium=RSS&at_campaign=KARANGA">French elections: Who is Mélenchon and what does his NUPES alliance want?</a> BBC: He leads a left-wing alliance aiming to stop President Macron controlling the next government. 
@@ -35,11 +35,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 12:43 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/arts/television/song-hae-dead.html">Song Hae, Beloved South Korean TV Host, Dies at 95</a> NYT: Born in what is now North Korea, he was known for his cheeky grin and folksy wisecracks as the host of South Korea’s weekly “National Singing Contest” for more than three decades. 
- <p class="updated_time"> 12:13 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 12:33 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 12:07 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-61750744?at_medium=RSS&at_campaign=KARANGA">Bear fight on cliff-edge ends in deadly fall</a> BBC: A female bear was forced to protect her cub from a male in Spain's Cantabrian mountains. 
- <p class="updated_time"> 11:13 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 11:33 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-proposes-helping-israel-arab-states-coordinate-air-defenses-against-iran-11654779601">U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran</a> WSJ: U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran 
  <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
@@ -221,7 +221,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:10 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1104095062/capitol-police-officer-jan-6-recalls-chaos-carnage">A Capitol Police officer injured on Jan. 6 recalls the chaos and carnage</a> NPR: "It was carnage, it was chaos. I can't even describe what I saw," says U.S. Capitol Police officer Caroline Edwards. 
  <p class="updated_time"> 10:00 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/jan-6-proud-boys-capitol-police.html">Jan. 6 Narrative Is Built on Trump, Proud Boys and Capitol Police</a> NYT: The House committee built the story it laid out around Donald Trump, the Proud Boys and a Capitol Police officer, drawing clear contrasts along the way. 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/jan-6-proud-boys-capitol-police.html">Three Characters at the Heart of an Unsettling Jan. 6 Narrative</a> NYT: The House committee built the story it laid out around Donald Trump, the Proud Boys and a Capitol Police officer, drawing clear contrasts along the way. 
  <p class="updated_time"> 10:00 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/jared-ivanka-jan-6.html">Jared and Ivanka, Without the Power or the Masks</a> NYT: In stark videotaped interviews, Ivanka Trump accepted the notion that there had been no fraud in the 2020 election. Jared Kushner complained that a White House counsel had been “whining.” 
  <p class="updated_time"> 09:07 PM CT, Jun. 09 </p> 
@@ -326,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
  <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/big-tech-american-bar-association-00038224">Rebellion foments inside the American Bar Association over influence of Big Tech</a> Politico: The tension has heated up over a letter sent by ABA leadership to Congress opposing proposed anti-monopoly legislation that would rein in Apple, Google, Meta and Amazon. 
- <p class="updated_time"> 09:58 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/gun-violence-bill-uvalde-buffalo.html">As Survivors Demand Action, House Passes Gun Bill Doomed in the Senate</a> NYT: On a day of wrenching testimony from victims of the school shooting in Uvalde, Democrats pushed through a gun control package facing solid G.O.P. opposition and no path in the Senate. 
  <p class="updated_time"> 08:08 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/interactive/2022/us/politics/jan-6-timeline.html">Jan. 6: The Story So Far</a> NYT: How a president who couldn’t accept defeat worked with a cabal of loyalists to pursue one strategy after another to subvert democracy and overturn an election. 
  <p class="updated_time"> 07:08 AM CT, Jun. 09 </p> 
