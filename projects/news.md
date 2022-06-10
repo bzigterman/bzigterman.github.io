@@ -19,32 +19,32 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
  <p class="updated_time"> 09:56 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
+ <p class="updated_time"> 09:53 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 09:51 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-61762131?at_medium=RSS&at_campaign=KARANGA">Energy and food drive US inflation to highest for 40 years</a> BBC: Rising energy and food costs pushed inflation to 8.6% in May, the highest rate in more than 40 years. 
- <p class="updated_time"> 09:36 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 09:27 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. and Chinese Defense Officials Meet in Bid to Cool Regional Tensions</a> NYT: Despite public sparring over Taiwan, both sides indicated there had been some progress on steps to prevent inadvertent escalation of close military encounters. 
  <p class="updated_time"> 09:09 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61756485?at_medium=RSS&at_campaign=KARANGA">Champions League: Chain of failures marred Paris final, French inquiry says</a> BBC: The report says the violence against fans at the Stade de France has "severely damaged" France's image. 
  <p class="updated_time"> 08:57 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
+ <p class="updated_time"> 08:53 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/asteroids-could-have-helped-jump-start-life-on-earth-study-finds-11654862129">Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds</a> WSJ: Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds 
  <p class="updated_time"> 08:45 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61757827?at_medium=RSS&at_campaign=KARANGA">Border rapist trial starts in France for 56 attacks</a> BBC: Dino Scala is accused of a 30-year series of rapes and sexual assaults. 
- <p class="updated_time"> 08:36 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/asteroids-could-have-helped-jump-start-life-on-earth-study-finds-11654862129">Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds</a> WSJ: Solar-System Rocks Could Have Helped Jump-Start Life on Earth, Asteroid Study Finds 
  <p class="updated_time"> 08:34 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law">Drop that fork! Why eating at your desk is banned in France</a> NPR: What the French history of the leisurely lunch break can teach us about separating work from rest. 
- <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 07:53 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">North Korea Missile Tests Drawing Tougher Stance From U.S., South Korea</a> WSJ: North Korea Missile Tests Drawing Tougher Stance From U.S., South Korea 
- <p class="updated_time"> 06:36 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 06:53 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/chinese-fighter-jet-crashes-into-residential-buildings-killing-one-11654866349">Chinese Fighter Jet Crashes Into Residential Buildings, Killing One</a> WSJ: Chinese Fighter Jet Crashes Into Residential Buildings, Killing One 
+ <p class="updated_time"> 05:53 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 05:51 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61757137?at_medium=RSS&at_campaign=KARANGA">Neighbours cast say farewell on TV soap's last day of filming</a> BBC: Stars of the long-running Australian show say the final day of filming is "incredibly emotional". 
  <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
- <p class="updated_time"> 05:36 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 04:51 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
  <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/style/after-a-political-storm-gay-days-return-to-disney.html">After a Political Storm, Gay Days Return to Disney</a> NYT: An L.G.B.T.Q. tradition at Disney World took on new significance this year, when Disney was ensnared in a heated cultural debate. 
  <p class="updated_time"> 10:15 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-inflation.html">Biden to Visit Port of Los Angeles, Casting Inflation as a Global Problem</a> NYT: The visit to the nation’s busiest entry point for goods comes as President Biden struggles to show progress on resolving supply chain issues that are fueling inflation across the country. 
  <p class="updated_time"> 10:12 AM CT, Jun. 10 </p> 
@@ -286,6 +288,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/us/politics/democrats-assault-weapons-ban.html">Democrats Failed to Extend Assault Weapons Ban in 2004. They Regret It.</a> NYT: A push to renew the ban is so unlikely to succeed that one Democratic aide likened it to trying to jam the world’s biggest genie back into the world’s smallest bottle. 
  <p class="updated_time"> 07:07 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/republicans-jan-6-committee-claims.html">How Republicans Attempted to Undercut Jan. 6 Committee Hours Before Hearing</a> NYT: Before public hearings begin, Republican lawmakers sought to portray the panel as illegitimate. 
+ <p class="updated_time"> 07:04 PM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/video/2022/06/09/parter-of-fallen-capitol-police-officer-arrives-at-jan-6-hearing-603337">Sandra Garza blames Trump for the "coup" on Jan. 6, before arriving at hearing</a> Politico: Sandra Garza, longtime girlfriend of fallen Capitol Police officer Brian D. Sicknick, who engaged with rioters on Jan. 6 and died the following day, arrives at committee hearing. 
  <p class="updated_time"> 07:04 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/bennie-thompson-chairman-jan-6-committee.html">Who is Bennie Thompson?</a> NYT: As the chairman of the nine-member panel, Mr. Thompson has been in charge of approving the committee’s subpoenas, authorizing more than 100 of them. 
  <p class="updated_time"> 06:33 PM CT, Jun. 09 </p> 
@@ -374,8 +378,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/trump-january-6-hearing-00038321">Trump World is still trying to figure out how best to respond to the Jan. 6 hearing</a> Politico: The ex-president’s crew wants to cast the entire thing as a nothing burger. But they concede they’re in the dark about what’s coming. 
  <p class="updated_time"> 04:27 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-raised-jan-6-capitol-appearance-secret-service-agent-select-panel-00038217">Trump privately raised Jan. 6 Capitol appearance with Secret Service agent, select panel hears</a> Politico: Robert Engel, the head of Donald Trump's Secret Service detail at the time, said they had different views on whether the former president should join his supporters. 
- <p class="updated_time"> 02:55 PM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/pence-adviser-testify-jan-6-committee-00038206">Senior Pence adviser to testify before Jan. 6 committee</a> Politico: Gregory Jacob, who's expected to appear June 16, helped Mike Pence fend off efforts by Donald Trump and allies to disrupt the transition of presidential power. 
  <p class="updated_time"> 01:14 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/man-gun-arrested-kavanaugh-00038137">Supreme Court security in spotlight after Kavanaugh threat</a> Politico: The suspect allegedly called police in Maryland and said he had a gun in his suitcase to kill “a specific Supreme Court justice.” 
  <p class="updated_time"> 07:22 AM CT, Jun. 08 </p> 
