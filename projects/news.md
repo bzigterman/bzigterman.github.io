@@ -9,37 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
+ <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Coronavirus Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
+ <p class="updated_time"> 03:58 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 03:52 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">What Happened on Day 106 of the War in Ukraine</a> NYT: Amid relentless Russian attacks, Ukraine is holding on and waiting for Western weapons. 
- <p class="updated_time"> 03:33 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 03:26 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
  <p class="updated_time"> 03:11 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
- <p class="updated_time"> 02:33 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 02:58 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 02:31 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire. 
+ <p class="updated_time"> 01:58 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 01:39 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
- <p class="updated_time"> 01:33 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 01:05 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61737537?at_medium=RSS&at_campaign=KARANGA">French elections: Who is Mélenchon and what does his NUPES alliance want?</a> BBC: He leads a left-wing alliance aiming to stop President Macron controlling the next government. 
  <p class="updated_time"> 01:03 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump accused of attempted coup</a> BBC: A hearing shows clips of the ex-president's daughter and aides saying his claim of voter fraud was false. 
  <p class="updated_time"> 01:02 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
+ <p class="updated_time"> 12:58 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 12:43 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/arts/television/song-hae-dead.html">Song Hae, Beloved South Korean TV Host, Dies at 95</a> NYT: Born in what is now North Korea, he was known for his cheeky grin and folksy wisecracks as the host of South Korea’s weekly “National Singing Contest” for more than three decades. 
- <p class="updated_time"> 12:33 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 12:07 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-61750744?at_medium=RSS&at_campaign=KARANGA">Bear fight on cliff-edge ends in deadly fall</a> BBC: A female bear was forced to protect her cub from a male in Spain's Cantabrian mountains. 
- <p class="updated_time"> 11:33 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 11:58 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-proposes-helping-israel-arab-states-coordinate-air-defenses-against-iran-11654779601">U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran</a> WSJ: U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran 
  <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
@@ -109,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/golf/61746560?at_medium=RSS&at_campaign=KARANGA">PGA Tour suspends golfers for playing Saudi-backed event</a> BBC: The PGA Tour is suspending all its members who are playing in this week's LIV Golf Invitational event at Centurion Club. 
  <p class="updated_time"> 12:59 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html">Tourist Damages Rome’s Spanish Steps by Pushing a Scooter Down Them</a> NYT: An American woman and her companion caused $27,000 in damage to the landmark, officials said. They were fined and have been barred from the site for six months. 
- <p class="updated_time"> 12:57 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/saudi-yemen-war-us-weapons.html">U.S. Fails to Assess Civilian Deaths in Yemen War, Internal Report Says</a> NYT: A Saudi-led coalition has killed civilians with U.S. weapons, but the State Department and the Pentagon have fallen short on tracking the deaths, U.S. investigators found. 
  <p class="updated_time"> 12:34 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html">Putin Compares Himself to Peter the Great, the Famous Czar </a> NYT: Vladimir Putin likened his goals in Ukraine to the conquests of Peter the Great. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 11:12 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html">Russia Prosecuting 1,100 Captured Ukrainian Soldiers</a> NYT: Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow. 
- <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
  <p class="updated_time"> 07:00 AM CT, Jun. 09 </p> 
@@ -210,6 +210,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/health/cancer-blood-tests.html">Blood Tests That Detect Cancers Create Risks for Those Who Use Them</a> NYT: The tests screen for cancers that often go undetected, but they are expensive and some experts worry they could lead to unnecessary treatments without saving patients’ lives. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/chesa-boudin-progressive-agenda-california-00038675">Chesa Boudin is out in San Francisco, but his agenda is alive in California</a> Politico: The progressive district attorney's recall defeat was counterbalanced by victories around the state. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/gallery/2022/06/10/the-nations-cartoonists-on-the-week-in-politics-00038612">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 02:46 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
  <p class="updated_time"> 12:04 AM CT, Jun. 10 </p> 
@@ -318,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/gop-candidate-for-michigan-governor-arrested-in-connection-with-jan-6-attack-00038479">GOP candidate for Michigan governor arrested in connection with Jan. 6 attack</a> Politico: Ryan Kelley was arrested Thursday on misdemeanor charges for participation in the Jan. 6 Capitol riot, according to the U.S. Attorney's Office for the District of Columbia. 
  <p class="updated_time"> 11:37 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
- <p class="updated_time"> 11:13 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/hutchinson-former-meadows-aide-replaces-lawyer-jan-6-hearings-00038439">Hutchinson, former Meadows aide, replaces lawyer on cusp of Jan. 6 hearings</a> Politico: Her previous attorney has deep Trump World connections. Her new lawyer is a longtime close ally of former attorney general Jeff Sessions. 
  <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103925150/michigan-candidate-for-governor-ryan-kelley-arrested-by-fbi-for-jan-6-involvemen">Michigan candidate for governor, Ryan Kelley, charged for Jan. 6 involvement</a> NPR: On Thursday, Ryan Kelley was charged with four misdemeanors related to the attack on the U.S. Capitol on Jan. 6, 2021. He's one of five candidates on the Republican primary ballot for governor. 
  <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
@@ -337,11 +339,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/bernie-sanders-democrats-midterms-00038183">Bernie to Dems: Change course before you nosedive in November</a> Politico: The Vermont independent isn't buying the happy talk from a party still talking up a pre-midterm turnaround. And he has a prescription to avoid it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/dems-meddle-in-colorado-senate-gop-primary-00038294">Dems meddle in Senate primary to advance hardline MAGA Republican</a> Politico: Colorado scheme is designed to hurt the prospects of a GOP candidate who is viewed as a more serious threat to Democratic Sen. Michael Bennet. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/obama-copenhagen-russia-climate-00038265">Obama to deliver warning of democracy’s peril against twin backdrops: Jan. 6 and Ukraine</a> Politico: In a speech in Copenhagen, Obama will tackle disinformation, inequality, and Russia’s invasion. It comes as the Jan. 6 hearings commence. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/nikki-haley-battles-trump-in-house-primary-turf-war-00038363">Nikki Haley battles Trump in House primary turf war</a> Politico: The two Republicans are on opposite sides of a hard-fought GOP primary in South Carolina next week. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/dems-meddle-in-colorado-senate-gop-primary-00038294">Dems meddle in Senate primary to advance hardline MAGA Republican</a> Politico: Colorado scheme is designed to hurt the prospects of a GOP candidate who is viewed as a more serious threat to Democratic Sen. Michael Bennet. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/jan-6-hearings-mike-pence-00038220">The Jan. 6 hearings’ missing man: Mike Pence</a> Politico: Donald Trump's vice president, the target of his election-subversion campaign, hasn't gotten a formal invitation to testify. But the select committee isn't ruling it out. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
@@ -358,22 +360,16 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/pence-adviser-testify-jan-6-committee-00038206">Senior Pence adviser to testify before Jan. 6 committee</a> Politico: Gregory Jacob, who's expected to appear June 16, helped Mike Pence fend off efforts by Donald Trump and allies to disrupt the transition of presidential power. 
  <p class="updated_time"> 01:49 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/house-democrats-gun-reform-goals-00038111">House Republicans dig in as Dems pass gun package</a> Politico: The bill would raise the purchase age of firearms, ban high-capacity magazines and expand background checks. 
- <p class="updated_time"> 01:16 PM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/uvalde-texas-school-shooting-survivor-pleads-with-congress-00038112">‘I don’t want it to happen again’: Texas school shooting survivor pleads with Congress</a> Politico: A survivor's recount of the attack in Uvalde, Texas, marked a wrenching point in a hearing on gun violence following mass shootings in the elementary school and in a Buffalo, N.Y., grocery store. 
  <p class="updated_time"> 01:14 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/man-gun-arrested-kavanaugh-00038137">Supreme Court security in spotlight after Kavanaugh threat</a> Politico: The suspect allegedly called police in Maryland and said he had a gun in his suitcase to kill “a specific Supreme Court justice.” 
  <p class="updated_time"> 07:22 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/08/house-puts-gun-votes-on-the-board-00038027">House puts gun votes on the board</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/08/a-bad-night-for-california-progressives-and-donald-trump-00038017"> A bad night for California progressives and Donald Trump</a> Politico Playbook: And new polling reveals a mixed reaction to the Biden administration's proposal to forgive $10,000 in student loan debt for those who make less than $150,000 a year. 
- <p class="updated_time"> 01:17 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/trump-endorsed-candidates-2022-primary-result-00037416">Trump endorsed 16 candidates in Tuesday’s primaries. Here are the winners.</a> Politico: The former president ran the table with his endorsements Tuesday. But he largely backed candidates who were likely to win anyway. 
  <p class="updated_time"> 01:08 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-primary-takeaways-00038010">Trump hits another snag: 6 takeaways from a big primary night</a> Politico: Some of the former president's least favorite Republicans survived their primaries. But in California, Democrats appear to have a turnout problem. 
  <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
- <p class="updated_time"> 06:51 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">House Republicans face primary danger</a> Politico: Voters also nominated a slate of battleground candidates across seven states and issued verdicts on major public safety-themed campaigns in California. 
  <p class="updated_time"> 07:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/07/lucky-sevens-its-primary-day-00037677">Lucky sevens: It's primary day</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Jun. 07 </p> 
