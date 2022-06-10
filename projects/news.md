@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 09:09 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘Dead Cities’ Become the Focus of Fierce Fighting in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
+ <p class="updated_time"> 08:55 PM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump accused of 'attempted coup'</a> BBC: A prime-time hearing airs a clip of Ivanka Trump rejecting her father's claim the election was stolen. 
+ <p class="updated_time"> 08:49 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
+ <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
+ <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html">U.S. and Latin American Countries Will Commit to Receive More Migrants</a> NYT: A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region. 
+ <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
+ <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html">2 Officials in Vietnam Are Arrested in Virus Test Kit Scandal</a> NYT: The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials. 
+ <p class="updated_time"> 07:49 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
- <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘Dead Cities’ Become the Focus of Fierce Fighting in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
- <p class="updated_time"> 07:10 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
- <p class="updated_time"> 06:47 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html">U.S. and Latin American Countries Will Commit to Receive More Migrants</a> NYT: A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region. 
- <p class="updated_time"> 06:46 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
+ <p class="updated_time"> 06:49 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 06:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61702904?at_medium=RSS&at_campaign=KARANGA">Covid-19: Japan reopens to tourists - but with strict rules</a> BBC: The once-popular Asian destination has some of the world's toughest Covid-19 restrictions. 
  <p class="updated_time"> 06:12 PM CT, Jun. 09 </p> 
@@ -39,8 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61749120?at_medium=RSS&at_campaign=KARANGA">YouTube accused of failing to tackle fake Elon Musk livestream scams</a> BBC: YouTube is being criticised for failing to tackle a network of scammers streaming fake Elon Musk videos. 
  <p class="updated_time"> 05:53 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
- <p class="updated_time"> 05:46 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
+ <p class="updated_time"> 05:49 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753865?at_medium=RSS&at_campaign=KARANGA">Widow of US Capitol riot officer on 'stigma' of his death</a> BBC: Nine days after he was assaulted in the 6 January 2021 attack, Jeff Smith died by suicide. 
  <p class="updated_time"> 05:37 PM CT, Jun. 09 </p> 
@@ -51,8 +59,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
  <p class="updated_time"> 05:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61754400?at_medium=RSS&at_campaign=KARANGA">Spanish homes threatened by wildfire near Costa del Sol</a> BBC: A wildfire has spread in southern Spain, forcing thousands of people to evacuate their homes. 
- <p class="updated_time"> 04:46 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
+ <p class="updated_time"> 04:49 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
+ <p class="updated_time"> 04:26 PM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61700011?at_medium=RSS&at_campaign=KARANGA">Ivory sold on eBay a decade after a 'total ban'</a> BBC: Thousands of ivory objects have been sold on eBay since the company banned the sale in 2009. 
  <p class="updated_time"> 04:16 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1104000196/pga-tour-suspends-17-players-for-their-participation-in-saudi-backed-golf-tourna">PGA Tour suspends 17 players for their participation in Saudi-backed golf tournament</a> NPR: The PGA Tour has suspended 17 players – including six-time major winner Phil Mickelson alo former world #1 Dustin Johnson – after they teed off at a controversial tournament backed by Saudi Arabia. 
  <p class="updated_time"> 04:06 PM CT, Jun. 09 </p> 
@@ -63,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9">Russia-Ukraine war: What happened today (June 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753705?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Michigan officer charged with murder of motorist</a> BBC: Footage shows Christopher Schurr shot Patrick Lyoya during a scuffle over a stun gun. 
- <p class="updated_time"> 03:46 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 03:34 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103997616/biden-has-changed-his-tune-on-saudi-arabia">Biden has changed his tune on Saudi Arabia</a> NPR: President Biden took a tough tack on Saudi Arabia when he came into office, calling it a "pariah" for its human rights abuses. But he's recently done an about-face. Oil is a big part of the reason. 
  <p class="updated_time"> 03:34 PM CT, Jun. 09 </p> 
@@ -83,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61742736?at_medium=RSS&at_campaign=KARANGA">Ukrainian casualties: Kyiv losing up to 200 troops a day - Zelensky aide</a> BBC: Mykhaylo Podolyak told the BBC that Ukraine needs more weapons to match Russia's firepower. 
  <p class="updated_time"> 02:46 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61752779?at_medium=RSS&at_campaign=KARANGA">Putin: West unlikely to reject Russian energy for years</a> BBC: Russian president says oil and gas profits are increasing thanks to rising energy prices. 
- <p class="updated_time"> 02:46 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 02:18 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61746560?at_medium=RSS&at_campaign=KARANGA">PGA Tour suspends golfers for playing Saudi-backed event</a> BBC: The PGA Tour is suspending all its members who are playing in this week's LIV Golf Invitational event at Centurion Club. 
  <p class="updated_time"> 01:35 PM CT, Jun. 09 </p> 
@@ -115,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61719196?at_medium=RSS&at_campaign=KARANGA">Iran removes nuclear watchdog's cameras after criticism</a> BBC: The IAEA's head said it could deal a "fatal blow" to the nuclear deal unless the step was reversed. 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
- <p class="updated_time"> 08:51 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html">2 Officials in Vietnam Are Arrested in Covid Test Kit Scandal</a> NYT: The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials. 
  <p class="updated_time"> 08:46 AM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
  <p class="updated_time"> 08:40 AM CT, Jun. 09 </p> 
@@ -204,30 +208,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:34 PM CT, Jun. 09 </p> 
+ <a href="https://www.cnn.com/2022/06/09/politics/gallery/january-6-hearings/index.html">In pictures: The January 6 hearings</a> CNN: For the last 10 months, a House select committee has been investigating last year's deadly attack on the US Capitol. 
+ <p class="updated_time"> 09:17 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/liz-cheney-jan-6-vice-chair.html">Liz Cheney: Vice Chairwoman Has Become a G.O.P. Outcast for Condemning Trump</a> NYT: She has been steadfast in continuing to blame the former president for stoking the Jan. 6 attack, and her Republican colleagues for following his lead. 
+ <p class="updated_time"> 09:07 PM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/liz-cheney-jan-6-committee-full-statement-00038730">Read: Liz Cheney's opening statement at Jan. 6 select committee hearing</a> Politico: Read Rep. Liz Cheney's full opening remarks. 
+ <p class="updated_time"> 08:44 PM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/jan-6-hearing-barr-testimony-00038729">First Jan. 6 hearing highlights Barr testimony</a> Politico: “I made it clear I did not agree with the idea of saying the election was stolen,” the former attorney general told the panel's investigators. 
+ <p class="updated_time"> 08:40 PM CT, Jun. 09 </p> 
+ <a href="https://www.npr.org/2022/06/09/1104083111/liz-cheney-stark-message-gop-trump-supporters">Liz Cheney offers a stark message to the GOP members who continue to support Trump</a> NPR: "Tonight, I say this to my Republican colleagues who are defending the indefensible: There will come a day when Donald Trump is gone, but your dishonor will remain," Cheney says. 
+ <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
+ <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
+ <p class="updated_time"> 08:21 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">Jan. 6 Hearings Open With Focus on Trump’s Role in the Capitol Riot</a> NYT: The House panel investigating the attack led its public sessions with video testimony from people close to the former president about his actions before and during the riot. 
+ <p class="updated_time"> 08:02 PM CT, Jun. 09 </p> 
+ <a href="https://www.npr.org/2022/06/09/1104077632/bennie-thompson-jan-6-insurrection-riot-culmination-of-an-attempted-coup">Bennie Thompson says Jan. 6 was the 'culmination of an attempted coup'</a> NPR: The chair of the House committee investigating the Jan. 6, 2021, insurrection called the attack a "culmination of an attempted coup," in opening remarks at Thursday's hearing about that day's riot. 
+ <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
+ <a href="https://www.npr.org/2022/06/09/1104081027/ivanka-trump-said-she-accepted-barrs-conclusion-that-the-2020-election-wasnt-sto">Ivanka Trump said she accepted Barr's conclusion that the 2020 election wasn't stolen</a> NPR: Ivanka Trump reacted to then-Attorney General William Barr saying that the 2020 election was not stolen. 
+ <p class="updated_time"> 07:56 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/us-covid-testing-supply.html">Health Officials Warn About Impact to U.S. Coronavirus Test Supply Without Aid</a> NYT: The officials described the consequences of repurposing Department of Health and Human Services funds meant for testing in order to pay for more vaccines and treatments. 
  <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
  <p class="updated_time"> 07:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/democrats-assault-weapons-ban.html">Democrats Failed to Extend Assault Weapons Ban in 2004. They Regret It.</a> NYT: A push to renew the ban is so unlikely to succeed that one Democratic aide likened it to trying to jam the world’s biggest genie back into the world’s smallest bottle. 
- <p class="updated_time"> 07:10 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
  <p class="updated_time"> 07:07 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/republicans-jan-6-committee-claims.html">Republicans Try to Undercut Jan. 6 Committee With Inaccurate Claims</a> NYT: Before public hearings begin, Republican lawmakers sought to portray the panel as illegitimate. 
  <p class="updated_time"> 07:04 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/bennie-thompson-chairman-jan-6-committee.html">Who is Bennie Thompson?</a> NYT: As the chairman of the nine-member panel, Mr. Thompson has been in charge of approving the committee’s subpoenas, authorizing more than 100 of them. 
- <p class="updated_time"> 07:02 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">Trump and Unreleased Video Expected to Be Focus of First Jan 6. Hearing</a> NYT: The House panel investigating the attack is leading its public sessions with video testimony from people close to the former president and footage revealing the role of the Proud Boys. 
- <p class="updated_time"> 06:55 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/liz-cheney-jan-6-vice-chair.html">Liz Cheney: Vice Chairwoman Has Become a G.O.P. Outcast for Condemning Trump</a> NYT: She has been unrepentant in continuing to blame the former president for stoking the Jan. 6 attack, and her Republican colleagues for following his lead. 
  <p class="updated_time"> 06:33 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/justice-dept-louisiana-police.html">Justice Dept. Is Investigating Louisiana Police Over Accusations of Abuse</a> NYT: Similar investigations are underway into the Minneapolis Police Department in connection with the killing of George Floyd and the Louisville Police Department’s actions leading up to the shooting of Breonna Taylor. 
- <p class="updated_time"> 06:23 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/us-covid-testing-supply.html">Health Officials Warn About Impact to U.S. Coronavirus Test Supply Without Aid</a> NYT: The officials described the consequences of repurposing Department of Health and Human Services funds meant for testing in order to pay for more vaccines and treatments. 
  <p class="updated_time"> 06:11 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/jan-6-republican-lawmakers.html">G.O.P. Lawmakers Who Went to D.C. on Jan. 6: Where Are They Now?</a> NYT: Twenty-one state legislators joined the crowds in Washington as they sought to overturn the 2020 election. For some, it was a ticket to grass-roots stardom on the right. For others, it was a political dead end. 
  <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/red-flag-bill-gun-control.html">House Passes Red-Flag Bill as Senate Talks on Gun Violence Continue</a> NYT: The legislation stands little chance of enactment in its current form, but the idea of incentivizing states to allow guns to be taken from dangerous people is in play in bipartisan Senate talks. 
  <p class="updated_time"> 05:39 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/supreme-court-protections.html">House Again Delays Bill Bolstering Security for Supreme Court Justices</a> NYT: Speaker Nancy Pelosi said a bill to extend protections to the justices’ families and court officers would come to a vote early next week, but Republicans accused her of playing politics. 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/supreme-court-justices-security.html">House Again Delays Bill Bolstering Security for Supreme Court Justices</a> NYT: Speaker Nancy Pelosi said a bill to extend protections to the justices’ families and court officers would come to a vote early next week, but Republicans accused her of playing politics. 
  <p class="updated_time"> 05:34 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/congress-targets-harvard-yale-and-top-universities-with-china-linked-endowments-00038625">Congress targets Harvard, Yale and top universities with China-linked endowments</a> Politico: A new bill from Republican Greg Murphy is pushing divestment from firms linked to rights abuses, security risks. 
  <p class="updated_time"> 05:30 PM CT, Jun. 09 </p> 
@@ -283,7 +301,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:19 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103955686/how-to-watch-the-jan-6-committee-hearings">Here's how to watch the Jan. 6 committee hearings</a> NPR: The hearing on Thursday will be livestreamed on YouTube and on most TV news channels. 
  <p class="updated_time"> 01:23 PM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">First Jan. 6 hearing set to highlight pre-planning of Capitol violence</a> Politico: At least one video teed up by the select committee will show an uptick in activity after Trump's "wild" tweet. 
+ <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">Jan. 6 panel uses Trump allies’ own words to indict former president</a> Politico: In the select committee’s first hearing, lawmakers aired footage of former Attorney General Bill Barr and other officials saying there was no substance to Trump’s claims of election fraud. 
  <p class="updated_time"> 12:58 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103913507/the-planning-behind-the-jan-6-insurrection-went-far-deeper-than-it-initially-see">The planning behind the Jan. 6 insurrection went far deeper than it initially seemed</a> NPR: NY Times Congressional reporter Luke Broadwater says the effort to overturn the '20 election results was a "sprawling and diffuse" one that involved local governments as well as White House insiders. 
  <p class="updated_time"> 11:40 AM CT, Jun. 09 </p> 
@@ -295,13 +313,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103925150/michigan-candidate-for-governor-ryan-kelley-arrested-by-fbi-for-jan-6-involvemen">Michigan candidate for governor, Ryan Kelley, charged for Jan. 6 involvement</a> NPR: On Thursday, Ryan Kelley was charged with four misdemeanors related to the attack on the U.S. Capitol on Jan. 6, 2021. He's one of five candidates on the Republican primary ballot for governor. 
  <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/08/us/politics/biden-summit-americas.html">At Summit of Americas, Biden Pledges U.S. Help on Latin American Problems</a> NYT: Opening the three-day summit, the president delivered a version of his domestic economic pitch, urging governments to invest in workers and the middle class. 
- <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
  <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/big-tech-american-bar-association-00038224">Rebellion foments inside the American Bar Association over influence of Big Tech</a> Politico: The tension has heated up over a letter sent by ABA leadership to Congress opposing proposed anti-monopoly legislation that would rein in Apple, Google, Meta and Amazon. 
- <p class="updated_time"> 08:27 AM CT, Jun. 09 </p> 
- <a href="https://www.cnn.com/2022/06/09/politics/january-6-hearing-trump/index.html">What to watch for at the House's first prime-time hearing on the January 6 insurrection</a> CNN: The House select committee investigating January 6 will use its first prime-time public hearing on Thursday to make the case that former President Donald Trump was at the center of a conspiracy to overturn the 2020 election and prevent the transition of power, according to the committee. 
  <p class="updated_time"> 08:08 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/interactive/2022/us/politics/jan-6-timeline.html">Jan. 6: The Story So Far</a> NYT: How a president who couldn’t accept defeat worked with a cabal of loyalists to pursue one strategy after another to subvert democracy and overturn an election. 
  <p class="updated_time"> 07:08 AM CT, Jun. 09 </p> 
@@ -319,10 +333,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:58 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103884750/what-outcomes-can-we-expect-from-the-summit-of-americas">What outcomes can we expect from the Summit of Americas?</a> NPR: Leaders of nations in the Western Hemisphere get down to business at the Summit of the Americas in Los Angeles. How likely is it that they'll achieve any of their goals? 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/jan-6-hearings-mike-pence-00038220">The Jan. 6 hearings’ missing man: Mike Pence</a> Politico: Donald Trump's vice president, the target of his election-subversion campaign, hasn't gotten a formal invitation to testify. But the select committee isn't ruling it out. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/housse-democrats-jan-6-2024-00038305">Dems know the Jan. 6 hearings won't help in November. They're leaning in anyway.</a> Politico: House control is unlikely to hinge on the select committee's findings. And lawmakers who want to stop Donald Trump in 2024 are thinking bigger. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/bernie-sanders-democrats-midterms-00038183">Bernie to Dems: Change course before you nosedive in November</a> Politico: The Vermont independent isn't buying the happy talk from a party still talking up a pre-midterm turnaround. And he has a prescription to avoid it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/dems-meddle-in-colorado-senate-gop-primary-00038294">Dems meddle in Senate primary to advance hardline MAGA Republican</a> Politico: Colorado scheme is designed to hurt the prospects of a GOP candidate who is viewed as a more serious threat to Democratic Sen. Michael Bennet. 
@@ -330,22 +340,18 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/obama-copenhagen-russia-climate-00038265">Obama to deliver warning of democracy’s peril against twin backdrops: Jan. 6 and Ukraine</a> Politico: In a speech in Copenhagen, Obama will tackle disinformation, inequality, and Russia’s invasion. It comes as the Jan. 6 hearings commence. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/nikki-haley-battles-trump-in-house-primary-turf-war-00038363">Nikki Haley battles Trump in House primary turf war</a> Politico: The two Republicans are on opposite sides of a hard-fought GOP primary in South Carolina next week. 
- <p class="updated_time"> 12:52 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/biden-jimmy-kimmel-guns-00038394">Biden urges Americans to make guns 'a voting issue'</a> Politico: During an extended interview with comedian Jimmy Kimmel, he urged Americans to make themselves heard on the emotional issue. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/jan-6-hearings-mike-pence-00038220">The Jan. 6 hearings’ missing man: Mike Pence</a> Politico: Donald Trump's vice president, the target of his election-subversion campaign, hasn't gotten a formal invitation to testify. But the select committee isn't ruling it out. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
+ <a href="https://www.politico.com/news/2022/06/09/housse-democrats-jan-6-2024-00038305">Dems know the Jan. 6 hearings won't help in November. They're leaning in anyway.</a> Politico: House control is unlikely to hinge on the select committee's findings. And lawmakers who want to stop Donald Trump in 2024 are thinking bigger. 
  <p class="updated_time"> 09:58 PM CT, Jun. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:20 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/brad-raffensperger-testify-jan-6-committee-00038325">Raffensperger could testify publicly before Jan. 6 committee</a> Politico: The Georgia secretary of state withstood pressure from then-President Donald Trump to support his baseless claims of election fraud. 
  <p class="updated_time"> 06:50 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-january-6-hearing-00038321">Trump World is still trying to figure out how best to respond to the Jan. 6 hearing</a> Politico: The ex-president’s crew wants to cast the entire thing as a nothing burger. But they concede they’re in the dark about what’s coming. 
- <p class="updated_time"> 06:02 PM CT, Jun. 08 </p> 
- <a href="https://www.npr.org/2022/06/08/1103804802/hudson-canyon-a-giant-underwater-chasm-could-be-the-newest-national-marine-sanct">Hudson Canyon, a giant underwater chasm, could be the newest national marine sanctuary</a> NPR: The site — comparable in size to the Grand Canyon — is about a hundred miles off the coast of New York City. It's home to a number of sensitive species including sperm whales and sea turtles. 
  <p class="updated_time"> 04:27 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-raised-jan-6-capitol-appearance-secret-service-agent-select-panel-00038217">Trump privately raised Jan. 6 Capitol appearance with Secret Service agent, select panel hears</a> Politico: Robert Engel, the head of Donald Trump's Secret Service detail at the time, said they had different views on whether the former president should join his supporters. 
- <p class="updated_time"> 04:21 PM CT, Jun. 08 </p> 
- <a href="https://www.npr.org/2022/06/08/1103785100/china-brought-a-major-initiative-to-pacific-island-nations-it-has-the-u-s-worrie">China brought a major initiative to Pacific Island nations. It has the U.S. worried</a> NPR: China's foreign minister recently wrapped up a visit to eight Pacific island nations, raising alarm in the U.S. and its allies. 
- <p class="updated_time"> 04:14 PM CT, Jun. 08 </p> 
- <a href="https://www.npr.org/2022/06/08/1103663784/russia-ukraine-war-what-happened-today-june-8">Russia-Ukraine war: What happened today (June 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:55 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/pence-adviser-testify-jan-6-committee-00038206">Senior Pence adviser to testify before Jan. 6 committee</a> Politico: Gregory Jacob, who's expected to appear June 16, helped Mike Pence fend off efforts by Donald Trump and allies to disrupt the transition of presidential power. 
  <p class="updated_time"> 01:49 PM CT, Jun. 08 </p> 
@@ -358,8 +364,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/06/08/house-puts-gun-votes-on-the-board-00038027">House puts gun votes on the board</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/08/a-bad-night-for-california-progressives-and-donald-trump-00038017"> A bad night for California progressives and Donald Trump</a> Politico Playbook: And new polling reveals a mixed reaction to the Biden administration's proposal to forgive $10,000 in student loan debt for those who make less than $150,000 a year. 
- <p class="updated_time"> 03:30 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/house-senate-gop-split-over-jan-6-strategy-00037900">The latest House-Senate GOP split: How to respond to Jan. 6 hearings</a> Politico: One chamber's Republicans want to fight the select committee messaging that will go on blast this month. Their colleagues across the Capitol plan to ignore it. 
  <p class="updated_time"> 01:17 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/trump-endorsed-candidates-2022-primary-result-00037416">Trump endorsed 16 candidates in Tuesday’s primaries. Here are the winners.</a> Politico: The former president ran the table with his endorsements Tuesday. But he largely backed candidates who were likely to win anyway. 
  <p class="updated_time"> 01:08 AM CT, Jun. 08 </p> 
@@ -368,8 +372,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
  <p class="updated_time"> 06:51 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/battleground-candidates-take-the-field-as-gop-drives-to-flip-the-house-00037952">House Republicans face primary danger</a> Politico: Voters also nominated a slate of battleground candidates across seven states and issued verdicts on major public safety-themed campaigns in California. 
- <p class="updated_time"> 03:57 PM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/news/2022/06/07/democrats-guns-deal-00037830">Dems' big bet on guns: Take a narrow deal now, push GOP later</a> Politico: Senate Majority Leader Chuck Schumer isn't placing any limits on gun negotiations, a sign that his caucus is willing to accept any piecemeal deal it can get — for now. 
  <p class="updated_time"> 07:00 AM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/07/lucky-sevens-its-primary-day-00037677">Lucky sevens: It's primary day</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Jun. 07 </p> 
