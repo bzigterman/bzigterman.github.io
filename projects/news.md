@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:38 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 02:37 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as It Runs Short on Ammunition and Putin Talks of Empire</a> NYT: Ukraine is running out of ammunition for Soviet-era artillery pieces as its military tries to hold the besieged city of Sievierodonetsk. President Volodymyr Zelensky said his country needed more weapons and E.U. membership. 
- <p class="updated_time"> 01:38 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 01:50 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 01:38 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html">C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.</a> NYT: The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive. 
@@ -29,28 +31,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61762787?at_medium=RSS&at_campaign=KARANGA">Cholera in Mariupol: Ruined city at risk of major cholera outbreak - UK</a> BBC: Conditions in the city, now in Russian hands, could lead to a resurgence of the disease, authorities fear. 
  <p class="updated_time"> 12:51 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61685119?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Uvalde school police chief defends mass shooting response</a> BBC: The Uvalde school police chief told the Texas Tribune that officers responded without hesitation. 
+ <p class="updated_time"> 12:50 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 12:44 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down. 
- <p class="updated_time"> 12:38 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 12:29 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61757659?at_medium=RSS&at_campaign=KARANGA">Julee Cruise: Twin Peaks creator David Lynch pays tribute to 'great singer'</a> BBC: Director David Lynch remembers Cruise as "a great musician, a great singer and a great human being". 
- <p class="updated_time"> 11:38 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 11:50 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries to Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries to Pledge to Take In More Migrants 
  <p class="updated_time"> 11:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html">Royal Shipwreck From 1682 Is Found Off the Coast of England</a> NYT: The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week. 
  <p class="updated_time"> 11:28 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump accused of attempted coup</a> BBC: A hearing shows clips of the ex-president's daughter and aides saying his claim of voter fraud was false. 
+ <p class="updated_time"> 10:50 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
  <p class="updated_time"> 10:49 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61764296?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Five key moments from the US Capitol riot hearing</a> BBC: A Republican slams Trump, police describe chaos and the ex-president's daughter doubts his fraud claim. 
- <p class="updated_time"> 10:38 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 10:04 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61738341?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Closer US-Brazil ties unlikely after 'Trump of the Tropics' meets Biden</a> BBC: Brazil's president Jair Bolsonaro, has questioned the validity of the US leader's victory. 
  <p class="updated_time"> 09:56 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 09:38 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: South Korea, U.S. Take Tougher Line on North Korea Missile Tests 
+ <p class="updated_time"> 09:50 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/beijing-is-back-on-high-alert-after-covid-outbreak-traced-to-a-bar-11654875284">Beijing Is Back on High Alert After Covid Outbreak Traced to a Bar</a> WSJ: Beijing Is Back on High Alert After Covid Outbreak Traced to a Bar 
  <p class="updated_time"> 09:27 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. and Chinese Defense Officials Meet in Bid to Cool Regional Tensions</a> NYT: Despite public sparring over Taiwan, both sides indicated there had been some progress on steps to prevent inadvertent escalation of close military encounters. 
  <p class="updated_time"> 09:09 AM CT, Jun. 10 </p> 
@@ -59,6 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 08:45 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61757827?at_medium=RSS&at_campaign=KARANGA">Border rapist trial starts in France for 56 attacks</a> BBC: Dino Scala is accused of a 30-year series of rapes and sexual assaults. 
+ <p class="updated_time"> 08:43 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: Salah Abdeslam, a 32-year-old Frenchman, says he decided against detonating his suicide vest during an Islamic State massacre that killed 130 people across the nation’s capital in a single night. 
  <p class="updated_time"> 08:34 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law">Drop that fork! Why eating at your desk is banned in France</a> NPR: What the French history of the leisurely lunch break can teach us about separating work from rest. 
  <p class="updated_time"> 05:51 AM CT, Jun. 10 </p> 
@@ -195,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/us/politics/ukraine-war-us-intelligence.html">U.S. Lacks a Clear Picture of Ukraine’s War Strategy, Officials Say</a> NYT: Intelligence agencies know far more about Russia’s military, even as the United States ships billions of dollars in weapons to the Ukrainians. 
  <p class="updated_time"> 02:02 AM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-train-crash.html">Train Crash in Iran Kills at Least 21</a> NYT: There were fears that the death toll could rise as rescuers searched the train cars after the deadly accident, which took place about 340 miles southeast of Tehran. 
- <p class="updated_time"> 06:09 PM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/us/politics/biden-summit-los-angeles.html">Biden to Host Latin American Leaders at Summit in Los Angeles</a> NYT: The president is already the subject of a boycott by some of the region’s most important heads of state, and his agenda is being met with deep skepticism. 
 
 
 </details>
@@ -204,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/gas-prices-reach-5-but-americans-are-still-hitting-the-road-00038839">Gas prices reach $5, but Americans are still hitting the road</a> Politico: The amount of gasoline being pumped into U.S. cars and trucks hit a three-year high this month. 
  <p class="updated_time"> 02:14 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/trump-ivanka-january-6-hearing.html">Donald Trump Hits Back at Ivanka Trump’s Account That She Accepted His Election Loss</a> NYT: The former president, responding to videotaped testimony played at the Jan. 6 hearing, said Ivanka Trump had been “checked out” and was not involved in studying the election results. 
  <p class="updated_time"> 01:57 PM CT, Jun. 10 </p> 
@@ -272,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104103404/new-revelations-and-other-takeaways-from-first-jan-6-committee-hearing">New revelations and 3 other takeaways from the first Jan. 6 committee hearing</a> NPR: The committee transported the audience back to Jan. 6 with video of what happened that day. It also made a strong case that former President Donald Trump was responsible for what happened. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104025539/new-hampshire-redistricting-competitive-districts-sununu">Competitive congressional districts are on the decline. New Hampshire bucks the trend</a> NPR: The GOP-led legislature passed a map to dramatically redraw the state's two districts. But Republican Gov. Chris Sununu wanted both of the districts to remain competitive. 
- <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/chesa-boudin-progressive-agenda-california-00038675">Chesa Boudin is out in San Francisco, but his agenda is alive in California</a> Politico: The progressive district attorney's recall defeat was counterbalanced by victories around the state. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
