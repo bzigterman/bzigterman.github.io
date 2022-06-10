@@ -9,36 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:09 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 10:45 PM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries fiancé Sam Asghari</a> BBC: The couple tie the knot seven months after the termination of the pop star's legal conservatorship. 
+ <p class="updated_time"> 10:39 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/russia-ukraine-war-news">Ukraine Live Updates: ‘Dead Cities’ Become the Focus of Fierce Fighting in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
- <p class="updated_time"> 08:55 PM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump accused of 'attempted coup'</a> BBC: A prime-time hearing airs a clip of Ivanka Trump rejecting her father's claim the election was stolen. 
- <p class="updated_time"> 08:49 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
+ <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
+ <p class="updated_time"> 10:06 PM CT, Jun. 09 </p> 
  <a href="https://www.wsj.com/articles/ecb-plans-july-rate-increase-as-inflation-problem-deepens-11654776101">ECB Plans July Rate Increase as Inflation Problem Deepens</a> WSJ: ECB Plans July Rate Increase as Inflation Problem Deepens 
+ <p class="updated_time"> 10:06 PM CT, Jun. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61753870?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump accused of 'attempted coup'</a> BBC: A prime-time hearing airs a clip of Ivanka Trump distancing herself from her father's vote fraud claims. 
+ <p class="updated_time"> 09:06 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html">U.S. and Latin American Countries Will Commit to Receive More Migrants</a> NYT: A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
+ <p class="updated_time"> 08:06 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/vietnam-covid-test-scandal.html">2 Officials in Vietnam Are Arrested in Virus Test Kit Scandal</a> NYT: The health minister and the mayor of Hanoi were removed from their posts in a scandal that has led to charges against dozens of officials. 
- <p class="updated_time"> 07:49 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 07:32 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
- <p class="updated_time"> 06:49 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
+ <p class="updated_time"> 07:06 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 06:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61702904?at_medium=RSS&at_campaign=KARANGA">Covid-19: Japan reopens to tourists - but with strict rules</a> BBC: The once-popular Asian destination has some of the world's toughest Covid-19 restrictions. 
  <p class="updated_time"> 06:12 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61744248?at_medium=RSS&at_campaign=KARANGA">French elections: Left unites to threaten Macron in parliamentary vote</a> BBC: A five-party alliance led by Jean-Luc Mélenchon aims to deny the president control of parliament. 
  <p class="updated_time"> 06:08 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61731503?at_medium=RSS&at_campaign=KARANGA">Is it the end for the lush lawns of Los Angeles?</a> BBC: Tougher rules on watering gardens mean residents will have to consider alternatives to green grass. 
+ <p class="updated_time"> 06:06 PM CT, Jun. 09 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 06:04 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61754106?at_medium=RSS&at_campaign=KARANGA">Baby Holly: Child of murdered parents found safe after 42 years</a> BBC: Officials say members of a mysterious religious group brought Holly Crouse to a church after the killing. 
  <p class="updated_time"> 06:02 PM CT, Jun. 09 </p> 
@@ -47,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61749120?at_medium=RSS&at_campaign=KARANGA">YouTube accused of failing to tackle fake Elon Musk livestream scams</a> BBC: YouTube is being criticised for failing to tackle a network of scammers streaming fake Elon Musk videos. 
  <p class="updated_time"> 05:53 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
- <p class="updated_time"> 05:49 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61753865?at_medium=RSS&at_campaign=KARANGA">Widow of US Capitol riot officer on 'stigma' of his death</a> BBC: Nine days after he was assaulted in the 6 January 2021 attack, Jeff Smith died by suicide. 
  <p class="updated_time"> 05:37 PM CT, Jun. 09 </p> 
@@ -59,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html">As the Great Salt Lake Dries Up, Utah Faces An ‘Environmental Nuclear Bomb’</a> NYT: Climate change and rapid population growth are shrinking the lake, creating a bowl of toxic dust that could poison the air around Salt Lake City. 
  <p class="updated_time"> 05:16 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61754400?at_medium=RSS&at_campaign=KARANGA">Spanish homes threatened by wildfire near Costa del Sol</a> BBC: A wildfire has spread in southern Spain, forcing thousands of people to evacuate their homes. 
- <p class="updated_time"> 04:49 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 04:26 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61700011?at_medium=RSS&at_campaign=KARANGA">Ivory sold on eBay a decade after a 'total ban'</a> BBC: Thousands of ivory objects have been sold on eBay since the company banned the sale in 2009. 
  <p class="updated_time"> 04:16 PM CT, Jun. 09 </p> 
@@ -117,22 +123,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html">Russia Prosecuting 1,100 Captured Ukrainian Soldiers</a> NYT: Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow. 
  <p class="updated_time"> 10:57 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
- <p class="updated_time"> 09:57 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61719196?at_medium=RSS&at_campaign=KARANGA">Iran removes nuclear watchdog's cameras after criticism</a> BBC: The IAEA's head said it could deal a "fatal blow" to the nuclear deal unless the step was reversed. 
  <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
- <p class="updated_time"> 08:46 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61742735?at_medium=RSS&at_campaign=KARANGA">Berlin crash: Attack on capital's streets was ‘cruel rampage’ – Scholz</a> BBC: Berlin's mayor says the suspect, who is in police custody, is "severely mentally impaired". 
- <p class="updated_time"> 08:40 AM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61745508?at_medium=RSS&at_campaign=KARANGA">Aamir Liaquat Hussain: Pakistan's shock televangelist dies at 50</a> BBC: Aamir Liaquat Hussain was an outspoken, divisive host whose shows featured flashy prizes and abuse. 
  <p class="updated_time"> 07:00 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1102838828/complex-taiwanese-and-chinese-identities-are-exposed-after-gunman-enters-church">Complex Taiwanese and Chinese identities are exposed after gunman enters church </a> NPR: A gunman who killed one man and shot others exposes the complex identities of Taiwanese and Chinese people. 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law firm’s office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 01:42 AM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103878929/thailand-decriminalizes-marijuana">Thailand decriminalizes marijuana, but not the strong stuff</a> NPR: Thailand's government says it is promoting cannabis for medical use only, warning that lighting up recreationally in public could still considered to be a nuisance subject to a potential fines. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
@@ -199,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/07/health/monkeypox-masks-cdc.html">Monkeypox Can Be Airborne, Too</a> NYT: An abrupt change in C.D.C. guidance underscores a little-known phenomenon: On occasion, monkeypox can be transmitted through aerosols, similar to the coronavirus. 
  <p class="updated_time"> 03:20 PM CT, Jun. 07 </p> 
  <a href="https://www.nytimes.com/2022/06/07/us/politics/islamic-state-fluke-ekren.html">Kansas Woman Who Joined ISIS Left a ‘Trail of Betrayal’</a> NYT: Allison Fluke-Ekren, a Muslim convert from Kansas, rose through the ranks of the Islamic State in Syria, where she provided military training to women and girls, including her daughter. 
- <p class="updated_time"> 11:44 AM CT, Jun. 07 </p> 
- <a href="https://www.nytimes.com/2022/06/07/science/chicken-domestication-origin.html">Before Chickens Were Nuggets, They Were Revered</a> NYT: The origin of the domestic fowl is more recent than previously thought, but it may have taken them thousands of years to become food. 
 
 
 </details>
@@ -208,10 +204,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:34 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 10:53 PM CT, Jun. 09 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/gallery/january-6-hearings/index.html">In pictures: The January 6 hearings</a> CNN: For the last 10 months, a House select committee has been investigating last year's deadly attack on the US Capitol. 
- <p class="updated_time"> 09:17 PM CT, Jun. 09 </p> 
+ <p class="updated_time"> 10:48 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearing.html">Trump Is Depicted as a Would-Be Autocrat Seeking to Hang Onto Power at All Costs</a> NYT: As the Jan. 6 committee outlined during its prime-time hearing, Donald J. Trump executed a seven-part conspiracy to overturn a free and fair democratic election. 
+ <p class="updated_time"> 10:22 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/liz-cheney-jan-6-vice-chair.html">Liz Cheney: Vice Chairwoman Has Become a G.O.P. Outcast for Condemning Trump</a> NYT: She has been steadfast in continuing to blame the former president for stoking the Jan. 6 attack, and her Republican colleagues for following his lead. 
+ <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
+ <p class="updated_time"> 10:16 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">‘Trump Was at the Center’: Jan. 6 Hearing Lays Out Case in Vivid Detail</a> NYT: The House panel investigating the attack led its public sessions with video testimony from people close to the former president about his actions before and during the riot. 
+ <p class="updated_time"> 10:10 PM CT, Jun. 09 </p> 
+ <a href="https://www.npr.org/2022/06/09/1104095062/capitol-police-officer-jan-6-recalls-chaos-carnage">A Capitol Police officer injured on Jan. 6 recalls the chaos and carnage</a> NPR: "It was carnage, it was chaos. I can't even describe what I saw," says U.S. Capitol Police officer Caroline Edwards. 
+ <p class="updated_time"> 10:00 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/jan-6-proud-boys-capitol-police.html">Jan. 6 Narrative Is Built on Trump, Proud Boys and Capitol Police</a> NYT: The House committee built the story it laid out around Donald Trump, the Proud Boys and a Capitol Police officer, drawing clear contrasts along the way. 
+ <p class="updated_time"> 10:00 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/jared-ivanka-jan-6.html">Jared and Ivanka, Without the Power or the Masks</a> NYT: In stark videotaped interviews, Ivanka Trump accepted the notion that there had been no fraud in the 2020 election. Jared Kushner complained that a White House counsel had been “whining.” 
  <p class="updated_time"> 09:07 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/liz-cheney-jan-6-committee-full-statement-00038730">Read: Liz Cheney's opening statement at Jan. 6 select committee hearing</a> Politico: Read Rep. Liz Cheney's full opening remarks. 
  <p class="updated_time"> 08:44 PM CT, Jun. 09 </p> 
@@ -222,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden Faces Skepticism at Summit of the Americas</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
- <p class="updated_time"> 08:21 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearings.html">Jan. 6 Hearings Open With Focus on Trump’s Role in the Capitol Riot</a> NYT: The House panel investigating the attack led its public sessions with video testimony from people close to the former president about his actions before and during the riot. 
  <p class="updated_time"> 08:02 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1104077632/bennie-thompson-jan-6-insurrection-riot-culmination-of-an-attempted-coup">Bennie Thompson says Jan. 6 was the 'culmination of an attempted coup'</a> NPR: The chair of the House committee investigating the Jan. 6, 2021, insurrection called the attack a "culmination of an attempted coup," in opening remarks at Thursday's hearing about that day's riot. 
  <p class="updated_time"> 07:57 PM CT, Jun. 09 </p> 
@@ -278,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9">Russia-Ukraine war: What happened today (June 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/biden-abortion-00038565">Biden pledges executive orders on abortion. His options are limited.</a> Politico: While Biden has few options to preserve abortion access in states determined to restrict it, there are actions his administration can take to bolster reproductive health rights. 
+ <p class="updated_time"> 03:37 PM CT, Jun. 09 </p> 
+ <a href="https://www.cnn.com/2022/06/09/politics/chris-murphy-gun-safety-legislation-cnntv/index.html">Senate negotiators optimistic over gun talks, but find deal to still be elusive </a> CNN: Senate negotiators are racing to finalize a deal on bipartisan gun legislation, but it's not clear when they'll be able to nail down an agreement, the latest sign of the challenge facing lawmakers as they attempt to find consensus on the highly polarizing issue. 
  <p class="updated_time"> 03:34 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103997616/biden-has-changed-his-tune-on-saudi-arabia">Biden has changed his tune on Saudi Arabia</a> NPR: President Biden took a tough tack on Saudi Arabia when he came into office, calling it a "pariah" for its human rights abuses. But he's recently done an about-face. Oil is a big part of the reason. 
  <p class="updated_time"> 03:33 PM CT, Jun. 09 </p> 
@@ -304,6 +312,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">Jan. 6 panel uses Trump allies’ own words to indict former president</a> Politico: In the select committee’s first hearing, lawmakers aired footage of former Attorney General Bill Barr and other officials saying there was no substance to Trump’s claims of election fraud. 
  <p class="updated_time"> 12:58 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103913507/the-planning-behind-the-jan-6-insurrection-went-far-deeper-than-it-initially-see">The planning behind the Jan. 6 insurrection went far deeper than it initially seemed</a> NPR: NY Times Congressional reporter Luke Broadwater says the effort to overturn the '20 election results was a "sprawling and diffuse" one that involved local governments as well as White House insiders. 
+ <p class="updated_time"> 11:42 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/plastic-national-parks.html">Plastic Water Bottles to Be Phased Out at National Parks</a> NYT: An Interior Department order will end the sale of single-use plastic products at national parks and on other public lands in the United States by 2032. 
  <p class="updated_time"> 11:40 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/gop-candidate-for-michigan-governor-arrested-in-connection-with-jan-6-attack-00038479">GOP candidate for Michigan governor arrested in connection with Jan. 6 attack</a> Politico: Ryan Kelley was arrested Thursday on misdemeanor charges for participation in the Jan. 6 Capitol riot, according to the U.S. Attorney's Office for the District of Columbia. 
  <p class="updated_time"> 11:37 AM CT, Jun. 09 </p> 
@@ -330,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1103661684/gun-control-npr-pbs-marist-survey-uvalde-buffalo-biden">Poll: Support for controlling gun violence hits its highest point in a decade</a> NPR: About 6 in 10 now say controlling gun violence is more important than protecting gun rights. But independents are split on some key measures, and President Biden's approval rating hits his worst mark. 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/mccarthy-warning-republicans-whip-00038301">McCarthy issues warning to Republicans openly vying for whip</a> Politico: "I think that would backfire on people, if they try to run for something that is not there yet,” the House minority leader told POLITICO. 
- <p class="updated_time"> 03:58 AM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103884750/what-outcomes-can-we-expect-from-the-summit-of-americas">What outcomes can we expect from the Summit of Americas?</a> NPR: Leaders of nations in the Western Hemisphere get down to business at the Summit of the Americas in Los Angeles. How likely is it that they'll achieve any of their goals? 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/bernie-sanders-democrats-midterms-00038183">Bernie to Dems: Change course before you nosedive in November</a> Politico: The Vermont independent isn't buying the happy talk from a party still talking up a pre-midterm turnaround. And he has a prescription to avoid it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
