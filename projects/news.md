@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:52 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 07:27 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Ukraine’s Pleas Grow Louder as Soldiers Are Outgunned and Putin Talks of Empire</a> NYT: As Ukrainian soldiers try to hold on in the besieged city of Sievierodonetsk, President Volodymyr Zelensky said that his country must not be forced to stay in a “gray zone” and that it needed more weapons and E.U. membership. 
- <p class="updated_time"> 05:56 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 06:39 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530">Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</a> WSJ: Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death 
  <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
  <p class="updated_time"> 05:43 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/06/09/world/americas-summit">Summit Attendees Plan to Commit to Take in More Migrants</a> NYT: A joint declaration from the U.S. and Latin American countries is expected to be issued Friday to address surging migration rates that have affected the region. 
- <p class="updated_time"> 04:56 AM CT, Jun. 10 </p> 
+ <p class="updated_time"> 05:39 AM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-european-allies-try-to-restrain-global-oil-prices-11654767002">U.S., Allies Try to Restrain Surging Global Oil Prices</a> WSJ: U.S., Allies Try to Restrain Surging Global Oil Prices 
  <p class="updated_time"> 04:51 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
+ <p class="updated_time"> 04:39 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
  <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 03:56 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/biden-pushes-back-against-waning-u-s-influence-in-latin-america-at-summit-11654816507">Biden Pushes Back Against Waning U.S. Influence in Latin America</a> WSJ: Biden Pushes Back Against Waning U.S. Influence in Latin America 
+ <p class="updated_time"> 03:39 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
  <p class="updated_time"> 03:26 AM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61743919?at_medium=RSS&at_campaign=KARANGA">Britney Spears marries Sam Asghari after ex-husband Jason Alexander gatecrashes</a> BBC: The singer ties the knot to Sam Asghari as first husband Jason Alexander is arrested for trespassing. 
- <p class="updated_time"> 02:56 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/irans-actions-could-be-fatal-blow-to-reviving-nuclear-deal-says-iaea-chief-11654778526">Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief</a> WSJ: Iran’s Actions Could Be Fatal Blow to Reviving Nuclear Deal, Says IAEA Chief 
+ <p class="updated_time"> 02:39 AM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-proposes-helping-israel-arab-states-coordinate-air-defenses-against-iran-11654779601">U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran</a> WSJ: U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran 
  <p class="updated_time"> 02:31 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire. 
- <p class="updated_time"> 01:56 AM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-proposes-helping-israel-arab-states-coordinate-air-defenses-against-iran-11654779601">U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran</a> WSJ: U.S. Proposes Helping Israel, Arab States Harden Air Defenses Against Iran 
  <p class="updated_time"> 01:39 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
  <p class="updated_time"> 01:05 AM CT, Jun. 10 </p> 
@@ -52,7 +52,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:26 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61755070?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Blood found in search for pair missing in Brazil</a> BBC: Tests will be carried out on blood found on a boat in the search for Dom Phillips and Bruno Pereira. 
  <p class="updated_time"> 10:23 PM CT, Jun. 09 </p> 
- <a href="https://www.wsj.com/articles/chinas-inflationary-pressures-stay-muted-11654845788">China's Inflationary Pressures Stay Muted</a> WSJ: Inflation remained benign in China as Covid-19 lockdowns hammered domestic demand, leading economists to forecast that policy makers may ramp up stimulus to boost economic growth and employment. 
+ <a href="https://www.wsj.com/articles/chinas-inflationary-pressures-stay-muted-11654845788">China's Inflationary Pressures Stay Muted</a> WSJ: Inflation remained benign in China as Covid-19 lockdowns hammered domestic demand, leading economists to forecast that policy makers may increase stimulus to boost economic growth and employment. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 09:28 PM CT, Jun. 09 </p> 
@@ -204,6 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Jun. 10 </p> 
+ <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
+ <p class="updated_time"> 07:05 AM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/health/cancer-blood-tests.html">Blood Tests That Detect Cancers Create Risks for Those Who Use Them</a> NYT: The tests screen for cancers that often go undetected, but they are expensive and some experts worry they could lead to unnecessary treatments without saving patients’ lives. 
+ <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:49 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104116455/fox-news-jan-6-hearing">Only one major cable news channel did not carry the Jan. 6 hearing live: Fox News</a> NPR: Airing the hearing would have required Fox to broadcast flat contradictions of what its personalities have told their audience in the past year and a half: that the riot was a mere legal protest. 
  <p class="updated_time"> 06:13 AM CT, Jun. 10 </p> 
@@ -218,16 +224,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104103404/new-revelations-and-other-takeaways-from-first-jan-6-committee-hearing">New revelations and 3 other takeaways from the first Jan. 6 committee hearing</a> NPR: The committee transported the audience back to Jan. 6 with video of what happened that day. It also made a strong case that former President Trump was responsible for what happened. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104025539/new-hampshire-redistricting-competitive-districts-sununu">Competitive congressional districts are on the decline. New Hampshire bucks the trend</a> NPR: The GOP-led legislature passed a map to dramatically redraw the state's two districts. But Republican Gov. Chris Sununu wanted both of the districts to remain competitive. 
- <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/health/cancer-blood-tests.html">Blood Tests That Detect Cancers Create Risks for Those Who Use Them</a> NYT: The tests screen for cancers that often go undetected, but they are expensive and some experts worry they could lead to unnecessary treatments without saving patients’ lives. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/chesa-boudin-progressive-agenda-california-00038675">Chesa Boudin is out in San Francisco, but his agenda is alive in California</a> Politico: The progressive district attorney's recall defeat was counterbalanced by victories around the state. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/doug-ford-ontario-canada-progressives-00038502">What Doug Ford’s blue-collar victory means for Canada's progressives</a> Politico: The Progressive Conservative premier won a landslide thanks to working-class support. Are Canada's New Democrats at risk of losing their base? 
+ <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/gallery/2022/06/10/the-nations-cartoonists-on-the-week-in-politics-00038612">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 02:46 AM CT, Jun. 10 </p> 
- <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
  <p class="updated_time"> 12:04 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/gallery/january-6-hearings/index.html">In pictures: The January 6 hearings</a> CNN: For the last 10 months, a House select committee has been investigating last year's deadly attack on the US Capitol. 
  <p class="updated_time"> 11:19 PM CT, Jun. 09 </p> 
@@ -345,8 +349,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/bernie-sanders-democrats-midterms-00038183">Bernie to Dems: Change course before you nosedive in November</a> Politico: The Vermont independent isn't buying the happy talk from a party still talking up a pre-midterm turnaround. And he has a prescription to avoid it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/obama-copenhagen-russia-climate-00038265">Obama to deliver warning of democracy’s peril against twin backdrops: Jan. 6 and Ukraine</a> Politico: In a speech in Copenhagen, Obama will tackle disinformation, inequality, and Russia’s invasion. It comes as the Jan. 6 hearings commence. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/nikki-haley-battles-trump-in-house-primary-turf-war-00038363">Nikki Haley battles Trump in House primary turf war</a> Politico: The two Republicans are on opposite sides of a hard-fought GOP primary in South Carolina next week. 
  <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/dems-meddle-in-colorado-senate-gop-primary-00038294">Dems meddle in Senate primary to advance hardline MAGA Republican</a> Politico: Colorado scheme is designed to hurt the prospects of a GOP candidate who is viewed as a more serious threat to Democratic Sen. Michael Bennet. 
@@ -376,8 +378,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/trump-primary-takeaways-00038010">Trump hits another snag: 6 takeaways from a big primary night</a> Politico: Some of the former president's least favorite Republicans survived their primaries. But in California, Democrats appear to have a turnout problem. 
  <p class="updated_time"> 10:36 PM CT, Jun. 07 </p> 
  <a href="https://www.politico.com/news/2022/06/07/judge-eastman-emails-jan-6-committee-00037999">Judge sends another trove of Eastman emails to Jan. 6 committee</a> Politico: The ruling is another victory for the Jan. 6 select committee. 
- <p class="updated_time"> 07:00 AM CT, Jun. 07 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/06/07/lucky-sevens-its-primary-day-00037677">Lucky sevens: It's primary day</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
