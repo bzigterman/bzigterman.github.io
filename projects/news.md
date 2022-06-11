@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">What Happened on Day 107 of the War in Ukraine</a> NYT: Shells for Soviet-era weapons were running short, and powerful Western weapons were not arriving fast enough to make up the difference, giving Russia a big advantage in artillery on the battlefields in the east. 
+ <p class="updated_time"> 12:10 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
+ <p class="updated_time"> 11:29 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 11:07 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767387?at_medium=RSS&at_campaign=KARANGA">Bolivia: Former President Jeanine Áñez sentenced over 'coup'</a> BBC: Jeanine Áñez is sentenced to 10 years in jail in a case she says is politically motivated. 
- <p class="updated_time"> 10:53 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
- <p class="updated_time"> 10:26 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">Live Updates: Shortage of Artillery Ammo Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery on the battlefields in the east. 
+ <p class="updated_time"> 10:29 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 09:53 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 09:46 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
- <p class="updated_time"> 08:53 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
+ <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
+ <p class="updated_time"> 08:29 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 08:21 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61767386?at_medium=RSS&at_campaign=KARANGA">Canada mulls putting warnings on each cigarette</a> BBC: The government says the measure could further cut the number of smokers, especially among the young. 
  <p class="updated_time"> 08:08 PM CT, Jun. 10 </p> 
@@ -39,14 +43,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61757829?at_medium=RSS&at_campaign=KARANGA">Russia's war prompts regional rush to become EU candidates</a> BBC: While the prospects for Ukraine and Moldova look good, Georgia is accused of backsliding on democracy. 
  <p class="updated_time"> 07:53 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61749877?at_medium=RSS&at_campaign=KARANGA">Ukraine's prosecutors wrestle with a new role: war crimes investigators</a> BBC: An unprecedented real-time war crimes investigation is testing Ukraine's local prosecutors. 
- <p class="updated_time"> 07:53 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 07:32 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61767628?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump dismisses daughter Ivanka's testimony</a> BBC: Mr Trump says his daughter "had long since checked out" after she distanced herself from his claims. 
+ <p class="updated_time"> 07:29 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 07:16 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767385?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Possible human remains found in hunt for journalist</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing last weekend. 
- <p class="updated_time"> 06:53 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 06:32 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
  <p class="updated_time"> 06:02 PM CT, Jun. 10 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/israel-bennett-uae-visit.html">Naftali Bennett, Israel’s Prime Minister, Visits U.A.E.</a> NYT: The trip by Naftali Bennett, the Israeli leader, burnishes his foreign policy credentials and provides some distraction from his domestic political troubles. 
  <p class="updated_time"> 11:12 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/russia-trials-ukrainian-soldiers.html">Russia Prosecuting 1,100 Captured Ukrainian Soldiers</a> NYT: Announcing the invasion in February, Vladimir Putin said Ukrainians would be prosecuted for “blood crimes.” Moscow is now making good on that vow. 
- <p class="updated_time"> 09:35 AM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days. 
  <p class="updated_time"> 06:02 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
