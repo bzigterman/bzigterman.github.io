@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 06:20 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
+ <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
+ <p class="updated_time"> 05:33 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
- <p class="updated_time"> 04:59 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 04:39 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
+ <p class="updated_time"> 04:33 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
- <p class="updated_time"> 02:59 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 03:33 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 02:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61667474?at_medium=RSS&at_campaign=KARANGA">Florence 'DJ Cuppy' Otedola opens up about student life at Oxford University</a> BBC: We chat to Florence 'DJ Cuppy' Otedola, daughter of billionaire Femi Otedola, about life at Oxford University. 
+ <p class="updated_time"> 02:33 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 02:27 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
- <p class="updated_time"> 01:59 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
+ <p class="updated_time"> 01:33 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 01:32 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada proposes printing a warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
- <p class="updated_time"> 12:59 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 12:10 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
  <p class="updated_time"> 11:07 PM CT, Jun. 10 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 09:46 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
  <p class="updated_time"> 08:21 PM CT, Jun. 10 </p> 
@@ -177,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
- <p class="updated_time"> 06:22 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/angela-merkel-russia-putin.html">Angela Merkel Says She ‘Won’t Apologize’ for Her Russia Diplomacy</a> NYT: Ms. Merkel has come under fire for pushing German-Russian business interests during her tenure as chancellor. 
  <p class="updated_time"> 05:01 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 04:07 PM CT, Jun. 08 </p> 
@@ -200,6 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
+ <p class="updated_time"> 06:01 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/michigans-abortion-providers-brace-for-a-ban-or-a-surge-00038928">Michigan’s abortion providers brace for a ban — or a surge</a> Politico: The swing state could soon lose all abortion access if Roe is overturned. It could also become a destination for patients across the midwest. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Demmings may not get any measurable help in a state that may be slipping away from her party. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
@@ -218,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/us/politics/25th-amendment-trump-cabinet.html">Jan. 6 Panel Puts Focus on Cabinet Discussions About Removing Trump</a> NYT: Other reports verify Representative Liz Cheney’s assertion that cabinet members considered using the 25th Amendment to oust Donald Trump after the assault on the Capitol. 
  <p class="updated_time"> 10:07 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/austin-determined-to-keep-taiwans-status-quo-00038990">Austin: U.S. 'determined' to keep Taiwan's status quo</a> Politico: Washington opposes Taiwan independence but will continue to send arms and prevent Chinese coercion, the Defense secretary says. 
- <p class="updated_time"> 09:46 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 09:39 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/us-testing-travel-mandate-covid.html">Virus Testing Mandate for International Travelers to the U.S. to End</a> NYT: In a move hailed by the travel industry, starting Sunday morning passengers will be able to board flights to the U.S. without a negative coronavirus test. 
  <p class="updated_time"> 09:03 PM CT, Jun. 10 </p> 
@@ -256,26 +262,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104291172/documentary-footage-from-filmmaker-shows-evidence-that-jan-6-was-a-planned-attac">Documentary footage from filmmaker shows evidence that Jan. 6 was a planned attack</a> NPR: Committee members heard testimony from a witness with evidence that Jan. 6 was a planned attack. Documentarian Nick Quested was filming the extremist group the Proud Boys before and during the riots. 
  <p class="updated_time"> 02:45 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/pence-team-election-fraud-memo-00038921">Pence team couldn't verify Trump campaign's election fraud claims, new memo shows</a> Politico: In a previously unseen memo obtained by POLITICO, the former vice president's legal team called most of the fraud allegations minor and unverifiable. 
- <p class="updated_time"> 02:15 PM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/gas-prices-reach-5-but-americans-are-still-hitting-the-road-00038839">Gas prices reach $5, but Americans are still hitting the road</a> Politico: The amount of gasoline being pumped into U.S. cars and trucks hit a three-year high this month. 
  <p class="updated_time"> 02:14 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/trump-ivanka-january-6-hearing.html">Trump Hits Back at Daughter’s Account That She Accepted His Election Loss</a> NYT: The former president, responding to videotaped testimony played at the Jan. 6 hearing, said Ivanka Trump had been “checked out” and was not involved in studying the election results. 
  <p class="updated_time"> 01:57 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/illinois-man-allegedly-attempted-to-firebomb-chinese-embassy-00038875">Illinois man allegedly attempted to firebomb Chinese embassy</a> Politico: About a week before, Benjamin J. Grabinski had warned officers that he would attempt to firebomb the Chinese embassy. 
  <p class="updated_time"> 01:11 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/cdc-clarifies-monkeypox-doesnt-spread-by-air-after-confusing-mask-recommendation-00038706">CDC widens net of monkeypox symptoms for clinicians to watch for as cases continue to rise</a> Politico: While monkeypox can be spread at close range through saliva droplets or respiratory secretions, the agency said it cannot travel through aerosols, like SARS-CoV-2. 
- <p class="updated_time"> 12:41 PM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/inside-the-osces-botched-withdrawal-from-ukraine-00038847">Inside the OSCE’s botched withdrawal from Ukraine</a> Politico: When the OSCE’s Special Monitoring Mission withdrew from Ukraine in the first days of Russia’s invasion, it left local staff behind — with tragic consequences. 
  <p class="updated_time"> 12:27 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104156949/jan-6-committee-hearing-transcript">Here's every word of the first Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 9 hearing of the House select committee investigating the Jan. 6th Capitol attack. 
- <p class="updated_time"> 11:19 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/globalizations-gut-check-world-trade-organization-gathering-offers-a-test-of-free-trade-system-00038799">Globalization's gut check: World Trade Organization gathering offers a test of free trade system</a> Politico: If the global organization can’t reach a consensus on some of the low-hanging fruit on its agenda, there is little hope it can help tackle the world's biggest challenges. 
  <p class="updated_time"> 10:45 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/style/disney-gay-days.html">After a Political Storm, Gay Days Return to Disney</a> NYT: An L.G.B.T.Q. tradition at Disney World took on new significance this year, when Disney was ensnared in a heated cultural debate. 
  <p class="updated_time"> 10:12 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104138168/covid-19-negative-test-airline-travelers-lift">Starting on Sunday, you won't have to test for COVID-19 to fly into the U.S.</a> NPR: The Centers for Disease Control and Prevention is lifting its COVID-19 testing requirement for airline travelers coming into the country. It's a major change for the travel industry. 
- <p class="updated_time"> 10:05 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/inflation-report-00038785">Inflation surprise: Here's what's inside the red-hot CPI report</a> Politico: The increase in CPI was broad-based — driven by rising prices for shelter, gasoline and food — offering little comfort to those who had suggested that inflation would begin to ease. 
  <p class="updated_time"> 09:59 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/u-s-ditches-negative-covid-test-for-international-visitors-00038800">U.S. ditches negative Covid test for international visitors</a> Politico: The White House said that the CDC still may bring back the requirement depending on rising Covid-19 cases. 
  <p class="updated_time"> 09:26 AM CT, Jun. 10 </p> 
@@ -286,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/donald-ivanka-trump-jan-6-testimony-00038783">'Checked out': Trump rebukes Ivanka over Jan. 6 testimony</a> Politico: “Ivanka Trump was not involved in looking at, or studying, Election results. She had long since checked out,” Trump posted on Truth Social. 
  <p class="updated_time"> 07:50 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/us-monkeypox-vaccine-00038776">U.S. orders 500,000 monkeypox vaccines to be delivered this year</a> Politico: The order is larger than earlier ones to the U.S. and represents a significant escalation in the fight against a growing monkeypox outbreak. 
- <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:49 AM CT, Jun. 10 </p> 
@@ -304,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104103404/new-revelations-and-other-takeaways-from-first-jan-6-committee-hearing">New revelations and 3 other takeaways from the first Jan. 6 committee hearing</a> NPR: The committee transported the audience back to Jan. 6 with video of what happened that day. It also made a strong case that former President Donald Trump was responsible for what happened. 
  <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104025539/new-hampshire-redistricting-competitive-districts-sununu">Competitive congressional districts are on the decline. New Hampshire bucks the trend</a> NPR: The GOP-led legislature passed a map to dramatically redraw the state's two districts. But Republican Gov. Chris Sununu wanted both of the districts to remain competitive. 
- <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/doug-ford-ontario-canada-progressives-00038502">What Doug Ford’s blue-collar victory means for Canada's progressives</a> Politico: The Progressive Conservative premier won a landslide thanks to working-class support. Are Canada's New Democrats at risk of losing their base? 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
@@ -362,6 +356,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/biden-jimmy-kimmel-guns-00038394">Biden urges Americans to make guns 'a voting issue'</a> Politico: During an extended interview with comedian Jimmy Kimmel, he urged Americans to make themselves heard on the emotional issue. 
  <p class="updated_time"> 09:58 PM CT, Jun. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 07:44 PM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/biden-top-science-adviser-00038361">Biden narrows in on his next top science adviser</a> Politico: The former head of DARPA during the Obama years is a “leading contender” for White House for the office. 
  <p class="updated_time"> 07:20 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/brad-raffensperger-testify-jan-6-committee-00038325">Raffensperger could testify publicly before Jan. 6 committee</a> Politico: The Georgia secretary of state withstood pressure from then-President Donald Trump to support his baseless claims of election fraud. 
  <p class="updated_time"> 06:50 PM CT, Jun. 08 </p> 
@@ -370,6 +366,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/08/trump-raised-jan-6-capitol-appearance-secret-service-agent-select-panel-00038217">Trump privately raised Jan. 6 Capitol appearance with Secret Service agent, select panel hears</a> Politico: Robert Engel, the head of Donald Trump's Secret Service detail at the time, said they had different views on whether the former president should join his supporters. 
  <p class="updated_time"> 01:14 PM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/news/2022/06/08/man-gun-arrested-kavanaugh-00038137">Supreme Court security in spotlight after Kavanaugh threat</a> Politico: The suspect allegedly called police in Maryland and said he had a gun in his suitcase to kill “a specific Supreme Court justice.” 
+ <p class="updated_time"> 11:45 AM CT, Jun. 08 </p> 
+ <a href="https://www.politico.com/news/2022/06/08/democrats-biden-saudi-trip-00037891">‘Pariah’ no more? Democrats grit their teeth over Biden’s Saudi trip</a> Politico: The president’s Middle East reset raises human rights concerns for some fellow Democrats. Others are prepared to get pragmatic. 
  <p class="updated_time"> 07:22 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/08/house-puts-gun-votes-on-the-board-00038027">House puts gun votes on the board</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
