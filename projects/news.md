@@ -9,23 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
+ <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
+ <p class="updated_time"> 11:51 AM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61772039?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Tens of thousands rally for stricter US gun laws</a> BBC: Following several recent school shootings, protesters - especially young people - demand change. 
  <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
  <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 10:56 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 11:18 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
+ <p class="updated_time"> 10:18 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 09:58 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
  <p class="updated_time"> 09:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
- <p class="updated_time"> 09:56 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61770997?at_medium=RSS&at_campaign=KARANGA">Russia hands out passports in occupied Ukraine cities</a> BBC: The issuing of Russian passports in occupied Kherson and Melitopol is condemned by Kyiv. 
  <p class="updated_time"> 09:44 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
- <p class="updated_time"> 08:56 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 09:18 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 08:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61770020?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup 2022: German ex-football star says host's treatment of gay people is unacceptable</a> BBC: Oliver Bierhoff says the World Cup host's treatment of gay people is "absolutely unacceptable". 
@@ -33,20 +39,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-legislative-parliamentary-elections-first-round.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda. 
+ <p class="updated_time"> 08:18 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
- <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
- <p class="updated_time"> 07:56 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 06:56 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 07:18 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
- <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada proposes printing a warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
  <p class="updated_time"> 12:10 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 11:07 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61767387?at_medium=RSS&at_campaign=KARANGA">Bolivia: Former President Jeanine Áñez sentenced over 'coup'</a> BBC: Jeanine Áñez is sentenced to 10 years in jail in a case she says is politically motivated. 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
@@ -200,6 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:05 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
+ <p class="updated_time"> 11:54 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
  <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">Thousands rally for gun reform after surge in mass shootings</a> Politico: Organizers expect the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
  <p class="updated_time"> 11:12 AM CT, Jun. 11 </p> 
@@ -234,8 +238,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1103982837/federal-firefighters-waiting-for-pay-raises-they-hope-will-help-fill-their-ranks">Federal firefighters are waiting for pay raises they hope will help fill their ranks</a> NPR: While they face longer and hotter wildfire seasons, federal firefighters are also battling staffing shortages in six of the nine regions across the country. 
- <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
  <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/moderna-vaccine-children-fda.html">Moderna’s Covid Vaccine Is Effective in Children Under 6, F.D.A. Says</a> NYT: Outside experts will meet next week to decide whether to recommend that the agency authorize the vaccine for kids 6 months and older. 
  <p class="updated_time"> 02:14 AM CT, Jun. 11 </p> 
@@ -256,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/us/politics/alaska-election-sarah-palin.html">In Alaska, 48 House candidates and a first-of-its-kind special election</a> NYT: Voters are taking part in a mail-only special election with an open primary. Former Gov. Sarah Palin and Santa Claus are on the ballot. 
  <p class="updated_time"> 08:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/business/media/james-goldston-january-6-committee.html">James Goldston, Former TV News Chief, Helps the Jan. 6 Committee  </a> NYT: James Goldston was a longtime producer at ABC News and then its president for seven years. 
- <p class="updated_time"> 08:08 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
  <p class="updated_time"> 06:04 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/media-democracy.html">How Journalists Wrestle With Covering Threats to Democracy</a> NYT: A new report challenges news outlets to provide richer, more urgent coverage of the rise of authoritarian movements in the United States and abroad. 
  <p class="updated_time"> 06:04 PM CT, Jun. 10 </p> 
