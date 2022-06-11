@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:32 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada will require a printed warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
+ <p class="updated_time"> 12:39 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 12:37 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">What Happened on Day 107 of the War in Ukraine</a> NYT: Shells for Soviet-era weapons were running short, and powerful Western weapons were not arriving fast enough to make up the difference, giving Russia a big advantage in artillery on the battlefields in the east. 
  <p class="updated_time"> 12:10 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 11:54 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
+ <p class="updated_time"> 11:39 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 11:07 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767387?at_medium=RSS&at_campaign=KARANGA">Bolivia: Former President Jeanine Áñez sentenced over 'coup'</a> BBC: Jeanine Áñez is sentenced to 10 years in jail in a case she says is politically motivated. 
- <p class="updated_time"> 10:54 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
+ <p class="updated_time"> 10:39 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
- <p class="updated_time"> 09:54 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 09:46 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
+ <p class="updated_time"> 09:39 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
- <p class="updated_time"> 08:54 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
+ <p class="updated_time"> 08:39 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 08:21 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61767386?at_medium=RSS&at_campaign=KARANGA">Canada mulls putting warnings on each cigarette</a> BBC: The government says the measure could further cut the number of smokers, especially among the young. 
  <p class="updated_time"> 08:08 PM CT, Jun. 10 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61727941?at_medium=RSS&at_campaign=KARANGA">Julian Assange: Does Wikileaks founder have a powerful ally in new Australian PM?</a> BBC: The activist's family are hoping Anthony Albanese will step in as a deportation deadline looms. 
  <p class="updated_time"> 07:57 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61757829?at_medium=RSS&at_campaign=KARANGA">Russia's war prompts regional rush to become EU candidates</a> BBC: While the prospects for Ukraine and Moldova look good, Georgia is accused of backsliding on democracy. 
- <p class="updated_time"> 07:54 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 07:53 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61749877?at_medium=RSS&at_campaign=KARANGA">Ukraine's prosecutors wrestle with a new role: war crimes investigators</a> BBC: An unprecedented real-time war crimes investigation is testing Ukraine's local prosecutors. 
  <p class="updated_time"> 07:32 PM CT, Jun. 10 </p> 
@@ -51,6 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767385?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Possible human remains found in hunt for journalist</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing last weekend. 
  <p class="updated_time"> 06:32 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
+ <p class="updated_time"> 06:11 PM CT, Jun. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61748732?at_medium=RSS&at_campaign=KARANGA">Ms: The first magazine owned, run, and written by women</a> BBC: Ms Magazine covered issues such as equal rights, abortion and domestic violence in a way that no other magazine had before. 
  <p class="updated_time"> 06:02 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61755730?at_medium=RSS&at_campaign=KARANGA">India water: Hundreds jostle to reach well</a> BBC: People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water. 
  <p class="updated_time"> 06:00 PM CT, Jun. 10 </p> 
@@ -117,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
  <p class="updated_time"> 01:02 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
- <p class="updated_time"> 12:07 AM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-61750744?at_medium=RSS&at_campaign=KARANGA">Bear fight on cliff-edge ends in deadly fall</a> BBC: A female bear was forced to protect her cub from a male in Spain's Cantabrian mountains. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
@@ -163,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/putin-peter-the-great.html">Putin Compares Himself to Peter the Great, the Famous Czar </a> NYT: Vladimir Putin likened his goals in Ukraine to the conquests of Peter the Great. 
  <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/germany-beer-bottle-shortage.html">German Brewers Face ‘Unprecedented’ Beer Bottle Shortage</a> NYT: A nation of beer lovers is facing a shortage of bottles, partly because of the war in Ukraine. Breweries are looking to drinkers for a rescue. 
- <p class="updated_time"> 12:11 PM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103937143/ukraine-medical-cannabis-war">The war is speeding up Ukraine's efforts to legalize medical cannabis </a> NPR: Some Ukrainian advocates and lawmakers have long campaigned for the legalization of medical cannabis. A revised version of a bill that failed last year is heading back to Parliament with new urgency. 
  <p class="updated_time"> 12:04 PM CT, Jun. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61714818?at_medium=RSS&at_campaign=KARANGA">Saxon Mullins: The woman changing Australia's rape laws</a> BBC: Saxon Mullins sparked a national debate after saying she felt let down after making a rape allegation. 
  <p class="updated_time"> 11:57 AM CT, Jun. 09 </p> 
@@ -346,6 +346,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
  <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/big-tech-american-bar-association-00038224">Rebellion foments inside the American Bar Association over influence of Big Tech</a> Politico: The tension has heated up over a letter sent by ABA leadership to Congress opposing proposed anti-monopoly legislation that would rein in Apple, Google, Meta and Amazon. 
+ <p class="updated_time"> 08:08 AM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/us/politics/jan-6-timeline.html">Jan. 6: The Story So Far</a> NYT: How a president who couldn’t accept defeat worked with a cabal of loyalists to pursue one strategy after another to subvert democracy and overturn an election. 
  <p class="updated_time"> 07:08 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/09/opening-night-jan-6-committee-raises-the-curtain-00038416">Opening night: Jan. 6 committee raises the curtain</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:30 AM CT, Jun. 09 </p> 
@@ -378,8 +380,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/06/08/house-puts-gun-votes-on-the-board-00038027">House puts gun votes on the board</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Jun. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/08/a-bad-night-for-california-progressives-and-donald-trump-00038017"> A bad night for California progressives and Donald Trump</a> Politico Playbook: And new polling reveals a mixed reaction to the Biden administration's proposal to forgive $10,000 in student loan debt for those who make less than $150,000 a year. 
- <p class="updated_time"> 01:08 AM CT, Jun. 08 </p> 
- <a href="https://www.politico.com/news/2022/06/08/trump-primary-takeaways-00038010">Trump hits another snag: 6 takeaways from a big primary night</a> Politico: Some of the former president's least favorite Republicans survived their primaries. But in California, Democrats appear to have a turnout problem. 
 
 
 </details>
