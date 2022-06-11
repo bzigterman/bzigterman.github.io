@@ -9,42 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:20 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 08:40 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
+ <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/europe/france-legislative-parliamentary-elections-first-round.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda. 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
- <p class="updated_time"> 07:32 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 07:45 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
+ <p class="updated_time"> 06:45 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
- <p class="updated_time"> 06:32 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 05:32 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 05:45 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
+ <p class="updated_time"> 04:45 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 04:39 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
- <p class="updated_time"> 04:32 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
+ <p class="updated_time"> 03:45 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
- <p class="updated_time"> 03:32 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 02:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61667474?at_medium=RSS&at_campaign=KARANGA">Florence 'DJ Cuppy' Otedola opens up about student life at Oxford University</a> BBC: We chat to Florence 'DJ Cuppy' Otedola, daughter of billionaire Femi Otedola, about life at Oxford University. 
  <p class="updated_time"> 02:53 AM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/61768642?at_medium=RSS&at_campaign=KARANGA">Polish hammer throwing champ fights off car thief</a> BBC: Poland's Anita Wlodarczyk says she will have surgery on an injury sustained while apprehending a thief who broke into her car. 
+ <a href="https://www.bbc.co.uk/sport/athletics/61768642?at_medium=RSS&at_campaign=KARANGA">Polish hammer throwing champ overpowers car thief</a> BBC: Poland's Anita Wlodarczyk says she will have surgery on an injury sustained while apprehending a thief who broke into her car. 
  <p class="updated_time"> 02:27 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/russia-ukraine-crimea-canal.html">Russia Is Racing to Cement Its Control in Southern Ukraine</a> NYT: The Kremlin says it has rebuilt rail and road links to Crimea, while appointing proxy officials in an effort to create facts on the ground. 
- <p class="updated_time"> 02:02 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/middleeast/iran-nuclear-iaea-cameras.html">Iran Turns Off U.N. Surveillance Cameras at Nuclear Site</a> NYT: The step came as tensions have risen over stalled efforts to revive a 2015 deal that limited Iran’s nuclear activities in exchange for the easing of sanctions. 
  <p class="updated_time"> 02:00 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
