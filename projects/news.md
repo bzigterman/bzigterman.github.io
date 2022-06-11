@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
+ <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
+ <p class="updated_time"> 07:32 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 07:04 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
- <p class="updated_time"> 06:55 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
+ <p class="updated_time"> 06:32 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 06:04 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
- <p class="updated_time"> 05:04 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 05:32 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
@@ -31,13 +33,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
+ <p class="updated_time"> 04:32 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 04:04 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
- <p class="updated_time"> 03:04 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 03:32 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 02:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61667474?at_medium=RSS&at_campaign=KARANGA">Florence 'DJ Cuppy' Otedola opens up about student life at Oxford University</a> BBC: We chat to Florence 'DJ Cuppy' Otedola, daughter of billionaire Femi Otedola, about life at Oxford University. 
@@ -159,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1104000154/npr-travels-to-afghanistan-for-the-1st-time-since-the-taliban-took-over">NPR travels to Afghanistan for the 1st time since the Taliban took over</a> NPR: In NPR's first visit to Afghanistan since the Taliban took over almost a year ago, Diaa Hadid discusses the changes she's observing in Kabul since she last visited there in pre-Taliban-ruled 2020. 
  <p class="updated_time"> 03:53 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9">Russia-Ukraine war: What happened today (June 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:34 PM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1103997616/biden-has-changed-his-tune-on-saudi-arabia">Biden has changed his tune on Saudi Arabia</a> NPR: President Biden took a tough tack on Saudi Arabia when he came into office, calling it a "pariah" for its human rights abuses. But he's recently done an about-face. Oil is a big part of the reason. 
  <p class="updated_time"> 03:33 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
  <p class="updated_time"> 03:14 PM CT, Jun. 09 </p> 
@@ -202,6 +202,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:10 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
+ <p class="updated_time"> 08:10 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104368974/march-for-our-lives-rallies-across-the-u-s-call-for-gun-control">March For Our Lives rallies across the U.S. call for gun control</a> NPR: 'March for Our Lives' rallies happen in Washington and other cities this weekend, focusing on the people and the communities affected by gun violence, and calling for political action. 
+ <p class="updated_time"> 08:09 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104368967/major-broadcasters-aired-the-jan-6-committee-hearings-live-fox-news-did-not">Major broadcasters aired the Jan. 6 committee hearings live. Fox News did not</a> NPR: We look at how Fox News covered the first of the Jan. 6 committee hearings, which it did not air live. The network chose to air it on its business channel, the Fox Business Network, instead. 
+ <p class="updated_time"> 08:06 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104368960/jan-6-committee-chair-rep-bennie-thompson-discusses-upcoming-hearings">Jan. 6 committee chair Rep. Bennie Thompson discusses upcoming hearings</a> NPR: Scott Simon talks with Rep. Bennie Thompson about the Jan. 6 hearings. The Mississippi Democrat chairs the committee investigating the attack on the Capitol. 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
  <p class="updated_time"> 07:05 AM CT, Jun. 11 </p> 
@@ -219,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1103982837/federal-firefighters-waiting-for-pay-raises-they-hope-will-help-fill-their-ranks">Federal firefighters waiting for pay raises they hope will help fill their ranks</a> NPR: While they face longer and hotter wildfire seasons, federal firefighters are also battling staffing shortages in six of the nine regions across the country. 
+ <a href="https://www.npr.org/2022/06/11/1103982837/federal-firefighters-waiting-for-pay-raises-they-hope-will-help-fill-their-ranks">Federal firefighters are waiting for pay raises they hope will help fill their ranks</a> NPR: While they face longer and hotter wildfire seasons, federal firefighters are also battling staffing shortages in six of the nine regions across the country. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
  <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
@@ -236,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/austin-determined-to-keep-taiwans-status-quo-00038990">Austin: U.S. 'determined' to keep Taiwan's status quo</a> Politico: Washington opposes Taiwan independence but will continue to send arms and prevent Chinese coercion, the Defense secretary says. 
  <p class="updated_time"> 09:39 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/us-testing-travel-mandate-covid.html">Virus Testing Mandate for International Travelers to the U.S. to End</a> NYT: In a move hailed by the travel industry, starting Sunday morning passengers will be able to board flights to the U.S. without a negative coronavirus test. 
- <p class="updated_time"> 09:03 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
  <p class="updated_time"> 08:54 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/tom-rice-trump-impeach.html">Tom Rice, G.O.P. Congressman Who Voted to Impeach Trump, Stands by His Vote</a> NYT: Representative Tom Rice is bracing for a tough runoff election against a Trump-backed challenger following Tuesday’s primary. 
  <p class="updated_time"> 08:51 PM CT, Jun. 10 </p> 
@@ -302,12 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104116464/house-committee-places-blame-for-jan-6-riot-on-trump">House Committee places blame for Jan. 6 riot on Trump</a> NPR: During a hearing last night in prime time, the House Select Committee investigating January Six made it clear it blames former President Donald Trump for that day's deadly violence. 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/10/its-about-donald-trump-stupid-00038769"> It's about Donald Trump, stupid</a> Politico Playbook: And Rep. Dusty Johnson recounts what he witnessed on Jan. 6. 
- <p class="updated_time"> 04:01 AM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104109765/breaking-down-yesterdays-jan-6-hearing">Breaking down yesterday's Jan. 6 hearing</a> NPR: The co-hosts of the NPR Politics Podcast discuss compelling moments and takeaways from the first public hearing by the House select committee investigating the Jan. 6 attack on the U.S. Capitol. 
- <p class="updated_time"> 04:01 AM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104103404/new-revelations-and-other-takeaways-from-first-jan-6-committee-hearing">New revelations and 3 other takeaways from the first Jan. 6 committee hearing</a> NPR: The committee transported the audience back to Jan. 6 with video of what happened that day. It also made a strong case that former President Donald Trump was responsible for what happened. 
- <p class="updated_time"> 04:00 AM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104025539/new-hampshire-redistricting-competitive-districts-sununu">Competitive congressional districts are on the decline. New Hampshire bucks the trend</a> NPR: The GOP-led legislature passed a map to dramatically redraw the state's two districts. But Republican Gov. Chris Sununu wanted both of the districts to remain competitive. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
