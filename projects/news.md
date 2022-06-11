@@ -9,42 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
+ <p class="updated_time"> 02:16 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Eastern Battles Tilt in Russia’s Favor as Attrition Wears on Ukraine</a> NYT: Although Moscow seemed to be slowly gaining ground, there were some indications it is struggling to govern occupied areas in southern Ukraine. 
+ <p class="updated_time"> 02:13 PM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61772581?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo: US judge dismisses rape lawsuit</a> BBC: The case against the footballer was thrown out because the accuser's lawyer relied on stolen records. 
+ <p class="updated_time"> 02:09 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
+ <p class="updated_time"> 01:49 PM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61772703?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Thousands join gun control rallies across the US</a> BBC: Protesters gather in the wake of last month's mass shooting at a primary school in Uvalde, Texas. 
  <p class="updated_time"> 01:35 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772039?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Tens of thousands rally for stricter US gun laws</a> BBC: Following several recent school shootings, protesters - especially young people - demand change. 
- <p class="updated_time"> 01:19 PM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
+ <p class="updated_time"> 01:26 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 01:06 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 12:42 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 12:33 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
- <p class="updated_time"> 12:25 PM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
+ <p class="updated_time"> 12:26 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 12:01 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
  <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 11:42 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 10:42 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 10:30 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767385?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Possible human remains found in hunt for journalist</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing last weekend. 
+ <p class="updated_time"> 10:26 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 09:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
  <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61770997?at_medium=RSS&at_campaign=KARANGA">Russia hands out passports in occupied Ukraine cities</a> BBC: The issuing of Russian passports in occupied Kherson and Melitopol is condemned by Kyiv. 
  <p class="updated_time"> 09:44 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
- <p class="updated_time"> 09:42 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
+ <p class="updated_time"> 09:26 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 08:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61770020?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup 2022: German ex-football star says host's treatment of gay people is unacceptable</a> BBC: Oliver Bierhoff says the World Cup host's treatment of gay people is "absolutely unacceptable". 
- <p class="updated_time"> 08:42 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 08:38 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
@@ -97,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-61748732?at_medium=RSS&at_campaign=KARANGA">Ms: The first magazine owned, run, and written by women</a> BBC: Ms Magazine covered issues such as equal rights, abortion and domestic violence in a way that no other magazine had before. 
  <p class="updated_time"> 06:02 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61755730?at_medium=RSS&at_campaign=KARANGA">India water: Hundreds jostle to reach well</a> BBC: People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water. 
- <p class="updated_time"> 06:00 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61767457?at_medium=RSS&at_campaign=KARANGA">Justin Bieber reveals facial paralysis after shows cancelled</a> BBC: The pop star posted a video to Instagram to show how only half of his face could move. 
  <p class="updated_time"> 05:00 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 04:57 PM CT, Jun. 10 </p> 
@@ -159,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
  <p class="updated_time"> 05:53 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
- <p class="updated_time"> 05:43 PM CT, Jun. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61753865?at_medium=RSS&at_campaign=KARANGA">Widow of US Capitol riot officer on 'stigma' of his death</a> BBC: Nine days after he was assaulted in the 6 January 2021 attack, Jeff Smith died by suicide. 
  <p class="updated_time"> 05:30 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
  <p class="updated_time"> 04:16 PM CT, Jun. 09 </p> 
@@ -171,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/09/1104000154/npr-travels-to-afghanistan-for-the-1st-time-since-the-taliban-took-over">NPR travels to Afghanistan for the 1st time since the Taliban took over</a> NPR: In NPR's first visit to Afghanistan since the Taliban took over almost a year ago, Diaa Hadid discusses the changes she's observing in Kabul since she last visited there in pre-Taliban-ruled 2020. 
  <p class="updated_time"> 03:53 PM CT, Jun. 09 </p> 
  <a href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9">Russia-Ukraine war: What happened today (June 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:33 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
  <p class="updated_time"> 03:14 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/dmitry-kovtun-dead.html">Dmitry Kovtun, Accused Killer of Russian Dissident, Dies at 56</a> NYT: He and another ex-spy were found by British authorities to have served polonium-laced tea in London to an intelligence agent who had defected. 
  <p class="updated_time"> 12:59 PM CT, Jun. 09 </p> 
@@ -202,10 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:20 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
  <p class="updated_time"> 12:05 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
- <p class="updated_time"> 11:54 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
  <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">Thousands stream to National Mall to demand gun law changes</a> Politico: Organizers expect the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
  <p class="updated_time"> 11:12 AM CT, Jun. 11 </p> 
@@ -231,11 +231,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/michigans-abortion-providers-brace-for-a-ban-or-a-surge-00038928">Michigan’s abortion providers brace for a ban — or a surge</a> Politico: The swing state could soon lose all abortion access if Roe is overturned. It could also become a destination for patients across the midwest. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
+ <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
+ <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
