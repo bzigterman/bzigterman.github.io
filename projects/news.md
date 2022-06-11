@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:13 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 02:44 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/10/world/russia-ukraine-war-news">What Happened on Day 107 of the War in Ukraine</a> NYT: Shells for Soviet-era weapons were running short, and powerful Western weapons were not arriving fast enough to make up the difference, giving Russia a big advantage in artillery on the battlefields in the east. 
+ <p class="updated_time"> 02:27 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 02:13 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
+ <p class="updated_time"> 01:57 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
  <p class="updated_time"> 01:32 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada proposes printing a warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
- <p class="updated_time"> 01:29 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/outgunned-ukraine-needs-more-weapons-fast-as-russia-advances-officials-say-11654860056">Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say</a> WSJ: Outgunned Ukraine Needs More Weapons Fast as Russia Advances, Officials Say 
- <p class="updated_time"> 12:29 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 12:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can’t Figure It Out.</a> WSJ: What Do Chinese Consumers Want? Walmart Can’t Figure It Out. 
  <p class="updated_time"> 12:10 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 11:29 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 11:57 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-china-defense-chiefs-dial-down-tensions-over-taiwan-11654868272">U.S., China Defense Chiefs Dial Down Tensions Over Taiwan</a> WSJ: U.S., China Defense Chiefs Dial Down Tensions Over Taiwan 
  <p class="updated_time"> 11:07 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767387?at_medium=RSS&at_campaign=KARANGA">Bolivia: Former President Jeanine Áñez sentenced over 'coup'</a> BBC: Jeanine Áñez is sentenced to 10 years in jail in a case she says is politically motivated. 
- <p class="updated_time"> 10:29 PM CT, Jun. 10 </p> 
+ <p class="updated_time"> 10:57 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
+ <p class="updated_time"> 09:57 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 09:46 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
- <a href="https://www.wsj.com/articles/french-prosecutors-seek-life-in-prison-for-key-participant-in-2015-paris-terrorist-attack-11654882989">France Seeks Life in Prison for Key Participant in 2015 Paris Attack</a> WSJ: France Seeks Life in Prison for Key Participant in 2015 Paris Attack 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
  <p class="updated_time"> 08:21 PM CT, Jun. 10 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/north-korea-missile-tests-drawing-tougher-response-from-u-s-south-korea-11654859693">South Korea, U.S. Take Tougher Line on North Korea Missile Tests</a> WSJ: Washington and Seoul are responding to North Korea’s missile tests with a greater show of force of their own, in an effort to increase pressure on Pyongyang and reset the tone for stalled nuclear negotiations. 
  <p class="updated_time"> 01:39 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104105946/japan-eases-foreign-tourism-ban-and-allows-guided-package-tours">Japan eases foreign tourism ban and allows guided package tours</a> NPR: Japan on Friday began accepting applications for tourists on guided package tours who're willing to follow mask-wearing and other preventative measures as the country cautiously reopens. 
- <p class="updated_time"> 01:02 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:24 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 02:14 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/ocasio-cortez-maloney-new-york-primary.html">Ocasio-Cortez Turns a New York Brawl Into a National Democratic Proxy Battle</a> NYT: By endorsing her colleague’s primary challenger, Representative Alexandria Ocasio-Cortez has escalated a skirmish rippling beyond New York. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
