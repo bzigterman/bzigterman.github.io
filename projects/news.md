@@ -13,35 +13,35 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Eastern Battles Tilt in Russia’s Favor as Attrition Wears on Ukraine</a> NYT: Although Moscow seemed to be slowly gaining ground, there were some indications it is struggling to govern occupied areas in southern Ukraine. 
  <p class="updated_time"> 03:24 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
+ <p class="updated_time"> 02:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 02:36 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 02:30 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 02:19 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
  <p class="updated_time"> 02:13 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772581?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo: US judge dismisses rape lawsuit</a> BBC: The case against the footballer was thrown out because the accuser's lawyer relied on stolen records. 
  <p class="updated_time"> 02:09 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
+ <p class="updated_time"> 01:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 01:49 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772703?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Thousands join gun control rallies across the US</a> BBC: Protesters gather in the wake of last month's mass shooting at a primary school in Uvalde, Texas. 
  <p class="updated_time"> 01:35 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772039?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Tens of thousands rally for stricter US gun laws</a> BBC: Following several recent school shootings, protesters - especially young people - demand change. 
- <p class="updated_time"> 01:30 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
+ <p class="updated_time"> 12:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 12:33 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
- <p class="updated_time"> 12:30 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 12:01 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
  <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 11:30 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 11:55 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 10:30 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 10:55 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 10:30 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61767385?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Possible human remains found in hunt for journalist</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing last weekend. 
@@ -193,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
  <p class="updated_time"> 04:07 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
- <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/russia-ukraine-crimea-canal.html">Russia Is Racing to Cement Its Control in Southern Ukraine</a> NYT: The Kremlin says it has rebuilt rail and road links to Crimea, while appointing proxy officials in an effort to create facts on the ground. 
 
 
 </details>
@@ -209,7 +207,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:05 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
  <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">Thousands stream to National Mall to demand gun law changes</a> Politico: Organizers expect the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
+ <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">'Enough is enough' say thousands demanding new gun measures</a> Politico: Organizers expected the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
  <p class="updated_time"> 11:12 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/jan-6-prosecute-trump.html">Jan. 6 Committee Appears to Lay Out Road Map for Prosecuting Trump</a> NYT: The first prime-time hearing into the Jan. 6 attack confronted the fundamental question that has haunted Donald J. Trump since he left office: Should he be prosecuted in a criminal court? 
  <p class="updated_time"> 10:46 AM CT, Jun. 11 </p> 
