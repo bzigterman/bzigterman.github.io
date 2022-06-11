@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:29 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
+ <p class="updated_time"> 11:06 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
- <p class="updated_time"> 10:01 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 10:34 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 09:58 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
@@ -21,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61770997?at_medium=RSS&at_campaign=KARANGA">Russia hands out passports in occupied Ukraine cities</a> BBC: The issuing of Russian passports in occupied Kherson and Melitopol is condemned by Kyiv. 
  <p class="updated_time"> 09:44 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
- <p class="updated_time"> 09:01 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 09:34 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 08:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61770020?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup 2022: German ex-football star says host's treatment of gay people is unacceptable</a> BBC: Oliver Bierhoff says the World Cup host's treatment of gay people is "absolutely unacceptable". 
@@ -29,28 +31,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-legislative-parliamentary-elections-first-round.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda. 
+ <p class="updated_time"> 08:34 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
- <p class="updated_time"> 08:01 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
+ <p class="updated_time"> 07:34 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 07:01 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
+ <p class="updated_time"> 06:34 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 06:01 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
- <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
  <p class="updated_time"> 02:55 AM CT, Jun. 11 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:12 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/us/politics/jan-6-prosecute-trump.html">Jan. 6 Committee Appears to Lay Out Road Map for Prosecuting Trump</a> NYT: The first prime-time hearing into the Jan. 6 attack confronted the fundamental question that has haunted Donald J. Trump since he left office: Should he be prosecuted in a criminal court? 
  <p class="updated_time"> 10:46 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104337089/march-for-our-lives-march-for-life-differences">March for Our Lives? March for Life? How to know the difference between the groups</a> NPR: Both groups can be seen in the spotlight as abortion and gun violence take hold of the national conversation. Though similar in name, each stands behind different political issues. 
  <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
@@ -218,12 +220,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
  <p class="updated_time"> 07:05 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368911/week-in-politics-jan-6-committee-lays-out-a-clear-case-against-trump">Week in politics: Jan. 6 committee lays out a clear case against Trump</a> NPR: The committee investigating the January 6th attack debuts in prime time with damning testimony; the House passes gun legislation; a threat against Supreme Court Justice Brett Kavanaugh. 
- <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 06:01 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/michigans-abortion-providers-brace-for-a-ban-or-a-surge-00038928">Michigan’s abortion providers brace for a ban — or a surge</a> Politico: The swing state could soon lose all abortion access if Roe is overturned. It could also become a destination for patients across the midwest. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Demings may not get any measurable help in a state that may be slipping away from her party. 
+ <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
@@ -310,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/10/its-about-donald-trump-stupid-00038769"> It's about Donald Trump, stupid</a> Politico Playbook: And Rep. Dusty Johnson recounts what he witnessed on Jan. 6. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/gallery/2022/06/10/the-nations-cartoonists-on-the-week-in-politics-00038612">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/doug-ford-ontario-canada-progressives-00038502">What Doug Ford’s blue-collar victory means for Canada's progressives</a> Politico: The Progressive Conservative premier won a landslide thanks to working-class support. Are Canada's New Democrats at risk of losing their base? 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 12:15 AM CT, Jun. 10 </p> 
