@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:51 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 04:52 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
  <p class="updated_time"> 04:51 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/russia-momentum-ukraine.html">Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
+ <p class="updated_time"> 04:14 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104396161/guatemalan-democracy-is-weakening">Guatemalan democracy is weakening</a> NPR: There's been a lot of talk about democracy at this weeks Summit of Americas in Los Angeles. Some attendants are alarmed at an increasing deterioration of the rule of law in Guatemala. 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104396147/how-turkeys-name-rebrand-will-hurt-businesses-in-the-country">How Turkey's name rebrand will hurt businesses in the country</a> NPR: The country of Turkey is rebranding its name internationally to Türkiye. Suley Ozbey, the president of Chix Shoes, discusses how the name change may affect his import and export businesses. 
- <p class="updated_time"> 03:54 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 03:24 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
- <p class="updated_time"> 02:54 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 03:14 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 02:36 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
  <p class="updated_time"> 02:19 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
+ <p class="updated_time"> 02:14 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 02:13 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772581?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo: US judge dismisses rape lawsuit</a> BBC: The case against the footballer was thrown out because the accuser's lawyer relied on stolen records. 
  <p class="updated_time"> 02:09 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
- <p class="updated_time"> 01:54 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 01:49 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772703?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Thousands join gun control rallies across the US</a> BBC: Protesters gather in the wake of last month's mass shooting at a primary school in Uvalde, Texas. 
  <p class="updated_time"> 01:35 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772039?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Tens of thousands rally for stricter US gun laws</a> BBC: Following several recent school shootings, protesters - especially young people - demand change. 
- <p class="updated_time"> 12:54 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 01:14 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 12:33 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
+ <p class="updated_time"> 12:14 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 12:01 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
  <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 11:54 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 10:30 AM CT, Jun. 11 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/alaska-high-court-house-election-00038997">Alaska high court reverses ruling that roiled House election</a> Politico: The high court said an explanation of its reasoning would follow at a later time. 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104396133/who-is-liz-cheney-the-republican-who-broke-with-her-party-to-lead-the-jan-6-prob">Who is Liz Cheney, the Republican who broke with her party to lead the Jan. 6 probe?</a> NPR: The House committee investigating the January 6 insurrection held its first public hearing Thursday. Republican Liz Cheney broke with virtually all of her GOP colleagues to help lead the probe. 
  <p class="updated_time"> 03:41 PM CT, Jun. 11 </p> 
@@ -304,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/inflation-new-high-may-00038786">U.S. inflation hit a new 40-year high last month of 8.6 percent</a> Politico: America’s rampant inflation is imposing severe pressures on families, forcing them to pay much more for food, gas and rent. 
  <p class="updated_time"> 08:09 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/donald-ivanka-trump-jan-6-testimony-00038783">'Checked out': Trump rebukes Ivanka over Jan. 6 testimony</a> Politico: “Ivanka Trump was not involved in looking at, or studying, Election results. She had long since checked out,” Trump posted on Truth Social. 
- <p class="updated_time"> 07:50 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/us-monkeypox-vaccine-00038776">U.S. orders 500,000 monkeypox vaccines to be delivered this year</a> Politico: The order is larger than earlier ones to the U.S. and represents a significant escalation in the fight against a growing monkeypox outbreak. 
  <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
