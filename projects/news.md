@@ -9,40 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:04 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61770997?at_medium=RSS&at_campaign=KARANGA">Russia hands out passports in occupied Ukraine cities</a> BBC: The issuing of Russian passports in occupied Kherson and Melitopol is condemned by Kyiv. 
+ <p class="updated_time"> 09:48 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
+ <p class="updated_time"> 09:44 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
+ <p class="updated_time"> 09:37 AM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
+ <p class="updated_time"> 08:56 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 08:55 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61770020?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup 2022: German ex-football star says host's treatment of gay people is unacceptable</a> BBC: Oliver Bierhoff says the World Cup host's treatment of gay people is "absolutely unacceptable". 
  <p class="updated_time"> 08:38 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-legislative-parliamentary-elections-first-round.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda. 
- <p class="updated_time"> 08:20 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
+ <p class="updated_time"> 07:56 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 07:20 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
+ <p class="updated_time"> 06:56 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
- <p class="updated_time"> 06:20 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 05:20 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 05:56 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
- <p class="updated_time"> 04:39 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
+ <p class="updated_time"> 04:56 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
- <p class="updated_time"> 04:20 AM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61749877?at_medium=RSS&at_campaign=KARANGA">Ukraine's prosecutors wrestle with a new role: war crimes investigators</a> BBC: An unprecedented real-time war crimes investigation is testing Ukraine's local prosecutors. 
  <p class="updated_time"> 07:32 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61767628?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump dismisses daughter Ivanka's testimony</a> BBC: Mr Trump says his daughter "had long since checked out" after she distanced herself from his claims. 
- <p class="updated_time"> 07:16 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61767385?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Possible human remains found in hunt for journalist</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing last weekend. 
  <p class="updated_time"> 07:01 PM CT, Jun. 10 </p> 
  <a href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060">What Do Chinese Consumers Want? Walmart Can't Figure It Out.</a> WSJ: The hypermarket model is losing ground, local rivals do better on fast delivery, and geopolitics gives the company headaches. Then there’s the red dates problem. 
  <p class="updated_time"> 06:32 PM CT, Jun. 10 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/asia/china-military-united-states-australia-canada.html">Chinese Pilots Sent a Message. American Allies Said They Went Too Far.</a> NYT: Australia and Canada said Chinese jets harassed their military planes, though Beijing says it was defending its security. A mishap over Pacific waters could have ominous repercussions. 
  <p class="updated_time"> 12:30 AM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/europe/crimea-water-canal-russia.html">Russia Has Filled Ukrainian Water Canal to Crimea</a> NYT: Ukraine blocked a freshwater to canal to the Crimean Peninsula after Russia occupied it 2014. Moscow has fully restored the flow, easing its path to a “land bridge” with Russia, images show. 
- <p class="updated_time"> 05:01 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/europe/harvey-weinstein-indecent-assault-charges-britain.html">Harvey Weinstein Facing Indecent Assault Charges in Britain</a> NYT: British prosecutors said they authorized criminal charges against Mr. Weinstein for an incident in 1996. 
  <p class="updated_time"> 04:07 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/asia/depp-heard-metoo-women.html">A Wider Lens on the MeToo Backlash: Who Pays for Societal Change?</a> NYT: The same fundamentals apply to patriarchal systems, whether in Hollywood or India: Threats to men’s status can provoke broader resistance than you might think. 
  <p class="updated_time"> 03:31 PM CT, Jun. 08 </p> 
@@ -193,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/08/world/europe/ukraine-war-front-line-trenches.html">From the Graveside to the Front, Ukrainians Tell of Grim Endurance</a> NYT: Ukraine’s casualties in the war against Russia are a closely guarded secret. But those who have been in the trenches along the front line know how relentless the fight has become. 
  <p class="updated_time"> 01:44 PM CT, Jun. 08 </p> 
  <a href="https://www.nytimes.com/2022/06/08/world/africa/belgian-king-congo-mask.html">Belgian King Returns Mask to Congo in Landmark Visit</a> NYT: But so far, the monarch has not apologized for decades of brutal Belgian rule during which up to 10 million Congolese people died. 
- <p class="updated_time"> 12:03 PM CT, Jun. 08 </p> 
- <a href="https://www.nytimes.com/2022/06/08/world/americas/men-missing-amazon-rainforest.html">Men Missing in Amazon Faced Threats Before They Disappeared</a> NYT: Dom Phillips, a British journalist, and Bruno Pereira, a Brazilian expert on Indigenous groups, have not been seen since Sunday. They faced threats before they disappeared. 
 
 
 </details>
@@ -202,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/11/fallout-on-the-right-over-the-jan-6-hearing-00038993"> Fallout on the right over the Jan. 6 hearing</a> Politico Playbook: And Dems wonder if Biden is the right one to lead the party. 
  <p class="updated_time"> 09:06 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
  <p class="updated_time"> 08:43 AM CT, Jun. 11 </p> 
