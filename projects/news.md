@@ -13,20 +13,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
  <p class="updated_time"> 04:51 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/russia-momentum-ukraine.html">Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
- <p class="updated_time"> 04:35 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 04:44 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104396161/guatemalan-democracy-is-weakening">Guatemalan democracy is weakening</a> NPR: There's been a lot of talk about democracy at this weeks Summit of Americas in Los Angeles. Some attendants are alarmed at an increasing deterioration of the rule of law in Guatemala. 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104396147/how-turkeys-name-rebrand-will-hurt-businesses-in-the-country">How Turkey's name rebrand will hurt businesses in the country</a> NPR: The country of Turkey is rebranding its name internationally to Türkiye. Suley Ozbey, the president of Chix Shoes, discusses how the name change may affect his import and export businesses. 
- <p class="updated_time"> 03:35 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 03:44 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 03:24 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
+ <p class="updated_time"> 02:44 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 02:36 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
- <p class="updated_time"> 02:35 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 02:19 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
  <p class="updated_time"> 02:13 PM CT, Jun. 11 </p> 
@@ -35,11 +35,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/us/politics/haiti-migrants-biden.html">U.S. Accelerated Expulsions of Haitian Migrants in May</a> NYT: The uptick has rekindled criticism that the Biden administration treats Black migrants differently than others, an allegation it denies. 
  <p class="updated_time"> 01:49 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772703?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Thousands join gun control rallies across the US</a> BBC: Protesters gather in the wake of last month's mass shooting at a primary school in Uvalde, Texas. 
- <p class="updated_time"> 01:35 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 01:44 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 01:35 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772039?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Tens of thousands rally for stricter US gun laws</a> BBC: Following several recent school shootings, protesters - especially young people - demand change. 
- <p class="updated_time"> 12:35 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 12:44 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 12:33 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
