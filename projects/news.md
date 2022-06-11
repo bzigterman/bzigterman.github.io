@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:40 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 08:43 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Wields Greater Firepower in East, but Signs Emerge of Discord in South</a> NYT: There are some indications that Moscow is struggling to govern areas in southern Ukraine that its forces occupy. The U.S. defense secretary, Lloyd J. Austin III, said the war offered “a preview of a possible world of chaos and turmoil.” 
  <p class="updated_time"> 08:37 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-legislative-parliamentary-elections-first-round.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a break on President Emmanuel Macron’s agenda. 
@@ -17,21 +17,21 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 08:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
- <p class="updated_time"> 07:45 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 07:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 06:45 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 06:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 06:43 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61770012?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia to pay €555m settlement to French firm</a> BBC: The €555m settlement draws a line under a row that threatened to torpedo EU-Australia trade talks. 
  <p class="updated_time"> 06:05 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 05:45 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 05:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
- <p class="updated_time"> 04:45 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 04:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-latin-american-countries-to-pledge-to-take-in-more-migrants-11654851601">U.S., Latin American Countries Pledge to Take In More Migrants</a> WSJ: U.S., Latin American Countries Pledge to Take In More Migrants 
  <p class="updated_time"> 04:39 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">McDonald’s Is Reinvented in Russia as the Economy Stumbles On</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
@@ -39,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
  <p class="updated_time"> 04:17 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
- <p class="updated_time"> 03:45 AM CT, Jun. 11 </p> 
+ <p class="updated_time"> 03:57 AM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/effort-to-force-russia-to-pay-reparations-to-ukraine-faces-uphill-battle-11654939800">Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle</a> WSJ: Effort to Force Russia to Pay Reparations to Ukraine Faces Uphill Battle 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Jun. 11 </p> 
+ <a href="https://www.npr.org/2022/06/11/1104369002/biden-to-be-briefed-on-wildfires-in-new-mexico">Biden to be briefed on wildfires in New Mexico</a> NPR: President Biden visits New Mexico today to get a briefing on wildfires. The governor and many locals are upset that the largest was started by prescribed burns the U.S. Forest Service let escape. 
  <p class="updated_time"> 08:10 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
  <p class="updated_time"> 08:10 AM CT, Jun. 11 </p> 
@@ -304,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104116455/fox-news-jan-6-hearing">Only one major cable news channel did not carry the Jan. 6 hearing live: Fox News</a> NPR: Airing the hearing would have required Fox to broadcast flat contradictions of what its personalities have told their audience in the past year and a half: that the riot was a mere legal protest. 
  <p class="updated_time"> 06:13 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104116505/rep-zoe-lofgren-talks-about-last-nights-jan-6-hearings">Rep. Zoe Lofgren talks about last night's Jan. 6 hearings</a> NPR: NPR's Rachel Martin asks Rep. Zoe Lofgren, Democrat of California, to respond to the first session of the January 6 hearings. 
- <p class="updated_time"> 06:13 AM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104116464/house-committee-places-blame-for-jan-6-riot-on-trump">House Committee places blame for Jan. 6 riot on Trump</a> NPR: During a hearing last night in prime time, the House Select Committee investigating January Six made it clear it blames former President Donald Trump for that day's deadly violence. 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/10/its-about-donald-trump-stupid-00038769"> It's about Donald Trump, stupid</a> Politico Playbook: And Rep. Dusty Johnson recounts what he witnessed on Jan. 6. 
  <p class="updated_time"> 03:30 AM CT, Jun. 10 </p> 
