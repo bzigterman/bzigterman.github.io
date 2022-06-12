@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:53 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
+ <p class="updated_time"> 05:52 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html">Tough Questions for West as Ukraine Cities Teeter</a> NYT: Sievierodonetsk is nearly encircled. Lysychansk may be next. The momentum of the war has shifted, and Ukraine’s allies may soon start rethinking their goals. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Left surge threatens Macron majority in France</a> BBC: A strong showing by a left-green alliance jeopardises the French president's parliamentary majority. 
+ <p class="updated_time"> 05:00 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 04:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/us-sweden-military-drill.html">Sweden and U.S. Hold Military Drill on Gotland Island</a> NYT: The drill took place on Gotland, a Swedish island in the Baltic Sea that was demilitarized after the fall of the Soviet Union, but now again seems a critical military site. 
- <p class="updated_time"> 04:48 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 04:39 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
  <p class="updated_time"> 04:28 PM CT, Jun. 12 </p> 
@@ -27,30 +31,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
  <p class="updated_time"> 04:08 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61778433?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evidence shows widespread use of cluster munitions in Kharkiv</a> BBC: Russia has killed hundreds of civilians in Kharkiv with indiscriminate weapons, according to a new report. 
+ <p class="updated_time"> 04:00 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
- <p class="updated_time"> 03:48 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html">How Bolsonaro Is Using the Military to Challenge Brazil’s Election</a> NYT: Despite little evidence of past fraud, President Jair Bolsonaro has long raised doubts about Brazil’s electoral process. Now the military is expressing similar concerns. 
- <p class="updated_time"> 02:48 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 03:00 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 02:43 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779058?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Family and friends demand answers</a> BBC: Journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon rainforest. 
- <p class="updated_time"> 02:38 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
  <p class="updated_time"> 02:18 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104431551/mexico-migration-7000-documents-visas">Mexico issues nearly 7,000 temporary documents and transit visas to migrants</a> NPR: The migration agency did not specify what kind of documents were issued. Most of the migrants showed papers that gave them a period of time to leave the country or begin regularization procedures. 
- <p class="updated_time"> 01:48 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 02:00 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 01:25 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">India destroys houses of several Muslim figures after religious riots</a> BBC: The houses of several Muslim figures are demolished after religious riots. 
  <p class="updated_time"> 01:07 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
- <p class="updated_time"> 12:48 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
+ <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 12:21 PM CT, Jun. 12 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-shaun-pinner-british-fighter-donetsk">A UK man got a death sentence for fighting for Ukraine. His family wants his release</a> NPR: A court in the separatist-proclaimed Donetsk People's Republic of Ukraine convicted Shaun Pinner of seeking the violent overthrow of power. 
  <p class="updated_time"> 08:51 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
- <p class="updated_time"> 08:35 PM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
  <p class="updated_time"> 06:58 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61650362?at_medium=RSS&at_campaign=KARANGA">Gambia under Yahya Jammeh: Witch hunts, PTSD and veiled faces</a> BBC: Portraits of 11 Gambians which reveal the extent of the suffering and abuse under Yahya Jammeh. 
  <p class="updated_time"> 06:57 PM CT, Jun. 11 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/americas/biden-bolsonaro-summit.html">Biden and Bolsonaro Meet for First Time at Summit</a> NYT: President Jair Bolsonaro addressed concerns about Brazil’s upcoming election, saying he came to power democratically and would leave office the same way. 
  <p class="updated_time"> 07:29 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-army-death-sentence-russia.html">Foreign Fighters Sentenced to Death in Russia-Held Eastern Ukraine</a> NYT: Legal experts said the death sentences appeared calculated to discourage foreign volunteers from joining Ukraine’s military. 
- <p class="updated_time"> 05:53 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
 
 
 </details>
