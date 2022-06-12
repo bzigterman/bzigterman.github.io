@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61635340?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: When is it taking place and why is Qatar hosting?</a> BBC: Football's World Cup finals take place in Qatar in November and December. Here's a guide to the tournament. 
+ <p class="updated_time"> 06:16 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61722441?at_medium=RSS&at_campaign=KARANGA">'What I've learnt about Africa living in Marseilles'</a> BBC: Journalist Maher Mezahi says he has learned more about different African cultures in France than Algeria. 
+ <p class="updated_time"> 06:06 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61742884?at_medium=RSS&at_campaign=KARANGA">Why you may have a thinking digital twin within a decade</a> BBC: Within 10 years people may be able to have a intelligent online version of themselves. 
+ <p class="updated_time"> 06:04 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61764466?at_medium=RSS&at_campaign=KARANGA">Africa Eye: Racism for sale</a> BBC: Africa Eye investigates a Chinese video-making industry which exploits children across Africa. 
  <p class="updated_time"> 05:53 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agree limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
  <p class="updated_time"> 05:52 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
@@ -19,7 +27,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html">Tough Questions for West as Ukraine Cities Teeter</a> NYT: Sievierodonetsk is nearly encircled. Lysychansk may be next. The momentum of the war has shifted, and Ukraine’s allies may soon start rethinking their goals. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Left surge threatens Macron majority in France</a> BBC: A strong showing by a left-green alliance jeopardises the French president's parliamentary majority. 
- <p class="updated_time"> 05:00 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 05:24 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 04:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/us-sweden-military-drill.html">Sweden and U.S. Hold Military Drill on Gotland Island</a> NYT: The drill took place on Gotland, a Swedish island in the Baltic Sea that was demilitarized after the fall of the Soviet Union, but now again seems a critical military site. 
@@ -27,30 +35,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
  <p class="updated_time"> 04:28 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html">Pro-Macron Forces Expected to Prevail but Face Left-Wing Challenge</a> NYT: The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections. 
+ <p class="updated_time"> 04:24 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 04:10 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
  <p class="updated_time"> 04:08 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61778433?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evidence shows widespread use of cluster munitions in Kharkiv</a> BBC: Russia has killed hundreds of civilians in Kharkiv with indiscriminate weapons, according to a new report. 
- <p class="updated_time"> 04:00 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html">How Bolsonaro Is Using the Military to Challenge Brazil’s Election</a> NYT: Despite little evidence of past fraud, President Jair Bolsonaro has long raised doubts about Brazil’s electoral process. Now the military is expressing similar concerns. 
- <p class="updated_time"> 03:00 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 03:24 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 02:43 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779058?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Family and friends demand answers</a> BBC: Journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon rainforest. 
+ <p class="updated_time"> 02:24 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 02:18 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104431551/mexico-migration-7000-documents-visas">Mexico issues nearly 7,000 temporary documents and transit visas to migrants</a> NPR: The migration agency did not specify what kind of documents were issued. Most of the migrants showed papers that gave them a period of time to leave the country or begin regularization procedures. 
- <p class="updated_time"> 02:00 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 01:25 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">India destroys houses of several Muslim figures after religious riots</a> BBC: The houses of several Muslim figures are demolished after religious riots. 
+ <p class="updated_time"> 01:24 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 01:07 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
- <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
@@ -73,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
- <p class="updated_time"> 06:59 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61775212?at_medium=RSS&at_campaign=KARANGA">Nigeria's Abuja to Kaduna train attack: Gunmen free 11 hostages</a> BBC: Their release comes as President Buhari expresses his "daily grief" over Nigeria's security crisis. 
  <p class="updated_time"> 05:22 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
@@ -91,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses the U.S. of trying to hijack support in Asia</a> NPR: Defense Secretary Lloyd Austin had stressed the need for multilateral partnerships in the Indo-Pacific, which China's defense minister suggested was an attempt to back his country into a corner. 
  <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61774473?at_medium=RSS&at_campaign=KARANGA">Climate change a bigger threat than war, Fiji tells security summit</a> BBC: Its defence chief tells Asian partners that "devastating" climate change is his top security issue. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
@@ -129,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
  <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 08:38 AM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Vladimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
@@ -149,12 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
- <p class="updated_time"> 07:59 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61727941?at_medium=RSS&at_campaign=KARANGA">Julian Assange: Does Wikileaks founder have a powerful ally in new Australian PM?</a> BBC: The activist's family are hoping Anthony Albanese will step in as a deportation deadline looms. 
- <p class="updated_time"> 07:57 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61757829?at_medium=RSS&at_campaign=KARANGA">Russia's war prompts regional rush to become EU candidates</a> BBC: While the prospects for Ukraine and Moldova look good, Georgia is accused of backsliding on democracy. 
- <p class="updated_time"> 07:53 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61749877?at_medium=RSS&at_campaign=KARANGA">Ukraine's prosecutors wrestle with a new role: war crimes investigators</a> BBC: An unprecedented real-time war crimes investigation is testing Ukraine's local prosecutors. 
  <p class="updated_time"> 06:32 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
  <p class="updated_time"> 06:11 PM CT, Jun. 10 </p> 
@@ -198,10 +194,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:08 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
  <p class="updated_time"> 05:39 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/senator-gun-safety-deal.html">Senators Reach Bipartisan Deal on Gun Safety</a> NYT: The agreement, which falls short of the sprawling changes championed by Democrats, is a significant step toward ending a yearslong impasse over gun reform legislation. 
- <p class="updated_time"> 05:08 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
  <p class="updated_time"> 04:22 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/john-allen-brookings-resigns.html">John R. Allen Resigns as Brookings President After Qatar Revelations</a> NYT: Mr. Allen, a retired four-star general, had been on administrative leave amid a federal inquiry into whether he had secretly lobbied for the government of Qatar. 
  <p class="updated_time"> 12:43 PM CT, Jun. 12 </p> 
