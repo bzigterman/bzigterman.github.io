@@ -11,17 +11,17 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 05:55 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 05:33 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 05:22 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
- <p class="updated_time"> 05:21 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
  <p class="updated_time"> 04:48 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
  <p class="updated_time"> 04:47 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774475?at_medium=RSS&at_campaign=KARANGA">Russia unveils 'tasty' McDonald's substitute</a> BBC: The fast food outlets are rebranded as "Tasty and that's it" after the burger giant pulled out. 
- <p class="updated_time"> 04:21 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 04:33 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html">A Restored Painting Recalls the Colosseum’s Christian Past</a> NYT: The restoration of a wall painting depicting an idealized Jerusalem is a reminder that the Roman monument, known best for gladiatorial combat, was a sacred Christian space for centuries. 
@@ -29,19 +29,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
+ <p class="updated_time"> 03:33 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses US of trying to 'hijack' support in Asia</a> NPR: China's defense minister accused the United States of trying to "hijack" the support of countries in the Asia-Pacific region to turn them against Beijing, "under the guise of multilateralism." 
  <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 03:21 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
+ <p class="updated_time"> 02:33 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61774473?at_medium=RSS&at_campaign=KARANGA">Climate change a bigger threat than war, Fiji tells security summit</a> BBC: Its defence chief tells Asian partners that "devastating" climate change is his top security issue. 
- <p class="updated_time"> 02:21 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
- <p class="updated_time"> 01:21 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 01:33 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 01:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-uk-mans-family-devastated-by-death-sentence">Ukraine: UK man's family 'devastated' by death sentence</a> NPR: The family of a British man condemned to death for fighting for Ukraine called for him to be released and accorded the treatment an international human rights convention guarantees prisoners of war. 
@@ -169,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
  <p class="updated_time"> 04:01 AM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104109737/1982-portrays-life-in-wartorn-lebanon">'1982' explores the complexities of love and war in Lebanon </a> NPR: 1982 is a love story set against the backdrop of war, when Israel invaded Lebanon 40 years ago.  Lebanese filmmaker Oualid Mouaness, inspired by his own memories, wrote the and directed the film. 
- <p class="updated_time"> 02:31 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/asia/south-korea-fire-daegu.html">At Least 7 Killed in Explosion and Fire in Daegu, South Korea</a> NYT: A man in his 50s was suspected of setting off the explosion that started the blaze at a law office in the city of Daegu, the police said. He is believed to have died in the fire. 
  <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
@@ -206,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Jun. 12 </p> 
+ <a href="https://www.politico.com/news/2022/06/12/how-scotus-upcoming-climate-ruling-could-defang-washington-00038595">How SCOTUS’ upcoming climate ruling could defang Washington</a> Politico: A legal fight over the EPA’s power to restrict greenhouse gases offers conservative justices an opportunity to tie the executive branch's  hands on a host of issues — from Covid to net neutrality. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 12 </p> 
+ <a href="https://www.politico.com/news/2022/06/12/rules-at-risk-00038639">Rules at risk</a> Politico: These are kinds of regulations that may fall under a legal cloud after the Supreme Court decides on an EPA climate change case. 
  <p class="updated_time"> 05:51 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/palin-alaska-special-house-election-00039001">Palin nabs early lead in Alaska U.S. House special primary</a> Politico: Dozens of candidates are running to replace the late Don Young. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
@@ -254,14 +256,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
  <p class="updated_time"> 07:05 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368911/week-in-politics-jan-6-committee-lays-out-a-clear-case-against-trump">Week in politics: Jan. 6 committee lays out a clear case against Trump</a> NPR: The committee investigating the January 6th attack debuts in prime time with damning testimony; the House passes gun legislation; a threat against Supreme Court Justice Brett Kavanaugh. 
- <p class="updated_time"> 06:01 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/michigans-abortion-providers-brace-for-a-ban-or-a-surge-00038928">Michigan’s abortion providers brace for a ban — or a surge</a> Politico: The swing state could soon lose all abortion access if Roe is overturned. It could also become a destination for patients across the midwest. 
- <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
+ <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
+ <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
@@ -284,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/business/media/james-goldston-january-6-committee.html">James Goldston, Former TV News Chief, Helps the Jan. 6 Committee  </a> NYT: James Goldston was a longtime producer at ABC News and then its president for seven years. 
  <p class="updated_time"> 06:04 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/media-democracy.html">How Journalists Wrestle With Covering Threats to Democracy</a> NYT: A new report challenges news outlets to provide richer, more urgent coverage of the rise of authoritarian movements in the United States and abroad. 
- <p class="updated_time"> 06:04 PM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/dc-bar-launches-ethics-charges-against-rudy-giuliani-00038977">D.C. bar files ethics charges against Rudy Giuliani</a> Politico: The case focuses on Giuliani’s efforts to push unsubstantiated fraud accusations for Donald Trump in a Pennsylvania court. 
  <p class="updated_time"> 06:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/gitmo-iraqi-prisoner.html">Iraqi at Guantánamo Bay to Plead Guilty in Afghan War Crimes Case</a> NYT: Abd al-Hadi al-Iraqi, who is accused of leading forces that killed U.S. and allied troops, is disabled. A resolution of his case would involve finding a country to take him into custody. 
  <p class="updated_time"> 04:30 PM CT, Jun. 10 </p> 
@@ -300,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104291207/sarah-palin-is-one-of-48-people-vying-for-alaskas-house-seat-in-a-primary-tomorr">Sarah Palin is one of 48 people vying for Alaska's House seat in a primary tomorrow</a> NPR: Former Alaska Gov. Sarah Palin is attempting a political comeback in a special election for her state's lone House seat. The top four candidates in Saturday's primary will advance. 
  <p class="updated_time"> 03:26 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291172/documentary-footage-from-filmmaker-shows-evidence-that-jan-6-was-a-planned-attac">Documentary footage from filmmaker shows evidence that Jan. 6 was a planned attack</a> NPR: Committee members heard testimony from a witness with evidence that Jan. 6 was a planned attack. Documentarian Nick Quested was filming the extremist group the Proud Boys before and during the riots. 
- <p class="updated_time"> 02:45 PM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/pence-team-election-fraud-memo-00038921">Pence team couldn't verify Trump campaign's election fraud claims, new memo shows</a> Politico: In a previously unseen memo obtained by POLITICO, the former vice president's legal team called most of the fraud allegations minor and unverifiable. 
  <p class="updated_time"> 02:14 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/trump-ivanka-january-6-hearing.html">Donald Trump Hits Back at Ivanka Trump’s Account That She Accepted His Election Loss</a> NYT: The former president, responding to videotaped testimony played at the Jan. 6 hearing, said Ivanka Trump had been “checked out” and was not involved in studying the election results. 
  <p class="updated_time"> 01:57 PM CT, Jun. 10 </p> 
@@ -338,6 +334,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
  <p class="updated_time"> 07:50 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/video/2022/06/09/former-d-c-police-officer-michael-fanone-arrives-at-jan-6-hearing-603435">Michael Fanone has low confidence Jan. 6 hearings will bring change</a> Politico: Former D.C. police officer Michael Fanone was beaten unconscious by rioters at the Capitol on January 6. Before entering the hearing, Fanone expressed low confidence that the Jan. 6 committee hearings will move the needle in the country. 
+ <p class="updated_time"> 05:39 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/supreme-court-justices-security.html">House Again Delays Bill Bolstering Security for Supreme Court Justices</a> NYT: Speaker Nancy Pelosi said a bill to extend protections to the justices’ families and court officers would come to a vote early next week, but Republicans accused her of playing politics. 
  <p class="updated_time"> 05:34 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/congress-targets-harvard-yale-and-top-universities-with-china-linked-endowments-00038625">Congress targets Harvard, Yale and top universities with China-linked endowments</a> Politico: A new bill from Republican Greg Murphy is pushing divestment from firms linked to rights abuses, security risks. 
  <p class="updated_time"> 04:08 PM CT, Jun. 09 </p> 
