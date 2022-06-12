@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:54 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses US of trying to 'hijack' support in Asia</a> NPR: China's defense minister accused the United States of trying to "hijack" the support of countries in the Asia-Pacific region to turn them against Beijing, "under the guise of multilateralism." 
+ <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
+ <p class="updated_time"> 03:19 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Ukraine Live Updates: Zelensky Pushes Bid for E.U. Membership as Key to Security</a> NYT: President Volodymyr Zelensky met with the president of the European Commission on Saturday as the E.U. prepares to consider Ukraine’s application. Momentum appeared to favor Russia as the war dragged on in the east. 
+ <p class="updated_time"> 02:39 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61774473?at_medium=RSS&at_campaign=KARANGA">Climate change a bigger threat than war, Fiji tells security summit</a> BBC: Its defence chief tells Asian partners that "devastating" climate change is his top security issue. 
- <p class="updated_time"> 02:20 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
- <p class="updated_time"> 01:20 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 01:39 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
  <p class="updated_time"> 01:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-uk-mans-family-devastated-by-death-sentence">Ukraine: UK man's family 'devastated' by death sentence</a> NPR: The family of a British man condemned to death for fighting for Ukraine called for him to be released and accorded the treatment an international human rights convention guarantees prisoners of war. 
  <p class="updated_time"> 01:04 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
- <p class="updated_time"> 12:20 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 12:39 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
+ <p class="updated_time"> 11:39 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 11:37 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61773360?at_medium=RSS&at_campaign=KARANGA">Nagaland: Indian soldiers charged over botched raid</a> BBC: A military operation and protests in the Indian state of Nagaland left 14 civilians dead last year. 
- <p class="updated_time"> 11:20 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
- <p class="updated_time"> 10:59 PM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 10:20 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 10:39 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 08:51 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
  <p class="updated_time"> 05:30 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/us/politics/covid-vaccine-children.html">White House Outlines Covid Vaccine Plan for Children Under 5</a> NYT: Vaccine deliveries to U.S. states are contingent on the Food and Drug Administration authorizing pediatric doses, a step that could occur as soon as next week. 
- <p class="updated_time"> 04:16 PM CT, Jun. 09 </p> 
- <a href="https://www.npr.org/2022/06/09/1104000196/pga-tour-suspends-17-players-for-their-participation-in-saudi-backed-golf-tourna">PGA Tour suspends 17 players for their participation in Saudi-backed golf tournament</a> NPR: The PGA Tour has suspended 17 players – including six-time major winner Phil Mickelson alo former world #1 Dustin Johnson – after they teed off at a controversial tournament backed by Saudi Arabia. 
  <p class="updated_time"> 03:14 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/dmitry-kovtun-dead.html">Dmitry Kovtun, Accused Killer of Russian Dissident, Dies at 56</a> NYT: He and another ex-spy were found by British authorities to have served polonium-laced tea in London to an intelligence agent who had defected. 
  <p class="updated_time"> 12:59 PM CT, Jun. 09 </p> 
@@ -356,16 +356,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/09/what-to-expect-from-the-first-jan-6-hearing-00038396"> What to expect from the first Jan. 6 hearing</a> Politico Playbook: And Sen. Bernie Sanders (I-Vt.) has a blunt warning for Democrats. 
  <p class="updated_time"> 04:00 AM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/mccarthy-warning-republicans-whip-00038301">McCarthy issues warning to Republicans openly vying for whip</a> Politico: "I think that would backfire on people, if they try to run for something that is not there yet,” the House minority leader told POLITICO. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/nikki-haley-battles-trump-in-house-primary-turf-war-00038363">Nikki Haley battles Trump in House primary turf war</a> Politico: The two Republicans are on opposite sides of a hard-fought GOP primary in South Carolina next week. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/dems-meddle-in-colorado-senate-gop-primary-00038294">Dems meddle in Senate primary to advance hardline MAGA Republican</a> Politico: Colorado scheme is designed to hurt the prospects of a GOP candidate who is viewed as a more serious threat to Democratic Sen. Michael Bennet. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/bernie-sanders-democrats-midterms-00038183">Bernie to Dems: Change course before you nosedive in November</a> Politico: The Vermont independent isn't buying the happy talk from a party still talking up a pre-midterm turnaround. And he has a prescription to avoid it. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/housse-democrats-jan-6-2024-00038305">Dems know the Jan. 6 hearings won't help in November. They're leaning in anyway.</a> Politico: House control is unlikely to hinge on the select committee's findings. And lawmakers who want to stop Donald Trump in 2024 are thinking bigger. 
- <p class="updated_time"> 03:30 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/jan-6-hearings-mike-pence-00038220">The Jan. 6 hearings’ missing man: Mike Pence</a> Politico: Donald Trump's vice president, the target of his election-subversion campaign, hasn't gotten a formal invitation to testify. But the select committee isn't ruling it out. 
 
 
 </details>
