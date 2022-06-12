@@ -9,44 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:07 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
+ <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 12:48 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Big test for Macron in vote hit by low turnout</a> BBC: The election will decide whether the president retains his majority, amid an expected 47% turnout. 
  <p class="updated_time"> 12:45 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Measures proposed by a bipartisan group of senators include cracking down on illegal gun purchases. 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
+ <p class="updated_time"> 12:27 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 12:21 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
  <p class="updated_time"> 12:09 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 12:04 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61777224?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Former British soldier Jordan Gatley killed in fighting</a> BBC: Jordan Gatley was killed as Ukrainian forces fought for control of Severodonetsk, his family said. 
- <p class="updated_time"> 11:58 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
- <p class="updated_time"> 10:58 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 11:27 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
  <p class="updated_time"> 10:58 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 10:44 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
+ <p class="updated_time"> 10:27 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 10:23 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1103777253/activists-take-aim-at-the-buyers-of-looted-antiquities">These activists want buyers and dealers of stolen relics to face criminal charges</a> NPR: If activists have their way, not only the looters, but the buyers, of stolen cultural relics will face criminal repercussions. 
- <p class="updated_time"> 09:58 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 09:35 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61777304?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens of Covid cases linked to Beijing bar</a> BBC: Mass testing is taking place after more than 160 cases are linked to a bar in the capital. 
+ <p class="updated_time"> 09:27 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 09:25 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
- <p class="updated_time"> 08:58 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 08:48 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61775909?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Paper denies outing actress amid storm of criticism</a> BBC: The Sydney Morning Herald says it "simply asked questions" after being accused of outing the actress. 
+ <p class="updated_time"> 08:27 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
- <p class="updated_time"> 07:58 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
@@ -125,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
  <p class="updated_time"> 02:27 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
- <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 01:32 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada proposes printing a warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-61748732?at_medium=RSS&at_campaign=KARANGA">Ms: The first magazine owned, run, and written by women</a> BBC: Ms Magazine covered issues such as equal rights, abortion and domestic violence in a way that no other magazine had before. 
  <p class="updated_time"> 06:02 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61755730?at_medium=RSS&at_campaign=KARANGA">India water: Hundreds jostle to reach well</a> BBC: People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water. 
- <p class="updated_time"> 05:00 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 04:57 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291290/people-noticed-an-iconic-prague-clock-looked-different-4-years-after-it-was-rest">People noticed an iconic Prague clock looked different 4 years after it was restored</a> NPR: The iconic clock in Prague's Old Town Square was renovated in 2018. Four years later, a local preservation group noticed something off about the refurbishment. 
  <p class="updated_time"> 04:40 PM CT, Jun. 10 </p> 
@@ -189,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/middleeast/iran-nuclear-program-cameras.html">Iran Begins to Dismantle Nuclear Program Cameras After Western Criticism</a> NYT: At a moment when experts say Iran is, again, on the verge of possessing enough fuel for a bomb, the dismantling of U.N. cameras was a sign of worsening prospects for the 2015 deal. 
  <p class="updated_time"> 03:14 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/dmitry-kovtun-dead.html">Dmitry Kovtun, Accused Killer of Russian Dissident, Dies at 56</a> NYT: He and another ex-spy were found by British authorities to have served polonium-laced tea in London to an intelligence agent who had defected. 
- <p class="updated_time"> 12:59 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/europe/spanish-steps-damaged-scooter.html">Tourist Damages Rome’s Spanish Steps by Pushing a Scooter Down Them</a> NYT: An American woman and her companion caused $27,000 in damage to the landmark, officials said. They were fined and have been barred from the site for six months. 
 
 
 </details>
@@ -344,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/biden-abortion-00038565">Biden pledges executive orders on abortion. His options are limited.</a> Politico: While Biden has few options to preserve abortion access in states determined to restrict it, there are actions his administration can take to bolster reproductive health rights. 
  <p class="updated_time"> 03:08 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/bidens-atf-pick-moderate-support-00038586">Biden's ATF pick locks down key moderate support</a> Politico: Sens. Joe Manchin and Jon Tester announced Thursday that they would back Steven Dettelbach to lead the ATF. 
- <p class="updated_time"> 01:23 PM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">‘It was carnage’: Committee tees up case that Trump fueled Jan. 6 violence</a> Politico: In the select committee’s first hearing, lawmakers tried to connect the former president's actions with escalations of violence during the Capitol attack. 
 
 
 </details>
