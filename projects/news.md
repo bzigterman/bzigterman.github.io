@@ -9,13 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 03:43 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html">How Bolsonaro Is Using the Military to Challenge Brazil’s Election</a> NYT: Despite little evidence of past fraud, President Jair Bolsonaro has long raised doubts about Brazil’s electoral process. Now the military is expressing similar concerns. 
  <p class="updated_time"> 03:04 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Left surge threatens Macron majority in France</a> BBC: The French president risks losing his parliamentary majority, amid a historically low turn out. 
- <p class="updated_time"> 02:46 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 02:57 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 02:43 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779058?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Family and friends demand answers</a> BBC: Journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon rainforest. 
@@ -23,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
  <p class="updated_time"> 02:18 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104431551/mexico-migration-7000-documents-visas">Mexico issues nearly 7,000 temporary documents and transit visas to migrants</a> NPR: The migration agency did not specify what kind of documents were issued. Most of the migrants showed papers that gave them a period of time to leave the country or begin regularization procedures. 
- <p class="updated_time"> 01:46 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 01:57 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 01:25 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">India destroys houses of several Muslim figures after religious riots</a> BBC: The houses of several Muslim figures are demolished after religious riots. 
@@ -31,19 +33,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
- <p class="updated_time"> 12:46 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 12:57 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 12:21 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
- <p class="updated_time"> 12:09 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 12:04 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61777224?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Former British soldier Jordan Gatley killed in fighting</a> BBC: Jordan Gatley was killed as Ukrainian forces fought for control of Severodonetsk, his family said. 
- <p class="updated_time"> 11:46 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 11:57 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
- <p class="updated_time"> 10:46 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 10:57 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 10:44 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/congress-targets-harvard-yale-and-top-universities-with-china-linked-endowments-00038625">Congress targets Harvard, Yale and top universities with China-linked endowments</a> Politico: A new bill from Republican Greg Murphy is pushing divestment from firms linked to rights abuses, security risks. 
  <p class="updated_time"> 04:08 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/conservatives-gun-safety-negotiations-00038591">Conservatives lay off Senate gun negotiations</a> Politico: Even Republicans you would expect to publicly oppose the gun talks are staying quiet, waiting to see the result of bipartisan negotiations. 
- <p class="updated_time"> 03:47 PM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/biden-abortion-00038565">Biden pledges executive orders on abortion. His options are limited.</a> Politico: While Biden has few options to preserve abortion access in states determined to restrict it, there are actions his administration can take to bolster reproductive health rights. 
 
 
 </details>
