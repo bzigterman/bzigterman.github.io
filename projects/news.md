@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
+ <p class="updated_time"> 12:21 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
  <p class="updated_time"> 12:09 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 12:04 PM CT, Jun. 12 </p> 
@@ -17,33 +21,31 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">Bipartisan group of US senators agrees limited gun safety measures</a> BBC: The agreement includes support for tougher background checks for buyers under the age of 21. 
  <p class="updated_time"> 11:48 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Big test for Macron in vote hit by low turnout</a> BBC: The election will decide whether the president retains his majority, amid a very low turnout. 
- <p class="updated_time"> 11:20 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 11:34 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 10:58 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
- <p class="updated_time"> 10:49 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
  <p class="updated_time"> 10:44 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
+ <p class="updated_time"> 10:34 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
  <p class="updated_time"> 10:23 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1103777253/activists-take-aim-at-the-buyers-of-looted-antiquities">Activists take aim at the buyers of looted antiquities</a> NPR: If activists have their way, not only the looters, but the buyers, of stolen cultural relics will face criminal repercussions. 
- <p class="updated_time"> 10:20 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
  <p class="updated_time"> 09:35 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61777304?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens of Covid cases linked to Beijing bar</a> BBC: Mass testing is taking place after more than 160 cases are linked to a bar in the capital. 
+ <p class="updated_time"> 09:34 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 09:25 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
- <p class="updated_time"> 09:20 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 08:48 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61775909?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Paper denies outing actress amid storm of criticism</a> BBC: The Sydney Morning Herald says it "simply asked questions" after being accused of outing the actress. 
- <p class="updated_time"> 08:20 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 08:34 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
- <p class="updated_time"> 07:20 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 07:34 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
  <p class="updated_time"> 11:56 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
- <p class="updated_time"> 11:26 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades, and a sharp rise in food prices caused by the war in Ukraine, have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 08:38 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:29 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/11/us/politics/pence-jan-6-election-trump.html">Pence Aide Warned Against Blocking Electoral College Count, Memo Shows</a> NYT: Shortly before Jan. 6, Vice President Mike Pence’s chief counsel wrote that holding up the certification of the election results would violate federal law. 
  <p class="updated_time"> 12:07 PM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/chris-jacobs-gun-reform-bipartisan-00039030">Retiring Rep. Chris Jacobs urges bipartisanship on gun reform</a> Politico: "Our parties are very polarized right now. And I don't think that's good for the parties. I don't think that's good for democracy," Jacobs said. 
  <p class="updated_time"> 11:58 AM CT, Jun. 12 </p> 
@@ -242,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/us/politics/guantanamo-bay-photos.html">A Trove of Guantánamo Photos</a> NYT: A Times reporter who covers Guantánamo Bay tracked down military photographs of the early days of the U.S. detention center there. 
  <p class="updated_time"> 07:45 PM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/patriot-front-members-arrested-idaho-00039000">31 Patriot Front members arrested near Idaho pride event</a> Politico: The men were standing inside the truck wearing khakis, navy blue shirts and beige hats with white balaclavas covering their faces. 
- <p class="updated_time"> 07:23 PM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/us/politics/pence-jan-6-election-trump.html">Pence Aide Warned Against Blocking Electoral College Count, Memo Shows</a> NYT: Shortly before Jan. 6, Vice President Mike Pence’s chief counsel wrote that holding up the certification of the election results would violate federal law. 
  <p class="updated_time"> 07:13 PM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/dnc-early-state-presidential-lineup-00038999">DNC cuts 3 contenders as it chooses new early state presidential lineup</a> Politico: Applications from New York, Nebraska and Democrats Abroad will not be considered as the party alters its early primaries for 2024. 
  <p class="updated_time"> 07:06 PM CT, Jun. 11 </p> 
@@ -260,6 +260,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
+ <p class="updated_time"> 12:05 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
  <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">'Enough is enough' say thousands demanding new gun measures</a> Politico: Organizers expected the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
  <p class="updated_time"> 10:46 AM CT, Jun. 11 </p> 
@@ -320,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/illinois-man-allegedly-attempted-to-firebomb-chinese-embassy-00038875">Illinois man allegedly attempted to firebomb Chinese embassy</a> Politico: About a week before, Benjamin J. Grabinski had warned officers that he would attempt to firebomb the Chinese embassy. 
  <p class="updated_time"> 09:26 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
- <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/liz-cheney-jan-6-committee-full-statement-00038730">Read: Liz Cheney's opening statement at Jan. 6 select committee hearing</a> Politico: Read Rep. Liz Cheney's full opening remarks. 
  <p class="updated_time"> 08:44 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/jan-6-hearing-barr-testimony-00038729">First Jan. 6 hearing highlights Barr testimony</a> Politico: “I made it clear I did not agree with the idea of saying the election was stolen,” the former attorney general told the panel's investigators. 
- <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden, Looking for Unity, Faces Criticism From Latin American Leaders</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
  <p class="updated_time"> 07:50 PM CT, Jun. 09 </p> 
