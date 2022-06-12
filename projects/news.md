@@ -9,41 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
+ <p class="updated_time"> 04:09 PM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 04:06 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Left surge threatens Macron majority in France</a> BBC: The French president risks losing his parliamentary majority, amid a historically low turn out. 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
- <p class="updated_time"> 03:43 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html">How Bolsonaro Is Using the Military to Challenge Brazil’s Election</a> NYT: Despite little evidence of past fraud, President Jair Bolsonaro has long raised doubts about Brazil’s electoral process. Now the military is expressing similar concerns. 
- <p class="updated_time"> 03:04 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Left surge threatens Macron majority in France</a> BBC: The French president risks losing his parliamentary majority, amid a historically low turn out. 
- <p class="updated_time"> 02:57 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 03:19 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 02:43 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779058?at_medium=RSS&at_campaign=KARANGA">Dom Phillips: Family and friends demand answers</a> BBC: Journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon rainforest. 
  <p class="updated_time"> 02:38 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Joe Biden says the plans are a step in the right direction, but they fall far short of what he called for. 
+ <p class="updated_time"> 02:19 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 02:18 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104431551/mexico-migration-7000-documents-visas">Mexico issues nearly 7,000 temporary documents and transit visas to migrants</a> NPR: The migration agency did not specify what kind of documents were issued. Most of the migrants showed papers that gave them a period of time to leave the country or begin regularization procedures. 
- <p class="updated_time"> 01:57 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 01:25 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">India destroys houses of several Muslim figures after religious riots</a> BBC: The houses of several Muslim figures are demolished after religious riots. 
+ <p class="updated_time"> 01:19 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 01:07 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html">Single Cigarettes in Canada Will Be Inscribed With Warning</a> NYT: Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking. 
  <p class="updated_time"> 01:00 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
- <p class="updated_time"> 12:57 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
  <p class="updated_time"> 12:21 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
+ <p class="updated_time"> 12:19 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 12:04 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61777224?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Former British soldier Jordan Gatley killed in fighting</a> BBC: Jordan Gatley was killed as Ukrainian forces fought for control of Severodonetsk, his family said. 
- <p class="updated_time"> 11:57 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
- <p class="updated_time"> 10:57 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 11:19 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 10:44 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
@@ -124,7 +126,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:38 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61770925?at_medium=RSS&at_campaign=KARANGA">China: Footage of women attacked in restaurant sparks outrage</a> BBC: There is widespread anger in China after footage went viral of an attack on a group of women. 
  <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
+ <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Vladimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61755730?at_medium=RSS&at_campaign=KARANGA">India water: Hundreds jostle to reach well</a> BBC: People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water. 
  <p class="updated_time"> 04:57 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104291290/people-noticed-an-iconic-prague-clock-looked-different-4-years-after-it-was-rest">People noticed an iconic Prague clock looked different 4 years after it was restored</a> NPR: The iconic clock in Prague's Old Town Square was renovated in 2018. Four years later, a local preservation group noticed something off about the refurbishment. 
- <p class="updated_time"> 04:40 PM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104291283/macrons-party-faces-competition-from-the-far-left-for-control-of-french-parliame">Macron's party faces competition from the far left for control of French parliament</a> NPR: French president Emmanuel Macron recently won a second term, beating far-right leader Marine Le Pen. But if Macron wants to enact his agenda, he has to keep his majority in parliament this month. 
  <p class="updated_time"> 04:31 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-61767303?at_medium=RSS&at_campaign=KARANGA">Fanfare and fireworks to open Russia-China border bridge</a> BBC: Moscow is seeking to boost trade with China after global sanctions hit the Russian economy. 
  <p class="updated_time"> 04:18 PM CT, Jun. 10 </p> 
@@ -209,7 +209,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:38 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/larry-summers-treasury-recession-inflation-tariffs-00039025">Former Treasury head urges tariff cuts, warns of recession</a> Politico: Larry Summers called the central bank’s forecast that inflation will cool “much too optimistic.” 
  <p class="updated_time"> 11:31 AM CT, Jun. 12 </p> 
- <a href="https://www.npr.org/2022/06/12/1104433332/gun-control-senate-deal">Bipartisan group of senators announces deal for school safety and gun measures</a> NPR: The agreement, which has the support of at least 10 Republican senators, is narrowly focused at preventing future shootings similar to the one in Uvalde, Texas. 
+ <a href="https://www.npr.org/2022/06/12/1104433332/gun-control-senate-deal">A bipartisan group of senators announces a deal for school safety and gun measures</a> NPR: The agreement, which has the support of at least 10 Republican senators, is narrowly focused at preventing future shootings similar to the one in Uvalde, Texas. 
  <p class="updated_time"> 10:11 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/raskin-trump-lost-2020-election-insurrection-00039016">Raskin: Trump ‘absolutely’ knew he lost 2020 election</a> Politico: The committee also has enough evidence to prove that multiple Republican members of Congress sought pardons following the Jan. 6 assault on the Capitol. 
  <p class="updated_time"> 10:06 AM CT, Jun. 12 </p> 
@@ -334,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/video/2022/06/09/former-d-c-police-officer-michael-fanone-arrives-at-jan-6-hearing-603435">Michael Fanone has low confidence Jan. 6 hearings will bring change</a> Politico: Former D.C. police officer Michael Fanone was beaten unconscious by rioters at the Capitol on January 6. Before entering the hearing, Fanone expressed low confidence that the Jan. 6 committee hearings will move the needle in the country. 
  <p class="updated_time"> 05:34 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/congress-targets-harvard-yale-and-top-universities-with-china-linked-endowments-00038625">Congress targets Harvard, Yale and top universities with China-linked endowments</a> Politico: A new bill from Republican Greg Murphy is pushing divestment from firms linked to rights abuses, security risks. 
- <p class="updated_time"> 04:08 PM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/conservatives-gun-safety-negotiations-00038591">Conservatives lay off Senate gun negotiations</a> Politico: Even Republicans you would expect to publicly oppose the gun talks are staying quiet, waiting to see the result of bipartisan negotiations. 
 
 
 </details>
