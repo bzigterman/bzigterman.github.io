@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
+ <p class="updated_time"> 11:37 PM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61773360?at_medium=RSS&at_campaign=KARANGA">Nagaland: Indian soldiers charged over botched raid</a> BBC: A military operation and protests in the Indian state of Nagaland left 14 civilians dead last year. 
  <p class="updated_time"> 10:59 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 10:38 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 10:55 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
- <p class="updated_time"> 09:38 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 09:55 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House Set to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House Set to Announce Biden Trip to Saudi Arabia Soon 
- <p class="updated_time"> 09:19 PM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/06/11/world/russia-ukraine-war-news">Live Updates: Momentum in Ukraine Is Shifting in Russia’s Favor</a> NYT: With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising. 
+ <p class="updated_time"> 08:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 08:51 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
- <p class="updated_time"> 08:38 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 08:35 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
  <p class="updated_time"> 08:09 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61773356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chemical plant hit as fighting rages in Severodonetsk</a> BBC: Russian shelling causes a huge fire at the Azot plant in Severodonetsk, a Ukrainian official says. 
- <p class="updated_time"> 07:38 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 07:55 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 06:58 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61650362?at_medium=RSS&at_campaign=KARANGA">Gambia under Yahya Jammeh: Witch hunts, PTSD and veiled faces</a> BBC: Portraits of 11 Gambians which reveal the extent of the suffering and abuse under Yahya Jammeh. 
  <p class="updated_time"> 06:57 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61755737?at_medium=RSS&at_campaign=KARANGA">How doctors saved a lion from going blind</a> BBC: A team of doctors performed cataract surgery on a lion in Gujarat state to save his vision. 
+ <p class="updated_time"> 06:55 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 06:39 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61763912?at_medium=RSS&at_campaign=KARANGA">What a San Francisco vote says about the US left</a> BBC: The recall of San Francisco's top public prosecutor amid rising drug deaths exposes a rift on the left. 
- <p class="updated_time"> 06:38 PM CT, Jun. 11 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 06:37 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61707618?at_medium=RSS&at_campaign=KARANGA">Samantha Cristoforetti: The astronaut taking TikTok to new heights</a> BBC: Samantha Cristoforetti has developed a huge following through her TikToks from on board the ISS. 
  <p class="updated_time"> 06:36 PM CT, Jun. 11 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html">Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</a> NYT: Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery. 
  <p class="updated_time"> 03:35 AM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61768875?at_medium=RSS&at_campaign=KARANGA">China warns Taiwan independence would trigger war</a> BBC: China's defence chief tells the US that Beijing will fight against any Taiwan independence bid. 
- <p class="updated_time"> 02:53 AM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/61768642?at_medium=RSS&at_campaign=KARANGA">Polish hammer throwing champ overpowers car thief</a> BBC: Poland's Anita Wlodarczyk says she will have surgery on an injury sustained while apprehending a thief who broke into her car. 
  <p class="updated_time"> 02:27 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html">When Cockatoos Become Cocka-Too Much</a> NYT: The native Australian birds are charismatic and deeply destructive. 
  <p class="updated_time"> 02:00 AM CT, Jun. 11 </p> 
