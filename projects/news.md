@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
+ <p class="updated_time"> 04:47 AM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61774475?at_medium=RSS&at_campaign=KARANGA">Russia unveils 'tasty' McDonald's substitute</a> BBC: The fast food outlets are being rebranded as "Tasty and that's it" after the burger giant pulled out. 
+ <p class="updated_time"> 04:38 AM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
  <p class="updated_time"> 04:04 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Ukraine Live Updates: Zelensky Pushes Bid for E.U. Membership as Key to Security</a> NYT: President Volodymyr Zelensky met with the president of the European Commission on Saturday as the E.U. prepares to consider Ukraine’s application. Momentum appeared to favor Russia as the war dragged on in the east. 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
@@ -17,27 +23,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
- <p class="updated_time"> 03:43 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 03:55 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses US of trying to 'hijack' support in Asia</a> NPR: China's defense minister accused the United States of trying to "hijack" the support of countries in the Asia-Pacific region to turn them against Beijing, "under the guise of multilateralism." 
  <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 02:43 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 02:55 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
  <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61774473?at_medium=RSS&at_campaign=KARANGA">Climate change a bigger threat than war, Fiji tells security summit</a> BBC: Its defence chief tells Asian partners that "devastating" climate change is his top security issue. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
- <p class="updated_time"> 01:43 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 01:55 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 01:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-uk-mans-family-devastated-by-death-sentence">Ukraine: UK man's family 'devastated' by death sentence</a> NPR: The family of a British man condemned to death for fighting for Ukraine called for him to be released and accorded the treatment an international human rights convention guarantees prisoners of war. 
- <p class="updated_time"> 01:04 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
- <p class="updated_time"> 12:43 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 12:55 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
- <p class="updated_time"> 11:43 PM CT, Jun. 11 </p> 
+ <p class="updated_time"> 11:55 PM CT, Jun. 11 </p> 
  <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 11:37 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61773360?at_medium=RSS&at_campaign=KARANGA">Nagaland: Indian soldiers charged over botched raid</a> BBC: A military operation and protests in the Indian state of Nagaland left 14 civilians dead last year. 
@@ -45,12 +49,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
  <p class="updated_time"> 08:35 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Is Heading Toward the U.S. Border</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
- <p class="updated_time"> 08:09 PM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61773356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chemical plant hit as fighting rages in Severodonetsk</a> BBC: Russian shelling causes a huge fire at the Azot plant in Severodonetsk, a Ukrainian official says. 
  <p class="updated_time"> 06:58 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61650362?at_medium=RSS&at_campaign=KARANGA">Gambia under Yahya Jammeh: Witch hunts, PTSD and veiled faces</a> BBC: Portraits of 11 Gambians which reveal the extent of the suffering and abuse under Yahya Jammeh. 
  <p class="updated_time"> 06:57 PM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61755737?at_medium=RSS&at_campaign=KARANGA">How doctors saved a lion from going blind</a> BBC: A team of doctors performed cataract surgery on a lion in Gujarat state to save his vision. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61755737?at_medium=RSS&at_campaign=KARANGA">Gujarat: How doctors saved a lion from going blind</a> BBC: A team of doctors performed cataract surgery on a lion in Gujarat state to save his vision. 
  <p class="updated_time"> 06:39 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61763912?at_medium=RSS&at_campaign=KARANGA">What a San Francisco vote says about the US left</a> BBC: The recall of San Francisco's top public prosecutor amid rising drug deaths exposes a rift on the left. 
  <p class="updated_time"> 06:37 PM CT, Jun. 11 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down. 
  <p class="updated_time"> 11:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html">Royal Shipwreck From 1682 Is Found Off the Coast of England</a> NYT: The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week. 
- <p class="updated_time"> 10:49 AM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61764296?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Five key moments from the US Capitol riot hearing</a> BBC: A Republican slams Trump, police describe chaos and the ex-president's daughter doubts his fraud claim. 
  <p class="updated_time"> 08:57 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 08:34 AM CT, Jun. 10 </p> 
