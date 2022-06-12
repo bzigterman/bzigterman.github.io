@@ -9,40 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 09:43 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61777224?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Former British soldier Jordan Gatley killed in fighting</a> BBC: Jordan Gatley was killed as Ukrainian forces fought for control of Severodonetsk, his family said. 
  <p class="updated_time"> 09:35 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61777304?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens of Covid cases linked to Beijing bar</a> BBC: Mass testing is taking place after more than 160 cases are linked to a bar in the capital. 
  <p class="updated_time"> 09:25 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
- <p class="updated_time"> 08:55 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 09:18 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">Russia Shells Chemical Plant Sheltering Civilians, Ukraine Says</a> WSJ: Russia Shells Chemical Plant Sheltering Civilians, Ukraine Says 
  <p class="updated_time"> 08:48 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61775909?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Paper denies outing actress amid storm of criticism</a> BBC: The Sydney Morning Herald says it "simply asked questions" after being accused of outing the actress. 
- <p class="updated_time"> 08:44 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
- <p class="updated_time"> 07:55 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
+ <p class="updated_time"> 07:18 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
  <p class="updated_time"> 06:59 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61775212?at_medium=RSS&at_campaign=KARANGA">Abuja to Kaduna train attack: Gunmen free 11 hostages</a> BBC: Their release comes as President Buhari expresses his "daily grief" over Nigeria's security crisis. 
- <p class="updated_time"> 06:55 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
- <p class="updated_time"> 05:55 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 06:18 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/pandemic-war-in-ukraine-create-new-challenges-for-struggling-wto-11655031600">Pandemic, War in Ukraine Create Fresh Challenges for Struggling WTO</a> WSJ: Pandemic, War in Ukraine Create Fresh Challenges for Struggling WTO 
  <p class="updated_time"> 05:22 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
+ <p class="updated_time"> 05:18 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/pope-franciss-canceled-travel-stirs-talk-of-retirement-11655022477">Pope Francis’s Canceled Travel Stirs Talk of Retirement</a> WSJ: Pope Francis’s Canceled Travel Stirs Talk of Retirement 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
- <p class="updated_time"> 04:55 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/pope-franciss-canceled-travel-stirs-talk-of-retirement-11655022477">Pope Francis’s Canceled Travel Stirs Talk of Retirement</a> WSJ: Pope Francis’s Canceled Travel Stirs Talk of Retirement 
  <p class="updated_time"> 04:48 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
  <p class="updated_time"> 04:08 AM CT, Jun. 12 </p> 
@@ -173,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
  <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
- <p class="updated_time"> 10:20 PM CT, Jun. 09 </p> 
- <a href="https://www.nytimes.com/2022/06/09/climate/electric-vehicles-charging-stations.html">Biden Administration to Set Rules of the Road for Charging Electric Vehicles</a> NYT: Proposed regulations would require charging stations built with federal dollars to be located no more than 50 miles apart. 
  <p class="updated_time"> 08:28 PM CT, Jun. 09 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/americas/summit-migrants-latin-america.html">U.S. and Latin American Countries Will Commit to Receive More Migrants</a> NYT: A joint declaration is expected to be issued Friday meant to address surging migration rates that have affected nations throughout the region. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
@@ -208,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:06 AM CT, Jun. 12 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/12/a-guns-deal-looks-imminent-00039014"> A guns deal looks imminent</a> Politico Playbook: And Sarah Palin advances to an Alaska special general election for Congress. 
+ <p class="updated_time"> 09:57 AM CT, Jun. 12 </p> 
+ <a href="https://www.politico.com/news/2022/06/12/senators-strike-bipartisan-gun-safety-agreement-00039019">Senators strike bipartisan gun safety agreement</a> Politico: The emerging framework is a major breakthrough in talks following back-to-back mass shootings. Negotiators' next challenge: writing legislation that can get 60 votes. 
  <p class="updated_time"> 09:44 AM CT, Jun. 12 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:06 AM CT, Jun. 12 </p> 
@@ -231,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:51 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/palin-alaska-special-house-election-00039001">Palin nabs early lead in Alaska U.S. House special primary</a> Politico: Dozens of candidates are running to replace the late Don Young. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/a-trove-of-guantanamo-photos.html">A Trove of Guantánamo Photos</a> NYT: A Times reporter who covers Guantánamo Bay tracked down military photographs of the early days of the U.S. detention center there. 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/guantanamo-bay-photos.html">A Trove of Guantánamo Photos</a> NYT: A Times reporter who covers Guantánamo Bay tracked down military photographs of the early days of the U.S. detention center there. 
  <p class="updated_time"> 07:45 PM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/patriot-front-members-arrested-idaho-00039000">31 Patriot Front members arrested near Idaho pride event</a> Politico: The men were standing inside the truck wearing khakis, navy blue shirts and beige hats with white balaclavas covering their faces. 
  <p class="updated_time"> 07:23 PM CT, Jun. 11 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
  <p class="updated_time"> 08:09 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/donald-ivanka-trump-jan-6-testimony-00038783">'Checked out': Trump rebukes Ivanka over Jan. 6 testimony</a> Politico: “Ivanka Trump was not involved in looking at, or studying, Election results. She had long since checked out,” Trump posted on Truth Social. 
- <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
@@ -352,10 +352,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/bidens-atf-pick-moderate-support-00038586">Biden's ATF pick locks down key moderate support</a> Politico: Sens. Joe Manchin and Jon Tester announced Thursday that they would back Steven Dettelbach to lead the ATF. 
  <p class="updated_time"> 01:23 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/jan-6-committee-pre-planning-capitol-violence-00038500">‘It was carnage’: Committee tees up case that Trump fueled Jan. 6 violence</a> Politico: In the select committee’s first hearing, lawmakers tried to connect the former president's actions with escalations of violence during the Capitol attack. 
- <p class="updated_time"> 10:16 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/house-vote-security-scotus-abortion-00038458">House won't vote this week on plan to boost Supreme Court security</a> Politico: The delay comes as Senate GOP leaders blanch at proposed additions that would extend protection to clerks. 
- <p class="updated_time"> 10:00 AM CT, Jun. 09 </p> 
- <a href="https://www.politico.com/news/2022/06/09/big-tech-american-bar-association-00038224">Rebellion foments inside the American Bar Association over influence of Big Tech</a> Politico: The tension has heated up over a letter sent by ABA leadership to Congress opposing proposed anti-monopoly legislation that would rein in Apple, Google, Meta and Amazon. 
 
 
 </details>
