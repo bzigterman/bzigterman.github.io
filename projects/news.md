@@ -9,42 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
- <p class="updated_time"> 07:32 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
- <p class="updated_time"> 07:31 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
+ <p class="updated_time"> 07:44 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">Russia Shells Chemical Plant Sheltering Civilians, Ukraine Says</a> WSJ: Russia Shells Chemical Plant Sheltering Civilians, Ukraine Says 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
  <p class="updated_time"> 06:59 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61775212?at_medium=RSS&at_campaign=KARANGA">Abuja to Kaduna train attack: Gunmen free 11 hostages</a> BBC: Their release comes as President Buhari expresses his "daily grief" over Nigeria's security crisis. 
- <p class="updated_time"> 06:31 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 06:44 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
+ <p class="updated_time"> 05:44 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
- <p class="updated_time"> 05:31 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 05:22 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
  <p class="updated_time"> 04:48 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
- <p class="updated_time"> 04:31 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
+ <p class="updated_time"> 04:44 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/pandemic-war-in-ukraine-create-new-challenges-for-struggling-wto-11655031600">Pandemic, War in Ukraine Create Fresh Challenges for Struggling WTO</a> WSJ: Pandemic, War in Ukraine Create Fresh Challenges for Struggling WTO 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html">A Restored Painting Recalls the Colosseum’s Christian Past</a> NYT: The restoration of a wall painting depicting an idealized Jerusalem is a reminder that the Roman monument, known best for gladiatorial combat, was a sacred Christian space for centuries. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
- <p class="updated_time"> 03:31 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
+ <p class="updated_time"> 03:44 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/pope-franciss-canceled-travel-stirs-talk-of-retirement-11655022477">Pope Francis’s Canceled Travel Stirs Talk of Retirement</a> WSJ: Pope Francis’s Canceled Travel Stirs Talk of Retirement 
  <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
- <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses US of trying to 'hijack' support in Asia</a> NPR: China's defense minister accused the United States of trying to "hijack" the support of countries in the Asia-Pacific region to turn them against Beijing, "under the guise of multilateralism." 
+ <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses the U.S. of trying to hijack support in Asia</a> NPR: Defense Secretary Lloyd Austin had stressed the need for multilateral partnerships in the Indo-Pacific, which China's defense minister suggested was an attempt to back his country into a corner. 
  <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
  <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
@@ -52,7 +52,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
  <p class="updated_time"> 01:05 AM CT, Jun. 12 </p> 
- <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-uk-mans-family-devastated-by-death-sentence">Ukraine: UK man's family 'devastated' by death sentence</a> NPR: The family of a British man condemned to death for fighting for Ukraine called for him to be released and accorded the treatment an international human rights convention guarantees prisoners of war. 
+ <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-shaun-pinner-british-fighter-donetsk">A UK man got a death sentence for fighting for Ukraine. His family wants his release</a> NPR: A court in the separatist-proclaimed Donetsk People's Republic of Ukraine convicted Shaun Pinner of seeking the violent overthrow of power. 
  <p class="updated_time"> 11:37 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61773360?at_medium=RSS&at_campaign=KARANGA">Nagaland: Indian soldiers charged over botched raid</a> BBC: A military operation and protests in the Indian state of Nagaland left 14 civilians dead last year. 
  <p class="updated_time"> 08:51 PM CT, Jun. 11 </p> 
@@ -79,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104396147/how-turkeys-name-rebrand-will-hurt-businesses-in-the-country">How Turkey's name rebrand will hurt businesses in the country</a> NPR: The country of Turkey is rebranding its name internationally to Türkiye. Suley Ozbey, the president of Charix Shoes, discusses how the name change may affect his import and export businesses. 
  <p class="updated_time"> 03:24 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
+ <p class="updated_time"> 02:44 PM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women's Safety</a> WSJ: Social media erupts in anger over footage of men beating several women. “It could be me.” 
  <p class="updated_time"> 02:36 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/09/magazine/ruangrupa-documenta.html">A Radical Collective Takes Over One of the World’s Biggest Art Shows</a> NYT: Ruangrupa, an Indonesian group of collaborators, turns social experiences into art. How will they leave their mark on Documenta, which unfolds over 100 days? 
  <p class="updated_time"> 02:19 PM CT, Jun. 11 </p> 
@@ -107,6 +109,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Valdimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
+ <p class="updated_time"> 06:13 AM CT, Jun. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Ukraine issued fresh calls for urgent supplies of weapons from the West, as officials warned that battles in the east increasingly favor Moscow’s better-equipped forces. 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
@@ -119,6 +123,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html">Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</a> NYT: Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign. 
  <p class="updated_time"> 01:32 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104363396/canada-warning-cigarette">Canada proposes printing a warning on every cigarette</a> NPR: The move builds on Canada's mandate to include graphic photo warnings on tobacco products' packaging. The government anticipates the changes coming into force in the latter half of 2023. 
+ <p class="updated_time"> 10:47 PM CT, Jun. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China's Military Is Increasingly Aggressive</a> WSJ: Lloyd Austin says Chinese aircraft and ships are engaging in provocative behavior in the Indo-Pacific region. 
  <p class="updated_time"> 10:02 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html">Reforms Are Imposed on U.N. Agency That Made Questionable Investments</a> NYT: After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes. 
  <p class="updated_time"> 10:01 PM CT, Jun. 10 </p> 
@@ -332,6 +338,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/09/liz-cheney-jan-6-committee-full-statement-00038730">Read: Liz Cheney's opening statement at Jan. 6 select committee hearing</a> Politico: Read Rep. Liz Cheney's full opening remarks. 
  <p class="updated_time"> 08:44 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/jan-6-hearing-barr-testimony-00038729">First Jan. 6 hearing highlights Barr testimony</a> Politico: “I made it clear I did not agree with the idea of saying the election was stolen,” the former attorney general told the panel's investigators. 
+ <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
+ <a href="https://www.nytimes.com/2022/06/09/us/politics/biden-americas-summit.html">Biden, Looking for Unity, Faces Criticism From Latin American Leaders</a> NYT: The U.S. president called for concrete commitments on several major issues, but other leaders said the United States is doing too little to meet the moment. 
  <p class="updated_time"> 08:22 PM CT, Jun. 09 </p> 
  <a href="https://www.politico.com/news/2022/06/09/cheney-scott-perry-jan-6-hearing-00038724">Cheney: Scott Perry sought pardon for role in trying to overturn 2020 election results</a> Politico: The new details surfaced during the Jan. 6 select committee's first public hearing, as it launched the unveiling of its findings of a yearlong investigation into the insurrection. 
  <p class="updated_time"> 07:50 PM CT, Jun. 09 </p> 
