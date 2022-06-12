@@ -9,42 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
+ <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
  <p class="updated_time"> 07:32 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 07:31 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
  <p class="updated_time"> 06:59 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61775212?at_medium=RSS&at_campaign=KARANGA">Abuja to Kaduna train attack: Gunmen free 11 hostages</a> BBC: Their release comes as President Buhari expresses his "daily grief" over Nigeria's security crisis. 
- <p class="updated_time"> 06:34 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658">Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</a> WSJ: Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities 
- <p class="updated_time"> 05:34 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 06:31 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/white-house-set-to-announce-biden-trip-to-saudi-arabia-soon-11654997595">White House to Announce Biden Trip to Saudi Arabia Soon</a> WSJ: White House to Announce Biden Trip to Saudi Arabia Soon 
+ <p class="updated_time"> 05:31 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
  <p class="updated_time"> 05:22 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61774830?at_medium=RSS&at_campaign=KARANGA">The Lady of Heaven film: Morocco bans ‘blasphemous’ British film</a> BBC: The Lady of Heaven film, about the daughter of prophet Muhammad, has sparked outrage. 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
  <p class="updated_time"> 04:48 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
- <p class="updated_time"> 04:47 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61774475?at_medium=RSS&at_campaign=KARANGA">Russia unveils 'tasty' McDonald's substitute</a> BBC: The fast food outlets are rebranded as "Tasty and that's it" after the burger giant pulled out. 
- <p class="updated_time"> 04:34 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-restaurant-assault-revives-attention-on-womens-safety-11654991068">China Restaurant Assault Revives Attention on Women’s Safety</a> WSJ: China Restaurant Assault Revives Attention on Women’s Safety 
+ <p class="updated_time"> 04:31 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html">A Restored Painting Recalls the Colosseum’s Christian Past</a> NYT: The restoration of a wall painting depicting an idealized Jerusalem is a reminder that the Roman monument, known best for gladiatorial combat, was a sacred Christian space for centuries. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 04:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
- <p class="updated_time"> 03:34 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-defense-secretary-warns-that-chinas-military-is-increasingly-aggressive-11654933638">U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive</a> WSJ: U.S. Defense Secretary Warns That China’s Military Is Increasingly Aggressive 
+ <p class="updated_time"> 03:31 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104414204/china-accuses-us-of-trying-to-hijack-support-in-asia">China accuses US of trying to 'hijack' support in Asia</a> NPR: China's defense minister accused the United States of trying to "hijack" the support of countries in the Asia-Pacific region to turn them against Beijing, "under the guise of multilateralism." 
  <p class="updated_time"> 03:23 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
- <p class="updated_time"> 02:34 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/australia-settles-submarine-deal-with-france-in-reset-of-relations-11654946055">Australia Settles Submarine Deal With France in Reset of Relations</a> WSJ: Australia Settles Submarine Deal With France in Reset of Relations 
  <p class="updated_time"> 02:28 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61774473?at_medium=RSS&at_campaign=KARANGA">Climate change a bigger threat than war, Fiji tells security summit</a> BBC: Its defence chief tells Asian partners that "devastating" climate change is his top security issue. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/10/1104291214/gas-and-food-prices-are-rising-in-kenya-too-driven-by-the-war-in-ukraine">Gas and food prices are rising in Kenya, too, driven by the war in Ukraine</a> NPR: Inflation is the talk of the town in Nairobi, Kenya, just like it is in the United States. From gas to food to soap, here's how one African country is feeling the impact of the war in Ukraine. 
  <p class="updated_time"> 02:51 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html">C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.</a> NYT: The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive. 
- <p class="updated_time"> 01:24 PM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104194213/russian-mcdonalds-rebrand-logo">Russia's rebranded McDonald's unveils a new logo, but keeps its name a secret</a> NPR: The iconic Golden Arches have been replaced with two bold orange backslashes and a red circle, representing a tiny burger and a pair of large fries. 
  <p class="updated_time"> 01:19 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html">For South Africa’s Leader, Being a Burglary Victim Spells Trouble</a> NYT: After a fortune in cash was stolen from President Cyril Ramaphosa’s farmhouse, he kept it secret. Now that word is out, critics ask what he was hiding. 
  <p class="updated_time"> 12:44 PM CT, Jun. 10 </p> 
@@ -204,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104418163/what-its-like-living-under-temporary-legal-status-for-a-decade">What it's like living under temporary legal status for a decade</a> NPR: Ayesha Rascoe talks with Reyna Montoya, a DACA recipient and community organizer from Arizona, about her experience living under temporary legal status for the past decade. 
+ <p class="updated_time"> 07:31 AM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104418156/janet-napolitano-first-administered-daca-as-homeland-security-secretary-10-years">Janet Napolitano first administered DACA as homeland security secretary 10 years ago</a> NPR: Ayesha Rascoe talks with former Department of Homeland Security Sec. Janet Napolitano about the upcoming 10th anniversary of DACA, Deferred Action for Childhood Arrivals. 
  <p class="updated_time"> 07:25 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/ukraine-zelenskyy-war-predictions-00039007">Ukraine’s leader says his troops keep defying predictions</a> Politico: “It’s already the 108th day of the war, already June. Donbas is holding on,"  Volodymyr Zelenskyy said. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
@@ -302,10 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/business/media/jan-6-hearing-ratings.html">More Than 19 Million Watched Jan. 6 Hearing, Early Ratings Show</a> NYT: The number is in the ballpark of big television events like a “Sunday Night Football” game. 
  <p class="updated_time"> 03:56 PM CT, Jun. 10 </p> 
  <a href="https://www.npr.org/2022/06/10/1104017114/russia-ukraine-war-what-happened-today-june-10">Russia-Ukraine war: What happened today (June 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:54 PM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104291207/sarah-palin-is-one-of-48-people-vying-for-alaskas-house-seat-in-a-primary-tomorr">Sarah Palin is one of 48 people vying for Alaska's House seat in a primary tomorrow</a> NPR: Former Alaska Gov. Sarah Palin is attempting a political comeback in a special election for her state's lone House seat. The top four candidates in Saturday's primary will advance. 
- <p class="updated_time"> 03:26 PM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104291172/documentary-footage-from-filmmaker-shows-evidence-that-jan-6-was-a-planned-attac">Documentary footage from filmmaker shows evidence that Jan. 6 was a planned attack</a> NPR: Committee members heard testimony from a witness with evidence that Jan. 6 was a planned attack. Documentarian Nick Quested was filming the extremist group the Proud Boys before and during the riots. 
  <p class="updated_time"> 02:14 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/trump-ivanka-january-6-hearing.html">Donald Trump Hits Back at Ivanka Trump’s Account That She Accepted His Election Loss</a> NYT: The former president, responding to videotaped testimony played at the Jan. 6 hearing, said Ivanka Trump had been “checked out” and was not involved in studying the election results. 
  <p class="updated_time"> 01:57 PM CT, Jun. 10 </p> 
