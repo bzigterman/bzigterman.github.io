@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:36 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 12:48 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Big test for Macron in vote hit by low turnout</a> BBC: The election will decide whether the president retains his majority, amid an expected 47% turnout. 
+ <p class="updated_time"> 12:45 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61777310?at_medium=RSS&at_campaign=KARANGA">US gun control: Cross-party group of senators agrees limited safety measures</a> BBC: Measures proposed by a bipartisan group of senators include cracking down on illegal gun purchases. 
  <p class="updated_time"> 12:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html">‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</a> NYT: The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages. 
@@ -19,33 +21,31 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 12:04 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61777224?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Former British soldier Jordan Gatley killed in fighting</a> BBC: Jordan Gatley was killed as Ukrainian forces fought for control of Severodonetsk, his family said. 
- <p class="updated_time"> 11:48 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61777756?at_medium=RSS&at_campaign=KARANGA">French election: Big test for Macron in vote hit by low turnout</a> BBC: The election will decide whether the president retains his majority, amid a very low turnout. 
- <p class="updated_time"> 11:46 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 11:58 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 10:58 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
- <p class="updated_time"> 10:46 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">French Parliamentary Elections Test Macron’s Pro-Business Agenda</a> WSJ: French Parliamentary Elections Test Macron’s Pro-Business Agenda 
+ <p class="updated_time"> 10:58 AM CT, Jun. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 10:44 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
  <p class="updated_time"> 10:23 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1103777253/activists-take-aim-at-the-buyers-of-looted-antiquities">These activists want buyers and dealers of stolen relics to face criminal charges</a> NPR: If activists have their way, not only the looters, but the buyers, of stolen cultural relics will face criminal repercussions. 
- <p class="updated_time"> 09:46 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 09:58 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 09:35 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61777304?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens of Covid cases linked to Beijing bar</a> BBC: Mass testing is taking place after more than 160 cases are linked to a bar in the capital. 
  <p class="updated_time"> 09:25 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
+ <p class="updated_time"> 08:58 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 08:48 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61775909?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Paper denies outing actress amid storm of criticism</a> BBC: The Sydney Morning Herald says it "simply asked questions" after being accused of outing the actress. 
- <p class="updated_time"> 08:46 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
- <p class="updated_time"> 07:46 AM CT, Jun. 12 </p> 
+ <p class="updated_time"> 07:58 AM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
@@ -248,8 +248,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/11/dnc-early-state-presidential-lineup-00038999">DNC cuts 3 contenders as it chooses new early state presidential lineup</a> Politico: Applications from New York, Nebraska and Democrats Abroad will not be considered as the party alters its early primaries for 2024. 
  <p class="updated_time"> 07:06 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/jan-6-prosecute-trump.html">Jan. 6 Committee Appears to Lay Out Road Map for Prosecuting Trump</a> NYT: The first prime-time hearing into the Jan. 6 attack confronted the fundamental question that has haunted Donald J. Trump since he left office: Should he be prosecuted in a criminal court? 
- <p class="updated_time"> 07:04 PM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/advocates-of-high-poverty-schools-grants-in-california-are-now-lobbying-against-expanding-the-program-00038945">Advocates of a multibillion-dollar model for California schools criticize a rocky rollout</a> Politico: Chastising the state Department of Education for its use of community schools funding, United Ways of California wants to temporarily tap the brakes. 
  <p class="updated_time"> 04:55 PM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/alaska-high-court-house-election-00038997">Alaska high court reverses ruling that roiled House election</a> Politico: The high court said an explanation of its reasoning would follow at a later time. 
  <p class="updated_time"> 04:13 PM CT, Jun. 11 </p> 
@@ -260,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html">Biden Races to Expand Coalition Against Russia but Meets Resistance</a> NYT: Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html">Should Biden Run in 2024? Democratic Whispers of ‘No’ Start to Rise.</a> NYT: In interviews, dozens of frustrated Democratic officials, members of Congress and voters expressed doubts about the president’s ability to rescue his reeling party and take the fight to Republicans. 
- <p class="updated_time"> 11:40 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/thousands-rally-for-gun-reform-after-surge-in-mass-shootings-00038995">'Enough is enough' say thousands demanding new gun measures</a> Politico: Organizers expected the second March for Our Lives rally to draw around 50,000 demonstrators to the Washington Monument. 
  <p class="updated_time"> 10:46 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104337089/march-for-our-lives-march-for-life-differences">March for Our Lives? March for Life? How to know the difference between the groups</a> NPR: Both groups can be seen in the spotlight as abortion and gun violence take hold of the national conversation. Though similar in name, each stands behind different political issues. 
  <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
@@ -320,6 +316,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/illinois-man-allegedly-attempted-to-firebomb-chinese-embassy-00038875">Illinois man allegedly attempted to firebomb Chinese embassy</a> Politico: About a week before, Benjamin J. Grabinski had warned officers that he would attempt to firebomb the Chinese embassy. 
  <p class="updated_time"> 09:26 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
+ <p class="updated_time"> 07:36 AM CT, Jun. 10 </p> 
+ <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
