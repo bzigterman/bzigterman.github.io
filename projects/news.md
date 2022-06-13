@@ -17,7 +17,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html">Britain Plans to Fly Refugees to Rwanda on Tuesday</a> NYT: A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England. 
  <p class="updated_time"> 01:58 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html">The Health Effects of Extreme Heat</a> NYT: Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse. 
- <p class="updated_time"> 01:38 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 01:50 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786948?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous groups burn tyres and block roads over fuel prices</a> BBC: Demonstrators burn tyres and block roads over conservative government's 'policies of death'. 
@@ -33,7 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found in Amazon search</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing in Brazil on 5 June. 
  <p class="updated_time"> 01:02 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality' says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
- <p class="updated_time"> 12:38 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 12:50 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 12:36 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
@@ -41,11 +41,11 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61786575?at_medium=RSS&at_campaign=KARANGA">'How to murder your husband' writer sentenced for murdering husband</a> BBC: The romance novelist once wrote that anyone could commit a murder "when pushed far enough". 
  <p class="updated_time"> 12:03 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/americas/dom-phillips-bruno-pereira-missing.html">Authorities Find Belongings of Missing Journalist and Expert in Amazon</a> NYT: Search crews found clothes and other belongings of the two men who went missing in the Amazon last week. Authorities are also testing blood from a suspect’s boat and human remains found elsewhere. 
- <p class="updated_time"> 11:38 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 11:50 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 11:20 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Set Off Toward U.S. During Americas Summit</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
- <p class="updated_time"> 10:38 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 10:50 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 10:35 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/asia/china-taiwan-ukraine-military.html">As China Rattles Sabers, Taiwan Asks: Are We Ready for War?</a> NYT: Ukraine’s stubborn resistance to invasion, and the help that has poured in as a result, has both inspired Taiwan and made it rethink its own military strategy. 
@@ -59,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61785111?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia earns $97bn on energy exports since invasion</a> BBC: A report warns of potential loopholes in efforts to limit use of Russian oil and gas. 
  <p class="updated_time"> 09:54 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: The powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, has directed dozens of lawmakers loyal to him to resign. 
- <p class="updated_time"> 09:38 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 09:50 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 09:32 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html">Russian Control of Luhansk and Donbas Could Hinge on Sievierodonetsk</a> NYT: Russian-backed forces already control an estimated 80 to 90 percent of the Donbas, which is a prize for President Vladimir V. Putin. 
