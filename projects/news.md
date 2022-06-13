@@ -9,38 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104560863/queen-elizabeth-ii-is-the-second-longest-reigning-monarch-in-history">Queen Elizabeth II is the second-longest reigning monarch in history</a> NPR: Taking the crown on Feb. 6, 1952, the queen has ruled the United Kingdom for more than 70 years. Her tenure on the throne is second only to French King Louis XIV. 
+ <p class="updated_time"> 09:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found of missing Amazon pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
  <p class="updated_time"> 08:44 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
  <p class="updated_time"> 08:39 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html">Russian Control of Luhansk and Donbas Could Hinge on Sievierodonetsk</a> NYT: Russian-backed forces already control an estimated 80 to 90 percent of the Donbas, which is a prize for President Vladimir V. Putin. 
+ <p class="updated_time"> 08:27 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 08:15 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community members in the Javari Valley say they feel abandoned by Brazilian authorities. 
- <p class="updated_time"> 08:14 AM CT, Jun. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Two bodies found in search for missing pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
- <p class="updated_time"> 08:00 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 07:47 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61787056?at_medium=RSS&at_campaign=KARANGA">Four Siberian tiger cubs born in China</a> BBC: There are less than 1,000 siberian tigers living in the wild. 
  <p class="updated_time"> 07:42 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: Amid disagreements over who would be president, the powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, directed dozens of lawmakers loyal to him to resign. 
+ <p class="updated_time"> 07:27 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 07:17 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61781862?at_medium=RSS&at_campaign=KARANGA">Nigeria wedding party kidnapping: Zamfara escapee recounts shooting</a> BBC: A Nigerian couple put their wedding celebrations on hold after gunmen abduct at least 29 guests. 
- <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html">U.N. Human Rights Chief Decides Not to Seek a Second Term</a> NYT: The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China. 
+ <p class="updated_time"> 06:27 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
- <p class="updated_time"> 06:00 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
- <p class="updated_time"> 05:00 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:27 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
+ <p class="updated_time"> 04:27 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
- <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
+ <p class="updated_time"> 03:07 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61782616?at_medium=RSS&at_campaign=KARANGA">Manchester bombing survivor climbs to Mount Kilimanjaro summit</a> BBC: Martin Hibbert was paralysed from the waist down during a bomb attack at Manchester Arena in 2017. 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Houses of Muslims demolished in Uttar Pradesh after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
@@ -133,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
  <p class="updated_time"> 06:58 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61650362?at_medium=RSS&at_campaign=KARANGA">Gambia under Yahya Jammeh: Witch hunts, PTSD and veiled faces</a> BBC: Portraits of 11 Gambians which reveal the extent of the suffering and abuse under Yahya Jammeh. 
- <p class="updated_time"> 06:57 PM CT, Jun. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61755737?at_medium=RSS&at_campaign=KARANGA">Gujarat: How doctors saved a lion from going blind</a> BBC: A team of doctors performed cataract surgery on a lion in Gujarat state to save his vision. 
  <p class="updated_time"> 06:39 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61763912?at_medium=RSS&at_campaign=KARANGA">What a San Francisco vote says about the US left</a> BBC: The recall of San Francisco's top public prosecutor amid rising drug deaths exposes a rift on the left. 
  <p class="updated_time"> 06:37 PM CT, Jun. 11 </p> 
@@ -153,10 +155,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html">Protests Over Prophet Muhammad Comments Turn Deadly in India</a> NYT: Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia. 
  <p class="updated_time"> 01:49 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61772703?at_medium=RSS&at_campaign=KARANGA">March For Our Lives: Thousands join gun control rallies across the US</a> BBC: Protesters gather in the wake of last month's mass shooting at a primary school in Uvalde, Texas. 
+ <p class="updated_time"> 12:05 PM CT, Jun. 11 </p> 
+ <a href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html">Biden and Latin American Leaders Announce Migration Deal</a> NYT: President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States. 
  <p class="updated_time"> 12:01 PM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html">Rumbling Through Modern Jordan, a Railway From the Past</a> NYT: Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete. 
- <p class="updated_time"> 08:17 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368981/opposition-politician-valdimir-kara-murza-and-other-dissidents-detained-in-russi">Opposition politician Vladimir Kara-Murza and other dissidents detained in Russia</a> NPR: Scott Simon speaks to Evgenia Kara-Murza, wife of jailed Russian opposition politician Vladimir Kara-Murza, about her efforts to free him. 
  <p class="updated_time"> 05:00 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html">‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</a> NYT: A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives. 
  <p class="updated_time"> 04:38 AM CT, Jun. 11 </p> 
@@ -188,10 +190,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:18 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Jan. 6 Hearing Delayed After Key Witness Cancels In-Person Appearance.</a> NYT: Bill Stepien was expected to testify in person on what the president knew of election fraud, but will send a statement instead because his wife went into labor. 
  <p class="updated_time"> 08:54 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Two panels of witnesses will testify Monday, although the headliner witness, former Trump campaign manager Bill Stepien, will no longer appear "due to a family emergency." 
- <p class="updated_time"> 08:49 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief Pulls Out of Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien was expected to testify in person on what the president knew of election fraud, but will send a statement instead because his wife went into labor. 
  <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/wfp-to-drop-maloney-endorsement-and-back-biaggi-00039040">Working Families to drop Maloney endorsement and back Biaggi</a> Politico: The endorsement gives Biaggi access to arguably the state’s largest grassroots mobilization operation, which has repeatedly helped topple well-tenured incumbents. 
  <p class="updated_time"> 06:59 AM CT, Jun. 13 </p> 
@@ -255,13 +257,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:07 PM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/chris-jacobs-gun-reform-bipartisan-00039030">Retiring Rep. Chris Jacobs urges bipartisanship on gun reform</a> Politico: "Our parties are very polarized right now. And I don't think that's good for the parties. I don't think that's good for democracy," Jacobs said. 
  <p class="updated_time"> 11:58 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/palin-alaska-special-election.html">Palin Leads Special Election for House Seat in Alaska</a> NYT: The top four candidates will advance to an August vote to finish the term of Representative Don Young, who died in March. 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/palin-alaska-special-election.html">Sarah Palin Leads Primary Race for Alaska’s Special Election</a> NYT: The top four candidates will advance to an August vote to finish the term of Representative Don Young, who died in March. 
  <p class="updated_time"> 11:38 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/larry-summers-treasury-recession-inflation-tariffs-00039025">Former Treasury head urges tariff cuts, warns of recession</a> Politico: Larry Summers called the central bank’s forecast that inflation will cool “much too optimistic.” 
  <p class="updated_time"> 11:31 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104433332/gun-control-senate-deal">A bipartisan group of senators announces a deal for school safety and gun measures</a> NPR: The agreement, which has the support of at least 10 Republican senators, is narrowly focused at preventing future shootings similar to the one in Uvalde, Texas. 
- <p class="updated_time"> 10:11 AM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/raskin-trump-lost-2020-election-insurrection-00039016">Raskin: Trump ‘absolutely’ knew he lost 2020 election</a> Politico: The committee also has enough evidence to prove that multiple Republican members of Congress sought pardons following the Jan. 6 assault on the Capitol. 
  <p class="updated_time"> 10:06 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/12/a-guns-deal-looks-imminent-00039014"> A guns deal looks imminent</a> Politico Playbook: And Sarah Palin advances to an Alaska special general election for Congress. 
  <p class="updated_time"> 09:57 AM CT, Jun. 12 </p> 
@@ -272,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104418163/what-its-like-living-under-temporary-legal-status-for-a-decade">What it's like living under temporary legal status for a decade</a> NPR: Ayesha Rascoe talks with Reyna Montoya, a DACA recipient and community organizer from Arizona, about her experience living under temporary legal status for the past decade. 
  <p class="updated_time"> 07:31 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418156/janet-napolitano-first-administered-daca-as-homeland-security-secretary-10-years">Janet Napolitano first administered DACA as homeland security secretary 10 years ago</a> NPR: Ayesha Rascoe talks with former Department of Homeland Security Sec. Janet Napolitano about the upcoming 10th anniversary of DACA, Deferred Action for Childhood Arrivals. 
- <p class="updated_time"> 07:25 AM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/ukraine-zelenskyy-war-predictions-00039007">Ukraine’s leader says his troops keep defying predictions</a> Politico: “It’s already the 108th day of the war, already June. Donbas is holding on,"  Volodymyr Zelenskyy said. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418114/politics-chat-biden-struggles-with-inflation-jan-6-committee-hearings-continue">Politics chat: Biden struggles with inflation; Jan. 6 committee hearings continue</a> NPR: Inflation continues to challenge the Biden administration. Meanwhile, the select committee to investigate the Jan. 6 attack on the U.S. Capitol continues public hearings. 
  <p class="updated_time"> 07:03 AM CT, Jun. 12 </p> 
