@@ -9,39 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:19 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
+ <p class="updated_time"> 10:18 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found of missing Amazon pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
+ <p class="updated_time"> 10:03 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61782384?at_medium=RSS&at_campaign=KARANGA">Amber Heard speaks about social media 'hate and vitriol' of Johnny Depp trial</a> BBC: The actress gives her first interview since the verdict in her defamation trial against Johnny Depp. 
+ <p class="updated_time"> 10:02 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61785111?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia earns $97bn on energy exports since invasion</a> BBC: A report warns of potential loopholes in efforts to limit use of Russian oil and gas. 
  <p class="updated_time"> 09:54 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: The powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, has directed dozens of lawmakers loyal to him to resign. 
- <p class="updated_time"> 09:53 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
  <p class="updated_time"> 09:40 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html">Russia’s Oil Revenue Soars Despite Sanctions, Study Finds</a> NYT: Rising oil prices more than offset a decline in export volumes during the first 100 days of the assault on Ukraine. 
  <p class="updated_time"> 09:40 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html">Britain Moves Ahead With Plans to Scrap Trade Rules on Northern Ireland</a> NYT: The move by the government of Prime Minister Boris Johnson to scuttle the post-Brexit trade arrangement risks a clash with the European Union and upsetting the United States. 
  <p class="updated_time"> 09:32 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html">Russian Control of Luhansk and Donbas Could Hinge on Sievierodonetsk</a> NYT: Russian-backed forces already control an estimated 80 to 90 percent of the Donbas, which is a prize for President Vladimir V. Putin. 
+ <p class="updated_time"> 09:31 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 09:19 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104560863/queen-elizabeth-ii-is-the-second-longest-reigning-monarch-in-history">Queen Elizabeth II is the second-longest reigning monarch in history</a> NPR: Taking the crown on Feb. 6, 1952, the queen has ruled the United Kingdom for more than 70 years. Her tenure on the throne is second only to French King Louis XIV. 
- <p class="updated_time"> 09:00 AM CT, Jun. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found of missing Amazon pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
- <p class="updated_time"> 08:57 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
+ <p class="updated_time"> 08:31 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 08:15 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community members in the Javari Valley say they feel abandoned by Brazilian authorities. 
- <p class="updated_time"> 07:57 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 07:47 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61787056?at_medium=RSS&at_campaign=KARANGA">Four Siberian tiger cubs born in China</a> BBC: There are fewer than 1,000 Siberian tigers living in the wild. 
+ <p class="updated_time"> 07:31 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 07:17 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61781862?at_medium=RSS&at_campaign=KARANGA">Nigeria wedding party kidnapping: Zamfara escapee recounts shooting</a> BBC: A Nigerian couple put their wedding celebrations on hold after gunmen abduct at least 29 guests. 
  <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html">U.N. Human Rights Chief Decides Not to Seek a Second Term</a> NYT: The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China. 
- <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
+ <p class="updated_time"> 06:31 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
- <p class="updated_time"> 05:57 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
- <p class="updated_time"> 04:57 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:31 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
  <p class="updated_time"> 03:07 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61782616?at_medium=RSS&at_campaign=KARANGA">Manchester bombing survivor climbs to Mount Kilimanjaro summit</a> BBC: Martin Hibbert was paralysed from the waist down during a bomb attack at Manchester Arena in 2017. 
- <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Houses of Muslims demolished in Uttar Pradesh after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/business/economy/india-economy-jobs.html">India’s Economy Is Growing Quickly. Why Can’t It Produce Enough Jobs?</a> NYT: The disconnect is a result of India’s uneven growth, powered and enjoyed by the country’s upper strata. 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html">Newly United, French Left Hopes to Counter President in Upcoming Vote</a> NYT: Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda. 
  <p class="updated_time"> 10:23 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1103777253/activists-take-aim-at-the-buyers-of-looted-antiquities">These activists want buyers and dealers of stolen relics to face criminal charges</a> NPR: If activists have their way, not only the looters, but the buyers, of stolen cultural relics will face criminal repercussions. 
- <p class="updated_time"> 09:35 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61777304?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens of Covid cases linked to Beijing bar</a> BBC: Mass testing is taking place after more than 160 cases are linked to a bar in the capital. 
  <p class="updated_time"> 09:25 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
@@ -127,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Populist President Andrés Manuel López Obrador is seeking to reclaim state control over the oil-and-gas and electricity sectors. “It’s a closing off of Mexico.” 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
- <p class="updated_time"> 04:08 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-61752659?at_medium=RSS&at_campaign=KARANGA">Hajj-Muslim pilgrims face losing out from online booking to Mecca</a> BBC: The Saudi government wants Muslims to book online for Mecca but many have already paid tour agents. 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html">A Restored Painting Recalls the Colosseum’s Christian Past</a> NYT: The restoration of a wall painting depicting an idealized Jerusalem is a reminder that the Roman monument, known best for gladiatorial combat, was a sacred Christian space for centuries. 
  <p class="updated_time"> 03:28 AM CT, Jun. 12 </p> 
@@ -141,6 +139,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html">Traffic-Clogged North England Bitter Over Stalled Rail Plan</a> NYT: Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south. 
  <p class="updated_time"> 06:58 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61650362?at_medium=RSS&at_campaign=KARANGA">Gambia under Yahya Jammeh: Witch hunts, PTSD and veiled faces</a> BBC: Portraits of 11 Gambians which reveal the extent of the suffering and abuse under Yahya Jammeh. 
+ <p class="updated_time"> 06:57 PM CT, Jun. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61755737?at_medium=RSS&at_campaign=KARANGA">Gujarat: How doctors saved a lion from going blind</a> BBC: A team of doctors performed cataract surgery on a lion in Gujarat state to save his vision. 
  <p class="updated_time"> 06:39 PM CT, Jun. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61763912?at_medium=RSS&at_campaign=KARANGA">What a San Francisco vote says about the US left</a> BBC: The recall of San Francisco's top public prosecutor amid rising drug deaths exposes a rift on the left. 
  <p class="updated_time"> 06:37 PM CT, Jun. 11 </p> 
@@ -194,10 +194,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">The Jan. 6 panel delves into Trump’s election lies on Day 2 of hearings.</a> NYT: The former president’s campaign chief scrapped a planned appearance because of a family emergency, but the committee was to play video of his deposition instead. 
+ <p class="updated_time"> 10:13 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/business/media/chris-stirewalt-fox-news-trump.html">Chris Stirewalt Defended Calling the Election for Biden. Fox News Fired Him.</a> NYT: Mr. Stirewalt, a former politics editor at Fox News, is among those testifying on Monday. 
  <p class="updated_time"> 09:44 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/business/media/james-goldston-january-6-committee.html">James Goldston, Former TV News Chief, Helps the Jan. 6 Committee  </a> NYT: James Goldston was a longtime producer at ABC News and then its president for seven years. 
- <p class="updated_time"> 09:41 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Jan. 6 Hearing Delayed After Key Witness Cancels In-Person Appearance.</a> NYT: Bill Stepien was expected to testify in person on what the president knew of election fraud, but will send a statement instead because his wife went into labor. 
  <p class="updated_time"> 08:54 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Two panels of witnesses will testify Monday, although the headliner witness, former Trump campaign manager Bill Stepien, will no longer appear "due to a family emergency." 
  <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
@@ -235,9 +237,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/a-tale-of-two-lieutenant-governors-trying-to-expand-the-dem-majority-00038849">Senate Dems' best chances to expand majority may run through 2 unconventional lieutenant governors</a> Politico: John Fetterman and Mandela Barnes are both testing if battleground states will elect liberals to the Senate. That's not where the similarities between the two "tall and bald" men stop. 
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
- <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/state-supreme-courts-bottom-of-the-ballot-but-top-concern-if-roe-falls-00038934">State supreme courts: Bottom of the ballot but top concern if Roe falls</a> Politico: The possible end to federal abortion protections is spotlighting down-ballot races in the upcoming midterm elections. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/mace-rice-south-carolina-trump.html">Two Targets of Trump’s Ire Take Different Paths in South Carolina</a> NYT: Representative Nancy Mace, after criticizing the president for the Jan. 6 riot, has tried to focus on other issues. Representative Tom Rice, however, isn’t backing down. 
  <p class="updated_time"> 01:43 AM CT, Jun. 13 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104337089/march-for-our-lives-march-for-life-differences">March for Our Lives? March for Life? How to know the difference between the groups</a> NPR: Both groups can be seen in the spotlight as abortion and gun violence take hold of the national conversation. Though similar in name, each stands behind different political issues. 
  <p class="updated_time"> 09:49 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/11/fallout-on-the-right-over-the-jan-6-hearing-00038993"> Fallout on the right over the Jan. 6 hearing</a> Politico Playbook: And Dems wonder if Biden is the right one to lead the party. 
- <p class="updated_time"> 09:06 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
