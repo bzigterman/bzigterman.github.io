@@ -9,39 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: The powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, has directed dozens of lawmakers loyal to him to resign. 
+ <p class="updated_time"> 09:53 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
  <p class="updated_time"> 09:40 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html">Russia’s Oil Revenue Soars Despite Sanctions, Study Finds</a> NYT: Rising oil prices more than offset a decline in export volumes during the first 100 days of the assault on Ukraine. 
  <p class="updated_time"> 09:40 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html">Britain Moves Ahead With Plans to Scrap Trade Rules on Northern Ireland</a> NYT: The move by the government of Prime Minister Boris Johnson to scuttle the post-Brexit trade arrangement risks a clash with the European Union and upsetting the United States. 
- <p class="updated_time"> 09:32 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
  <p class="updated_time"> 09:32 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html">Russian Control of Luhansk and Donbas Could Hinge on Sievierodonetsk</a> NYT: Russian-backed forces already control an estimated 80 to 90 percent of the Donbas, which is a prize for President Vladimir V. Putin. 
  <p class="updated_time"> 09:19 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104560863/queen-elizabeth-ii-is-the-second-longest-reigning-monarch-in-history">Queen Elizabeth II is the second-longest reigning monarch in history</a> NPR: Taking the crown on Feb. 6, 1952, the queen has ruled the United Kingdom for more than 70 years. Her tenure on the throne is second only to French King Louis XIV. 
  <p class="updated_time"> 09:00 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found of missing Amazon pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
- <p class="updated_time"> 08:44 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 08:57 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 08:15 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community members in the Javari Valley say they feel abandoned by Brazilian authorities. 
+ <p class="updated_time"> 07:57 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 07:47 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61787056?at_medium=RSS&at_campaign=KARANGA">Four Siberian tiger cubs born in China</a> BBC: There are fewer than 1,000 Siberian tigers living in the wild. 
- <p class="updated_time"> 07:44 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
- <p class="updated_time"> 07:42 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: Amid disagreements over who would be president, the powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, directed dozens of lawmakers loyal to him to resign. 
  <p class="updated_time"> 07:17 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61781862?at_medium=RSS&at_campaign=KARANGA">Nigeria wedding party kidnapping: Zamfara escapee recounts shooting</a> BBC: A Nigerian couple put their wedding celebrations on hold after gunmen abduct at least 29 guests. 
  <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html">U.N. Human Rights Chief Decides Not to Seek a Second Term</a> NYT: The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China. 
- <p class="updated_time"> 06:44 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
- <p class="updated_time"> 05:44 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:57 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
- <p class="updated_time"> 04:44 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 04:57 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
@@ -194,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/business/media/james-goldston-january-6-committee.html">James Goldston, Former TV News Chief, Helps the Jan. 6 Committee  </a> NYT: James Goldston was a longtime producer at ABC News and then its president for seven years. 
  <p class="updated_time"> 09:41 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Jan. 6 Hearing Delayed After Key Witness Cancels In-Person Appearance.</a> NYT: Bill Stepien was expected to testify in person on what the president knew of election fraud, but will send a statement instead because his wife went into labor. 
  <p class="updated_time"> 08:54 AM CT, Jun. 13 </p> 
@@ -210,8 +212,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104529484/congress-may-take-action-on-gun-safety-legislation-after-decades-of-inaction">Congress may take action on gun safety legislation after decades of inaction</a> NPR: A bipartisan group of senators announced a gun safety deal on Sunday, the most substantial progress on the issue in decades. It had very narrow measures related to gun ownership to garner GOP support. 
  <p class="updated_time"> 06:10 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/jan-6-prosecute-trump.html">Jan. 6 Committee Appears to Lay Out Road Map for Prosecuting Trump</a> NYT: The first prime-time hearing into the Jan. 6 attack confronted the fundamental question that has haunted Donald J. Trump since he left office: Should he be prosecuted in a criminal court? 
- <p class="updated_time"> 06:10 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/13/business/media/james-goldston-january-6-committee.html">James Goldston, Former TV News Chief, Helps the Jan. 6 Committee  </a> NYT: James Goldston was a longtime producer at ABC News and then its president for seven years. 
  <p class="updated_time"> 05:18 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/06/13/trumps-election-lies-take-center-stage-on-capitol-hill-00039097"> Trump’s election lies take center stage on Capitol Hill</a> Politico Playbook: And more on the Senate's breabipartisan gun safety framework. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
@@ -251,7 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:26 PM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/john-allen-brookings-qatar-00039086">Brookings president resigns amid FBI foreign lobbying probe</a> Politico: Retired Gen. John Allen wrote in a letter to the think tank that he was leaving with a “heavy heart.” 
  <p class="updated_time"> 07:01 PM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/jan-6-committee-trump-election-00039064">Jan. 6  committee to detail the origins and reach of Trump’s election lies</a> Politico: Monday's hearing will emphasize the corrosive nature of Trump's baseless assertions over a period of months. 
+ <a href="https://www.politico.com/news/2022/06/12/jan-6-committee-trump-election-00039064">Jan. 6 committee to detail the origins and reach of Trump’s election lies</a> Politico: Monday's hearing will emphasize the corrosive nature of Trump's baseless assertions over a period of months. 
  <p class="updated_time"> 04:22 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/john-allen-brookings-resigns.html">John R. Allen Resigns as Brookings President After Qatar Revelations</a> NYT: Mr. Allen, a retired four-star general, had been on administrative leave amid a federal inquiry into whether he had secretly lobbied for the government of Qatar. 
  <p class="updated_time"> 12:43 PM CT, Jun. 12 </p> 
