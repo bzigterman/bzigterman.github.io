@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 02:58 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
+ <p class="updated_time"> 03:26 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 02:31 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">What Happened on Day 109 of the War in Ukraine</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 02:26 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
- <p class="updated_time"> 01:58 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61780861?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Australian paper offers apology but denies outing actress</a> BBC: Australian reporter apologises after he was accused of trying to "out" the actor last week. 
- <p class="updated_time"> 12:58 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
+ <p class="updated_time"> 01:26 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
+ <p class="updated_time"> 12:26 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 12:15 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104520239/opponents-of-the-u-k-s-rwanda-deportation-plan-head-to-court">Opponents of the U.K.'s Rwanda deportation plan head to court</a> NPR: The Monday hearing comes as reports emerge of Prince Charles being critical of the government's plan to deport migrants to Rwanda for processing asylum requests. 
- <p class="updated_time"> 11:58 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
  <p class="updated_time"> 11:50 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
- <p class="updated_time"> 10:58 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
+ <p class="updated_time"> 11:26 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
  <p class="updated_time"> 10:04 PM CT, Jun. 12 </p> 
@@ -60,11 +62,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:39 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
  <p class="updated_time"> 04:28 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html">Pro-Macron Forces Expected to Prevail but Face Left-Wing Challenge</a> NYT: The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections. 
+ <a href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html">French Elections: Pro-Macron Forces Expected to Prevail After First Round</a> NYT: The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections. 
  <p class="updated_time"> 04:10 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
  <p class="updated_time"> 04:08 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61778433?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evidence shows widespread use of cluster munitions in Kharkiv</a> BBC: Russia has killed hundreds of civilians in Kharkiv with indiscriminate weapons, according to a new report. 
+ <p class="updated_time"> 03:54 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: An armed fisherman has been arrested as authorities search for British journalist Dom Phillips and indigenous expert Bruno Pereira, missing for a week in the rainforest. 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
@@ -95,6 +99,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
+ <p class="updated_time"> 06:16 AM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Populist President Andrés Manuel López Obrador is seeking to reclaim state control over the oil-and-gas and electricity sectors. “It’s a closing off of Mexico.” 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
  <p class="updated_time"> 04:08 AM CT, Jun. 12 </p> 
@@ -107,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61773358?at_medium=RSS&at_campaign=KARANGA">US white supremacists arrested at Idaho gay pride event - police</a> BBC: More than two dozen members of the Patriot Front group were charged with conspiracy to riot. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html">What to Know About France’s Parliamentary Elections</a> NYT: President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him. 
- <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/pandemic-war-in-ukraine-create-new-challenges-for-struggling-wto-11655031600">Pandemic, War in Ukraine Create Fresh Challenges for Struggling WTO</a> WSJ: Caught up in the U.S.-China rivalry and policy feuds between developed and developing nations, the World Trade Organization hasn’t delivered a new agreement since 2013. 
  <p class="updated_time"> 01:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104411832/ukraine-shaun-pinner-british-fighter-donetsk">A UK man got a death sentence for fighting for Ukraine. His family wants his release</a> NPR: A court in the separatist-proclaimed Donetsk People's Republic of Ukraine convicted Shaun Pinner of seeking the violent overthrow of power. 
  <p class="updated_time"> 08:51 PM CT, Jun. 11 </p> 
@@ -182,6 +186,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104529519/the-white-house-is-considering-a-presidential-visit-to-saudi-arabia">The White House is considering a presidential visit to Saudi Arabia</a> NPR: Despite its concerns over human rights, the Biden administration is changing its stance toward Saudi Arabia in a bid to lower global oil prices and tame gas costs at the pump. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Five witnesses will testify Monday, including Bill Stepien, former President Donald Trump's campaign manager, and Ben Ginsberg, a GOP election lawyer and outspoken critic of Trump's election lies. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104240744/texas-moms-demand-action-new-supporters-after-uvalde">In Texas, Moms Demand Action got more than 20,000 new supporters after Uvalde</a> NPR: "My own historically Republican mother told me she looked up her senators and called them for the first time in her life," Liz Hanks, who leads the Texas chapter of Moms Demand Action, told NPR. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104174571/florida-secretary-of-state-cord-byrd-desantis">Critics worry Florida's new elections chief will make the office more partisan</a> NPR: Cord Byrd, who was tapped by Gov. Ron DeSantis, has refused to say Joe Biden won the 2020 presidential election and will be in charge of Florida's new election crimes unit. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/climate/capture-capture-storage-jennifer-wilcox.html">Can Carbon Capture Be Part of the Climate Solution?</a> NYT: Jennifer Wilcox, who has a leading role in the U.S. Department of Energy’s Office of Fossil Energy and Carbon Management, says yes, though there are significant challenges. 
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
@@ -198,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/12/john-allen-brookings-qatar-00039086">Brookings president resigns amid FBI foreign lobbying probe</a> Politico: Retired Gen. John Allen wrote in a letter to the think tank that he was leaving with a “heavy heart.” 
  <p class="updated_time"> 07:01 PM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/jan-6-committee-trump-election-00039064">Jan. 6  committee to detail the origins and reach of Trump’s election lies</a> Politico: Monday's hearing will emphasize the corrosive nature of Trump's baseless assertions over a period of months. 
- <p class="updated_time"> 06:26 PM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
  <p class="updated_time"> 04:22 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/john-allen-brookings-resigns.html">John R. Allen Resigns as Brookings President After Qatar Revelations</a> NYT: Mr. Allen, a retired four-star general, had been on administrative leave amid a federal inquiry into whether he had secretly lobbied for the government of Qatar. 
  <p class="updated_time"> 12:43 PM CT, Jun. 12 </p> 
@@ -266,10 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368967/major-broadcasters-aired-the-jan-6-committee-hearings-live-fox-news-did-not">Major broadcasters aired the Jan. 6 committee hearings live. Fox News did not</a> NPR: We look at how Fox News covered the first of the Jan. 6 committee hearings, which it did not air live. The network chose to air it on its business channel, the Fox Business Network, instead. 
  <p class="updated_time"> 08:06 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368960/jan-6-committee-chair-rep-bennie-thompson-discusses-upcoming-hearings">Jan. 6 committee chair Rep. Bennie Thompson discusses upcoming hearings</a> NPR: Scott Simon talks with Rep. Bennie Thompson about the Jan. 6 hearings. The Mississippi Democrat chairs the committee investigating the attack on the Capitol. 
- <p class="updated_time"> 07:24 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368925/biden-aimed-to-band-with-south-america-but-some-countries-were-left-out-of-the-s">Biden aimed to band with South America but some countries were left out of the summit</a> NPR: President Biden wanted to reset the U.S. relationship with its closest neighbors at a splashy meeting in Los Angeles. But there was one bump after another at the Summit of the Americas. 
- <p class="updated_time"> 07:05 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368911/week-in-politics-jan-6-committee-lays-out-a-clear-case-against-trump">Week in politics: Jan. 6 committee lays out a clear case against Trump</a> NPR: The committee investigating the January 6th attack debuts in prime time with damning testimony; the House passes gun legislation; a threat against Supreme Court Justice Brett Kavanaugh. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
@@ -278,12 +288,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
- <p class="updated_time"> 04:00 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1103982837/federal-firefighters-waiting-for-pay-raises-they-hope-will-help-fill-their-ranks">Federal firefighters are waiting for pay raises they hope will help fill their ranks</a> NPR: While they face longer and hotter wildfire seasons, federal firefighters are also battling staffing shortages in six of the nine regions across the country. 
  <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/moderna-vaccine-children-fda.html">Moderna’s Covid Vaccine Is Effective in Children Under 6, F.D.A. Says</a> NYT: Outside experts will meet next week to decide whether to recommend that the agency authorize the vaccine for kids 6 months and older. 
- <p class="updated_time"> 02:14 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/politics/ocasio-cortez-maloney-new-york-primary.html">Ocasio-Cortez Turns a New York Brawl Into a National Democratic Proxy Battle</a> NYT: By endorsing her colleague’s primary challenger, Representative Alexandria Ocasio-Cortez has escalated a skirmish rippling beyond New York. 
  <p class="updated_time"> 10:32 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/trump-endorses-britt-in-alabama-republican-senate-race-00038991">Trump endorses Britt in Alabama Republican Senate race</a> Politico: The former president continued to walk back his past public statements about the former Senate aide. 
  <p class="updated_time"> 10:19 PM CT, Jun. 10 </p> 
@@ -296,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/us/politics/media-democracy.html">How Journalists Wrestle With Covering Threats to Democracy</a> NYT: A new report challenges news outlets to provide richer, more urgent coverage of the rise of authoritarian movements in the United States and abroad. 
  <p class="updated_time"> 06:01 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/gitmo-iraqi-prisoner.html">Iraqi at Guantánamo Bay to Plead Guilty in Afghan War Crimes Case</a> NYT: Abd al-Hadi al-Iraqi, who is accused of leading forces that killed U.S. and allied troops, is disabled. A resolution of his case would involve finding a country to take him into custody. 
- <p class="updated_time"> 04:26 PM CT, Jun. 10 </p> 
- <a href="https://www.npr.org/2022/06/10/1104135895/in-philadelphia-liberals-gather-to-experience-the-first-jan-6-hearing-together">In Philadelphia, liberals gather to experience the first Jan. 6 hearing together</a> NPR: In a northwest Philadelphia church, more than 40 people gathered to watch the hearings, calling for a moment of collective action. 
  <p class="updated_time"> 01:57 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/illinois-man-allegedly-attempted-to-firebomb-chinese-embassy-00038875">Illinois man allegedly attempted to firebomb Chinese embassy</a> Politico: About a week before, Benjamin J. Grabinski had warned officers that he would attempt to firebomb the Chinese embassy. 
  <p class="updated_time"> 09:26 AM CT, Jun. 10 </p> 
