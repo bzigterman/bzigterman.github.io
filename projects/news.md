@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:50 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
- <p class="updated_time"> 05:12 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
+ <p class="updated_time"> 06:01 AM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community in the Javari Valley say they feel abandoned by Brazilian authorities. 
+ <p class="updated_time"> 05:52 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
- <p class="updated_time"> 04:12 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 04:52 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
+ <p class="updated_time"> 03:52 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 03:12 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
+ <p class="updated_time"> 02:52 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
- <p class="updated_time"> 02:12 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
+ <p class="updated_time"> 01:52 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61780861?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Australian paper offers apology but denies outing actress</a> BBC: Australian reporter apologises after he was accused of trying to "out" the actor last week. 
- <p class="updated_time"> 01:12 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 12:15 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104520239/opponents-of-the-u-k-s-rwanda-deportation-plan-head-to-court">Opponents of the U.K.'s Rwanda deportation plan head to court</a> NPR: The Monday hearing comes as reports emerge of Prince Charles being critical of the government's plan to deport migrants to Rwanda for processing asylum requests. 
- <p class="updated_time"> 11:50 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
  <p class="updated_time"> 10:39 PM CT, Jun. 12 </p> 
@@ -161,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
  <p class="updated_time"> 06:11 PM CT, Jun. 10 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61748732?at_medium=RSS&at_campaign=KARANGA">Ms: The first magazine owned, run, and written by women</a> BBC: Ms Magazine covered issues such as equal rights, abortion and domestic violence in a way that no other magazine had before. 
- <p class="updated_time"> 06:02 PM CT, Jun. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61755730?at_medium=RSS&at_campaign=KARANGA">India water: Hundreds jostle to reach well</a> BBC: People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water. 
  <p class="updated_time"> 04:18 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html">Behind Enemy Lines, Scouts Help Ukrainians Execute Deadly Strikes</a> NYT: A nascent insurgency made up of civilians or former soldiers provided information that aided Ukraine’s attack on two Russian bases, according to a senior Ukrainian military official. 
  <p class="updated_time"> 02:51 PM CT, Jun. 10 </p> 
@@ -180,6 +180,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:41 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/06/13/pen-to-paper-senators-ready-gun-violence-proposal-00039101">Pen to paper: Senators ready gun violence proposal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:18 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief, Bill Stepien, to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
+ <p class="updated_time"> 06:13 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104529491/this-bipartisan-gun-safety-proposal-can-save-lives-sen-blumenthal-says">This bipartisan gun safety proposal can save lives, Sen. Blumenthal says</a> NPR: A bipartisan group of senators has reached a deal on new gun control measures. NPR's Rachel Martin speaks with Sen. Richard Blumenthal of Connecticut, a Democrat involved in the negotiations. 
+ <p class="updated_time"> 06:13 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104529484/congress-may-take-action-on-gun-safety-legislation-after-decades-of-inaction">Congress may take action on gun safety legislation after decades of inaction</a> NPR: A bipartisan group of senators announced a gun safety deal on Sunday, the most substantial progress on the issue in decades. It had very narrow measures related to gun ownership to garner GOP support. 
  <p class="updated_time"> 06:10 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/11/us/politics/jan-6-prosecute-trump.html">Jan. 6 Committee Appears to Lay Out Road Map for Prosecuting Trump</a> NYT: The first prime-time hearing into the Jan. 6 attack confronted the fundamental question that has haunted Donald J. Trump since he left office: Should he be prosecuted in a criminal court? 
  <p class="updated_time"> 06:10 AM CT, Jun. 13 </p> 
@@ -194,8 +202,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Five witnesses will testify Monday, including Bill Stepien, former President Donald Trump's campaign manager, and Ben Ginsberg, a GOP election lawyer and outspoken critic of Trump's election lies. 
  <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104240744/texas-moms-demand-action-new-supporters-after-uvalde">In Texas, Moms Demand Action got more than 20,000 new supporters after Uvalde</a> NPR: "My own historically Republican mother told me she looked up her senators and called them for the first time in her life," Liz Hanks, who leads the Texas chapter of Moms Demand Action, told NPR. 
- <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief, Bill Stepien, to Headline Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien is expected to appear alongside a fired Fox News editor who called Trump’s loss and a former U.S. attorney who resigned rather than go along with false claims of election fraud. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104174571/florida-secretary-of-state-cord-byrd-desantis">Critics worry Florida's new elections chief will make the office more partisan</a> NPR: Cord Byrd, who was tapped by Gov. Ron DeSantis, has refused to say Joe Biden won the 2020 presidential election and will be in charge of Florida's new election crimes unit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
@@ -282,10 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
  <p class="updated_time"> 08:43 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104369002/biden-to-be-briefed-on-wildfires-in-new-mexico">Biden to be briefed on wildfires in New Mexico</a> NPR: President Biden visits New Mexico today to get a briefing on wildfires. The governor and many locals are upset that the largest was started by prescribed burns the U.S. Forest Service let escape. 
- <p class="updated_time"> 08:10 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368974/march-for-our-lives-rallies-across-the-u-s-call-for-gun-control">March For Our Lives rallies across the U.S. call for gun control</a> NPR: 'March for Our Lives' rallies happen in Washington and other cities this weekend, focusing on the people and the communities affected by gun violence, and calling for political action. 
- <p class="updated_time"> 08:09 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368967/major-broadcasters-aired-the-jan-6-committee-hearings-live-fox-news-did-not">Major broadcasters aired the Jan. 6 committee hearings live. Fox News did not</a> NPR: We look at how Fox News covered the first of the Jan. 6 committee hearings, which it did not air live. The network chose to air it on its business channel, the Fox Business Network, instead. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
