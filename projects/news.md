@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:13 PM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</a> NYT: Ukraine said its troops have lost more ground in the east, and is turning up the pressure on the West to do more to help. 
+ <p class="updated_time"> 06:34 PM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</a> NYT: Ukraine said its troops have lost more ground in the east, and is being more vocal about needing the West to do more to help. 
  <p class="updated_time"> 05:47 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality', says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
  <p class="updated_time"> 05:42 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-weapons-europe-peace.html">On Russia, Europe Weighs Competing Goals: Peace and Punishment</a> NYT: Arming Ukraine is not turning the tide. Is the answer vastly more weapons, as Ukraine says, or a bitter truce? 
- <p class="updated_time"> 05:21 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:37 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 05:14 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61792730?at_medium=RSS&at_campaign=KARANGA">Toronto van attacker sentenced to life in prison</a> BBC: The man killed eight women and two men after ploughing a van down a busy Toronto pavement. 
  <p class="updated_time"> 05:11 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html">Netanyahu vs. Olmert: A Lurid Libel Case Grips Israel</a> NYT: A sensational legal drama between the two ex-prime ministers, centered on a claim of mental illness, comes as Israel’s year-old government teeters and one of the former leaders eyes a comeback. 
+ <p class="updated_time"> 04:37 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:21 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61792660?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… The Rwanda asylum seekers plan</a> BBC: Ros Atkins looks at the government’s controversial plan to fly some illegal arrivals to Rwanda. 
- <p class="updated_time"> 04:21 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:14 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61786949?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Every bridge leading to key city Severodonetsk destroyed</a> BBC: Severodonetsk is now effectively cut off from the rest of the country, the local governor says. 
  <p class="updated_time"> 04:02 PM CT, Jun. 13 </p> 
@@ -35,24 +35,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104683130/canada-can-change-its-gun-laws-but-cant-stop-the-smuggling-of-guns-from-the-u-s">Canada can change its gun laws, but can't stop the smuggling of guns from the U.S.</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
  <p class="updated_time"> 03:44 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104683125/an-attack-in-china-raises-questions-on-its-governments-protection-of-womens-righ">An attack in China raises questions on its government's protection of women's rights</a> NPR: A video of an attack on a group of women at a restaurant in China has touched a raw nerve in a country where many feel women's rights aren't always protected. 
+ <p class="updated_time"> 03:37 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 03:29 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html">Bakery in Kyiv Honors Boris Johnson With a Croissant</a> NYT: A croissant is the latest homage in Ukraine to the British prime minister, who has also had a road named after him in a town near Odesa. 
- <p class="updated_time"> 03:21 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
- <p class="updated_time"> 02:21 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 02:37 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 02:07 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html">Britain Plans to Fly Refugees to Rwanda on Tuesday</a> NYT: A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England. 
  <p class="updated_time"> 01:58 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html">The Health Effects of Extreme Heat</a> NYT: Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse. 
+ <p class="updated_time"> 01:37 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786948?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous groups burn tyres and block roads over fuel prices</a> BBC: Demonstrators burn tyres and block roads over conservative government's 'policies of death'. 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html">French Elections: Pro-Macron Forces Expected to Prevail After First Round</a> NYT: The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections. 
  <p class="updated_time"> 01:34 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-poison-iranian-scientists.html">Iran Suspects Israel Poisoned Two  Scientists to Death</a> NYT: If Iran’s suspicions about the deaths are confirmed, these would be the latest killings in a shadow war that is reaching new intensity as Iran moves closer to nuclear weapons capability. 
- <p class="updated_time"> 01:21 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 01:19 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html">Britain Moves Ahead With Plans to Scrap Trade Rules on Northern Ireland</a> NYT: The action by the government of Prime Minister Boris Johnson to scuttle the post-Brexit trade arrangement risks a clash with the European Union and upsetting the United States. 
  <p class="updated_time"> 01:19 PM CT, Jun. 13 </p> 
@@ -189,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html">Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </a> NYT: More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died. 
  <p class="updated_time"> 09:29 PM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html">Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</a> NYT: The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents. 
- <p class="updated_time"> 06:32 PM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html">U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</a> NYT: A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed. 
 
 
 </details>
@@ -198,8 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:29 PM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104825880/conflict-flared-at-fox-news-after-bidens-victory-in-2020-former-fox-editor-says">Conflict flared at Fox News after Biden's victory in 2020, former Fox editor says</a> NPR: A former Fox News political editor explains how the channel called Arizona for Biden during the 2020 election, and how that enraged former President Trump and controversy erupted within Fox. 
  <p class="updated_time"> 06:00 PM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/2022/06/13/us/politics/nevada-republicans-november-elections.html">Republicans Rising in Nevada After Pandemic Dealt Economic Blow</a> NYT: No state was walloped harder by the economic impact of the pandemic, and voters may take out their anger on Democrats. 
+ <a href="https://www.nytimes.com/2022/06/13/us/politics/nevada-republicans-november-elections.html">Will Nevada Turn Red in the November Midterms? </a> NYT: No state was walloped harder by the economic impact of the pandemic, and voters may take out their anger on Democrats. 
  <p class="updated_time"> 05:57 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/kenneth-dam-dead.html">Kenneth Dam, Deputy in Reagan and George W. Bush Cabinets, Dies at 89</a> NYT: He served under George Shultz at the State Department as the Soviet Union began crumbling and later, at Treasury, led a crackdown on funding for terrorism after 9/11. 
  <p class="updated_time"> 05:53 PM CT, Jun. 13 </p> 
@@ -262,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104599911/the-2nd-hearing-from-the-jan-6-committee-will-focus-on-trumps-election-lies">The 2nd hearing from the Jan. 6 committee will focus on Trump's election lies </a> NPR: The House Jan. 6 committee is holding its second hearing after a brief delay this morning when a key witness pulled out of his appearance. 
  <p class="updated_time"> 10:09 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/congress-biden-trade-agenda-00038951">Bipartisan resentment grows as Biden pursues new trade talks</a> Politico: Democrats and Republicans alike complain the Biden administration has been pursuing economic initiatives overseas without properly consulting lawmakers. 
- <p class="updated_time"> 08:54 AM CT, Jun. 13 </p> 
- <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Two panels of witnesses will testify Monday, although the headliner witness, former Trump campaign manager Bill Stepien, will no longer appear "due to a family emergency." 
  <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/wfp-to-drop-maloney-endorsement-and-back-biaggi-00039040">Working Families to drop Maloney endorsement and back Biaggi</a> Politico: The endorsement gives Biaggi access to arguably the state’s largest grassroots mobilization operation, which has repeatedly helped topple well-tenured incumbents. 
  <p class="updated_time"> 06:59 AM CT, Jun. 13 </p> 
