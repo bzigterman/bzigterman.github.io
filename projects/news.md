@@ -9,19 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:34 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:46 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</a> NYT: Ukraine said its troops have lost more ground in the east, and is being more vocal about needing the West to do more to help. 
+ <p class="updated_time"> 06:35 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61790085?at_medium=RSS&at_campaign=KARANGA">Amazon to begin drone deliveries in Lockeford, California this year</a> BBC: The shopping giant hopes to deliver parcels to shoppers by air for the first time later in 2022. 
+ <p class="updated_time"> 06:32 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61550100?at_medium=RSS&at_campaign=KARANGA">Sudan alarm at return of Bashir loyalists and the NCP</a> BBC: Authoritarian leader Omar al-Bashir was ousted three years ago but are his allies returning to power? 
+ <p class="updated_time"> 06:30 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61788420?at_medium=RSS&at_campaign=KARANGA">Writing a book in a day to get more kids reading</a> BBC: South African charity Book Dash is creating children's books in super-fast time. 
+ <p class="updated_time"> 05:48 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 05:47 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality', says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
  <p class="updated_time"> 05:42 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-weapons-europe-peace.html">On Russia, Europe Weighs Competing Goals: Peace and Punishment</a> NYT: Arming Ukraine is not turning the tide. Is the answer vastly more weapons, as Ukraine says, or a bitter truce? 
- <p class="updated_time"> 05:37 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 05:14 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61792730?at_medium=RSS&at_campaign=KARANGA">Toronto van attacker sentenced to life in prison</a> BBC: The man killed eight women and two men after ploughing a van down a busy Toronto pavement. 
  <p class="updated_time"> 05:11 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html">Netanyahu vs. Olmert: A Lurid Libel Case Grips Israel</a> NYT: A sensational legal drama between the two ex-prime ministers, centered on a claim of mental illness, comes as Israel’s year-old government teeters and one of the former leaders eyes a comeback. 
- <p class="updated_time"> 04:37 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 04:48 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:21 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61792660?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… The Rwanda asylum seekers plan</a> BBC: Ros Atkins looks at the government’s controversial plan to fly some illegal arrivals to Rwanda. 
@@ -33,19 +39,19 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61785806?at_medium=RSS&at_campaign=KARANGA">Lysychansk: Russia erasing history in Ukraine's 'dead city'</a> BBC: The fabric of Lysychansk is being destroyed by intense Russian bombardment, writes Orla Guerin. 
  <p class="updated_time"> 03:52 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104683130/canada-can-change-its-gun-laws-but-cant-stop-the-smuggling-of-guns-from-the-u-s">Canada can change its gun laws, but can't stop the smuggling of guns from the U.S.</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
+ <p class="updated_time"> 03:48 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 03:44 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104683125/an-attack-in-china-raises-questions-on-its-governments-protection-of-womens-righ">An attack in China raises questions on its government's protection of women's rights</a> NPR: A video of an attack on a group of women at a restaurant in China has touched a raw nerve in a country where many feel women's rights aren't always protected. 
- <p class="updated_time"> 03:37 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 03:29 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html">Bakery in Kyiv Honors Boris Johnson With a Croissant</a> NYT: A croissant is the latest homage in Ukraine to the British prime minister, who has also had a road named after him in a town near Odesa. 
- <p class="updated_time"> 02:37 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 02:48 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 02:07 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html">Britain Plans to Fly Refugees to Rwanda on Tuesday</a> NYT: A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England. 
  <p class="updated_time"> 01:58 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html">The Health Effects of Extreme Heat</a> NYT: Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse. 
- <p class="updated_time"> 01:37 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 01:48 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786948?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous groups burn tyres and block roads over fuel prices</a> BBC: Demonstrators burn tyres and block roads over conservative government's 'policies of death'. 
@@ -121,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61722441?at_medium=RSS&at_campaign=KARANGA">'What I've learnt about Africa living in Marseilles'</a> BBC: Journalist Maher Mezahi says he has learned more about different African cultures in France than Algeria. 
  <p class="updated_time"> 06:06 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61742884?at_medium=RSS&at_campaign=KARANGA">Why you may have a thinking digital twin within a decade</a> BBC: Within 10 years people may be able to have a intelligent online version of themselves. 
- <p class="updated_time"> 06:04 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61764466?at_medium=RSS&at_campaign=KARANGA">Africa Eye: Racism for sale</a> BBC: Africa Eye investigates a Chinese video-making industry which exploits children across Africa. 
  <p class="updated_time"> 05:30 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html">Tough Questions for West as Ukraine Cities Teeter</a> NYT: Sievierodonetsk is nearly encircled. Lysychansk may be next. The momentum of the war has shifted, and Ukraine’s allies may soon start rethinking their goals. 
  <p class="updated_time"> 04:39 PM CT, Jun. 12 </p> 
@@ -153,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html">Poland Shows the Risks for Women When Abortion Is Banned</a> NYT: Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives. 
  <p class="updated_time"> 08:18 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418196/cats-are-getting-a-curfew-in-some-icelandic-towns">Cats are getting a curfew in some Icelandic towns</a> NPR: Ayesha Rascoe talks to journalist Egill Bjarnason about the ecological impacts of outdoor cats and the curfews some Icelandic towns have imposed on them. 
- <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
@@ -198,6 +200,10 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:29 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104825880/conflict-flared-at-fox-news-after-bidens-victory-in-2020-former-fox-editor-says">Conflict flared at Fox News after Biden's victory in 2020, former Fox editor says</a> NPR: A former Fox News political editor explains how the channel called Arizona for Biden during the 2020 election, and how that enraged former President Trump and controversy erupted within Fox. 
+ <p class="updated_time"> 06:25 PM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/military-transport-crew-made-right-decision-to-leave-kabul-airport-amid-chaotic-withdrawal-air-force-says-00039319">Transport crew made right decision to leave Kabul airport amid chaotic withdrawal, Air Force says</a> Politico: Human remains were discovered in the wheel well of the the C-17 military transport plane after it landed in Qatar. 
+ <p class="updated_time"> 06:10 PM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/wealthier-americans-inflation-stocks-00039157">Wealthier Americans feel inflation pinch as stocks tumble</a> Politico: The cratering of optimism across all income groups — even as the economy is churning out jobs and growing — is bleak news for Democrats as they head into the midterm elections. 
  <p class="updated_time"> 06:00 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/nevada-republicans-november-elections.html">Will Nevada Turn Red in the November Midterms? </a> NYT: No state was walloped harder by the economic impact of the pandemic, and voters may take out their anger on Democrats. 
  <p class="updated_time"> 05:57 PM CT, Jun. 13 </p> 
@@ -279,9 +285,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/trump-state-election-offices-00038956">Trump backers unbowed in push to overtake state election offices</a> Politico: Nevada Republican Jim Marchant is one of the leading candidates for secretary of state there this week. 
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
- <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/a-tale-of-two-lieutenant-governors-trying-to-expand-the-dem-majority-00038849">Senate Dems' best chances to expand majority may run through 2 unconventional lieutenant governors</a> Politico: John Fetterman and Mandela Barnes are both testing if battleground states will elect liberals to the Senate. That's not where the similarities between the two "tall and bald" men stop. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/mace-rice-south-carolina-trump.html">Two Targets of Trump’s Ire Take Different Paths in South Carolina</a> NYT: Representative Nancy Mace, after criticizing the president for the Jan. 6 riot, has tried to focus on other issues. Representative Tom Rice, however, isn’t backing down. 
  <p class="updated_time"> 01:43 AM CT, Jun. 13 </p> 
@@ -290,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/us/politics/senator-gun-safety-deal.html">Senators Reach Bipartisan Deal on Gun Safety</a> NYT: The agreement, which falls short of the sprawling changes championed by Democrats, is a significant step toward ending a yearslong impasse over gun reform legislation. 
  <p class="updated_time"> 09:52 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/pfizer-covid-vaccine-under-5.html">Pfizer Vaccine Effective in Children Under 5, the F.D.A. Says</a> NYT: Outside experts will make their recommendations this week on how the agency should rule on applications from Pfizer and Moderna to vaccinate the nation’s youngest children. 
- <p class="updated_time"> 09:51 PM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/patriot-front-arrests-idaho-pride-00039089">Patriot Front leader among those arrested near Idaho Pride</a> Politico: A tipster reported seeing people loading up into a U-Haul like “a little army” at a hotel parking lot in Coeur d’Alene, Idaho. 
  <p class="updated_time"> 04:22 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/john-allen-brookings-resigns.html">John R. Allen Resigns as Brookings President After Qatar Revelations</a> NYT: Mr. Allen, a retired four-star general, had been on administrative leave amid a federal inquiry into whether he had secretly lobbied for the government of Qatar. 
  <p class="updated_time"> 12:43 PM CT, Jun. 12 </p> 
