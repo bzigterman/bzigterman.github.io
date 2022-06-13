@@ -17,7 +17,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community members in the Javari Valley say they feel abandoned by Brazilian authorities. 
  <p class="updated_time"> 08:14 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Two bodies found in search for missing pair</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June. 
- <p class="updated_time"> 07:48 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 08:00 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 07:47 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61787056?at_medium=RSS&at_campaign=KARANGA">Four Siberian tiger cubs born in China</a> BBC: There are less than 1,000 siberian tigers living in the wild. 
@@ -25,19 +25,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html">Efforts to Form a New Government in Iraq Descend Into Chaos</a> NYT: Amid disagreements over who would be president, the powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, directed dozens of lawmakers loyal to him to resign. 
  <p class="updated_time"> 07:17 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61781862?at_medium=RSS&at_campaign=KARANGA">Nigeria wedding party kidnapping: Zamfara escapee recounts shooting</a> BBC: A Nigerian couple put their wedding celebrations on hold after gunmen abduct at least 29 guests. 
+ <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html">U.N. Human Rights Chief Decides Not to Seek a Second Term</a> NYT: The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China. 
- <p class="updated_time"> 06:48 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
- <p class="updated_time"> 05:48 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:00 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
- <p class="updated_time"> 04:48 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:00 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
- <p class="updated_time"> 03:48 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
@@ -188,7 +188,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:37 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 08:54 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Two panels of witnesses will testify Monday, although the headliner witness, former Trump campaign manager Bill Stepien, will no longer appear "due to a family emergency." 
+ <p class="updated_time"> 08:49 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/trump-bill-stepien-jan-6-hearing.html">Trump Campaign Chief Pulls Out of Jan. 6 Hearing on Election Lies</a> NYT: Bill Stepien was expected to testify in person on what the president knew of election fraud, but will send a statement instead because his wife went into labor. 
  <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/wfp-to-drop-maloney-endorsement-and-back-biaggi-00039040">Working Families to drop Maloney endorsement and back Biaggi</a> Politico: The endorsement gives Biaggi access to arguably the state’s largest grassroots mobilization operation, which has repeatedly helped topple well-tenured incumbents. 
@@ -212,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104529547/the-house-jan-6-panel-is-about-to-begin-its-2nd-committee-hearing">The House Jan. 6 panel will hear from more witnesses during 2nd hearing</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol will try to prove that Donald Trump knew he lost the election, but continued to press false claims about fraud anyway. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104529477/morning-news-brief">News brief: bipartisan gun deal, Jan. 6 hearing, Russia gains in eastern Ukraine</a> NPR: Senators reach a deal on measures to reduce gun violence. House Jan. 6 panel will hold its second hearing. Ukrainian officials warn the upcoming days could be crucial to a key city in eastern Ukraine. 
- <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
- <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Five witnesses will testify Monday, including Bill Stepien, former President Donald Trump's campaign manager, and Ben Ginsberg, a GOP election lawyer and outspoken critic of Trump's election lies. 
  <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104240744/texas-moms-demand-action-new-supporters-after-uvalde">In Texas, Moms Demand Action got more than 20,000 new supporters after Uvalde</a> NPR: "My own historically Republican mother told me she looked up her senators and called them for the first time in her life," Liz Hanks, who leads the Texas chapter of Moms Demand Action, told NPR. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
