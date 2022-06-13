@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:50 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 07:19 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
+ <p class="updated_time"> 06:57 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html">U.N. Human Rights Chief Decides Not to Seek a Second Term</a> NYT: The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China. 
  <p class="updated_time"> 06:24 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61785275?at_medium=RSS&at_campaign=KARANGA">Indian officials demolish houses of Muslims after protests</a> BBC: Authorities in Uttar Pradesh have demolished the houses of several Muslims they allege are linked to recent protests that turned violent. 
+ <p class="updated_time"> 06:23 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 06:01 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-61784001?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: 'A tragedy foretold'</a> BBC: Indigenous community in the Javari Valley say they feel abandoned by Brazilian authorities. 
- <p class="updated_time"> 05:52 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
- <p class="updated_time"> 04:52 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:23 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
+ <p class="updated_time"> 04:23 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
- <p class="updated_time"> 03:52 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 02:52 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:23 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
+ <p class="updated_time"> 02:23 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
- <p class="updated_time"> 01:52 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Without Cheap Russian Energy, Some European Factories Must Close 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
@@ -180,6 +182,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/wfp-to-drop-maloney-endorsement-and-back-biaggi-00039040">Working Families to drop Maloney endorsement and back Biaggi</a> Politico: The endorsement gives Biaggi access to arguably the state’s largest grassroots mobilization operation, which has repeatedly helped topple well-tenured incumbents. 
+ <p class="updated_time"> 06:59 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/fda-pfizer-moderna-vaccines-kids-safe-00039075">FDA: Pfizer, Moderna vaccines for kids under 6 are safe, effective</a> Politico: The FDA analyzed the vaccines' ability to induce neutralizing antibody responses in kids that were comparable to young adults, a concept known as immunobridging. Both met the agency's success criteria. 
  <p class="updated_time"> 06:41 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/13/pen-to-paper-senators-ready-gun-violence-proposal-00039101">Pen to paper: Senators ready gun violence proposal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Jun. 13 </p> 
@@ -196,6 +202,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/13/trumps-election-lies-take-center-stage-on-capitol-hill-00039097"> Trump’s election lies take center stage on Capitol Hill</a> Politico Playbook: And more on the Senate's breabipartisan gun safety framework. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104529519/the-white-house-is-considering-a-presidential-visit-to-saudi-arabia">The White House is considering a presidential visit to Saudi Arabia</a> NPR: Despite its concerns over human rights, the Biden administration is changing its stance toward Saudi Arabia in a bid to lower global oil prices and tame gas costs at the pump. 
+ <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104529547/the-house-jan-6-panel-is-about-to-begin-its-2nd-committee-hearing">The House Jan. 6 panel will hear from more witnesses during 2nd hearing</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol will try to prove that Donald Trump knew he lost the election, but continued to press false claims about fraud anyway. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104529477/morning-news-brief">News brief: bipartisan gun deal, Jan. 6 hearing, Russia gains in eastern Ukraine</a> NPR: Senators reach a deal on measures to reduce gun violence. House Jan. 6 panel will hold its second hearing. Ukrainian officials warn the upcoming days could be crucial to a key city in eastern Ukraine. 
  <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
@@ -266,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1103956855/trump-gop-endorsement-success-kemp-oz-vance">Republican primaries show that Trump voters don't always follow his endorsements</a> NPR: Republican voters — even those who maintain Donald Trump was a great president — are not marching in lockstep with him. Many are instead bucking his preferred GOP candidates. 
  <p class="updated_time"> 06:00 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/how-scotus-upcoming-climate-ruling-could-defang-washington-00038595">How SCOTUS’ upcoming climate ruling could defang Washington</a> Politico: A legal fight over the EPA’s power to restrict greenhouse gases offers conservative justices an opportunity to tie the executive branch's  hands on a host of issues — from Covid to net neutrality. 
- <p class="updated_time"> 05:51 AM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/palin-alaska-special-house-election-00039001">Palin nabs early lead in Alaska U.S. House special primary</a> Politico: Dozens of candidates are running to replace the late Don Young. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/us/politics/guantanamo-bay-photos.html">A Trove of Guantánamo Photos</a> NYT: A Times reporter who covers Guantánamo Bay tracked down military photographs of the early days of the U.S. detention center there. 
  <p class="updated_time"> 04:55 PM CT, Jun. 11 </p> 
@@ -286,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/06/11/fallout-on-the-right-over-the-jan-6-hearing-00038993"> Fallout on the right over the Jan. 6 hearing</a> Politico Playbook: And Dems wonder if Biden is the right one to lead the party. 
  <p class="updated_time"> 09:06 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/politics/nancy-clark-reynolds-dead.html">Nancy Clark Reynolds, a Player in Reagan’s Washington, Dies at 94</a> NYT: A renowned political insider, she parlayed her connections to become one of the city’s most sought-after lobbyists in the 1980s. 
- <p class="updated_time"> 08:43 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104369002/biden-to-be-briefed-on-wildfires-in-new-mexico">Biden to be briefed on wildfires in New Mexico</a> NPR: President Biden visits New Mexico today to get a briefing on wildfires. The governor and many locals are upset that the largest was started by prescribed burns the U.S. Forest Service let escape. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
@@ -310,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/illinois-man-allegedly-attempted-to-firebomb-chinese-embassy-00038875">Illinois man allegedly attempted to firebomb Chinese embassy</a> Politico: About a week before, Benjamin J. Grabinski had warned officers that he would attempt to firebomb the Chinese embassy. 
  <p class="updated_time"> 09:26 AM CT, Jun. 10 </p> 
  <a href="https://www.cnn.com/2022/06/09/politics/jan-6-hearing-takeaways-thursday/index.html">Takeaways from the prime-time January 6 committee hearing</a> CNN: The House's select committee investigating the January 6, 2021 US Capitol attack held its first hearing Thursday evening, detailing the findings of the panel's investigation and playing new video from closed-door depositions of members of former President Donald Trump's team and depicting the violence at the Capitol on January 6. 
- <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
