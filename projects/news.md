@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:43 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">What Happened on Day 109 of the War in Ukraine</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 05:16 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
+ <p class="updated_time"> 04:19 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
- <p class="updated_time"> 03:54 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 02:54 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:19 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
+ <p class="updated_time"> 02:19 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
- <p class="updated_time"> 01:54 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61780861?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Australian paper offers apology but denies outing actress</a> BBC: Australian reporter apologises after he was accused of trying to "out" the actor last week. 
- <p class="updated_time"> 12:54 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
+ <p class="updated_time"> 01:19 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
+ <p class="updated_time"> 12:35 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Industrial energy costs are soaring in the wake of Russia’s war on Ukraine, hobbling European manufacturers’ ability to compete in the global marketplace. 
  <p class="updated_time"> 12:15 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104520239/opponents-of-the-u-k-s-rwanda-deportation-plan-head-to-court">Opponents of the U.K.'s Rwanda deportation plan head to court</a> NPR: The Monday hearing comes as reports emerge of Prince Charles being critical of the government's plan to deport migrants to Rwanda for processing asylum requests. 
- <p class="updated_time"> 11:54 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 11:50 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
+ <p class="updated_time"> 10:39 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron's Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Results of the first round of parliamentary elections showed that Emmanuel Macron’s forces and the coalition led by far-left firebrand Jean-Luc Mélenchon each garnered around 25% of the nationwide vote. 
  <p class="updated_time"> 10:04 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
  <p class="updated_time"> 08:58 PM CT, Jun. 12 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
  <p class="updated_time"> 04:08 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61778433?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evidence shows widespread use of cluster munitions in Kharkiv</a> BBC: Russia has killed hundreds of civilians in Kharkiv with indiscriminate weapons, according to a new report. 
- <p class="updated_time"> 03:54 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: An armed fisherman has been arrested as authorities search for British journalist Dom Phillips and indigenous expert Bruno Pereira, missing for a week in the rainforest. 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
@@ -173,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html">Pope Francis Postpones Trip to Africa, Citing Knee Problems</a> NYT: The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down. 
  <p class="updated_time"> 11:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html">Royal Shipwreck From 1682 Is Found Off the Coast of England</a> NYT: The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week. 
- <p class="updated_time"> 08:57 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
 
@@ -184,8 +182,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:18 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/13/trumps-election-lies-take-center-stage-on-capitol-hill-00039097">Trump’s election lies take center stage on Capitol Hill</a> Politico Playbook: And more on the Senate's breabipartisan gun safety framework. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104529519/the-white-house-is-considering-a-presidential-visit-to-saudi-arabia">The White House is considering a presidential visit to Saudi Arabia</a> NPR: Despite its concerns over human rights, the Biden administration is changing its stance toward Saudi Arabia in a bid to lower global oil prices and tame gas costs at the pump. 
+ <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
+ <a href="https://www.npr.org/2022/06/13/1104529477/morning-news-brief">News brief: bipartisan gun deal, Jan. 6 hearing, Russia gains in eastern Ukraine</a> NPR: Senators reach a deal on measures to reduce gun violence. House Jan. 6 panel will hold its second hearing. Ukrainian officials warn the upcoming days could be crucial to a key city in eastern Ukraine. 
  <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104510022/jan-6-committee-hearing">What to expect from the second Jan. 6 committee hearing</a> NPR: Five witnesses will testify Monday, including Bill Stepien, former President Donald Trump's campaign manager, and Ben Ginsberg, a GOP election lawyer and outspoken critic of Trump's election lies. 
  <p class="updated_time"> 04:01 AM CT, Jun. 13 </p> 
@@ -282,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/11/1104368974/march-for-our-lives-rallies-across-the-u-s-call-for-gun-control">March For Our Lives rallies across the U.S. call for gun control</a> NPR: 'March for Our Lives' rallies happen in Washington and other cities this weekend, focusing on the people and the communities affected by gun violence, and calling for political action. 
  <p class="updated_time"> 08:09 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368967/major-broadcasters-aired-the-jan-6-committee-hearings-live-fox-news-did-not">Major broadcasters aired the Jan. 6 committee hearings live. Fox News did not</a> NPR: We look at how Fox News covered the first of the Jan. 6 committee hearings, which it did not air live. The network chose to air it on its business channel, the Fox Business Network, instead. 
- <p class="updated_time"> 08:06 AM CT, Jun. 11 </p> 
- <a href="https://www.npr.org/2022/06/11/1104368960/jan-6-committee-chair-rep-bennie-thompson-discusses-upcoming-hearings">Jan. 6 committee chair Rep. Bennie Thompson discusses upcoming hearings</a> NPR: Scott Simon talks with Rep. Bennie Thompson about the Jan. 6 hearings. The Mississippi Democrat chairs the committee investigating the attack on the Capitol. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
