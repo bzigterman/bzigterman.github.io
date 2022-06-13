@@ -9,25 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:50 PM CT, Jun. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
  <p class="updated_time"> 11:24 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">Live Updates: Russia Could Soon Encircle Ukrainian Troops in Sievierodonetsk</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
+ <p class="updated_time"> 11:09 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
- <p class="updated_time"> 10:46 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
- <p class="updated_time"> 10:42 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115">French, German and Italian Leaders to Meet With Zelensky in Kyiv</a> WSJ: French, German and Italian Leaders to Meet With Zelensky in Kyiv 
+ <p class="updated_time"> 10:09 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 10:04 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
- <p class="updated_time"> 09:42 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
+ <p class="updated_time"> 09:09 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 08:58 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html">China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</a> NYT: The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary. 
- <p class="updated_time"> 08:42 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
- <p class="updated_time"> 07:42 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 08:09 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/mexico-energy-cfe-obrador-11655000527">Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth</a> WSJ: Mexico Takes Aim at Private Companies, Threatening Decades of Economic Growth 
- <p class="updated_time"> 06:42 PM CT, Jun. 12 </p> 
+ <p class="updated_time"> 07:09 PM CT, Jun. 12 </p> 
  <a href="https://www.wsj.com/articles/brazilian-military-scours-amazon-for-missing-journalist-11655037213">Brazilian Military Scours Amazon for Missing Journalist</a> WSJ: Brazilian Military Scours Amazon for Missing Journalist 
  <p class="updated_time"> 06:26 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104471195/russia-ukraine-war-what-happened-this-weekend-june-11-12">Russia-Ukraine war: What happened this weekend (June 11-12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -175,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
- <p class="updated_time"> 04:51 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/09/world/europe/michael-woodley-buffalo-shooting.html">The Racist Researcher Cited in the Buffalo Gunman’s Manifesto</a> NYT: The work of Michael Woodley, a Briton who was cited by the teenager who killed 10 Black people at a supermarket in Buffalo, included pseudoscientific theories that have been used to justify racism. 
  <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
 
@@ -314,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/jan-6-hearing-testimony-trump-00038764">Jan. 6 panel lets Trump allies narrate the case against him</a> Politico: At the select committee's first hearing, members mostly took a back seat while airing the testimony from members of Donald Trump's inner circle. 
  <p class="updated_time"> 12:15 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/video/2022/06/10/we-told-a-story-thompson-talks-to-reporters-after-jan-6-hearing-604100">Jan. 6 chairman Bennie Thompson to present evidence that rioters scouted the capitol before breach</a> Politico: "It's clear that there was more to what was occurring than just coming to a 'Stop the Steal' rally," said Jan. 6 chairman Bennie Thompson after first Jan. 6 committee hearing. 
- <p class="updated_time"> 12:04 AM CT, Jun. 10 </p> 
- <a href="https://www.cnn.com/2022/06/09/politics/gallery/january-6-hearings/index.html">In pictures: The January 6 hearings</a> CNN: For the last 10 months, a House select committee has been investigating last year's deadly attack on the US Capitol. 
 
 
 </details>
