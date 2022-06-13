@@ -11,24 +11,26 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 05:16 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: Russian Forces Move Into Center of Sievierodonetsk</a> NYT: Ukraine’s military said its troops had lost ground in the strategic eastern city. It and neighboring Lysychansk are the only major cities in the Luhansk region yet to fall to Russia. 
- <p class="updated_time"> 04:19 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 04:39 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 03:19 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:39 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
- <p class="updated_time"> 02:19 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 02:39 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
+ <p class="updated_time"> 01:39 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61780861?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Australian paper offers apology but denies outing actress</a> BBC: Australian reporter apologises after he was accused of trying to "out" the actor last week. 
- <p class="updated_time"> 01:19 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
+ <p class="updated_time"> 12:39 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 12:35 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/some-european-factories-long-dependent-on-cheap-russian-energy-are-shutting-down-11655112927">Without Cheap Russian Energy, Some European Factories Must Close</a> WSJ: Industrial energy costs are soaring in the wake of Russia’s war on Ukraine, hobbling European manufacturers’ ability to compete in the global marketplace. 
  <p class="updated_time"> 12:15 AM CT, Jun. 13 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
- <p class="updated_time"> 10:39 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron's Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Results of the first round of parliamentary elections showed that Emmanuel Macron’s forces and the coalition led by far-left firebrand Jean-Luc Mélenchon each garnered around 25% of the nationwide vote. 
  <p class="updated_time"> 10:04 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html">Coming From Separate Worlds in Taiwan, They Collided at California Church</a> NYT: The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan. 
  <p class="updated_time"> 08:58 PM CT, Jun. 12 </p> 
@@ -183,7 +183,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 05:18 AM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/06/13/trumps-election-lies-take-center-stage-on-capitol-hill-00039097">Trump’s election lies take center stage on Capitol Hill</a> Politico Playbook: And more on the Senate's breabipartisan gun safety framework. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/06/13/trumps-election-lies-take-center-stage-on-capitol-hill-00039097"> Trump’s election lies take center stage on Capitol Hill</a> Politico Playbook: And more on the Senate's breabipartisan gun safety framework. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104529519/the-white-house-is-considering-a-presidential-visit-to-saudi-arabia">The White House is considering a presidential visit to Saudi Arabia</a> NPR: Despite its concerns over human rights, the Biden administration is changing its stance toward Saudi Arabia in a bid to lower global oil prices and tame gas costs at the pump. 
  <p class="updated_time"> 04:09 AM CT, Jun. 13 </p> 
@@ -199,7 +199,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/capture-capture-storage-jennifer-wilcox.html">Can Carbon Capture Be Part of the Climate Solution?</a> NYT: Jennifer Wilcox, who has a leading role in the U.S. Department of Energy’s Office of Fossil Energy and Carbon Management, says yes, though there are significant challenges. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/news/2022/06/13/imf-rich-countries-adopting-crypto-00038975">'The IMF is evil': Rich countries take aim at nations adopting crypto  </a> Politico: Central banks try to block attempts by poor countries to use digital currency to upend monetary norms.  
+ <a href="https://www.politico.com/news/2022/06/13/imf-rich-countries-adopting-crypto-00038975">‘The IMF is evil’: Rich countries take aim at nations adopting crypto  </a> Politico: Central banks try to block attempts by poor countries to use digital currency to upend monetary norms.  
  <p class="updated_time"> 03:31 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/trump-state-election-offices-00038956">Trump backers unbowed in push to overtake state election offices</a> Politico: Nevada Republican Jim Marchant is one of the leading candidates for secretary of state there this week. 
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
@@ -312,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/10/biden-trump-air-force-one-paint-scheme-00038775">Biden scraps Trump’s Air Force One paint scheme over cost</a> Politico: A new study shows the darker color could cause heating problems on some of the airplane's components. 
  <p class="updated_time"> 07:02 AM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/06/10/committee-lets-trumpworld-tell-the-jan-6-story-00038778">Committee lets Trumpworld tell the Jan. 6 story</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:26 AM CT, Jun. 10 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/06/10/its-about-donald-trump-stupid-00038769"> It's about Donald Trump, stupid</a> Politico Playbook: And Rep. Dusty Johnson recounts what he witnessed on Jan. 6. 
 
 
 </details>
