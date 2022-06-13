@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">What Happened on Day 109 of the War in Ukraine</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html">The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</a> NYT: Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter. 
+ <p class="updated_time"> 03:54 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 03:41 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104534655/a-covid-19-cluster-at-a-beijing-nightclub-sets-off-a-new-clampdown">A COVID-19 cluster at a Beijing nightclub sets off a new clampdown</a> NPR: Dozens of cases linked to a nightclub spurs officials to return to online schooling and indefinitely delay sports gatherings. 
- <p class="updated_time"> 03:26 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
- <p class="updated_time"> 02:31 AM CT, Jun. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news">What Happened on Day 109 of the War in Ukraine</a> NYT: A Ukrainian official said that Russian forces could cut off the eastern city within days. Capturing the city would give President Vladimir Putin a key victory in his bid to control all of the Donbas region. 
- <p class="updated_time"> 02:26 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 02:54 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-economy-shrinks-for-second-month-as-outlook-dims-11655109759">U.K. Economy Shrinks for Second Month as Outlook Dims</a> WSJ: U.K. Economy Shrinks for Second Month as Outlook Dims 
  <p class="updated_time"> 02:18 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61777306?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma: Uttar Pradesh destroys houses of Muslims after protests</a> BBC: The houses belonged to some Muslims allegedly linked to religious protests that had turned violent. 
+ <p class="updated_time"> 01:54 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
  <p class="updated_time"> 01:45 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html">U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</a> NYT: Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart. 
  <p class="updated_time"> 01:30 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61780861?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson: Australian paper offers apology but denies outing actress</a> BBC: Australian reporter apologises after he was accused of trying to "out" the actor last week. 
- <p class="updated_time"> 01:26 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-is-after-these-ex-bankers-assets-but-sanctions-could-bail-them-out-11654976143">Russia Sanctions Could Bail Out These Bankers</a> WSJ: Russia Sanctions Could Bail Out These Bankers 
- <p class="updated_time"> 12:26 AM CT, Jun. 13 </p> 
+ <p class="updated_time"> 12:54 AM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/french-parliamentary-elections-test-macrons-pro-business-agenda-11655026205">Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races</a> WSJ: Macron’s Majority in French Parliament at Risk in Neck-and-Neck Races 
  <p class="updated_time"> 12:15 AM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104520239/opponents-of-the-u-k-s-rwanda-deportation-plan-head-to-court">Opponents of the U.K.'s Rwanda deportation plan head to court</a> NPR: The Monday hearing comes as reports emerge of Prince Charles being critical of the government's plan to deport migrants to Rwanda for processing asylum requests. 
+ <p class="updated_time"> 11:54 PM CT, Jun. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 11:50 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61779378?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police find belongings of missing pair</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing on 5 June in the Amazon. 
- <p class="updated_time"> 11:26 PM CT, Jun. 12 </p> 
- <a href="https://www.wsj.com/articles/china-defense-minister-says-nuclear-buildup-is-justified-11655024071">China Defense Minister Says Nuclear Buildup Is Justified</a> WSJ: China Defense Minister Says Nuclear Buildup Is Justified 
  <p class="updated_time"> 10:52 PM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61779374?at_medium=RSS&at_campaign=KARANGA">US gun control: Cautious welcome to bipartisan deal on new safety measures</a> BBC: Shootings survivors say the planned reforms - although limited - are a step in the right direction. 
  <p class="updated_time"> 10:04 PM CT, Jun. 12 </p> 
@@ -177,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/09/books/books-disinformation-fake-news.html">The Best Books to Read on Disinformation: Its History, Techniques and Effects</a> NYT: The phenomenon has undermined our trust in electoral systems, in vaccines — and in what happened at the U.S. Capitol on Jan. 6. Here are books on its history, techniques and effects. 
  <p class="updated_time"> 05:48 AM CT, Jun. 10 </p> 
  <a href="https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html">‘Dead Cities’ Become the Flashpoint for the Fierce War in the East</a> NYT: President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons. 
- <p class="updated_time"> 04:37 AM CT, Jun. 10 </p> 
- <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
 
 
 </details>
@@ -198,8 +196,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104174571/florida-secretary-of-state-cord-byrd-desantis">Critics worry Florida's new elections chief will make the office more partisan</a> NPR: Cord Byrd, who was tapped by Gov. Ron DeSantis, has refused to say Joe Biden won the 2020 presidential election and will be in charge of Florida's new election crimes unit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/capture-capture-storage-jennifer-wilcox.html">Can Carbon Capture Be Part of the Climate Solution?</a> NYT: Jennifer Wilcox, who has a leading role in the U.S. Department of Energy’s Office of Fossil Energy and Carbon Management, says yes, though there are significant challenges. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/imf-rich-countries-adopting-crypto-00038975">'The IMF is evil': Rich countries take aim at nations adopting crypto  </a> Politico: Central banks try to block attempts by poor countries to use digital currency to upend monetary norms.  
+ <p class="updated_time"> 03:31 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/trump-state-election-offices-00038956">Trump backers unbowed in push to overtake state election offices</a> Politico: Nevada Republican Jim Marchant is one of the leading candidates for secretary of state there this week. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/a-tale-of-two-lieutenant-governors-trying-to-expand-the-dem-majority-00038849">A tale of 2 lieutenant governors trying to expand Dems' Senate majority</a> Politico: John Fetterman and Mandela Barnes are both testing if battleground states will elect liberals to the Senate. That's not where the similarities between the two "tall and bald" men stop. 
  <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/marco-rubio-demings-00038912">Rubio embraces his low-key side</a> Politico: As the Florida senator pursues his third Senate term, he's adjusting old habits and staying out of the spotlight — and the bipartisan gun talks. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 13 </p> 
+ <a href="https://www.politico.com/news/2022/06/13/state-supreme-courts-bottom-of-the-ballot-but-top-concern-if-roe-falls-00038934">State supreme courts: Bottom of the ballot but top concern if Roe falls</a> Politico: The possible end to federal abortion protections is spotlighting down-ballot races in the upcoming midterm elections. 
  <p class="updated_time"> 02:00 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/mace-rice-south-carolina-trump.html">Two Targets of Trump’s Ire Take Different Paths in South Carolina</a> NYT: Representative Nancy Mace, after criticizing the president for the Jan. 6 riot, has tried to focus on other issues. Representative Tom Rice, however, isn’t backing down. 
  <p class="updated_time"> 01:43 AM CT, Jun. 13 </p> 
@@ -223,7 +229,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:07 PM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/chris-jacobs-gun-reform-bipartisan-00039030">Retiring Rep. Chris Jacobs urges bipartisanship on gun reform</a> Politico: "Our parties are very polarized right now. And I don't think that's good for the parties. I don't think that's good for democracy," Jacobs said. 
  <p class="updated_time"> 11:58 AM CT, Jun. 12 </p> 
- <a href="https://www.nytimes.com/2022/06/12/us/politics/palin-alaska-special-election.html">Sarah Palin Leads Primary Race for Alaska’s Special Election</a> NYT: The top four candidates will advance to an August vote to finish the term of Representative Don Young, who died in March. 
+ <a href="https://www.nytimes.com/2022/06/12/us/politics/palin-alaska-special-election.html">Palin Leads Special Election for House Seat in Alaska</a> NYT: The top four candidates will advance to an August vote to finish the term of Representative Don Young, who died in March. 
  <p class="updated_time"> 11:38 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/larry-summers-treasury-recession-inflation-tariffs-00039025">Former Treasury head urges tariff cuts, warns of recession</a> Politico: Larry Summers called the central bank’s forecast that inflation will cool “much too optimistic.” 
  <p class="updated_time"> 11:31 AM CT, Jun. 12 </p> 
@@ -248,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/12/1103956855/trump-gop-endorsement-success-kemp-oz-vance">Republican primaries show that Trump voters don't always follow his endorsements</a> NPR: Republican voters — even those who maintain Donald Trump was a great president — are not marching in lockstep with him. Many are instead bucking his preferred GOP candidates. 
  <p class="updated_time"> 06:00 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/how-scotus-upcoming-climate-ruling-could-defang-washington-00038595">How SCOTUS’ upcoming climate ruling could defang Washington</a> Politico: A legal fight over the EPA’s power to restrict greenhouse gases offers conservative justices an opportunity to tie the executive branch's  hands on a host of issues — from Covid to net neutrality. 
- <p class="updated_time"> 06:00 AM CT, Jun. 12 </p> 
- <a href="https://www.politico.com/news/2022/06/12/rules-at-risk-00038639">Rules at risk</a> Politico: These are kinds of regulations that may fall under a legal cloud after the Supreme Court decides on an EPA climate change case. 
  <p class="updated_time"> 05:51 AM CT, Jun. 12 </p> 
  <a href="https://www.politico.com/news/2022/06/12/palin-alaska-special-house-election-00039001">Palin nabs early lead in Alaska U.S. House special primary</a> Politico: Dozens of candidates are running to replace the late Don Young. 
  <p class="updated_time"> 02:00 AM CT, Jun. 12 </p> 
@@ -281,11 +285,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:06 AM CT, Jun. 11 </p> 
  <a href="https://www.npr.org/2022/06/11/1104368960/jan-6-committee-chair-rep-bennie-thompson-discusses-upcoming-hearings">Jan. 6 committee chair Rep. Bennie Thompson discusses upcoming hearings</a> NPR: Scott Simon talks with Rep. Bennie Thompson about the Jan. 6 hearings. The Mississippi Democrat chairs the committee investigating the attack on the Capitol. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
- <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
  <a href="https://www.politico.com/news/2022/06/11/why-a-dem-dream-candidate-cant-touch-rubio-in-florida-00038941">Why a Dem dream candidate can't touch Rubio in Florida</a> Politico: Rep. Val Demings may not get any measurable help in a state that may be slipping away from her party. 
  <p class="updated_time"> 06:00 AM CT, Jun. 11 </p> 
- <a href="https://www.politico.com/news/2022/06/11/new-york-abortion-rights-constitution-00037877">New York failed to put abortion rights in its constitution. Here's why some states are hopeful.</a> Politico: New York passed a series of bills to bolster abortion rights, but failed to pass a measure to add it to the state constitution. It's an issue facing other states, as well. 
+ <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
  <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
