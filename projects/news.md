@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:29 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:29 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</a> NYT: Ukraine said its troops have lost more ground in the east, and is turning up the pressure on the West to do more to help. 
- <p class="updated_time"> 02:18 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:29 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html">Bakery in Kyiv Honors Boris Johnson With a Croissant</a> NYT: A croissant is the latest homage in Ukraine to the British prime minister, who has also had a road named after him in a town near Odesa. 
+ <p class="updated_time"> 02:33 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 02:07 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html">Britain Plans to Fly Refugees to Rwanda on Tuesday</a> NYT: A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England. 
- <p class="updated_time"> 02:06 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 01:58 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html">The Health Effects of Extreme Heat</a> NYT: Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse. 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
@@ -25,36 +25,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html">French Elections: Pro-Macron Forces Expected to Prevail After First Round</a> NYT: The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections. 
  <p class="updated_time"> 01:34 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-poison-iranian-scientists.html">Iran Suspects Israel Poisoned Two  Scientists to Death</a> NYT: If Iran’s suspicions about the deaths are confirmed, these would be the latest killings in a shadow war that is reaching new intensity as Iran moves closer to nuclear weapons capability. 
+ <p class="updated_time"> 01:33 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 01:19 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html">Britain Moves Ahead With Plans to Scrap Trade Rules on Northern Ireland</a> NYT: The action by the government of Prime Minister Boris Johnson to scuttle the post-Brexit trade arrangement risks a clash with the European Union and upsetting the United States. 
  <p class="updated_time"> 01:19 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/grenfell-towers-fire-london.html">Five Years On, Five Lives Shattered by the Grenfell Tower Fire</a> NYT: After 72 people died in the blaze in 2017, there were vows of reform and accountability. But for those whose lives were upended by the disaster, there have been few answers. 
  <p class="updated_time"> 01:06 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
- <p class="updated_time"> 01:06 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786946?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Police deny bodies found in Amazon search</a> BBC: British journalist Dom Phillips and indigenous expert Bruno Pereira went missing in Brazil on 5 June. 
  <p class="updated_time"> 01:02 PM CT, Jun. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality' says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality', says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
  <p class="updated_time"> 12:36 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html">Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</a> NYT: “Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert. 
+ <p class="updated_time"> 12:33 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 12:10 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61786575?at_medium=RSS&at_campaign=KARANGA">'How to murder your husband' writer sentenced for murdering husband</a> BBC: The romance novelist once wrote that anyone could commit a murder "when pushed far enough". 
- <p class="updated_time"> 12:06 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 12:03 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/americas/dom-phillips-bruno-pereira-missing.html">Authorities Find Belongings of Missing Journalist and Expert in Amazon</a> NYT: Search crews found clothes and other belongings of the two men who went missing in the Amazon last week. Authorities are also testing blood from a suspect’s boat and human remains found elsewhere. 
+ <p class="updated_time"> 11:33 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 11:20 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html">A Caravan of Migrants Set Off Toward U.S. During Americas Summit</a> NYT: Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration. 
- <p class="updated_time"> 11:06 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 10:35 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/asia/china-taiwan-ukraine-military.html">As China Rattles Sabers, Taiwan Asks: Are We Ready for War?</a> NYT: Ukraine’s stubborn resistance to invasion, and the help that has poured in as a result, has both inspired Taiwan and made it rethink its own military strategy. 
  <p class="updated_time"> 10:34 AM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html">Russia’s Oil Revenue Soars Despite Sanctions, Study Finds</a> NYT: Rising oil prices more than offset a decline in export volumes during the first 100 days of the assault on Ukraine. 
+ <p class="updated_time"> 10:33 AM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 10:25 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61784011?at_medium=RSS&at_campaign=KARANGA">Google engineer says Lamda AI system may have its own feelings</a> BBC: One of the firm's software engineers believes chats with an AI system suggest it has feelings. 
- <p class="updated_time"> 10:06 AM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 10:03 AM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61782384?at_medium=RSS&at_campaign=KARANGA">Amber Heard speaks about social media 'hate and vitriol' of Johnny Depp trial</a> BBC: The actress gives her first interview since the verdict in her defamation trial against Johnny Depp. 
  <p class="updated_time"> 10:02 AM CT, Jun. 13 </p> 
@@ -142,9 +142,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:03 AM CT, Jun. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61774950?at_medium=RSS&at_campaign=KARANGA">Have a look inside Russia's new 'Tasty' McDonald's replacement</a> BBC: The new Russian brand is called "Vkusno i Tochka", which translates to "Tasty and that's it". 
  <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
- <a href="https://www.npr.org/2022/06/12/1104418128/russia-has-achieved-at-least-one-of-its-war-goals-return-ukrainian-water-to-crim">Russia has achieved at least one of its war goals: return Ukrainian water to Crimea</a> NPR: Access to water for the Crimean peninsula was one of the issues that led to the Russian invasion of Ukraine. 
- <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104418121/police-in-el-salvador-have-arrested-over-36-000-people-to-curb-gang-violence">Police in El Salvador have arrested over 36,000 people to curb gang violence</a> NPR: Ayesha Rascoe talks with Amnesty International's Arjun Chaudhuri about the state of emergency in El Salvador which has led to mass arrests of civilians. 
+ <p class="updated_time"> 07:05 AM CT, Jun. 12 </p> 
+ <a href="https://www.npr.org/2022/06/12/1104418128/russia-ukraine-crimea-water-canal">Russia has achieved at least 1 of its war goals: return Ukraine's water to Crimea</a> NPR: Access to water for the Crimean Peninsula was one of the issues that led to the Russian invasion of Ukraine. 
  <p class="updated_time"> 05:04 AM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104415839/france-holds-parliamentary-election-in-vital-test-for-macron">France holds parliamentary election in vital test for Macron</a> NPR: French voters are choosing lawmakers in a parliamentary election Sunday as President Emmanuel Macron seeks to secure his majority while under growing threat from a leftist coalition. 
  <p class="updated_time"> 04:01 AM CT, Jun. 12 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104614467/jan-6-jason-miller-ivanka-trump-guiliani">Former Trump advisers testify they urged him not to declare victory on election night</a> NPR: Rudy Giuliani, described at Monday's hearing as "intoxicated" on election night, urged the former president to say he had won, said senior adviser Jason Miller. His campaign manager pushed back. 
  <p class="updated_time"> 12:55 PM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/abortion-new-york-scotus-00039191">Abortion protections in New York fortified ahead of SCOTUS ruling</a> Politico: The bills were supported by Hochul and passed easily through both legislative chambers, where Democrats have strong majorities. 
+ <p class="updated_time"> 12:51 PM CT, Jun. 13 </p> 
+ <a href="https://www.cnn.com/2022/06/13/politics/jan-6-hearing-takeaways-monday/index.html">7 takeaways from Monday's January 6 hearing</a> CNN: The House committee investigating the January 6, 2021, attack on the US Capitol detailed Monday how those around then-President Donald Trump told him he lost the 2020 election -- but he refused to listen, turning instead to his attorney Rudy Giuliani to embrace false claims that the election was stolen. 
  <p class="updated_time"> 12:47 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/supreme-court-bail-hearings-immigrants.html">Supreme Court Rejects Bail Hearings for Jailed Immigrants</a> NYT: A federal law, the justices ruled, does not require immigration judges to consider whether immigrants may be released while their challenges are pending. 
  <p class="updated_time"> 11:48 AM CT, Jun. 13 </p> 
