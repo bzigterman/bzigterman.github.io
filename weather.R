@@ -174,12 +174,13 @@ nws_forecast_clean <- nws_forecast %>%
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
-# nws_forecast <- GET(url,
+# nws_past <- GET(url,
 #                     add_headers(
 #                       "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
 # )
-# nws_forecast <- content(nws_forecast, as = "text")
-# nws_forecast <- st_read(nws_forecast)
+# nws_past <- content(nws_past, as = "text")
+# nws_past <- st_read(nws_past)
+# nws_past <- jsonlite::parse_json(nws_past$temperature)
 
 
 # set variables ----
