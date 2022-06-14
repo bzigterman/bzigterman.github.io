@@ -9,15 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:46 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:52 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</a> NYT: Ukraine said its troops have lost more ground in the east, and is being more vocal about needing the West to do more to help. 
+ <p class="updated_time"> 06:45 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61792661?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality', says Bill Barr</a> BBC: The former US attorney general's remarks on Trump's fraud claims were played at a hearing. 
+ <p class="updated_time"> 06:36 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61569559?at_medium=RSS&at_campaign=KARANGA">Why is inflation in US higher than elsewhere?</a> BBC: A surge in government spending drove US inflation to the highest of advanced economies last year. 
  <p class="updated_time"> 06:35 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-61790085?at_medium=RSS&at_campaign=KARANGA">Amazon to begin drone deliveries in Lockeford, California this year</a> BBC: The shopping giant hopes to deliver parcels to shoppers by air for the first time later in 2022. 
  <p class="updated_time"> 06:32 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61550100?at_medium=RSS&at_campaign=KARANGA">Sudan alarm at return of Bashir loyalists and the NCP</a> BBC: Authoritarian leader Omar al-Bashir was ousted three years ago but are his allies returning to power? 
  <p class="updated_time"> 06:30 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61788420?at_medium=RSS&at_campaign=KARANGA">Writing a book in a day to get more kids reading</a> BBC: South African charity Book Dash is creating children's books in super-fast time. 
- <p class="updated_time"> 05:48 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 06:01 PM CT, Jun. 13 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61744830?at_medium=RSS&at_campaign=KARANGA">Team who escaped Taliban fight for their football future</a> BBC: Fati and her Afghanistan team-mates had to "fight to survive" as they escaped from the Taliban. Now they face an uncertain future. 
+ <p class="updated_time"> 06:00 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-unveils-brexit-bill-to-change-northern-irelands-trade-status-11655139964">U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status</a> WSJ: U.K. Unveils Brexit Bill to Change Northern Ireland’s Trade Status 
  <p class="updated_time"> 05:47 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789605?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump was 'detached from reality', says Bill Barr</a> BBC: Witnesses painted a picture of a chaotic and deeply divided Trump White House after the 2020 election. 
@@ -27,7 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61792730?at_medium=RSS&at_campaign=KARANGA">Toronto van attacker sentenced to life in prison</a> BBC: The man killed eight women and two men after ploughing a van down a busy Toronto pavement. 
  <p class="updated_time"> 05:11 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html">Netanyahu vs. Olmert: A Lurid Libel Case Grips Israel</a> NYT: A sensational legal drama between the two ex-prime ministers, centered on a claim of mental illness, comes as Israel’s year-old government teeters and one of the former leaders eyes a comeback. 
- <p class="updated_time"> 04:48 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 05:00 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861">Ukraine Fears Defeat in East Without Surge in Military Aid</a> WSJ: Ukraine Fears Defeat in East Without Surge in Military Aid 
  <p class="updated_time"> 04:21 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61792660?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… The Rwanda asylum seekers plan</a> BBC: Ros Atkins looks at the government’s controversial plan to fly some illegal arrivals to Rwanda. 
@@ -37,22 +43,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/13/1104546262/russia-ukraine-war-what-happened-today-june-13">Russia-Ukraine war: What happened today (June 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61785806?at_medium=RSS&at_campaign=KARANGA">Lysychansk: Russia erasing history in Ukraine's 'dead city'</a> BBC: The fabric of Lysychansk is being destroyed by intense Russian bombardment, writes Orla Guerin. 
+ <p class="updated_time"> 04:00 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 03:52 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104683130/canada-can-change-its-gun-laws-but-cant-stop-the-smuggling-of-guns-from-the-u-s">Canada can change its gun laws, but can't stop the smuggling of guns from the U.S.</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
- <p class="updated_time"> 03:48 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164">Russian Forces Expand Control of Strategic City Severodonetsk</a> WSJ: Russian Forces Expand Control of Strategic City Severodonetsk 
  <p class="updated_time"> 03:44 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104683125/an-attack-in-china-raises-questions-on-its-governments-protection-of-womens-righ">An attack in China raises questions on its government's protection of women's rights</a> NPR: A video of an attack on a group of women at a restaurant in China has touched a raw nerve in a country where many feel women's rights aren't always protected. 
  <p class="updated_time"> 03:29 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html">Bakery in Kyiv Honors Boris Johnson With a Croissant</a> NYT: A croissant is the latest homage in Ukraine to the British prime minister, who has also had a road named after him in a town near Odesa. 
- <p class="updated_time"> 02:48 PM CT, Jun. 13 </p> 
+ <p class="updated_time"> 03:00 PM CT, Jun. 13 </p> 
  <a href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600">Afghan Officials Escaped to Luxury Homes Abroad</a> WSJ: Afghan Officials Escaped to Luxury Homes Abroad 
  <p class="updated_time"> 02:07 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html">Britain Plans to Fly Refugees to Rwanda on Tuesday</a> NYT: A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England. 
+ <p class="updated_time"> 02:00 PM CT, Jun. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 01:58 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html">The Health Effects of Extreme Heat</a> NYT: Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse. 
- <p class="updated_time"> 01:48 PM CT, Jun. 13 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-suggests-shes-bowing-out-in-wake-of-china-visit-11655124042">U.N. Human-Rights Chief Plans to Step Down</a> WSJ: U.N. Human-Rights Chief Plans to Step Down 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61786948?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous groups burn tyres and block roads over fuel prices</a> BBC: Demonstrators burn tyres and block roads over conservative government's 'policies of death'. 
  <p class="updated_time"> 01:36 PM CT, Jun. 13 </p> 
@@ -133,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html">Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</a> NYT: Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster. 
  <p class="updated_time"> 04:10 PM CT, Jun. 12 </p> 
  <a href="https://www.npr.org/2022/06/12/1104460678/open-source-intelligence-methods-are-being-used-to-investigate-war-crimes-in-ukr">Open source intelligence methods are being used to investigate war crimes in Ukraine</a> NPR: Internet sleuths are using publicly available information — satellite imagery, videos, social media — to reveal secrets. 
- <p class="updated_time"> 04:08 PM CT, Jun. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61778433?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evidence shows widespread use of cluster munitions in Kharkiv</a> BBC: Russia has killed hundreds of civilians in Kharkiv with indiscriminate weapons, according to a new report. 
  <p class="updated_time"> 03:49 PM CT, Jun. 12 </p> 
  <a href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html">Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</a> NYT: The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead. 
  <p class="updated_time"> 03:31 PM CT, Jun. 12 </p> 
@@ -198,12 +202,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:48 PM CT, Jun. 13 </p> 
+ <a href="https://www.nytimes.com/2022/06/13/us/politics/trump-election-night.html">The Fractious Night That Began Trump’s Bid to Overturn the Election</a> NYT: Donald J. Trump’s advisers urged him not to declare victory on election night in 2020. He listened to the one who told him what he wanted to hear. 
  <p class="updated_time"> 06:29 PM CT, Jun. 13 </p> 
  <a href="https://www.npr.org/2022/06/13/1104825880/conflict-flared-at-fox-news-after-bidens-victory-in-2020-former-fox-editor-says">Conflict flared at Fox News after Biden's victory in 2020, former Fox editor says</a> NPR: A former Fox News political editor explains how the channel called Arizona for Biden during the 2020 election, and how that enraged former President Trump and controversy erupted within Fox. 
  <p class="updated_time"> 06:25 PM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/13/military-transport-crew-made-right-decision-to-leave-kabul-airport-amid-chaotic-withdrawal-air-force-says-00039319">Transport crew made right decision to leave Kabul airport amid chaotic withdrawal, Air Force says</a> Politico: Human remains were discovered in the wheel well of the the C-17 military transport plane after it landed in Qatar. 
  <p class="updated_time"> 06:10 PM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/news/2022/06/13/wealthier-americans-inflation-stocks-00039157">Wealthier Americans feel inflation pinch as stocks tumble</a> Politico: The cratering of optimism across all income groups — even as the economy is churning out jobs and growing — is bleak news for Democrats as they head into the midterm elections. 
+ <a href="https://www.politico.com/news/2022/06/13/wealthier-americans-inflation-stocks-00039157">Stock plunge shakes confidence of higher-income Americans</a> Politico: The cratering of optimism across all income groups — even as the economy is churning out jobs and growing — is bleak news for Democrats as they head into the midterm elections. 
  <p class="updated_time"> 06:00 PM CT, Jun. 13 </p> 
  <a href="https://www.nytimes.com/2022/06/13/us/politics/nevada-republicans-november-elections.html">Will Nevada Turn Red in the November Midterms? </a> NYT: No state was walloped harder by the economic impact of the pandemic, and voters may take out their anger on Democrats. 
  <p class="updated_time"> 05:57 PM CT, Jun. 13 </p> 
@@ -334,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/11/biden-ducks-summit-debacle-los-angeles-00038985">Biden ducks summit ‘debacle’ in Los Angeles. But it wasn't smooth.</a> Politico: The Summit of Americas still got overshadowed by drama over the guest list and a lack of concrete achievements. 
  <p class="updated_time"> 04:02 AM CT, Jun. 11 </p> 
  <a href="https://www.nytimes.com/2022/06/11/business/energy-environment/gasoline-price.html">Gas Prices in U.S. Hit $5 a Gallon</a> NYT: The unrelenting march higher continues as the average price touches a new milestone, according to AAA. 
- <p class="updated_time"> 03:59 AM CT, Jun. 11 </p> 
- <a href="https://www.nytimes.com/2022/06/11/us/politics/moderna-vaccine-children-fda.html">Moderna’s Covid Vaccine Is Effective in Children Under 6, F.D.A. Says</a> NYT: Outside experts will meet next week to decide whether to recommend that the agency authorize the vaccine for kids 6 months and older. 
  <p class="updated_time"> 10:32 PM CT, Jun. 10 </p> 
  <a href="https://www.politico.com/news/2022/06/10/trump-endorses-britt-in-alabama-republican-senate-race-00038991">Trump endorses Britt in Alabama Republican Senate race</a> Politico: The former president continued to walk back his past public statements about the former Senate aide. 
 
