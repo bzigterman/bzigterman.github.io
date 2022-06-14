@@ -1211,6 +1211,8 @@ fig <- hchart(housing_data,
               hcaes(x = date,
                     y = listings),
               name = "Active Listings",
+              label = list(
+                enabled = TRUE),
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
                                  title = list(text = NULL))) %>%
@@ -1220,6 +1222,8 @@ fig <- hchart(housing_data,
           y = price),
     name = "Median List Price ($)",
     type = "line",
+    label = list(
+      enabled = TRUE),
     yAxis = 1) %>%
   hc_add_series(
     data = housing_data,
@@ -1228,6 +1232,8 @@ fig <- hchart(housing_data,
     name = "Median Days on Market",
     color = "darkblue",
     type = "line",
+    label = list(
+      enabled = TRUE),
     yAxis = 2) %>%
   hc_add_series(
     data = housing_data,
@@ -1236,6 +1242,8 @@ fig <- hchart(housing_data,
     name = "Pending-to-Active Ratio",
     color = "green",
     type = "line",
+    label = list(
+      enabled = TRUE),
     yAxis = 3) %>%
   hc_title(text = "Housing Metrics") %>%
   hc_credits(
