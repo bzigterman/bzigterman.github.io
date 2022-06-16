@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 01:16 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61831961?at_medium=RSS&at_campaign=KARANGA">Russian GRU spy tried to infiltrate International Criminal Court</a> BBC: The man used a fake name and pretended to be Brazilian, but security officials say he is a deep-cover spy. 
  <p class="updated_time"> 12:58 PM CT, Jun. 16 </p> 
@@ -21,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61831193?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Saudi embassy street in US renamed after murdered journalist</a> BBC: Washington DC unveils Jamal Khashoggi Way as a reminder of the journalist murdered by Saudi agents. 
  <p class="updated_time"> 09:57 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61824202?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Family speak of heartbreak over killings</a> BBC: A suspect has confessed to burying the bodies of journalist Dom Phillips and indigenous expert Bruno Pereira. 
+ <p class="updated_time"> 09:46 AM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-secretly-reviews-israels-plans-for-strikes-against-iranian-targets-in-syria-11655405162">U.S. Secretly Reviews Israel's Plans for Strikes in Syria</a> WSJ: The U.S. prescreens Israeli raids against Iranian targets to avoid interference with the U.S. anti-ISIS mission. 
  <p class="updated_time"> 09:28 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
@@ -85,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61816337?at_medium=RSS&at_campaign=KARANGA">Inside the room where Ukraine orders arms from the West</a> BBC: From an attic room in Germany, the West coordinates the supply of arms to Ukraine - but is it enough? 
  <p class="updated_time"> 10:13 AM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105188732/monkeypox-new-name-who-world-health">The WHO wants to give monkeypox a new name </a> NPR: Scientists recently criticized the current name as "discriminatory and stigmatizing." They also say it's inaccurate to name versions of the virus after parts of Africa. 
- <p class="updated_time"> 09:06 AM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1102927650/colombia-presidential-election-2022-rodolfo-hernandez-gustavo-petro">After Colombia's election surprise, a populist TikTok star poses stiff competition</a> NPR: A 77-year-old populist who campaigns over TikTok and promises budget cuts and jail for corrupt officials is now neck and neck with his leftist opponent ahead of Sunday's runoff election. 
  <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
  <p class="updated_time"> 05:13 AM CT, Jun. 15 </p> 
@@ -141,7 +143,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel to spotlight pressure campaign against Pence</a> Politico: The select committee will try to convince the public Thursday that Donald Trump’s work with John Eastman turned into a criminal effort to subvert the election. 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel: Trump dictated false statement claiming Pence could overturn election</a> Politico: “The vice president and I are in total agreement that the vice president has the power to act,” Trump said in an untrue statement on Jan. 5, 2021. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
