@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 05:38 PM CT, June 16</p>
+<p class="updated_time"> Latest data: 05:52 PM CT, June 16</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
