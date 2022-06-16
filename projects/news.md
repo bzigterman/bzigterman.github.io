@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:28 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
+ <p class="updated_time"> 09:05 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61830285?at_medium=RSS&at_campaign=KARANGA">Tom Hanks shouts at fans after causing wife to trip</a> BBC: The actor was filmed becoming angry after his wife tripped as they left a New York restaurant. 
  <p class="updated_time"> 07:22 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61823521?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey granted bail over sexual assault charges</a> BBC: The Oscar-winning actor "strenuously denies" allegations he sexually assaulted three men, a court hears. 
+ <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61826961?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Moroccan's death sentence being ignored, sister says</a> BBC: Brahim Saaudun and two Britons were captured by Russian forces while fighting for Ukraine. 
  <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 06:41 AM CT, Jun. 16 </p> 
@@ -61,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61683513?at_medium=RSS&at_campaign=KARANGA">'The Russians said beatings were my re-education'</a> BBC: Ukrainian citizens have told the BBC they were punched and electrocuted before being allowed to leave Mariupol. 
  <p class="updated_time"> 11:02 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/16/1105441188/a-suspect-confesses-to-killing-pair-missing-in-amazon-police-say">A suspect confesses to killing pair missing in Amazon, police say</a> NPR: Police say they arrested a second suspect identified as a brother of the main suspect in the deaths of an Indigenous expert and British journalist. 
- <p class="updated_time"> 09:50 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61821093?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to stop would-be thief stealing his car</a> BBC: Brendan Mills used the forklift to suspend the car - and the would-be thief - until police arrived. 
  <p class="updated_time"> 08:44 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61807623?at_medium=RSS&at_campaign=KARANGA">Ayahs' Home: Remembering the forgotten Indian nannies of London</a> BBC: A London building that housed Indian nannies left to fend for themselves during the British Raj is being honoured. 
  <p class="updated_time"> 08:31 PM CT, Jun. 15 </p> 
@@ -73,12 +77,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 06:05 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61793984?at_medium=RSS&at_campaign=KARANGA">How human-like are the most sophisticated chatbots?</a> BBC: As a Google engineer says his firm's top chatbot has feelings, just how lifelike is the technology? 
- <p class="updated_time"> 04:39 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61804877?at_medium=RSS&at_campaign=KARANGA">US makes biggest interest rate rise in almost 30 years</a> BBC: The US central bank raises rates by 0.75 percentage points as it scrambles to contain soaring prices. 
  <p class="updated_time"> 03:52 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105093912/russia-ukraine-war-what-happened-today-june-15">Russia-Ukraine war: What happened today (June 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:50 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61816749?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Thousands of civilians trapped in Severodonetsk</a> BBC: Food and water are running out for the women and children still there, a UN official tells the BBC. 
  <p class="updated_time"> 03:40 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105318161/whats-motivating-the-foreigners-who-have-gone-to-ukraine-to-fight-against-russia">What's motivating the foreigners who have gone to Ukraine to fight against Russia</a> NPR: The U.S. State Department says it is "aware of unconfirmed reports of two U.S. citizens captured in Ukraine." They are believed to among the  thousands of foreigners who have gone to fight in Ukraine. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
