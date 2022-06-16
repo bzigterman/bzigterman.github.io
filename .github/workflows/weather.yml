@@ -10,6 +10,7 @@ jobs:
     runs-on: macOS-latest
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
@@ -32,7 +33,13 @@ jobs:
           R -e 'source("install-packages.R", echo = TRUE)'
         
       - name: Download Parse and Update Weather Data
-        run: Rscript weather.R
+        run: |-
+          Rscript weather.R
+          Rscript news.R
+          Rscript economy.R
+          Rscript covid.R
+          Rscript basketball.R
+          Rscript baseball.R
         
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed
