@@ -141,7 +141,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:43 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105447454/house-bill-police-security-supreme-court-justices-families-scotus-senate-biden">House passes a bill giving police security to families of Supreme Court justices</a> NPR: The legislation was introduced by Sen. John Cornyn, a Texas Republican, and unanimously passed the Senate last month. 
  <p class="updated_time"> 01:26 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105445493/keisha-lance-bottoms-biden-administration-position-role-atlanta-mayor">Former Atlanta Mayor Keisha Lance Bottoms is joining the Biden administration</a> NPR: Bottoms was considered for the role of vice president during Biden's 2020 presidential campaign, along with Georgia gubernatorial candidate Stacey Abrams, Michigan Gov. Gretchen Whitmer and others. 
+ <a href="https://www.npr.org/2022/06/16/1105445493/keisha-lance-bottoms-biden-administration-position-role-atlanta-mayor">Former Atlanta Mayor Keisha Lance Bottoms is joining the Biden administration</a> NPR: Bottoms was considered for the role of vice president during Joe Biden's 2020 presidential campaign. 
  <p class="updated_time"> 11:06 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/16/australia-emissions-greenhouse-gases-00040123">Australia commits to reducing greenhouse emissions by 43%</a> Politico: Prime Minister Anthony Albanese said  legislation to enshrine the new target in law would be introduced to the new Parliament. 
  <p class="updated_time"> 08:50 PM CT, Jun. 15 </p> 
@@ -180,8 +180,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/buffalo-supermarket-gunman-charged-with-federal-hate-crimes-00039841">Buffalo supermarket gunman charged with federal hate crimes</a> Politico: The white gunman who killed 10 Black people in a racist attack at a Buffalo supermarket was charged Wednesday with federal hate crimes and could face the death penalty. 
  <p class="updated_time"> 10:28 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/supreme-court-punts-on-case-tied-to-trumps-public-charge-rule-for-immigrants-00039818">Supreme Court punts on case tied to Trump's 'public charge' rule for immigrants</a> Politico: After hearing arguments, justices decline to issue ruling on whether states can defend policy Biden revoked 
- <p class="updated_time"> 09:42 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/loudermilk-tour-group-photos-00039804">Loudermilk tour group taking basement photos 'raises concerns' for Jan. 6 panel</a> Politico: The select committee released video footage that shows the group taking photos and videos “not typically of interest to tourists," including security checkpoints. 
  <p class="updated_time"> 08:33 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-taps-bottoms-senior-post-names-new-wh-counsel-00039773">Biden taps former Atlanta mayor for senior post, names new W.H. counsel</a> Politico: Keisha Lance Bottoms will oversee the White House Office of Public Engagement. 
  <p class="updated_time"> 05:47 AM CT, Jun. 15 </p> 
@@ -194,6 +192,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/14/trump-tests-his-clout-in-slate-of-primaries-00039601">Trump reshapes GOP primaries as party notches big win in House special</a> Politico: Rep. Tom Rice, one of the 10 House Republicans who supported impeachment, lost his bid for reelection to a Trump-endorsed opponent. 
  <p class="updated_time"> 04:33 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/cornyn-murphy-tillis-sinema-guns-deal-senate-00039586">How a centrist, a liberal and 2 conservatives achieved 4-part harmony on guns</a> Politico: The Senate's ability to tackle mass shootings with both Democratic and GOP leaders' blessing relied on four lawmakers with disparate political identities coming together. 
+ <p class="updated_time"> 04:31 PM CT, Jun. 14 </p> 
+ <a href="https://www.politico.com/news/2022/06/14/biden-economy-afl-cio-00039580">Biden strains for a message on deteriorating economy</a> Politico: Addressing AFL-CIO conference, president struggles to express confidence as Fed weighs hefty rate hike. 
  <p class="updated_time"> 12:42 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/cotton-big-donors-2024-presidential-race-00039476">Cotton gathers big donors to talk 2024 presidential race</a> Politico: The Arkansas senator's top adviser gave a presentation detailing, among other things, Cotton's early outreach in Iowa and New Hampshire. 
  <p class="updated_time"> 12:41 PM CT, Jun. 14 </p> 
