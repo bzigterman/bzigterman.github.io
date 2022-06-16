@@ -1,4 +1,4 @@
-name: autoweather
+name: websiteupdater
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  run-autoweather:
+  run-websiteupdater:
     runs-on: macOS-latest
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
@@ -32,7 +32,7 @@ jobs:
           brew install proj
           R -e 'source("install-packages.R", echo = TRUE)'
         
-      - name: Download Parse and Update Weather Data
+      - name: Download Parse and Update Data
         run: |-
           Rscript weather.R
           Rscript news.R
@@ -44,7 +44,7 @@ jobs:
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed
         run: |-
-          git config user.name "autoweather"
+          git config user.name "websiteupdater"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
