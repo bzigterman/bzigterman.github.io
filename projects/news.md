@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:50 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61831193?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Saudi embassy street in US renamed after murdered journalist</a> BBC: Washington DC unveils Jamal Khashoggi Way as a reminder of the journalist murdered by Saudi agents. 
  <p class="updated_time"> 09:57 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61824202?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Family speak of heartbreak over killings</a> BBC: A suspect has confessed to burying the bodies of journalist Dom Phillips and indigenous expert Bruno Pereira. 
  <p class="updated_time"> 09:28 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
- <p class="updated_time"> 09:05 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61830285?at_medium=RSS&at_campaign=KARANGA">Tom Hanks shouts at fans after causing wife to trip</a> BBC: The actor was filmed becoming angry after his wife tripped as they left a New York restaurant. 
  <p class="updated_time"> 07:22 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61823521?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey granted bail over sexual assault charges</a> BBC: The Oscar-winning actor "strenuously denies" allegations he sexually assaulted three men, a court hears. 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
