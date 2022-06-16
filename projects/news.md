@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
+ <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61828229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU leaders back immediate candidate status for Kyiv</a> BBC: Ukraine belongs to the European family, the leaders of Germany, France, Italy and Romania say in Kyiv. 
  <p class="updated_time"> 01:16 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61831961?at_medium=RSS&at_campaign=KARANGA">Russian GRU spy tried to infiltrate International Criminal Court</a> BBC: The man used a fake name and pretended to be Brazilian, but security officials say he is a deep-cover spy. 
  <p class="updated_time"> 12:58 PM CT, Jun. 16 </p> 
@@ -119,7 +121,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel leaders prepare to call Ginni Thomas</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
  <p class="updated_time"> 11:03 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive in-fighting handed Eric Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
+ <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive infighting handed Eric Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
  <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
