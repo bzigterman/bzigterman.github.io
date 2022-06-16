@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
+ <p class="updated_time"> 03:09 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61834957?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump pressed Pence in 'illegal' bid to quash vote</a> BBC: The claim that Mr Pence could overturn the election directly contributed to violence, lawmakers say. 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
@@ -157,7 +159,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel: Trump dictated false statement claiming Pence could overturn election</a> Politico: “The vice president and I are in total agreement that the vice president has the power to act,” Trump said in an untrue statement on Jan. 5, 2021. 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Key Trump lawyer sought presidential pardon after effort to overturn election failed</a> Politico: John Eastman asked Rudy Giuliani if he could be on Trump's "pardon list," according to an email the Jan. 6 panel revealed Thursday. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
