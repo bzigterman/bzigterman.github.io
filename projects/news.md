@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 AM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
  <p class="updated_time"> 10:50 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61831193?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Saudi embassy street in US renamed after murdered journalist</a> BBC: Washington DC unveils Jamal Khashoggi Way as a reminder of the journalist murdered by Saudi agents. 
  <p class="updated_time"> 09:57 AM CT, Jun. 16 </p> 
@@ -104,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel leaders prepare to call Ginni Thomas</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
  <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
@@ -127,15 +131,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel to spotlight pressure campaign against Pence</a> Politico: The select committee will try to convince the public Thursday that Donald Trump’s work with John Eastman turned into a criminal effort to subvert the election. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel to spotlight pressure campaign against Pence</a> Politico: The select committee will try to convince the public Thursday that Donald Trump’s work with John Eastman turned into a criminal effort to subvert the election. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/matt-dolan-ohio-00040056">Matt Dolan lost to J.D. Vance in Ohio. But he isn’t giving up on a post-Trump GOP.</a> Politico: The former Senate primary candidate is forming a PAC designed to boost “pragmatic” candidates in Ohio and elsewhere — including himself. 
  <p class="updated_time"> 02:43 AM CT, Jun. 16 </p> 
@@ -160,8 +164,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/confederate-flag-toting-man-son-convicted-in-capitol-riot-00039989">Confederate flag-toting man, son convicted in Capitol riot</a> Politico: Photographs showed Kevin Seefried carrying a Confederate flag inside the Capitol after he and Hunter Seefried entered the building through a broken window. 
  <p class="updated_time"> 03:03 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105293158/states-slow-to-make-juneteenth-paid-holiday">States are slow to make Juneteenth a paid holiday</a> NPR: Although almost every state recognizes Juneteenth in some fashion, many have been slow to do more than issue a proclamation or resolution. 
- <p class="updated_time"> 02:00 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/china-military-00039786">The U.S. overestimated Russia’s military might. Is it underestimating China’s?</a> Politico: Concerns about American blindspots on the Chinese military are a major factor driving reviews of U.S. assessments of foreign armed forces. 
  <p class="updated_time"> 01:28 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105104863/racial-ethnic-categories-omb-directive-15">Biden officials may change how the U.S. defines racial and ethnic groups by 2024</a> NPR: The Biden administration is starting a process that could change how the U.S. census and federal surveys produce racial and ethnic data that is used for redistricting and civil rights enforcement. 
  <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
