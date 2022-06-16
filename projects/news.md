@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:57 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61824202?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Family speak of heartbreak over killings</a> BBC: A suspect has confessed to burying the bodies of journalist Dom Phillips and indigenous expert Bruno Pereira. 
  <p class="updated_time"> 09:28 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
  <p class="updated_time"> 06:40 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61819852?at_medium=RSS&at_campaign=KARANGA">Climate change: Rich nations accused of 'betrayal' at Bonn talks</a> BBC: As key talks end, rich and poor countries are at loggerheads on the divisive issue of loss and damage. 
- <p class="updated_time"> 05:42 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61820607?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Suspect leads police to human remains</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in a remote area on 5 June. 
  <p class="updated_time"> 05:42 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61824059?at_medium=RSS&at_campaign=KARANGA">US-led coalition capture senior IS leader in north Syria raid</a> BBC: Troops were dropped by helicopters and left minutes later with the man, reports say. 
  <p class="updated_time"> 05:26 AM CT, Jun. 16 </p> 
