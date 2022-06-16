@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61831961?at_medium=RSS&at_campaign=KARANGA">Russian GRU spy tried to infiltrate International Criminal Court</a> BBC: The man used a fake name and pretended to be Brazilian, but security officials say he is a deep-cover spy. 
+ <p class="updated_time"> 12:58 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61819852?at_medium=RSS&at_campaign=KARANGA">Climate change: Bonn talks end in acrimony over compensation</a> BBC: Key talks end with rich and poor countries at loggerheads on the divisive issue of loss and damage. 
  <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61825525?at_medium=RSS&at_campaign=KARANGA">Lavrov: Russia is not squeaky clean and not ashamed</a> BBC: Russia's foreign minister tells the BBC that the West is pressing UN officials to amplify fake news. 
  <p class="updated_time"> 11:29 AM CT, Jun. 16 </p> 
@@ -21,6 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
+ <p class="updated_time"> 08:55 AM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940">France, Germany, Italy, Romania Back Ukraine's Bid for EU Membership</a> WSJ: The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West. 
+ <p class="updated_time"> 07:35 AM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/colombia-election-weighs-on-future-of-oil-sector-11655397102">Colombia Election Weighs On Future of Oil Sector</a> WSJ: Both candidates on Sunday’s presidential ballot oppose fracking, while state company Ecopetrol is looking to try the practice to bolster dwindling reserves. 
  <p class="updated_time"> 07:22 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61823521?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey granted bail over sexual assault charges</a> BBC: The Oscar-winning actor "strenuously denies" allegations he sexually assaulted three men, a court hears. 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
@@ -29,10 +37,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 06:41 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
- <p class="updated_time"> 06:40 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61819852?at_medium=RSS&at_campaign=KARANGA">Climate change: Rich nations accused of 'betrayal' at Bonn talks</a> BBC: As key talks end, rich and poor countries are at loggerheads on the divisive issue of loss and damage. 
  <p class="updated_time"> 05:42 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61824059?at_medium=RSS&at_campaign=KARANGA">US-led coalition capture senior IS leader in north Syria raid</a> BBC: Troops were dropped by helicopters and left minutes later with the man, reports say. 
+ <p class="updated_time"> 05:29 AM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-war-global-arms-market-emerges-as-a-new-front-11655389740">In Ukraine War, Global Arms Market Emerges as a New Front</a> WSJ: Weapons brokers and government officials allege Moscow is intimidating sellers and outbidding Kyiv to block access to weapons. 
  <p class="updated_time"> 05:26 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61825319?at_medium=RSS&at_campaign=KARANGA">Beyoncé announces her first album in six years, Renaissance</a> BBC: The star's seventh album will be called Renaissance, and fans only have to wait one month to hear it. 
  <p class="updated_time"> 04:53 AM CT, Jun. 16 </p> 
@@ -45,18 +53,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105390566/trade-dispute-uk-eu-erupts-post-brexit-deal">A trade dispute between the U.K. and the EU erupts over post-Brexit deal</a> NPR: The international trade dispute has drawn widespread condemnation and threatened to disrupt the relative peace in Northern Ireland since the 1998 Good Friday Agreement in Belfast. 
  <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1104924556/fathers-day-spanikopita-recipe">A father's recipe that crossed three continents</a> NPR: Papa's recipe traveled over generations from Greece to Egypt and back again. It will never mean the same thing to the people who randomly find it online, but it will still be delicious. 
- <p class="updated_time"> 03:16 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940">European Leaders Visit Ukraine as Kyiv Renews Calls for More Military Support</a> WSJ: French President Emmanuel Macron, German Chancellor Olaf Scholz and Italian Prime Minister Mario Draghi met with President Volodymyr Zelensky in the Ukrainian capital. 
  <p class="updated_time"> 02:36 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-chinese-bombast-on-taiwan-masks-effort-to-ratchet-down-tensions-11655379363">U.S. and Chinese Bombast on Taiwan Masks Effort to Ratchet Down Tensions</a> WSJ: While China and the U.S. exchanged testy salvos at a recent gathering of military officials, the rhetorical fireworks helped provide cover for a revived effort to cool tensions, diplomats and defense officials said. 
  <p class="updated_time"> 02:33 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105447087/ukraine-welcomes-us-weapons-hosts-european-leaders">Ukraine's Zelenskyy hosts European leaders, welcomes more U.S. weapons</a> NPR: Ukraine says it urgently needs the heavy artillery to counter Russia on the battlefield. Also, President Zelenskyy is looking for additional support as the leaders of Germany, France and Italy visit. 
- <p class="updated_time"> 02:10 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/energy-price-surge-threatens-u-n-climate-pledge-11655377854">Energy Price Surge Threatens U.N. Climate Pledge</a> WSJ: A United Nations agreement to accelerate greenhouse gas cuts this year has stalled, according to some negotiators, as most of the world’s biggest emitters have done little to follow through on the deal since it was struck seven months ago at the climate summit in Glasgow, Scotland. 
  <p class="updated_time"> 01:50 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105447097/australia-commits-to-reducing-greenhouse-emissions-by-43">Australia commits to reducing greenhouse emissions by 43%</a> NPR: The new government may face pressure to set even more ambitious goals for a country that is one of the world's largest exporters of coal and liquified natural gas. 
- <p class="updated_time"> 12:30 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/how-germany-took-over-russias-vast-gas-trading-empire-11655371854">How Germany Took Over Russia's Vast Gas-Trading Empire</a> WSJ: A reluctant steward, Berlin is now racing against the clock to save Russian gas giant Gazprom’s global trading activities and sell them, all while securing its own supply. 
  <p class="updated_time"> 12:00 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61683513?at_medium=RSS&at_campaign=KARANGA">'The Russians said beatings were my re-education'</a> BBC: Ukrainian citizens have told the BBC they were punched and electrocuted before being allowed to leave Mariupol. 
  <p class="updated_time"> 11:02 PM CT, Jun. 15 </p> 
@@ -98,8 +100,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:27 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105567417/jan-6-committee-trump-pence">Jan. 6 committee leaders say Trump broke the law by trying to pressure Pence</a> NPR: The former president's campaign to get his vice president to overturn the election "was not just wrong," said Vice Chair Liz Cheney, a Republican, "it was illegal and unconstitutional." 
+ <p class="updated_time"> 01:05 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/covid-fauci-rand-paul-00040210">Covid doesn't stop Anthony Fauci from taking on Rand Paul – again</a> Politico: The two engaged in their usual heated debate at a Senate HELP Committee hearing on Thursday. 
+ <p class="updated_time"> 12:42 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/senate-burn-pit-bill-biden-00040195">Senate advances bill on veterans' burn pit care</a> Politico: Biden, who has pushed for recognition of burn pit health risks since the campaign trail, is expected to swiftly sign the bill into law. 
  <p class="updated_time"> 12:13 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee plans to ask Ginni Thomas, wife of Justice Thomas, to testify</a> NPR: The panel will invite the wife of Supreme Court Justice Clarence Thomas to appear after reports that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
+ <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee plans to ask Ginni Thomas, wife of Justice Thomas, to testify</a> NPR: The wife of Supreme Court Justice Clarence Thomas indicated she would gladly appear after reports surfaced that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
  <p class="updated_time"> 12:01 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/senators-tack-45b-onto-bidens-defense-budget-00040154">Senators tack $45B onto Biden's defense budget</a> Politico: Lawmakers say high inflation and the need to arm Ukraine is adding to the cost. 
  <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
@@ -107,7 +115,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel leaders prepare to call Ginni Thomas</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
  <p class="updated_time"> 11:03 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive in-fighting handed Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
+ <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive in-fighting handed Eric Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
  <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
@@ -135,9 +143,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
@@ -162,8 +170,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/confederate-flag-toting-man-son-convicted-in-capitol-riot-00039989">Confederate flag-toting man, son convicted in Capitol riot</a> Politico: Photographs showed Kevin Seefried carrying a Confederate flag inside the Capitol after he and Hunter Seefried entered the building through a broken window. 
  <p class="updated_time"> 03:03 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105293158/states-slow-to-make-juneteenth-paid-holiday">States are slow to make Juneteenth a paid holiday</a> NPR: Although almost every state recognizes Juneteenth in some fashion, many have been slow to do more than issue a proclamation or resolution. 
- <p class="updated_time"> 01:28 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105104863/racial-ethnic-categories-omb-directive-15">Biden officials may change how the U.S. defines racial and ethnic groups by 2024</a> NPR: The Biden administration is starting a process that could change how the U.S. census and federal surveys produce racial and ethnic data that is used for redistricting and civil rights enforcement. 
  <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/mayra-flores-texas-republican-00039889">Meet Mayra Flores, the newly elected Latina Republican from South Texas</a> Politico: The first Mexican-born congresswoman will serve for the next seven months after a big special election win. 
  <p class="updated_time"> 12:38 PM CT, Jun. 15 </p> 
@@ -172,8 +178,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/biden-announces-1-billion-weapons-humanitarian-aid-to-ukraine-00039881">Biden announces additional $1B in weapons, humanitarian aid to Ukraine</a> Politico: Biden spoke with Ukrainian President Volodymyr Zelenskyy on Wednesday morning to reaffirm the United States’ support for the war-torn nation. 
  <p class="updated_time"> 11:31 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-plan-transgender-youth-health-care-00039844">Biden launches plan to protect transgender youths’ health care</a> Politico: An executive order will call on HHS to clarify that federally funded programs cannot offer conversion therapy. 
- <p class="updated_time"> 10:28 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/supreme-court-punts-on-case-tied-to-trumps-public-charge-rule-for-immigrants-00039818">Supreme Court punts on case tied to Trump's 'public charge' rule for immigrants</a> Politico: After hearing arguments, justices decline to issue ruling on whether states can defend policy Biden revoked 
  <p class="updated_time"> 08:33 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-taps-bottoms-senior-post-names-new-wh-counsel-00039773">Biden taps former Atlanta mayor for senior post, names new W.H. counsel</a> Politico: Keisha Lance Bottoms will oversee the White House Office of Public Engagement. 
  <p class="updated_time"> 05:47 AM CT, Jun. 15 </p> 
@@ -186,14 +190,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/14/trump-tests-his-clout-in-slate-of-primaries-00039601">Trump reshapes GOP primaries as party notches big win in House special</a> Politico: Rep. Tom Rice, one of the 10 House Republicans who supported impeachment, lost his bid for reelection to a Trump-endorsed opponent. 
  <p class="updated_time"> 04:33 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/cornyn-murphy-tillis-sinema-guns-deal-senate-00039586">How a centrist, a liberal and 2 conservatives achieved 4-part harmony on guns</a> Politico: The Senate's ability to tackle mass shootings with both Democratic and GOP leaders' blessing relied on four lawmakers with disparate political identities coming together. 
- <p class="updated_time"> 04:31 PM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/biden-economy-afl-cio-00039580">Biden strains for a message on deteriorating economy</a> Politico: Addressing AFL-CIO conference, president struggles to express confidence as Fed weighs hefty rate hike. 
  <p class="updated_time"> 12:42 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/cotton-big-donors-2024-presidential-race-00039476">Cotton gathers big donors to talk 2024 presidential race</a> Politico: The Arkansas senator's top adviser gave a presentation detailing, among other things, Cotton's early outreach in Iowa and New Hampshire. 
  <p class="updated_time"> 12:41 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/republican-immigration-dreamers-00039479">Republican donors to GOP leaders: Bipartisan immigration reform would ease inflation</a> Politico: On DACA’s 10th anniversary, a group of GOP business leaders said protecting Dreamers would help ease the nation’s labor shortages, reduce food prices and create jobs for all. 
- <p class="updated_time"> 07:00 AM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/biden-travel-to-middle-east-in-july-00039369">Biden to travel to Middle East in July, White House says</a> Politico: The president will make stops in Israel, the West Bank and then Saudi Arabia, where he’ll seek to rebuild relations just a year after vowing to make the kingdom a “pariah.” 
  <p class="updated_time"> 11:00 PM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/14/fbi-media-contacts-2016-campaign-00039383">Former FBI official had numerous unauthorized contacts with media during 2016 campaign, watchdog says</a> Politico: The DOJ's inspector general said Michael Steinbach, who retired in 2017, flouted law enforcement agency's policies by socializing with journalists. 
 
