@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61825525?at_medium=RSS&at_campaign=KARANGA">Lavrov: Russia is not squeaky clean and not ashamed</a> BBC: Russia's foreign minister tells the BBC that the West is pressing UN officials to amplify fake news. 
  <p class="updated_time"> 11:29 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
  <p class="updated_time"> 10:50 AM CT, Jun. 16 </p> 
@@ -39,32 +41,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105454252/a-u-s-led-military-raid-in-syria-captures-a-senior-is-leader">A U.S.-led military raid in Syria captures a senior IS leader</a> NPR: The coalition did not name the person but identified him as one of the top leaders of the extremist group's Syria branch. 
  <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105420315/ukraine-outnumbered-russia-advances-donbas-milley">Ukraine finds itself outnumbered as Russia advances in the Donbas</a> NPR: U.S. Gen. Mark Milley says Ukraine faces a shortfall of weapons and troops while battling Russia's latest offensive. 
- <p class="updated_time"> 04:05 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/chinese-slowdown-pushes-youth-unemployment-to-new-highs-11655384752">Chinese Slowdown Pushes Youth Unemployment to New Highs</a> WSJ: Joblessness among youth rose to 18.4% last month, the highest rate since before the pandemic and far above that of the U.S. or Europe. 
  <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105390566/trade-dispute-uk-eu-erupts-post-brexit-deal">A trade dispute between the U.K. and the EU erupts over post-Brexit deal</a> NPR: The international trade dispute has drawn widespread condemnation and threatened to disrupt the relative peace in Northern Ireland since the 1998 Good Friday Agreement in Belfast. 
  <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1104924556/fathers-day-spanikopita-recipe">A father's recipe that crossed three continents</a> NPR: Papa's recipe traveled over generations from Greece to Egypt and back again. It will never mean the same thing to the people who randomly find it online, but it will still be delicious. 
  <p class="updated_time"> 03:16 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940">European Leaders Visit Ukraine as Kyiv Renews Calls for More Military Support</a> WSJ: French President Emmanuel Macron, German Chancellor Olaf Scholz and Italian Prime Minister Mario Draghi met with President Volodymyr Zelensky in the Ukrainian capital. 
- <p class="updated_time"> 03:03 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61822749?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell lawyers want sentence 'well below' recommended term</a> BBC: Ghislaine Maxwell's legal team argue she should not be made a scapegoat for Jeffrey Epstein. 
- <p class="updated_time"> 02:39 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/turkey-u-n-eye-sea-lane-for-grain-through-ukraines-mines-11655379556">Turkey, U.N. Eye Sea Lane for Grain Through Ukraine's Mines</a> WSJ: The proposal would provide freighters a safe passage through the defensive mines in Black Sea ports as negotiators race to transport 20 million metric tons of Ukrainian grain that is due to be harvested. 
  <p class="updated_time"> 02:36 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-chinese-bombast-on-taiwan-masks-effort-to-ratchet-down-tensions-11655379363">U.S. and Chinese Bombast on Taiwan Masks Effort to Ratchet Down Tensions</a> WSJ: While China and the U.S. exchanged testy salvos at a recent gathering of military officials, the rhetorical fireworks helped provide cover for a revived effort to cool tensions, diplomats and defense officials said. 
  <p class="updated_time"> 02:33 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105447087/ukraine-welcomes-us-weapons-hosts-european-leaders">Ukraine's Zelenskyy hosts European leaders, welcomes more U.S. weapons</a> NPR: Ukraine says it urgently needs the heavy artillery to counter Russia on the battlefield. Also, President Zelenskyy is looking for additional support as the leaders of Germany, France and Italy visit. 
- <p class="updated_time"> 02:15 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61821423?at_medium=RSS&at_campaign=KARANGA">Eight million Australians urged to turn off lights</a> BBC: Australia's energy minister urges households to use less electricity in the face of a power crisis. 
  <p class="updated_time"> 02:10 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/energy-price-surge-threatens-u-n-climate-pledge-11655377854">Energy Price Surge Threatens U.N. Climate Pledge</a> WSJ: A United Nations agreement to accelerate greenhouse gas cuts this year has stalled, according to some negotiators, as most of the world’s biggest emitters have done little to follow through on the deal since it was struck seven months ago at the climate summit in Glasgow, Scotland. 
  <p class="updated_time"> 01:50 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105447097/australia-commits-to-reducing-greenhouse-emissions-by-43">Australia commits to reducing greenhouse emissions by 43%</a> NPR: The new government may face pressure to set even more ambitious goals for a country that is one of the world's largest exporters of coal and liquified natural gas. 
  <p class="updated_time"> 12:30 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/how-germany-took-over-russias-vast-gas-trading-empire-11655371854">How Germany Took Over Russia's Vast Gas-Trading Empire</a> WSJ: A reluctant steward, Berlin is now racing against the clock to save Russian gas giant Gazprom’s global trading activities and sell them, all while securing its own supply. 
- <p class="updated_time"> 12:09 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/prices-for-new-homes-in-china-slide-further-11655359023">Prices for New Homes in China Slide Further</a> WSJ: Government support measures for the industry have yet to take hold after a yearlong regulatory campaign aimed at reining in developers’ debt levels. 
  <p class="updated_time"> 12:00 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61683513?at_medium=RSS&at_campaign=KARANGA">'The Russians said beatings were my re-education'</a> BBC: Ukrainian citizens have told the BBC they were punched and electrocuted before being allowed to leave Mariupol. 
  <p class="updated_time"> 11:02 PM CT, Jun. 15 </p> 
@@ -106,8 +98,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:13 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee plans to ask Ginni Thomas, wife of Justice Thomas, to testify</a> NPR: The panel will invite the wife of Supreme Court Justice Clarence Thomas to appear after reports that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
+ <p class="updated_time"> 12:01 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/senators-tack-45b-onto-bidens-defense-budget-00040154">Senators tack $45B onto Biden's defense budget</a> Politico: Lawmakers say high inflation and the need to arm Ukraine is adding to the cost. 
+ <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/desantis-covid-vaccine-florida-kids-fda-00040191">DeSantis says Florida is ‘affirmatively against’ Covid-19 vaccines for young kids</a> Politico: “You are free to choose — that’s not the issue,” he also said. 
  <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel leaders prepare to call Ginni Thomas</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
+ <p class="updated_time"> 11:03 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive in-fighting handed Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
  <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
@@ -154,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/floridas-skips-ordering-covid-19-kids-vaccines-00040071">Florida is the only state to skip pre-ordering Covid-19 vaccines for kids</a> Politico: Florida’s Department of Health is led by state Surgeon General Joe Ladapo, an outspoken skeptic of the Covid-19 vaccine. 
  <p class="updated_time"> 07:47 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/michigan-dems-launch-lobbying-effort-to-earn-early-2024-primary-00040083">Michigan Dems launch lobbying effort to earn early 2024 primary</a> Politico: Democratic National Committee members are considering applications for early primaries from 17 states and territories later this year. 
- <p class="updated_time"> 06:45 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/latino-democrats-election-texas-00040057">Latino Democrats vent their fury after foreboding special election loss in Texas</a> Politico: Republicans picked up a district in the Rio Grande Valley that just a few years ago was giving Democrats comfortable double-digit margins. 
  <p class="updated_time"> 03:52 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105093912/russia-ukraine-war-what-happened-today-june-15">Russia-Ukraine war: What happened today (June 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:43 PM CT, Jun. 15 </p> 
@@ -168,16 +166,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/15/1105104863/racial-ethnic-categories-omb-directive-15">Biden officials may change how the U.S. defines racial and ethnic groups by 2024</a> NPR: The Biden administration is starting a process that could change how the U.S. census and federal surveys produce racial and ethnic data that is used for redistricting and civil rights enforcement. 
  <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/mayra-flores-texas-republican-00039889">Meet Mayra Flores, the newly elected Latina Republican from South Texas</a> Politico: The first Mexican-born congresswoman will serve for the next seven months after a big special election win. 
- <p class="updated_time"> 01:05 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105026915/federal-reserve-interest-rates-inflation">The Fed delivers biggest interest rate hike in decades to combat surging inflation</a> NPR: The Federal Reserve raised interest rates by three-quarters of a percentage point Wednesday in an effort to combat stubbornly high inflation. It's the biggest rate increase in 28 years. 
  <p class="updated_time"> 12:38 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/judge-rejects-bannons-effort-to-dismiss-criminal-case-for-defying-jan-6-select-committee-00039888">Judge rejects Bannon’s effort to dismiss criminal case for defying Jan. 6 select committee</a> Politico: U.S. District Court Judge Carl Nichols rebuffed a series of arguments Bannon had lodged, including that Trump had asserted executive privilege to block his former aide’s testimony. 
  <p class="updated_time"> 12:30 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-announces-1-billion-weapons-humanitarian-aid-to-ukraine-00039881">Biden announces additional $1B in weapons, humanitarian aid to Ukraine</a> Politico: Biden spoke with Ukrainian President Volodymyr Zelenskyy on Wednesday morning to reaffirm the United States’ support for the war-torn nation. 
  <p class="updated_time"> 11:31 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-plan-transgender-youth-health-care-00039844">Biden launches plan to protect transgender youths’ health care</a> Politico: An executive order will call on HHS to clarify that federally funded programs cannot offer conversion therapy. 
- <p class="updated_time"> 10:46 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/buffalo-supermarket-gunman-charged-with-federal-hate-crimes-00039841">Buffalo supermarket gunman charged with federal hate crimes</a> Politico: The white gunman who killed 10 Black people in a racist attack at a Buffalo supermarket was charged Wednesday with federal hate crimes and could face the death penalty. 
  <p class="updated_time"> 10:28 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/supreme-court-punts-on-case-tied-to-trumps-public-charge-rule-for-immigrants-00039818">Supreme Court punts on case tied to Trump's 'public charge' rule for immigrants</a> Politico: After hearing arguments, justices decline to issue ruling on whether states can defend policy Biden revoked 
  <p class="updated_time"> 08:33 AM CT, Jun. 15 </p> 
@@ -198,6 +192,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/14/cotton-big-donors-2024-presidential-race-00039476">Cotton gathers big donors to talk 2024 presidential race</a> Politico: The Arkansas senator's top adviser gave a presentation detailing, among other things, Cotton's early outreach in Iowa and New Hampshire. 
  <p class="updated_time"> 12:41 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/republican-immigration-dreamers-00039479">Republican donors to GOP leaders: Bipartisan immigration reform would ease inflation</a> Politico: On DACA’s 10th anniversary, a group of GOP business leaders said protecting Dreamers would help ease the nation’s labor shortages, reduce food prices and create jobs for all. 
+ <p class="updated_time"> 07:00 AM CT, Jun. 14 </p> 
+ <a href="https://www.politico.com/news/2022/06/14/biden-travel-to-middle-east-in-july-00039369">Biden to travel to Middle East in July, White House says</a> Politico: The president will make stops in Israel, the West Bank and then Saudi Arabia, where he’ll seek to rebuild relations just a year after vowing to make the kingdom a “pariah.” 
  <p class="updated_time"> 11:00 PM CT, Jun. 13 </p> 
  <a href="https://www.politico.com/news/2022/06/14/fbi-media-contacts-2016-campaign-00039383">Former FBI official had numerous unauthorized contacts with media during 2016 campaign, watchdog says</a> Politico: The DOJ's inspector general said Michael Steinbach, who retired in 2017, flouted law enforcement agency's policies by socializing with journalists. 
 
