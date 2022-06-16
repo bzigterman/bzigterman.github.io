@@ -100,6 +100,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:46 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/tensions-escalate-as-doj-renews-request-for-jan-6-panel-transcripts-00040267">Tensions escalate as DOJ renews request for Jan. 6 panel transcripts</a> Politico: The Justice Department is calling out select committee investigators over their refusal to share full witness transcripts. 
  <p class="updated_time"> 01:27 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105567417/jan-6-committee-trump-pence">Jan. 6 committee leaders say Trump broke the law by trying to pressure Pence</a> NPR: The former president's campaign to get his vice president to overturn the election "was not just wrong," said Vice Chair Liz Cheney, a Republican, "it was illegal and unconstitutional." 
  <p class="updated_time"> 01:05 PM CT, Jun. 16 </p> 
@@ -178,8 +180,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/biden-announces-1-billion-weapons-humanitarian-aid-to-ukraine-00039881">Biden announces additional $1B in weapons, humanitarian aid to Ukraine</a> Politico: Biden spoke with Ukrainian President Volodymyr Zelenskyy on Wednesday morning to reaffirm the United States’ support for the war-torn nation. 
  <p class="updated_time"> 11:31 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-plan-transgender-youth-health-care-00039844">Biden launches plan to protect transgender youths’ health care</a> Politico: An executive order will call on HHS to clarify that federally funded programs cannot offer conversion therapy. 
- <p class="updated_time"> 08:33 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/biden-taps-bottoms-senior-post-names-new-wh-counsel-00039773">Biden taps former Atlanta mayor for senior post, names new W.H. counsel</a> Politico: Keisha Lance Bottoms will oversee the White House Office of Public Engagement. 
  <p class="updated_time"> 05:47 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/proud-boys-leader-transfer-trial-jan-6-committee-instigated-riot-00039755">Proud Boys leader seeks transfer of trial after Jan. 6 committee builds case he instigated riot</a> Politico: Joseph Biggs contended that “media-attentive” Washingtonians will accept the select committee’s presentation about Biggs, which cast him as a central figure in igniting the breach. 
  <p class="updated_time"> 03:30 AM CT, Jun. 15 </p> 
