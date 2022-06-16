@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61803062?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Rifts divide abortion views in Mississippi</a> BBC: All eyes are on Mississippi as the US awaits a Supreme Court decision involving its last abortion clinic. 
  <p class="updated_time"> 11:01 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61816337?at_medium=RSS&at_campaign=KARANGA">Inside the room where Ukraine orders arms from the West</a> BBC: From an attic room in Germany, the West coordinates the supply of arms to Ukraine - but is it enough? 
- <p class="updated_time"> 10:13 AM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105188732/monkeypox-new-name-who-world-health">The WHO wants to give monkeypox a new name </a> NPR: Scientists recently criticized the current name as "discriminatory and stigmatizing." They also say it's inaccurate to name versions of the virus after parts of Africa. 
  <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
  <p class="updated_time"> 05:13 AM CT, Jun. 15 </p> 
@@ -104,6 +104,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633368/florida-isnt-ordering-doses-of-the-covid-vaccine-for-children-under-the-age-of-5">Florida isn't ordering doses of the COVID vaccine for children under the age of 5</a> NPR: Florida state officials won't order doses of the COVID vaccine for children under five years old. It's the only state that hasn't pre-ordered the new vaccines, which they did for prior versions. 
+ <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633347/the-senate-has-passed-a-historic-expansion-of-care-for-veterans">The Senate has passed a historic expansion of care for veterans</a> NPR: The Senate voted on a $280 billion package of care for veterans exposed to toxins from agent orange in Vietnam. It's a rare moment of bipartisan action and the largest expansion of VA care in history. 
+ <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
+ <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633321/jan-6-hearing-examined-lawyer-who-pushed-plan-for-pence-to-overturn-election-res">Jan. 6 hearing examined lawyer who pushed plan for Pence to overturn election results</a> NPR: The House Jan. 6 committee presented testimony about the pressure campaign against former Vice President Mike Pence as former President Trump and his allies tried to overturn the 2020 election. 
+ <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633307/sen-angus-king-on-latest-progress-on-bipartisan-talks-over-gun-reform-legislatio">Sen. Angus King on latest progress on bipartisan talks over gun reform legislation</a> NPR: NPR's Ari Shapiro speaks with Maine Sen. Angus King, an independent who caucuses with Democrats, on where bipartisan negotiations over legislation on gun safety stand in the Senate. 
+ <p class="updated_time"> 03:29 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105607895/judge-michael-luttig-john-eastman-jan-6">A respected conservative judge is now a critic of his party — and former clerks</a> NPR: Retired federal judge J. Michael Luttig was questioned by one of his former law clerks about the role of another in the insurrection. He hss spoken out against former clerks John Eastman and Ted Cruz. 
  <p class="updated_time"> 01:46 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/tensions-escalate-as-doj-renews-request-for-jan-6-panel-transcripts-00040267">Tensions escalate as DOJ renews request for Jan. 6 panel transcripts</a> Politico: The Justice Department is calling out select committee investigators over their refusal to share full witness transcripts. 
  <p class="updated_time"> 01:27 PM CT, Jun. 16 </p> 
@@ -113,7 +125,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:42 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/senate-burn-pit-bill-biden-00040195">Senate advances bill on veterans' burn pit care</a> Politico: Biden, who has pushed for recognition of burn pit health risks since the campaign trail, is expected to swiftly sign the bill into law. 
  <p class="updated_time"> 12:13 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee plans to ask Ginni Thomas, wife of Justice Thomas, to testify</a> NPR: The wife of Supreme Court Justice Clarence Thomas indicated she would gladly appear after reports surfaced that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
+ <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee asks Ginni Thomas, wife of Justice Clarence Thomas, to testify</a> NPR: Ginni Thomas said she would "look forward" to talking to the committee after reports surfaced that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
  <p class="updated_time"> 12:01 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/senators-tack-45b-onto-bidens-defense-budget-00040154">Senators tack $45B onto Biden's defense budget</a> Politico: Lawmakers say high inflation and the need to arm Ukraine is adding to the cost. 
  <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
@@ -156,26 +168,14 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/matt-dolan-ohio-00040056">Matt Dolan lost to J.D. Vance in Ohio. But he isn’t giving up on a post-Trump GOP.</a> Politico: The former Senate primary candidate is forming a PAC designed to boost “pragmatic” candidates in Ohio and elsewhere — including himself. 
- <p class="updated_time"> 02:43 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105447454/house-bill-police-security-supreme-court-justices-families-scotus-senate-biden">House passes a bill giving police security to families of Supreme Court justices</a> NPR: The legislation was introduced by Sen. John Cornyn, a Texas Republican, and unanimously passed the Senate last month. 
- <p class="updated_time"> 01:26 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105445493/keisha-lance-bottoms-biden-administration-position-role-atlanta-mayor">Former Atlanta Mayor Keisha Lance Bottoms is joining the Biden administration</a> NPR: Bottoms was considered for the role of vice president during Joe Biden's 2020 presidential campaign. 
  <p class="updated_time"> 11:06 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/16/australia-emissions-greenhouse-gases-00040123">Australia commits to reducing greenhouse emissions by 43%</a> Politico: Prime Minister Anthony Albanese said  legislation to enshrine the new target in law would be introduced to the new Parliament. 
- <p class="updated_time"> 08:50 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105429864/palin-begich-gross-advance-alaska-us-house-race">Palin, Begich and Gross advance in the Alaska U.S. House race</a> NPR: The top four vote-getters in the special primary advance to a special election, set for Aug. 16, in which ranked choice voting will be used. 
  <p class="updated_time"> 08:00 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/floridas-skips-ordering-covid-19-kids-vaccines-00040071">Florida is the only state to skip pre-ordering Covid-19 vaccines for kids</a> Politico: Florida’s Department of Health is led by state Surgeon General Joe Ladapo, an outspoken skeptic of the Covid-19 vaccine. 
  <p class="updated_time"> 07:47 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/michigan-dems-launch-lobbying-effort-to-earn-early-2024-primary-00040083">Michigan Dems launch lobbying effort to earn early 2024 primary</a> Politico: Democratic National Committee members are considering applications for early primaries from 17 states and territories later this year. 
- <p class="updated_time"> 03:52 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105093912/russia-ukraine-war-what-happened-today-june-15">Russia-Ukraine war: What happened today (June 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:43 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105318182/as-daca-turns-10-some-recipients-are-split-between-celebration-and-frustration">As DACA turns 10, some recipients are split between celebration and frustration</a> NPR: Ten years ago, the Obama administration announced Deferred Action for Childhood Arrival. NPR's Mary Louise Kelly speaks with DACA recipients Diana Pliego and Esder Chong about the past decade. 
  <p class="updated_time"> 03:36 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/confederate-flag-toting-man-son-convicted-in-capitol-riot-00039989">Confederate flag-toting man, son convicted in Capitol riot</a> Politico: Photographs showed Kevin Seefried carrying a Confederate flag inside the Capitol after he and Hunter Seefried entered the building through a broken window. 
- <p class="updated_time"> 03:03 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105293158/states-slow-to-make-juneteenth-paid-holiday">States are slow to make Juneteenth a paid holiday</a> NPR: Although almost every state recognizes Juneteenth in some fashion, many have been slow to do more than issue a proclamation or resolution. 
  <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/mayra-flores-texas-republican-00039889">Meet Mayra Flores, the newly elected Latina Republican from South Texas</a> Politico: The first Mexican-born congresswoman will serve for the next seven months after a big special election win. 
  <p class="updated_time"> 12:38 PM CT, Jun. 15 </p> 
