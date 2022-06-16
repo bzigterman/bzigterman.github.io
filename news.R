@@ -110,11 +110,11 @@ cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-politics_news <- full_join(politico_politics, nyt_politics) %>%
-  full_join(politico_playbook) %>%
-  full_join(politico_huddle) %>%
-  full_join(politico_congress) %>%
-  full_join(npr_politics) %>%
+politics_news <- full_join(politico_politics, npr_politics) %>%
+  #full_join(politico_playbook) %>%
+  #full_join(politico_huddle) %>%
+  #full_join(politico_congress) %>%
+  #full_join(npr_politics) %>%
   full_join(cnn_politics) %>%
   #full_join(bloomberg_politics) %>%
   #full_join(wapo_politics) %>%
@@ -196,9 +196,9 @@ npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
                                format = "%I:%M% %p CT, %b. %d"))
 
 
-world_news <- full_join(nyt, wsj) %>%
-  full_join(bbc) %>%
-  full_join(wsj_world) %>%
+world_news <- full_join(bbc, wsj) %>%
+  #full_join(bbc) %>%
+  #full_join(wsj_world) %>%
   full_join(npr_world) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
