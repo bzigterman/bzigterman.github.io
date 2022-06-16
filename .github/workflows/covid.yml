@@ -3,7 +3,7 @@ name: autocovid
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/16 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   run-autocovid:
