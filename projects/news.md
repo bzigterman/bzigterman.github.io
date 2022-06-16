@@ -108,6 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105513685/recap-jan-6-committee-hearing">Pence prevented a fall into chaos, and 3 other takeaways from Jan. 6 hearing</a> NPR: The committee laid out how Trump and a lawyer advising him pressured Pence even after Trump was aware there was a riot. The question now is whether Trump could face criminal consequences. 
+ <p class="updated_time"> 04:56 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-committee-doj-trump-00040320">The Jan. 6 select committee makes a criminal referral — its own way</a> Politico: For all the quibbling over whether they should ask DOJ to investigate Donald Trump, panel members effectively did so on Thursday. 
  <p class="updated_time"> 04:44 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
@@ -118,6 +122,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/16/treasury-tax-revenue-surge-00039880">Treasury reaps windfall even without Democrats' tax increases</a> Politico: The surge could prove awkward for Democrats hoping to revive their “reconciliation” spending package, which would hike a number of taxes on the wealthy. 
  <p class="updated_time"> 03:55 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/j-michael-luttig-opening-statement-jan-6-hearing-00040255">Read: J. Michael Luttig's opening statement at Jan. 6 select committee hearing</a> Politico: Read former judge J. Michael Luttig's full opening remarks 
+ <p class="updated_time"> 03:47 PM CT, Jun. 16 </p> 
+ <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">3 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 03:33 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633368/florida-isnt-ordering-doses-of-the-covid-vaccine-for-children-under-the-age-of-5">Florida isn't ordering doses of the COVID vaccine for children under the age of 5</a> NPR: Florida state officials won't order doses of the COVID vaccine for children under five years old. It's the only state that hasn't pre-ordered the new vaccines, which they did for prior versions. 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
@@ -160,8 +166,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105451218/visiting-the-national-portrait-gallery-with-bob-woodward-50-years-after-watergat">Bob Woodward recounts the Watergate story in an art museum</a> NPR: Decades after the break-in at the Democratic National Committee headquarters in Washington, D.C., reporter Bob Woodward visits a National Portrait Gallery exhibition about the Watergate scandal. 
  <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105451197/in-its-third-hearing-the-house-jan-6-panel-will-hear-from-2-witnesses">In its third hearing, the House Jan. 6 panel will hear from 2 witnesses</a> NPR: The House select committee investigating the insurrection at the U.S. Capitol will focus on how ex- President Donald Trump pressured then-Vice President Mike Pence not to count lawful electoral votes. 
- <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105451169/morning-news-brief">News brief: Jan. 6 panel hearing, Fighting in eastern Ukraine, Fed rate hike </a> NPR: The House Jan. 6 committee holds its third public hearing. Ukraine struggles to hold off Russian advances in the eastern Donbas region. The Federal Reserve announced a big jump in interest rates. 
  <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
@@ -188,8 +192,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/mayra-flores-texas-republican-00039889">Meet Mayra Flores, the newly elected Latina Republican from South Texas</a> Politico: The first Mexican-born congresswoman will serve for the next seven months after a big special election win. 
  <p class="updated_time"> 12:38 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/judge-rejects-bannons-effort-to-dismiss-criminal-case-for-defying-jan-6-select-committee-00039888">Judge rejects Bannon’s effort to dismiss criminal case for defying Jan. 6 select committee</a> Politico: U.S. District Court Judge Carl Nichols rebuffed a series of arguments Bannon had lodged, including that Trump had asserted executive privilege to block his former aide’s testimony. 
- <p class="updated_time"> 12:30 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/biden-announces-1-billion-weapons-humanitarian-aid-to-ukraine-00039881">Biden announces additional $1B in weapons, humanitarian aid to Ukraine</a> Politico: Biden spoke with Ukrainian President Volodymyr Zelenskyy on Wednesday morning to reaffirm the United States’ support for the war-torn nation. 
  <p class="updated_time"> 11:31 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/biden-plan-transgender-youth-health-care-00039844">Biden launches plan to protect transgender youths’ health care</a> Politico: An executive order will call on HHS to clarify that federally funded programs cannot offer conversion therapy. 
  <p class="updated_time"> 05:47 AM CT, Jun. 15 </p> 
