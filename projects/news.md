@@ -105,7 +105,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid pandemic battle, lost the Covid politics war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
+ <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
  <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105478840/committee-deadlocks-on-bidens-pick-to-lead-firearms-agency">Committee deadlocks on Biden's pick to lead firearms agency </a> NPR: Democrats can still advance the nomination of Steve Dettelbach to lead the ATF using procedural moves. 
  <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
@@ -129,13 +129,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Jan. 6 panel to spotlight pressure campaign against Pence</a> Politico: The select committee will try to convince the public Thursday that Donald Trump’s work with John Eastman turned into a criminal effort to subvert the election. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/matt-dolan-ohio-00040056">Matt Dolan lost to J.D. Vance in Ohio. But he isn’t giving up on a post-Trump GOP.</a> Politico: The former Senate primary candidate is forming a PAC designed to boost “pragmatic” candidates in Ohio and elsewhere — including himself. 
  <p class="updated_time"> 02:43 AM CT, Jun. 16 </p> 
@@ -152,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/michigan-dems-launch-lobbying-effort-to-earn-early-2024-primary-00040083">Michigan Dems launch lobbying effort to earn early 2024 primary</a> Politico: Democratic National Committee members are considering applications for early primaries from 17 states and territories later this year. 
  <p class="updated_time"> 06:45 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/latino-democrats-election-texas-00040057">Latino Democrats vent their fury after foreboding special election loss in Texas</a> Politico: Republicans picked up a district in the Rio Grande Valley that just a few years ago was giving Democrats comfortable double-digit margins. 
- <p class="updated_time"> 04:24 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/de-blasio-quietly-backed-adams-now-things-are-getting-awkward-00038108">Clash of the New York titans: Tensions rise between onetime allies Adams and de Blasio</a> Politico: Even more daylight has shone through between the longtime Brooklyn political allies now that Bill de Blasio is gunning for Congress. 
  <p class="updated_time"> 03:52 PM CT, Jun. 15 </p> 
  <a href="https://www.npr.org/2022/06/15/1105093912/russia-ukraine-war-what-happened-today-june-15">Russia-Ukraine war: What happened today (June 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:43 PM CT, Jun. 15 </p> 
