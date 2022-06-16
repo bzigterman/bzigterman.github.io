@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105462649/russia-ukraine-war-what-happened-today-june-16">Russia-Ukraine war: What happened today (June 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61834957?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump pressed Pence in 'illegal' bid to quash vote</a> BBC: The claim that Mr Pence could overturn the election directly contributed to violence, lawmakers say. 
+ <p class="updated_time"> 03:46 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633396/estefan-and-garcia-play-parents-of-the-bride-in-new-adaptation-of-classic-film">Estefan and Garcia play parents 'of the Bride" in new adaptation of classic film</a> NPR: NPR's Ailsa Chang talks with Andy Garcia and Gloria Estefan about their new movie Father of the Bride, which is a fresh take on a familiar story: Dad finds out his daughter is getting married. 
+ <p class="updated_time"> 03:43 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105633389/missing-men-were-killed-trying-to-warn-of-illegal-activity-threatening-the-amazo">Missing men were killed trying to warn of illegal activity threatening the Amazon</a> NPR: It appears journalist Dom Phillips and researcher Bruno Pereira were killed reporting in the Amazon. Guardian environmental editor John Watts reflects on their work and why the region is so perilous. 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
- <p class="updated_time"> 03:09 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61834957?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump pressed Pence in 'illegal' bid to quash vote</a> BBC: The claim that Mr Pence could overturn the election directly contributed to violence, lawmakers say. 
+ <p class="updated_time"> 03:13 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61830925?at_medium=RSS&at_campaign=KARANGA">Markets slide as rate rises fuel economy fears</a> BBC: The Dow Jones share index closed below 30,000 at its lowest level in more than a year. 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
@@ -71,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105447097/australia-commits-to-reducing-greenhouse-emissions-by-43">Australia commits to reducing greenhouse emissions by 43%</a> NPR: The new government may face pressure to set even more ambitious goals for a country that is one of the world's largest exporters of coal and liquified natural gas. 
  <p class="updated_time"> 12:00 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61683513?at_medium=RSS&at_campaign=KARANGA">'The Russians said beatings were my re-education'</a> BBC: Ukrainian citizens have told the BBC they were punched and electrocuted before being allowed to leave Mariupol. 
- <p class="updated_time"> 11:02 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/16/1105441188/a-suspect-confesses-to-killing-pair-missing-in-amazon-police-say">A suspect confesses to killing pair missing in Amazon, police say</a> NPR: Police say they arrested a second suspect identified as a brother of the main suspect in the deaths of an Indigenous expert and British journalist. 
  <p class="updated_time"> 08:44 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61807623?at_medium=RSS&at_campaign=KARANGA">Ayahs' Home: Remembering the forgotten Indian nannies of London</a> BBC: A London building that housed Indian nannies left to fend for themselves during the British Raj is being honoured. 
  <p class="updated_time"> 08:31 PM CT, Jun. 15 </p> 
@@ -83,10 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 06:05 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61793984?at_medium=RSS&at_campaign=KARANGA">How human-like are the most sophisticated chatbots?</a> BBC: As a Google engineer says his firm's top chatbot has feelings, just how lifelike is the technology? 
- <p class="updated_time"> 03:52 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105093912/russia-ukraine-war-what-happened-today-june-15">Russia-Ukraine war: What happened today (June 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:40 PM CT, Jun. 15 </p> 
- <a href="https://www.npr.org/2022/06/15/1105318161/whats-motivating-the-foreigners-who-have-gone-to-ukraine-to-fight-against-russia">What's motivating the foreigners who have gone to Ukraine to fight against Russia</a> NPR: The U.S. State Department says it is "aware of unconfirmed reports of two U.S. citizens captured in Ukraine." They are believed to among the  thousands of foreigners who have gone to fight in Ukraine. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
  <p class="updated_time"> 11:24 AM CT, Jun. 15 </p> 
