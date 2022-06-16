@@ -14,15 +14,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:51 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61834957?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump pressed Pence in 'illegal' bid to quash vote</a> BBC: The claim that Mr Pence could overturn the election directly contributed to violence, lawmakers say. 
  <p class="updated_time"> 03:46 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633396/estefan-and-garcia-play-parents-of-the-bride-in-new-adaptation-of-classic-film">Estefan and Garcia play parents 'of the Bride" in new adaptation of classic film</a> NPR: NPR's Ailsa Chang talks with Andy Garcia and Gloria Estefan about their new movie Father of the Bride, which is a fresh take on a familiar story: Dad finds out his daughter is getting married. 
+ <a href="https://www.npr.org/2022/06/16/1105633396/estefan-and-garcia-play-parents-of-the-bride-in-new-adaptation-of-classic-film">Estefan and Garcia play parents 'of the Bride' in new adaptation of classic film</a> NPR: NPR's Ailsa Chang talks with Andy Garcia and Gloria Estefan about their new movie Father of the Bride, which is a fresh take on a familiar story: Dad finds out his daughter is getting married. 
  <p class="updated_time"> 03:43 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633389/missing-men-were-killed-trying-to-warn-of-illegal-activity-threatening-the-amazo">Missing men were killed trying to warn of illegal activity threatening the Amazon</a> NPR: It appears journalist Dom Phillips and researcher Bruno Pereira were killed reporting in the Amazon. Guardian environmental editor John Watts reflects on their work and why the region is so perilous. 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
  <p class="updated_time"> 03:13 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61830925?at_medium=RSS&at_campaign=KARANGA">Markets slide as rate rises fuel economy fears</a> BBC: The Dow Jones share index closed below 30,000 at its lowest level in more than a year. 
+ <a href="https://www.bbc.co.uk/news/business-61830925?at_medium=RSS&at_campaign=KARANGA">Stock markets see big falls as economy fears grow</a> BBC: The Dow Jones share index closed below 30,000 at its lowest level in more than a year. 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup will be announced today </a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
+ <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup are announced</a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61828229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU leaders back immediate candidate status for Kyiv</a> BBC: Ukraine belongs to the European family, the leaders of Germany, France, Italy and Romania say in Kyiv. 
  <p class="updated_time"> 01:16 PM CT, Jun. 16 </p> 
@@ -108,6 +108,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
+ <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
+ <p class="updated_time"> 04:22 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105600339/january-6-house-committee-capitol-donald-trump-schiff">American democracy is more vulnerable now than on Jan. 6, Schiff says amid hearings</a> NPR: American democracy is more vulnerable today than it was on January 6 because the "big lie" that Donald Trump won the 2020 election has spread, says Rep. Adam Schiff (D-CA). 
+ <p class="updated_time"> 04:11 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/treasury-tax-revenue-surge-00039880">Treasury reaps windfall even without Democrats' tax increases</a> Politico: The surge could prove awkward for Democrats hoping to revive their “reconciliation” spending package, which would hike a number of taxes on the wealthy. 
+ <p class="updated_time"> 03:55 PM CT, Jun. 16 </p> 
+ <a href="https://www.politico.com/news/2022/06/16/j-michael-luttig-opening-statement-jan-6-hearing-00040255">Read: J. Michael Luttig's opening statement at Jan. 6 select committee hearing</a> Politico: Read former judge J. Michael Luttig's full opening remarks 
  <p class="updated_time"> 03:33 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633368/florida-isnt-ordering-doses-of-the-covid-vaccine-for-children-under-the-age-of-5">Florida isn't ordering doses of the COVID vaccine for children under the age of 5</a> NPR: Florida state officials won't order doses of the COVID vaccine for children under five years old. It's the only state that hasn't pre-ordered the new vaccines, which they did for prior versions. 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
@@ -119,7 +129,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633307/sen-angus-king-on-latest-progress-on-bipartisan-talks-over-gun-reform-legislatio">Sen. Angus King on latest progress on bipartisan talks over gun reform legislation</a> NPR: NPR's Ari Shapiro speaks with Maine Sen. Angus King, an independent who caucuses with Democrats, on where bipartisan negotiations over legislation on gun safety stand in the Senate. 
  <p class="updated_time"> 03:29 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105607895/judge-michael-luttig-john-eastman-jan-6">A respected conservative judge is now a critic of his party — and former clerks</a> NPR: Retired federal judge J. Michael Luttig was questioned by one of his former law clerks about the role of another in the insurrection. He hss spoken out against former clerks John Eastman and Ted Cruz. 
+ <a href="https://www.npr.org/2022/06/16/1105607895/judge-michael-luttig-john-eastman-jan-6">A respected conservative judge is now a critic of his party — and former clerks</a> NPR: Retired federal Judge J. Michael Luttig was questioned by one of his former law clerks about the role of another in the insurrection. He has spoken out against former clerks John Eastman and Ted Cruz. 
  <p class="updated_time"> 01:46 PM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/tensions-escalate-as-doj-renews-request-for-jan-6-panel-transcripts-00040267">Tensions escalate as DOJ renews request for Jan. 6 panel transcripts</a> Politico: The Justice Department is calling out select committee investigators over their refusal to share full witness transcripts. 
  <p class="updated_time"> 01:27 PM CT, Jun. 16 </p> 
@@ -135,7 +145,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/desantis-covid-vaccine-florida-kids-fda-00040191">DeSantis says Florida is ‘affirmatively against’ Covid-19 vaccines for young kids</a> Politico: “You are free to choose — that’s not the issue,” he also said. 
  <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel leaders prepare to call Ginni Thomas</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
+ <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel calls Ginni Thomas to testify</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
  <p class="updated_time"> 11:03 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive infighting handed Eric Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
  <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
@@ -152,18 +162,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105451197/in-its-third-hearing-the-house-jan-6-panel-will-hear-from-2-witnesses">In its third hearing, the House Jan. 6 panel will hear from 2 witnesses</a> NPR: The House select committee investigating the insurrection at the U.S. Capitol will focus on how ex- President Donald Trump pressured then-Vice President Mike Pence not to count lawful electoral votes. 
  <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105451169/morning-news-brief">News brief: Jan. 6 panel hearing, Fighting in eastern Ukraine, Fed rate hike </a> NPR: The House Jan. 6 committee holds its third public hearing. Ukraine struggles to hold off Russian advances in the eastern Donbas region. The Federal Reserve announced a big jump in interest rates. 
- <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105273655/jan-6-committee-what-to-expect-how-to-watch">The Jan. 6 committee is meeting Thursday. Here's what to expect </a> NPR: The panel's third meeting this month will focus on how former President Trump pressured former Vice President Mike Pence not to count lawful electoral votes. The hearing starts at 1 p.m. ET. 
- <p class="updated_time"> 04:00 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105279623/jan-6-committee-trump-campaign-legal-defense-fund">The Jan. 6 committee says the Trump campaign ripped off donors. But was it illegal?</a> NPR: Rep. Zoe Lofgren said Monday the Trump campaign took $250 million in donations but didn't use it for the legal defense funding it claimed to need it for. 
- <p class="updated_time"> 04:00 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105158079/in-new-edition-of-classic-watergate-expose-woodward-and-bernstein-link-nixon-tru">In new edition of classic Watergate expose, Woodward and Bernstein link Nixon, Trump</a> NPR: 50 years on, the authors profess amazement that another president came along willing to jettison whatever conscience he had, and whatever respect for the rule of law, in an effort to stay in office. 
  <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Key Trump lawyer sought presidential pardon after effort to overturn election failed</a> Politico: John Eastman asked Rudy Giuliani if he could be on Trump's "pardon list," according to an email the Jan. 6 panel revealed Thursday. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
@@ -171,13 +173,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
  <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
  <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/matt-dolan-ohio-00040056">Matt Dolan lost to J.D. Vance in Ohio. But he isn’t giving up on a post-Trump GOP.</a> Politico: The former Senate primary candidate is forming a PAC designed to boost “pragmatic” candidates in Ohio and elsewhere — including himself. 
+ <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
  <p class="updated_time"> 11:06 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/16/australia-emissions-greenhouse-gases-00040123">Australia commits to reducing greenhouse emissions by 43%</a> Politico: Prime Minister Anthony Albanese said  legislation to enshrine the new target in law would be introduced to the new Parliament. 
  <p class="updated_time"> 08:00 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/floridas-skips-ordering-covid-19-kids-vaccines-00040071">Florida is the only state to skip pre-ordering Covid-19 vaccines for kids</a> Politico: Florida’s Department of Health is led by state Surgeon General Joe Ladapo, an outspoken skeptic of the Covid-19 vaccine. 
  <p class="updated_time"> 07:47 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/michigan-dems-launch-lobbying-effort-to-earn-early-2024-primary-00040083">Michigan Dems launch lobbying effort to earn early 2024 primary</a> Politico: Democratic National Committee members are considering applications for early primaries from 17 states and territories later this year. 
+ <p class="updated_time"> 06:45 PM CT, Jun. 15 </p> 
+ <a href="https://www.politico.com/news/2022/06/15/latino-democrats-election-texas-00040057">Latino Democrats vent their fury after foreboding special election loss in Texas</a> Politico: Republicans picked up a district in the Rio Grande Valley that just a few years ago was giving Democrats comfortable double-digit margins. 
  <p class="updated_time"> 03:36 PM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/confederate-flag-toting-man-son-convicted-in-capitol-riot-00039989">Confederate flag-toting man, son convicted in Capitol riot</a> Politico: Photographs showed Kevin Seefried carrying a Confederate flag inside the Capitol after he and Hunter Seefried entered the building through a broken window. 
  <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
@@ -194,8 +198,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/06/15/joe-biden-saudi-arabia-trip-bin-salman-00039679">How Biden Came Around to MBS’ Plan for a New U.S.-Saudi Partnership</a> Politico: The inside story of how the administration came to slowly realize that Saudi Arabia was too valuable to keep at arm's length. 
  <p class="updated_time"> 12:43 AM CT, Jun. 15 </p> 
  <a href="https://www.politico.com/news/2022/06/15/primary-election-takeaways-rice-mace-00039735">Trump takes down his first impeachment victim: 5 takeaways from a big primary night</a> Politico: The former president gets his revenge on a member of his own party, and Democrats lose a crucial House seat in Texas. 
- <p class="updated_time"> 05:02 PM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/trump-tests-his-clout-in-slate-of-primaries-00039601">Trump reshapes GOP primaries as party notches big win in House special</a> Politico: Rep. Tom Rice, one of the 10 House Republicans who supported impeachment, lost his bid for reelection to a Trump-endorsed opponent. 
  <p class="updated_time"> 04:33 PM CT, Jun. 14 </p> 
  <a href="https://www.politico.com/news/2022/06/14/cornyn-murphy-tillis-sinema-guns-deal-senate-00039586">How a centrist, a liberal and 2 conservatives achieved 4-part harmony on guns</a> Politico: The Senate's ability to tackle mass shootings with both Democratic and GOP leaders' blessing relied on four lawmakers with disparate political identities coming together. 
  <p class="updated_time"> 12:42 PM CT, Jun. 14 </p> 
