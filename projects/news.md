@@ -11,8 +11,6 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
- <p class="updated_time"> 08:36 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61833459?at_medium=RSS&at_campaign=KARANGA">We're not ashamed of showing who we are - Lavrov</a> BBC: Russia's foreign minister speaks exclusively to the BBC's Steve Rosenberg about the war in Ukraine. 
  <p class="updated_time"> 08:17 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
@@ -25,10 +23,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
+ <p class="updated_time"> 05:56 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/eu-recommends-making-ukraine-a-membership-candidate-11655460395">EU Opens Membership Path for Ukraine</a> WSJ: The European Commission recommended that member states make Ukraine a candidate for EU membership, the first step of what could be a decadeslong process to join the bloc. 
+ <p class="updated_time"> 05:37 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
  <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
  <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
+ <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier. 
  <p class="updated_time"> 05:06 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838903?at_medium=RSS&at_campaign=KARANGA">WTO agrees deals on Covid vaccines and overfishing</a> BBC: The World Trade Organization announces a raft of agreements after five days of negotiations. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
@@ -41,12 +45,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The agreement will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
- <p class="updated_time"> 03:45 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
  <p class="updated_time"> 02:50 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61836856?at_medium=RSS&at_campaign=KARANGA">Paolo Macchiarini: Surgeon convicted for fatal Swedish transplants</a> BBC: Paolo Macchiarini, once seen as a pioneering surgeon, is given a suspended sentence for bodily harm. 
- <p class="updated_time"> 02:34 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/eu-recommends-making-ukraine-a-membership-candidate-11655460395">EU Backs Ukraine as a Membership Candidate</a> WSJ: The recommendation is a small step in a long path toward EU membership with many obstacles. It could be months or even years before accession negotiations begin. 
  <p class="updated_time"> 02:03 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-steps-up-shelling-in-ukraines-east-as-eu-discusses-kyivs-bid-to-join-bloc-11655458924">Ukraine Uses Western Harpoon Missile System to Sink Russian Tugboat</a> WSJ: The strike in the Black Sea is the first time Ukrainian officials have acknowledged deploying the antiship weapons, which have been sent by the U.K. and Denmark. 
  <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
@@ -97,6 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
  <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
+ <p class="updated_time"> 05:13 AM CT, Jun. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61811642?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow: My baby and I were kidnapped</a> BBC: Viktoria and her surviving child have been waiting for nearly 50 days to get a UK visa. 
 
 
 </details>
@@ -104,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
  <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
@@ -136,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
- <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
  <a href="https://www.cnn.com/2022/06/16/politics/luttig-statement-trump-plan-january-6-committee/index.html">Retired Republican judge says January 6 was 'well-developed plan' by Trump to cling to power</a> CNN: Retired federal judge J. Michael Luttig, a Republican who is testifying at Thursday's January 6 committee hearing, will provide a sharp condemnation of former President Donald Trump's attempts to overturn the 2020 election, saying Trump and his allies "instigated" a war on democracy "so that he could cling to power," according to a written statement he intends to submit for the committee's record obtained exclusively by CNN. 
 
