@@ -50,7 +50,7 @@ npr_politics <- tidyfeed("feeds.npr.org/1014/rss.xml") %>%
 #     mutate(clean_time = strftime(x = central_time, 
 #                                  tz = "US/Central",
 #                                  format = "%I:%M% %p CT, %b. %d"))
-}
+#}
 
 # politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
 #   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
