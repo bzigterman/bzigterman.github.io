@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 11:56 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange finally be extradited? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
+ <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange be extradited to the U.S.? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
  <p class="updated_time"> 11:25 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 10:29 AM CT, Jun. 17 </p> 
@@ -39,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
  <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier. 
- <p class="updated_time"> 05:06 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-61838903?at_medium=RSS&at_campaign=KARANGA">WTO agrees deals on Covid vaccines and overfishing</a> BBC: The World Trade Organization announces a raft of agreements after five days of negotiations. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
  <p class="updated_time"> 04:21 AM CT, Jun. 17 </p> 
