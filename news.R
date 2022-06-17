@@ -27,29 +27,29 @@ npr_politics <- tidyfeed("feeds.npr.org/1014/rss.xml") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-politico_politics_status <- GET("https://www.politico.com/rss/politicopicks.xml")$status
-if (politico_politics_status != 200L) {
-  politico_politics <- tibble() %>%
-    mutate(feed_title = as.character(NA)) %>%
-    mutate(item_pub_date= as.POSIXct(NA)) %>%
-    mutate(item_title= as.character(NA)) %>%
-    mutate(item_link= as.character(NA)) %>%
-    mutate(item_description= as.character(NA)) %>%
-    mutate(feed= as.character(NA)) %>%
-    mutate(utc_time= as.POSIXct(NA)) %>%
-    mutate(central_time= as.POSIXct(NA)) %>%
-    mutate(clean_time= as.character(NA))
-} else {
-  politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") %>%
-    select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-    filter(!grepl("magazine",item_link)) %>%
-    filter(!grepl("politico.eu",item_link)) %>%
-    mutate(feed = "Politico") %>%
-    mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-    mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-    mutate(clean_time = strftime(x = central_time, 
-                                 tz = "US/Central",
-                                 format = "%I:%M% %p CT, %b. %d"))
+# politico_politics_status <- GET("https://www.politico.com/rss/politicopicks.xml")$status
+# if (politico_politics_status != 200L) {
+#   politico_politics <- tibble() %>%
+#     mutate(feed_title = as.character(NA)) %>%
+#     mutate(item_pub_date= as.POSIXct(NA)) %>%
+#     mutate(item_title= as.character(NA)) %>%
+#     mutate(item_link= as.character(NA)) %>%
+#     mutate(item_description= as.character(NA)) %>%
+#     mutate(feed= as.character(NA)) %>%
+#     mutate(utc_time= as.POSIXct(NA)) %>%
+#     mutate(central_time= as.POSIXct(NA)) %>%
+#     mutate(clean_time= as.character(NA))
+# } else {
+#   politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") %>%
+#     select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+#     filter(!grepl("magazine",item_link)) %>%
+#     filter(!grepl("politico.eu",item_link)) %>%
+#     mutate(feed = "Politico") %>%
+#     mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
+#     mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+#     mutate(clean_time = strftime(x = central_time, 
+#                                  tz = "US/Central",
+#                                  format = "%I:%M% %p CT, %b. %d"))
 }
 
 # politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
@@ -110,12 +110,12 @@ cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-politics_news <- full_join(politico_politics, npr_politics) %>%
+politics_news <- full_join(cnn_politics, npr_politics) %>%
   #full_join(politico_playbook) %>%
   #full_join(politico_huddle) %>%
   #full_join(politico_congress) %>%
   #full_join(npr_politics) %>%
-  full_join(cnn_politics) %>%
+  #full_join(cnn_politics) %>%
   #full_join(bloomberg_politics) %>%
   #full_join(wapo_politics) %>%
   filter(!is.na(item_description)) %>%
