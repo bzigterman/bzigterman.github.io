@@ -33,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61844872?at_medium=RSS&at_campaign=KARANGA">Putin criticises sanctions and Eurovision row - round-up</a> BBC: Russia's leader says sanctions are "mad and thoughtless", as the war stops Ukraine from hosting Eurovision. 
  <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
+ <p class="updated_time"> 01:23 PM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-escalations-in-syria-risk-direct-conflict-with-u-s-military-officials-warn-11655504591">Russian Escalations in Syria Risk Conflict, U.S. Military Warns</a> WSJ: Recent Russian airstrikes and other operations in Syria are raising alarms amid high tensions over Ukraine. 
  <p class="updated_time"> 12:51 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
@@ -52,7 +54,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. ‘The forces that operated in the center of the political spectrum have perished.’ 
+ <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
  <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105806987/ukraine-eurovision-host-uk">Eurovision winner Ukraine can't host next year's contest because of the war</a> NPR: Public broadcasters and security experts concluded it's not feasible for the war-torn country to host, organize and produce the event. They're now turning to the U.K., which placed second this year. 
  <p class="updated_time"> 07:27 AM CT, Jun. 17 </p> 
@@ -61,14 +63,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
- <p class="updated_time"> 05:37 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
  <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
  <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
  <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier. 
+ <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
  <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
