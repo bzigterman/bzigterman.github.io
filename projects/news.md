@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
  <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
@@ -25,10 +27,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
+ <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
- <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105806987/ukraine-eurovision-host-uk">Eurovision winner Ukraine can't host next year's contest because of the war</a> NPR: Public broadcasters and security experts concluded it's not feasible for the war-torn country to host, organize and produce the event. They're now turning to the U.K., which placed second this year. 
  <p class="updated_time"> 07:27 AM CT, Jun. 17 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
  <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790450/u-s-ambassador-its-going-to-be-a-long-grinding-tough-war">U.S. ambassador to Ukraine: 'It's going to be a long, grinding, tough war'</a> NPR: The U.S. Embassy in Ukraine has been through a lot in recent years. It's just reopened and Ambassador Bridget Brink is overseeing a massive U.S. assistance operation with a limited staff. 
- <p class="updated_time"> 03:59 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
  <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
@@ -105,7 +105,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Lawmakers gathered this week to dedicate the rooms to former Sens. Barbara Mikulski and Margaret Chase Smith, whom they honored as dedicated public servants and inspiring trailblazers. 
+ <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Sens. Barbara Mikulski and Margaret Chase Smith couldn't wear pants or use the main bathroom during their tenures, when female senators were scarce. Rooms in the Capitol now honor their legacies. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
  <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
