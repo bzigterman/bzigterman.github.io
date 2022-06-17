@@ -23,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
- <p class="updated_time"> 05:56 AM CT, Jun. 17 </p> 
+ <p class="updated_time"> 06:12 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/eu-recommends-making-ukraine-a-membership-candidate-11655460395">EU Opens Membership Path for Ukraine</a> WSJ: The European Commission recommended that member states make Ukraine a candidate for EU membership, the first step of what could be a decadeslong process to join the bloc. 
  <p class="updated_time"> 05:37 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
@@ -122,6 +122,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790882/republican-rep-jacobs-wont-seek-reelection-after-he-changed-his-stance-on-guns">Republican Rep. Jacobs won't seek reelection after he changed his stance on guns</a> NPR: NPR's Steve Inskeep talks to Republican Rep. Chris Jacobs of western New York. Jacobs decided not to seek another term in Congress after his support for gun control drew the ire of GOP colleagues. 
  <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790812/morning-news-brief">News brief: Jan. 6 hearing takeaways, long COVID, student loan poll</a> NPR: A recap of the 3rd hearing by the House Jan. 6 panel. There's a bit of good news coming out of research into long COVID. Americans support student loan forgiveness, but would rather rein in costs. 
+ <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
  <p class="updated_time"> 04:04 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105600072/who-is-john-eastman-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">Who is John Eastman, the Trump lawyer at the center of the Jan. 6 investigation? </a> NPR: The former law professor's name came up a number or times during the Jan. 6 investigation committee's hearing on Trump's pressure to get his vice president to overturn the 2020 election. 
  <p class="updated_time"> 04:01 AM CT, Jun. 17 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
- <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/luttig-statement-trump-plan-january-6-committee/index.html">Retired Republican judge says January 6 was 'well-developed plan' by Trump to cling to power</a> CNN: Retired federal judge J. Michael Luttig, a Republican who is testifying at Thursday's January 6 committee hearing, will provide a sharp condemnation of former President Donald Trump's attempts to overturn the 2020 election, saying Trump and his allies "instigated" a war on democracy "so that he could cling to power," according to a written statement he intends to submit for the committee's record obtained exclusively by CNN. 
 
 
 </details>
