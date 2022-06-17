@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:20 PM CT, Jun. 17 </p> 
+ <p class="updated_time"> 03:40 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105970811/filipino-archivist-races-to-protect-history-of-abuses-ahead-of-marcos-presidency">Filipino archivist races to protect history of abuses ahead of Marcos presidency</a> NPR: NPR's Sacha Pfeiffer talks to Carmelo Crisanto, executive director of the Human Rights Violations Victims' Memorial Commission, about racing to archive human rights abuses in the Philippines. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105967011/shireen-abu-aklehs-brother-calls-on-the-u-s-to-investigate-his-sisters-killing">Shireen Abu Akleh's brother calls on the U.S. to investigate his sister's killing </a> NPR: In Jerusalem, the brother of slain journalist Shireen Abu Akleh is calling for a U.S. investigation to provide answers on how his sister was killed while covering an Israeli military raid. 
  <p class="updated_time"> 03:16 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
@@ -77,14 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61823463?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10-16 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 03:59 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105462649/russia-ukraine-war-what-happened-today-june-16">Russia-Ukraine war: What happened today (June 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:46 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633396/estefan-and-garcia-play-parents-of-the-bride-in-new-adaptation-of-classic-film">Estefan and Garcia play parents 'of the Bride' in new adaptation of classic film</a> NPR: NPR's Ailsa Chang talks with Andy Garcia and Gloria Estefan about their new movie Father of the Bride, which is a fresh take on a familiar story: Dad finds out his daughter is getting married. 
- <p class="updated_time"> 03:43 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633389/missing-men-were-killed-trying-to-warn-of-illegal-activity-threatening-the-amazo">Missing men were killed trying to warn of illegal activity threatening the Amazon</a> NPR: It appears journalist Dom Phillips and researcher Bruno Pereira were killed reporting in the Amazon. Guardian environmental editor John Watts reflects on their work and why the region is so perilous. 
- <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
- <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup are announced</a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
@@ -106,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105970790/trump-speaks-to-faith-and-freedom-coalition-as-jan-6-hearings-continue">Trump speaks to Faith and Freedom Coalition as Jan. 6 hearings continue</a> NPR: Former President Trump spoke to the Christian conservative group Faith and Freedom Coalition as the House Jan. 6 committee continues its hearings laying out his efforts to overturn the 2020 election. 
  <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Sens. Barbara Mikulski and Margaret Chase Smith couldn't wear pants or use the main bathroom during their tenures, when female senators were scarce. Rooms in the Capitol now honor their legacies. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 07:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
- <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105513685/recap-jan-6-committee-hearing">Pence prevented a fall into chaos, and 3 other takeaways from Jan. 6 hearing</a> NPR: The committee laid out how Trump and a lawyer advising him pressured Pence even after Trump was aware there was a riot. The question now is whether Trump could face criminal consequences. 
 
 
 </details>
