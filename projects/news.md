@@ -9,98 +9,102 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
+ <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105806987/ukraine-eurovision-host-uk">Eurovision winner Ukraine can't host next year's contest because of the war</a> NPR: Public broadcasters and security experts concluded it's not feasible for the war-torn country to host, organize and produce the event. They're now turning to the U.K., which placed second this year. 
+ <p class="updated_time"> 07:27 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61841268?at_medium=RSS&at_campaign=KARANGA">Agnipath: One dead in violent India protests over military hiring</a> BBC: Protests in Secunderabad over a new plan to hire contract soldiers turned violent on Friday. 
+ <p class="updated_time"> 06:56 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
+ <p class="updated_time"> 05:38 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
+ <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
+ <p class="updated_time"> 05:06 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61838903?at_medium=RSS&at_campaign=KARANGA">WTO agrees deals on Covid vaccines and overfishing</a> BBC: The World Trade Organization announces a raft of agreements after five days of negotiations. 
+ <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
+ <p class="updated_time"> 04:21 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61803198?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed amid West Bank clashes with Israeli troops</a> BBC: Israel says they opened fire on troops during an Israeli operation in the West Bank. 
+ <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790450/u-s-ambassador-its-going-to-be-a-long-grinding-tough-war">U.S. ambassador to Ukraine: 'It's going to be a long, grinding, tough war'</a> NPR: The U.S. Embassy in Ukraine has been through a lot in recent years. It's just reopened and Ambassador Bridget Brink is overseeing a massive U.S. assistance operation with a limited staff. 
+ <p class="updated_time"> 03:59 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The agreement will make it easier for developing nations to manufacture and export a patented vaccine. 
+ <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
+ <p class="updated_time"> 02:50 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61836856?at_medium=RSS&at_campaign=KARANGA">Paolo Macchiarini: Surgeon convicted for fatal Swedish transplants</a> BBC: Paolo Macchiarini, once seen as a pioneering surgeon, is given a suspended sentence for bodily harm. 
+ <p class="updated_time"> 02:14 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-japan-maintains-ultra-low-interest-rates-bucking-global-trend-11655436894">Japan's Kuroda Says He Won't Raise Rates, Even With Weak Yen</a> WSJ: The Bank of Japan held key interest-rate targets close to zero despite the Fed’s recent tightening moves. 
+ <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61835918?at_medium=RSS&at_campaign=KARANGA">Republican Senate gun negotiator walks out of talks</a> BBC: "We're about run out of our rope here," a frustrated Senator John Cornyn said as he left Washington. 
+ <p class="updated_time"> 01:23 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61835686?at_medium=RSS&at_campaign=KARANGA">World Cup 2026 host cities revealed</a> BBC: Mexico City’s iconic Azteca Stadium and the Los Angeles Rams' multi-billion dollar SoFi Stadium are named as two of 16 stadiums for the 2026 World Cup. 
+ <p class="updated_time"> 01:05 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105786322/chinas-upgrades-its-naval-force-with-its-first-indigenous-aircraft-carrier">China upgrades its naval force with its first indigenous aircraft carrier</a> NPR: The newest ship's capabilities are thought to rival those of Western carriers, as Beijing seeks to turn its navy, already the world's largest, into a multi-carrier force. 
+ <p class="updated_time"> 11:30 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61835778?at_medium=RSS&at_campaign=KARANGA">Some Greenland polar bears adapt to hunt without sea ice</a> BBC: Several hundred Greenland bears survive by hunting seals from freshwater ice instead, scientists say. 
+ <p class="updated_time"> 10:53 PM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/china-launches-third-aircraft-carrier-advancing-naval-ambitions-11655452424">China Launches Third Aircraft Carrier, Advancing Naval Ambitions</a> WSJ: The Fujian, named for the Chinese province closest to Taiwan, is China’s first indigenously designed and built aircraft carrier. 
+ <p class="updated_time"> 10:02 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61835919?at_medium=RSS&at_campaign=KARANGA">In rare interview Biden says Americans 'really, really down'</a> BBC: Mr Biden says the "need for mental health in America has skyrocketed" amid economic volatility. 
+ <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
+ <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61708452?at_medium=RSS&at_campaign=KARANGA">Congo peat: The 'lungs of humanity' which are under threat</a> BBC: Carbon-rich peatlands are under threat from development, posing a risk for future climate change. 
+ <p class="updated_time"> 06:48 PM CT, Jun. 16 </p> 
+ <a href="https://www.wsj.com/articles/in-one-chinese-city-protesters-find-themselves-thwarted-by-a-red-health-code-11655437726">In One Chinese City, Protesters Find Themselves Thwarted by a Red Health Code</a> WSJ: Plans to protest in Zhengzhou against banks for freezing deposits were thwarted when would-be protesters’ health codes turned red—prompting accusations authorities were using the Covid tool for social control. 
+ <p class="updated_time"> 06:35 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61825526?at_medium=RSS&at_campaign=KARANGA">France gears up for new battle: Macron v Mélenchon</a> BBC: The French president could lose his majority in the National Assembly because of a left-green alliance. 
+ <p class="updated_time"> 06:29 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
+ <p class="updated_time"> 06:19 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61823463?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10-16 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 04:31 PM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/disability-61815885?at_medium=RSS&at_campaign=KARANGA">Wheels and wheelchairs team up for high speed fun</a> BBC: Roller skating isn’t necessarily an activity a lot of wheelchair users might expect to take part in, but Wheels and Wheelchairs is helping to change that. 
  <p class="updated_time"> 03:59 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105462649/russia-ukraine-war-what-happened-today-june-16">Russia-Ukraine war: What happened today (June 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:51 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61834957?at_medium=RSS&at_campaign=KARANGA">January 6 hearing: Trump pressed Pence in 'illegal' bid to quash vote</a> BBC: The claim that Mr Pence could overturn the election directly contributed to violence, lawmakers say. 
  <p class="updated_time"> 03:46 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633396/estefan-and-garcia-play-parents-of-the-bride-in-new-adaptation-of-classic-film">Estefan and Garcia play parents 'of the Bride' in new adaptation of classic film</a> NPR: NPR's Ailsa Chang talks with Andy Garcia and Gloria Estefan about their new movie Father of the Bride, which is a fresh take on a familiar story: Dad finds out his daughter is getting married. 
  <p class="updated_time"> 03:43 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633389/missing-men-were-killed-trying-to-warn-of-illegal-activity-threatening-the-amazo">Missing men were killed trying to warn of illegal activity threatening the Amazon</a> NPR: It appears journalist Dom Phillips and researcher Bruno Pereira were killed reporting in the Amazon. Guardian environmental editor John Watts reflects on their work and why the region is so perilous. 
  <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
- <p class="updated_time"> 03:13 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61830925?at_medium=RSS&at_campaign=KARANGA">Stock markets see big falls as economy fears grow</a> BBC: The Dow Jones share index closed below 30,000 at its lowest level in more than a year. 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup are announced</a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
- <p class="updated_time"> 01:52 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61828229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU leaders back immediate candidate status for Kyiv</a> BBC: Ukraine belongs to the European family, the leaders of Germany, France, Italy and Romania say in Kyiv. 
- <p class="updated_time"> 01:16 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61831961?at_medium=RSS&at_campaign=KARANGA">Russian GRU spy tried to infiltrate International Criminal Court</a> BBC: The man used a fake name and pretended to be Brazilian, but security officials say he is a deep-cover spy. 
- <p class="updated_time"> 12:58 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61819852?at_medium=RSS&at_campaign=KARANGA">Climate change: Bonn talks end in acrimony over compensation</a> BBC: Key talks end with rich and poor countries at loggerheads on the divisive issue of loss and damage. 
- <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61825525?at_medium=RSS&at_campaign=KARANGA">Lavrov: Russia is not squeaky clean and not ashamed</a> BBC: Russia's foreign minister tells the BBC that the West is pressing UN officials to amplify fake news. 
  <p class="updated_time"> 11:29 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
- <p class="updated_time"> 10:50 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61831193?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Saudi embassy street in US renamed after murdered journalist</a> BBC: Washington DC unveils Jamal Khashoggi Way as a reminder of the journalist murdered by Saudi agents. 
- <p class="updated_time"> 09:57 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61824202?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Family speak of heartbreak over killings</a> BBC: A suspect has confessed to burying the bodies of journalist Dom Phillips and indigenous expert Bruno Pereira. 
+ <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
  <p class="updated_time"> 09:46 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-secretly-reviews-israels-plans-for-strikes-against-iranian-targets-in-syria-11655405162">U.S. Secretly Reviews Israel's Plans for Strikes in Syria</a> WSJ: The U.S. prescreens Israeli raids against Iranian targets to avoid interference with the U.S. anti-ISIS mission. 
- <p class="updated_time"> 09:28 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61830551?at_medium=RSS&at_campaign=KARANGA">Gazprom: Russian gas boss says 'our product, our rules' in supply row</a> BBC: It comes after energy firms in Germany, Italy and Austria report big falls in Russian gas supply. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
  <p class="updated_time"> 08:55 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940">France, Germany, Italy, Romania Back Ukraine's Bid for EU Membership</a> WSJ: The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West. 
  <p class="updated_time"> 07:35 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/colombia-election-weighs-on-future-of-oil-sector-11655397102">Colombia Election Weighs On Future of Oil Sector</a> WSJ: Both candidates on Sunday’s presidential ballot oppose fracking, while state company Ecopetrol is looking to try the practice to bolster dwindling reserves. 
- <p class="updated_time"> 07:22 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61823521?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey granted bail over sexual assault charges</a> BBC: The Oscar-winning actor "strenuously denies" allegations he sexually assaulted three men, a court hears. 
+ <a href="https://www.wsj.com/articles/colombia-election-weighs-on-future-of-oil-sector-11655397102">Colombia Election Weighs on Future of Oil Sector</a> WSJ: Both candidates on Sunday’s presidential ballot oppose fracking, while state company Ecopetrol is looking to try the practice to bolster dwindling reserves. 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826961?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Moroccan's death sentence being ignored, sister says</a> BBC: Brahim Saaudun and two Britons were captured by Russian forces while fighting for Ukraine. 
  <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 06:41 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
- <p class="updated_time"> 05:42 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61824059?at_medium=RSS&at_campaign=KARANGA">US-led coalition capture senior IS leader in north Syria raid</a> BBC: Troops were dropped by helicopters and left minutes later with the man, reports say. 
  <p class="updated_time"> 05:29 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-war-global-arms-market-emerges-as-a-new-front-11655389740">In Ukraine War, Global Arms Market Emerges as a New Front</a> WSJ: Weapons brokers and government officials allege Moscow is intimidating sellers and outbidding Kyiv to block access to weapons. 
- <p class="updated_time"> 05:26 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61825319?at_medium=RSS&at_campaign=KARANGA">Beyoncé announces her first album in six years, Renaissance</a> BBC: The star's seventh album will be called Renaissance, and fans only have to wait one month to hear it. 
  <p class="updated_time"> 04:53 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession">'Revenge travel' is surging. Here's what you need to know</a> NPR: Despite sky-high prices and limited availability, people are traveling in droves. Could this new term explain why? 
  <p class="updated_time"> 04:39 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105454252/a-u-s-led-military-raid-in-syria-captures-a-senior-is-leader">A U.S.-led military raid in Syria captures a senior IS leader</a> NPR: The coalition did not name the person but identified him as one of the top leaders of the extremist group's Syria branch. 
- <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105420315/ukraine-outnumbered-russia-advances-donbas-milley">Ukraine finds itself outnumbered as Russia advances in the Donbas</a> NPR: U.S. Gen. Mark Milley says Ukraine faces a shortfall of weapons and troops while battling Russia's latest offensive. 
- <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105390566/trade-dispute-uk-eu-erupts-post-brexit-deal">A trade dispute between the U.K. and the EU erupts over post-Brexit deal</a> NPR: The international trade dispute has drawn widespread condemnation and threatened to disrupt the relative peace in Northern Ireland since the 1998 Good Friday Agreement in Belfast. 
- <p class="updated_time"> 04:01 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1104924556/fathers-day-spanikopita-recipe">A father's recipe that crossed three continents</a> NPR: Papa's recipe traveled over generations from Greece to Egypt and back again. It will never mean the same thing to the people who randomly find it online, but it will still be delicious. 
  <p class="updated_time"> 02:36 AM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-chinese-bombast-on-taiwan-masks-effort-to-ratchet-down-tensions-11655379363">U.S. and Chinese Bombast on Taiwan Masks Effort to Ratchet Down Tensions</a> WSJ: While China and the U.S. exchanged testy salvos at a recent gathering of military officials, the rhetorical fireworks helped provide cover for a revived effort to cool tensions, diplomats and defense officials said. 
- <p class="updated_time"> 02:33 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105447087/ukraine-welcomes-us-weapons-hosts-european-leaders">Ukraine's Zelenskyy hosts European leaders, welcomes more U.S. weapons</a> NPR: Ukraine says it urgently needs the heavy artillery to counter Russia on the battlefield. Also, President Zelenskyy is looking for additional support as the leaders of Germany, France and Italy visit. 
- <p class="updated_time"> 01:50 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105447097/australia-commits-to-reducing-greenhouse-emissions-by-43">Australia commits to reducing greenhouse emissions by 43%</a> NPR: The new government may face pressure to set even more ambitious goals for a country that is one of the world's largest exporters of coal and liquified natural gas. 
- <p class="updated_time"> 12:00 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61683513?at_medium=RSS&at_campaign=KARANGA">'The Russians said beatings were my re-education'</a> BBC: Ukrainian citizens have told the BBC they were punched and electrocuted before being allowed to leave Mariupol. 
- <p class="updated_time"> 08:44 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61807623?at_medium=RSS&at_campaign=KARANGA">Ayahs' Home: Remembering the forgotten Indian nannies of London</a> BBC: A London building that housed Indian nannies left to fend for themselves during the British Raj is being honoured. 
- <p class="updated_time"> 08:31 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61809416?at_medium=RSS&at_campaign=KARANGA">Nigeria's Falz and Teni back Inec's voter registration drive</a> BBC: While some Nigerians feel empowered, others need to be encouraged to register for next February's poll. 
- <p class="updated_time"> 08:15 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61813845?at_medium=RSS&at_campaign=KARANGA">Bitcoin: Will El Salvador's big crypto gamble pay off?</a> BBC: The cryptocurrency crash is hurting many investors, including one country that has bet big on Bitcoin. 
  <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
- <p class="updated_time"> 06:05 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61793984?at_medium=RSS&at_campaign=KARANGA">How human-like are the most sophisticated chatbots?</a> BBC: As a Google engineer says his firm's top chatbot has feelings, just how lifelike is the technology? 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
- <p class="updated_time"> 11:24 AM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61803062?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Rifts divide abortion views in Mississippi</a> BBC: All eyes are on Mississippi as the US awaits a Supreme Court decision involving its last abortion clinic. 
- <p class="updated_time"> 11:01 AM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61816337?at_medium=RSS&at_campaign=KARANGA">Inside the room where Ukraine orders arms from the West</a> BBC: From an attic room in Germany, the West coordinates the supply of arms to Ukraine - but is it enough? 
  <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
- <p class="updated_time"> 05:13 AM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61811642?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow: My baby and I were kidnapped</a> BBC: Viktoria and her surviving child have been waiting for nearly 50 days to get a UK visa. 
- <p class="updated_time"> 06:56 PM CT, Jun. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61788524?at_medium=RSS&at_campaign=KARANGA">How The Gambia’s oyster farmers are being hit by climate change</a> BBC: Women's livelihoods in The Gambia are under threat from rising temperatures and sea levels. 
 
 
 </details>
@@ -108,106 +112,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
+ <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790833/what-do-americans-think-about-the-jan-6-house-committee-hearings">What do Americans think about the Jan. 6 House committee hearings?</a> NPR: NPR asks people in New York and New Jersey how they feel about the Jan. 6 hearings on Capitol Hill. On Thursday, the committee held the third of seven planned hearings. 
+ <p class="updated_time"> 06:19 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas">The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas</a> NPR: NPR's Rachel Martin talks to New Yorker staff writer Jane Mayer about the role Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, played in the lead up to the attack on the Capitol. 
+ <p class="updated_time"> 06:18 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790819/john-eastman-is-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">John Eastman is the Trump lawyer at the center of the Jan. 6 investigation</a> NPR: The House panel hearing on Thursday focused on the role of conservative lawyer John Eastman, who pushed a theory that former Vice President Mike Pence could overturn the election results unilaterally. 
+ <p class="updated_time"> 05:26 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790854/after-centuries-there-are-2-rooms-on-the-capitols-senate-side-named-for-women">After centuries, there are 2 rooms on the Capitol's Senate side named for women </a> NPR: Democrat Barbara Mikulski of Maryland was the longest serving female senator. Maine Republican Margaret Chase Smith was the first woman to be elected to both the House and Senate 
+ <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790882/republican-rep-jacobs-wont-seek-reelection-after-he-changed-his-stance-on-guns">Republican Rep. Jacobs won't seek reelection after he changed his stance on guns</a> NPR: NPR's Steve Inskeep talks to Republican Rep. Chris Jacobs of western New York. Jacobs decided not to seek another term in Congress after his support for gun control drew the ire of GOP colleagues. 
+ <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105790812/morning-news-brief">News brief: Jan. 6 hearing takeaways, long COVID, student loan poll</a> NPR: A recap of the 3rd hearing by the House Jan. 6 panel. There's a bit of good news coming out of research into long COVID. Americans support student loan forgiveness, but would rather rein in costs. 
+ <p class="updated_time"> 04:04 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105600072/who-is-john-eastman-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">Who is John Eastman, the Trump lawyer at the center of the Jan. 6 investigation? </a> NPR: The former law professor's name came up a number or times during the Jan. 6 investigation committee's hearing on Trump's pressure to get his vice president to overturn the 2020 election. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105508250/afl-cio-shuler-redmond-interview">Organizing and adding members are top goals for the newly elected AFL-CIO president</a> NPR: Elizabeth Shuler, the first woman ever elected president of the labor federation, is pledging a massive organizing drive over the next decade, with a goal of adding 1 million new union members. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1104920545/poll-student-loan-forgiveness">Americans support student loan forgiveness, but would rather rein in college costs</a> NPR: A new NPR/Ipsos poll finds majority support for forgiving $10,000 in federal student loan debt, but even broader support for making college affordable for future students. 
+ <p class="updated_time"> 11:04 PM CT, Jun. 16 </p> 
+ <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
+ <p class="updated_time"> 07:25 PM CT, Jun. 16 </p> 
+ <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105513685/recap-jan-6-committee-hearing">Pence prevented a fall into chaos, and 3 other takeaways from Jan. 6 hearing</a> NPR: The committee laid out how Trump and a lawyer advising him pressured Pence even after Trump was aware there was a riot. The question now is whether Trump could face criminal consequences. 
- <p class="updated_time"> 04:56 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-committee-doj-trump-00040320">The Jan. 6 select committee makes a criminal referral — its own way</a> Politico: For all the quibbling over whether they should ask DOJ to investigate Donald Trump, panel members effectively did so on Thursday. 
  <p class="updated_time"> 04:44 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
- <p class="updated_time"> 04:22 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105600339/january-6-house-committee-capitol-donald-trump-schiff">American democracy is more vulnerable now than on Jan. 6, Schiff says amid hearings</a> NPR: American democracy is more vulnerable today than it was on January 6 because the "big lie" that Donald Trump won the 2020 election has spread, says Rep. Adam Schiff (D-CA). 
- <p class="updated_time"> 04:11 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/treasury-tax-revenue-surge-00039880">Treasury reaps windfall even without Democrats' tax increases</a> Politico: The surge could prove awkward for Democrats hoping to revive their “reconciliation” spending package, which would hike a number of taxes on the wealthy. 
- <p class="updated_time"> 03:55 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/j-michael-luttig-opening-statement-jan-6-hearing-00040255">Read: J. Michael Luttig's opening statement at Jan. 6 select committee hearing</a> Politico: Read former judge J. Michael Luttig's full opening remarks 
- <p class="updated_time"> 03:47 PM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">3 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
- <p class="updated_time"> 03:33 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633368/florida-isnt-ordering-doses-of-the-covid-vaccine-for-children-under-the-age-of-5">Florida isn't ordering doses of the COVID vaccine for children under the age of 5</a> NPR: Florida state officials won't order doses of the COVID vaccine for children under five years old. It's the only state that hasn't pre-ordered the new vaccines, which they did for prior versions. 
- <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633347/the-senate-has-passed-a-historic-expansion-of-care-for-veterans">The Senate has passed a historic expansion of care for veterans</a> NPR: The Senate voted on a $280 billion package of care for veterans exposed to toxins from agent orange in Vietnam. It's a rare moment of bipartisan action and the largest expansion of VA care in history. 
- <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
- <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633321/jan-6-hearing-examined-lawyer-who-pushed-plan-for-pence-to-overturn-election-res">Jan. 6 hearing examined lawyer who pushed plan for Pence to overturn election results</a> NPR: The House Jan. 6 committee presented testimony about the pressure campaign against former Vice President Mike Pence as former President Trump and his allies tried to overturn the 2020 election. 
- <p class="updated_time"> 03:30 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105633307/sen-angus-king-on-latest-progress-on-bipartisan-talks-over-gun-reform-legislatio">Sen. Angus King on latest progress on bipartisan talks over gun reform legislation</a> NPR: NPR's Ari Shapiro speaks with Maine Sen. Angus King, an independent who caucuses with Democrats, on where bipartisan negotiations over legislation on gun safety stand in the Senate. 
- <p class="updated_time"> 03:29 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105607895/judge-michael-luttig-john-eastman-jan-6">A respected conservative judge is now a critic of his party — and former clerks</a> NPR: Retired federal Judge J. Michael Luttig was questioned by one of his former law clerks about the role of another in the insurrection. He has spoken out against former clerks John Eastman and Ted Cruz. 
- <p class="updated_time"> 01:46 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/tensions-escalate-as-doj-renews-request-for-jan-6-panel-transcripts-00040267">Tensions escalate as DOJ renews request for Jan. 6 panel transcripts</a> Politico: The Justice Department is calling out select committee investigators over their refusal to share full witness transcripts. 
- <p class="updated_time"> 01:27 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105567417/jan-6-committee-trump-pence">Jan. 6 committee leaders say Trump broke the law by trying to pressure Pence</a> NPR: The former president's campaign to get his vice president to overturn the election "was not just wrong," said Vice Chair Liz Cheney, a Republican, "it was illegal and unconstitutional." 
- <p class="updated_time"> 01:05 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/covid-fauci-rand-paul-00040210">Covid doesn't stop Anthony Fauci from taking on Rand Paul – again</a> Politico: The two engaged in their usual heated debate at a Senate HELP Committee hearing on Thursday. 
- <p class="updated_time"> 12:42 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/senate-burn-pit-bill-biden-00040195">Senate advances bill on veterans' burn pit care</a> Politico: Biden, who has pushed for recognition of burn pit health risks since the campaign trail, is expected to swiftly sign the bill into law. 
- <p class="updated_time"> 12:13 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105543882/jan-6-committee-ginni-thomas">Jan. 6 committee asks Ginni Thomas, wife of Justice Clarence Thomas, to testify</a> NPR: Ginni Thomas said she would "look forward" to talking to the committee after reports surfaced that she communicated with a lawyer who pressured Mike Pence to reject the election results. 
- <p class="updated_time"> 12:01 PM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/senators-tack-45b-onto-bidens-defense-budget-00040154">Senators tack $45B onto Biden's defense budget</a> Politico: Lawmakers say high inflation and the need to arm Ukraine is adding to the cost. 
- <p class="updated_time"> 11:59 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/desantis-covid-vaccine-florida-kids-fda-00040191">DeSantis says Florida is ‘affirmatively against’ Covid-19 vaccines for young kids</a> Politico: “You are free to choose — that’s not the issue,” he also said. 
- <p class="updated_time"> 11:17 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208">Jan. 6 panel calls Ginni Thomas to testify</a> Politico: Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning. 
- <p class="updated_time"> 11:03 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/budget-fracas-a-setback-for-councils-progressive-movement-00040108">How progressive infighting handed Eric Adams his first budget</a> Politico: The budget vote revealed a fissure within City Council’s Progressive Caucus — a sprawling group containing the budget’s fiercest opponents and the leaders whipping votes for it. 
- <p class="updated_time"> 08:49 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/biden-covid-pandemic-politics-war-00040143">Bidenworld: We won the Covid battle, lost the political war</a> Politico: Despite a rise in new infections, deaths are down and young kids will soon get vaccines. But the nation has moved on to abortion, inflation and guns. 
- <p class="updated_time"> 08:48 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105478840/committee-deadlocks-on-bidens-pick-to-lead-firearms-agency">Committee deadlocks on Biden's pick to lead firearms agency </a> NPR: Democrats can still advance the nomination of Steve Dettelbach to lead the ATF using procedural moves. 
  <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/15/politics/barry-loudermilk-tour-january-6/index.html">January 6 committee has footage that challenges Capitol Police findings over alleged role of GOP congressman</a> CNN: The House select committee investigating the January 6, 2021, US Capitol riot has released footage that shows one of the individuals to whom GOP Rep. Barry Loudermilk of Georgia gave a tour on January 5 was outside the building during the insurrection screaming threats about House Speaker Nancy Pelosi. 
- <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105451218/visiting-the-national-portrait-gallery-with-bob-woodward-50-years-after-watergat">Bob Woodward recounts the Watergate story in an art museum</a> NPR: Decades after the break-in at the Democratic National Committee headquarters in Washington, D.C., reporter Bob Woodward visits a National Portrait Gallery exhibition about the Watergate scandal. 
- <p class="updated_time"> 04:10 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105451197/in-its-third-hearing-the-house-jan-6-panel-will-hear-from-2-witnesses">In its third hearing, the House Jan. 6 panel will hear from 2 witnesses</a> NPR: The House select committee investigating the insurrection at the U.S. Capitol will focus on how ex- President Donald Trump pressured then-Vice President Mike Pence not to count lawful electoral votes. 
- <p class="updated_time"> 03:31 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/national-democratic-redistricting-2022-election-targets-00040000">Dem redistricting group lays out broad 2022 election targets</a> Politico: The group's targets include midterm races across 17 states. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/jan-6-panel-trump-pressure-campaign-pence-00039996">Key Trump lawyer sought presidential pardon after effort to overturn election failed</a> Politico: John Eastman asked Rudy Giuliani if he could be on Trump's "pardon list," according to an email the Jan. 6 panel revealed Thursday. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/mcconnells-gun-safety-gamble-00039988">McConnell's gun safety gamble</a> Politico: The Senate GOP leader is risking the ire of conservatives in his conference with his public support of the bipartisan guns framework. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/powerful-gun-lobbyists-in-dc-00040059">He's one of the most powerful gun lobbyists in D.C. And you've never heard of him.</a> Politico: Mark Barnes has a complicated, and cozy, relationship with both the gun industry and the federal bureau that regulates it. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/fema-flood-program-civil-rights-00037261">FEMA flood program could violate civil rights law</a> Politico: An investigation by POLITICO's E&E News reveals discrimination against people of color and low-income households. But alleged civil rights violations would be difficult to prove in court. 
- <p class="updated_time"> 03:30 AM CT, Jun. 16 </p> 
- <a href="https://www.politico.com/news/2022/06/16/kimberly-guilfoyle-liz-cheney-jan-6-00039997">The Guilfoyle email that illustrates Cheney's pre-Jan. 6 assistance to Trump World</a> Politico: In a previously unreported email, the Trump ally called the Wyoming Republican a "congressional co-captain" for the former president's reelection campaign. 
- <p class="updated_time"> 11:06 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/16/australia-emissions-greenhouse-gases-00040123">Australia commits to reducing greenhouse emissions by 43%</a> Politico: Prime Minister Anthony Albanese said  legislation to enshrine the new target in law would be introduced to the new Parliament. 
- <p class="updated_time"> 08:00 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/floridas-skips-ordering-covid-19-kids-vaccines-00040071">Florida is the only state to skip pre-ordering Covid-19 vaccines for kids</a> Politico: Florida’s Department of Health is led by state Surgeon General Joe Ladapo, an outspoken skeptic of the Covid-19 vaccine. 
- <p class="updated_time"> 07:47 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/michigan-dems-launch-lobbying-effort-to-earn-early-2024-primary-00040083">Michigan Dems launch lobbying effort to earn early 2024 primary</a> Politico: Democratic National Committee members are considering applications for early primaries from 17 states and territories later this year. 
- <p class="updated_time"> 06:45 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/latino-democrats-election-texas-00040057">Latino Democrats vent their fury after foreboding special election loss in Texas</a> Politico: Republicans picked up a district in the Rio Grande Valley that just a few years ago was giving Democrats comfortable double-digit margins. 
- <p class="updated_time"> 03:36 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/confederate-flag-toting-man-son-convicted-in-capitol-riot-00039989">Confederate flag-toting man, son convicted in Capitol riot</a> Politico: Photographs showed Kevin Seefried carrying a Confederate flag inside the Capitol after he and Hunter Seefried entered the building through a broken window. 
- <p class="updated_time"> 01:19 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/mayra-flores-texas-republican-00039889">Meet Mayra Flores, the newly elected Latina Republican from South Texas</a> Politico: The first Mexican-born congresswoman will serve for the next seven months after a big special election win. 
- <p class="updated_time"> 12:38 PM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/judge-rejects-bannons-effort-to-dismiss-criminal-case-for-defying-jan-6-select-committee-00039888">Judge rejects Bannon’s effort to dismiss criminal case for defying Jan. 6 select committee</a> Politico: U.S. District Court Judge Carl Nichols rebuffed a series of arguments Bannon had lodged, including that Trump had asserted executive privilege to block his former aide’s testimony. 
- <p class="updated_time"> 11:31 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/biden-plan-transgender-youth-health-care-00039844">Biden launches plan to protect transgender youths’ health care</a> Politico: An executive order will call on HHS to clarify that federally funded programs cannot offer conversion therapy. 
- <p class="updated_time"> 05:47 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/proud-boys-leader-transfer-trial-jan-6-committee-instigated-riot-00039755">Proud Boys leader seeks transfer of trial after Jan. 6 committee builds case he instigated riot</a> Politico: Joseph Biggs contended that “media-attentive” Washingtonians will accept the select committee’s presentation about Biggs, which cast him as a central figure in igniting the breach. 
- <p class="updated_time"> 03:30 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/joe-biden-saudi-arabia-trip-bin-salman-00039679">How Biden Came Around to MBS’ Plan for a New U.S.-Saudi Partnership</a> Politico: The inside story of how the administration came to slowly realize that Saudi Arabia was too valuable to keep at arm's length. 
- <p class="updated_time"> 12:43 AM CT, Jun. 15 </p> 
- <a href="https://www.politico.com/news/2022/06/15/primary-election-takeaways-rice-mace-00039735">Trump takes down his first impeachment victim: 5 takeaways from a big primary night</a> Politico: The former president gets his revenge on a member of his own party, and Democrats lose a crucial House seat in Texas. 
- <p class="updated_time"> 04:33 PM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/cornyn-murphy-tillis-sinema-guns-deal-senate-00039586">How a centrist, a liberal and 2 conservatives achieved 4-part harmony on guns</a> Politico: The Senate's ability to tackle mass shootings with both Democratic and GOP leaders' blessing relied on four lawmakers with disparate political identities coming together. 
- <p class="updated_time"> 12:42 PM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/cotton-big-donors-2024-presidential-race-00039476">Cotton gathers big donors to talk 2024 presidential race</a> Politico: The Arkansas senator's top adviser gave a presentation detailing, among other things, Cotton's early outreach in Iowa and New Hampshire. 
- <p class="updated_time"> 12:41 PM CT, Jun. 14 </p> 
- <a href="https://www.politico.com/news/2022/06/14/republican-immigration-dreamers-00039479">Republican donors to GOP leaders: Bipartisan immigration reform would ease inflation</a> Politico: On DACA’s 10th anniversary, a group of GOP business leaders said protecting Dreamers would help ease the nation’s labor shortages, reduce food prices and create jobs for all. 
- <p class="updated_time"> 11:00 PM CT, Jun. 13 </p> 
- <a href="https://www.politico.com/news/2022/06/14/fbi-media-contacts-2016-campaign-00039383">Former FBI official had numerous unauthorized contacts with media during 2016 campaign, watchdog says</a> Politico: The DOJ's inspector general said Michael Steinbach, who retired in 2017, flouted law enforcement agency's policies by socializing with journalists. 
+ <a href="https://www.cnn.com/2022/06/16/politics/luttig-statement-trump-plan-january-6-committee/index.html">Retired Republican judge says January 6 was 'well-developed plan' by Trump to cling to power</a> CNN: Retired federal judge J. Michael Luttig, a Republican who is testifying at Thursday's January 6 committee hearing, will provide a sharp condemnation of former President Donald Trump's attempts to overturn the 2020 election, saying Trump and his allies "instigated" a war on democracy "so that he could cling to power," according to a written statement he intends to submit for the committee's record obtained exclusively by CNN. 
 
 
 </details>
