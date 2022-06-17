@@ -85,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
- <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826961?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Moroccan's death sentence being ignored, sister says</a> BBC: Brahim Saaudun and two Britons were captured by Russian forces while fighting for Ukraine. 
  <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
