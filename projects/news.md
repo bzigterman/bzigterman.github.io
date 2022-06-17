@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
+ <p class="updated_time"> 08:36 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61833459?at_medium=RSS&at_campaign=KARANGA">We're not ashamed of showing who we are - Lavrov</a> BBC: Russia's foreign minister speaks exclusively to the BBC's Steve Rosenberg about the war in Ukraine. 
  <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
  <p class="updated_time"> 06:19 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61823463?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10-16 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 04:31 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/disability-61815885?at_medium=RSS&at_campaign=KARANGA">Wheels and wheelchairs team up for high speed fun</a> BBC: Roller skating isn’t necessarily an activity a lot of wheelchair users might expect to take part in, but Wheels and Wheelchairs is helping to change that. 
  <p class="updated_time"> 03:59 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105462649/russia-ukraine-war-what-happened-today-june-16">Russia-Ukraine war: What happened today (June 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:46 PM CT, Jun. 16 </p> 
@@ -142,12 +142,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
- <p class="updated_time"> 02:49 PM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/luttig-statement-trump-plan-january-6-committee/index.html">Retired Republican judge says January 6 was 'well-developed plan' by Trump to cling to power</a> CNN: Retired federal judge J. Michael Luttig, a Republican who is testifying at Thursday's January 6 committee hearing, will provide a sharp condemnation of former President Donald Trump's attempts to overturn the 2020 election, saying Trump and his allies "instigated" a war on democracy "so that he could cling to power," according to a written statement he intends to submit for the committee's record obtained exclusively by CNN. 
+ <a href="https://www.cnn.com/2022/06/15/politics/barry-loudermilk-tour-january-6/index.html">January 6 committee has footage that challenges Capitol Police findings over alleged role of GOP congressman</a> CNN: The House select committee investigating the January 6, 2021, US Capitol riot has released footage that shows one of the individuals to whom GOP Rep. Barry Loudermilk of Georgia gave a tour on January 5 was outside the building during the insurrection screaming threats about House Speaker Nancy Pelosi. 
 
 
 </details>
