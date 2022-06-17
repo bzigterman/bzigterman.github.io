@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
@@ -17,8 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61841268?at_medium=RSS&at_campaign=KARANGA">Agnipath: One dead in violent India protests over military hiring</a> BBC: Protests in Secunderabad over a new plan to hire contract soldiers turned violent on Friday. 
  <p class="updated_time"> 06:56 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
- <p class="updated_time"> 05:38 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
+ <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
  <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
  <p class="updated_time"> 05:06 AM CT, Jun. 17 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61835778?at_medium=RSS&at_campaign=KARANGA">Some Greenland polar bears adapt to hunt without sea ice</a> BBC: Several hundred Greenland bears survive by hunting seals from freshwater ice instead, scientists say. 
  <p class="updated_time"> 10:53 PM CT, Jun. 16 </p> 
  <a href="https://www.wsj.com/articles/china-launches-third-aircraft-carrier-advancing-naval-ambitions-11655452424">China Launches Third Aircraft Carrier, Advancing Naval Ambitions</a> WSJ: The Fujian, named for the Chinese province closest to Taiwan, is China’s first indigenously designed and built aircraft carrier. 
- <p class="updated_time"> 10:02 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61835919?at_medium=RSS&at_campaign=KARANGA">In rare interview Biden says Americans 'really, really down'</a> BBC: Mr Biden says the "need for mental health in America has skyrocketed" amid economic volatility. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
@@ -134,8 +134,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
  <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104920545/poll-student-loan-forgiveness">Americans support student loan forgiveness, but would rather rein in college costs</a> NPR: A new NPR/Ipsos poll finds majority support for forgiving $10,000 in federal student loan debt, but even broader support for making college affordable for future students. 
- <p class="updated_time"> 11:04 PM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 07:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
@@ -144,6 +142,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
  <p class="updated_time"> 04:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105663992/the-justice-department-wants-to-see-the-jan-6-committees-transcripts">The Justice Department wants to see the Jan. 6 committee's transcripts</a> NPR: It says the lack of sharing is complicating its criminal probe. 
+ <p class="updated_time"> 02:49 PM CT, Jun. 16 </p> 
+ <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
