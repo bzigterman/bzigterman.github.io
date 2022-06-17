@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105997564/british-journalist-remains-found-brazil-amazon">A British journalist's remains have been found in Brazil's Amazon, police say </a> NPR: Human remains found deep in Brazil's Amazon have been identified as belonging to British journalist Dom Phillips, according to Brazil's federal police. 
+ <p class="updated_time"> 04:36 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Jun. 17 </p> 
@@ -16,11 +20,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
- <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970811/filipino-archivist-races-to-protect-history-of-abuses-ahead-of-marcos-presidency">Filipino archivist races to protect history of abuses ahead of Marcos presidency</a> NPR: NPR's Sacha Pfeiffer talks to Carmelo Crisanto, executive director of the Human Rights Violations Victims' Memorial Commission, about racing to archive human rights abuses in the Philippines. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105967011/shireen-abu-aklehs-brother-calls-on-the-u-s-to-investigate-his-sisters-killing">Shireen Abu Akleh's brother calls on the U.S. to investigate his sister's killing </a> NPR: In Jerusalem, the brother of slain journalist Shireen Abu Akleh is calling for a U.S. investigation to provide answers on how his sister was killed while covering an Israeli military raid. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
  <p class="updated_time"> 03:16 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
@@ -37,16 +41,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
- <p class="updated_time"> 11:56 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange be extradited to the U.S.? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
  <p class="updated_time"> 11:25 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
+ <p class="updated_time"> 10:16 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/putin-blasts-the-west-says-sanctions-on-russia-over-ukraine-are-backfiring-11655493405">Putin Blasts the West, Says Sanctions on Russia Over Ukraine Are Backfiring</a> WSJ: The Russian leader criticized the West for failing to recognize the rise of new power blocs since the end of the Cold War. 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
- <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
  <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61835918?at_medium=RSS&at_campaign=KARANGA">Republican Senate gun negotiator walks out of talks</a> BBC: "We're about run out of our rope here," a frustrated Senator John Cornyn said as he left Washington. 
- <p class="updated_time"> 01:05 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105786322/chinas-upgrades-its-naval-force-with-its-first-indigenous-aircraft-carrier">China upgrades its naval force with its first indigenous aircraft carrier</a> NPR: The newest ship's capabilities are thought to rival those of Western carriers, as Beijing seeks to turn its navy, already the world's largest, into a multi-carrier force. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
