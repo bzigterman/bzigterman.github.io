@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:56 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
+ <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange finally be extradited? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
  <p class="updated_time"> 11:25 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 10:29 AM CT, Jun. 17 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
  <p class="updated_time"> 04:53 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession">'Revenge travel' is surging. Here's what you need to know</a> NPR: Despite sky-high prices and limited availability, people are traveling in droves. Could this new term explain why? 
- <p class="updated_time"> 04:39 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105454252/a-u-s-led-military-raid-in-syria-captures-a-senior-is-leader">A U.S.-led military raid in Syria captures a senior IS leader</a> NPR: The coalition did not name the person but identified him as one of the top leaders of the extremist group's Syria branch. 
  <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
