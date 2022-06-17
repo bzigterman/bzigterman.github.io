@@ -13,6 +13,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:36 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61833459?at_medium=RSS&at_campaign=KARANGA">We're not ashamed of showing who we are - Lavrov</a> BBC: Russia's foreign minister speaks exclusively to the BBC's Steve Rosenberg about the war in Ukraine. 
+ <p class="updated_time"> 08:17 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
  <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
+ <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
  <p class="updated_time"> 05:06 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838903?at_medium=RSS&at_campaign=KARANGA">WTO agrees deals on Covid vaccines and overfishing</a> BBC: The World Trade Organization announces a raft of agreements after five days of negotiations. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
@@ -37,26 +41,24 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The agreement will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
+ <p class="updated_time"> 03:45 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
  <p class="updated_time"> 02:50 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61836856?at_medium=RSS&at_campaign=KARANGA">Paolo Macchiarini: Surgeon convicted for fatal Swedish transplants</a> BBC: Paolo Macchiarini, once seen as a pioneering surgeon, is given a suspended sentence for bodily harm. 
- <p class="updated_time"> 02:14 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/bank-of-japan-maintains-ultra-low-interest-rates-bucking-global-trend-11655436894">Japan's Kuroda Says He Won't Raise Rates, Even With Weak Yen</a> WSJ: The Bank of Japan held key interest-rate targets close to zero despite the Fed’s recent tightening moves. 
+ <p class="updated_time"> 02:34 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/eu-recommends-making-ukraine-a-membership-candidate-11655460395">EU Backs Ukraine as a Membership Candidate</a> WSJ: The recommendation is a small step in a long path toward EU membership with many obstacles. It could be months or even years before accession negotiations begin. 
+ <p class="updated_time"> 02:03 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-shelling-in-ukraines-east-as-eu-discusses-kyivs-bid-to-join-bloc-11655458924">Ukraine Uses Western Harpoon Missile System to Sink Russian Tugboat</a> WSJ: The strike in the Black Sea is the first time Ukrainian officials have acknowledged deploying the antiship weapons, which have been sent by the U.K. and Denmark. 
  <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61835918?at_medium=RSS&at_campaign=KARANGA">Republican Senate gun negotiator walks out of talks</a> BBC: "We're about run out of our rope here," a frustrated Senator John Cornyn said as he left Washington. 
  <p class="updated_time"> 01:23 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61835686?at_medium=RSS&at_campaign=KARANGA">World Cup 2026 host cities revealed</a> BBC: Mexico City’s iconic Azteca Stadium and the Los Angeles Rams' multi-billion dollar SoFi Stadium are named as two of 16 stadiums for the 2026 World Cup. 
  <p class="updated_time"> 01:05 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105786322/chinas-upgrades-its-naval-force-with-its-first-indigenous-aircraft-carrier">China upgrades its naval force with its first indigenous aircraft carrier</a> NPR: The newest ship's capabilities are thought to rival those of Western carriers, as Beijing seeks to turn its navy, already the world's largest, into a multi-carrier force. 
- <p class="updated_time"> 11:30 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61835778?at_medium=RSS&at_campaign=KARANGA">Some Greenland polar bears adapt to hunt without sea ice</a> BBC: Several hundred Greenland bears survive by hunting seals from freshwater ice instead, scientists say. 
- <p class="updated_time"> 10:53 PM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/china-launches-third-aircraft-carrier-advancing-naval-ambitions-11655452424">China Launches Third Aircraft Carrier, Advancing Naval Ambitions</a> WSJ: The Fujian, named for the Chinese province closest to Taiwan, is China’s first indigenously designed and built aircraft carrier. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61708452?at_medium=RSS&at_campaign=KARANGA">Congo peat: The 'lungs of humanity' which are under threat</a> BBC: Carbon-rich peatlands are under threat from development, posing a risk for future climate change. 
- <p class="updated_time"> 06:48 PM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/in-one-chinese-city-protesters-find-themselves-thwarted-by-a-red-health-code-11655437726">In One Chinese City, Protesters Find Themselves Thwarted by a Red Health Code</a> WSJ: Plans to protest in Zhengzhou against banks for freezing deposits were thwarted when would-be protesters’ health codes turned red—prompting accusations authorities were using the Covid tool for social control. 
  <p class="updated_time"> 06:35 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61825526?at_medium=RSS&at_campaign=KARANGA">France gears up for new battle: Macron v Mélenchon</a> BBC: The French president could lose his majority in the National Assembly because of a left-green alliance. 
  <p class="updated_time"> 06:29 PM CT, Jun. 16 </p> 
@@ -77,28 +79,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
- <p class="updated_time"> 09:46 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-secretly-reviews-israels-plans-for-strikes-against-iranian-targets-in-syria-11655405162">U.S. Secretly Reviews Israel's Plans for Strikes in Syria</a> WSJ: The U.S. prescreens Israeli raids against Iranian targets to avoid interference with the U.S. anti-ISIS mission. 
  <p class="updated_time"> 09:26 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/16/1104931711/dogs-trained-to-sniff-out-covid-in-schools-are-getting-a-lot-of-love-for-their-e">Dogs trained to sniff out COVID in schools are getting a lot of love for their efforts</a> NPR: A school in southeastern Massachusetts latches onto a novel program that uses canines to sniff out COVID on surfaces. The idea is to help protect kids from the virus and keep the school open. 
- <p class="updated_time"> 08:55 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940">France, Germany, Italy, Romania Back Ukraine's Bid for EU Membership</a> WSJ: The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West. 
- <p class="updated_time"> 07:35 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/colombia-election-weighs-on-future-of-oil-sector-11655397102">Colombia Election Weighs on Future of Oil Sector</a> WSJ: Both candidates on Sunday’s presidential ballot oppose fracking, while state company Ecopetrol is looking to try the practice to bolster dwindling reserves. 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826961?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Moroccan's death sentence being ignored, sister says</a> BBC: Brahim Saaudun and two Britons were captured by Russian forces while fighting for Ukraine. 
  <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 06:41 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
- <p class="updated_time"> 05:29 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-war-global-arms-market-emerges-as-a-new-front-11655389740">In Ukraine War, Global Arms Market Emerges as a New Front</a> WSJ: Weapons brokers and government officials allege Moscow is intimidating sellers and outbidding Kyiv to block access to weapons. 
  <p class="updated_time"> 04:53 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession">'Revenge travel' is surging. Here's what you need to know</a> NPR: Despite sky-high prices and limited availability, people are traveling in droves. Could this new term explain why? 
  <p class="updated_time"> 04:39 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105454252/a-u-s-led-military-raid-in-syria-captures-a-senior-is-leader">A U.S.-led military raid in Syria captures a senior IS leader</a> NPR: The coalition did not name the person but identified him as one of the top leaders of the extremist group's Syria branch. 
- <p class="updated_time"> 02:36 AM CT, Jun. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-chinese-bombast-on-taiwan-masks-effort-to-ratchet-down-tensions-11655379363">U.S. and Chinese Bombast on Taiwan Masks Effort to Ratchet Down Tensions</a> WSJ: While China and the U.S. exchanged testy salvos at a recent gathering of military officials, the rhetorical fireworks helped provide cover for a revived effort to cool tensions, diplomats and defense officials said. 
  <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
@@ -134,6 +126,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
  <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104920545/poll-student-loan-forgiveness">Americans support student loan forgiveness, but would rather rein in college costs</a> NPR: A new NPR/Ipsos poll finds majority support for forgiving $10,000 in federal student loan debt, but even broader support for making college affordable for future students. 
+ <p class="updated_time"> 11:04 PM CT, Jun. 16 </p> 
+ <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
  <p class="updated_time"> 07:25 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
@@ -145,7 +139,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:21 AM CT, Jun. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 AM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/15/politics/barry-loudermilk-tour-january-6/index.html">January 6 committee has footage that challenges Capitol Police findings over alleged role of GOP congressman</a> CNN: The House select committee investigating the January 6, 2021, US Capitol riot has released footage that shows one of the individuals to whom GOP Rep. Barry Loudermilk of Georgia gave a tour on January 5 was outside the building during the insurrection screaming threats about House Speaker Nancy Pelosi. 
+ <a href="https://www.cnn.com/2022/06/16/politics/luttig-statement-trump-plan-january-6-committee/index.html">Retired Republican judge says January 6 was 'well-developed plan' by Trump to cling to power</a> CNN: Retired federal judge J. Michael Luttig, a Republican who is testifying at Thursday's January 6 committee hearing, will provide a sharp condemnation of former President Donald Trump's attempts to overturn the 2020 election, saying Trump and his allies "instigated" a war on democracy "so that he could cling to power," according to a written statement he intends to submit for the committee's record obtained exclusively by CNN. 
 
 
 </details>
