@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
  <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
+ <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 11:56 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
@@ -19,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 10:29 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
+ <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 07:59 AM CT, Jun. 17 </p> 
@@ -31,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
- <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/eu-recommends-making-ukraine-a-membership-candidate-11655460395">EU Opens Membership Path for Ukraine</a> WSJ: The European Commission recommended that member states make Ukraine a candidate for EU membership, the first step of what could be a decadeslong process to join the bloc. 
  <p class="updated_time"> 05:37 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/global-minimum-tax-suffers-fresh-setback-as-eu-fails-to-agree-on-implementation-11655469945">Global Minimum Tax Suffers Fresh Setback as EU Fails to Agree on Implementation</a> WSJ: Hungary vetoed a European Union agreement to implement the minimum tax rate on company profits, which is also stalled in the U.S. 
  <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
@@ -43,16 +47,12 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
- <p class="updated_time"> 04:21 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61803198?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed amid West Bank clashes with Israeli troops</a> BBC: Israel says they opened fire on troops during an Israeli operation in the West Bank. 
  <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790450/u-s-ambassador-its-going-to-be-a-long-grinding-tough-war">U.S. ambassador to Ukraine: 'It's going to be a long, grinding, tough war'</a> NPR: The U.S. Embassy in Ukraine has been through a lot in recent years. It's just reopened and Ambassador Bridget Brink is overseeing a massive U.S. assistance operation with a limited staff. 
  <p class="updated_time"> 03:59 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
- <p class="updated_time"> 02:50 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61836856?at_medium=RSS&at_campaign=KARANGA">Paolo Macchiarini: Surgeon convicted for fatal Swedish transplants</a> BBC: Paolo Macchiarini, once seen as a pioneering surgeon, is given a suspended sentence for bodily harm. 
  <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61835918?at_medium=RSS&at_campaign=KARANGA">Republican Senate gun negotiator walks out of talks</a> BBC: "We're about run out of our rope here," a frustrated Senator John Cornyn said as he left Washington. 
  <p class="updated_time"> 01:05 AM CT, Jun. 17 </p> 
@@ -89,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 06:41 AM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105458176/kevin-spacey-denies-sex-charges-bail">His lawyer says Kevin Spacey strenuously denies sex charges</a> NPR: The actor was granted bail when he appeared in a London court to face five charges of offenses against three men. 
- <p class="updated_time"> 04:53 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession">'Revenge travel' is surging. Here's what you need to know</a> NPR: Despite sky-high prices and limited availability, people are traveling in droves. Could this new term explain why? 
  <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
@@ -106,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Lawmakers gathered this week to dedicate the rooms to former Sens. Barbara Mikulski and Margaret Chase Smith, whom they honored as dedicated public servants and inspiring trailblazers. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
  <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
@@ -140,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:03 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105513685/recap-jan-6-committee-hearing">Pence prevented a fall into chaos, and 3 other takeaways from Jan. 6 hearing</a> NPR: The committee laid out how Trump and a lawyer advising him pressured Pence even after Trump was aware there was a riot. The question now is whether Trump could face criminal consequences. 
- <p class="updated_time"> 04:44 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105665402/despite-warnings-from-economists-biden-says-a-recession-is-not-inevitable">Despite warnings from economists, Biden says a recession is not inevitable</a> NPR: In an interview Thursday with The Associated Press, the president says the American people are "really, really down" after two years of pandemic, volatility in the economy and surging gas prices. 
 
 
 </details>
