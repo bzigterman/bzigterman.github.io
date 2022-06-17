@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
+ <p class="updated_time"> 03:16 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
  <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
@@ -81,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/16/1105633328/european-leaders-meet-with-ukrainian-president-zelenskyy-to-show-unity-and-suppo">European leaders meet with Ukrainian President Zelenskyy to show unity and support</a> NPR: Four European leaders are meeting Ukraine's President Volodymyr Zelenskyy in talks intended as a show of European unity. Also, the U.S. ambassador tells NPR she expects "a long, grinding, tough war." 
  <p class="updated_time"> 02:36 PM CT, Jun. 16 </p> 
  <a href="https://www.npr.org/2022/06/16/1105562734/us-cities-hosting-2026-world-cup-announcement">The U.S. cities hosting the 2026 World Cup are announced</a> NPR: The U.S., Canada and Mexico will host the first-ever 48-team World Cup. Sixty of the matches will be played at stadiums across the U.S. 
- <p class="updated_time"> 11:29 AM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105477491/ikea-russia-sell-furniture-inventory-factories">Ikea packs up Russian operations and plans sale of factories</a> NPR: The Swedish furniture giant previously shut Russian stores and now says it cannot see a way to resume operations "any time soon" as the war in Ukraine continues. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
