@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:40 PM CT, Jun. 17 </p> 
+ <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:50 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
@@ -23,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
+ <p class="updated_time"> 01:52 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61844872?at_medium=RSS&at_campaign=KARANGA">Putin criticises sanctions and Eurovision row - round-up</a> BBC: Russia's leader says sanctions are "mad and thoughtless", as the war stops Ukraine from hosting Eurovision. 
  <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
  <p class="updated_time"> 12:51 PM CT, Jun. 17 </p> 
@@ -83,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
  <p class="updated_time"> 06:19 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61823463?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10-16 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 03:59 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105462649/russia-ukraine-war-what-happened-today-june-16">Russia-Ukraine war: What happened today (June 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
  <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
@@ -106,12 +108,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970790/trump-speaks-to-faith-and-freedom-coalition-as-jan-6-hearings-continue">Trump speaks to Faith and Freedom Coalition as Jan. 6 hearings continue</a> NPR: Former President Trump spoke to the Christian conservative group Faith and Freedom Coalition as the House Jan. 6 committee continues its hearings laying out his efforts to overturn the 2020 election. 
  <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Sens. Barbara Mikulski and Margaret Chase Smith couldn't wear pants or use the main bathroom during their tenures, when female senators were scarce. Rooms in the Capitol now honor their legacies. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
+ <p class="updated_time"> 10:05 AM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/2022/06/17/politics/nerd-warriors-treasury-department-sanctions-economic-war-russia/index.html">'They're like our nerd warriors': How the Treasury Department is waging economic war on Russia </a> CNN: Three months into US-led sanctions designed to crush Russia's economy for its war in Ukraine, Russia has appeared surprisingly resilient. 
  <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
@@ -138,10 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
  <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104920545/poll-student-loan-forgiveness">Americans support student loan forgiveness, but would rather rein in college costs</a> NPR: A new NPR/Ipsos poll finds majority support for forgiving $10,000 in federal student loan debt, but even broader support for making college affordable for future students. 
- <p class="updated_time"> 11:04 PM CT, Jun. 16 </p> 
- <a href="https://www.cnn.com/2022/06/16/politics/january-6-hearing-day-3-takeaways/index.html">8 takeaways from the January 6 hearings day 3 </a> CNN: The House select committee investigating the Capitol insurrection on Thursday detailed how former President Donald Trump tried to pressure his vice president to join in his scheme to overturn the presidential election -- and how Pence's refusal put his life in danger as rioters called for Pence's hanging on January 6, 2021. 
- <p class="updated_time"> 07:25 PM CT, Jun. 16 </p> 
- <a href="https://www.npr.org/2022/06/16/1105683634/transcript-jan-6-committee">Here's every word of the third Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 16 hearing of the House select committee investigating the Jan. 6 Capitol attack. 
 
 
 </details>
