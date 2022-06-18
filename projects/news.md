@@ -18,7 +18,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
  <p class="updated_time"> 05:16 AM CT, Jun. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Ukraine's Zelensky Visits Bombarded Southern City as Russia Moves to Cut Off Targets in East</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Moscow continues to target other cities with missile strikes. 
+ <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Ukraine's Zelensky Visits Bombarded Southern City</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Moscow continues to target other cities with missile strikes. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
