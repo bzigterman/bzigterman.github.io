@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61852963?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira were shot with hunting ammunition, say police</a> BBC: A third suspect has been arrested after the deaths of Dom Phillips and indigenous expert Bruno Pereira. 
  <p class="updated_time"> 01:58 PM CT, Jun. 18 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
  <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
- <p class="updated_time"> 07:07 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: At least 25 people are killed and millions left stranded after heavy downpours. 
  <p class="updated_time"> 06:44 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/61848490?at_medium=RSS&at_campaign=KARANGA">Watergate: Why the scandal still resonates 50 years later</a> BBC: A Watergate prosecutor on the similarities she sees between that scandal and last year's US Capitol riot. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
@@ -98,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
  <p class="updated_time"> 04:09 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106094639/what-to-know-about-colombias-surprise-filled-presidential-election">What to know about Colombia's surprise-filled presidential election</a> NPR: Colombians will go to the polls Sunday in the final round of a Presidential election that's had many surprises. Journalist Manuel Rueda explains the dynamics to NPR's Adrian Florido. 
  <p class="updated_time"> 04:01 PM CT, Jun. 18 </p> 
@@ -130,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
  <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
- <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790833/what-do-americans-think-about-the-jan-6-house-committee-hearings">What do Americans think about the Jan. 6 House committee hearings?</a> NPR: NPR asks people in New York and New Jersey how they feel about the Jan. 6 hearings on Capitol Hill. On Thursday, the committee held the third of seven planned hearings. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
