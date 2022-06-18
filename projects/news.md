@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:53 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852935?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Tayra, medic who filmed Mariupol horror, freed from Russian captivity</a> BBC: A paramedic captured by Russian forces during the invasion of Ukraine is freed after three months. 
  <p class="updated_time"> 08:19 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61851284?at_medium=RSS&at_campaign=KARANGA">Ukraine deserve to host Eurovision - Boris Johnson</a> BBC: Ukraine should be given the chance to host the Eurovision Song Contest in 2023, the UK prime minister has said. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
  <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
- <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
