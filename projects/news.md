@@ -98,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106059594/poor-peoples-campaign-rallies-in-washington-to-mobilize-low-income-voters">Poor People's Campaign rallies in Washington to mobilize low-income voters</a> NPR: A few thousand activists, advocacy groups, and religious leaders protested in Washington, D.C., on Saturday. They are calling for what they say is a Third Reconstruction. 
  <p class="updated_time"> 11:38 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106057751/biden-falls-getting-off-bike">Biden falls while getting off his bike after a beach ride</a> NPR: President Biden fell when he was getting off his bike after a ride near the beach in Delaware. He quickly collected himself and the White House said he is "fine." 
  <p class="updated_time"> 10:53 AM CT, Jun. 18 </p> 
@@ -130,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790833/what-do-americans-think-about-the-jan-6-house-committee-hearings">What do Americans think about the Jan. 6 House committee hearings?</a> NPR: NPR asks people in New York and New Jersey how they feel about the Jan. 6 hearings on Capitol Hill. On Thursday, the committee held the third of seven planned hearings. 
  <p class="updated_time"> 06:19 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas">The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas</a> NPR: NPR's Rachel Martin talks to New Yorker staff writer Jane Mayer about the role Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, played in the lead up to the attack on the Capitol. 
- <p class="updated_time"> 06:18 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790819/john-eastman-is-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">John Eastman is the Trump lawyer at the center of the Jan. 6 investigation</a> NPR: The House panel hearing on Thursday focused on the role of conservative lawyer John Eastman, who pushed a theory that former Vice President Mike Pence could overturn the election results unilaterally. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
