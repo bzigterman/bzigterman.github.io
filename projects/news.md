@@ -15,6 +15,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 12:17 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61851466?at_medium=RSS&at_campaign=KARANGA">Moroccans accuse French tycoon Jacques Bouthier of sexual harassment</a> BBC: The 75-year-old is already under judicial investigation in France for raping a minor and trafficking. 
+ <p class="updated_time"> 11:48 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852958?at_medium=RSS&at_campaign=KARANGA">Vitali Klitschko: Russians are dying for Putin’s ambitions</a> BBC: Kyiv's mayor says Russia's leader is destroying millions of lives in both Ukraine and Russia. 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
  <p class="updated_time"> 10:30 AM CT, Jun. 18 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Ukraine's Zelensky Visits Bombarded Southern City</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Moscow continues to target other cities with missile strikes. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
- <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
@@ -98,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 PM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106094639/what-to-know-about-colombias-surprise-filled-presidential-election">What to know about Colombia's surprise-filled presidential election</a> NPR: Colombians will go to the polls Sunday in the final round of a Presidential election that's had many surprises. Journalist Manuel Rueda explains the dynamics to NPR's Adrian Florido. 
  <p class="updated_time"> 04:01 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106059594/poor-peoples-campaign-rallies-in-washington-to-mobilize-low-income-voters">Poor People's Campaign rallies in Washington to mobilize low-income voters</a> NPR: A few thousand activists, advocacy groups, and religious leaders protested in Washington, D.C., on Saturday. They are calling for what they say is a Third Reconstruction. 
  <p class="updated_time"> 11:38 AM CT, Jun. 18 </p> 
@@ -130,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
  <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790833/what-do-americans-think-about-the-jan-6-house-committee-hearings">What do Americans think about the Jan. 6 House committee hearings?</a> NPR: NPR asks people in New York and New Jersey how they feel about the Jan. 6 hearings on Capitol Hill. On Thursday, the committee held the third of seven planned hearings. 
- <p class="updated_time"> 06:19 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas">The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas</a> NPR: NPR's Rachel Martin talks to New Yorker staff writer Jane Mayer about the role Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, played in the lead up to the attack on the Capitol. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
