@@ -21,12 +21,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
+ <p class="updated_time"> 02:48 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Russia Moves to Cut Off Key City in Ukraine's East</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Russia attempts to push south from positions it holds further north. 
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601">Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</a> WSJ: Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts. 
  <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
  <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
  <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
- <p class="updated_time"> 01:23 PM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-escalations-in-syria-risk-direct-conflict-with-u-s-military-officials-warn-11655504591">Russian Escalations in Syria Risk Conflict, U.S. Military Warns</a> WSJ: Recent Russian airstrikes and other operations in Syria are raising alarms amid high tensions over Ukraine. 
  <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
  <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
@@ -67,18 +69,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange be extradited to the U.S.? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
- <p class="updated_time"> 10:16 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/putin-blasts-the-west-says-sanctions-on-russia-over-ukraine-are-backfiring-11655493405">Putin Blasts the West, Says Sanctions on Russia Over Ukraine Are Backfiring</a> WSJ: The Russian leader criticized the West for failing to recognize the rise of new power blocs since the end of the Cold War. 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
+ <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
+ <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 08:41 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
- <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
- <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -100,6 +98,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106045587/week-in-politics-jan-6-hearings-are-revealing-but-americans-are-split-on-outcome">Week in politics: Jan. 6 hearings are revealing, but Americans are split on outcome</a> NPR: The Jan. 6 committee hearings are getting a lot of attention, but polls show Americans are essentially evenly split over whether former President Donald Trump should be indicted. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
  <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1105927483/in-a-time-of-national-division-polarizing-primaries-are-part-of-the-problem">In a time of national division, polarizing primaries are part of the problem</a> NPR: It is said the best medicine for what ails democracy is more democracy. But what does more democracy mean? If it just means more of the kind of politics we have now then it hardly offers a remedy. 
  <p class="updated_time"> 08:09 PM CT, Jun. 17 </p> 
@@ -128,14 +132,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790854/after-centuries-there-are-2-rooms-on-the-capitols-senate-side-named-for-women">After centuries, there are 2 rooms on the Capitol's Senate side named for women </a> NPR: Democrat Barbara Mikulski of Maryland was the longest serving female senator. Maine Republican Margaret Chase Smith was the first woman to be elected to both the House and Senate 
  <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790882/republican-rep-jacobs-wont-seek-reelection-after-he-changed-his-stance-on-guns">Republican Rep. Jacobs won't seek reelection after he changed his stance on guns</a> NPR: NPR's Steve Inskeep talks to Republican Rep. Chris Jacobs of western New York. Jacobs decided not to seek another term in Congress after his support for gun control drew the ire of GOP colleagues. 
- <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790812/morning-news-brief">News brief: Jan. 6 hearing takeaways, long COVID, student loan poll</a> NPR: A recap of the 3rd hearing by the House Jan. 6 panel. There's a bit of good news coming out of research into long COVID. Americans support student loan forgiveness, but would rather rein in costs. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
- <p class="updated_time"> 04:04 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105600072/who-is-john-eastman-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">Who is John Eastman, the Trump lawyer at the center of the Jan. 6 investigation? </a> NPR: The former law professor's name came up a number or times during the Jan. 6 investigation committee's hearing on Trump's pressure to get his vice president to overturn the 2020 election. 
- <p class="updated_time"> 04:01 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105508250/afl-cio-shuler-redmond-interview">Organizing and adding members are top goals for the newly elected AFL-CIO president</a> NPR: Elizabeth Shuler, the first woman ever elected president of the labor federation, is pledging a massive organizing drive over the next decade, with a goal of adding 1 million new union members. 
 
 
 </details>
