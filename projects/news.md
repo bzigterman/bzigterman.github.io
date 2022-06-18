@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:25 AM CT, Jun. 18 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105806987/ukraine-eurovision-host-uk">Eurovision winner Ukraine can't host next year's contest because of the war</a> NPR: Public broadcasters and security experts concluded it's not feasible for the war-torn country to host, organize and produce the event. They're now turning to the U.K., which placed second this year. 
  <p class="updated_time"> 07:27 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61841268?at_medium=RSS&at_campaign=KARANGA">Agnipath: One dead in violent India protests over military hiring</a> BBC: Protests in Secunderabad over a new plan to hire contract soldiers turned violent on Friday. 
- <p class="updated_time"> 06:56 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
  <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
