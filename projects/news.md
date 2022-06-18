@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:25 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
- <p class="updated_time"> 03:11 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
@@ -116,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1105927483/in-a-time-of-national-division-polarizing-primaries-are-part-of-the-problem">In a time of national division, polarizing primaries are part of the problem</a> NPR: It is said the best medicine for what ails democracy is more democracy. But what does more democracy mean? If it just means more of the kind of politics we have now then it hardly offers a remedy. 
  <p class="updated_time"> 08:09 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1106026898/cancelled-flights-pete-buttigieg-tells-airlines-step-up-game">Flight cancelled? Pete Buttigieg is telling airlines to step up their game</a> NPR: The transportation secretary is one of the many travelers who had their flights cancelled in recent days. His happened the day after he met with airline CEOs about their operational struggles. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
@@ -150,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105600072/who-is-john-eastman-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">Who is John Eastman, the Trump lawyer at the center of the Jan. 6 investigation? </a> NPR: The former law professor's name came up a number or times during the Jan. 6 investigation committee's hearing on Trump's pressure to get his vice president to overturn the 2020 election. 
  <p class="updated_time"> 04:01 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105508250/afl-cio-shuler-redmond-interview">Organizing and adding members are top goals for the newly elected AFL-CIO president</a> NPR: Elizabeth Shuler, the first woman ever elected president of the labor federation, is pledging a massive organizing drive over the next decade, with a goal of adding 1 million new union members. 
- <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
 
 
 </details>
