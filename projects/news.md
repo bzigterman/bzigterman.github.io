@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:17 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61851466?at_medium=RSS&at_campaign=KARANGA">Moroccans accuse French tycoon Jacques Bouthier of sexual harassment</a> BBC: The 75-year-old is already under judicial investigation in France for raping a minor and trafficking. 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
  <p class="updated_time"> 10:30 AM CT, Jun. 18 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105997564/british-journalist-remains-found-brazil-amazon">A British journalist's remains have been found in Brazil's Amazon, police say </a> NPR: Human remains found deep in Brazil's Amazon have been identified as belonging to British journalist Dom Phillips, according to Brazil's federal police. 
- <p class="updated_time"> 04:36 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
