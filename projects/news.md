@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61850899?at_medium=RSS&at_campaign=KARANGA">Eurovision: Ukraine deserves to host 2023 contest, says Boris Johnson</a> BBC: Boris Johnson says the contest should go ahead in Ukraine, even as organisers fear it will be unsafe. 
+ <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
@@ -20,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">Sikh temple in Afghanistan rocked by explosions, gunfire</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning 
+ <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
  <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
@@ -51,14 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
- <p class="updated_time"> 01:52 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61844872?at_medium=RSS&at_campaign=KARANGA">Putin criticises sanctions and Eurovision row - round-up</a> BBC: Russia's leader says sanctions are "mad and thoughtless", as the war stops Ukraine from hosting Eurovision. 
  <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
  <p class="updated_time"> 01:23 PM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/russian-escalations-in-syria-risk-direct-conflict-with-u-s-military-officials-warn-11655504591">Russian Escalations in Syria Risk Conflict, U.S. Military Warns</a> WSJ: Recent Russian airstrikes and other operations in Syria are raising alarms amid high tensions over Ukraine. 
- <p class="updated_time"> 12:51 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61839256?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited, says UK home secretary</a> BBC: Wikileaks founder Julian Assange’s extradition to the US is approved by UK Home Secretary Priti Patel. 
  <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
  <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
@@ -67,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange be extradited to the U.S.? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
- <p class="updated_time"> 11:25 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61841598?at_medium=RSS&at_campaign=KARANGA">Ukraine moves one step closer to EU membership</a> BBC: The European Commission backs Ukraine's candidate status, but says the country must make changes. 
  <p class="updated_time"> 10:16 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/putin-blasts-the-west-says-sanctions-on-russia-over-ukraine-are-backfiring-11655493405">Putin Blasts the West, Says Sanctions on Russia Over Ukraine Are Backfiring</a> WSJ: The Russian leader criticized the West for failing to recognize the rise of new power blocs since the end of the Cold War. 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
@@ -77,18 +75,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61838543?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Outdoor events banned in parts of France</a> BBC: France forced to import electricity as air-conditioners and fans switched on for record heatwave. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
- <p class="updated_time"> 07:32 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105806987/ukraine-eurovision-host-uk">Eurovision winner Ukraine can't host next year's contest because of the war</a> NPR: Public broadcasters and security experts concluded it's not feasible for the war-torn country to host, organize and produce the event. They're now turning to the U.K., which placed second this year. 
- <p class="updated_time"> 07:27 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61841268?at_medium=RSS&at_campaign=KARANGA">Agnipath: One dead in violent India protests over military hiring</a> BBC: Protests in Secunderabad over a new plan to hire contract soldiers turned violent on Friday. 
- <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
  <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
  <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. 
- <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -99,16 +89,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61825526?at_medium=RSS&at_campaign=KARANGA">France gears up for new battle: Macron v Mélenchon</a> BBC: The French president could lose his majority in the National Assembly because of a left-green alliance. 
  <p class="updated_time"> 06:29 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
- <p class="updated_time"> 06:19 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61823463?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 10-16 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
- <p class="updated_time"> 07:18 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61826961?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Moroccan's death sentence being ignored, sister says</a> BBC: Brahim Saaudun and two Britons were captured by Russian forces while fighting for Ukraine. 
  <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
- <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
 
 
 </details>
