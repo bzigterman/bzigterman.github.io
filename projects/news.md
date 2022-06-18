@@ -81,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
- <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
