@@ -17,6 +17,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61850899?at_medium=RSS&at_campaign=KARANGA">Eurovision: Ukraine deserves to host 2023 contest, says Boris Johnson</a> BBC: Boris Johnson says the contest should go ahead in Ukraine, even as organisers fear it will be unsafe. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
+ <p class="updated_time"> 05:16 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Ukraine's Zelensky Visits Bombarded Southern City as Russia Moves to Cut Off Targets in East</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Moscow continues to target other cities with missile strikes. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh site in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
- <p class="updated_time"> 02:48 AM CT, Jun. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Russia Moves to Cut Off Key City in Ukraine's East</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Russia attempts to push south from positions it holds further north. 
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
