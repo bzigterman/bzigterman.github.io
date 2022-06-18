@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 03:25 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban fighter are killed along with the attackers. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
  <p class="updated_time"> 03:11 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
  <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
+ <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
  <p class="updated_time"> 07:07 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: At least 25 people are killed and millions left stranded after heavy downpours. 
  <p class="updated_time"> 06:44 PM CT, Jun. 17 </p> 
