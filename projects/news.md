@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61851284?at_medium=RSS&at_campaign=KARANGA">Ukraine deserve to host Eurovision - Boris Johnson</a> BBC: Ukraine should be given the chance to host the Eurovision Song Contest in 2023, the UK prime minister has said. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:20 AM CT, Jun. 18 </p> 
@@ -20,7 +22,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:08 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:25 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh site in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban member are killed along with the attackers. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
  <p class="updated_time"> 02:48 AM CT, Jun. 18 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
- <p class="updated_time"> 06:58 AM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
 
 
 </details>
