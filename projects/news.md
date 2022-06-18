@@ -79,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
- <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
- <a href="https://www.wsj.com/articles/wto-nations-agree-to-ease-patent-rights-to-boost-covid-19-vaccine-supplies-in-poorer-nations-11655441416">WTO Nations Agree to Ease Patent Rights to Boost Covid-19 Vaccine Supplies in Poorer Nations</a> WSJ: The compromise will make it easier for developing nations to manufacture and export a patented vaccine. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -100,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106054812/mark-shields-pbs-newshour-commentator-dies">PBS NewsHour commentator Mark Shields dies at age 85</a> NPR: Mark Shields, the longtime commentator known for his weekly political analysis and sense of humor, has died at the age of 85, PBS NewsHour confirmed. 
  <p class="updated_time"> 08:03 AM CT, Jun. 18 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
@@ -132,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790819/john-eastman-is-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">John Eastman is the Trump lawyer at the center of the Jan. 6 investigation</a> NPR: The House panel hearing on Thursday focused on the role of conservative lawyer John Eastman, who pushed a theory that former Vice President Mike Pence could overturn the election results unilaterally. 
  <p class="updated_time"> 05:26 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790854/after-centuries-there-are-2-rooms-on-the-capitols-senate-side-named-for-women">After centuries, there are 2 rooms on the Capitol's Senate side named for women </a> NPR: Democrat Barbara Mikulski of Maryland was the longest serving female senator. Maine Republican Margaret Chase Smith was the first woman to be elected to both the House and Senate 
- <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790882/republican-rep-jacobs-wont-seek-reelection-after-he-changed-his-stance-on-guns">Republican Rep. Jacobs won't seek reelection after he changed his stance on guns</a> NPR: NPR's Steve Inskeep talks to Republican Rep. Chris Jacobs of western New York. Jacobs decided not to seek another term in Congress after his support for gun control drew the ire of GOP colleagues. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
