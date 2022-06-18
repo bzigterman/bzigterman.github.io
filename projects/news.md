@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban fighter are killed along with the attackers. 
+ <p class="updated_time"> 03:11 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
+ <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
  <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
- <p class="updated_time"> 02:30 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban fighter are killed along with the attackers. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">Sikh temple in Afghanistan rocked by explosions, gunfire</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
@@ -31,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61847300?at_medium=RSS&at_campaign=KARANGA">Russia's Putin condemns 'mad and thoughtless' Western sanctions</a> BBC: The Russian president says the economic restrictions are "more harmful" to those who imposed them. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:50 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61848789?at_medium=RSS&at_campaign=KARANGA">Remains of UK journalist Phillips identified in Brazil</a> BBC: UK journalist Dom Phillips and indigenous expert Bruno Pereira went missing in the Amazon on 5 June. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61828404?at_medium=RSS&at_campaign=KARANGA">Australian man uses forklift to trap would-be thief in car</a> BBC: Footage from Australia shows the woman stuck in a car suspended above the ground before she is arrested. 
  <p class="updated_time"> 08:03 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
- <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
 
 
 </details>
