@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
  <p class="updated_time"> 07:07 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: More than two million people have been left stranded after continuous rain and floods. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790450/u-s-ambassador-its-going-to-be-a-long-grinding-tough-war">U.S. ambassador to Ukraine: 'It's going to be a long, grinding, tough war'</a> NPR: The U.S. Embassy in Ukraine has been through a lot in recent years. It's just reopened and Ambassador Bridget Brink is overseeing a massive U.S. assistance operation with a limited staff. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
- <p class="updated_time"> 01:31 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61835918?at_medium=RSS&at_campaign=KARANGA">Republican Senate gun negotiator walks out of talks</a> BBC: "We're about run out of our rope here," a frustrated Senator John Cornyn said as he left Washington. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
