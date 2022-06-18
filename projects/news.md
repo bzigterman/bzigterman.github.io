@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105997564/british-journalist-remains-found-brazil-amazon">A British journalist's remains have been found in Brazil's Amazon, police say </a> NPR: Human remains found deep in Brazil's Amazon have been identified as belonging to British journalist Dom Phillips, according to Brazil's federal police. 
  <p class="updated_time"> 04:36 PM CT, Jun. 17 </p> 
@@ -114,10 +116,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105970790/trump-speaks-to-faith-and-freedom-coalition-as-jan-6-hearings-continue">Trump speaks to Faith and Freedom Coalition as Jan. 6 hearings continue</a> NPR: Former President Trump spoke to the Christian conservative group Faith and Freedom Coalition as the House Jan. 6 committee continues its hearings laying out his efforts to overturn the 2020 election. 
  <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Sens. Barbara Mikulski and Margaret Chase Smith couldn't wear pants or use the main bathroom during their tenures, when female senators were scarce. Rooms in the Capitol now honor their legacies. 
+ <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
- <p class="updated_time"> 10:05 AM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/2022/06/17/politics/nerd-warriors-treasury-department-sanctions-economic-war-russia/index.html">'They're like our nerd warriors': How the Treasury Department is waging economic war on Russia </a> CNN: Three months into US-led sanctions designed to crush Russia's economy for its war in Ukraine, Russia has appeared surprisingly resilient. 
  <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
