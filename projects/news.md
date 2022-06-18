@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:07 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: More than two million people have been left stranded after continuous rain and floods. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
  <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
- <p class="updated_time"> 05:13 AM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61811642?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow: My baby and I were kidnapped</a> BBC: Viktoria and her surviving child have been waiting for nearly 50 days to get a UK visa. 
 
 
 </details>
@@ -110,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:09 PM CT, Jun. 17 </p> 
+ <a href="https://www.npr.org/2022/06/17/1106026898/cancelled-flights-pete-buttigieg-tells-airlines-step-up-game">Flight cancelled? Pete Buttigieg is telling airlines to step up their game</a> NPR: The transportation secretary is one of the many travelers who had their flights cancelled in recent days. His happened the day after he met with airline CEOs about their operational struggles. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105508250/afl-cio-shuler-redmond-interview">Organizing and adding members are top goals for the newly elected AFL-CIO president</a> NPR: Elizabeth Shuler, the first woman ever elected president of the labor federation, is pledging a massive organizing drive over the next decade, with a goal of adding 1 million new union members. 
  <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/06/17/1105494283/california-pot-warning-labels">California may require labels on pot products to warn of mental health risks </a> NPR: A proposed bill would require cannabis products to carry large warnings, similar to cigarettes. But the state's legal pot industry says more rules make it harder to compete with the illicit market. 
- <p class="updated_time"> 04:00 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1104920545/poll-student-loan-forgiveness">Americans support student loan forgiveness, but would rather rein in college costs</a> NPR: A new NPR/Ipsos poll finds majority support for forgiving $10,000 in federal student loan debt, but even broader support for making college affordable for future students. 
 
 
 </details>
