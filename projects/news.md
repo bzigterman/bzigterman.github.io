@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
+ <p class="updated_time"> 02:30 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61850021?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Deadly explosion rocks Sikh temple in Kabul</a> BBC: A member of the country's tiny Sikh community and a Taliban fighter are killed along with the attackers. 
+ <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">Sikh temple in Afghanistan rocked by explosions, gunfire</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning 
+ <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
  <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
  <p class="updated_time"> 07:07 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: More than two million people have been left stranded after continuous rain and floods. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61849349?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: Torrential rain leaves millions stranded</a> BBC: At least 25 people are killed and millions left stranded after heavy downpours. 
+ <p class="updated_time"> 06:44 PM CT, Jun. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/61848490?at_medium=RSS&at_campaign=KARANGA">Watergate: Why the scandal still resonates 50 years later</a> BBC: A Watergate prosecutor on the similarities she sees between that scandal and last year's US Capitol riot. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
@@ -69,16 +79,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105803824/commission-recommends-making-ukraine-candidate-european-union-membership">Commission recommends making Ukraine a candidate for European Union membership</a> NPR: The European Union's executive arm on Friday recommended making Ukraine a candidate for EU membership, a first step on what was expected to be a long road for the country to join the 27-nation bloc. 
  <p class="updated_time"> 06:22 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/health-61839777?at_medium=RSS&at_campaign=KARANGA">Covid infections up after Platinum Jubilee celebrations</a> BBC: The latest UK figures cover the long weekend of partying and suggest one in 45 has Covid. 
- <p class="updated_time"> 05:30 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105797581/julian-assange-extradition">The U.K. says Julian Assange can be extradited to the U.S. to face spying charges</a> NPR: WikiLeaks said it would appeal. The decision is a big moment in Assange's years-long battle to avoid facing trial in the U.S. — though not necessarily the end of the tale. 
  <p class="updated_time"> 05:13 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521">Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</a> WSJ: Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops. 
  <p class="updated_time"> 05:11 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931">Russians Hunt for Spies at Ukrainian Nuclear Power Plant</a> WSJ: Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. 
  <p class="updated_time"> 04:43 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61830085?at_medium=RSS&at_campaign=KARANGA">Nigeria's Owo church massacre: Who are the victims?</a> BBC: Remembering some of the 40 people killed in an attack on a church which shocked Nigeria. 
- <p class="updated_time"> 04:16 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790450/u-s-ambassador-its-going-to-be-a-long-grinding-tough-war">U.S. ambassador to Ukraine: 'It's going to be a long, grinding, tough war'</a> NPR: The U.S. Embassy in Ukraine has been through a lot in recent years. It's just reopened and Ambassador Bridget Brink is overseeing a massive U.S. assistance operation with a limited staff. 
  <p class="updated_time"> 03:46 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61838411?at_medium=RSS&at_campaign=KARANGA">Dog turns on stove and starts house fire</a> BBC: The dog was trying to reach a pan of grease that the owners had left on the hob. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -101,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61805862?at_medium=RSS&at_campaign=KARANGA">Scraps of stale bread are keeping Afghans alive</a> BBC: Falling incomes and soaring prices under the Taliban have left many struggling to feed themselves. 
  <p class="updated_time"> 01:49 PM CT, Jun. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61816799?at_medium=RSS&at_campaign=KARANGA">Saudi authorities seize rainbow toys they say 'promote homosexuality'</a> BBC: Government authorities have removed toys they say "promote homosexuality". 
- <p class="updated_time"> 06:57 AM CT, Jun. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61813897?at_medium=RSS&at_campaign=KARANGA">Boy rescued after 100 hours trapped underground in a well</a> BBC: A 10-year-old boy is recovering in hospital after falling 18m down an open well in India. 
 
 
 </details>
