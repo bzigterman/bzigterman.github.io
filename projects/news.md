@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61852963?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira were shot with hunting ammunition, say police</a> BBC: A third suspect has been arrested after the deaths of Dom Phillips and indigenous expert Bruno Pereira. 
  <p class="updated_time"> 01:58 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 12:17 PM CT, Jun. 18 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
- <p class="updated_time"> 01:46 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61843035?at_medium=RSS&at_campaign=KARANGA">Vince McMahon: WWE CEO steps down amid misconduct inquiry</a> BBC: His daughter Stephanie McMahon will serve as interim CEO at the wrestling entertainment firm. 
  <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
  <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
