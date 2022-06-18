@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:20 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61850899?at_medium=RSS&at_campaign=KARANGA">Eurovision: Ukraine deserves to host 2023 contest, says Boris Johnson</a> BBC: Boris Johnson says the contest should go ahead in Ukraine, even as organisers fear it will be unsafe. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
@@ -29,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/rising-inflation-and-interest-rates-heap-pressure-on-emerging-markets-11655544600">Rising Inflation and Interest Rates Heap Pressure on Emerging Markets</a> WSJ: Emerging economies world-wide feel a financial strain after the Fed’s interest-rate increase this week with some facing the possibility of a debt crisis as global growth slows and hopes for a reprieve from rising inflation evaporate. 
  <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601">Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</a> WSJ: Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts. 
  <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
- <p class="updated_time"> 11:48 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105827493/julian-assange-extradition-explained">Will Julian Assange be extradited to the U.S.? Where his case stands now</a> NPR: The WikiLeaks founder will face 18 federal counts — whenever he's brought to a U.S. courthouse in Virginia. For now, he has at least one more avenue of appeal. 
  <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
  <p class="updated_time"> 08:52 AM CT, Jun. 17 </p> 
@@ -98,6 +100,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:03 AM CT, Jun. 18 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
@@ -118,8 +122,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
- <p class="updated_time"> 10:00 AM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
  <p class="updated_time"> 06:20 AM CT, Jun. 17 </p> 
