@@ -11,12 +11,14 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
+ <p class="updated_time"> 10:30 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61850903?at_medium=RSS&at_campaign=KARANGA">In pictures: Europe swelters in blistering June heat</a> BBC: Temperatures soar as scientists warn heatwaves are striking earlier in the year due to climate change. 
  <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 09:53 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61852935?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Tayra, medic who filmed Mariupol horror, freed from Russian captivity</a> BBC: A paramedic captured by Russian forces during the invasion of Ukraine is freed after three months. 
  <p class="updated_time"> 08:19 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61851284?at_medium=RSS&at_campaign=KARANGA">Ukraine deserve to host Eurovision - Boris Johnson</a> BBC: Ukraine should be given the chance to host the Eurovision Song Contest in 2023, the UK prime minister has said. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61851284?at_medium=RSS&at_campaign=KARANGA">Ukraine deserves to host Eurovision - Boris Johnson</a> BBC: Ukraine should be given the chance to host the Eurovision Song Contest in 2023, the UK prime minister has said. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:20 AM CT, Jun. 18 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
- <p class="updated_time"> 09:37 AM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-61838905?at_medium=RSS&at_campaign=KARANGA">Italy's Eni says Russian gas supply cut by half</a> BBC: Energy firm Eni says it will only receive half the gas requested from Russia after two days of shortfalls. 
  <p class="updated_time"> 08:00 AM CT, Jun. 17 </p> 
  <a href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389">Colombia's Election Is Latest Blow to Latin America's Political Center</a> WSJ: The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.” 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -98,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Jun. 18 </p> 
+ <a href="https://www.npr.org/2022/06/18/1106057751/biden-falls-getting-off-bike">Biden falls while getting off his bike after a beach ride</a> NPR: President Biden fell when he was getting off his bike after a ride near the beach in Delaware. He quickly collected himself and the White House said he is "fine." 
  <p class="updated_time"> 10:53 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106054812/mark-shields-pbs-newshour-commentator-dies">PBS NewsHour commentator Mark Shields dies at age 85</a> NPR: Mark Shields, the longtime commentator known for his weekly political analysis and sense of humor, has died at the age of 85, PBS NewsHour confirmed. 
  <p class="updated_time"> 08:03 AM CT, Jun. 18 </p> 
@@ -130,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105790826/the-house-jan-6-panel-wants-to-interview-the-wife-of-justice-clarence-thomas">The House Jan. 6 panel wants to interview the wife of Justice Clarence Thomas</a> NPR: NPR's Rachel Martin talks to New Yorker staff writer Jane Mayer about the role Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, played in the lead up to the attack on the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105790819/john-eastman-is-the-trump-lawyer-at-the-center-of-the-jan-6-investigation">John Eastman is the Trump lawyer at the center of the Jan. 6 investigation</a> NPR: The House panel hearing on Thursday focused on the role of conservative lawyer John Eastman, who pushed a theory that former Vice President Mike Pence could overturn the election results unilaterally. 
- <p class="updated_time"> 05:26 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105790854/after-centuries-there-are-2-rooms-on-the-capitols-senate-side-named-for-women">After centuries, there are 2 rooms on the Capitol's Senate side named for women </a> NPR: Democrat Barbara Mikulski of Maryland was the longest serving female senator. Maine Republican Margaret Chase Smith was the first woman to be elected to both the House and Senate 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
