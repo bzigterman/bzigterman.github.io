@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
  <p class="updated_time"> 01:00 AM CT, Jun. 19 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
  <p class="updated_time"> 03:16 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
- <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
