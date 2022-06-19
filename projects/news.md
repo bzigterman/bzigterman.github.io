@@ -70,9 +70,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
  <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
- <a href="https://www.wsj.com/articles/rising-inflation-and-interest-rates-heap-pressure-on-emerging-markets-11655544600">Rising Inflation and Interest Rates Heap Pressure on Emerging Markets</a> WSJ: Emerging economies world-wide feel a financial strain after the Fed’s interest-rate increase this week with some facing the possibility of a debt crisis as global growth slows and hopes for a reprieve from rising inflation evaporate. 
- <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601">Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</a> WSJ: Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/rising-inflation-and-interest-rates-heap-pressure-on-emerging-markets-11655544600">Rising Inflation and Interest Rates Heap Pressure on Emerging Markets</a> WSJ: Emerging economies world-wide feel a financial strain after the Fed’s interest-rate increase this week with some facing the possibility of a debt crisis as global growth slows and hopes for a reprieve from rising inflation evaporate. 
  <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
