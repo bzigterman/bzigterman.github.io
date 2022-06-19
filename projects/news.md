@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:41 PM CT, Jun. 19 </p> 
+ <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
+ <p class="updated_time"> 02:08 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority - projection</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
- <p class="updated_time"> 01:19 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
- <p class="updated_time"> 11:34 AM CT, Jun. 19 </p> 
+ <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
+ <p class="updated_time"> 02:01 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 09:30 AM CT, Jun. 19 </p> 
@@ -32,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:45 AM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/germany-steps-up-measures-to-conserve-gas-as-russia-slows-supply-to-europe-11655642717">Germany Steps Up Measures to Conserve Gas as Russia Slows Supply</a> WSJ: Germany will restart coal-fired power plants and offer incentives for companies to curb natural gas consumption, marking a new step in the economic war between Europe and Russia. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
+ <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
  <p class="updated_time"> 02:00 AM CT, Jun. 19 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970811/filipino-archivist-races-to-protect-history-of-abuses-ahead-of-marcos-presidency">Filipino archivist races to protect history of abuses ahead of Marcos presidency</a> NPR: NPR's Sacha Pfeiffer talks to Carmelo Crisanto, executive director of the Human Rights Violations Victims' Memorial Commission, about racing to archive human rights abuses in the Philippines. 
- <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105967011/shireen-abu-aklehs-brother-calls-on-the-u-s-to-investigate-his-sisters-killing">Shireen Abu Akleh's brother calls on the U.S. to investigate his sister's killing </a> NPR: In Jerusalem, the brother of slain journalist Shireen Abu Akleh is calling for a U.S. investigation to provide answers on how his sister was killed while covering an Israeli military raid. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
