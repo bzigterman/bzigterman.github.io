@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:21 AM CT, Jun. 19 </p> 
+ <p class="updated_time"> 11:39 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Fina bars transgender swimmers from women's elite events if they went through male puberty</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
+ <p class="updated_time"> 11:38 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
+ <p class="updated_time"> 11:34 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
- <p class="updated_time"> 10:33 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
- <p class="updated_time"> 10:02 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
  <p class="updated_time"> 08:29 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61858476?at_medium=RSS&at_campaign=KARANGA">New UK Army chief issues Russia rallying cry</a> BBC: Gen Sir Patrick Sanders says the Army and allies need to be capable of defeating Russia in battle. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
