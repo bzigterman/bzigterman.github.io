@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 04:37 PM CT, Jun. 19 </p> 
@@ -25,7 +27,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
- <p class="updated_time"> 11:32 AM CT, Jun. 19 </p> 
+ <p class="updated_time"> 01:25 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
- <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
