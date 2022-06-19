@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
  <p class="updated_time"> 08:05 PM CT, Jun. 18 </p> 
@@ -21,8 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61808473?at_medium=RSS&at_campaign=KARANGA">Rocket man fights Russian demand to send him back</a> BBC: Anatoly Lazarev was at the heart of Russia's space rocket programme before he fled to Hungary. 
  <p class="updated_time"> 06:30 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">'What are we supposed to feed our babies?'</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
- <p class="updated_time"> 06:23 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
+ <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-moves-to-cut-off-key-city-in-ukraines-east-11655547497">Ukraine's Zelensky Visits Bombarded Southern City</a> WSJ: The battle for control of the Donbas area is escalating, with Ukrainian forces fighting to prevent Russian troops from seizing Severodonetsk, the regional governor said, while Moscow continues to target other cities with missile strikes. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
- <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
