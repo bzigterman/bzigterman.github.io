@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">Bulldozers: How a machine has become a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
  <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
@@ -31,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
+ <p class="updated_time"> 01:50 PM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Former Guerrilla-Turned-Senator Wins Colombia Presidential Race</a> WSJ: Gustavo Petro, who pledges to expand state control of the economy, upends decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 01:25 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Former rebel Gustavo Petro narrowly won a runoff election on Sunday, becoming Colombia's first leftist president. 
- <p class="updated_time"> 02:00 AM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraines-farmers-start-harvest-with-few-places-to-store-grain-11655636400">Ukraine's Farmers Start Harvest With Few Places to Store Grain</a> WSJ: Silos and warehouses are holding millions of tons of older grains and seeds, with export routes blocked. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
