@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
  <p class="updated_time"> 08:05 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 03:04 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61851142?at_medium=RSS&at_campaign=KARANGA">Trains set on fire in India military hiring protests</a> BBC: Demonstrations over a new government plan to hire soldiers on temporary contracts turn violent. 
- <p class="updated_time"> 02:47 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61850897?at_medium=RSS&at_campaign=KARANGA">Fires burn through Shanghai chemical plant</a> BBC: One person dies in the blaze, which spews black smoke into the sky above China's largest city. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
