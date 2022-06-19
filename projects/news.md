@@ -25,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
+ <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601">Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</a> WSJ: Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts. 
  <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
- <p class="updated_time"> 06:44 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/61848490?at_medium=RSS&at_campaign=KARANGA">Watergate: Why the scandal still resonates 50 years later</a> BBC: A Watergate prosecutor on the similarities she sees between that scandal and last year's US Capitol riot. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
