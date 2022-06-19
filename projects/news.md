@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61855110?at_medium=RSS&at_campaign=KARANGA">Dutch government apologises to Srebrenica veterans</a> BBC: PM Mark Rutte said soldiers were underequipped to stop the murder of over 8,000 Muslim men and boys. 
+ <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61631438?at_medium=RSS&at_campaign=KARANGA">Why a Rwandan sports reporter fled his home</a> BBC: Rwandan journalists tell the BBC how oppression at home forced them to become refugees. 
+ <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61808473?at_medium=RSS&at_campaign=KARANGA">Rocket man fights Russian demand to send him back</a> BBC: Anatoly Lazarev was at the heart of Russia's space rocket programme before he fled to Hungary. 
+ <p class="updated_time"> 06:30 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">'What are we supposed to feed our babies?'</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
+ <p class="updated_time"> 06:23 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
+ <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
@@ -19,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61851466?at_medium=RSS&at_campaign=KARANGA">Moroccans accuse French tycoon Jacques Bouthier of sexual harassment</a> BBC: The 75-year-old is already under judicial investigation in France for raping a minor and trafficking. 
  <p class="updated_time"> 11:48 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61852958?at_medium=RSS&at_campaign=KARANGA">Vitali Klitschko: Russians are dying for Putin’s ambitions</a> BBC: Kyiv's mayor says Russia's leader is destroying millions of lives in both Ukraine and Russia. 
+ <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
  <p class="updated_time"> 10:30 AM CT, Jun. 18 </p> 
@@ -51,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/rising-inflation-and-interest-rates-heap-pressure-on-emerging-markets-11655544600">Rising Inflation and Interest Rates Heap Pressure on Emerging Markets</a> WSJ: Emerging economies world-wide feel a financial strain after the Fed’s interest-rate increase this week with some facing the possibility of a debt crisis as global growth slows and hopes for a reprieve from rising inflation evaporate. 
  <p class="updated_time"> 12:30 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601">Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</a> WSJ: Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts. 
- <p class="updated_time"> 11:19 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61850020?at_medium=RSS&at_campaign=KARANGA">Marcelo Pecci: Killers who shot Paraguayan prosecutor on honeymoon convicted</a> BBC: Officials say Marcelo Pecci, a famed anti-mafia prosecutor, was likely targeted by drugs gangs. 
  <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
  <p class="updated_time"> 06:44 PM CT, Jun. 17 </p> 
@@ -75,10 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
- <p class="updated_time"> 12:23 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61842635?at_medium=RSS&at_campaign=KARANGA">DR Congo soldier shot dead by Rwanda police</a> BBC: The killing adds to fears of wider conflict as DR Congo accuses Rwanda of backing Congolese rebels. 
- <p class="updated_time"> 12:15 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-61846894?at_medium=RSS&at_campaign=KARANGA">French screen icon Jean-Louis Trintignant dies aged 91</a> BBC: The icon starred in Amour and other titles - and gained sympathy after the murder of his daughter. 
  <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
@@ -87,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61708452?at_medium=RSS&at_campaign=KARANGA">Congo peat: The 'lungs of humanity' which are under threat</a> BBC: Carbon-rich peatlands are under threat from development, posing a risk for future climate change. 
  <p class="updated_time"> 06:35 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61825526?at_medium=RSS&at_campaign=KARANGA">France gears up for new battle: Macron v Mélenchon</a> BBC: The French president could lose his majority in the National Assembly because of a left-green alliance. 
- <p class="updated_time"> 06:29 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61420016?at_medium=RSS&at_campaign=KARANGA">How India could become a 'mushroom superpower'</a> BBC: Changing tastes mean mushroom entrepreneurs are only just getting started. 
  <p class="updated_time"> 10:05 AM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61820454?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: What replaced McDonald's in Russia?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
 
