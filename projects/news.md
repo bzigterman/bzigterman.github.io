@@ -106,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106107171/on-juneteenth-weekend-black-activists-march-for-abortion-rights">On Juneteenth weekend, Black activists march for abortion rights</a> NPR: Black abortion rights leaders say reproductive justice and racial justice are inextricably connected. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
  <p class="updated_time"> 04:09 PM CT, Jun. 18 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
  <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
- <p class="updated_time"> 07:44 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1104668393/jan-6-hearings-what-to-read">7 books to help you understand Jan. 6</a> NPR: To help guide you as findings from the Jan. 6 hearings emerge over the next few weeks, NPR has rounded up a list of books about the assault on the U.S. Capitol and the people and groups involved. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
