@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 AM CT, Jun. 19 </p> 
+ <p class="updated_time"> 01:29 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority - projection</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
+ <p class="updated_time"> 01:19 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
- <p class="updated_time"> 11:38 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 11:34 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
+ <p class="updated_time"> 09:30 AM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party retains the most seats but not enough for a majority, according to projections. 
  <p class="updated_time"> 08:29 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61858476?at_medium=RSS&at_campaign=KARANGA">New UK Army chief issues Russia rallying cry</a> BBC: Gen Sir Patrick Sanders says the Army and allies need to be capable of defeating Russia in battle. 
  <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
- <p class="updated_time"> 04:42 AM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">Macron's Parliamentary Majority at Risk in French Elections</a> WSJ: Millions of French voters are heading to the polls in the final round of elections that will determine whether President Emmanuel Macron can retain a majority in the National Assembly. 
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 03:45 AM CT, Jun. 19 </p> 
@@ -106,10 +106,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Jun. 19 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:38 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125393/politics-chat-3-down-3-to-go-on-jan-6-hearings">Politics chat: 3 down, 3 to go, on Jan. 6 hearings</a> NPR: With three public meetings done and three more to go, the January 6th committee is laying out its case against former President Donald Trump. 
- <p class="updated_time"> 07:25 AM CT, Jun. 19 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125358/two-top-georgia-election-officials-will-appear-at-the-next-jan-6-hearing">Two top Georgia election officials will appear at the next Jan. 6 hearing</a> NPR: Georgia looms large in politics — both in the ongoing Jan. 6 committee's work, and in upcoming elections. 
  <p class="updated_time"> 05:30 AM CT, Jun. 19 </p> 
