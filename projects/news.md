@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
- <p class="updated_time"> 08:05 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61855110?at_medium=RSS&at_campaign=KARANGA">Dutch government apologises to Srebrenica veterans</a> BBC: PM Mark Rutte said soldiers were underequipped to stop the murder of over 8,000 Muslim men and boys. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
