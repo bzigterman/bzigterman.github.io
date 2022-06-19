@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
+ <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61781505?at_medium=RSS&at_campaign=KARANGA">In photos: Throwback to life on Indian streets</a> BBC: A selection of street pictures in India by some of the country's most acclaimed photographers. 
+ <p class="updated_time"> 06:04 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The parliamentary elections' results confirm the French leader's second term will not be an easy ride. 
  <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 04:37 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
- <p class="updated_time"> 04:35 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The parliamentary elections' results confirm the French leader's second term will not be an easy ride. 
  <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
  <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
@@ -46,7 +50,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
+ <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Former rebel Gustavo Petro narrowly won a runoff election on Sunday, becoming Colombia's first leftist president. 
  <p class="updated_time"> 02:00 AM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/ukraines-farmers-start-harvest-with-few-places-to-store-grain-11655636400">Ukraine's Farmers Start Harvest With Few Places to Store Grain</a> WSJ: Silos and warehouses are holding millions of tons of older grains and seeds, with export routes blocked. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
@@ -75,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
+ <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
@@ -99,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61708452?at_medium=RSS&at_campaign=KARANGA">Congo peat: The 'lungs of humanity' which are under threat</a> BBC: Carbon-rich peatlands are under threat from development, posing a risk for future climate change. 
- <p class="updated_time"> 06:35 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61825526?at_medium=RSS&at_campaign=KARANGA">France gears up for new battle: Macron v Mélenchon</a> BBC: The French president could lose his majority in the National Assembly because of a left-green alliance. 
 
 
 </details>
