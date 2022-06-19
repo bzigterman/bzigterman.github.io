@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Fina bars transgender swimmers from women's elite events if they went through male puberty</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
+ <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 10:33 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 10:02 AM CT, Jun. 19 </p> 
@@ -27,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 03:45 AM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/germany-steps-up-measures-to-conserve-gas-as-russia-slows-supply-to-europe-11655642717">Germany Steps Up Measures to Conserve Gas as Russia Slows Supply</a> WSJ: Germany will restart coal-fired power plants and offer incentives for companies to curb natural gas consumption, marking a new step in the economic war between Europe and Russia. 
- <p class="updated_time"> 02:54 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
