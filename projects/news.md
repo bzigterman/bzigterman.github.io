@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
  <p class="updated_time"> 01:00 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 02:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105896419/russia-putin-speech-sanctions">Russia's Putin lashes out at the U.S. and claims victory over sanctions</a> NPR: The Russian president blamed the U.S. for fostering crises in global relations, food security, inflation and trade. He also said he had no objection to Ukraine's bid to join the European Union. 
- <p class="updated_time"> 12:14 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/17/1105660800/coronavirus-faq-should-i-still-take-a-covid-test-before-flying-into-the-u-s">Coronavirus FAQ: Should I still take a COVID test before flying into the U.S.?</a> NPR: This week, the Centers for Disease Control and Prevention ended the COVID-19 testing rule for air passengers traveling to the U.S. from abroad. Should you still take a COVID test anyway? 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
