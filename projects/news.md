@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:52 PM CT, Jun. 19 </p> 
+ <p class="updated_time"> 04:37 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
+ <p class="updated_time"> 04:35 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The parliamentary elections' results confirm the French leader's second term will not be an easy ride. 
- <p class="updated_time"> 02:41 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority - projection</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
+ <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
  <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
  <p class="updated_time"> 02:24 PM CT, Jun. 19 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
- <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61852963?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira were shot with hunting ammunition, say police</a> BBC: A third suspect has been arrested after the deaths of Dom Phillips and indigenous expert Bruno Pereira. 
  <p class="updated_time"> 01:36 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
  <p class="updated_time"> 12:57 PM CT, Jun. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:38 AM CT, Jun. 19 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1106026898/cancelled-flights-pete-buttigieg-tells-airlines-step-up-game">Flight cancelled? Pete Buttigieg is telling airlines to step up their game</a> NPR: The transportation secretary is one of the many travelers who had their flights cancelled in recent days. His happened the day after he met with airline CEOs about their operational struggles. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105970790/trump-speaks-to-faith-and-freedom-coalition-as-jan-6-hearings-continue">Trump speaks to Faith and Freedom Coalition as Jan. 6 hearings continue</a> NPR: Former President Trump spoke to the Christian conservative group Faith and Freedom Coalition as the House Jan. 6 committee continues its hearings laying out his efforts to overturn the 2020 election. 
  <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
