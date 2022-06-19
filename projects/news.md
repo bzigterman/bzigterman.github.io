@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:05 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61855110?at_medium=RSS&at_campaign=KARANGA">Dutch government apologises to Srebrenica veterans</a> BBC: PM Mark Rutte said soldiers were underequipped to stop the murder of over 8,000 Muslim men and boys. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61852963?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira were shot with hunting ammunition, say police</a> BBC: A third suspect has been arrested after the deaths of Dom Phillips and indigenous expert Bruno Pereira. 
- <p class="updated_time"> 01:58 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61854466?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits front-line cities of Mykolaiv and Odesa</a> BBC: Ukraine's president makes a rare trip outside the capital to visit bomb-damaged Mykolaiv and Odesa. 
  <p class="updated_time"> 12:17 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61851466?at_medium=RSS&at_campaign=KARANGA">Moroccans accuse French tycoon Jacques Bouthier of sexual harassment</a> BBC: The 75-year-old is already under judicial investigation in France for raping a minor and trafficking. 
  <p class="updated_time"> 11:48 AM CT, Jun. 18 </p> 
