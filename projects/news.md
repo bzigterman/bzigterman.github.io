@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
  <p class="updated_time"> 07:21 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
+ <p class="updated_time"> 04:42 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 02:54 AM CT, Jun. 19 </p> 
@@ -21,8 +25,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
+ <p class="updated_time"> 02:00 AM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-farmers-start-harvest-with-few-places-to-store-grain-11655636400">Ukraine's Farmers Start Harvest With Few Places to Store Grain</a> WSJ: Silos and warehouses are holding millions of tons of older grains and seeds, with export routes blocked. 
+ <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
+ <p class="updated_time"> 08:33 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/golf/61855200?at_medium=RSS&at_campaign=KARANGA">US Open 2022: Matt Fitzpatrick and Will Zalatoris lead going into final round</a> BBC: Matt Fitzpatrick and Will Zalatoris share the US Open lead after the third round at Brookline Country Club. 
  <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61855110?at_medium=RSS&at_campaign=KARANGA">Dutch government apologises to Srebrenica veterans</a> BBC: PM Mark Rutte said soldiers were underequipped to stop the murder of over 8,000 Muslim men and boys. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
@@ -41,24 +51,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 03:24 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61852963?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira were shot with hunting ammunition, say police</a> BBC: A third suspect has been arrested after the deaths of Dom Phillips and indigenous expert Bruno Pereira. 
+ <p class="updated_time"> 01:36 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 12:17 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61851466?at_medium=RSS&at_campaign=KARANGA">Moroccans accuse French tycoon Jacques Bouthier of sexual harassment</a> BBC: The 75-year-old is already under judicial investigation in France for raping a minor and trafficking. 
- <p class="updated_time"> 11:48 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852958?at_medium=RSS&at_campaign=KARANGA">Vitali Klitschko: Russians are dying for Putin’s ambitions</a> BBC: Kyiv's mayor says Russia's leader is destroying millions of lives in both Ukraine and Russia. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
  <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
- <p class="updated_time"> 09:53 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852935?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Tayra, medic who filmed Mariupol horror, freed from Russian captivity</a> BBC: A paramedic captured by Russian forces during the invasion of Ukraine is freed after three months. 
- <p class="updated_time"> 08:19 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61851284?at_medium=RSS&at_campaign=KARANGA">Ukraine deserves to host Eurovision - Boris Johnson</a> BBC: Ukraine should be given the chance to host the Eurovision Song Contest in 2023, the UK prime minister has said. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
- <p class="updated_time"> 06:20 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61850899?at_medium=RSS&at_campaign=KARANGA">Eurovision: Ukraine deserves to host 2023 contest, says Boris Johnson</a> BBC: Boris Johnson says the contest should go ahead in Ukraine, even as organisers fear it will be unsafe. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
@@ -85,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105970811/filipino-archivist-races-to-protect-history-of-abuses-ahead-of-marcos-presidency">Filipino archivist races to protect history of abuses ahead of Marcos presidency</a> NPR: NPR's Sacha Pfeiffer talks to Carmelo Crisanto, executive director of the Human Rights Violations Victims' Memorial Commission, about racing to archive human rights abuses in the Philippines. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105967011/shireen-abu-aklehs-brother-calls-on-the-u-s-to-investigate-his-sisters-killing">Shireen Abu Akleh's brother calls on the U.S. to investigate his sister's killing </a> NPR: In Jerusalem, the brother of slain journalist Shireen Abu Akleh is calling for a U.S. investigation to provide answers on how his sister was killed while covering an Israeli military raid. 
- <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
