@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 02:54 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
