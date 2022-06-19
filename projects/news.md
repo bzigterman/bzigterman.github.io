@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:21 AM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
+ <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 02:54 AM CT, Jun. 19 </p> 
@@ -17,8 +21,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French voters elect parliamentarians, in test for Macron</a> NPR: French voters are going to the polls in the final round of key parliamentary elections that will demonstrate how much legroom President Emmanuel Macron will be given to implement his domestic agenda. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Tight Colombian runoff pits former rebel, millionaire</a> NPR: Voters in Colombia will choose between a former rebel and an unpredictable millionaire when they vote in a presidential runoff that promises to reshape the country. 
- <p class="updated_time"> 01:00 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61852061?at_medium=RSS&at_campaign=KARANGA">French National Assembly vote decides battle between Macron and left</a> BBC: President Emmanuel Macron fights a crunch parliamentary election against a green-left alliance. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
  <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
  <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
- <p class="updated_time"> 10:30 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61850903?at_medium=RSS&at_campaign=KARANGA">In pictures: Europe swelters in blistering June heat</a> BBC: Temperatures soar as scientists warn heatwaves are striking earlier in the year due to climate change. 
  <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 09:53 AM CT, Jun. 18 </p> 
@@ -87,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105967011/shireen-abu-aklehs-brother-calls-on-the-u-s-to-investigate-his-sisters-killing">Shireen Abu Akleh's brother calls on the U.S. to investigate his sister's killing </a> NPR: In Jerusalem, the brother of slain journalist Shireen Abu Akleh is calling for a U.S. investigation to provide answers on how his sister was killed while covering an Israeli military raid. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970825/ukrainian-activist-pleads-with-washington-lawmakers-for-more-military-support">Ukrainian activist pleads with Washington lawmakers for more military support</a> NPR: Hanna Hopko, a pro-democracy activist from Ukraine, traveled to Washington, D.C., to try and convince lawmakers to send Ukraine more aid. NPR's Mary Louise Kelly spoke with her to see if it's working. 
- <p class="updated_time"> 03:16 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105924312/tour-de-france-covid">COVID cases are upending cycling, and the Tour de France starts in 2 weeks </a> NPR: "It's just crazy," Welsh cyclist Geraint Thomas said at the Tour de Suisse on Friday, after around 30 riders were forced to abandon the race. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
  <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
@@ -104,6 +102,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106125393/politics-chat-3-down-3-to-go-on-jan-6-hearings">Politics chat: 3 down, 3 to go, on Jan. 6 hearings</a> NPR: With three public meetings done and three more to go, the January 6th committee is laying out its case against former President Donald Trump. 
+ <p class="updated_time"> 07:25 AM CT, Jun. 19 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
+ <a href="https://www.npr.org/2022/06/19/1106125358/two-top-georgia-election-officials-will-appear-at-the-next-jan-6-hearing">Two top Georgia election officials will appear at the next Jan. 6 hearing</a> NPR: Georgia looms large in politics — both in the ongoing Jan. 6 committee's work, and in upcoming elections. 
  <p class="updated_time"> 05:30 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106107171/on-juneteenth-weekend-black-activists-march-for-abortion-rights">On Juneteenth weekend, Black activists march for abortion rights</a> NPR: Black abortion rights leaders say reproductive justice and racial justice are inextricably connected. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
@@ -116,8 +120,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106057751/biden-falls-getting-off-bike">Biden falls while getting off his bike after a beach ride</a> NPR: President Biden fell when he was getting off his bike after a ride near the beach in Delaware. He quickly collected himself and the White House said he is "fine." 
  <p class="updated_time"> 10:53 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106054812/mark-shields-pbs-newshour-commentator-dies">PBS NewsHour commentator Mark Shields dies at age 85</a> NPR: Mark Shields, the longtime commentator known for his weekly political analysis and sense of humor, has died at the age of 85, PBS NewsHour confirmed. 
- <p class="updated_time"> 08:03 AM CT, Jun. 18 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
@@ -132,12 +134,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970790/trump-speaks-to-faith-and-freedom-coalition-as-jan-6-hearings-continue">Trump speaks to Faith and Freedom Coalition as Jan. 6 hearings continue</a> NPR: Former President Trump spoke to the Christian conservative group Faith and Freedom Coalition as the House Jan. 6 committee continues its hearings laying out his efforts to overturn the 2020 election. 
- <p class="updated_time"> 12:45 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105875697/us-capitol-rooms-named-after-women-senators">The U.S. Capitol has named two rooms after female senators for the first time ever</a> NPR: Sens. Barbara Mikulski and Margaret Chase Smith couldn't wear pants or use the main bathroom during their tenures, when female senators were scarce. Rooms in the Capitol now honor their legacies. 
  <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
- <p class="updated_time"> 10:38 AM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105474882/daca-10-years-immigration-dreamers">10 years after DACA was announced, Dreamers remain in limbo</a> NPR: Ten years ago, the Obama administration announced the DACA program to protect certain young immigrants in the U.S. from being deported. Two Dreamers reflect on the years since. 
  <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
