@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The parliamentary elections' results confirm the French leader's second term will not be an easy ride. 
+ <p class="updated_time"> 02:41 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority - projection</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
+ <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
+ <p class="updated_time"> 02:24 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859593?at_medium=RSS&at_campaign=KARANGA">Ukraine to ban music by some Russians in media and public spaces</a> BBC: Ukraine's parliament also voted to ban the import of books from Russia and Belarus. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
- <p class="updated_time"> 02:08 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority - projection</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
- <p class="updated_time"> 02:01 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
- <p class="updated_time"> 09:30 AM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda 
+ <p class="updated_time"> 10:52 AM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 08:29 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61858476?at_medium=RSS&at_campaign=KARANGA">New UK Army chief issues Russia rallying cry</a> BBC: Gen Sir Patrick Sanders says the Army and allies need to be capable of defeating Russia in battle. 
  <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
- <p class="updated_time"> 10:39 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61852956?at_medium=RSS&at_campaign=KARANGA">Afghanistan gurdwara attack: Sikhs say 'We don't feel safe'</a> BBC: Members of Afghanistan's tiny Sikh community speak of their fears for their safety after the attack. 
  <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
