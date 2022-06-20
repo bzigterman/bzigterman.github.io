@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 04:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
- <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/ukraine-intensifies-strikes-against-russian-controlled-areas-11655643930">Ukraine Intensifies Strikes Against Russian-Controlled Areas</a> WSJ: Ukrainian attacks in Donbas came as Moscow unleashed new salvoes of long-range missiles—some of them shot down by air defenses—on cities across the country. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
@@ -76,7 +76,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61808473?at_medium=RSS&at_campaign=KARANGA">Rocket man fights Russian demand to send him back</a> BBC: Anatoly Lazarev was at the heart of Russia's space rocket programme before he fled to Hungary. 
  <p class="updated_time"> 06:30 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">'What are we supposed to feed our babies?'</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
+ <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">US parents turn to black market due to formula shortage</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
