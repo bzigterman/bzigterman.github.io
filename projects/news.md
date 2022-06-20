@@ -25,14 +25,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
  <p class="updated_time"> 12:35 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864392?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: 'Villages full of dead bodies'</a> BBC: Eyewitnesses tell the BBC they were left helpless as innocent citizens were slaughtered. 
+ <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
- <p class="updated_time"> 11:14 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
  <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
