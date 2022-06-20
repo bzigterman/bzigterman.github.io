@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
+ <p class="updated_time"> 11:09 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
+ <p class="updated_time"> 10:53 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Russia blockading Ukrainian grain is a 'real war crime' - EU</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
@@ -23,18 +29,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 08:27 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61869012?at_medium=RSS&at_campaign=KARANGA">Five Britons released after arrest by Taliban</a> BBC: The Foreign Office says the UK nationals' travel to Afghanistan was a "mistake" and against advice. 
+ <p class="updated_time"> 07:35 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
- <p class="updated_time"> 05:24 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Russia blockading Ukrainian grain is a 'real war crime' - EU</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
- <p class="updated_time"> 03:14 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine and the fight for control of the key city of Severodonetsk intensified. 
  <p class="updated_time"> 02:40 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/less-russian-gas-puts-europes-winter-fuel-supply-in-jeopardy-11655725207">Less Russian Gas Puts Europe's Winter Fuel Supply in Jeopardy</a> WSJ: Russia’s throttling of natural gas to Europe is endangering the continent’s race to sock away enough fuel to ride out next winter. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
@@ -85,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">US parents turn to black market due to formula shortage</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
- <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
- <p class="updated_time"> 11:01 AM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/2022/06/17/politics/roe-v-wade-history-timeline-what-matters/index.html">With Roe in jeopardy, America faces a rare moment when a court revokes a right. Here's what could happen next</a> CNN: The Supreme Court gave women nationwide the right to obtain an abortion nearly 50 years ago, and now it is poised to take it away. 
 
 
 </details>
