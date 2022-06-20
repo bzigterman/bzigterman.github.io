@@ -110,6 +110,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Jun. 20 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
  <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
  <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
@@ -120,8 +124,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: Colombia has a new president, after an historic election, that has held more than a few surprises. 
  <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
- <p class="updated_time"> 12:57 PM CT, Jun. 19 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:38 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125393/politics-chat-3-down-3-to-go-on-jan-6-hearings">Politics chat: 3 down, 3 to go, on Jan. 6 hearings</a> NPR: With three public meetings done and three more to go, the January 6th committee is laying out its case against former President Donald Trump. 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106054812/mark-shields-pbs-newshour-commentator-dies">PBS NewsHour commentator Mark Shields dies at age 85</a> NPR: Mark Shields, the longtime commentator known for his weekly political analysis and sense of humor, has died at the age of 85, PBS NewsHour confirmed. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
- <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106045587/week-in-politics-jan-6-hearings-are-revealing-but-americans-are-split-on-outcome">Week in politics: Jan. 6 hearings are revealing, but Americans are split on outcome</a> NPR: The Jan. 6 committee hearings are getting a lot of attention, but polls show Americans are essentially evenly split over whether former President Donald Trump should be indicted. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
