@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
  <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
+ <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 07:37 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
- <p class="updated_time"> 01:25 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
  <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
