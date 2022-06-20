@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
  <p class="updated_time"> 04:57 PM CT, Jun. 20 </p> 
@@ -32,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: Israel’s prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
+ <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: The prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
  <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">Macron's party loses control of France's parliament as the far right gains 81 seats</a> NPR: The French president's centrist alliance lost its majority in the country's legislature, with more voters opting for candidates on at the extremes. Marine Le Pen's party went from eight seats to 89. 
- <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Colombians elect the country's first leftist president and first Black woman to be vice president. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106292758/rhetoric-around-ghost-flights-of-migrant-children-is-often-at-odds-with-the-fact">Rhetoric around 'ghost flights' of migrant children is often at odds with the facts</a> NPR: President Biden's critics accuse his administration of organizing "secret" migrant flights to communities around the country. But that rhetoric is often at odds with the facts. 
  <p class="updated_time"> 03:53 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256047/why-democrats-are-paying-for-ads-supporting-republican-primary-candidates">Why Democrats are paying for ads supporting Republican primary candidates</a> NPR: Democrats are buying ads supporting far-right GOP primary candidates, in the hopes of facing them in the general election — a strategy that former Sen. Claire McCaskill of Missouri tried in 2012. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106107171/on-juneteenth-weekend-black-activists-march-for-abortion-rights">On Juneteenth weekend, Black activists march for abortion rights</a> NPR: Black abortion rights leaders say reproductive justice and racial justice are inextricably connected. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
- <p class="updated_time"> 04:09 PM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106094639/what-to-know-about-colombias-surprise-filled-presidential-election">What to know about Colombia's surprise-filled presidential election</a> NPR: Colombians will go to the polls Sunday in the final round of a Presidential election that's had many surprises. Journalist Manuel Rueda explains the dynamics to NPR's Adrian Florido. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
