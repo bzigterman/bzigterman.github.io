@@ -56,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Former rebel Gustavo Petro narrowly won a runoff election on Sunday, becoming Colombia's first leftist president. 
+ <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Colombians elect the country's first leftist president and first Black woman to be vice president. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
