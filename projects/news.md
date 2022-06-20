@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
+ <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200">Heat Wave Devastates India's Mango Harvest</a> WSJ: Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people. 
- <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
- <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
 
 
 </details>
@@ -110,7 +110,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:22 PM CT, Jun. 20 </p> 
+ <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106255998/are-the-jan-6-hearings-impacting-how-people-vote-heres-what-voters-in-virginia-s">Are the Jan. 6 hearings impacting how people vote? Here's what voters in Virginia say</a> NPR: Ahead of Virginia's statewide primaries, we visit the 7th Congressional District, which is slated to be a close contest in November. And we ask voters about the impact of the Jan. 6 hearings. 
+ <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1081448317/no-the-biden-administration-is-not-organizing-ghost-flights-of-migrant-children">No, the Biden administration is not organizing 'ghost flights' of migrant children </a> NPR: President Biden's critics accuse his administration of organizing "secret" migrant flights to communities around the country. But those critics get some key facts wrong. 
+ <p class="updated_time"> 03:30 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106229988/texas-gops-new-platform-says-biden-didnt-really-win-it-also-calls-for-secession">Texas GOP's new platform says Biden didn't really win. It also calls for secession</a> NPR: "We reject the certified results of the 2020 Presidential election," the Republican Party of Texas says, referring to President Biden as the "acting" leader. 
+ <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
@@ -136,12 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106094639/what-to-know-about-colombias-surprise-filled-presidential-election">What to know about Colombia's surprise-filled presidential election</a> NPR: Colombians will go to the polls Sunday in the final round of a Presidential election that's had many surprises. Journalist Manuel Rueda explains the dynamics to NPR's Adrian Florido. 
  <p class="updated_time"> 04:01 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106059594/poor-peoples-campaign-rallies-in-washington-to-mobilize-low-income-voters">Poor People's Campaign rallies in Washington to mobilize low-income voters</a> NPR: A few thousand activists, advocacy groups, and religious leaders protested in Washington, D.C., on Saturday. They are calling for what they say is a Third Reconstruction. 
- <p class="updated_time"> 11:38 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106057751/biden-falls-getting-off-bike">Biden falls while getting off his bike after a beach ride</a> NPR: President Biden fell when he was getting off his bike after a ride near the beach in Delaware. He quickly collected himself and the White House said he is "fine." 
- <p class="updated_time"> 10:53 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106054812/mark-shields-pbs-newshour-commentator-dies">PBS NewsHour commentator Mark Shields dies at age 85</a> NPR: Mark Shields, the longtime commentator known for his weekly political analysis and sense of humor, has died at the age of 85, PBS NewsHour confirmed. 
- <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
