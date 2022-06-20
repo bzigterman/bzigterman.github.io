@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
+ <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106256012/belgium-returns-remains-of-congolese-leader-killed-by-belgian-supported-rebels">Belgium returns remains of slain Congolese leader</a> NPR: NPR's Ari Shapiro talks with Congolese historian Georges Nzongola-Ntalaja about Belgium's efforts to reconcile over colonialism. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
@@ -27,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
+ <p class="updated_time"> 11:14 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
  <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
@@ -55,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
- <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Transform Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
- <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
- <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
  <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200">Heat Wave Devastates India's Mango Harvest</a> WSJ: Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people. 
 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106256047/why-democrats-are-paying-for-ads-supporting-republican-primary-candidates">Why Democrats are paying for ads supporting Republican primary candidates</a> NPR: Democrats are buying ads supporting far-right GOP primary candidates, in the hopes of facing them in the general election — a strategy that former Sen. Claire McCaskill of Missouri tried in 2012. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256005/the-texas-gop-made-extreme-declarations-while-gathered-to-talk-party-priorities">The Texas GOP made extreme declarations while gathered to talk party priorities</a> NPR: NPR's Ari Shapiro talks with editor in chief of  The Texas Tribune Sewell Chan about the Texas GOP's convention over the weekend, which was rife with anger and conspiracy theories. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
  <p class="updated_time"> 04:09 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106094639/what-to-know-about-colombias-surprise-filled-presidential-election">What to know about Colombia's surprise-filled presidential election</a> NPR: Colombians will go to the polls Sunday in the final round of a Presidential election that's had many surprises. Journalist Manuel Rueda explains the dynamics to NPR's Adrian Florido. 
- <p class="updated_time"> 04:01 PM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106059594/poor-peoples-campaign-rallies-in-washington-to-mobilize-low-income-voters">Poor People's Campaign rallies in Washington to mobilize low-income voters</a> NPR: A few thousand activists, advocacy groups, and religious leaders protested in Washington, D.C., on Saturday. They are calling for what they say is a Third Reconstruction. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
