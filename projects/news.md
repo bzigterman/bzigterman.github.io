@@ -24,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
  <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
+ <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -67,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Colombians elect the country's first leftist president and first Black woman to be vice president. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
- <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61631438?at_medium=RSS&at_campaign=KARANGA">Why a Rwandan sports reporter fled his home</a> BBC: Rwandan journalists tell the BBC how oppression at home forced them to become refugees. 
  <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
