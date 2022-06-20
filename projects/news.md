@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
+ <p class="updated_time"> 11:42 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days as the government collapses. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
- <p class="updated_time"> 11:09 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
  <p class="updated_time"> 10:53 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Russia blockading Ukrainian grain is a 'real war crime' - EU</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
