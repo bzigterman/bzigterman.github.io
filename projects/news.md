@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
+ <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
  <p class="updated_time"> 07:37 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 07:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Leftist ex-rebel wins Colombia's presidential election</a> BBC: Gustavo Petro, a former rebel fighter, will become Colombia's first left-wing leader. 
+ <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
+ <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">Bulldozers: How a machine has become a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma controversy: How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
  <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
@@ -25,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
- <p class="updated_time"> 04:53 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, upends decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
  <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
@@ -63,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
  <p class="updated_time"> 08:33 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/61855200?at_medium=RSS&at_campaign=KARANGA">US Open 2022: Matt Fitzpatrick and Will Zalatoris lead going into final round</a> BBC: Matt Fitzpatrick and Will Zalatoris share the US Open lead after the third round at Brookline Country Club. 
- <p class="updated_time"> 07:28 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61855110?at_medium=RSS&at_campaign=KARANGA">Dutch government apologises to Srebrenica veterans</a> BBC: PM Mark Rutte said soldiers were underequipped to stop the murder of over 8,000 Muslim men and boys. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61631438?at_medium=RSS&at_campaign=KARANGA">Why a Rwandan sports reporter fled his home</a> BBC: Rwandan journalists tell the BBC how oppression at home forced them to become refugees. 
  <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
