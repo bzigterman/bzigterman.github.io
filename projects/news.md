@@ -20,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">Nupur Sharma controversy: How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
  <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
