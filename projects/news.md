@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:20 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Leftist ex-rebel wins Colombia's presidential election</a> BBC: Gustavo Petro, a former rebel fighter, will become Colombia's first left-wing leader. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">Bulldozers: How a machine has become a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
@@ -34,7 +36,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
  <p class="updated_time"> 01:50 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Former Guerrilla-Turned-Senator Wins Colombia Presidential Race</a> WSJ: Gustavo Petro, who pledges to expand state control of the economy, upends decades of establishment rule in the U.S.’s top Latin America ally. 
+ <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Active Agenda Wins Colombia Presidential Race</a> WSJ: Gustavo Petro, who pledges to expand state control of the economy, upends decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 01:25 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
- <p class="updated_time"> 10:20 AM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61853794?at_medium=RSS&at_campaign=KARANGA">President Biden falls off bike after ride in Delaware</a> BBC: The US leader took a tumble after a cycle ride in Rehoboth Beach, Delaware, but said he was not hurt. 
  <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 06:16 AM CT, Jun. 18 </p> 
@@ -105,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
  <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
- <p class="updated_time"> 06:53 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61708452?at_medium=RSS&at_campaign=KARANGA">Congo peat: The 'lungs of humanity' which are under threat</a> BBC: Carbon-rich peatlands are under threat from development, posing a risk for future climate change. 
 
 
 </details>
