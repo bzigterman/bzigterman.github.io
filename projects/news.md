@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61862035?at_medium=RSS&at_campaign=KARANGA">Assam: India floods destroy millions of homes and dreams</a> BBC: Unprecedented rainfall and flooding have left behind a trail of death and destruction in Assam. 
+ <p class="updated_time"> 06:18 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61631437?at_medium=RSS&at_campaign=KARANGA">Ghana's Pan African Heritage Museum seeks to reclaim Africa's history</a> BBC: A new museum in Ghana aims to tell the story of Africa using African voices, tools and culture. 
+ <p class="updated_time"> 06:16 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61483491?at_medium=RSS&at_campaign=KARANGA">Could nuclear desalination plants beat water scarcity?</a> BBC: Engineers are developing mobile, floating nuclear desalination plants to help solve water shortages. 
+ <p class="updated_time"> 06:12 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/61836019?at_medium=RSS&at_campaign=KARANGA">Thailand cannabis: From a war on drugs to weed curries</a> BBC: The country now has one of the world's most liberal marijuana regimes. How did that happen? 
+ <p class="updated_time"> 06:07 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Where would abortions be illegal in the US?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN whistleblowing complaints 'dismissed far too early'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
@@ -55,14 +67,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">India and Bangladesh floods displace millions and kill dozens</a> BBC: Dozens have died in lightning strikes and landslides triggered by severe monsoon storms in the region. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
- <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 08:14 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
  <p class="updated_time"> 07:45 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/indias-new-military-recruiting-regime-sparks-protests-turmoil-11655743513">India's New Military Recruiting Regime Sparks Protests, Turmoil</a> WSJ: Changes to entry-level positions stoke fears among young Indians facing tough job options. 
- <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
