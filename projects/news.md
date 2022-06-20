@@ -31,10 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61864392?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: 'Villages full of dead bodies'</a> BBC: Eyewitnesses tell the BBC they were left helpless as innocent citizens were slaughtered. 
  <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
+ <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: Israel’s prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
  <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
+ <p class="updated_time"> 11:33 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/israel-expands-operations-against-iranian-nuclear-military-assets-11655726066">Israel Expands Operations Against Iranian Nuclear, Military Assets</a> WSJ: The new moves are the latest evolution of a strategy by Israeli Prime Minister Naftali Bennett who aims to bring Israel’s battle against Iran onto Iranian territory after years of targeting Iranian agents and Tehran’s proxies outside the country in places like Syria. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
@@ -51,6 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
+ <p class="updated_time"> 08:14 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
+ <p class="updated_time"> 07:45 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/indias-new-military-recruiting-regime-sparks-protests-turmoil-11655743513">India's New Military Recruiting Regime Sparks Protests, Turmoil</a> WSJ: Changes to entry-level positions stoke fears among young Indians facing tough job options. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
@@ -59,14 +67,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
- <p class="updated_time"> 02:40 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/less-russian-gas-puts-europes-winter-fuel-supply-in-jeopardy-11655725207">Less Russian Gas Puts Europe's Winter Fuel Supply in Jeopardy</a> WSJ: Russia’s throttling of natural gas to Europe is endangering the continent’s race to sock away enough fuel to ride out next winter. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
- <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Transform Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
@@ -103,10 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
- <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
- <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
- <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
- <a href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200">Heat Wave Devastates India's Mango Harvest</a> WSJ: Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people. 
 
 
 </details>
