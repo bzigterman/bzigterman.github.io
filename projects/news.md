@@ -108,6 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
+ <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: (to run after election results!) Colombia has a new President, after an historic election, that has held more than a few surprises. 
  <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
  <p class="updated_time"> 12:57 PM CT, Jun. 19 </p> 
@@ -136,14 +140,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
  <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1105927483/in-a-time-of-national-division-polarizing-primaries-are-part-of-the-problem">In a time of national division, polarizing primaries are part of the problem</a> NPR: It is said the best medicine for what ails democracy is more democracy. But what does more democracy mean? If it just means more of the kind of politics we have now then it hardly offers a remedy. 
- <p class="updated_time"> 08:09 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1106026898/cancelled-flights-pete-buttigieg-tells-airlines-step-up-game">Flight cancelled? Pete Buttigieg is telling airlines to step up their game</a> NPR: The transportation secretary is one of the many travelers who had their flights cancelled in recent days. His happened the day after he met with airline CEOs about their operational struggles. 
- <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
- <p class="updated_time"> 04:06 AM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/2022/06/17/politics/ginni-thomas-supreme-court/index.html">Latest Ginni Thomas controversy means the Supreme Court can't escape the 2020 election</a> CNN: Supreme Court justices were divided over 2020 election issues and ultimately declined to accept any of Donald Trump's baseless claims, but one justice stood out for emphasizing ballot fraud in sympathy with those who refused to accept the results: Clarence Thomas. 
 
 
 </details>
