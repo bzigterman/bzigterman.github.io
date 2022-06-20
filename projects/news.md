@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
  <p class="updated_time"> 04:57 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61875061?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Iconic floating Jumbo restaurant sinks</a> BBC: The Jumbo restaurant capsized in the South China Sea days after it was towed out of the harbour. 
  <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
@@ -103,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196">Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</a> WSJ: Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him. 
- <p class="updated_time"> 07:46 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106045652/russia-is-focusing-on-3-key-agricultural-cities-in-ukraines-southeast">Russia is focusing on 3 key agricultural cities in Ukraine's southeast</a> NPR: Russian forces are now concentrating their attacks on three cities in Ukraine's southeast which are key to the country's agriculture and logistics. 
  <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
  <a href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200">Heat Wave Devastates India's Mango Harvest</a> WSJ: Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people. 
 
