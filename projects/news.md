@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 08:27 AM CT, Jun. 20 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
  <p class="updated_time"> 04:32 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
- <p class="updated_time"> 04:06 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
  <p class="updated_time"> 03:14 AM CT, Jun. 20 </p> 
