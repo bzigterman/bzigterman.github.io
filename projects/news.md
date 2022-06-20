@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:37 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 07:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Leftist ex-rebel wins Colombia's presidential election</a> BBC: Gustavo Petro, a former rebel fighter, will become Colombia's first left-wing leader. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
- <p class="updated_time"> 04:37 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">France's Emmanuel Macron set to lose majority</a> BBC: Less than two months after re-election, the president is set to lose control of the National Assembly. 
  <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
  <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
@@ -103,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
- <p class="updated_time"> 07:49 PM CT, Jun. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61828753?at_medium=RSS&at_campaign=KARANGA">Nepal to move Everest base camp from melting glacier</a> BBC: Nepal is preparing to move its Everest base camp as the glacier it stands on becomes less stable. 
 
 
 </details>
