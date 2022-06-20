@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61875061?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Iconic floating Jumbo restaurant sinks</a> BBC: The Jumbo restaurant capsized in the South China Sea days after it was towed out of the harbour. 
  <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
@@ -40,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
  <p class="updated_time"> 09:37 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863172?at_medium=RSS&at_campaign=KARANGA">French elections: What now for opposition left and far-right?</a> BBC: The big winners of France's elections are poles apart but share the aim of opposing the Macron government. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863172?at_medium=RSS&at_campaign=KARANGA">French elections: What now for opposition left and far-right?</a> BBC: The big winners of France's elections are poles apart but share the aim of opposing Macron. 
  <p class="updated_time"> 09:29 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">India and Bangladesh floods displace millions and kill dozens</a> BBC: Dozens have died in lightning strikes and landslides triggered by severe monsoon storms in the region. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
