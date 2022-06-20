@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:00 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">Ungovernable? France takes stock after Macron loses majority</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 05:24 AM CT, Jun. 20 </p> 
@@ -140,8 +140,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045587/week-in-politics-jan-6-hearings-are-revealing-but-americans-are-split-on-outcome">Week in politics: Jan. 6 hearings are revealing, but Americans are split on outcome</a> NPR: The Jan. 6 committee hearings are getting a lot of attention, but polls show Americans are essentially evenly split over whether former President Donald Trump should be indicted. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
- <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
+ <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
+ <p class="updated_time"> 11:01 AM CT, Jun. 17 </p> 
+ <a href="https://www.cnn.com/2022/06/17/politics/roe-v-wade-history-timeline-what-matters/index.html">With Roe in jeopardy, America faces a rare moment when a court revokes a right. Here's what could happen next</a> CNN: The Supreme Court gave women nationwide the right to obtain an abortion nearly 50 years ago, and now it is poised to take it away. 
 
 
 </details>
