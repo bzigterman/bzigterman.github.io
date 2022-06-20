@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:25 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Colombia elects ex-rebel as first left-wing president</a> BBC: Gustavo Petro, the former mayor of Bogota and ex-rebel fighter, defeats a millionaire businessman. 
+ <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 11:58 PM CT, Jun. 19 </p> 
@@ -19,18 +23,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
  <p class="updated_time"> 07:37 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
- <p class="updated_time"> 07:20 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Leftist ex-rebel wins Colombia's presidential election</a> BBC: Gustavo Petro, a former rebel fighter, will become Colombia's first left-wing leader. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
+ <p class="updated_time"> 06:33 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why a tooth is all that remains of the Congolese hero</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is being handed to his family in Brussels. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
  <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61781505?at_medium=RSS&at_campaign=KARANGA">In photos: Throwback to life on Indian streets</a> BBC: A selection of street pictures in India by some of the country's most acclaimed photographers. 
  <p class="updated_time"> 06:04 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The parliamentary elections' results confirm the French leader's second term will not be an easy ride. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The results confirm the French leader faces a tricky second term, our Paris correspondent writes. 
  <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/17/1105997564/british-journalist-remains-found-brazil-amazon">A British journalist's remains have been found in Brazil's Amazon, police say </a> NPR: Human remains found deep in Brazil's Amazon have been identified as belonging to British journalist Dom Phillips, according to Brazil's federal police. 
  <p class="updated_time"> 04:02 PM CT, Jun. 17 </p> 
  <a href="https://www.npr.org/2022/06/17/1105671092/russia-ukraine-war-what-happened-today-june-17">Russia-Ukraine war: What happened today (June 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:27 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105970843/heres-why-customers-at-a-handful-of-tiny-banks-in-central-china-are-up-in-arms">Here's why customers at a handful of tiny banks in central China are up in arms</a> NPR: Angry victims of a multi-million dollar banking scam in China are accusing the government of manipulating health codes to restrict their movement, raising concerns of abuse of power and technology. 
 
 
 </details>
