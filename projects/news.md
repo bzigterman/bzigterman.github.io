@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 08:27 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61869012?at_medium=RSS&at_campaign=KARANGA">Five Britons released after arrest by Taliban</a> BBC: The Foreign Office says the UK nationals' travel to Afghanistan was a "mistake" and against advice. 
- <p class="updated_time"> 08:00 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
