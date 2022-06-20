@@ -13,6 +13,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
+ <p class="updated_time"> 03:26 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
@@ -110,10 +112,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106256005/the-texas-gop-made-extreme-declarations-while-gathered-to-talk-party-priorities">The Texas GOP made extreme declarations while gathered to talk party priorities</a> NPR: NPR's Ari Shapiro talks with editor in chief of  The Texas Tribune Sewell Chan about the Texas GOP's convention over the weekend, which was rife with anger and conspiracy theories. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255998/are-the-jan-6-hearings-impacting-how-people-vote-heres-what-voters-in-virginia-s">Are the Jan. 6 hearings impacting how people vote? Here's what voters in Virginia say</a> NPR: Ahead of Virginia's statewide primaries, we visit the 7th Congressional District, which is slated to be a close contest in November. And we ask voters about the impact of the Jan. 6 hearings. 
- <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1081448317/no-the-biden-administration-is-not-organizing-ghost-flights-of-migrant-children">No, the Biden administration is not organizing 'ghost flights' of migrant children </a> NPR: President Biden's critics accuse his administration of organizing "secret" migrant flights to communities around the country. But those critics get some key facts wrong. 
  <p class="updated_time"> 03:30 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106229988/texas-gops-new-platform-says-biden-didnt-really-win-it-also-calls-for-secession">Texas GOP's new platform says Biden didn't really win. It also calls for secession</a> NPR: "We reject the certified results of the 2020 Presidential election," the Republican Party of Texas says, referring to President Biden as the "acting" leader. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
