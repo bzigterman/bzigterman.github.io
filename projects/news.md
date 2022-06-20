@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 11:58 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">Dozens killed and millions stranded from India and Bangladesh floods</a> BBC: Millions of others have been stranded as rescue workers struggle to reach those affected. 
  <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
- <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61854488?at_medium=RSS&at_campaign=KARANGA">Dom Phillips and Bruno Pereira: Brazilians protest over murders</a> BBC: People in Sao Paulo took to the streets to condemn the killings and criticise the authorities. 
  <p class="updated_time"> 01:36 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61851617?at_medium=RSS&at_campaign=KARANGA">Fifa study of Euros & Afcon finds half of all players abused online; Saka & Rashford most targeted</a> BBC: World governing body Fifa teams up with players' union Fifpro to identify people who target players with abusive social media posts. 
  <p class="updated_time"> 10:56 AM CT, Jun. 18 </p> 
