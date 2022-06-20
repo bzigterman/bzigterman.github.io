@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
+ <p class="updated_time"> 12:35 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61864392?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: 'Villages full of dead bodies'</a> BBC: Eyewitnesses tell the BBC they were left helpless as innocent citizens were slaughtered. 
  <p class="updated_time"> 12:20 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
- <p class="updated_time"> 12:13 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
+ <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make personalised videos, some of which included racist content. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
@@ -29,9 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
- <p class="updated_time"> 08:27 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61869012?at_medium=RSS&at_campaign=KARANGA">Five Britons released after arrest by Taliban</a> BBC: The Foreign Office says the UK nationals' travel to Afghanistan was a "mistake" and against advice. 
- <p class="updated_time"> 07:35 AM CT, Jun. 20 </p> 
+ <p class="updated_time"> 08:41 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
@@ -47,10 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
- <p class="updated_time"> 12:32 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61861849?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia becomes China's biggest oil supplier</a> BBC: Chinese energy giants have been ramping up imports of heavily discounted Russian oil in recent months. 
- <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
  <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
@@ -67,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
- <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
@@ -114,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
  <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro">Elise Stefanik's defense of Trump around Jan. 6 clouds her pro-democracy work abroad</a> NPR: Rep. Elise Stefanik's outspoken defense of Donald Trump after Jan. 6 has roiled a pro-democracy group funded by Congress where she's a board member. Some staff members are sharing their concerns. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
@@ -144,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045594/these-books-take-a-deep-dive-into-the-context-surrounding-the-jan-6-insurrection">These books take a deep dive into the context surrounding the Jan. 6 insurrection</a> NPR: Andrew Limbong, host of NPR's Book of the Day podcast, recommends key books to read on right wing extremism and former President Donald Trump's attempt to overturn the 2020 election results. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045587/week-in-politics-jan-6-hearings-are-revealing-but-americans-are-split-on-outcome">Week in politics: Jan. 6 hearings are revealing, but Americans are split on outcome</a> NPR: The Jan. 6 committee hearings are getting a lot of attention, but polls show Americans are essentially evenly split over whether former President Donald Trump should be indicted. 
- <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
  <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
