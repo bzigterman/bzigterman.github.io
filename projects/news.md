@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
  <p class="updated_time"> 02:09 AM CT, Jun. 20 </p> 
@@ -33,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
- <p class="updated_time"> 06:33 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why a tooth is all that remains of the Congolese hero</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is being handed to his family in Brussels. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
  <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
