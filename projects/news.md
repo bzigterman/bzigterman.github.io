@@ -111,7 +111,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: (to run after election results!) Colombia has a new President, after an historic election, that has held more than a few surprises. 
+ <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: Colombia has a new president, after an historic election, that has held more than a few surprises. 
  <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
  <p class="updated_time"> 12:57 PM CT, Jun. 19 </p> 
