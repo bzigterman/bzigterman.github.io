@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
+ <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
+ <p class="updated_time"> 09:37 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863172?at_medium=RSS&at_campaign=KARANGA">French elections: What now for opposition left and far-right?</a> BBC: The big winners of France's elections are poles apart but share the aim of opposing the Macron government. 
+ <p class="updated_time"> 09:29 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">India and Bangladesh floods displace millions and kill dozens</a> BBC: Dozens have died in lightning strikes and landslides triggered by severe monsoon storms in the region. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 09:02 AM CT, Jun. 20 </p> 
@@ -23,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Russia blockading Ukrainian grain is a 'real war crime' - EU</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
- <p class="updated_time"> 04:32 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
  <p class="updated_time"> 03:14 AM CT, Jun. 20 </p> 
@@ -37,12 +43,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 12:32 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61861849?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia becomes China's biggest oil supplier</a> BBC: Chinese energy giants have been ramping up imports of heavily discounted Russian oil in recent months. 
- <p class="updated_time"> 11:58 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">Dozens killed and millions stranded by India and Bangladesh floods</a> BBC: Millions of others have been stranded as rescue workers struggle to reach those affected. 
  <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
- <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
  <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
@@ -95,14 +97,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045043/europe-wilts-under-early-heat-wave-from-med-to-north-sea">Europe wilts under early heat wave from Med to North Sea</a> NPR: A blanket of hot air stretching from the Mediterranean to the North Sea is bringing much of Western Europe its first heat wave of the summer. 
  <p class="updated_time"> 05:11 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106043866/18-dead-in-india-bangladesh-floods-millions-without-homes">18 dead in India, Bangladesh floods; millions without homes</a> NPR: At least 18 people have died as massive floods ravaged northeastern India and Bangladesh, leaving millions of homes underwater and severing transport links. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
+ <a href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200">Heat Wave Devastates India's Mango Harvest</a> WSJ: Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people. 
  <p class="updated_time"> 02:00 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106039190/sikh-temple-in-afghanistan-rocked-by-explosions-gunfire">At least 1 killed in attack on Sikh temple in Afghan capital</a> NPR: Several explosions and gunfire ripped through a Sikh temple in Afghanistan's capital on Saturday morning. 
  <p class="updated_time"> 01:27 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106040613/gaza-rocket-into-israel-breaks-2-month-lull-israel-responds">Gaza rocket into Israel breaks 2-month lull, Israel responds</a> NPR: Palestinian militants fired a rocket into southern Israel early Saturday. Hours later, Israeli aircraft carried out a series of airstrikes. 
- <p class="updated_time"> 07:09 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
- <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
 
 
 </details>
