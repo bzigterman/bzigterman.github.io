@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
+ <p class="updated_time"> 05:24 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Russia blockading Ukrainian grain is a 'real war crime' - EU</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
+ <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
  <p class="updated_time"> 04:32 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 04:06 AM CT, Jun. 20 </p> 
@@ -19,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 01:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Colombia elects ex-rebel as first left-wing president</a> BBC: Gustavo Petro, the former mayor of Bogota and ex-rebel fighter, defeats a millionaire businessman. 
+ <p class="updated_time"> 01:24 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine and the fight for control of the key city of Severodonetsk intensified. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
@@ -49,14 +57,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
- <p class="updated_time"> 02:24 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859593?at_medium=RSS&at_campaign=KARANGA">Ukraine to ban music by some Russians in media and public spaces</a> BBC: Ukraine's parliament also voted to ban the import of books from Russia and Belarus. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
- <p class="updated_time"> 02:06 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61856581?at_medium=RSS&at_campaign=KARANGA">Brexit: Plans to ditch parts of NI Protocol are economic vandalism - Irish PM</a> BBC: The UK government has published plans to get rid of parts of the post-Brexit deal it agreed with the EU. 
- <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-intensifies-strikes-against-russian-controlled-areas-11655643930">Ukraine Intensifies Strikes Against Russian-Controlled Areas</a> WSJ: Ukrainian attacks in Donbas came as Moscow unleashed new salvoes of long-range missiles—some of them shot down by air defenses—on cities across the country. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61795026?at_medium=RSS&at_campaign=KARANGA">African brain drain: '90% of my friends want to leave'</a> BBC: A new survey reveals 52% of young Africans are considering emigrating - some of them told the BBC why. 
  <p class="updated_time"> 06:42 PM CT, Jun. 17 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61833427?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 11-17 June 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
- <p class="updated_time"> 04:56 PM CT, Jun. 17 </p> 
- <a href="https://www.npr.org/2022/06/17/1105997564/british-journalist-remains-found-brazil-amazon">A British journalist's remains have been found in Brazil's Amazon, police say </a> NPR: Human remains found deep in Brazil's Amazon have been identified as belonging to British journalist Dom Phillips, according to Brazil's federal police. 
 
 
 </details>
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro">Elise Stefanik's defense of Trump around Jan. 6 clouds her pro-democracy work abroad</a> NPR: Rep. Elise Stefanik's outspoken defense of Donald Trump after Jan. 6 has roiled a pro-democracy group funded by Congress where she's a board member. Some staff members are sharing their concerns. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/18/1106045587/week-in-politics-jan-6-hearings-are-revealing-but-americans-are-split-on-outcome">Week in politics: Jan. 6 hearings are revealing, but Americans are split on outcome</a> NPR: The Jan. 6 committee hearings are getting a lot of attention, but polls show Americans are essentially evenly split over whether former President Donald Trump should be indicted. 
  <p class="updated_time"> 07:01 AM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106045580/jan-6-committee-lays-out-evidence-of-trump-knowingly-subverting-the-2020-electio">Jan. 6 committee lays out evidence of Trump knowingly subverting the 2020 election</a> NPR: Recent hearings by the Jan. 6 committee have focused on whether former President Donald Trump knowingly tried to subvert the 2020 election. 
- <p class="updated_time"> 04:00 AM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1105927483/in-a-time-of-national-division-polarizing-primaries-are-part-of-the-problem">In a time of national division, polarizing primaries are part of the problem</a> NPR: It is said the best medicine for what ails democracy is more democracy. But what does more democracy mean? If it just means more of the kind of politics we have now then it hardly offers a remedy. 
  <p class="updated_time"> 12:09 PM CT, Jun. 17 </p> 
  <a href="https://www.cnn.com/2022/06/17/politics/willow-the-white-house-cat/index.html">As presidential cat, Willow Biden has privileges</a> CNN: In the dog days of summer, Willow the cat rules the roost. 
 
