@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 PM CT, Jun. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">Dozens killed and millions stranded from India and Bangladesh floods</a> BBC: Millions of others have been stranded as rescue workers struggle to reach those affected. 
  <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
  <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
@@ -33,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 04:20 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61859589?at_medium=RSS&at_campaign=KARANGA">Eight suspects linked to Dom Phillips and Bruno Pereira deaths</a> BBC: Three suspects have already been arrested by police in connection with the murders of the two men. 
- <p class="updated_time"> 02:29 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/swimming/61853450?at_medium=RSS&at_campaign=KARANGA">Trans swimmers banned from women's elite events</a> BBC: Fina, swimming's world governing body, votes to stop transgender athletes from competing in women's elite races if they have gone through any part of the process of male puberty. 
  <p class="updated_time"> 02:24 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61859593?at_medium=RSS&at_campaign=KARANGA">Ukraine to ban music by some Russians in media and public spaces</a> BBC: Ukraine's parliament also voted to ban the import of books from Russia and Belarus. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
@@ -45,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Projected to Lose Majority in Parliament</a> WSJ: The president’s party and its allies are projected to remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 10:56 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61856144?at_medium=RSS&at_campaign=KARANGA">Ukraine war could last for years, warns Nato chief</a> BBC: Jens Stoltenberg says the costs of war are high but the price of letting Moscow win is even greater. 
- <p class="updated_time"> 08:29 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61858476?at_medium=RSS&at_campaign=KARANGA">New UK Army chief issues Russia rallying cry</a> BBC: Gen Sir Patrick Sanders says the Army and allies need to be capable of defeating Russia in battle. 
  <p class="updated_time"> 08:13 AM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/ukraine-intensifies-strikes-against-russian-controlled-areas-11655643930">Ukraine Intensifies Strikes Against Russian-Controlled Areas</a> WSJ: Ukrainian attacks in Donbas came as Moscow unleashed new salvoes of long-range missiles—some of them shot down by air defenses—on cities across the country. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
@@ -65,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 09:51 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61855301?at_medium=RSS&at_campaign=KARANGA">Apple store workers vote to form first US union</a> BBC: The move by employees in Towson, Maryland, is the latest in a string of high-profile union campaigns in the US. 
- <p class="updated_time"> 08:33 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/golf/61855200?at_medium=RSS&at_campaign=KARANGA">US Open 2022: Matt Fitzpatrick and Will Zalatoris lead going into final round</a> BBC: Matt Fitzpatrick and Will Zalatoris share the US Open lead after the third round at Brookline Country Club. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61631438?at_medium=RSS&at_campaign=KARANGA">Why a Rwandan sports reporter fled his home</a> BBC: Rwandan journalists tell the BBC how oppression at home forced them to become refugees. 
  <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
