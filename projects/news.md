@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61862035?at_medium=RSS&at_campaign=KARANGA">Assam: India floods destroy millions of homes and dreams</a> BBC: Unprecedented rainfall and flooding have left behind a trail of death and destruction in Assam. 
  <p class="updated_time"> 06:18 PM CT, Jun. 20 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: The prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
- <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
  <p class="updated_time"> 11:33 AM CT, Jun. 20 </p> 
