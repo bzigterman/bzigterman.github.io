@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">Ungovernable? France takes stock after Macron loses majority</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
- <p class="updated_time"> 06:18 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 05:24 AM CT, Jun. 20 </p> 
@@ -25,8 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
- <p class="updated_time"> 01:24 AM CT, Jun. 20 </p> 
+ <p class="updated_time"> 03:14 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine and the fight for control of the key city of Severodonetsk intensified. 
+ <p class="updated_time"> 02:40 AM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/less-russian-gas-puts-europes-winter-fuel-supply-in-jeopardy-11655725207">Less Russian Gas Puts Europe's Winter Fuel Supply in Jeopardy</a> WSJ: Russia’s throttling of natural gas to Europe is endangering the continent’s race to sock away enough fuel to ride out next winter. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
@@ -66,7 +68,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
+ <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">Macron's party loses control of France's parliament as the far right gains 81 seats</a> NPR: The French president's centrist alliance lost its majority in the country's legislature, with more voters opting for candidates on at the extremes. Marine Le Pen's party went from eight seats to 89. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106118791/tight-colombian-runoff-pits-former-rebel-millionaire">Former rebel Gustavo Petro wins Colombia's presidential election</a> NPR: Colombians elect the country's first leftist president and first Black woman to be vice president. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
