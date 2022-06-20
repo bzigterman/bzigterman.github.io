@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:45 PM CT, Jun. 20 </p> 
+ <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
+ <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
  <p class="updated_time"> 12:35 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864392?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: 'Villages full of dead bodies'</a> BBC: Eyewitnesses tell the BBC they were left helpless as innocent citizens were slaughtered. 
- <p class="updated_time"> 12:20 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
  <p class="updated_time"> 12:10 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61863889?at_medium=RSS&at_campaign=KARANGA">Grain blockade a 'war crime' and rock band reunites - Ukraine round-up</a> BBC: The EU calls on Russia to end its Ukrainian port blockade, and the teenage band reunited amid the war. 
  <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
