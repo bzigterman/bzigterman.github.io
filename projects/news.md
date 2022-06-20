@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">Ungovernable? France takes stock after Macron loses majority</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
+ <p class="updated_time"> 06:18 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61863885?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro and Francia Márquez: A new era for Colombia</a> BBC: Victory for Gustavo Petro and running mate Francia Márquez puts the country on a new political path. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 05:24 AM CT, Jun. 20 </p> 
@@ -21,10 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
- <p class="updated_time"> 02:09 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
- <p class="updated_time"> 01:25 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Colombia elects ex-rebel as first left-wing president</a> BBC: Gustavo Petro, the former mayor of Bogota and ex-rebel fighter, defeats a millionaire businessman. 
  <p class="updated_time"> 01:24 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine and the fight for control of the key city of Severodonetsk intensified. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly but without enough seats to form a majority, in a setback to his pro-business agenda. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
+ <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Transform Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
@@ -65,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
- <p class="updated_time"> 03:45 AM CT, Jun. 19 </p> 
- <a href="https://www.wsj.com/articles/germany-steps-up-measures-to-conserve-gas-as-russia-slows-supply-to-europe-11655642717">Germany Steps Up Measures to Conserve Gas as Russia Slows Supply</a> WSJ: Germany will restart coal-fired power plants and offer incentives for companies to curb natural gas consumption, marking a new step in the economic war between Europe and Russia. 
  <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">French President Macron's alliance is projected to lose its parliamentary majority</a> NPR: The strong performance of the leftist coalition, led by hard-left leader Jean-Luc Melenchon, is expected to make it harder for Macron to implement the agenda he was reelected on in May. 
  <p class="updated_time"> 02:17 AM CT, Jun. 19 </p> 
