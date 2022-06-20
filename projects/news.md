@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:09 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 01:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61860887?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Colombia elects ex-rebel as first left-wing president</a> BBC: Gustavo Petro, the former mayor of Bogota and ex-rebel fighter, defeats a millionaire businessman. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
@@ -16,15 +18,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 11:58 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">Dozens killed and millions stranded from India and Bangladesh floods</a> BBC: Millions of others have been stranded as rescue workers struggle to reach those affected. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">Dozens killed and millions stranded by India and Bangladesh floods</a> BBC: Millions of others have been stranded as rescue workers struggle to reach those affected. 
  <p class="updated_time"> 11:14 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61836637?at_medium=RSS&at_campaign=KARANGA">Agnipath: India strike over controversial army hiring plan</a> BBC: Protesters are demanding the rollback of the army's plan to hire soldiers on a fixed four-year term. 
  <p class="updated_time"> 11:01 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61861327?at_medium=RSS&at_campaign=KARANGA">Ukraine warns of war: Kyiv warns of Russian escalation during EU bid</a> BBC: EU leaders will vote on Kyiv's candidate status at a summit in Brussels later this week. 
  <p class="updated_time"> 09:37 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/macrons-parliamentary-majority-at-risk-in-final-round-of-french-elections-11655631002">France's Macron Loses Majority in Parliament</a> WSJ: The president’s party and its allies will remain the largest coalition in the National Assembly in Sunday’s vote but without enough seats to form a majority, in a setback to his pro-business agenda. 
- <p class="updated_time"> 07:37 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859881?at_medium=RSS&at_campaign=KARANGA">French elections: Macron loses majority as French vote fragments</a> BBC: Less than two months after re-election, the president loses control of the National Assembly. 
  <p class="updated_time"> 06:48 PM CT, Jun. 19 </p> 
  <a href="https://www.wsj.com/articles/former-guerrilla-turned-senator-wins-colombia-presidential-race-11655678997">Leftist With Plans to Upend Economy Wins Colombia Presidency</a> WSJ: Former guerrilla Gustavo Petro, who pledges to expand state control of the economy, overcomes decades of establishment rule in the U.S.’s top Latin America ally. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
