@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:26 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: First photo emerges of armed police waiting in school hallway</a> BBC: Armed officers waited at Uvalde's school for 58 minutes as a gunman was shooting pupils, media say. 
+ <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
@@ -23,8 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
+ <p class="updated_time"> 01:43 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/with-satellite-launch-south-korea-comes-closer-to-having-eyes-in-the-sky-on-pyongyang-11655808188">Satellite Launch Gets South Korea Closer to Eyes in Sky on Pyongyang</a> WSJ: Tuesday’s launch of the Nuri rocket and successful placement of a large dummy satellite into orbit shows South Korea has harnessed technology that could build a homegrown space surveillance system. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists say world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
+ <p class="updated_time"> 01:19 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/turkish-defense-industry-grows-cautious-over-selling-weapons-to-ukraine-11655803802">Turkey Grows Cautious Over Selling Weapons to Ukraine</a> WSJ: The head of Turkey’s weapons-production agency says the country must be cautious about delivering more arms to Ukraine, illustrating how Turkey is increasingly playing both sides of the Russia-Ukraine conflict. 
  <p class="updated_time"> 11:00 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-natural-gas-exporter-completes-first-deal-with-german-buyer-11655798400">U.S. Natural-Gas Exporter Completes First Deal With German Buyer</a> WSJ: Venture Global struck the first binding deals by a U.S. natural-gas exporter to supply a German company, as Europe turns to America to help replace supplies from Russia. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
@@ -45,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61483491?at_medium=RSS&at_campaign=KARANGA">Could nuclear desalination plants beat water scarcity?</a> BBC: Engineers are developing mobile, floating nuclear desalination plants to help solve water shortages. 
  <p class="updated_time"> 06:12 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/61836019?at_medium=RSS&at_campaign=KARANGA">Thailand cannabis: From a war on drugs to weed curries</a> BBC: The country now has one of the world's most liberal marijuana regimes. How did that happen? 
- <p class="updated_time"> 06:07 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Where would abortions be illegal in the US?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
@@ -63,22 +73,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
  <p class="updated_time"> 03:26 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
- <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
- <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: The prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
- <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
  <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
- <p class="updated_time"> 08:14 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
- <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
@@ -114,12 +114,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 05:23 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105974814/jan-6-committee-hearing-state-officials">The Jan. 6 committee holds its fourth hearing today. Here's what we know</a> NPR: Tuesday's hearing is expected to focus on former President Trump's pressure on officials to change the results of voting in their states. 
  <p class="updated_time"> 04:12 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">Morning news brief</a> NPR: The House Jan. 6 panel holds another public hearing. Russia is close to capturing a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
+ <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">News brief: 4th Jan. 6 hearing, eastern Ukraine, cryptocurrency vulnerability </a> NPR: The House Jan. 6 panel holds another hearing. Russia is close to capturing Severodonetsk, a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
  <p class="updated_time"> 04:00 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105982631/virginia-7th-congressional-district-spanberger-january-6th-hearings">How the Jan. 6 hearings are landing in one Virginia swing district</a> NPR: In Rep. Abigail Spanberger's competitive 7th Congressional District, some voters are more concerned with economic issues than the ongoing Jan. 6 hearings at the U.S. Capitol. 
  <p class="updated_time"> 06:01 PM CT, Jun. 20 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: Colombia has a new president, after an historic election, that has held more than a few surprises. 
- <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
 
 
 </details>
