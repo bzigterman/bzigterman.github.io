@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leaves millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
- <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:07 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106402470/trump-documentary-unreleased-footage-jan-6-committee">A British filmmaker gave Congress unreleased footage of Trump and his family</a> NPR: British documentarian Alex Holder confirmed on Tuesday that he had complied with a Jan. 6 committee subpoena for never-before-seen footage of the president in the leadup to the insurrection. 
  <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
- <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
 
 
 </details>
