@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:41 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Poll officials detail Trump voters' death threats</a> BBC: An Arizona official describes how the statehouse was overwhelmed with threats and insults. 
+ <p class="updated_time"> 05:27 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
+ <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889951?at_medium=RSS&at_campaign=KARANGA">Shaye Moss: 'I don't want anyone knowing my name'</a> BBC: An ex-election worker tells the Capitol riot hearing she lives in fear after being targeted by Trump supporters. 
+ <p class="updated_time"> 04:47 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: What happens if Roe v Wade overturned?</a> BBC: Abortion restrictions could vary widely by state if the 50-year-old landmark ruling is reversed. 
+ <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
@@ -23,6 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Gunman could have been stopped within three minutes - safety official</a> BBC: Police could have stopped the Uvalde school shooting within three minutes, Texas's safety chief says. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
+ <p class="updated_time"> 11:18 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/canada-to-compel-youtube-tiktok-and-streamers-to-boost-domestic-content-11655842727">Canada to Compel YouTube, TikTok and Streamers to Boost Domestic Content</a> WSJ: Canada approved legislation that targets what video- and audio-sharing platforms can broadcast to a Canadian audience, as the country follows in Europe’s footsteps in imposing a heftier regulatory burden on the digital sector. 
+ <p class="updated_time"> 10:54 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
@@ -39,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
+ <p class="updated_time"> 07:52 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61880709?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Billionaire's daughter cuts ties with her father</a> BBC: The tech billionaire's 18-year-old daughter has applied to legally change her name and gender. 
  <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
  <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
@@ -49,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 06:39 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
- <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
@@ -67,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
- <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61875391?at_medium=RSS&at_campaign=KARANGA">Russian journalist Dmitry Muratov auctions Nobel medal for $103m</a> BBC: Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
@@ -91,12 +99,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
+ <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
- <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -116,6 +124,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
+ <p class="updated_time"> 04:43 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106448660/trump-campaign-fake-electors-says-rep-adam-schiff">The Trump campaign tried to use fake electors, says Rep. Adam Schiff</a> NPR: Schiff details how Trump and his campaign "were directly involved in advancing and coordinating the plot to replace Biden electors with fake electors not chosen by the voters." 
+ <p class="updated_time"> 04:32 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106344831/recap-jan-6-committee-hearing">Trump team didn't have the evidence and 4 other takeaways from the Jan. 6 hearing</a> NPR: There were a number of eye-opening findings in the Jan. 6 committee's fourth hearing that showed the depth and breadth of Trump and his allies' pressure on local and state officials. 
+ <p class="updated_time"> 04:07 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106424770/activists-say-the-biden-administrations-latest-landmine-restrictions-arent-enoug">Activists say the Biden administration's latest landmine restrictions aren't enough</a> NPR: Around the world, landmines kill and injure thousands of people a year, most of them civilians. The Biden administration is restricting their use and continuing to help countries clear minefields. 
  <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
@@ -126,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106402470/trump-documentary-unreleased-footage-jan-6-committee">A British filmmaker gave Congress unreleased footage of Trump and his family</a> NPR: British documentarian Alex Holder confirmed on Tuesday that he had complied with a Jan. 6 committee subpoena for never-before-seen footage of the president in the leadup to the insurrection. 
- <p class="updated_time"> 12:14 PM CT, Jun. 21 </p> 
- <a href="https://www.cnn.com/2022/06/20/politics/supreme-court-june-preview/index.html">Supreme Court rushes to end a term like no other</a> CNN: Because of a blockbuster docket, an unprecedented leak, a fraught political atmosphere and Covid, everything has changed at the Supreme Court. 
  <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
@@ -140,16 +154,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1105974814/jan-6-committee-hearing-state-officials">The Jan. 6 committee holds its fourth hearing today. Here's what we know</a> NPR: Tuesday's hearing is expected to focus on former President Trump's pressure on officials to change the results of voting in their states. 
  <p class="updated_time"> 04:12 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">News brief: 4th Jan. 6 hearing, eastern Ukraine, cryptocurrency vulnerability </a> NPR: The House Jan. 6 panel holds another hearing. Russia is close to capturing Severodonetsk, a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
- <p class="updated_time"> 04:00 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1105982631/virginia-7th-congressional-district-spanberger-january-6th-hearings">How the Jan. 6 hearings are landing in one Virginia swing district</a> NPR: In Rep. Abigail Spanberger's competitive 7th Congressional District, some voters are more concerned with economic issues than the ongoing Jan. 6 hearings at the U.S. Capitol. 
- <p class="updated_time"> 06:01 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106292758/rhetoric-around-ghost-flights-of-migrant-children-is-often-at-odds-with-the-fact">Rhetoric around 'ghost flights' of migrant children is often at odds with the facts</a> NPR: President Biden's critics accuse his administration of organizing "secret" migrant flights to communities around the country. But that rhetoric is often at odds with the facts. 
- <p class="updated_time"> 03:53 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106256047/why-democrats-are-paying-for-ads-supporting-republican-primary-candidates">Why Democrats are paying for ads supporting Republican primary candidates</a> NPR: Democrats are buying ads supporting far-right GOP primary candidates, in the hopes of facing them in the general election — a strategy that former Sen. Claire McCaskill of Missouri tried in 2012. 
- <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106256005/the-texas-gop-made-extreme-declarations-while-gathered-to-talk-party-priorities">The Texas GOP made extreme declarations while gathered to talk party priorities</a> NPR: NPR's Ari Shapiro talks with editor in chief of  The Texas Tribune Sewell Chan about the Texas GOP's convention over the weekend, which was rife with anger and conspiracy theories. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
+ <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
 
 </details>
