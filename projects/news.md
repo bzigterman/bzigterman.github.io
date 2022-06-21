@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
+ <p class="updated_time"> 01:18 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN whistleblowing complaints 'dismissed too early'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
@@ -29,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/61836019?at_medium=RSS&at_campaign=KARANGA">Thailand cannabis: From a war on drugs to weed curries</a> BBC: The country now has one of the world's most liberal marijuana regimes. How did that happen? 
  <p class="updated_time"> 06:07 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Where would abortions be illegal in the US?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
- <p class="updated_time"> 06:03 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN whistleblowing complaints 'dismissed far too early'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
- <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
  <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
@@ -71,12 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
  <p class="updated_time"> 07:45 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/indias-new-military-recruiting-regime-sparks-protests-turmoil-11655743513">India's New Military Recruiting Regime Sparks Protests, Turmoil</a> WSJ: Changes to entry-level positions stoke fears among young Indians facing tough job options. 
- <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
- <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61670667?at_medium=RSS&at_campaign=KARANGA">Japan: Osaka court rules ban on same-sex marriage constitutional</a> BBC: The ruling is a setback for activists hoping the government will change the country’s marriage law. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
  <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
@@ -101,16 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
- <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
- <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61631438?at_medium=RSS&at_campaign=KARANGA">Why a Rwandan sports reporter fled his home</a> BBC: Rwandan journalists tell the BBC how oppression at home forced them to become refugees. 
- <p class="updated_time"> 06:32 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61808473?at_medium=RSS&at_campaign=KARANGA">Rocket man fights Russian demand to send him back</a> BBC: Anatoly Lazarev was at the heart of Russia's space rocket programme before he fled to Hungary. 
- <p class="updated_time"> 06:30 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">US parents turn to black market due to formula shortage</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
