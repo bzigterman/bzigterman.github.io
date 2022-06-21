@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Gunman could have been stopped within three minutes - safety official</a> BBC: Police could have stopped the Uvalde school shooting within three minutes, Texas's safety chief says. 
- <p class="updated_time"> 12:45 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
@@ -29,12 +29,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
  <p class="updated_time"> 08:57 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
+ <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
+ <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/with-new-colombian-president-the-left-surges-in-latin-america-11655828410">With New Colombian President, the Left Surges in Latin America</a> WSJ: The shift signals less influence for the U.S., particularly on migration and drugs. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 06:56 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
+ <p class="updated_time"> 06:39 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
@@ -43,20 +49,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
- <p class="updated_time"> 04:26 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/firms-warn-of-shipment-delays-from-china-as-u-s-bans-xinjiang-imports-11655817961">Firms Warn of Shipment Delays From China as U.S. Bans Xinjiang Imports</a> WSJ: Companies say they fear the law that came into effect Tuesday aiming to prevent shipping of goods using forced labor is difficult and costly to comply with. 
- <p class="updated_time"> 03:50 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/turkish-defense-industry-grows-cautious-over-selling-weapons-to-ukraine-11655803802">Turkey Grows Cautious Over Selling Weapons to Ukraine</a> WSJ: The head of Turkey’s weapons-production agency says the country must be cautious about delivering more arms to Ukraine, illustrating how Turkey is increasingly playing both sides of the Russia-Ukraine conflict. 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
- <p class="updated_time"> 02:30 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/casino-guests-face-extended-stay-in-macau-as-chinas-covid-19-lockdowns-spread-11655811045">Casino Guests Face Extended Stay in Macau as China's Covid-19 Lockdowns Spread</a> WSJ: A lockdown at Macau’s Hotel Fortuna comes on the heels of a two-day testing drive of the gambling city’s roughly 600,000 residents amid a resurgence of cases. 
- <p class="updated_time"> 02:28 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-controls-force-u-n-biodiversity-conference-to-move-to-canada-11655810917">China's Covid-19 Controls Force U.N. Biodiversity Conference to Canada</a> WSJ: The meeting is moved to Montreal, costing Beijing a chance to project its diplomatic and cultural clout on the world stage. 
- <p class="updated_time"> 01:43 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/with-satellite-launch-south-korea-comes-closer-to-having-eyes-in-the-sky-on-pyongyang-11655808188">Satellite Launch Gets South Korea Closer to Eyes in Sky on Pyongyang</a> WSJ: Tuesday’s launch of the Nuri rocket and successful placement of a large dummy satellite into orbit shows South Korea has harnessed technology that could build a homegrown space surveillance system. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
@@ -118,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106402470/trump-documentary-unreleased-footage-jan-6-committee">A British filmmaker gave Congress unreleased footage of Trump and his family</a> NPR: British documentarian Alex Holder confirmed on Tuesday that he had complied with a Jan. 6 committee subpoena for never-before-seen footage of the president in the leadup to the insurrection. 
  <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
@@ -150,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
  <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
- <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro">Elise Stefanik's defense of Trump around Jan. 6 clouds her pro-democracy work abroad</a> NPR: Rep. Elise Stefanik's outspoken defense of Donald Trump after Jan. 6 has roiled a pro-democracy group funded by Congress where she's a board member. Some staff members are sharing their concerns. 
 
 
 </details>
