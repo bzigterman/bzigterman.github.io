@@ -10,7 +10,9 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the UK are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
+ <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
+ <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 01:18 AM CT, Jun. 21 </p> 
@@ -19,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
+ <p class="updated_time"> 10:08 PM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/inflation-outpaces-forecasts-in-australia-and-south-korea-11655795322">Inflation Outpaces Forecasts in Australia and South Korea</a> WSJ: Inflation in Australia is on track to rise to 7% by the end of the year, while in South Korea, the central bank said it could exceed the 4.7% pace recorded during the financial crisis in 2008. 
  <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61875391?at_medium=RSS&at_campaign=KARANGA">Russian journalist Dmitry Muratov auctions Nobel medal for $103m</a> BBC: Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine. 
  <p class="updated_time"> 07:05 PM CT, Jun. 20 </p> 
@@ -57,10 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/israel-headed-for-new-elections-as-coalition-moves-to-dissolve-parliament-11655741947">Israel Heads for New Poll as Coalition Moves to Dissolve Parliament</a> WSJ: The prime minister, Naftali Bennett, said he would move to dissolve Parliament and call for the country’s fifth election in three years, marking the end of the most diverse ruling coalition in Israel’s history. 
- <p class="updated_time"> 11:53 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61862619?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man held over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
- <p class="updated_time"> 11:33 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/israel-expands-operations-against-iranian-nuclear-military-assets-11655726066">Israel Expands Operations Against Iranian Nuclear, Military Assets</a> WSJ: The new moves are the latest evolution of a strategy by Israeli Prime Minister Naftali Bennett who aims to bring Israel’s battle against Iran onto Iranian territory after years of targeting Iranian agents and Tehran’s proxies outside the country in places like Syria. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
@@ -71,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 08:14 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
- <p class="updated_time"> 07:45 AM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/indias-new-military-recruiting-regime-sparks-protests-turmoil-11655743513">India's New Military Recruiting Regime Sparks Protests, Turmoil</a> WSJ: Changes to entry-level positions stoke fears among young Indians facing tough job options. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
@@ -112,6 +110,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:12 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">Morning news brief</a> NPR: The House Jan. 6 panel holds another public hearing. Russia is close to capturing a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1105982631/virginia-7th-congressional-district-spanberger-january-6th-hearings">How the Jan. 6 hearings are landing in one Virginia swing district</a> NPR: In Rep. Abigail Spanberger's competitive 7th Congressional District, some voters are more concerned with economic issues than the ongoing Jan. 6 hearings at the U.S. Capitol. 
  <p class="updated_time"> 06:01 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292758/rhetoric-around-ghost-flights-of-migrant-children-is-often-at-odds-with-the-fact">Rhetoric around 'ghost flights' of migrant children is often at odds with the facts</a> NPR: President Biden's critics accuse his administration of organizing "secret" migrant flights to communities around the country. But that rhetoric is often at odds with the facts. 
  <p class="updated_time"> 03:53 PM CT, Jun. 20 </p> 
@@ -140,10 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106125393/politics-chat-3-down-3-to-go-on-jan-6-hearings">Politics chat: 3 down, 3 to go, on Jan. 6 hearings</a> NPR: With three public meetings done and three more to go, the January 6th committee is laying out its case against former President Donald Trump. 
  <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125358/two-top-georgia-election-officials-will-appear-at-the-next-jan-6-hearing">Two top Georgia election officials will appear at the next Jan. 6 hearing</a> NPR: Georgia looms large in politics — both in the ongoing Jan. 6 committee's work, and in upcoming elections. 
- <p class="updated_time"> 05:30 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106107171/on-juneteenth-weekend-black-activists-march-for-abortion-rights">On Juneteenth weekend, Black activists march for abortion rights</a> NPR: Black abortion rights leaders say reproductive justice and racial justice are inextricably connected. 
- <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
- <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
 
 
 </details>
