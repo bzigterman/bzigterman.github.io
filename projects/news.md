@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
+ <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
+ <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
  <p class="updated_time"> 09:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at the school for 58 minutes as a gunman was shooting pupils, reports say. 
- <p class="updated_time"> 07:48 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 05:57 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
@@ -41,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/with-satellite-launch-south-korea-comes-closer-to-having-eyes-in-the-sky-on-pyongyang-11655808188">Satellite Launch Gets South Korea Closer to Eyes in Sky on Pyongyang</a> WSJ: Tuesday’s launch of the Nuri rocket and successful placement of a large dummy satellite into orbit shows South Korea has harnessed technology that could build a homegrown space surveillance system. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
- <p class="updated_time"> 01:19 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
- <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
@@ -114,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/20/politics/supreme-court-june-preview/index.html">Supreme Court rushes to end a term like no other</a> CNN: Because of a blockbuster docket, an unprecedented leak, a fraught political atmosphere and Covid, everything has changed at the Supreme Court. 
  <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
@@ -148,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro">Elise Stefanik's defense of Trump around Jan. 6 clouds her pro-democracy work abroad</a> NPR: Rep. Elise Stefanik's outspoken defense of Donald Trump after Jan. 6 has roiled a pro-democracy group funded by Congress where she's a board member. Some staff members are sharing their concerns. 
  <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
- <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: Colombia has a new president, after an historic election, that has held more than a few surprises. 
 
 
 </details>
