@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-merseyside-61872080?at_medium=RSS&at_campaign=KARANGA">Fans 'treated like animals' at Champions League final</a> BBC: Liverpool supporters accuse the French interior minister of lying about the behaviour of English fans. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
@@ -118,12 +120,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106402470/trump-documentary-unreleased-footage-jan-6-committee">A British filmmaker gave Congress unreleased footage of Trump and his family</a> NPR: British documentarian Alex Holder confirmed on Tuesday that he had complied with a Jan. 6 committee subpoena for never-before-seen footage of the president in the leadup to the insurrection. 
+ <p class="updated_time"> 12:14 PM CT, Jun. 21 </p> 
+ <a href="https://www.cnn.com/2022/06/20/politics/supreme-court-june-preview/index.html">Supreme Court rushes to end a term like no other</a> CNN: Because of a blockbuster docket, an unprecedented leak, a fraught political atmosphere and Covid, everything has changed at the Supreme Court. 
  <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
- <p class="updated_time"> 08:19 AM CT, Jun. 21 </p> 
- <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearings-day-4-what-to-expect/index.html">What to watch for in January 6 hearing focused on pressure campaign in the states</a> CNN: The House select committee investigating the January 6, 2021, attack on the US Capitol turns its attention Tuesday to the campaign to pressure state-level officials to overturn the 2020 election results. 
  <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
