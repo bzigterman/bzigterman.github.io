@@ -34,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:57 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
+ <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
  <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro">Elise Stefanik's defense of Trump around Jan. 6 clouds her pro-democracy work abroad</a> NPR: Rep. Elise Stefanik's outspoken defense of Donald Trump after Jan. 6 has roiled a pro-democracy group funded by Congress where she's a board member. Some staff members are sharing their concerns. 
- <p class="updated_time"> 04:03 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106193414/french-president-macron-faces-an-uphill-battle-to-a-second-term">French President Macron faces an uphill battle to a second term</a> NPR: France's ruling center-right coalition lost its absolute majority in parliamentary elections Sunday, presenting President Emmanuel Macron with the likelihood of a difficult second term in office. 
 
 
 </details>
