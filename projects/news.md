@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 09:58 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
@@ -22,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:57 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
  <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
- <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
 
