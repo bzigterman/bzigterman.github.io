@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
  <p class="updated_time"> 10:42 AM CT, Jun. 21 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
+ <p class="updated_time"> 06:56 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:57 AM CT, Jun. 21 </p> 
@@ -37,8 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
- <p class="updated_time"> 04:49 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
+ <p class="updated_time"> 04:26 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/firms-warn-of-shipment-delays-from-china-as-u-s-bans-xinjiang-imports-11655817961">Firms Warn of Shipment Delays From China as U.S. Bans Xinjiang Imports</a> WSJ: Companies say they fear the law that came into effect Tuesday aiming to prevent shipping of goods using forced labor is difficult and costly to comply with. 
  <p class="updated_time"> 03:50 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/turkish-defense-industry-grows-cautious-over-selling-weapons-to-ukraine-11655803802">Turkey Grows Cautious Over Selling Weapons to Ukraine</a> WSJ: The head of Turkey’s weapons-production agency says the country must be cautious about delivering more arms to Ukraine, illustrating how Turkey is increasingly playing both sides of the Russia-Ukraine conflict. 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
- <p class="updated_time"> 10:08 PM CT, Jun. 20 </p> 
- <a href="https://www.wsj.com/articles/inflation-outpaces-forecasts-in-australia-and-south-korea-11655795322">Inflation Outpaces Forecasts in Australia and South Korea</a> WSJ: Inflation in Australia is on track to rise to 7% by the end of the year, while in South Korea, the central bank said it could exceed the 4.7% pace recorded during the financial crisis in 2008. 
  <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61875391?at_medium=RSS&at_campaign=KARANGA">Russian journalist Dmitry Muratov auctions Nobel medal for $103m</a> BBC: Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
