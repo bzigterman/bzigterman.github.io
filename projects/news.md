@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 03:41 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Election officials detail Trump supporters' threats</a> BBC: An Arizona official describes how the statehouse was overwhelmed with threats and insults. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Poll officials detail Trump voters' death threats</a> BBC: An Arizona official describes how the statehouse was overwhelmed with threats and insults. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
  <p class="updated_time"> 10:42 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61879383?at_medium=RSS&at_campaign=KARANGA">Strava app flaw revealed runs of Israeli officials at secret bases</a> BBC: A vulnerability in the fitness app allowed Israeli officials' movements to be tracked, a group says. 
+ <p class="updated_time"> 10:23 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-k-rail-workers-strike-as-inflation-soars-11655837984">U.K. Rail Workers Strike as Inflation Soars</a> WSJ: More than 40,000 are expected to halt work this week, arguing that their wages haven’t kept up with rising living costs. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 10:13 AM CT, Jun. 21 </p> 
@@ -114,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424763/unpacking-the-latest-jan-6-hearings">Unpacking the latest Jan. 6 hearings</a> NPR: NPR's Mary Louise Kelly speaks with Maryland Rep. Jamie Raskin, a Democrat, about the latest Jan. 6 hearings. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
@@ -144,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256047/why-democrats-are-paying-for-ads-supporting-republican-primary-candidates">Why Democrats are paying for ads supporting Republican primary candidates</a> NPR: Democrats are buying ads supporting far-right GOP primary candidates, in the hopes of facing them in the general election — a strategy that former Sen. Claire McCaskill of Missouri tried in 2012. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256005/the-texas-gop-made-extreme-declarations-while-gathered-to-talk-party-priorities">The Texas GOP made extreme declarations while gathered to talk party priorities</a> NPR: NPR's Ari Shapiro talks with editor in chief of  The Texas Tribune Sewell Chan about the Texas GOP's convention over the weekend, which was rife with anger and conspiracy theories. 
- <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106255998/are-the-jan-6-hearings-impacting-how-people-vote-heres-what-voters-in-virginia-s">Are the Jan. 6 hearings impacting how people vote? Here's what voters in Virginia say</a> NPR: Ahead of Virginia's statewide primaries, we visit the 7th Congressional District, which is slated to be a close contest in November. And we ask voters about the impact of the Jan. 6 hearings. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
