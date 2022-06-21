@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:06 PM CT, Jun. 21 </p> 
+ <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
+ <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: Cosby must pay Judy Huth $500,000 (£407,000) in damages after abusing her in 1975, the jury finds. 
  <p class="updated_time"> 05:27 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
