@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Election officials detail Trump supporters' threats</a> BBC: An Arizona official describes how the statehouse was overwhelmed with threats and insults. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
- <p class="updated_time"> 03:15 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Election officials detail Trump supporters' threats</a> BBC: An Arizona officials describes how the statehouse was overwhelmed with threats and insults. 
  <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-merseyside-61872080?at_medium=RSS&at_campaign=KARANGA">Fans 'treated like animals' at Champions League final</a> BBC: Liverpool supporters accuse the French interior minister of lying about the behaviour of English fans. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
