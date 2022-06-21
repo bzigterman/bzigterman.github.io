@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
+ <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
  <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
