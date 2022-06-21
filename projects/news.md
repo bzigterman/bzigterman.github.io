@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Election officials detail Trump supporters' threats</a> BBC: An Arizona officials describes how the statehouse was overwhelmed with threats and insults. 
  <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-merseyside-61872080?at_medium=RSS&at_campaign=KARANGA">Fans 'treated like animals' at Champions League final</a> BBC: Liverpool supporters accuse the French interior minister of lying about the behaviour of English fans. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
- <p class="updated_time"> 06:56 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
  <p class="updated_time"> 06:39 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
@@ -79,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
- <p class="updated_time"> 04:57 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61875061?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Iconic floating Jumbo restaurant sinks</a> BBC: The Jumbo restaurant capsized in the South China Sea days after it was towed out of the harbour. 
  <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
