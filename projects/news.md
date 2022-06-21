@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leaves millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
+ <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
@@ -25,12 +25,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61879383?at_medium=RSS&at_campaign=KARANGA">Strava app flaw revealed runs of Israeli officials at secret bases</a> BBC: A vulnerability in the fitness app allowed Israeli officials' movements to be tracked, a group says. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
+ <p class="updated_time"> 10:13 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
- <p class="updated_time"> 08:57 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
  <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
