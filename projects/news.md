@@ -40,7 +40,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:43 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/with-satellite-launch-south-korea-comes-closer-to-having-eyes-in-the-sky-on-pyongyang-11655808188">Satellite Launch Gets South Korea Closer to Eyes in Sky on Pyongyang</a> WSJ: Tuesday’s launch of the Nuri rocket and successful placement of a large dummy satellite into orbit shows South Korea has harnessed technology that could build a homegrown space surveillance system. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists say world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
+ <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 01:19 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
+ <a href="https://www.cnn.com/2022/06/20/politics/supreme-court-june-preview/index.html">Supreme Court rushes to end a term like no other</a> CNN: Because of a blockbuster docket, an unprecedented leak, a fraught political atmosphere and Covid, everything has changed at the Supreme Court. 
  <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
@@ -138,6 +140,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
+ <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
+ <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
  <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
  <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
