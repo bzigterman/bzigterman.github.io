@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
+ <p class="updated_time"> 10:42 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61879383?at_medium=RSS&at_campaign=KARANGA">Strava app flaw revealed runs of Israeli officials at secret bases</a> BBC: A vulnerability in the fitness app allowed Israeli officials' movements to be tracked, a group says. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 09:58 AM CT, Jun. 21 </p> 
@@ -83,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
  <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
- <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The results confirm the French leader faces a tricky second term, our Paris correspondent writes. 
  <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
- <p class="updated_time"> 04:55 PM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
 
