@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The results confirm the French leader faces a tricky second term, our Paris correspondent writes. 
  <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
- <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
 
 
 </details>
@@ -122,8 +122,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
- <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
- <a href="https://www.cnn.com/2022/06/20/politics/supreme-court-june-preview/index.html">Supreme Court rushes to end a term like no other</a> CNN: Because of a blockbuster docket, an unprecedented leak, a fraught political atmosphere and Covid, everything has changed at the Supreme Court. 
+ <p class="updated_time"> 08:19 AM CT, Jun. 21 </p> 
+ <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearings-day-4-what-to-expect/index.html">What to watch for in January 6 hearing focused on pressure campaign in the states</a> CNN: The House select committee investigating the January 6, 2021, attack on the US Capitol turns its attention Tuesday to the campaign to pressure state-level officials to overturn the 2020 election results. 
  <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
@@ -148,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
- <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
- <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
  <p class="updated_time"> 12:53 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106224199/gas-tax-holiday-president-biden">Gas tax holiday? Biden says a decision could come by the end of the week</a> NPR: Gas prices are finally dropping a bit after topping $5 per gallon, but the president says he's still considering suspending the federal gas tax, which could save Americans up to 18.4 cents per gallon. 
  <p class="updated_time"> 06:05 AM CT, Jun. 20 </p> 
