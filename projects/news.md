@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
+ <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
+ <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
+ <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61875391?at_medium=RSS&at_campaign=KARANGA">Russian journalist Dmitry Muratov auctions Nobel medal for $103m</a> BBC: Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine. 
  <p class="updated_time"> 07:05 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron to meet rival parties after losing majority</a> BBC: France's president will hold talks with the country's main political parties to find a way forward. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
@@ -45,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61864049?at_medium=RSS&at_campaign=KARANGA">Africa is a hostage of Russia's war on Ukraine, Zelensky says</a> BBC: Russia is stopping grain leaving Ukrainian ports, sparking warnings tens of millions risk famine. 
  <p class="updated_time"> 01:54 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61867006?at_medium=RSS&at_campaign=KARANGA">Israel heading to polls as coalition moves to dissolve parliament</a> BBC: Yair Lapid is set to take over as prime minister in the coming days with fresh elections expected. 
- <p class="updated_time"> 12:35 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61864392?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: 'Villages full of dead bodies'</a> BBC: Eyewitnesses tell the BBC they were left helpless as innocent citizens were slaughtered. 
  <p class="updated_time"> 12:19 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536">France's Macron Lost Grip on Parliament Amid Russian Energy Squeeze</a> WSJ: Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition. 
  <p class="updated_time"> 12:12 PM CT, Jun. 20 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 10:48 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692">Russia Strikes Ukrainian Positions, Residential Areas in Donbas</a> WSJ: Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa. 
- <p class="updated_time"> 10:08 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
@@ -69,6 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/taliban-release-five-britons-resolving-dispute-with-u-k-11655745282">Taliban Release Five Britons, Resolving Dispute With U.K.</a> WSJ: The detentions had complicated the group’s efforts to win international legitimacy since taking power in Afghanistan last year. 
  <p class="updated_time"> 07:45 AM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/indias-new-military-recruiting-regime-sparks-protests-turmoil-11655743513">India's New Military Recruiting Regime Sparks Protests, Turmoil</a> WSJ: Changes to entry-level positions stoke fears among young Indians facing tough job options. 
+ <p class="updated_time"> 06:35 AM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61863170?at_medium=RSS&at_campaign=KARANGA">France elections: Political uncertainty as Macron party slumps</a> BBC: The French government seeks to avoid political paralysis after losing its parliamentary majority. 
  <p class="updated_time"> 05:51 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 05:09 AM CT, Jun. 20 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
  <p class="updated_time"> 04:01 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1105962389/france-burkini-swimsuit-islamic-women">A French city approved burkinis in its pools. Then the backlash came</a> NPR: The city of Grenoble's move to allow the full body-covering swimsuit for Islamic women has sparked a legal battle. Activists say it's a matter of civil — and women's — rights. 
- <p class="updated_time"> 02:24 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106119015/french-voters-elect-parliamentarians-in-test-for-macron">Macron's party loses control of France's parliament as the far right gains 81 seats</a> NPR: The French president's centrist alliance lost its majority in the country's legislature, with more voters opting for candidates on at the extremes. Marine Le Pen's party went from eight seats to 89. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 06:35 PM CT, Jun. 18 </p> 
@@ -154,8 +156,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106107171/on-juneteenth-weekend-black-activists-march-for-abortion-rights">On Juneteenth weekend, Black activists march for abortion rights</a> NPR: Black abortion rights leaders say reproductive justice and racial justice are inextricably connected. 
  <p class="updated_time"> 05:40 PM CT, Jun. 18 </p> 
  <a href="https://www.npr.org/2022/06/18/1106089263/former-federal-judge-warns-of-danger-to-american-democracy">Former federal judge warns of danger to American democracy</a> NPR: NPR's Adrian Florido speaks with retired federal judge J. Michael Luttig about his testimony during a recent Jan. 6 committee hearing. 
- <p class="updated_time"> 09:04 PM CT, Jun. 17 </p> 
- <a href="https://www.cnn.com/2022/06/17/politics/space-force-boot-camp/index.html">Inside Space Force boot camp with recruits to US military's newest branch</a> CNN: The US Space Force has hit a critical milestone: dedicated basic training for its early recruits. 
 
 
 </details>
