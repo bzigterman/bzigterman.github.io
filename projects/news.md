@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
- <p class="updated_time"> 01:18 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN whistleblowing complaints 'dismissed too early'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 11:00 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-natural-gas-exporter-completes-first-deal-with-german-buyer-11655798400">U.S. Natural-Gas Exporter Completes First Deal With German Buyer</a> WSJ: Venture Global struck the first binding deals by a U.S. natural-gas exporter to supply a German company, as Europe turns to America to help replace supplies from Russia. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
