@@ -17,6 +17,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 01:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN whistleblowing complaints 'dismissed too early'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
+ <p class="updated_time"> 11:00 PM CT, Jun. 20 </p> 
+ <a href="https://www.wsj.com/articles/u-s-natural-gas-exporter-completes-first-deal-with-german-buyer-11655798400">U.S. Natural-Gas Exporter Completes First Deal With German Buyer</a> WSJ: Venture Global struck the first binding deals by a U.S. natural-gas exporter to supply a German company, as Europe turns to America to help replace supplies from Russia. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
