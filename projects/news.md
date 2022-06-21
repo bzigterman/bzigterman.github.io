@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:17 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at the school for 58 minutes as a gunman was shooting pupils, reports say. 
  <p class="updated_time"> 07:48 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
- <p class="updated_time"> 07:36 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at the school for 58 minutes as a gunman was shooting pupils, reports say. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
