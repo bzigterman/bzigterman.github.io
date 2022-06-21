@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Gunman could have been stopped within three minutes - safety official</a> BBC: Police could have stopped the Uvalde school shooting within three minutes, Texas's safety chief says. 
  <p class="updated_time"> 12:45 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
@@ -25,8 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
- <p class="updated_time"> 09:17 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at the school for 58 minutes as a gunman was shooting pupils, reports say. 
+ <p class="updated_time"> 08:57 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
- <p class="updated_time"> 05:57 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
