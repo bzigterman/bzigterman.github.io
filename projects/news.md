@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 03:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Election officials detail Trump supporters' threats</a> BBC: An Arizona officials describes how the statehouse was overwhelmed with threats and insults. 
  <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1104447838/arab-american-singer-karim-sulayman-unholy-wars-opera">An Arab American singer reframes music about the Crusades</a> NPR: A new project conceived by Lebanese American tenor Karim Sulayman recasts baroque music that by turns demonizes and exoticizes Arabs and Muslims. 
  <p class="updated_time"> 03:43 AM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106193475/pain-at-the-gas-pump-is-being-felt-around-the-world">Pain at the gas pump is being felt around the world</a> NPR: Across the globe drivers are rethinking their habits and personal finances amid skyrocketing prices for gasoline and diesel. 
- <p class="updated_time"> 01:14 AM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106188780/australias-leader-refuses-to-publicly-intervene-for-julian-assange">Australia's leader refuses to publicly intervene for Julian Assange</a> NPR: The recently elected Australian prime minister declined to say whether he had spoken to U.S. President Joe Biden about the case. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -114,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106424763/unpacking-the-latest-jan-6-hearings">Unpacking the latest Jan. 6 hearings</a> NPR: NPR's Mary Louise Kelly speaks with Maryland Rep. Jamie Raskin, a Democrat, about the latest Jan. 6 hearings. 
+ <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106424721/state-officials-and-election-workers-say-they-faced-pressure-to-overturn-2020-re">State officials and election workers say they faced pressure to overturn 2020 results</a> NPR: The House Jan. 6 committee heard testimony from state officials and election workers testifying about pressure from President Trump and his allies to overturn the results of the 2020 election. 
  <p class="updated_time"> 02:07 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
@@ -142,12 +146,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256005/the-texas-gop-made-extreme-declarations-while-gathered-to-talk-party-priorities">The Texas GOP made extreme declarations while gathered to talk party priorities</a> NPR: NPR's Ari Shapiro talks with editor in chief of  The Texas Tribune Sewell Chan about the Texas GOP's convention over the weekend, which was rife with anger and conspiracy theories. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255998/are-the-jan-6-hearings-impacting-how-people-vote-heres-what-voters-in-virginia-s">Are the Jan. 6 hearings impacting how people vote? Here's what voters in Virginia say</a> NPR: Ahead of Virginia's statewide primaries, we visit the 7th Congressional District, which is slated to be a close contest in November. And we ask voters about the impact of the Jan. 6 hearings. 
- <p class="updated_time"> 03:30 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106229988/texas-gops-new-platform-says-biden-didnt-really-win-it-also-calls-for-secession">Texas GOP's new platform says Biden didn't really win. It also calls for secession</a> NPR: "We reject the certified results of the 2020 Presidential election," the Republican Party of Texas says, referring to President Biden as the "acting" leader. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:13 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106228594/a-missouri-senate-candidate-holds-a-shotgun-and-calls-for-rino-hunting-in-a-new-">A Missouri Senate candidate holds a shotgun and calls for 'RINO hunting' in a new ad</a> NPR: A new ad from Eric Greitens, the controversial Republican running for Missouri's U.S. Senate seat, has left him accused of glorifying political violence. 
 
 
 </details>
