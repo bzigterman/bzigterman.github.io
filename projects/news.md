@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:48 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
+ <p class="updated_time"> 07:36 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at the school for 58 minutes as a gunman was shooting pupils, reports say. 
+ <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
- <p class="updated_time"> 07:04 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
- <p class="updated_time"> 06:26 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde mass shooting: Photos show armed police waiting in school hallway</a> BBC: Armed officers waited at Uvalde's school for 58 minutes as a gunman was shooting pupils, media say. 
  <p class="updated_time"> 06:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Who gets abortions in the US and what could change?</a> BBC: Abortion restrictions could vary widely by state if the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
@@ -23,24 +25,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
- <p class="updated_time"> 05:01 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 04:49 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
+ <p class="updated_time"> 03:50 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/turkish-defense-industry-grows-cautious-over-selling-weapons-to-ukraine-11655803802">Turkey Grows Cautious Over Selling Weapons to Ukraine</a> WSJ: The head of Turkey’s weapons-production agency says the country must be cautious about delivering more arms to Ukraine, illustrating how Turkey is increasingly playing both sides of the Russia-Ukraine conflict. 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
  <p class="updated_time"> 02:30 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/casino-guests-face-extended-stay-in-macau-as-chinas-covid-19-lockdowns-spread-11655811045">Casino Guests Face Extended Stay in Macau as China's Covid-19 Lockdowns Spread</a> WSJ: A lockdown at Macau’s Hotel Fortuna comes on the heels of a two-day testing drive of the gambling city’s roughly 600,000 residents amid a resurgence of cases. 
+ <p class="updated_time"> 02:28 AM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-controls-force-u-n-biodiversity-conference-to-move-to-canada-11655810917">China's Covid-19 Controls Force U.N. Biodiversity Conference to Canada</a> WSJ: The meeting is moved to Montreal, costing Beijing a chance to project its diplomatic and cultural clout on the world stage. 
  <p class="updated_time"> 01:43 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/with-satellite-launch-south-korea-comes-closer-to-having-eyes-in-the-sky-on-pyongyang-11655808188">Satellite Launch Gets South Korea Closer to Eyes in Sky on Pyongyang</a> WSJ: Tuesday’s launch of the Nuri rocket and successful placement of a large dummy satellite into orbit shows South Korea has harnessed technology that could build a homegrown space surveillance system. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists say world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 01:19 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
- <p class="updated_time"> 12:30 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/turkish-defense-industry-grows-cautious-over-selling-weapons-to-ukraine-11655803802">Turkey Grows Cautious Over Selling Weapons to Ukraine</a> WSJ: The head of Turkey’s weapons-production agency says the country must be cautious about delivering more arms to Ukraine, illustrating how Turkey is increasingly playing both sides of the Russia-Ukraine conflict. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
