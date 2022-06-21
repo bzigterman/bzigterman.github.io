@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the UK are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 01:18 AM CT, Jun. 21 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
  <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
- <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106125365/the-once-quiet-southwestern-corner-of-ukraine-is-now-playing-a-key-role-in-trade">The once-quiet southwestern corner of Ukraine is now playing a key role in trade</a> NPR: An overlooked corner of Ukraine is quietly playing a critical role in the country's efforts to import and export goods. Russia is trying to cut it off. 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
