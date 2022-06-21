@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
+ <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
+ <p class="updated_time"> 05:01 AM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 04:59 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Row erupts over goods blocked from entering Russian territory</a> BBC: Lithuania banned the transit of certain goods to the Russian territory of Kaliningrad over EU sanctions. 
  <p class="updated_time"> 04:49 AM CT, Jun. 21 </p> 
@@ -18,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists says world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
+ <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">660 pounds: Scientists say world's largest freshwater fish is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 11:00 PM CT, Jun. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-natural-gas-exporter-completes-first-deal-with-german-buyer-11655798400">U.S. Natural-Gas Exporter Completes First Deal With German Buyer</a> WSJ: Venture Global struck the first binding deals by a U.S. natural-gas exporter to supply a German company, as Europe turns to America to help replace supplies from Russia. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
@@ -29,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/inflation-outpaces-forecasts-in-australia-and-south-korea-11655795322">Inflation Outpaces Forecasts in Australia and South Korea</a> WSJ: Inflation in Australia is on track to rise to 7% by the end of the year, while in South Korea, the central bank said it could exceed the 4.7% pace recorded during the financial crisis in 2008. 
  <p class="updated_time"> 08:25 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61875391?at_medium=RSS&at_campaign=KARANGA">Russian journalist Dmitry Muratov auctions Nobel medal for $103m</a> BBC: Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine. 
- <p class="updated_time"> 07:05 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron to meet rival parties after losing majority</a> BBC: France's president will hold talks with the country's main political parties to find a way forward. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
@@ -97,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/19/1106168102/paul-haggis-arrested-sexual-assault">'Crash' director Paul Haggis was arrested on sexual assault charges in Italy</a> NPR: Oscar-winning film director and screenwriter Paul Haggis is being detained on sexual assault charges. He has previously been accused of sexual misconduct by multiple women. 
  <p class="updated_time"> 02:18 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106157864/ethiopia-attack-amhara">More than 200 killed in attack in Ethiopia, witnesses say</a> NPR: Witnesses blamed a rebel group for the attack on ethnic Amhara people. The rebel group blamed the military and a local militia. 
- <p class="updated_time"> 07:49 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106125407/countries-in-the-horn-of-africa-are-experiencing-the-worst-drought-in-40-years">Countries in the Horn of Africa are experiencing the worst drought in 40 years</a> NPR: Hunger and drought are overwhelming the Horn of Africa again, threatening a humanitarian catastrophe and a warning from aid agencies of an "explosion of child deaths." 
  <p class="updated_time"> 01:51 AM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61848985?at_medium=RSS&at_campaign=KARANGA">Exploring the stigma of sickle cell anaemia</a> BBC: Jameisha Prescod explores the root of stigma towards sickle cell. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
@@ -112,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
+ <p class="updated_time"> 05:23 AM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1105974814/jan-6-committee-hearing-state-officials">The Jan. 6 committee holds its fourth hearing today. Here's what we know</a> NPR: Tuesday's hearing is expected to focus on former President Trump's pressure on officials to change the results of voting in their states. 
  <p class="updated_time"> 04:12 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">Morning news brief</a> NPR: The House Jan. 6 panel holds another public hearing. Russia is close to capturing a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
  <p class="updated_time"> 04:00 AM CT, Jun. 21 </p> 
@@ -140,10 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106193386/colombia-elects-gustavo-petro-in-historic-presidential-election">Colombia elects Gustavo Petro in historic presidential election</a> NPR: Colombia has a new president, after an historic election, that has held more than a few surprises. 
  <p class="updated_time"> 03:59 PM CT, Jun. 19 </p> 
  <a href="https://www.npr.org/2022/06/19/1106168919/the-white-house-is-preparing-for-the-end-of-roe-v-wade">The White House is preparing for the end of Roe v. Wade</a> NPR: The U.S. Supreme Court is expected to issue a decision to overturn Roe v. Wade in the coming weeks. Abortion advocates want President Biden to take executive action to protect access to the procedure. 
- <p class="updated_time"> 07:38 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106125393/politics-chat-3-down-3-to-go-on-jan-6-hearings">Politics chat: 3 down, 3 to go, on Jan. 6 hearings</a> NPR: With three public meetings done and three more to go, the January 6th committee is laying out its case against former President Donald Trump. 
- <p class="updated_time"> 07:16 AM CT, Jun. 19 </p> 
- <a href="https://www.npr.org/2022/06/19/1106125358/two-top-georgia-election-officials-will-appear-at-the-next-jan-6-hearing">Two top Georgia election officials will appear at the next Jan. 6 hearing</a> NPR: Georgia looms large in politics — both in the ongoing Jan. 6 committee's work, and in upcoming elections. 
 
 
 </details>
