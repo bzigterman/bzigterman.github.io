@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:05 PM CT, Jun. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron to meet rival parties after losing majority</a> BBC: France's president will hold talks with the country's main political parties to find a way forward. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
@@ -61,10 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61863695?at_medium=RSS&at_campaign=KARANGA">Oscar-winning director Paul Haggis arrested over alleged sexual assault</a> BBC: The Crash filmmaker is arrested in Italy and denies the allegations according to local agencies. 
  <p class="updated_time"> 10:03 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61862169?at_medium=RSS&at_campaign=KARANGA">World's largest freshwater fish found in Mekong, scientists say</a> BBC: A 300kg stingray found in Cambodia is the biggest freshwater fish on record, scientists say. 
- <p class="updated_time"> 09:37 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61863172?at_medium=RSS&at_campaign=KARANGA">French elections: What now for opposition left and far-right?</a> BBC: The big winners of France's elections are poles apart but share the aim of opposing Macron. 
- <p class="updated_time"> 09:29 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61670666?at_medium=RSS&at_campaign=KARANGA">India and Bangladesh floods displace millions and kill dozens</a> BBC: Dozens have died in lightning strikes and landslides triggered by severe monsoon storms in the region. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 08:14 AM CT, Jun. 20 </p> 
@@ -113,6 +111,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61752799?at_medium=RSS&at_campaign=KARANGA">US parents turn to black market due to formula shortage</a> BBC: As the US grapples with a formula crisis, parents are turning to the black market for supplies. 
  <p class="updated_time"> 06:16 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61832589?at_medium=RSS&at_campaign=KARANGA">How Gabon saved its forest elephants</a> BBC: Biologist Lee White explains how creating national parks revived Gabon’s elephant population. 
+ <p class="updated_time"> 06:15 PM CT, Jun. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61855030?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Spanish firefighters tackle wildfires</a> BBC: Temperature records have been broken in Spain and France as a heatwave sweeps across Europe. 
  <p class="updated_time"> 06:09 PM CT, Jun. 18 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-61828735?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: 'I felt I belonged on set'</a> BBC: Iman Vellani plays Marvel’s first Muslim superhero headliner and says she could relate to the role. 
 
