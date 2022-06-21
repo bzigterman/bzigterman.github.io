@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: Cosby must pay Judy Huth $500,000 (£407,000) in damages after abusing her in 1975, the jury finds. 
  <p class="updated_time"> 05:27 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
  <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
  <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
- <p class="updated_time"> 05:38 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61874751?at_medium=RSS&at_campaign=KARANGA">France elections: Macron rejects prime minister's offer to resign</a> BBC: Elisabeth Borne was criticised by some commentators after Mr Macron's coalition lost its majority on Sunday. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
@@ -124,6 +124,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:04 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
+ <p class="updated_time"> 05:52 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18-21 year olds, among other measures. It's expected to have enough support to pass the Senate. 
  <p class="updated_time"> 05:34 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
  <p class="updated_time"> 04:43 PM CT, Jun. 21 </p> 
@@ -150,10 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
- <p class="updated_time"> 05:23 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1105974814/jan-6-committee-hearing-state-officials">The Jan. 6 committee holds its fourth hearing today. Here's what we know</a> NPR: Tuesday's hearing is expected to focus on former President Trump's pressure on officials to change the results of voting in their states. 
- <p class="updated_time"> 04:12 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106320830/morning-news-brief">News brief: 4th Jan. 6 hearing, eastern Ukraine, cryptocurrency vulnerability </a> NPR: The House Jan. 6 panel holds another hearing. Russia is close to capturing Severodonetsk, a key city in the eastern part of Ukraine. Analysis shows cryptocurrency tech is vulnerable to tampering. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
