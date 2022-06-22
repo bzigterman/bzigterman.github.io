@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
+ <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 03:47 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
- <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61862035?at_medium=RSS&at_campaign=KARANGA">Assam: India floods destroy millions of homes and dreams</a> BBC: Unprecedented rainfall and flooding have left behind a trail of death and destruction in Assam. 
  <p class="updated_time"> 06:18 PM CT, Jun. 20 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
  <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256012/belgium-returns-remains-of-congolese-leader-killed-by-belgian-supported-rebels">Belgium returns remains of slain Congolese leader</a> NPR: NPR's Ari Shapiro talks with Congolese historian Georges Nzongola-Ntalaja about Belgium's efforts to reconcile over colonialism. 
- <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -140,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:40 PM CT, Jun. 22 </p> 
@@ -172,8 +174,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106658320/morning-news-brief">News brief: gun legislation, Powell on Capitol Hill, 4th House Jan. 6 hearing</a> NPR: Senators reach a bipartisan deal on a gun safety bill. Fed chairman will testify before two congressional panels this week. Jan. 6 hearing shows how Trump pressured state officials on election tally. 
  <p class="updated_time"> 04:00 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106642582/biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">Biden wants a gas tax holiday. Some economists say that's a bad idea</a> NPR: Biden wants Congress to give people a break on the federal gas tax for the summer. But economists say that won't translate into big savings at the pump — and could hurt efforts to curb inflation. 
- <p class="updated_time"> 07:47 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1105848096/jan-6-committee-hearing-transcript">Here's every word from the fourth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 21 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
