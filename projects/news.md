@@ -19,6 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
+ <p class="updated_time"> 04:47 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Destroys Grain Terminal in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces destroyed at least one large grain terminal in the Ukrainian port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
+ <p class="updated_time"> 04:47 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 04:23 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the International Monetary Fund after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
@@ -29,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/how-iran-tapped-international-banks-to-keep-its-economy-afloat-11655899201">How Iran Tapped International Banks to Keep Its Economy Afloat</a> WSJ: Global financial institutions handle transactions for Iran’s sanctioned companies, enabling Tehran to resist U.S. pressure, documents show. 
  <p class="updated_time"> 02:50 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
- <p class="updated_time"> 02:22 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russian Refinery Set Ablaze by Drone Crash</a> WSJ: A major Russian oil-and-gas refinery close to the Ukrainian border was set ablaze after a drone allegedly controlled by Kyiv’s forces crashed into it, according to local authorities and the plant’s management. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 01:59 AM CT, Jun. 22 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61890577?at_medium=RSS&at_campaign=KARANGA">Swastika: Victoria bans display of Nazi symbol in Australian first</a> BBC: Victoria is the first state to outlaw the symbol, amid a rise in anti-Semitic incidents. 
- <p class="updated_time"> 11:16 PM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 11:11 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890802?at_medium=RSS&at_campaign=KARANGA">Monkeypox: First Singapore case recorded in British flight attendant</a> BBC: The case is believed to be the first in south east Asia linked to the current monkeypox outbreak. 
  <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
