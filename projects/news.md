@@ -138,6 +138,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
  <p class="updated_time"> 01:00 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
  <p class="updated_time"> 12:48 PM CT, Jun. 22 </p> 
@@ -168,8 +170,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. It's expected to have enough support to pass the Senate. 
  <p class="updated_time"> 05:34 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
- <p class="updated_time"> 04:43 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106448660/trump-campaign-fake-electors-says-rep-adam-schiff">The Trump campaign tried to use fake electors, says Rep. Adam Schiff</a> NPR: Schiff details how Trump and his campaign "were directly involved in advancing and coordinating the plot to replace Biden electors with fake electors not chosen by the voters." 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
