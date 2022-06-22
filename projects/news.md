@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
  <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
- <p class="updated_time"> 03:49 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106256012/belgium-returns-remains-of-congolese-leader-killed-by-belgian-supported-rebels">Belgium returns remains of slain Congolese leader</a> NPR: NPR's Ari Shapiro talks with Congolese historian Georges Nzongola-Ntalaja about Belgium's efforts to reconcile over colonialism. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
@@ -140,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
@@ -172,8 +174,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106658355/senate-negotiators-reach-a-final-bipartisan-agreement-on-a-gun-safety-bill">Senate negotiators reach a final bipartisan agreement on a gun safety bill</a> NPR: A bipartisan gun safety bill, poised to pass the Senate, could be the first major gun measure in decades. It's a narrow bill that President Biden supports, even though he wants it to go further. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658320/morning-news-brief">News brief: gun legislation, Powell on Capitol Hill, 4th House Jan. 6 hearing</a> NPR: Senators reach a bipartisan deal on a gun safety bill. Fed chairman will testify before two congressional panels this week. Jan. 6 hearing shows how Trump pressured state officials on election tally. 
- <p class="updated_time"> 04:00 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106642582/biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">Biden wants a gas tax holiday. Some economists say that's a bad idea</a> NPR: Biden wants Congress to give people a break on the federal gas tax for the summer. But economists say that won't translate into big savings at the pump — and could hurt efforts to curb inflation. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
