@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and all-terrain vehicles on the US city's streets. 
- <p class="updated_time"> 05:29 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
  <p class="updated_time"> 04:24 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
+ <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
+ <p class="updated_time"> 01:59 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593">Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</a> WSJ: Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in. 
+ <p class="updated_time"> 01:22 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
  <p class="updated_time"> 01:06 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Hundreds Killed in Afghanistan Earthquake</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed at least 920 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
- <p class="updated_time"> 02:12 PM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/two-jesuit-priests-gunned-down-in-northern-mexico-church-11655835560">Two Jesuit Priests Gunned Down in Northern Mexico Church</a> WSJ: The remote region where the killings took place Monday is a battleground for drug gangs that fight over opium, marijuana and illegal logging. 
  <p class="updated_time"> 02:08 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61857005?at_medium=RSS&at_campaign=KARANGA">Mining firm Glencore pleads guilty to UK bribery charges</a> BBC: One of the world’s biggest mining firms, Glencore, has again pleaded guilty to a series of corruption offences. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
@@ -69,12 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
- <p class="updated_time"> 10:13 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/with-new-colombian-president-the-left-surges-in-latin-america-11655828410">With New Colombian President, the Left Surges in Latin America</a> WSJ: The shift signals less influence for the U.S., particularly on migration and drugs. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
@@ -134,6 +132,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
  <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106459556/shaye-moss-staffed-an-election-office-in-georgia-then-she-was-targeted-by-trump">Shaye Moss staffed an election office in Georgia. Then she was targeted by Trump</a> NPR: Former Georgia election worker Shaye Moss testified at the Jan. 6 committee hearing Tuesday about the attacks she and her family received when Trump and Giuliani targeted them with false accusations. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
@@ -162,8 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424770/activists-say-the-biden-administrations-latest-landmine-restrictions-arent-enoug">Activists say the Biden administration's latest landmine restrictions aren't enough</a> NPR: Around the world, landmines kill and injure thousands of people a year, most of them civilians. The Biden administration is restricting their use and continuing to help countries clear minefields. 
  <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106424763/unpacking-the-latest-jan-6-hearings">Unpacking the latest Jan. 6 hearings</a> NPR: NPR's Mary Louise Kelly speaks with Maryland Rep. Jamie Raskin, a Democrat, about the latest Jan. 6 hearings. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
