@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61832987?at_medium=RSS&at_campaign=KARANGA">Covid vaccines are being rolled out to US children under 5</a> BBC: Some 17 million US children between six months and five years old are now eligible for Covid jabs. 
  <p class="updated_time"> 11:35 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
@@ -134,6 +136,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
  <p class="updated_time"> 09:35 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
  <p class="updated_time"> 07:52 AM CT, Jun. 22 </p> 
@@ -164,8 +168,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106448660/trump-campaign-fake-electors-says-rep-adam-schiff">The Trump campaign tried to use fake electors, says Rep. Adam Schiff</a> NPR: Schiff details how Trump and his campaign "were directly involved in advancing and coordinating the plot to replace Biden electors with fake electors not chosen by the voters." 
  <p class="updated_time"> 04:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106344831/recap-jan-6-committee-hearing">Trump team didn't have the evidence and 4 other takeaways from the Jan. 6 hearing</a> NPR: There were a number of eye-opening findings in the Jan. 6 committee's fourth hearing that showed the depth and breadth of Trump and his allies' pressure on local and state officials. 
- <p class="updated_time"> 04:07 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106424770/activists-say-the-biden-administrations-latest-landmine-restrictions-arent-enoug">Activists say the Biden administration's latest landmine restrictions aren't enough</a> NPR: Around the world, landmines kill and injure thousands of people a year, most of them civilians. The Biden administration is restricting their use and continuing to help countries clear minefields. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
