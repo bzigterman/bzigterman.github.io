@@ -140,6 +140,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863239/the-jan-6-hearings-will-now-extend-into-july">The Jan. 6 hearings will now extend into July</a> NPR: Members of the Jan. 6 committee are pursuing additional witnesses and say they are receiving a lot of new evidence. Their public hearings are now going to extend into July. 
+ <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863190/white-house-economic-adviser-defends-bidens-gas-tax-holiday">White House economic adviser defends Biden's gas tax holiday</a> NPR: NPR's Mary Louise Kelly talks with Cecilia Rouse, who chairs the White House Council of Economic Advisers, about Biden calling on Congress to suspend the federal gas tax. 
  <p class="updated_time"> 02:49 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
  <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
@@ -168,10 +172,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106642582/biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">Biden wants a gas tax holiday. Some economists say that's a bad idea</a> NPR: Biden wants Congress to give people a break on the federal gas tax for the summer. But economists say that won't translate into big savings at the pump — and could hurt efforts to curb inflation. 
  <p class="updated_time"> 07:47 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105848096/jan-6-committee-hearing-transcript">Here's every word from the fourth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 21 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
- <p class="updated_time"> 07:19 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106497953/congress-is-closer-than-it-has-been-in-decades-to-passing-new-gun-legislation">Congress is closer than it has been in decades to passing new gun legislation</a> NPR: A bipartisan group of senators came to a final agreement on a gun safety bill that could be the biggest breakthrough on the issue in decades of congressional gridlock. 
- <p class="updated_time"> 06:04 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
