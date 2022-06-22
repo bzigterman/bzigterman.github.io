@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
- <p class="updated_time"> 03:57 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: Hundreds killed and scores wounded, says state media</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">Hundreds reportedly killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
+ <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
@@ -130,6 +130,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106459556/shaye-moss-staffed-an-election-office-in-georgia-then-she-was-targeted-by-trump">Shaye Moss staffed an election office in Georgia. Then she was targeted by Trump</a> NPR: Former Georgia election worker Shaye Moss testified at the Jan. 6 committee hearing Tuesday about the attacks she and her family received when Trump and Giuliani targeted them with false accusations. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
@@ -160,8 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424721/state-officials-and-election-workers-say-they-faced-pressure-to-overturn-2020-re">State officials and election workers say they faced pressure to overturn 2020 results</a> NPR: The House Jan. 6 committee heard testimony from state officials and election workers testifying about pressure from President Trump and his allies to overturn the results of the 2020 election. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
- <p class="updated_time"> 02:07 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
