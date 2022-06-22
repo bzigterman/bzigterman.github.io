@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
+ <p class="updated_time"> 03:57 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: Hundreds killed and scores wounded, says state media</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">Hundreds reported killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
- <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 280 killed and scores wounded, says state media</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
+ <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">Hundreds reportedly killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
  <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890558?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Robb Elementary School to be demolished - mayor</a> BBC: A gunman killed 19 children and two teachers at Robb Elementary in May. 
- <p class="updated_time"> 09:36 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
  <p class="updated_time"> 09:18 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890453?at_medium=RSS&at_campaign=KARANGA">Canada MPs given panic buttons as threats increase</a> BBC: Politicians say intimidation and harassment is becoming increasingly common in Canada. 
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
@@ -45,6 +45,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
+ <p class="updated_time"> 02:12 PM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/two-jesuit-priests-gunned-down-in-northern-mexico-church-11655835560">Two Jesuit Priests Gunned Down in Northern Mexico Church</a> WSJ: The remote region where the killings took place Monday is a battleground for drug gangs that fight over opium, marijuana and illegal logging. 
  <p class="updated_time"> 02:08 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61857005?at_medium=RSS&at_campaign=KARANGA">Mining firm Glencore pleads guilty to UK bribery charges</a> BBC: One of the world’s biggest mining firms, Glencore, has again pleaded guilty to a series of corruption offences. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
@@ -55,30 +57,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
  <p class="updated_time"> 11:18 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/canada-to-compel-youtube-tiktok-and-streamers-to-boost-domestic-content-11655842727">Canada to Compel YouTube, TikTok and Streamers to Boost Domestic Content</a> WSJ: Canada approved legislation that targets what video- and audio-sharing platforms can broadcast to a Canadian audience, as the country follows in Europe’s footsteps in imposing a heftier regulatory burden on the digital sector. 
- <p class="updated_time"> 10:54 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-attorney-general-merrick-garland-visits-ukraine-to-discuss-investigating-war-crimes-11655819389">U.S. Attorney General Visits Ukraine to Discuss Investigating War Crimes</a> WSJ: Merrick Garland made the unannounced visit to meet with Ukraine’s prosecutor general to discuss U.S. and international efforts to help the country investigate and prosecute those involved in war crimes. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
- <p class="updated_time"> 10:23 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/u-k-rail-workers-strike-as-inflation-soars-11655837984">U.K. Rail Workers Strike as Inflation Soars</a> WSJ: More than 40,000 are expected to halt work this week, arguing that their wages haven’t kept up with rising living costs. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 10:13 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
  <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/with-new-colombian-president-the-left-surges-in-latin-america-11655828410">With New Colombian President, the Left Surges in Latin America</a> WSJ: The shift signals less influence for the U.S., particularly on migration and drugs. 
  <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
- <p class="updated_time"> 06:39 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
@@ -136,6 +130,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
+ <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106658355/senate-negotiators-reach-a-final-bipartisan-agreement-on-a-gun-safety-bill">Senate negotiators reach a final bipartisan agreement on a gun safety bill</a> NPR: A bipartisan gun safety bill, poised to pass the Senate, could be the first major gun measure in decades. It's a narrow bill that President Biden supports, even though he wants it to go further. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106642582/biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">Biden wants a gas tax holiday. Some economists say that's a bad idea</a> NPR: Biden wants Congress to give people a break on the federal gas tax for the summer. But economists say that won't translate into big savings at the pump — and could hurt efforts to curb inflation. 
  <p class="updated_time"> 07:47 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105848096/jan-6-committee-hearing-transcript">Here's every word from the fourth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 21 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 07:19 PM CT, Jun. 21 </p> 
@@ -162,12 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:07 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
- <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106402470/trump-documentary-unreleased-footage-jan-6-committee">A British filmmaker gave Congress unreleased footage of Trump and his family</a> NPR: British documentarian Alex Holder confirmed on Tuesday that he had complied with a Jan. 6 committee subpoena for never-before-seen footage of the president in the leadup to the insurrection. 
- <p class="updated_time"> 11:42 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
- <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
