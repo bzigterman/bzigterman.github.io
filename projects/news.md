@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
  <p class="updated_time"> 02:51 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 02:42 PM CT, Jun. 22 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256012/belgium-returns-remains-of-congolese-leader-killed-by-belgian-supported-rebels">Belgium returns remains of slain Congolese leader</a> NPR: NPR's Ari Shapiro talks with Congolese historian Georges Nzongola-Ntalaja about Belgium's efforts to reconcile over colonialism. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
- <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
