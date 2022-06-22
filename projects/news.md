@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61898397?at_medium=RSS&at_campaign=KARANGA">As audiences return to Glastonbury and other festivals, will they cope?</a> BBC: After two years of cancellations, music fans could experience a mixture of relief and anxiety. 
  <p class="updated_time"> 06:19 PM CT, Jun. 22 </p> 
