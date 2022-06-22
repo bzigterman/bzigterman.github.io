@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:11 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890802?at_medium=RSS&at_campaign=KARANGA">Monkeypox: First Singapore case recorded in British flight attendant</a> BBC: The case is believed to be the first in south east Asia linked to the current monkeypox outbreak. 
  <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
- <p class="updated_time"> 10:42 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61879383?at_medium=RSS&at_campaign=KARANGA">Strava app flaw revealed runs of Israeli officials at secret bases</a> BBC: A vulnerability in the fitness app allowed Israeli officials' movements to be tracked, a group says. 
  <p class="updated_time"> 10:23 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/u-k-rail-workers-strike-as-inflation-soars-11655837984">U.K. Rail Workers Strike as Inflation Soars</a> WSJ: More than 40,000 are expected to halt work this week, arguing that their wages haven’t kept up with rising living costs. 
  <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
