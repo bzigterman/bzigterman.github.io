@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: Ms Hall was seen doting on the media mogul at his 90th birthday party only last year. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
@@ -42,9 +44,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
- <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
+ <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
  <p class="updated_time"> 06:49 AM CT, Jun. 22 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/great-barrier-reef-threatened-by-offshore-gas-project-lawsuit-says-11655906005">Great Barrier Reef Threatened by Offshore Gas Project, Lawsuit Says</a> WSJ: Woodside Energy, which plans to defend its project in court, says many countries need gas to reduce carbon emissions. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
- <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
  <p class="updated_time"> 03:02 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/burkini-swimsuits-banned-in-pools-in-french-city-amid-national-debate-11655899328">Burkini Swimsuits Banned in Pools in French City Amid National Debate</a> WSJ: A top French court ruled against allowing head-to-foot swimsuits at public pools in Grenoble, the latest move amid a debate over how to balance France’s values of liberalism and secularism. 
  <p class="updated_time"> 03:00 AM CT, Jun. 22 </p> 
@@ -140,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106863281/eric-greitens-says-his-rino-hunting-ad-was-meant-in-humor-how-will-voters-see-it">Eric Greitens says his RINO-hunting ad was meant in humor. How will voters see it?</a> NPR: Missouri candidate for U.S. Senate Eric Greitens says his recent controversial ad was supposed to be "humorous." The move might backfire if voters aren't up to the glorification of violence. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
@@ -172,8 +174,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658355/senate-negotiators-reach-a-final-bipartisan-agreement-on-a-gun-safety-bill">Senate negotiators reach a final bipartisan agreement on a gun safety bill</a> NPR: A bipartisan gun safety bill, poised to pass the Senate, could be the first major gun measure in decades. It's a narrow bill that President Biden supports, even though he wants it to go further. 
- <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106658320/morning-news-brief">News brief: gun legislation, Powell on Capitol Hill, 4th House Jan. 6 hearing</a> NPR: Senators reach a bipartisan deal on a gun safety bill. Fed chairman will testify before two congressional panels this week. Jan. 6 hearing shows how Trump pressured state officials on election tally. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
