@@ -9,6 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61898397?at_medium=RSS&at_campaign=KARANGA">As audiences return to Glastonbury and other festivals, will they cope?</a> BBC: After two years of cancellations, music fans could experience a mixture of relief and anxiety. 
+ <p class="updated_time"> 06:19 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/22/1106711204/polio-found-in-u-k-for-the-first-time-in-nearly-40-years-heres-what-it-means">Polio found in U.K. for the first time in nearly 40 years. Here's what it means</a> NPR: Scientists in Britain have detected multiple versions of the virus in wastewater. Officials say the risk to the public is extremely low and urge people to ensure their polio vaccines are up to date. 
+ <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">Refugees previously despatched to Rwanda now in Europe</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
+ <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
+ <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
+ <p class="updated_time"> 06:01 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: An EU summit will give the green light but Kyiv admits "real integration" will start after the war. 
+ <p class="updated_time"> 05:57 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61904522?at_medium=RSS&at_campaign=KARANGA">Twitter tests 'notes' feature with 2,500 word limit</a> BBC: The trial will allow some users to share "notes" beyond the normal 280-character limit for tweets. 
  <p class="updated_time"> 04:56 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
@@ -47,10 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
- <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
- <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
  <p class="updated_time"> 05:36 AM CT, Jun. 22 </p> 
@@ -61,10 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
- <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
- <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61890558?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Robb Elementary School to be demolished - mayor</a> BBC: A gunman killed 19 children and two teachers at Robb Elementary in May. 
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
@@ -79,16 +85,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
- <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of some goods to Russia's Kaliningrad region over EU sanctions. 
- <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
- <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
- <p class="updated_time"> 10:14 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
@@ -101,32 +99,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
- <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61862035?at_medium=RSS&at_campaign=KARANGA">Assam: India floods destroy millions of homes and dreams</a> BBC: Unprecedented rainfall and flooding have left behind a trail of death and destruction in Assam. 
- <p class="updated_time"> 06:18 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61631437?at_medium=RSS&at_campaign=KARANGA">Ghana's Pan African Heritage Museum seeks to reclaim Africa's history</a> BBC: A new museum in Ghana aims to tell the story of Africa using African voices, tools and culture. 
- <p class="updated_time"> 06:16 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61483491?at_medium=RSS&at_campaign=KARANGA">Could nuclear desalination plants beat water scarcity?</a> BBC: Engineers are developing mobile, floating nuclear desalination plants to help solve water shortages. 
- <p class="updated_time"> 06:12 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/61836019?at_medium=RSS&at_campaign=KARANGA">Thailand cannabis: From a war on drugs to weed curries</a> BBC: The country now has one of the world's most liberal marijuana regimes. How did that happen? 
  <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
  <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
- <p class="updated_time"> 03:50 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections">Israel coalition agrees to dissolve and hold early elections</a> NPR: In a joint statement released, Israeli Prime Minister Naftali Bennett and Foreign Minister Yair Lapid say they've agreed to hold a vote next week to dissolve parliament and hold early elections. 
- <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
- <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
- <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-61830923?at_medium=RSS&at_campaign=KARANGA">Global inflation: Five ways US rate rise will affect you</a> BBC: The impact of higher interest rates in the US will cascade through the global economy. 
- <p class="updated_time"> 06:22 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61781505?at_medium=RSS&at_campaign=KARANGA">In photos: Throwback to life on Indian streets</a> BBC: A selection of street pictures in India by some of the country's most acclaimed photographers. 
- <p class="updated_time"> 06:04 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61859595?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron a chastened and greatly weakened leader</a> BBC: The results confirm the French leader faces a tricky second term, our Paris correspondent writes. 
- <p class="updated_time"> 06:02 PM CT, Jun. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61845941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Band members reunite after fleeing invasion</a> BBC: The four members used to speak mostly Russian but now say they cannot use the language of their oppressors. 
 
 
 </details>
