@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
- <p class="updated_time"> 02:51 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 02:42 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
  <p class="updated_time"> 02:07 PM CT, Jun. 22 </p> 
@@ -140,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:40 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863239/the-jan-6-hearings-will-now-extend-into-july">The Jan. 6 hearings will now extend into July</a> NPR: Members of the Jan. 6 committee are pursuing additional witnesses and say they are receiving a lot of new evidence. Their public hearings are now going to extend into July. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
@@ -174,8 +176,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1105848096/jan-6-committee-hearing-transcript">Here's every word from the fourth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 21 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
- <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
