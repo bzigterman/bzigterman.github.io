@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:46 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 12:59 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61832987?at_medium=RSS&at_campaign=KARANGA">Covid vaccines are being rolled out to US children under 5</a> BBC: Some 17 million US children between six months and five years old are now eligible for Covid jabs. 
- <p class="updated_time"> 11:35 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
  <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
+ <p class="updated_time"> 09:52 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: Ranil Wickremesinghe laid the groundwork for potential austerity measures as his government negotiates with the International Monetary Fund, after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
  <p class="updated_time"> 09:25 AM CT, Jun. 22 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/great-barrier-reef-threatened-by-offshore-gas-project-lawsuit-says-11655906005">Great Barrier Reef Threatened by Offshore Gas Project, Lawsuit Says</a> WSJ: Woodside Energy, which plans to defend its project in court, says many countries need gas to reduce carbon emissions. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
- <p class="updated_time"> 04:23 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the International Monetary Fund after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
  <p class="updated_time"> 03:02 AM CT, Jun. 22 </p> 
@@ -138,6 +138,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
  <p class="updated_time"> 01:00 PM CT, Jun. 22 </p> 
@@ -168,8 +170,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
  <p class="updated_time"> 05:52 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. It's expected to have enough support to pass the Senate. 
- <p class="updated_time"> 05:34 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
