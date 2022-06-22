@@ -9,22 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:50 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
- <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and all-terrain vehicles on the US city's streets. 
- <p class="updated_time"> 04:24 AM CT, Jun. 22 </p> 
+ <p class="updated_time"> 07:11 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
+ <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: 1,000 people killed and 1,500 wounded, official says</a> BBC: The country's deadliest quake in two decades struck overnight as many people slept in their beds. 
+ <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
+ <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
+ <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
+ <p class="updated_time"> 03:09 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the IMF after months of rolling blackouts and double-digit inflation 
+ <p class="updated_time"> 03:02 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/burkini-swimsuits-banned-in-pools-in-french-city-amid-national-debate-11655899328">Burkini Swimsuits Banned in Pools in French City Amid National Debate</a> WSJ: A top French court ruled against allowing head-to-foot swimsuits at public pools in Grenoble, the latest move amid a debate over how to balance France’s values of liberalism and secularism 
+ <p class="updated_time"> 03:00 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/how-iran-tapped-international-banks-to-keep-its-economy-afloat-11655899201">How Iran Tapped International Banks to Keep Its Economy Afloat</a> WSJ: Global financial institutions handle transactions for Iran’s sanctioned companies, enabling Tehran to resist U.S. pressure, documents show. 
+ <p class="updated_time"> 02:50 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
+ <p class="updated_time"> 02:22 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russian Refinery Set Ablaze by Drone Crash</a> WSJ: A major Russian oil-and-gas refinery close to the Ukrainian border was set ablaze after a drone allegedly controlled by Kyiv’s forces crashed into it, according to local authorities and the plant’s management. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 01:59 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593">Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</a> WSJ: Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in. 
- <p class="updated_time"> 01:22 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
  <p class="updated_time"> 01:06 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Hundreds Killed in Afghanistan Earthquake</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed at least 920 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
+ <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 900</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed at least 900 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
@@ -43,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61802498?at_medium=RSS&at_campaign=KARANGA">How Russia has outflanked Ukraine in Africa</a> BBC: Many African leaders believe that a confrontational stance towards Russia is not in their interest. 
- <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: The former comedian must pay damages to Judy Huth after abusing her in 1975, a jury finds. 
  <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889951?at_medium=RSS&at_campaign=KARANGA">Shaye Moss: 'I don't want anyone knowing my name'</a> BBC: An ex-election worker tells the Capitol riot hearing she lives in fear after being targeted by Trump supporters. 
  <p class="updated_time"> 04:47 PM CT, Jun. 21 </p> 
@@ -63,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-61880159?at_medium=RSS&at_campaign=KARANGA">Heatwave: Americans face blistering temperatures</a> BBC: Dangerous and record heat is spreading across a large swathe of the US. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
- <p class="updated_time"> 11:18 AM CT, Jun. 21 </p> 
- <a href="https://www.wsj.com/articles/canada-to-compel-youtube-tiktok-and-streamers-to-boost-domestic-content-11655842727">Canada to Compel YouTube, TikTok and Streamers to Boost Domestic Content</a> WSJ: Canada approved legislation that targets what video- and audio-sharing platforms can broadcast to a Canadian audience, as the country follows in Europe’s footsteps in imposing a heftier regulatory burden on the digital sector. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61826551?at_medium=RSS&at_campaign=KARANGA">UN sexual abuse claims 'must be investigated'</a> BBC: Some staff who tried to expose alleged abuse and wrongdoing say they were penalised or even sacked. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
@@ -132,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Jun. 22 </p> 
+ <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
  <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
  <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
