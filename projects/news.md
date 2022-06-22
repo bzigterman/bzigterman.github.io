@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 1,000 people killed and 1,500 injured</a> BBC: The country's deadliest quake in two decades strikes in the night as many people sleep in their beds. 
  <p class="updated_time"> 08:30 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
- <p class="updated_time"> 08:18 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: 1,000 people killed and 1,500 wounded, official says</a> BBC: The country's deadliest quake in two decades struck overnight as many people slept in their beds. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
  <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
@@ -142,6 +142,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
  <p class="updated_time"> 07:52 AM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
  <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
@@ -172,8 +174,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106344831/recap-jan-6-committee-hearing">Trump team didn't have the evidence and 4 other takeaways from the Jan. 6 hearing</a> NPR: There were a number of eye-opening findings in the Jan. 6 committee's fourth hearing that showed the depth and breadth of Trump and his allies' pressure on local and state officials. 
  <p class="updated_time"> 04:07 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424770/activists-say-the-biden-administrations-latest-landmine-restrictions-arent-enoug">Activists say the Biden administration's latest landmine restrictions aren't enough</a> NPR: Around the world, landmines kill and injure thousands of people a year, most of them civilians. The Biden administration is restricting their use and continuing to help countries clear minefields. 
- <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
