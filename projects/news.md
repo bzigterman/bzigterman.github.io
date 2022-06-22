@@ -11,14 +11,20 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:32 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
+ <p class="updated_time"> 04:24 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. 
+ <p class="updated_time"> 01:06 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Hundreds Killed in Afghanistan Earthquake</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed at least 920 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61890577?at_medium=RSS&at_campaign=KARANGA">Swastika: Victoria bans display of Nazi symbol in Australian first</a> BBC: Victoria is the first state to outlaw the symbol, amid a rise in anti-Semitic incidents. 
+ <p class="updated_time"> 11:16 PM CT, Jun. 21 </p> 
+ <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 11:11 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890802?at_medium=RSS&at_campaign=KARANGA">Monkeypox: First Singapore case recorded in British flight attendant</a> BBC: The case is believed to be the first in south east Asia linked to the current monkeypox outbreak. 
  <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
@@ -27,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
  <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890558?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Robb Elementary School to be demolished - mayor</a> BBC: A gunman killed 19 children and two teachers at Robb Elementary in May. 
- <p class="updated_time"> 09:18 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61890453?at_medium=RSS&at_campaign=KARANGA">Canada MPs given panic buttons as threats increase</a> BBC: Politicians say intimidation and harassment is becoming increasingly common in Canada. 
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
@@ -136,6 +140,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658355/senate-negotiators-reach-a-final-bipartisan-agreement-on-a-gun-safety-bill">Senate negotiators reach a final bipartisan agreement on a gun safety bill</a> NPR: A bipartisan gun safety bill, poised to pass the Senate, could be the first major gun measure in decades. It's a narrow bill that President Biden supports, even though he wants it to go further. 
+ <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106658320/morning-news-brief">News brief: gun legislation, Powell on Capitol Hill, 4th House Jan. 6 hearing</a> NPR: Senators reach a bipartisan deal on a gun safety bill. Fed chairman will testify before two congressional panels this week. Jan. 6 hearing shows how Trump pressured state officials on election tally. 
  <p class="updated_time"> 04:00 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106642582/biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">Biden wants a gas tax holiday. Some economists say that's a bad idea</a> NPR: Biden wants Congress to give people a break on the federal gas tax for the summer. But economists say that won't translate into big savings at the pump — and could hurt efforts to curb inflation. 
  <p class="updated_time"> 07:47 PM CT, Jun. 21 </p> 
@@ -158,8 +164,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424763/unpacking-the-latest-jan-6-hearings">Unpacking the latest Jan. 6 hearings</a> NPR: NPR's Mary Louise Kelly speaks with Maryland Rep. Jamie Raskin, a Democrat, about the latest Jan. 6 hearings. 
- <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106424721/state-officials-and-election-workers-say-they-faced-pressure-to-overturn-2020-re">State officials and election workers say they faced pressure to overturn 2020 results</a> NPR: The House Jan. 6 committee heard testimony from state officials and election workers testifying about pressure from President Trump and his allies to overturn the results of the 2020 election. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
