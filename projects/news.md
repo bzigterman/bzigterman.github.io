@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
+ <p class="updated_time"> 02:05 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 01:46 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
- <p class="updated_time"> 12:59 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61832987?at_medium=RSS&at_campaign=KARANGA">Covid vaccines are being rolled out to US children under 5</a> BBC: Some 17 million US children between six months and five years old are now eligible for Covid jabs. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
- <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
  <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
