@@ -19,8 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
- <p class="updated_time"> 04:47 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Destroys Grain Terminal in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces destroyed at least one large grain terminal in the Ukrainian port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
+ <p class="updated_time"> 04:58 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
+ <p class="updated_time"> 04:53 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/great-barrier-reef-threatened-by-offshore-gas-project-lawsuit-says-11655906005">Great Barrier Reef Threatened by Offshore Gas Project, Lawsuit Says</a> WSJ: Woodside Energy says regulators have reviewed the project’s environmental impacts and that gas is part of a strategy to reduce emissions. 
  <p class="updated_time"> 04:47 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 04:23 AM CT, Jun. 22 </p> 
