@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
+ <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61832987?at_medium=RSS&at_campaign=KARANGA">Covid vaccines are being rolled out to US children under 5</a> BBC: Some 17 million US children between six months and five years old are now eligible for Covid jabs. 
  <p class="updated_time"> 11:35 AM CT, Jun. 22 </p> 
@@ -17,14 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
  <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
- <p class="updated_time"> 09:48 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
  <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
  <p class="updated_time"> 09:25 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 1,000 people killed and 1,500 injured</a> BBC: The country's deadliest quake in two decades strikes in the night as many people sleep in their beds. 
- <p class="updated_time"> 07:17 AM CT, Jun. 22 </p> 
+ <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
+ <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
  <p class="updated_time"> 06:49 AM CT, Jun. 22 </p> 
@@ -33,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
- <p class="updated_time"> 06:05 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
  <p class="updated_time"> 05:42 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/great-barrier-reef-threatened-by-offshore-gas-project-lawsuit-says-11655906005">Great Barrier Reef Threatened by Offshore Gas Project, Lawsuit Says</a> WSJ: Woodside Energy, which plans to defend its project in court, says many countries need gas to reduce carbon emissions. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
@@ -136,12 +138,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Jun. 22 </p> 
+ <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
+ <p class="updated_time"> 12:48 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
  <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
  <p class="updated_time"> 09:35 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
- <p class="updated_time"> 07:52 AM CT, Jun. 22 </p> 
- <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
  <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
  <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
@@ -166,8 +170,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
  <p class="updated_time"> 04:43 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106448660/trump-campaign-fake-electors-says-rep-adam-schiff">The Trump campaign tried to use fake electors, says Rep. Adam Schiff</a> NPR: Schiff details how Trump and his campaign "were directly involved in advancing and coordinating the plot to replace Biden electors with fake electors not chosen by the voters." 
- <p class="updated_time"> 04:32 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106344831/recap-jan-6-committee-hearing">Trump team didn't have the evidence and 4 other takeaways from the Jan. 6 hearing</a> NPR: There were a number of eye-opening findings in the Jan. 6 committee's fourth hearing that showed the depth and breadth of Trump and his allies' pressure on local and state officials. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
