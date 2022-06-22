@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, displacing communities and triggering landslides. 
+ <p class="updated_time"> 10:00 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61890617?at_medium=RSS&at_campaign=KARANGA">Australia to lift electricity market suspension as prices ease</a> BBC: New South Wales' eight million residents were urged last week to save electricity over shortage fears. 
+ <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61890558?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Robb Elementary School to be demolished - mayor</a> BBC: A gunman killed 19 children and two teachers at Robb Elementary in May. 
+ <p class="updated_time"> 09:36 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
+ <p class="updated_time"> 09:18 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61890453?at_medium=RSS&at_campaign=KARANGA">Canada MPs given panic buttons as threats increase</a> BBC: Politicians say intimidation and harassment is becoming increasingly common in Canada. 
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: Cosby must pay Judy Huth $500,000 (£407,000) in damages after abusing her in 1975, the jury finds. 
- <p class="updated_time"> 05:27 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: The election workers describe how the abuse by conspiracy theorists continues to upend their lives. 
  <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889951?at_medium=RSS&at_campaign=KARANGA">Shaye Moss: 'I don't want anyone knowing my name'</a> BBC: An ex-election worker tells the Capitol riot hearing she lives in fear after being targeted by Trump supporters. 
  <p class="updated_time"> 04:47 PM CT, Jun. 21 </p> 
@@ -23,12 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
- <p class="updated_time"> 02:49 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-merseyside-61872080?at_medium=RSS&at_campaign=KARANGA">Fans 'treated like animals' at Champions League final</a> BBC: Liverpool supporters accuse the French interior minister of lying about the behaviour of English fans. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
+ <p class="updated_time"> 02:08 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61857005?at_medium=RSS&at_campaign=KARANGA">Mining firm Glencore pleads guilty to UK bribery charges</a> BBC: One of the world’s biggest mining firms, Glencore, has again pleaded guilty to a series of corruption offences. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
+ <p class="updated_time"> 01:10 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-61880159?at_medium=RSS&at_campaign=KARANGA">Heatwave: Americans face blistering temperatures</a> BBC: Dangerous and record heat is spreading across a large swathe of the US. 
  <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Gunman could have been stopped within three minutes - safety official</a> BBC: Police could have stopped the Uvalde school shooting within three minutes, Texas's safety chief says. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
@@ -53,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
- <p class="updated_time"> 07:52 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61880709?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Billionaire's daughter cuts ties with her father</a> BBC: The tech billionaire's 18-year-old daughter has applied to legally change her name and gender. 
  <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
  <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
@@ -65,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 06:39 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/benjamin-netanyahu-gets-another-shot-to-lead-israel-possibly-his-last-11655825939">Netanyahu Gets Another Shot to Lead Israel, Possibly His Last</a> WSJ: Former prime minister Benjamin Netanyahu is seen as a strengthened candidate in likely elections given the government’s imminent collapse. 
- <p class="updated_time"> 05:40 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61879539?at_medium=RSS&at_campaign=KARANGA">Ben Stiller: Actor speaks about 'distressing' scenes on visit to Ukraine</a> BBC: The Hollywood actor visits the war-torn nation in his role as a UN goodwill ambassador. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
@@ -133,7 +139,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:04 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
  <p class="updated_time"> 05:52 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18-21 year olds, among other measures. It's expected to have enough support to pass the Senate. 
+ <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. It's expected to have enough support to pass the Senate. 
  <p class="updated_time"> 05:34 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time">Georgia officials fact-check an infamous Trump phone call in real time</a> NPR: Rep. Adam Schiff played clips of a recording in front of Georgia officials, pausing to ask them questions and fact-check the Trump's false claims in real time. 
  <p class="updated_time"> 04:43 PM CT, Jun. 21 </p> 
@@ -148,6 +154,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424763/unpacking-the-latest-jan-6-hearings">Unpacking the latest Jan. 6 hearings</a> NPR: NPR's Mary Louise Kelly speaks with Maryland Rep. Jamie Raskin, a Democrat, about the latest Jan. 6 hearings. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424721/state-officials-and-election-workers-say-they-faced-pressure-to-overturn-2020-re">State officials and election workers say they faced pressure to overturn 2020 results</a> NPR: The House Jan. 6 committee heard testimony from state officials and election workers testifying about pressure from President Trump and his allies to overturn the results of the 2020 election. 
+ <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
+ <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:07 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106413341/arizona-lawmaker-rusty-bowers-pressure-giuliani">Arizona lawmaker Rusty Bowers details the pressure put on him by Trump and Giuliani</a> NPR: Bowers testifies that Rudy Giuliani told him of allegations of voter fraud committed by undocumented immigrants or dead people who were listed as having voted. 
  <p class="updated_time"> 01:21 PM CT, Jun. 21 </p> 
