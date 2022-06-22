@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:32 AM CT, Jun. 22 </p> 
+ <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and all-terrain vehicles on the US city's streets. 
+ <p class="updated_time"> 05:29 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 920 people killed and 600 wounded, officials say</a> BBC: The quake struck overnight as many people slept in their beds, and was felt as far away as India. 
  <p class="updated_time"> 04:24 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106256033/pabllo-vittar-the-drag-queen-superstar-fighting-for-equality-in-brazil">Pabllo Vittar: The drag queen-superstar fighting for equality in Brazil </a> NPR: Pabllo Vittar is one of the biggest drag performers in the world. In her native Brazil, the LGBTQ icon uses her platform to fight for equality — and against injustice. 
  <p class="updated_time"> 03:32 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
- <p class="updated_time"> 11:25 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61871709?at_medium=RSS&at_campaign=KARANGA">French elections: Cleaner defeats former minister in parliamentary vote</a> BBC: Rachel Keke, a left-wing candidate in Paris, is the first cleaner to become an MP in France. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
  <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
