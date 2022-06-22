@@ -19,6 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
+ <p class="updated_time"> 06:49 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593">Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</a> WSJ: Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in. 
+ <p class="updated_time"> 06:28 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 06:05 AM CT, Jun. 22 </p> 
@@ -27,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/great-barrier-reef-threatened-by-offshore-gas-project-lawsuit-says-11655906005">Great Barrier Reef Threatened by Offshore Gas Project, Lawsuit Says</a> WSJ: Woodside Energy, which plans to defend its project in court, says many countries need gas to reduce carbon emissions. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
- <p class="updated_time"> 05:28 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 04:23 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the International Monetary Fund after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
- <p class="updated_time"> 01:59 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593">Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</a> WSJ: Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in. 
  <p class="updated_time"> 01:06 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 900</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed more than 900 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
