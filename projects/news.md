@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:24 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: At least 250 killed and scores wounded in Paktika province</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
+ <p class="updated_time"> 01:43 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 280 killed and scores wounded, says state media</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890453?at_medium=RSS&at_campaign=KARANGA">Canada MPs given panic buttons as threats increase</a> BBC: Politicians say intimidation and harassment is becoming increasingly common in Canada. 
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
+ <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61802498?at_medium=RSS&at_campaign=KARANGA">How Russia has outflanked Ukraine in Africa</a> BBC: Many African leaders believe that a confrontational stance towards Russia is not in their interest. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: The former comedian must pay damages to Judy Huth after abusing her in 1975, a jury finds. 
  <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
