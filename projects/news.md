@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
+ <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61890577?at_medium=RSS&at_campaign=KARANGA">Swastika: Victoria bans display of Nazi symbol in Australian first</a> BBC: Victoria is the first state to outlaw the symbol, amid a rise in anti-Semitic incidents. 
  <p class="updated_time"> 11:11 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890802?at_medium=RSS&at_campaign=KARANGA">Monkeypox: First Singapore case recorded in British flight attendant</a> BBC: The case is believed to be the first in south east Asia linked to the current monkeypox outbreak. 
  <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
- <p class="updated_time"> 10:00 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-61890617?at_medium=RSS&at_campaign=KARANGA">Australia to lift electricity market suspension as prices ease</a> BBC: New South Wales' eight million residents were urged last week to save electricity over shortage fears. 
  <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890558?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Robb Elementary School to be demolished - mayor</a> BBC: A gunman killed 19 children and two teachers at Robb Elementary in May. 
  <p class="updated_time"> 09:36 PM CT, Jun. 21 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774">Russia Pushes to Seize Chemical Plant in Severodonetsk</a> WSJ: Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 09:44 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61883529?at_medium=RSS&at_campaign=KARANGA">French burkini ban upheld as Grenoble loses legal challenge</a> BBC: Grenoble city council tried to approve the full-body swimsuits, but a high-level court says no. 
  <p class="updated_time"> 07:47 AM CT, Jun. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-faces-parliament-battle-over-pro-business-agenda-11655830062">France's Macron Faces Parliament Battle Over Pro-Business Agenda</a> WSJ: President Emmanuel Macron’s pro-business agenda appeared in jeopardy after France’s conservative party Les Républicains rejected the idea of an alliance with the French leader to form a majority in Parliament. 
  <p class="updated_time"> 07:20 AM CT, Jun. 21 </p> 
