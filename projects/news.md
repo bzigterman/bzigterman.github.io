@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 12:12 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: At least 250 killed and scores wounded in Paktika province</a> BBC: An earthquake in Afghanistan's Paktika province has killed at least 250 people, an official tells the BBC. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: At least 250 killed and scores wounded in Paktika province</a> BBC: The powerful quake struck overnight as people slept and was felt as far away as India. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
