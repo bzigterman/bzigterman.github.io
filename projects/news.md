@@ -126,6 +126,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:47 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1105848096/jan-6-committee-hearing-transcript">Here's every word from the fourth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 21 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
+ <p class="updated_time"> 07:19 PM CT, Jun. 21 </p> 
+ <a href="https://www.npr.org/2022/06/21/1106497953/congress-is-closer-than-it-has-been-in-decades-to-passing-new-gun-legislation">Congress is closer than it has been in decades to passing new gun legislation</a> NPR: A bipartisan group of senators came to a final agreement on a gun safety bill that could be the biggest breakthrough on the issue in decades of congressional gridlock. 
  <p class="updated_time"> 06:04 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
  <p class="updated_time"> 05:52 PM CT, Jun. 21 </p> 
@@ -152,10 +156,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106374559/stephen-colbert-staff-arrests-capitol-hill-triumph-puppet-robert-smigel">Here's how Stephen Colbert says his staff members got arrested on Capitol Hill</a> NPR: Some of Colbert's production staff were detained on Thursday while filming a puppet segment in a congressional building. He said it was a "simple story" that conservative media twisted. 
  <p class="updated_time"> 09:43 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1105348236/supreme-court-rules-maines-tuition-assistance-program-must-cover-religious-schoo">Supreme Court rules Maine's tuition assistance program must cover religious schools</a> NPR: The 6-3 opinion, which was along ideological lines, invalidates provisions in 37 state constitutions that ban the direct or indirect use of taxpayer money in religious schools. 
- <p class="updated_time"> 06:17 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106320837/jan-6-hearing-to-focus-on-efforts-to-pressure-states-to-block-election-certifica">Jan. 6 hearing to focus on efforts to pressure states to block election certification</a> NPR: On Tuesday, the House committee investigating the Jan. 6 attack on the Capitol will focus on former President Donald Trump's efforts to pressure state officials to overturn the 2020 election results. 
- <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
