@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:11 AM CT, Jun. 22 </p> 
+ <p class="updated_time"> 08:30 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
- <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
+ <p class="updated_time"> 08:18 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: 1,000 people killed and 1,500 wounded, official says</a> BBC: The country's deadliest quake in two decades struck overnight as many people slept in their beds. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
@@ -19,10 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
+ <p class="updated_time"> 04:23 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the International Monetary Fund after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
- <p class="updated_time"> 03:09 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: The country is in negotiations with the IMF after months of rolling blackouts and double-digit inflation 
  <p class="updated_time"> 03:02 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/burkini-swimsuits-banned-in-pools-in-french-city-amid-national-debate-11655899328">Burkini Swimsuits Banned in Pools in French City Amid National Debate</a> WSJ: A top French court ruled against allowing head-to-foot swimsuits at public pools in Grenoble, the latest move amid a debate over how to balance France’s values of liberalism and secularism 
  <p class="updated_time"> 03:00 AM CT, Jun. 22 </p> 
