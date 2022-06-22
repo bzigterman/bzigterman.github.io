@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, displacing communities and triggering landslides. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61878123?at_medium=RSS&at_campaign=KARANGA">Hundreds of thousands evacuated as floods ravage southern China</a> BBC: Record rainfall sees floodwaters reach a 50-year high, triggering landslides. 
  <p class="updated_time"> 10:00 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61890617?at_medium=RSS&at_campaign=KARANGA">Australia to lift electricity market suspension as prices ease</a> BBC: New South Wales' eight million residents were urged last week to save electricity over shortage fears. 
  <p class="updated_time"> 09:42 PM CT, Jun. 21 </p> 
@@ -22,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
  <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: Cosby must pay Judy Huth $500,000 (£407,000) in damages after abusing her in 1975, the jury finds. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61829113?at_medium=RSS&at_campaign=KARANGA">Bill Cosby assaulted teen at Playboy Mansion, jury finds</a> BBC: The former comedian must pay damages to Judy Huth after abusing her in 1975, a jury finds. 
  <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889951?at_medium=RSS&at_campaign=KARANGA">Shaye Moss: 'I don't want anyone knowing my name'</a> BBC: An ex-election worker tells the Capitol riot hearing she lives in fear after being targeted by Trump supporters. 
  <p class="updated_time"> 04:47 PM CT, Jun. 21 </p> 
@@ -36,11 +38,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:08 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61857005?at_medium=RSS&at_campaign=KARANGA">Mining firm Glencore pleads guilty to UK bribery charges</a> BBC: One of the world’s biggest mining firms, Glencore, has again pleaded guilty to a series of corruption offences. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of certain goods to Russia's Kaliningrad region over EU sanctions. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of some goods to Russia's Kaliningrad region over EU sanctions. 
  <p class="updated_time"> 01:10 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61880159?at_medium=RSS&at_campaign=KARANGA">Heatwave: Americans face blistering temperatures</a> BBC: Dangerous and record heat is spreading across a large swathe of the US. 
- <p class="updated_time"> 01:00 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61877914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Gunman could have been stopped within three minutes - safety official</a> BBC: Police could have stopped the Uvalde school shooting within three minutes, Texas's safety chief says. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
  <p class="updated_time"> 11:18 AM CT, Jun. 21 </p> 
