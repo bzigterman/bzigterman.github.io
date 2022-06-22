@@ -9,14 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
+ <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
+ <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
  <p class="updated_time"> 09:48 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
  <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
  <p class="updated_time"> 09:25 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 1,000 people killed and 1,500 injured</a> BBC: The country's deadliest quake in two decades strikes in the night as many people sleep in their beds. 
- <p class="updated_time"> 08:30 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
+ <p class="updated_time"> 07:17 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
  <p class="updated_time"> 06:57 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
  <p class="updated_time"> 06:49 AM CT, Jun. 22 </p> 
@@ -36,21 +42,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:59 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61889593?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Vote workers detail death threats</a> BBC: One woman, who Trump called a "hustler", said she was bombarded with death threats and racist abuse. 
  <p class="updated_time"> 03:02 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/burkini-swimsuits-banned-in-pools-in-french-city-amid-national-debate-11655899328">Burkini Swimsuits Banned in Pools in French City Amid National Debate</a> WSJ: A top French court ruled against allowing head-to-foot swimsuits at public pools in Grenoble, the latest move amid a debate over how to balance France’s values of liberalism and secularism 
+ <a href="https://www.wsj.com/articles/burkini-swimsuits-banned-in-pools-in-french-city-amid-national-debate-11655899328">Burkini Swimsuits Banned in Pools in French City Amid National Debate</a> WSJ: A top French court ruled against allowing head-to-foot swimsuits at public pools in Grenoble, the latest move amid a debate over how to balance France’s values of liberalism and secularism. 
  <p class="updated_time"> 03:00 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/how-iran-tapped-international-banks-to-keep-its-economy-afloat-11655899201">How Iran Tapped International Banks to Keep Its Economy Afloat</a> WSJ: Global financial institutions handle transactions for Iran’s sanctioned companies, enabling Tehran to resist U.S. pressure, documents show. 
  <p class="updated_time"> 02:50 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
- <p class="updated_time"> 01:06 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 900</a> WSJ: A 5.9-magnitude earthquake in Afghanistan has killed more than 900 people and injured many more. Officials warned that the casualty number could increase and the Taliban has asked foreign aid agencies for help. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
- <p class="updated_time"> 11:55 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61890577?at_medium=RSS&at_campaign=KARANGA">Swastika: Victoria bans display of Nazi symbol in Australian first</a> BBC: Victoria is the first state to outlaw the symbol, amid a rise in anti-Semitic incidents. 
- <p class="updated_time"> 11:11 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890802?at_medium=RSS&at_campaign=KARANGA">Monkeypox: First Singapore case recorded in British flight attendant</a> BBC: The case is believed to be the first in south east Asia linked to the current monkeypox outbreak. 
  <p class="updated_time"> 10:50 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 10:18 PM CT, Jun. 21 </p> 
@@ -71,12 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
- <p class="updated_time"> 02:08 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-61857005?at_medium=RSS&at_campaign=KARANGA">Mining firm Glencore pleads guilty to UK bribery charges</a> BBC: One of the world’s biggest mining firms, Glencore, has again pleaded guilty to a series of corruption offences. 
  <p class="updated_time"> 01:46 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61878929?at_medium=RSS&at_campaign=KARANGA">Kaliningrad: Russia warns Lithuania of consequences over rail transit blockade</a> BBC: Lithuania banned the transit of some goods to Russia's Kaliningrad region over EU sanctions. 
- <p class="updated_time"> 01:10 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61880159?at_medium=RSS&at_campaign=KARANGA">Heatwave: Americans face blistering temperatures</a> BBC: Dangerous and record heat is spreading across a large swathe of the US. 
  <p class="updated_time"> 12:07 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61885581?at_medium=RSS&at_campaign=KARANGA">'World’s biggest' freshwater fish found in Mekong, Cambodia</a> BBC: The biggest freshwater fish ever documented, weighing in at 300kg (661lb), is found in the Mekong river in Cambodia. 
  <p class="updated_time"> 10:52 AM CT, Jun. 21 </p> 
@@ -87,22 +83,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61884627?at_medium=RSS&at_campaign=KARANGA">South Korea successfully launches its first satellites into space</a> BBC: The country's first launch failed to put a dummy satellite into orbit in October 2021. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 07:18 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61878122?at_medium=RSS&at_campaign=KARANGA">Tangshan: Chinese police deputy dismissed over attack on female diners</a> BBC: The police were criticised for their handling of a case which has shocked people in China. 
  <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
- <p class="updated_time"> 03:17 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61871373?at_medium=RSS&at_campaign=KARANGA">COP15: UN biodiversity summit moved from China to Canada</a> BBC: The summit had been repeatedly postponed due to the Covid situation in China 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
  <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
- <p class="updated_time"> 10:31 PM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61875394?at_medium=RSS&at_campaign=KARANGA">Berta Cáceres: Ex-dam boss jailed for planning Honduran activist's murder</a> BBC: Berta Cáceres led protests against a dam project in Honduras before being shot dead in her home. 
  <p class="updated_time"> 06:47 PM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-61875351?at_medium=RSS&at_campaign=KARANGA">Ben Stiller meets Zelensky in Kyiv as ambassador for UN refugee agency</a> BBC: The actor has been a Goodwill ambassador for the United Nations refugee agency (UNHCR) since 2016. 
  <p class="updated_time"> 06:25 PM CT, Jun. 20 </p> 
@@ -127,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106255991/more-than-200-civilians-have-reportedly-been-killed-in-an-ethnic-attack-in-ethio">More than 200 civilians have reportedly been killed in an ethnic attack in Ethiopia</a> NPR: There are reports of an attack in the Ethiopia's Oromia region leading to scores of deaths. Yet details of what happened are hard to verify. 
  <p class="updated_time"> 09:06 AM CT, Jun. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61838781?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: Why Belgium is returning a Congolese hero's golden tooth</a> BBC: All that remains of Congo's murdered leader Patrice Lumumba is handed to his family in Brussels. 
- <p class="updated_time"> 12:34 AM CT, Jun. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61860618?at_medium=RSS&at_campaign=KARANGA">Chinese tornado rips through buildings and power cables</a> BBC: A tornado has severely damaged buildings, cars and infrastructure in the southern Chinese city Foshan. 
  <p class="updated_time"> 06:36 PM CT, Jun. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61837134?at_medium=RSS&at_campaign=KARANGA">How bulldozers became a vehicle of injustice in India</a> BBC: Critics say India's ruling government is using bulldozers to intimidate the minority Muslim community. 
  <p class="updated_time"> 06:27 PM CT, Jun. 19 </p> 
