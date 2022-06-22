@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:10 PM CT, Jun. 22 </p> 
+ <p class="updated_time"> 02:51 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
+ <p class="updated_time"> 02:42 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61899467?at_medium=RSS&at_campaign=KARANGA">President Biden urges petrol tax 'holiday' as fuel prices bite</a> BBC: Analysts say suspending the tax would do little to lower costs for people at the pump. 
+ <p class="updated_time"> 02:07 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61902014?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Security concerns after police station attack</a> BBC: The country's interior minister denounces "radical" activists after the clashes in the town of Puyo. 
  <p class="updated_time"> 02:05 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61890403?at_medium=RSS&at_campaign=KARANGA">US gun control: Bill clears first hurdle in US Senate</a> BBC: The landmark bill is said to be the most significant new gun control legislation in a generation. 
  <p class="updated_time"> 01:46 PM CT, Jun. 22 </p> 
@@ -23,12 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
  <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
+ <p class="updated_time"> 10:24 AM CT, Jun. 22 </p> 
+ <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 09:52 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: Ranil Wickremesinghe laid the groundwork for potential austerity measures as his government negotiates with the International Monetary Fund, after months of rolling blackouts and double-digit inflation. 
  <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
- <p class="updated_time"> 09:25 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61890804?at_medium=RSS&at_campaign=KARANGA">Afghan earthquake: At least 1,000 people killed and 1,500 injured</a> BBC: The country's deadliest quake in two decades strikes in the night as many people sleep in their beds. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
@@ -37,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61887753?at_medium=RSS&at_campaign=KARANGA">White House unveils plans to reduce nicotine in cigarettes</a> BBC: The plan could dramatically reduce cancer deaths - a goal of President Joe Biden's administration. 
  <p class="updated_time"> 06:49 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593">Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</a> WSJ: Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in. 
- <p class="updated_time"> 06:28 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/saudi-crown-princes-visit-to-turkey-marks-turning-point-after-khashoggi-killing-11655885788">Saudi Crown Prince's Visit to Turkey Marks Turning Point After Khashoggi Killing</a> WSJ: Saudi Crown Prince Mohammed bin Salman is looking to end years of international isolation that nearly jeopardized his grip on power, ahead of a trip by President Biden to the kingdom. 
  <p class="updated_time"> 06:12 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891462?at_medium=RSS&at_campaign=KARANGA">Half Russian separatist force dead or wounded - UK</a> BBC: UK military intelligence believes the Donetsk militia in occupied Ukraine has lost 55% of its force. 
  <p class="updated_time"> 05:42 AM CT, Jun. 22 </p> 
@@ -138,6 +140,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Jun. 22 </p> 
+ <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
  <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
@@ -168,8 +172,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106497953/congress-is-closer-than-it-has-been-in-decades-to-passing-new-gun-legislation">Congress is closer than it has been in decades to passing new gun legislation</a> NPR: A bipartisan group of senators came to a final agreement on a gun safety bill that could be the biggest breakthrough on the issue in decades of congressional gridlock. 
  <p class="updated_time"> 06:04 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106460324/school-meal-waivers-expire-bill">School meal waivers expire in 9 days. After axing them, Congress may try to save them</a> NPR: A group of lawmakers have agreed on a measure that would extend the school meal waivers that helped schools and families during the pandemic. 
- <p class="updated_time"> 05:52 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106466279/senators-reach-final-bipartisan-agreement-on-a-gun-safety-bill">Senators reach final bipartisan agreement on a gun safety bill</a> NPR: The bill would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. It's expected to have enough support to pass the Senate. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 03:23 PM CT, Jun. 20 </p> 
