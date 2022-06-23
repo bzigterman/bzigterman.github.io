@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 04:53 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children killed in disaster, doctors say</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
- <p class="updated_time"> 04:33 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country has triggered the "alarm" stage of its emergency gas plan after drop in Russia supplies. 
- <p class="updated_time"> 03:59 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Rescuers struggling to reach survivors in Paktika</a> BBC: Heavy rain, threadbare resources and rugged terrain hamper rescuers after a quake killed 1,000 people. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An advisor to Mr Zelensky says the battle for two key Donbas cities has reached a 'fearsome climax'. 
  <p class="updated_time"> 02:12 AM CT, Jun. 23 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106966946/morning-news-brief">News brief: 5th Jan. 6 hearing, Afghanistan quake, G7 and NATO preview</a> NPR: The Jan. 6 hearing will outline pressure on the DOJ to help overturn the election. The death toll continues to climb after the earthquake in Afghanistan. President Biden will attend the G7 summit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106863016/who-youll-hear-from-and-what-to-expect-in-todays-jan-6-house-committee-hearing">Who you'll hear from and what to expect in today's Jan. 6 House committee hearing</a> NPR: In its fifth hearing, the select committee investigating the insurrection will outline Trump's pressure on Department of Justice officials to overturn the 2020 election in his favor. 
  <p class="updated_time"> 05:02 PM CT, Jun. 22 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
  <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106459556/shaye-moss-staffed-an-election-office-in-georgia-then-she-was-targeted-by-trump">Shaye Moss staffed an election office in Georgia. Then she was targeted by Trump</a> NPR: Former Georgia election worker Shaye Moss testified at the Jan. 6 committee hearing Tuesday about the attacks she and her family received when Trump and Giuliani targeted them with false accusations. 
- <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
