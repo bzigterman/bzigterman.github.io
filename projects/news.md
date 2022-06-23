@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 09:47 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court reverses New York gun law</a> BBC: In a win for gun rights advocates, the Supreme Court has found that New York's 'proper clause' rules violate the US constitution 
+ <p class="updated_time"> 09:47 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 09:11 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Nigerian politician and wife charged with child organ-harvesting plot</a> BBC: Ike Ekweremadu and Beatrice Nwanneka Ekweremadu will appear at Uxbridge Magistrates' Court later. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
@@ -33,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 05:09 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279">Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</a> WSJ: Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting. 
- <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 03:42 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-gas-sales-to-china-dry-up-as-ukraine-war-disrupts-energy-trade-11655988154">U.S. Natural Gas Sales to China Dry Up</a> WSJ: In a redirection of flows because of the Ukraine war, America is selling more to Europe, while Russia is becoming more dependent on sales to China. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
@@ -51,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795">Pope's Wariness of U.S.-Dominated World Shapes Russia, China Stances</a> WSJ: Pope Francis’ reluctance to condemn without qualification Russia’s aggression against a sovereign nation state has raised eyebrows within and far beyond the Catholic Church. 
  <p class="updated_time"> 12:30 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-courts-central-asian-nations-to-combat-potential-terrorism-from-afghanistan-11655976600">U.S. Courts Central Asian Nations to Combat Potential Terrorism From Afghanistan</a> WSJ: The U.S. is stepping carefully into an area that Russia regards as its backyard, a senior American military leader said. 
- <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61904979?at_medium=RSS&at_campaign=KARANGA">Bodies of murdered priests and tour guide found in Mexico</a> BBC: Two Jesuit priests were murdered in their church trying to shelter a man hiding from an armed gang. 
  <p class="updated_time"> 07:06 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904976?at_medium=RSS&at_campaign=KARANGA">Maradona: Medical staff to be tried for football legend's death</a> BBC: A judge orders a culpable homicide trial for eight people, including the footballer's family doctor. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
