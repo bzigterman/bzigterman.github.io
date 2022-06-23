@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
+ <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
  <p class="updated_time"> 02:57 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914167?at_medium=RSS&at_campaign=KARANGA">Netflix cuts 300 more jobs after subscriptions fall</a> BBC: In April the streaming giant reported its first subscriber loss in more than a decade. 
  <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
  <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
- <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
 
 
 </details>
@@ -110,6 +110,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151077/trump-tried-to-use-the-doj-in-his-effort-to-overturn-election-ex-doj-officials-s">Trump tried to use the DOJ in his effort to overturn election, ex-DOJ officials said</a> NPR: The House Jan. 6 committee held a hearing Thursday with testimony from former DOJ officials on how Donald Trump tried to use the department to spread false claims about election fraud. 
+ <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
+ <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151049/former-doj-officials-testify-before-jan-6-committee">Former DOJ officials testify before Jan. 6 committee</a> NPR: NPR's Ailsa Chang talks with former Department of Defense special counsel and New York University law professor Ryan Goodman about the Jan. 6 committee's fifth public hearing on Capitol Hill Thursday. 
  <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">The House extended a school meal lifeline; families are now waiting on the Senate</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
  <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
@@ -134,14 +140,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863281/eric-greitens-says-his-rino-hunting-ad-was-meant-in-humor-how-will-voters-see-it">Eric Greitens says his RINO-hunting ad was meant in humor. How will voters see it?</a> NPR: Missouri candidate for U.S. Senate Eric Greitens says his recent controversial ad was supposed to be "humorous." The move might backfire if voters aren't up to the glorification of violence. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:40 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863239/the-jan-6-hearings-will-now-extend-into-july">The Jan. 6 hearings will now extend into July</a> NPR: Members of the Jan. 6 committee are pursuing additional witnesses and say they are receiving a lot of new evidence. Their public hearings are now going to extend into July. 
- <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863190/white-house-economic-adviser-defends-bidens-gas-tax-holiday">White House economic adviser defends Biden's gas tax holiday</a> NPR: NPR's Mary Louise Kelly talks with Cecilia Rouse, who chairs the White House Council of Economic Advisers, about Biden calling on Congress to suspend the federal gas tax. 
 
 
 </details>
