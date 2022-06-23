@@ -25,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61914167?at_medium=RSS&at_campaign=KARANGA">Netflix cuts 300 more jobs after subscriptions fall</a> BBC: In April the streaming giant reported its first subscriber loss in more than a decade. 
  <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
+ <p class="updated_time"> 01:52 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-becomes-an-official-eu-membership-candidate-11656009059">Ukraine Becomes an Official EU Membership Candidate</a> WSJ: The decision was agreed to by European Union leaders at a summit in Brussels and fulfills one of Ukrainian President Volodymyr Zelensky’s biggest requests of European countries. 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
- <p class="updated_time"> 09:58 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-becomes-an-official-eu-membership-candidate-11656009059">Ukraine Becomes an Official EU Membership Candidate</a> WSJ: The decision was agreed to by European Union leaders at a summit in Brussels and fulfills one of Ukrainian President Volodymyr Zelensky’s biggest requests of European countries. 
  <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
