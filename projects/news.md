@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
+ <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106963492/survivors-dig-by-hand-after-afghanistan-quake-killing-1-000">Survivors dig by hand after Afghanistan quake killing 1,000</a> NPR: The disaster inflicted by the quake heaps more misery on a country where millions face increasing hunger and poverty and the health system has been crumbling since the Taliban retook power last year. 
+ <p class="updated_time"> 12:57 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/sport/swimming/61906249?at_medium=RSS&at_campaign=KARANGA">World Aquatics Championships: US artistic swimmer Anita Alvarez rescued by coach after fainting in pool</a> BBC: American artistic swimmer Anita Alvarez is rescued from the bottom of the pool by her coach after fainting at the World Aquatics Championships. 
  <p class="updated_time"> 11:22 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
  <p class="updated_time"> 08:36 PM CT, Jun. 22 </p> 
@@ -47,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61902014?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Security concerns after police station attack</a> BBC: The country's interior minister denounces "radical" activists after the clashes in the town of Puyo. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
- <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61832987?at_medium=RSS&at_campaign=KARANGA">Covid vaccines are being rolled out to US children under 5</a> BBC: Some 17 million US children between six months and five years old are now eligible for Covid jabs. 
  <p class="updated_time"> 12:03 PM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-calls-for-compromise-after-losing-majority-in-parliament-11655931464">Macron Calls for Compromise After Losing Majority in French Parliament</a> WSJ: President Emmanuel Macron said he was open to building an alliance with other parties, in his first televised address since the election. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
  <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
  <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
- <p class="updated_time"> 05:11 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu">Israel's prime minister is stepping down, sparking a new round of elections</a> NPR: Prime Minister Naftali Bennett says he will step down, bringing Israel to its fifth round of elections in just over three years. It comes as former leader Benjamin Netanyahu tries to return to power. 
 
 
 </details>
