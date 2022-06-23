@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the US high court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 12:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: The EU will give the green light on Thursday but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
- <p class="updated_time"> 11:07 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US high court decision on a concealed firearms law comes amid an intense debate over gun rights. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
  <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-protections-sexual-assault-campus">Biden administration moves to expand Title IX protections regarding sexual misconduct</a> NPR: The administration proposed a dramatic overhaul of campus sexual assault rules, acting to expand protections for LGBTQ students, and widen colleges' responsibilities in addressing sexual misconduct. 
  <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
  <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
- <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
