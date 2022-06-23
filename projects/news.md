@@ -25,14 +25,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
+ <p class="updated_time"> 03:42 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-gas-sales-to-china-dry-up-as-ukraine-war-disrupts-energy-trade-11655988154">U.S. Natural Gas Sales to China Dry Up</a> WSJ: In a redirection of flows because of the Ukraine war, America is selling more to Europe, while Russia is becoming more dependent on sales to China. 
+ <p class="updated_time"> 03:10 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/china-fires-official-for-abusing-covid-tracking-codes-to-thwart-protesters-11655986238">China Fires Official for Abusing Covid-Tracking Codes to Thwart Protesters</a> WSJ: In the central city of Zhengzhou, two officials in charge of pandemic control switched the health codes of more than a thousand bank customers to color red to thwart protests over alleged bank fraud. 
+ <p class="updated_time"> 03:05 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">Europe's Economy Slows Sharply as Recession Risks Grow</a> WSJ: The region's economy suffered in June as surging prices of energy and food weakened demand for other goods and services, business surveys showed. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An advisor to Mr Zelensky says the battle for two key Donbas cities has reached a 'fearsome climax'. 
+ <p class="updated_time"> 02:22 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukrainian Forces Cede Ground in Weekslong Battle for Severodonetsk</a> WSJ: Russians forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106963492/survivors-dig-by-hand-after-afghanistan-quake-killing-1-000">Survivors dig by hand after Afghanistan quake killing 1,000</a> NPR: The disaster inflicted by the quake heaps more misery on a country where millions face increasing hunger and poverty and the health system has been crumbling since the Taliban retook power last year. 
  <p class="updated_time"> 12:57 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/61906249?at_medium=RSS&at_campaign=KARANGA">World Aquatics Championships: US artistic swimmer Anita Alvarez rescued by coach after fainting in pool</a> BBC: American artistic swimmer Anita Alvarez is rescued from the bottom of the pool by her coach after fainting at the World Aquatics Championships. 
+ <p class="updated_time"> 12:33 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795">Pope's Wariness of U.S.-Dominated World Shapes Russia, China Stances</a> WSJ: Pope Francis’ reluctance to condemn without qualification Russia’s aggression against a sovereign nation state has raised eyebrows within and far beyond the Catholic Church. 
  <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904979?at_medium=RSS&at_campaign=KARANGA">Bodies of murdered priests and tour guide found in Mexico</a> BBC: Two Jesuit priests were murdered in their church trying to shelter a man hiding from an armed gang. 
  <p class="updated_time"> 07:06 PM CT, Jun. 22 </p> 
@@ -59,24 +69,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
- <p class="updated_time"> 12:03 PM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-calls-for-compromise-after-losing-majority-in-parliament-11655931464">Macron Calls for Compromise After Losing Majority in French Parliament</a> WSJ: President Emmanuel Macron said he was open to building an alliance with other parties, in his first televised address since the election. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
  <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
- <p class="updated_time"> 09:52 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: Ranil Wickremesinghe laid the groundwork for potential austerity measures as his government negotiates with the International Monetary Fund, after months of rolling blackouts and double-digit inflation. 
- <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
- <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950">Russia Hits Grain Terminals in Latest Attack on Ukraine's Food Infrastructure</a> WSJ: Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
- <p class="updated_time"> 05:36 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002">How Singapore Got Its Manufacturing Mojo Back</a> WSJ: The city-state courted high-tech production to become a rare wealthy country to reverse its factory downturn, but that has come by automating away many jobs. “It’s skills-intensive, it’s not labor-intensive.” 
- <p class="updated_time"> 02:50 AM CT, Jun. 22 </p> 
- <a href="https://www.wsj.com/articles/britains-inflation-crisis-deepens-fueling-strike-action-11655893332">Britain's Inflation Crisis Deepens, Fueling Strike Action</a> WSJ: Inflation in the U.K. rose to a fresh four-decade high, darkening the country’s economic prospects at a time of mounting worker unrest and growing disaffection with the government. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
