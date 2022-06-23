@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
+ <p class="updated_time"> 07:06 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61904976?at_medium=RSS&at_campaign=KARANGA">Maradona: Medical staff to be tried for football legend's death</a> BBC: A judge orders a culpable homicide trial for eight people, including the footballer's family doctor. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
@@ -33,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
- <p class="updated_time"> 03:47 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
  <p class="updated_time"> 02:42 PM CT, Jun. 22 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
  <p class="updated_time"> 09:52 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-prime-minister-says-economy-faces-complete-collapse-11655899756">Sri Lanka's Prime Minister Says Economy Faces 'Complete Collapse'</a> WSJ: Ranil Wickremesinghe laid the groundwork for potential austerity measures as his government negotiates with the International Monetary Fund, after months of rolling blackouts and double-digit inflation. 
- <p class="updated_time"> 09:36 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61897052?at_medium=RSS&at_campaign=KARANGA">Client jailed for sexually assaulting Alibaba worker</a> BBC: The woman was assaulted after being made to drink on a work trip, and then fired after going public. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263">Earthquake in Afghanistan Kills at Least 1,000</a> WSJ: The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster. 
  <p class="updated_time"> 08:48 AM CT, Jun. 22 </p> 
