@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
  <p class="updated_time"> 04:50 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
@@ -22,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:57 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914167?at_medium=RSS&at_campaign=KARANGA">Netflix cuts 300 more jobs after subscriptions fall</a> BBC: In April the streaming giant reported its first subscriber loss in more than a decade. 
  <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment...Ukraine's future is within the EU." 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
@@ -103,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
- <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
 
 
 </details>
@@ -126,6 +126,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151049/former-doj-officials-testify-before-jan-6-committee">Former DOJ officials testify before Jan. 6 committee</a> NPR: NPR's Ailsa Chang talks with former Department of Defense special counsel and New York University law professor Ryan Goodman about the Jan. 6 committee's fifth public hearing on Capitol Hill Thursday. 
+ <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
+ <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
  <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">The House extended a school meal lifeline; families are now waiting on the Senate</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
  <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
@@ -144,6 +146,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106967037/boyfriend-loophole-senate-bipartisan-gun-safety-bill-domestic-abuse">The Senate gun bill would close the 'boyfriend loophole.' Here's what that means</a> NPR: Federal law prevents some convicted domestic abusers from owning a gun, depending on their relationship to the victim. The new gun safety bill would expand that definition to include dating partners. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
+ <a href="https://www.cnn.com/2022/06/22/politics/roe-abortion-prosecution-tactics/index.html">How abortion bans could be enforced if Roe v. Wade is reversed</a> CNN: If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce such bans and whether the anti-abortion movement would stick to its public emphasis on protecting abortion-seekers themselves from prosecution. 
 
 
 </details>
