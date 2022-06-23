@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western brands leave the country. 
+ <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
  <p class="updated_time"> 11:07 AM CT, Jun. 23 </p> 
