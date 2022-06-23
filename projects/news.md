@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President of the European Council Charles Michel announces the "crucial step" towards membership. 
+ <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was 215lbs (98kg) and nearly 18ft long (5 meters) - and was pregnant with 122 eggs. 
  <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the US high court is expected to allow more people to carry guns legally. 
- <p class="updated_time"> 12:10 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: The EU will give the green light on Thursday but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914166?at_medium=RSS&at_campaign=KARANGA">Juul: US bans all products from leading vaping company</a> BBC: Authorities say they do not have enough data to be sure Juul's e-cigarettes meet health standards. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
+ <p class="updated_time"> 09:20 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
- <p class="updated_time"> 07:21 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
  <p class="updated_time"> 05:09 AM CT, Jun. 23 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
- <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
 
 
 </details>
@@ -115,7 +115,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
  <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-protections-sexual-assault-campus">Biden administration moves to expand Title IX protections regarding sexual misconduct</a> NPR: The administration proposed a dramatic overhaul of campus sexual assault rules, acting to expand protections for LGBTQ students, and widen colleges' responsibilities in addressing sexual misconduct. 
+ <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-victim-protections-discrimination">Biden's Title IX reforms would roll back Trump-era rules, expand victim protections</a> NPR: The administration proposed an overhaul of regulations to expand protections for LGBTQI+ students and require schools to respond to all sexual discrimination complaints. 
  <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates New York's requirement for people to show "proper cause" to get public carry gun licenses. 
  <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
