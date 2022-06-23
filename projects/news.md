@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:30 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Rescuers struggling to reach survivors in Paktika</a> BBC: Heavy rain, threadbare resources and rugged terrain hamper rescuers after a quake killed 1,000 people. 
  <p class="updated_time"> 02:12 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106963492/survivors-dig-by-hand-after-afghanistan-quake-killing-1-000">Survivors dig by hand after Afghanistan quake killing 1,000</a> NPR: The disaster inflicted by the quake heaps more misery on a country where millions face increasing hunger and poverty and the health system has been crumbling since the Taliban retook power last year. 
  <p class="updated_time"> 12:57 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/61906249?at_medium=RSS&at_campaign=KARANGA">World Aquatics Championships: US artistic swimmer Anita Alvarez rescued by coach after fainting in pool</a> BBC: American artistic swimmer Anita Alvarez is rescued from the bottom of the pool by her coach after fainting at the World Aquatics Championships. 
- <p class="updated_time"> 08:36 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904979?at_medium=RSS&at_campaign=KARANGA">Bodies of murdered priests and tour guide found in Mexico</a> BBC: Two Jesuit priests were murdered in their church trying to shelter a man hiding from an armed gang. 
  <p class="updated_time"> 08:18 PM CT, Jun. 22 </p> 
