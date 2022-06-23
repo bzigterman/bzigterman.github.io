@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: The EU will give the green light on Thursday but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
@@ -19,8 +21,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
- <p class="updated_time"> 10:05 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 08:10 AM CT, Jun. 23 </p> 
