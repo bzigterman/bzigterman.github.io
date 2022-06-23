@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61918430?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: No food, no shelter and fears of cholera</a> BBC: Secunder Kermani reports from Paktika, Afghanistan, where one survivor says he lost 20 relatives. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
@@ -27,8 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5 meters) - and was pregnant with an astonishing 122 eggs. 
- <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
+ <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
  <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
@@ -110,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
  <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151112/a-breakdown-of-how-the-jan-6-panel-has-made-its-hearings-so-easy-to-follow">A breakdown of how the Jan. 6 panel has made its hearings so easy to follow</a> NPR: The panel investigating Jan. 6 has been accused of engaging in show biz with its TV storytelling techniques. Instead, those tricks of the trade are making the hearings tangible and easy to follow. 
  <p class="updated_time"> 04:09 PM CT, Jun. 23 </p> 
@@ -138,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106967037/boyfriend-loophole-senate-bipartisan-gun-safety-bill-domestic-abuse">The Senate gun bill would close the 'boyfriend loophole.' Here's what that means</a> NPR: Federal law prevents some convicted domestic abusers from owning a gun, depending on their relationship to the victim. The new gun safety bill would expand that definition to include dating partners. 
- <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106966946/morning-news-brief">News brief: 5th Jan. 6 hearing, Afghanistan quake, G7 and NATO preview</a> NPR: The Jan. 6 hearing will outline pressure on the DOJ to help overturn the election. The death toll continues to climb after the earthquake in Afghanistan. President Biden will attend the G7 summit. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
