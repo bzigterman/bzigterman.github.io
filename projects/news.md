@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
+ <p class="updated_time"> 04:33 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country has triggered the "alarm" stage of its emergency gas plan after drop in Russia supplies. 
  <p class="updated_time"> 03:59 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Rescuers struggling to reach survivors in Paktika</a> BBC: Heavy rain, threadbare resources and rugged terrain hamper rescuers after a quake killed 1,000 people. 
+ <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An advisor to Mr Zelensky says the battle for two key Donbas cities has reached a 'fearsome climax'. 
  <p class="updated_time"> 02:12 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
@@ -37,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
  <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
- <p class="updated_time"> 06:01 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 04:56 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
- <p class="updated_time"> 02:07 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61902014?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Security concerns after police station attack</a> BBC: The country's interior minister denounces "radical" activists after the clashes in the town of Puyo. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 12:03 PM CT, Jun. 22 </p> 
