@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:36 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 11:07 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US Supreme Court has struck down a New York law limiting the right to carry concealed handguns. 
+ <p class="updated_time"> 11:06 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike to make full exit from Russia</a> BBC: Russia's economic isolation deepens as more Western brands leave the country. 
+ <p class="updated_time"> 11:03 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a child to the UK for organ-harvesting. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 10:05 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
- <p class="updated_time"> 09:58 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike to make full exit from Russia</a> BBC: Russia's economic isolation deepens as more Western brands leave the country. 
- <p class="updated_time"> 09:11 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Nigerian politician and wife charged with child organ-harvesting plot</a> BBC: Ike Ekweremadu and Beatrice Nwanneka Ekweremadu will appear at Uxbridge Magistrates' Court later. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 08:10 AM CT, Jun. 23 </p> 
@@ -35,10 +35,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 07:00 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
- <p class="updated_time"> 05:28 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 05:09 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279">Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</a> WSJ: Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting. 
  <p class="updated_time"> 03:42 AM CT, Jun. 23 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-protections-sexual-assault-campus">Biden administration moves to expand Title IX protections regarding sexual misconduct</a> NPR: The administration proposed a dramatic overhaul of campus sexual assault rules, acting to expand protections for LGBTQ students, and widen colleges' responsibilities in addressing sexual misconduct. 
  <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates New York's requirement for people to show "proper cause" to get public carry gun licenses. 
  <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
- <p class="updated_time"> 12:48 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
