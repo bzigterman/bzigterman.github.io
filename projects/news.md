@@ -11,14 +11,14 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 05:17 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 05:12 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed pro-democracy leader, who is 77, was arrested after a military coup last year. 
  <p class="updated_time"> 04:53 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children killed in disaster, doctors say</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An advisor to Mr Zelensky says the battle for two key Donbas cities has reached a 'fearsome climax'. 
- <p class="updated_time"> 02:12 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
