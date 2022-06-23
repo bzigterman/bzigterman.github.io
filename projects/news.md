@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court reverses New York gun law</a> BBC: In a win for gun rights advocates, the Supreme Court has found that New York's 'proper clause' rules violate the US constitution 
- <p class="updated_time"> 09:47 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US Supreme Court has struck down a New York law limiting the right to carry concealed handguns. 
+ <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
+ <p class="updated_time"> 10:05 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 09:11 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Nigerian politician and wife charged with child organ-harvesting plot</a> BBC: Ike Ekweremadu and Beatrice Nwanneka Ekweremadu will appear at Uxbridge Magistrates' Court later. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
- <p class="updated_time"> 08:21 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 08:10 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
  <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
@@ -138,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863190/white-house-economic-adviser-defends-bidens-gas-tax-holiday">White House economic adviser defends Biden's gas tax holiday</a> NPR: NPR's Mary Louise Kelly talks with Cecilia Rouse, who chairs the White House Council of Economic Advisers, about Biden calling on Congress to suspend the federal gas tax. 
  <p class="updated_time"> 02:49 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
- <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
- <a href="https://www.cnn.com/2022/06/22/politics/roe-abortion-prosecution-tactics/index.html">How abortion bans could be enforced if Roe v. Wade is reversed</a> CNN: If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce such bans and whether the anti-abortion movement would stick to its public emphasis on protecting abortion-seekers themselves from prosecution. 
  <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
@@ -148,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
  <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
- <p class="updated_time"> 02:45 PM CT, Jun. 21 </p> 
- <a href="https://www.cnn.com/2022/06/21/politics/sonia-sotomayor-conservative-supreme-court/index.html">Justice Sonia Sotomayor continues her warnings of a dramatic conservative turn at the Supreme Court </a> CNN: Justice Sonia Sotomayor made crystal clear on Tuesday that she believes the conservatives on the Supreme Court -- including three of President Donald Trump's nominees -- are set to move the country sharply to the right by eviscerating or ignoring decades of precedent on issues that most divide the public. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
