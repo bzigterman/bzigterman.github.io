@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 06:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive Oval Office showdown with Trump and justice department lawyers. 
+ <p class="updated_time"> 06:10 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61909617?at_medium=RSS&at_campaign=KARANGA">World's lowest parachute jump attempt</a> BBC: Former paratrooper, John Bream, jumped from 85 ft (26m) in order to claim the title. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
  <p class="updated_time"> 04:50 PM CT, Jun. 23 </p> 
@@ -31,8 +37,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
+ <p class="updated_time"> 01:34 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/russias-welcome-at-brics-summit-shows-disconnect-with-west-11656020361">Russia's Welcome at Brics Summit Shows Disconnect With West</a> WSJ: The difficulty of U.S.-led efforts to ostracize Moscow is highlighted as Russian President Vladimir Putin participates in his highest-profile international gathering since the invasion of Ukraine. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5 meters) - and was pregnant with an astonishing 122 eggs. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
  <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
@@ -43,10 +51,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
+ <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
- <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
@@ -67,10 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106963492/survivors-dig-by-hand-after-afghanistan-quake-killing-1-000">Survivors dig by hand after Afghanistan quake killing 1,000</a> NPR: The disaster inflicted by the quake heaps more misery on a country where millions face increasing hunger and poverty and the health system has been crumbling since the Taliban retook power last year. 
- <p class="updated_time"> 12:33 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795">Pope's Wariness of U.S.-Dominated World Shapes Russia, China Stances</a> WSJ: Pope Francis’ reluctance to condemn without qualification Russia’s aggression against a sovereign nation state has raised eyebrows within and far beyond the Catholic Church. 
- <p class="updated_time"> 12:30 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-courts-central-asian-nations-to-combat-potential-terrorism-from-afghanistan-11655976600">U.S. Courts Central Asian Nations to Combat Potential Terrorism From Afghanistan</a> WSJ: The U.S. is stepping carefully into an area that Russia regards as its backyard, a senior American military leader said. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
@@ -112,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript">Here's every word from the fifth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 23 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
  <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
@@ -142,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
  <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
- <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106967037/boyfriend-loophole-senate-bipartisan-gun-safety-bill-domestic-abuse">The Senate gun bill would close the 'boyfriend loophole.' Here's what that means</a> NPR: Federal law prevents some convicted domestic abusers from owning a gun, depending on their relationship to the victim. The new gun safety bill would expand that definition to include dating partners. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
