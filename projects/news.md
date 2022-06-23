@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:17 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 06:08 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 05:56 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children killed in disaster, doctors say</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 05:12 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed pro-democracy leader, who is 77, was arrested after a military coup last year. 
- <p class="updated_time"> 04:53 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children killed in disaster, doctors say</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966946/morning-news-brief">News brief: 5th Jan. 6 hearing, Afghanistan quake, G7 and NATO preview</a> NPR: The Jan. 6 hearing will outline pressure on the DOJ to help overturn the election. The death toll continues to climb after the earthquake in Afghanistan. President Biden will attend the G7 summit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 23 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
  <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
- <p class="updated_time"> 04:15 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106459556/shaye-moss-staffed-an-election-office-in-georgia-then-she-was-targeted-by-trump">Shaye Moss staffed an election office in Georgia. Then she was targeted by Trump</a> NPR: Former Georgia election worker Shaye Moss testified at the Jan. 6 committee hearing Tuesday about the attacks she and her family received when Trump and Giuliani targeted them with false accusations. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
