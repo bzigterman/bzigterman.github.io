@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Jun. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
  <p class="updated_time"> 08:36 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Taliban appeal for international aid</a> BBC: A 6.1 magnitude quake kills at least 1,000 people in the south-east, injuring hundreds more. 
  <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
  <p class="updated_time"> 02:07 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61902014?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Security concerns after police station attack</a> BBC: The country's interior minister denounces "radical" activists after the clashes in the town of Puyo. 
- <p class="updated_time"> 01:46 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61892389?at_medium=RSS&at_campaign=KARANGA">Saudi crown prince visits Turkey for first time since Khashoggi murder</a> BBC: President Erdogan and Crown Prince Mohammed want to repair ties damaged by Jamal Khashoggi's killing. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 12:19 PM CT, Jun. 22 </p> 
