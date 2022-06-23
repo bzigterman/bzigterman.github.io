@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:08 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 08:21 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
+ <p class="updated_time"> 08:10 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
+ <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106994140/sri-lankan-prime-minister-says-nations-economy-has-collapsed">Sri Lankan prime minister says that the nation's economy has collapsed</a> NPR: Sri Lanka's debt-laden economy has "collapsed" after months of shortages of food, fuel and electricity, the prime minister told lawmakers Wednesday. 
+ <p class="updated_time"> 08:02 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61912715?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Gyan clinic with five beds for 500 injured patients</a> BBC: A worker at the only health clinic in Gyan in Paktika province, tells the BBC how they were overwhelmed. 
+ <p class="updated_time"> 07:52 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed civilian leader, who is 77, was arrested after a military coup last year. 
+ <p class="updated_time"> 07:50 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
+ <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
- <p class="updated_time"> 05:56 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children killed in disaster, doctors say</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
- <p class="updated_time"> 05:12 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed pro-democracy leader, who is 77, was arrested after a military coup last year. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
@@ -27,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/swimming/61906249?at_medium=RSS&at_campaign=KARANGA">World Aquatics Championships: US artistic swimmer Anita Alvarez rescued by coach after fainting in pool</a> BBC: American artistic swimmer Anita Alvarez is rescued from the bottom of the pool by her coach after fainting at the World Aquatics Championships. 
  <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904979?at_medium=RSS&at_campaign=KARANGA">Bodies of murdered priests and tour guide found in Mexico</a> BBC: Two Jesuit priests were murdered in their church trying to shelter a man hiding from an armed gang. 
- <p class="updated_time"> 08:18 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61904096?at_medium=RSS&at_campaign=KARANGA">Uvalde school shooting: Embattled police chief is put on leave</a> BBC: Pete Arredondo has been blamed for the botched response to the attack which saw 19 children killed. 
  <p class="updated_time"> 07:06 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904976?at_medium=RSS&at_campaign=KARANGA">Maradona: Medical staff to be tried for football legend's death</a> BBC: A judge orders a culpable homicide trial for eight people, including the footballer's family doctor. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
@@ -36,15 +42,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61898397?at_medium=RSS&at_campaign=KARANGA">As audiences return to Glastonbury and other festivals, will they cope?</a> BBC: After two years of cancellations, music fans could experience a mixture of relief and anxiety. 
  <p class="updated_time"> 06:19 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/22/1106711204/polio-found-in-u-k-for-the-first-time-in-nearly-40-years-heres-what-it-means">Polio found in U.K. for the first time in nearly 40 years. Here's what it means</a> NPR: Scientists in Britain have detected multiple versions of the virus in wastewater. Officials say the risk to the public is extremely low and urge people to ensure their polio vaccines are up to date. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/22/1106711204/polio-found-in-u-k-for-the-first-time-in-nearly-40-years-heres-what-it-means">Polio is found in the U.K. for the first time in nearly 40 years. Here's what it means</a> NPR: Scientists in Britain have detected multiple versions of the virus in wastewater. Officials say the risk to the public is extremely low and urge people to ensure their polio vaccines are up to date. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">Refugees previously despatched to Rwanda now in Europe</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
  <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
- <p class="updated_time"> 04:56 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
@@ -103,10 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106321671/major-stations-across-the-uk-are-deserted-as-a-rail-strike-begins">Major stations across the U.K. are deserted as a rail strike begins</a> NPR: More strikes are planned later this week in a rail dispute over pay, working conditions and job security. 
  <p class="updated_time"> 01:29 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106318498/660-pounds-scientists-says-worlds-largest-freshwater-fish-is-found-in-cambodia">World's largest freshwater fish, almost 660 pounds, is found in Cambodia</a> NPR: Scientists say a fisherman caught a giant stingray that measured almost 13 feet from snout to tail in the Mekong River. 
- <p class="updated_time"> 10:43 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106313824/japan-court-ban-on-same-sex-marriage-constitutional">Japan court says ban on same-sex marriage is constitutional</a> NPR: The Osaka court ruling underscores how divisive the issue remains in Japan, the only member of the Group of Seven major industrialized nations that does not recognize same-sex unions. 
- <p class="updated_time"> 05:51 PM CT, Jun. 20 </p> 
- <a href="https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes">Hong Kong's iconic Jumbo Floating Restaurant capsizes at sea</a> NPR: The iconic restaurant capsized in the South China Sea less than a week after it was towed away from the city. 
 
 
 </details>
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
  <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
@@ -134,22 +136,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863190/white-house-economic-adviser-defends-bidens-gas-tax-holiday">White House economic adviser defends Biden's gas tax holiday</a> NPR: NPR's Mary Louise Kelly talks with Cecilia Rouse, who chairs the White House Council of Economic Advisers, about Biden calling on Congress to suspend the federal gas tax. 
  <p class="updated_time"> 02:49 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
+ <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
+ <a href="https://www.cnn.com/2022/06/22/politics/roe-abortion-prosecution-tactics/index.html">How abortion bans could be enforced if Roe v. Wade is reversed</a> CNN: If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce such bans and whether the anti-abortion movement would stick to its public emphasis on protecting abortion-seekers themselves from prosecution. 
  <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 01:23 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
- <p class="updated_time"> 01:00 PM CT, Jun. 22 </p> 
- <a href="https://www.cnn.com/2022/06/22/politics/alabama-virginia-georgia-dc-primary-takeaways/index.html">4 takeaways from Tuesday's elections in Alabama, Virginia, Georgia and DC</a> CNN: Alabama Republican voters sided with the Senate candidate who had former President Donald Trump's endorsement in a primary runoff Tuesday over one of Trump's earlier and most loyal supporters, settling a feud that has roiled the political and right-wing media world in recent weeks. 
  <p class="updated_time"> 12:48 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
  <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
  <p class="updated_time"> 09:35 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
- <p class="updated_time"> 06:17 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106658327/president-biden-wants-a-gas-tax-holiday-some-economists-say-thats-a-bad-idea">President Biden wants a gas tax holiday. Some economists say that's a bad idea </a> NPR: Inflation is the top issue for voters as fall's midterm elections near. Biden wants Congress to suspend the gas tax until the end of September in a bid to give consumers some relief. 
- <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
- <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
+ <p class="updated_time"> 02:45 PM CT, Jun. 21 </p> 
+ <a href="https://www.cnn.com/2022/06/21/politics/sonia-sotomayor-conservative-supreme-court/index.html">Justice Sonia Sotomayor continues her warnings of a dramatic conservative turn at the Supreme Court </a> CNN: Justice Sonia Sotomayor made crystal clear on Tuesday that she believes the conservatives on the Supreme Court -- including three of President Donald Trump's nominees -- are set to move the country sharply to the right by eviscerating or ignoring decades of precedent on issues that most divide the public. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
