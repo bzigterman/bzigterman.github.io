@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was 215lbs (98kg) and nearly 18ft long (5 meters) - and was pregnant with 122 eggs. 
  <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the US high court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 12:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">Ukrainians wait for EU summit decision on candidacy</a> BBC: The EU will give the green light on Thursday but Kyiv says "real integration" will start after the war. 
+ <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61914166?at_medium=RSS&at_campaign=KARANGA">Juul: US bans all products from leading vaping company</a> BBC: Authorities say they do not have enough data to be sure Juul's e-cigarettes meet health standards. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
@@ -21,10 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
+ <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
- <p class="updated_time"> 08:10 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61904095?at_medium=RSS&at_campaign=KARANGA">Rupert Murdoch and Jerry Hall to split - reports</a> BBC: After six years of marriage, the media tycoon and model will divorce, US media reports. 
  <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106994140/sri-lankan-prime-minister-says-nations-economy-has-collapsed">Sri Lankan prime minister says that the nation's economy has collapsed</a> NPR: Sri Lanka's debt-laden economy has "collapsed" after months of shortages of food, fuel and electricity, the prime minister told lawmakers Wednesday. 
  <p class="updated_time"> 08:02 AM CT, Jun. 23 </p> 
@@ -37,14 +41,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
  <p class="updated_time"> 07:21 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
- <p class="updated_time"> 07:00 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
  <p class="updated_time"> 05:09 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279">Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</a> WSJ: Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting. 
- <p class="updated_time"> 03:42 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-gas-sales-to-china-dry-up-as-ukraine-war-disrupts-energy-trade-11655988154">U.S. Natural Gas Sales to China Dry Up</a> WSJ: In a redirection of flows because of the Ukraine war, America is selling more to Europe, while Russia is becoming more dependent on sales to China. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An adviser to Mr Zelensky says the battle for two key Donbas cities has reached a "fearsome climax". 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
@@ -108,6 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">The House extended a school meal lifeline; families are now waiting on the Senate</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
+ <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107089638/federal-authorities-searched-former-justice-official-jeff-clarks-home">Federal authorities searched former Justice official Jeff Clark's home</a> NPR: Federal authorities on Wednesday searched the home of former Justice official Jeff Clark, who is expected to feature prominently in today's Jan. 6 committee hearing 
  <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
  <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
@@ -136,10 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863239/the-jan-6-hearings-will-now-extend-into-july">The Jan. 6 hearings will now extend into July</a> NPR: Members of the Jan. 6 committee are pursuing additional witnesses and say they are receiving a lot of new evidence. Their public hearings are now going to extend into July. 
  <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863190/white-house-economic-adviser-defends-bidens-gas-tax-holiday">White House economic adviser defends Biden's gas tax holiday</a> NPR: NPR's Mary Louise Kelly talks with Cecilia Rouse, who chairs the White House Council of Economic Advisers, about Biden calling on Congress to suspend the federal gas tax. 
- <p class="updated_time"> 02:49 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106778807/commanders-owner-launched-shadow-investigation-detract-probe">Commanders owner launched a 'shadow investigation' to detract from probe, says panel </a> NPR: The House Committee on Oversight and Reform found that Daniel Snyder conducted a "shadow investigation" to detract from another internal probe into the football organization. 
- <p class="updated_time"> 01:43 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106756322/marilynn-malerba-us-treasurer-native-american">Marilynn Malerba could soon be the first Native American to serve as U.S. treasurer</a> NPR: Malerba, the lifetime chief of the Mohegan Indian Tribe, would be the first Native woman to have her signature on U.S. currency. She'd also lead the Treasury's new Office of Tribal and Native Affairs. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
