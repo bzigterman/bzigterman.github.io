@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
+ <p class="updated_time"> 02:01 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President of the European Council Charles Michel announces the "crucial step" towards membership. 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
+ <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was 215lbs (98kg) and nearly 18ft long (5 meters) - and was pregnant with 122 eggs. 
  <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the US high court is expected to allow more people to carry guns legally. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914166?at_medium=RSS&at_campaign=KARANGA">Juul: US bans all products from leading vaping company</a> BBC: Authorities say they do not have enough data to be sure Juul's e-cigarettes meet health standards. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
