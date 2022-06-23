@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court reverses New York gun law</a> BBC: In a win for gun rights advocates, the Supreme Court has found that New York's 'proper clause' rules violate the US constitution 
+ <p class="updated_time"> 09:11 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Nigerian politician and wife charged with child organ-harvesting plot</a> BBC: Ike Ekweremadu and Beatrice Nwanneka Ekweremadu will appear at Uxbridge Magistrates' Court later. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 08:21 AM CT, Jun. 23 </p> 
@@ -25,14 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 05:28 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
+ <p class="updated_time"> 05:09 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279">Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</a> WSJ: Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting. 
  <p class="updated_time"> 04:37 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU leaders to back Ukraine as candidate at Brussels summit</a> BBC: A summit on Thursday will give the green light but Kyiv says "real integration" will start after the war. 
- <p class="updated_time"> 04:23 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279">Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</a> WSJ: Russia’s invasion has hit some of the most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting. 
  <p class="updated_time"> 03:42 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-gas-sales-to-china-dry-up-as-ukraine-war-disrupts-energy-trade-11655988154">U.S. Natural Gas Sales to China Dry Up</a> WSJ: In a redirection of flows because of the Ukraine war, America is selling more to Europe, while Russia is becoming more dependent on sales to China. 
- <p class="updated_time"> 03:05 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">Europe's Economy Slows Sharply as Recession Risks Grow</a> WSJ: The region's economy suffered in June as surging prices of energy and food weakened demand for other goods and services, business surveys showed. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An adviser to Mr Zelensky says the battle for two key Donbas cities has reached a "fearsome climax". 
  <p class="updated_time"> 02:22 AM CT, Jun. 23 </p> 
@@ -45,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/swimming/61906249?at_medium=RSS&at_campaign=KARANGA">World Aquatics Championships: US artistic swimmer Anita Alvarez rescued by coach after fainting in pool</a> BBC: American artistic swimmer Anita Alvarez is rescued from the bottom of the pool by her coach after fainting at the World Aquatics Championships. 
  <p class="updated_time"> 12:33 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795">Pope's Wariness of U.S.-Dominated World Shapes Russia, China Stances</a> WSJ: Pope Francis’ reluctance to condemn without qualification Russia’s aggression against a sovereign nation state has raised eyebrows within and far beyond the Catholic Church. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-courts-central-asian-nations-to-combat-potential-terrorism-from-afghanistan-11655976600">U.S. Courts Central Asian Nations to Combat Potential Terrorism From Afghanistan</a> WSJ: The U.S. is stepping carefully into an area that Russia regards as its backyard, a senior American military leader said. 
  <p class="updated_time"> 08:32 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61904979?at_medium=RSS&at_campaign=KARANGA">Bodies of murdered priests and tour guide found in Mexico</a> BBC: Two Jesuit priests were murdered in their church trying to shelter a man hiding from an armed gang. 
  <p class="updated_time"> 07:06 PM CT, Jun. 22 </p> 
@@ -73,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
- <p class="updated_time"> 10:56 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-61898437?at_medium=RSS&at_campaign=KARANGA">Fears for US woman's life as abortion denied in Malta</a> BBC: Andrea's pregnancy is no longer viable but doctors cannot intervene unless she goes into labour or develops sepsis. 
  <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
  <p class="updated_time"> 02:18 AM CT, Jun. 22 </p> 
@@ -112,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates the state's requirement for people to show "proper cause" to get public carry licenses. 
  <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
  <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
@@ -144,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
  <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
- <p class="updated_time"> 09:35 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106671572/south-dakota-attorney-general-ravnsborg-boever-pedestrian-impeach">South Dakota AG removed from post after hitting and killing a pedestrian</a> NPR: State Attorney General Jason Ravnsborg was impeached and removed from office by South Dakota lawmakers for crimes and wrongdoings before and after fatally hitting Joe Boever on a highway shoulder. 
  <p class="updated_time"> 02:45 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/sonia-sotomayor-conservative-supreme-court/index.html">Justice Sonia Sotomayor continues her warnings of a dramatic conservative turn at the Supreme Court </a> CNN: Justice Sonia Sotomayor made crystal clear on Tuesday that she believes the conservatives on the Supreme Court -- including three of President Donald Trump's nominees -- are set to move the country sharply to the right by eviscerating or ignoring decades of precedent on issues that most divide the public. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
