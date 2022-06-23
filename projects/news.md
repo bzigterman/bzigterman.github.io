@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 10:36 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US Supreme Court has struck down a New York law limiting the right to carry concealed handguns. 
+ <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 10:05 AM CT, Jun. 23 </p> 
@@ -85,14 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
- <p class="updated_time"> 06:15 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61877422?at_medium=RSS&at_campaign=KARANGA">Ankur Warikoo, Rachana Ranade: The YouTubers Indians turn to for financial advice</a> BBC: Finance YouTubers are riding high as millions turn to them for advice and brands seek collaborations. 
- <p class="updated_time"> 06:12 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61802498?at_medium=RSS&at_campaign=KARANGA">How Russia has outflanked Ukraine in Africa</a> BBC: Many African leaders believe that a confrontational stance towards Russia is not in their interest. 
- <p class="updated_time"> 04:49 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61889951?at_medium=RSS&at_campaign=KARANGA">Shaye Moss: 'I don't want anyone knowing my name'</a> BBC: An ex-election worker tells the Capitol riot hearing she lives in fear after being targeted by Trump supporters. 
- <p class="updated_time"> 04:47 PM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61804777?at_medium=RSS&at_campaign=KARANGA">Supreme Court: What happens if Roe v Wade overturned?</a> BBC: Abortion restrictions could vary widely by state if the 50-year-old landmark ruling is reversed. 
  <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
@@ -103,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
  <p class="updated_time"> 09:55 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106280226/belgium-colonialism-democratic-republic-congo-lumumba-tooth">Belgium returned a single tooth to the Congo this week. Here's why</a> NPR: Patrice Lumumba was the first democratically elected prime minister of the Congo, and was assassinated in a Belgian-supported coup. Can the return of his remains help them reconcile over colonialism? 
- <p class="updated_time"> 07:05 AM CT, Jun. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61789443?at_medium=RSS&at_campaign=KARANGA">The woman who could upend US abortion rights</a> BBC: Lynn Fitch says she wants to empower women. Her next step is to repeal Roe v Wade. 
  <p class="updated_time"> 05:30 AM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/21/1106292966/the-tale-of-a-distressed-american-town-on-the-doorstep-of-a-natural-paradise">The tale of a distressed American town on the doorstep of a natural paradise</a> NPR: The town of Orick sits just steps away from Redwood National Park. It has prime real estate for recreation and tourism, so why are its motels and restaurants shuttered and its residents impoverished? 
  <p class="updated_time"> 03:34 AM CT, Jun. 21 </p> 
@@ -122,6 +114,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
  <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
+ <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106967037/boyfriend-loophole-senate-bipartisan-gun-safety-bill-domestic-abuse">The Senate gun bill would close the 'boyfriend loophole.' Here's what that means</a> NPR: Federal law prevents some convicted domestic abusers from owning a gun, depending on their relationship to the victim. The new gun safety bill would expand that definition to include dating partners. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966946/morning-news-brief">News brief: 5th Jan. 6 hearing, Afghanistan quake, G7 and NATO preview</a> NPR: The Jan. 6 hearing will outline pressure on the DOJ to help overturn the election. The death toll continues to climb after the earthquake in Afghanistan. President Biden will attend the G7 summit. 
  <p class="updated_time"> 04:00 AM CT, Jun. 23 </p> 
@@ -146,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106735608/powell-says-recession-a-possibility-but-not-likely">Powell says recession 'a possibility' but not likely</a> NPR: Federal Reserve chairman Jerome Powell vowed to bring inflation back down to 2%. Some lawmakers worry the Fed's efforts to control inflation could tip the economy into recession. 
  <p class="updated_time"> 12:48 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106762904/jan-6-hearings-july">Jan. 6 hearings will continue into July</a> NPR: The House select committee investigating the Jan. 6 Capitol riot is extending the timetable for its public hearings into July. 
- <p class="updated_time"> 12:08 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106744416/floridas-former-democratic-rising-star-andrew-gillum-is-indicted">Florida's former Democratic "rising star", Andrew Gillum, is indicted</a> NPR: The federal indictment alleges that the former Tallahassee mayor conspired to commit wire fraud, by soliciting and obtaining funds using false and fraudulent promises between 2016 and 2019. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
  <a href="https://www.cnn.com/2022/06/19/politics/boyfriend-loophole-gun-negotiations-congress/index.html">Here's what you need to know about the 'boyfriend loophole' holding up gun safety negotiations</a> CNN: "It's now or never." 
 
