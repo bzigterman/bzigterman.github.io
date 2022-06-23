@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western brands leave the country. 
+ <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
  <p class="updated_time"> 11:07 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US Supreme Court has struck down a New York law limiting the right to carry concealed handguns. 
- <p class="updated_time"> 11:06 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike to make full exit from Russia</a> BBC: Russia's economic isolation deepens as more Western brands leave the country. 
- <p class="updated_time"> 11:03 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a child to the UK for organ-harvesting. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The US high court decision on a concealed firearms law comes amid an intense debate over gun rights. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
@@ -35,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
+ <p class="updated_time"> 07:21 AM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 07:00 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-sharply-as-recession-risks-grow-11655979342">U.S., European Economies Slow Sharply as Recession Risks Grow</a> WSJ: Business surveys point to declining U.S. and eurozone manufacturing output and weaker services growth as price rises hit households. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-s-gas-sales-to-china-dry-up-as-ukraine-war-disrupts-energy-trade-11655988154">U.S. Natural Gas Sales to China Dry Up</a> WSJ: In a redirection of flows because of the Ukraine war, America is selling more to Europe, while Russia is becoming more dependent on sales to China. 
  <p class="updated_time"> 02:45 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61906509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming to 'destroy' Donbas, Zelensky says</a> BBC: An adviser to Mr Zelensky says the battle for two key Donbas cities has reached a "fearsome climax". 
- <p class="updated_time"> 02:22 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
