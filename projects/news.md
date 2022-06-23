@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
@@ -22,9 +24,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was 215lbs (98kg) and nearly 18ft long (5 meters) - and was pregnant with 122 eggs. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5 meters) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 12:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
+ <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914166?at_medium=RSS&at_campaign=KARANGA">Juul: US bans all products from leading vaping company</a> BBC: Authorities say they do not have enough data to be sure Juul's e-cigarettes meet health standards. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
@@ -35,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
- <p class="updated_time"> 10:03 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 09:58 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraine-becomes-an-official-eu-membership-candidate-11656009059">Ukraine Becomes an Official EU Membership Candidate</a> WSJ: The decision was agreed to by European Union leaders at a summit in Brussels and fulfills one of Ukrainian President Volodymyr Zelensky’s biggest requests of European countries. 
  <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
  <p class="updated_time"> 02:13 PM CT, Jun. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-61889523?at_medium=RSS&at_campaign=KARANGA">Bangladesh: Deadly floods leave millions displaced</a> BBC: At least 32 people have been killed following heavy downpours that triggered flooding in the country. 
- <p class="updated_time"> 10:45 AM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106367928/us-landmine-ban-trump-korea-ukraine-russia-ottowa-treaty">U.S. military reinstitutes its landmine ban — except for Korea</a> NPR: The White House announced Tuesday that it would restrict use of the weapons, aligning the country's policy more closely — though not fully — with an international treaty banning the deadly explosives. 
 
 
 </details>
@@ -110,6 +110,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151112/a-breakdown-of-how-the-jan-6-panel-has-made-its-hearings-so-easy-to-follow">A breakdown of how the Jan. 6 panel has made its hearings so easy to follow</a> NPR: The panel investigating Jan. 6 has been accused of engaging in show biz with its TV storytelling techniques. Instead, those tricks of the trade are making the hearings tangible and easy to follow. 
+ <p class="updated_time"> 04:09 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107178582/doj-jan-6-committee-trump-election-fraud-claims">DOJ officials pushed back on Trump's baseless election fraud claims</a> NPR: About a week before the Jan. 6 attack, there was an "escalation" of then-President Donald Trump's demands about election fraud allegations, a former acting deputy attorney general testified. 
+ <p class="updated_time"> 04:06 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107151091/the-senate-might-have-set-up-passage-for-significant-gun-legislation">The Senate might have set up passage for significant gun legislation</a> NPR: The Senate cleared a key threshold Thursday, setting up passage of the first significant gun legislation in decades. 
  <p class="updated_time"> 03:47 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151077/trump-tried-to-use-the-doj-in-his-effort-to-overturn-election-ex-doj-officials-s">Trump tried to use the DOJ in his effort to overturn election, ex-DOJ officials said</a> NPR: The House Jan. 6 committee held a hearing Thursday with testimony from former DOJ officials on how Donald Trump tried to use the department to spread false claims about election fraud. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
@@ -134,12 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106967037/boyfriend-loophole-senate-bipartisan-gun-safety-bill-domestic-abuse">The Senate gun bill would close the 'boyfriend loophole.' Here's what that means</a> NPR: Federal law prevents some convicted domestic abusers from owning a gun, depending on their relationship to the victim. The new gun safety bill would expand that definition to include dating partners. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966946/morning-news-brief">News brief: 5th Jan. 6 hearing, Afghanistan quake, G7 and NATO preview</a> NPR: The Jan. 6 hearing will outline pressure on the DOJ to help overturn the election. The death toll continues to climb after the earthquake in Afghanistan. President Biden will attend the G7 summit. 
- <p class="updated_time"> 04:00 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106863016/who-youll-hear-from-and-what-to-expect-in-todays-jan-6-house-committee-hearing">Who you'll hear from and what to expect in today's Jan. 6 House committee hearing</a> NPR: In its fifth hearing, the select committee investigating the insurrection will outline Trump's pressure on Department of Justice officials to overturn the 2020 election in his favor. 
- <p class="updated_time"> 05:02 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863281/eric-greitens-says-his-rino-hunting-ad-was-meant-in-humor-how-will-voters-see-it">Eric Greitens says his RINO-hunting ad was meant in humor. How will voters see it?</a> NPR: Missouri candidate for U.S. Senate Eric Greitens says his recent controversial ad was supposed to be "humorous." The move might backfire if voters aren't up to the glorification of violence. 
- <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
