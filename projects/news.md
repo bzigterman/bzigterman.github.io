@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:30 AM CT, Jun. 23 </p> 
+ <p class="updated_time"> 03:59 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Rescuers struggling to reach survivors in Paktika</a> BBC: Heavy rain, threadbare resources and rugged terrain hamper rescuers after a quake killed 1,000 people. 
  <p class="updated_time"> 02:12 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61905276?at_medium=RSS&at_campaign=KARANGA">New Tesla factories losing billions of dollars, Musk says</a> BBC: Elon Musk said the Covid-19 lockdown in Shanghai was "very difficult" for the electric car maker. 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106863016/who-youll-hear-from-and-what-to-expect-in-todays-jan-6-house-committee-hearing">Who you'll hear from and what to expect in today's Jan. 6 House committee hearing</a> NPR: In its fifth hearing, the select committee investigating the insurrection will outline Trump's pressure on Department of Justice officials to overturn the 2020 election in his favor. 
  <p class="updated_time"> 05:02 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106863281/eric-greitens-says-his-rino-hunting-ad-was-meant-in-humor-how-will-voters-see-it">Eric Greitens says his RINO-hunting ad was meant in humor. How will voters see it?</a> NPR: Missouri candidate for U.S. Senate Eric Greitens says his recent controversial ad was supposed to be "humorous." The move might backfire if voters aren't up to the glorification of violence. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106459556/shaye-moss-staffed-an-election-office-in-georgia-then-she-was-targeted-by-trump">Shaye Moss staffed an election office in Georgia. Then she was targeted by Trump</a> NPR: Former Georgia election worker Shaye Moss testified at the Jan. 6 committee hearing Tuesday about the attacks she and her family received when Trump and Giuliani targeted them with false accusations. 
  <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu">Jan. 6 hearing lays out efforts directed at state officials to void election results</a> NPR: The House Jan. 6 committee on Tuesday heard from state and local officials who say they were pressured by President Trump and his allies to help overturn the 2020 election results. 
- <p class="updated_time"> 04:04 AM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106658355/senate-negotiators-reach-a-final-bipartisan-agreement-on-a-gun-safety-bill">Senate negotiators reach a final bipartisan agreement on a gun safety bill</a> NPR: A bipartisan gun safety bill, poised to pass the Senate, could be the first major gun measure in decades. It's a narrow bill that President Biden supports, even though he wants it to go further. 
  <p class="updated_time"> 03:14 PM CT, Jun. 21 </p> 
  <a href="https://www.cnn.com/2022/06/21/politics/january-6-hearing-day-4-takeaways/index.html">7 takeaways from the fourth day of the January 6 hearings</a> CNN: The latest hearing before the House select committee investigating the January 6 insurrection revealed new details Tuesday about how former President Donald Trump pressured state officials to help him overturn the 2020 presidential election. 
  <p class="updated_time"> 02:46 PM CT, Jun. 20 </p> 
