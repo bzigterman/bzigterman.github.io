@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61918430?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: No food, no shelter and fears of cholera</a> BBC: Secunder Kermani reports from Paktika, Afghanistan, where one survivor says he lost 20 relatives. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
- <p class="updated_time"> 10:13 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61900260?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Many children feared dead in disaster</a> BBC: Over 1,000 people died in the disaster, with many children killed after being trapped in buildings. 
  <p class="updated_time"> 09:58 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraine-becomes-an-official-eu-membership-candidate-11656009059">Ukraine Becomes an Official EU Membership Candidate</a> WSJ: The decision was agreed to by European Union leaders at a summit in Brussels and fulfills one of Ukrainian President Volodymyr Zelensky’s biggest requests of European countries. 
  <p class="updated_time"> 09:03 AM CT, Jun. 23 </p> 
