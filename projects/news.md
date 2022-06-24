@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:13 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918944?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Trudeau denies meddling in police probe</a> BBC: Canada's police chief has been accused of pressuring local officers to help advance a Canada gun ban. 
+ <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
+ <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
  <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:28 PM CT, Jun. 23 </p> 
@@ -59,14 +65,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106994140/sri-lankan-prime-minister-says-nations-economy-has-collapsed">Sri Lankan prime minister says that the nation's economy has collapsed</a> NPR: Sri Lanka's debt-laden economy has "collapsed" after months of shortages of food, fuel and electricity, the prime minister told lawmakers Wednesday. 
- <p class="updated_time"> 08:02 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61912715?at_medium=RSS&at_campaign=KARANGA">Afghanistan quake: Gyan clinic with five beds for 500 injured patients</a> BBC: A worker at the only health clinic in Gyan in Paktika province, tells the BBC how they were overwhelmed. 
  <p class="updated_time"> 07:52 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed civilian leader, who is 77, was arrested after a military coup last year. 
  <p class="updated_time"> 07:50 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
- <p class="updated_time"> 07:45 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61908998?at_medium=RSS&at_campaign=KARANGA">Germany takes step closer to gas rationing</a> BBC: The country triggers the "alarm" stage of its emergency gas plan after a drop in Russian supplies. 
  <p class="updated_time"> 06:48 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/lebanon-nominates-caretaker-prime-minister-najib-mikati-to-form-government-again-11655999319">Lebanon Nominates Caretaker Prime Minister to Form Government Again</a> WSJ: The move comes after last month’s election threw up no clear winner and raised fears of another period of political uncertainty. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
@@ -116,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107217243/former-doj-officials-detail-threatening-resign-en-masse-trump-meeting">Former DOJ officials detail threatening to resign en masse in meeting with Trump</a> NPR: Witnesses in today's hearing revealed details of a dramatic Oval Office meeting on Jan. 3, 2021. 
  <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript">Here's every word from the fifth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 23 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
@@ -146,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates New York's requirement for people to show "proper cause" to get public carry gun licenses. 
  <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
- <p class="updated_time"> 06:20 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing">Former DOJ officials to testify during the 5th House Jan. 6 hearing </a> NPR: The House Select Committee investigating the Capitol siege will focus on efforts by former President Donald Trump to pressure the Justice Department to pursue baseless claims of election fraud. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
