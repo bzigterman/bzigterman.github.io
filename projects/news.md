@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
+ <p class="updated_time"> 02:58 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">Congress passes first gun control bill in decades</a> BBC: The landmark bipartisan bill now heads to President Joe Biden's desk to be signed into law. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
@@ -35,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a USB stick containing the data of 460,000 people during a night out. 
  <p class="updated_time"> 04:52 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/world-leaders-seek-solutions-to-food-shortages-caused-by-ukraine-war-11656078747">World Leaders Seek Solutions to Food Shortages</a> WSJ: Officials from the world’s most advanced economies gathered in Berlin to find solutions to shortages that have been exacerbated by the economic war under way between Russia and the West. 
- <p class="updated_time"> 04:43 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
  <p class="updated_time"> 04:19 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-workers-brace-for-tough-times-as-real-wages-fall-11656076779">Europe's Workers Brace for Tough Times as Real Wages Fall</a> WSJ: Europeans are likely to see their spending power fall faster than their U.S. counterparts, as Russia’s invasion of Ukraine sends inflation on a fresh surge, threatening to push the continent into recession. 
  <p class="updated_time"> 03:34 AM CT, Jun. 24 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
  <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
- <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Following Roe's reversal, Biden calls it 'a sad day' for the court and the U.S. </a> NPR: President Joe Biden noted that this is the first time the court has revoked a constitutional right. Now that Roe has been overturned, "the health and life of women in this nation are now at risk." 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
@@ -148,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
  <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151112/a-breakdown-of-how-the-jan-6-panel-has-made-its-hearings-so-easy-to-follow">A breakdown of how the Jan. 6 panel has made its hearings so easy to follow</a> NPR: The panel investigating Jan. 6 has been accused of engaging in show biz with its TV storytelling techniques. Instead, those tricks of the trade are making the hearings tangible and easy to follow. 
- <p class="updated_time"> 04:09 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107178582/doj-jan-6-committee-trump-election-fraud-claims">DOJ officials pushed back on Trump's baseless election fraud claims</a> NPR: About a week before the Jan. 6 attack, there was an "escalation" of then-President Donald Trump's demands about election fraud allegations, a former acting deputy attorney general testified. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
