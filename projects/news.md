@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:31 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
- <p class="updated_time"> 09:09 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive Oval Office showdown with Trump and justice department lawyers. 
- <p class="updated_time"> 07:13 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918944?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Trudeau denies meddling in police probe</a> BBC: Canada's police chief has been accused of pressuring local officers to help advance a Canada gun ban. 
+ <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
+ <p class="updated_time"> 11:07 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
+ <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of carmaker Nio's Shanghai HQ, and a smashed vehicle below. 
+ <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
  <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra crisis: Why resorts often decide political fates in India</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra: Why resorts often decide political fates in India</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
  <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735603?at_medium=RSS&at_campaign=KARANGA">US immigration: 'They'd rather die than return to Nicaragua'</a> BBC: A record number of Nicaraguans are heading to the US as conditions worsen at home. 
  <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
@@ -57,12 +59,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
  <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
- <p class="updated_time"> 11:43 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914166?at_medium=RSS&at_campaign=KARANGA">Juul: US bans all products from leading vaping company</a> BBC: Authorities say they do not have enough data to be sure Juul's e-cigarettes meet health standards. 
  <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
- <p class="updated_time"> 11:23 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-london-61908876?at_medium=RSS&at_campaign=KARANGA">Ike Ekweremadu: Nigerian senator accused of organ-harvesting plot</a> BBC: Ike Ekweremadu is said to have arranged the transport of a boy to the UK for organ-harvesting. 
  <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
