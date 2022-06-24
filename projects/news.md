@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:41 AM CT, Jun. 24 </p> 
+ <p class="updated_time"> 10:18 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court strikes down abortion rights</a> BBC: Millions of women lose the legal right to abortion after the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916553?at_medium=RSS&at_campaign=KARANGA">Saudis free youngest prisoner who faced execution</a> BBC: Murtaja Qureiris was held for eight years for alleged involvement in a protest when he was 10. 
  <p class="updated_time"> 09:32 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
+ <p class="updated_time"> 09:22 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship sank off the Philippines during a ferocious WWII battle with the Japanese fleet. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
@@ -69,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
- <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
  <p class="updated_time"> 04:15 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22">Russia-Ukraine war: What happened today (June 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:07 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
