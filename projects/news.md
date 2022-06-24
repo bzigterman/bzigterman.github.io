@@ -15,6 +15,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
+ <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra crisis: Why resorts often decide political fates in India</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
+ <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61735603?at_medium=RSS&at_campaign=KARANGA">US immigration: 'They'd rather die than return to Nicaragua'</a> BBC: A record number of Nicaraguans are heading to the US as conditions worsen at home. 
+ <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61906803?at_medium=RSS&at_campaign=KARANGA">Tangshan and Xuzhou: Fury and questions over China's treatment of women</a> BBC: Two prominent cases of abuse have ignited a debate about misogyny among the country's young women. 
  <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:28 PM CT, Jun. 23 </p> 
@@ -118,6 +124,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106701188/just-say-it-was-corrupt-and-3-other-takeaways-from-thursdays-jan-6-hearing">'Just say it was corrupt' and 3 other takeaways from Thursday's Jan. 6 hearing</a> NPR: Former Justice Department officials described the relentless pressure Trump put on them to find evidence of voter fraud when it didn't exist and a tense showdown in the Oval Office. 
  <p class="updated_time"> 07:05 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107217243/former-doj-officials-detail-threatening-resign-en-masse-trump-meeting">Former DOJ officials detail threatening to resign en masse in meeting with Trump</a> NPR: Witnesses in today's hearing revealed details of a dramatic Oval Office meeting on Jan. 3, 2021. 
  <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
@@ -148,8 +156,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-victim-protections-discrimination">Biden's Title IX reforms would roll back Trump-era rules, expand victim protections</a> NPR: The administration proposed an overhaul of regulations to expand protections for LGBTQI+ students and require schools to respond to all sexual discrimination complaints. 
  <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates New York's requirement for people to show "proper cause" to get public carry gun licenses. 
- <p class="updated_time"> 08:05 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106933879/jan-6-committee-hearing-tv">Jan. 6 hearings use TV tricks to great effect even as critics call them show biz</a> NPR: It's an extraordinary show of discipline for a congressional committee, with a minimum of showboating, yielding hearings that resemble Dateline NBC or investigative podcasts. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
