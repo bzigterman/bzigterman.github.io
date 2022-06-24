@@ -1396,25 +1396,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">110K</td>
-<td class="gt_row gt_right">97K</td>
+<td class="gt_row gt_right">109K</td>
+<td class="gt_row gt_right">98K</td>
 <td class="gt_row gt_right">&minus;11%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">24K</td>
 <td class="gt_row gt_right gt_striped">25K</td>
 <td class="gt_row gt_right gt_striped">+5%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">339</td>
-<td class="gt_row gt_right">255</td>
-<td class="gt_row gt_right">&minus;25%</td></tr>
+<td class="gt_row gt_right">325</td>
+<td class="gt_row gt_right">283</td>
+<td class="gt_row gt_right">&minus;13%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">276K</td>
+<td class="gt_row gt_right gt_striped">269K</td>
 <td class="gt_row gt_right gt_striped">155K</td>
-<td class="gt_row gt_right gt_striped">&minus;44%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;42%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
