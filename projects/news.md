@@ -27,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Lawyers threatened to quit over Trump election pressure</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
+ <p class="updated_time"> 08:22 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/inflation-in-japan-raises-pressure-on-central-bank-to-reconsider-low-rates-11656048171">Inflation in Japan Raises Pressure on Central Bank</a> WSJ: Consumer prices remained above the Bank of Japan’s target for a second successive month. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
@@ -120,8 +122,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107244408/morning-news-brief">News brief: Senate gun vote, reaction to Supreme Court gun ruling, Jan. 6 hearing</a> NPR: The Senate passes a gun control bill and sends it to the House. The Supreme Court strikes down New York's law restricting concealed carrying of guns. A recap of Thursday's House Jan. 6 hearing. 
  <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
+ <p class="updated_time"> 01:24 AM CT, Jun. 24 </p> 
+ <a href="https://www.cnn.com/2022/06/23/politics/january-6-hearing-day-5-takeaways/index.html">5 takeaways from the fifth day of January 6 hearings </a> CNN: The January 6 select committee's latest public hearing on Thursday shed considerable new light on former President Donald Trump's attempts to weaponize the Justice Department in the final months of his term as part of his plot to overturn the 2020 election and stay in power. 
  <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">Senate passes gun control bill and sends it to the House</a> NPR: The first major gun legislation in nearly three decades would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
@@ -150,12 +156,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">Senate sends the school meal waivers bill back to the House with time running out</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
  <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107089638/federal-authorities-searched-former-justice-official-jeff-clarks-home">Federal authorities searched former Justice official Jeff Clark's home</a> NPR: Federal authorities on Wednesday searched the home of former Justice official Jeff Clark, who supported Trump's voting fraud claims and features heavily in today's Jan. 6 committee hearings 
- <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
- <a href="https://www.cnn.com/2022/06/22/politics/roe-abortion-prosecution-tactics/index.html">How abortion bans could be enforced if Roe v. Wade is reversed</a> CNN: If the Supreme Court issues a ruling that would allow states to ban abortion, as is expected in the coming days, such a decision would raise new questions about how authorities would enforce such bans and whether the anti-abortion movement would stick to its public emphasis on protecting abortion-seekers themselves from prosecution. 
 
 
 </details>
