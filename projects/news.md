@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24">4 months into the Russia-Ukraine war: What happened today (June 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Jun. 24 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106966981/ukraine-russia-g7-ports-food-security">Ahead of the G-7, Biden confronts Putin's latest geopolitical weapon — food</a> NPR: President Biden will attend the G-7 summit in Germany this weekend, where leaders are expected to address food insecurity stemming from Russia's blockade of Ukrainian ports on the Black Sea. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
- <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106963492/survivors-dig-by-hand-after-afghanistan-quake-killing-1-000">Survivors dig by hand after Afghanistan quake killing 1,000</a> NPR: The disaster inflicted by the quake heaps more misery on a country where millions face increasing hunger and poverty and the health system has been crumbling since the Taliban retook power last year. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
@@ -118,6 +118,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
+ <p class="updated_time"> 04:00 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531637/how-congress-responds-to-roe-decision-may-affect-which-party-gets-control-in-nov">How Congress responds to Roe decision may affect which party gets control in November</a> NPR: The Supreme Court's abortion decision raises big questions around whether Congress will respond and how it could affect the campaign for control this November. 
  <p class="updated_time"> 03:48 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107440547/the-abortion-case-is-named-after-thomas-dobbs-who-says-he-has-nothing-to-do-with">The abortion case is named after Thomas Dobbs, who says he has nothing to do with it</a> NPR: The "Dobbs" in the case title refers to Thomas Dobbs, an infectious diseases doctor who became Mississippi's top health officer the same year the state adopted new abortion restrictions. 
  <p class="updated_time"> 03:28 PM CT, Jun. 24 </p> 
@@ -146,10 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107244492/texas-gop-platform-embraces-far-right-and-anti-gay-rhetoric">Texas GOP platform embraces far-right and anti-gay rhetoric</a> NPR: Texas Republicans recently adopted homophobic and transphobic language in their party platform, part of a larger trend of moves against LGBTQ rights by conservatives. 
  <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244408/morning-news-brief">News brief: Senate gun vote, reaction to Supreme Court gun ruling, Jan. 6 hearing</a> NPR: The Senate passes a gun control bill and sends it to the House. The Supreme Court strikes down New York's law restricting concealed carrying of guns. A recap of Thursday's House Jan. 6 hearing. 
- <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
- <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">The House has passed the gun control bill. The next stop is Biden's desk</a> NPR: The House approved the bipartisan bill 234 to 193 exactly one month after a mass shooting in Uvalde, Texas. It's the first gun control measure to come out of Congress in nearly three decades. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
