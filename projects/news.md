@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61787200?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families risking all to escape through Russia to Georgia</a> BBC: Risky escape routes have opened up for Ukrainians - including driving through Russia to Georgia. 
+ <p class="updated_time"> 05:59 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61933933?at_medium=RSS&at_campaign=KARANGA">First reactions to US Supreme Court abortion ruling</a> BBC: Protesters react strongly as news of the Supreme Court's decision spreads to crowds outside. 
+ <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
  <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
@@ -21,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">Congress passes first gun control bill in decades</a> BBC: The landmark bipartisan bill now heads to President Joe Biden's desk to be signed into law. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
+ <p class="updated_time"> 01:53 PM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/latin-grammy-winner-gets-9-year-prison-sentence-in-cuba-11656105948">Latin Grammy Winner Gets 9-Year Prison Sentence in Cuba</a> WSJ: Cuban court sentences rapper Maykel Castillo and artist Luis Manuel Otero for contempt, public disorder and desecrating national symbols. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Jun. 24 </p> 
@@ -93,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
- <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61898397?at_medium=RSS&at_campaign=KARANGA">As audiences return to Glastonbury and other festivals, will they cope?</a> BBC: After two years of cancellations, music fans could experience a mixture of relief and anxiety. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
@@ -105,10 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
- <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61895580?at_medium=RSS&at_campaign=KARANGA">No easy exit from besieged Ukrainian city</a> BBC: Inhabitants of the war-torn city take their last chance to flee their homes as the Russians close in. 
- <p class="updated_time"> 05:39 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61893748?at_medium=RSS&at_campaign=KARANGA">Bulldozer crushes 100 seized vehicles in New York</a> BBC: It is illegal to ride dirt bikes and ATVs (all-terrain vehicles) on the US city's streets. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
 
