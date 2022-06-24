@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:18 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court strikes down abortion rights</a> BBC: Millions of women lose the legal right to abortion after the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 11:40 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules landmark Roe v Wade case. 
+ <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61929438?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Why this is a seismic day in America</a> BBC: The divide in America has become even deeper after this Supreme Court ruling, writes Sarah Smith. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
@@ -120,6 +122,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Biden delivers remarks on the historic overturning of Roe v. Wade</a> NPR: President Joe Biden speaks publicly Friday afternoon, just hours after the Supreme Court officially overturned the constitutional right to abortion. 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
@@ -150,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107178582/doj-jan-6-committee-trump-election-fraud-claims">DOJ officials pushed back on Trump's baseless election fraud claims</a> NPR: About a week before the Jan. 6 attack, there was an "escalation" of then-President Donald Trump's demands about election fraud allegations, a former acting deputy attorney general testified. 
  <p class="updated_time"> 04:06 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151091/the-senate-might-have-set-up-passage-for-significant-gun-legislation">The Senate might have set up passage for significant gun legislation</a> NPR: The Senate cleared a key threshold Thursday, setting up passage of the first significant gun legislation in decades. 
- <p class="updated_time"> 03:47 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151077/trump-tried-to-use-the-doj-in-his-effort-to-overturn-election-ex-doj-officials-s">Trump tried to use the DOJ in his effort to overturn election, ex-DOJ officials said</a> NPR: The House Jan. 6 committee held a hearing Thursday with testimony from former DOJ officials on how Donald Trump tried to use the department to spread false claims about election fraud. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
