@@ -22,7 +22,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Zero evidence of voter fraud, lawyers told Trump</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Lawyers threatened to quit over Trump election pressure</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
