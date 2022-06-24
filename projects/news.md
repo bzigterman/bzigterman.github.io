@@ -118,6 +118,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:07 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107538165/supreme-court-roe-v-wade-overturned-reactions">What people said outside the Supreme Court after Roe v. Wade was overturned</a> NPR: Demonstrators from both sides of the abortion issue gathered outside the Supreme Court after the justices overturned the constitutional right to an abortion. 
+ <p class="updated_time"> 04:30 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107445443/supreme-court-majority-and-dissent-opinions-dobbs-reveal-schism">The Supreme Court's majority and dissent opinions on Dobbs reveal a massive schism</a> NPR: "The Constitution does not confer a right to abortion," Justice Samuel Alito wrote for the majority. The court's liberals warn that other rights could now be vulnerable. 
+ <p class="updated_time"> 04:28 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531679/biden-says-it-is-up-to-voters-if-they-want-to-see-abortion-rights-restored">Biden says it is up to voters if they want to see abortion rights restored</a> NPR: The White House has reacted somberly to the Supreme Court ruling that has overturned Roe v. Wade. President Biden said there's little he can do on his own to change the situation. 
  <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 04:00 PM CT, Jun. 24 </p> 
@@ -144,12 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
  <p class="updated_time"> 06:13 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244443/the-senate-passes-a-gun-control-bill-and-sends-it-to-the-house">The Senate passes a gun control bill and sends it to the House</a> NPR: The Senate passed the first major gun legislation in nearly three decades. It would incentivize states to pass red flag laws and expand background checks for 18 to 21-year-olds, among other measures. 
- <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
- <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107244492/texas-gop-platform-embraces-far-right-and-anti-gay-rhetoric">Texas GOP platform embraces far-right and anti-gay rhetoric</a> NPR: Texas Republicans recently adopted homophobic and transphobic language in their party platform, part of a larger trend of moves against LGBTQ rights by conservatives. 
- <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107244408/morning-news-brief">News brief: Senate gun vote, reaction to Supreme Court gun ruling, Jan. 6 hearing</a> NPR: The Senate passes a gun control bill and sends it to the House. The Supreme Court strikes down New York's law restricting concealed carrying of guns. A recap of Thursday's House Jan. 6 hearing. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
