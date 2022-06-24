@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:47 AM CT, Jun. 24 </p> 
+ <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
+ <p class="updated_time"> 12:53 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules the landmark Roe v Wade case. 
  <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61929438?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Why this is a seismic day in America</a> BBC: The divide in America has become even deeper after this Supreme Court ruling, writes Sarah Smith. 
@@ -17,14 +19,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916553?at_medium=RSS&at_campaign=KARANGA">Saudis free youngest prisoner who faced execution</a> BBC: Murtaja Qureiris was held for eight years for alleged involvement in a protest when he was 10. 
- <p class="updated_time"> 09:32 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 09:22 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship sank off the Philippines during a ferocious WWII battle with the Japanese fleet. 
+ <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship "Sammy B" sank off the Philippines in a ferocious WWII battle with the Japanese. 
+ <p class="updated_time"> 09:03 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
- <p class="updated_time"> 07:45 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
@@ -37,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
  <p class="updated_time"> 04:19 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-workers-brace-for-tough-times-as-real-wages-fall-11656076779">Europe's Workers Brace for Tough Times as Real Wages Fall</a> WSJ: Europeans are likely to see their spending power fall faster than their U.S. counterparts, as Russia’s invasion of Ukraine sends inflation on a fresh surge, threatening to push the continent into recession. 
- <p class="updated_time"> 03:43 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/china-probes-operator-of-nations-biggest-academic-database-11656074605">China Probes Operator of Nation's Biggest Academic Database</a> WSJ: The second investigation of China National Knowledge Infrastructure comes as Beijing restricts the flow of information about what is happening inside the country. 
  <p class="updated_time"> 03:34 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/colombian-president-elects-economic-revamp-faces-cost-crunch-11656074047">Colombian President-Elect's  Economic Revamp Faces Cost Crunch</a> WSJ: Gustavo Petro proposed jobs for all and cuts to oil output, but many doubt he will have the funds or clout to implement sweeping change. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
@@ -81,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106994140/sri-lankan-prime-minister-says-nations-economy-has-collapsed">Sri Lankan prime minister says that the nation's economy has collapsed</a> NPR: Sri Lanka's debt-laden economy has "collapsed" after months of shortages of food, fuel and electricity, the prime minister told lawmakers Wednesday. 
  <p class="updated_time"> 07:50 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
- <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
  <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106966981/ukraine-russia-g7-ports-food-security">Ahead of the G-7, Biden confronts Putin's latest geopolitical weapon — food</a> NPR: President Biden will attend the G-7 summit in Germany this weekend, where leaders are expected to address food insecurity stemming from Russia's blockade of Ukrainian ports on the Black Sea. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
@@ -96,7 +92,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:19 PM CT, Jun. 22 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/22/1106711204/polio-found-in-u-k-for-the-first-time-in-nearly-40-years-heres-what-it-means">Polio is found in the U.K. for the first time in nearly 40 years. Here's what it means</a> NPR: Scientists in Britain have detected multiple versions of the virus in wastewater. Officials say the risk to the public is extremely low and urge people to ensure their polio vaccines are up to date. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">Refugees previously despatched to Rwanda now in Europe</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
+ <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
  <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
@@ -124,6 +120,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Following Roe's reversal, Biden calls it 'a sad day' for the court and the U.S. </a> NPR: President Joe Biden noted that this is the first time the court has revoked a constitutional right. Now that Roe has been overturned, "the health and life of women in this nation are now at risk." 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 09:17 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn">Supreme Court overturns Roe v. Wade, ending right to abortion upheld for decades</a> NPR: The U.S. Supreme Court has overturned the constitutional right to an abortion, reversing Roe v. Wade, the court's five-decade-old decision that guaranteed a woman's right to obtain an abortion. 
  <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
  <p class="updated_time"> 06:13 AM CT, Jun. 24 </p> 
@@ -137,7 +135,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
  <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">Senate passes gun control bill and sends it to the House</a> NPR: The first major gun legislation in nearly three decades would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. 
+ <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">The House has passed the gun control bill. The next stop is Biden's desk</a> NPR: The House approved the bipartisan bill 234 to 193 exactly one month after a mass shooting in Uvalde, Texas. It's the first gun control measure to come out of Congress in nearly three decades. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106701188/just-say-it-was-corrupt-and-3-other-takeaways-from-thursdays-jan-6-hearing">'Just say it was corrupt' and 3 other takeaways from Thursday's Jan. 6 hearing</a> NPR: Former Justice Department officials described the relentless pressure Trump put on them to find evidence of voter fraud when it didn't exist and a tense showdown in the Oval Office. 
  <p class="updated_time"> 07:05 PM CT, Jun. 23 </p> 
@@ -150,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151112/a-breakdown-of-how-the-jan-6-panel-has-made-its-hearings-so-easy-to-follow">A breakdown of how the Jan. 6 panel has made its hearings so easy to follow</a> NPR: The panel investigating Jan. 6 has been accused of engaging in show biz with its TV storytelling techniques. Instead, those tricks of the trade are making the hearings tangible and easy to follow. 
  <p class="updated_time"> 04:09 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107178582/doj-jan-6-committee-trump-election-fraud-claims">DOJ officials pushed back on Trump's baseless election fraud claims</a> NPR: About a week before the Jan. 6 attack, there was an "escalation" of then-President Donald Trump's demands about election fraud allegations, a former acting deputy attorney general testified. 
- <p class="updated_time"> 04:06 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151091/the-senate-might-have-set-up-passage-for-significant-gun-legislation">The Senate might have set up passage for significant gun legislation</a> NPR: The Senate cleared a key threshold Thursday, setting up passage of the first significant gun legislation in decades. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
