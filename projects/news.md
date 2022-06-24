@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a memory stick containing the data of some 460,000 people during a boozy night out. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a USB stick containing the data of 460,000 people during a night out. 
  <p class="updated_time"> 04:43 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
  <p class="updated_time"> 04:01 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukrainian forces told to retreat from key eastern city</a> BBC: Severodonetsk is the current focus of Russia's invasion as Moscow tries to take control of the east. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
+ <p class="updated_time"> 11:39 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-diplomat-in-australia-says-ties-can-improve-11656059956">China's Top Diplomat in Australia Says Ties Can Improve</a> WSJ: China’s ambassador to Australia said he believes strained relations between the two countries can improve, though the protests that interrupted his speech suggest there will be political challenges. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
  <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
@@ -115,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106657719/afghanistan-earthquake-death-toll-taliban">More than 900 people have reportedly been killed in an earthquake in Afghanistan </a> NPR: The hardest hit areas were remote farming villages in the eastern Afghan province of Paktika. "All the village completely is destroyed," said one man, showing collapsed homes on a cell phone video. 
  <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
- <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
 
 
 </details>
@@ -124,6 +126,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
+ <p class="updated_time"> 06:13 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107244443/the-senate-passes-a-gun-control-bill-and-sends-it-to-the-house">The Senate passes a gun control bill and sends it to the House</a> NPR: The Senate passed the first major gun legislation in nearly three decades. It would incentivize states to pass red flag laws and expand background checks for 18 to 21-year-olds, among other measures. 
+ <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244492/texas-gop-platform-embraces-far-right-and-anti-gay-rhetoric">Texas GOP platform embraces far-right and anti-gay rhetoric</a> NPR: Texas Republicans recently adopted homophobic and transphobic language in their party platform, part of a larger trend of moves against LGBTQ rights by conservatives. 
  <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
@@ -140,6 +148,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107217243/former-doj-officials-detail-threatening-resign-en-masse-trump-meeting">Former DOJ officials detail threatening to resign en masse in meeting with Trump</a> NPR: Witnesses in today's hearing revealed details of a dramatic Oval Office meeting on Jan. 3, 2021. 
  <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript">Here's every word from the fifth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 23 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
+ <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
+ <a href="https://www.cnn.com/2022/06/23/politics/samuel-alito-stephen-breyer-guns/index.html">Samuel Alito lashes out at liberals in guns case as tensions boil over at SCOTUS </a> CNN: While Justice Clarence Thomas spent 63 pages in a 6-3 majority opinion Thursday painstakingly explaining the court's reasons for striking down a New York conceal carry gun law and changing the way judges will analyze a host of other gun regulations going forward, his colleague Samuel Alito took a different tack. 
  <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
  <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
@@ -150,14 +160,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151091/the-senate-might-have-set-up-passage-for-significant-gun-legislation">The Senate might have set up passage for significant gun legislation</a> NPR: The Senate cleared a key threshold Thursday, setting up passage of the first significant gun legislation in decades. 
  <p class="updated_time"> 03:47 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151077/trump-tried-to-use-the-doj-in-his-effort-to-overturn-election-ex-doj-officials-s">Trump tried to use the DOJ in his effort to overturn election, ex-DOJ officials said</a> NPR: The House Jan. 6 committee held a hearing Thursday with testimony from former DOJ officials on how Donald Trump tried to use the department to spread false claims about election fraud. 
- <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
- <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151049/former-doj-officials-testify-before-jan-6-committee">Former DOJ officials testify before Jan. 6 committee</a> NPR: NPR's Ailsa Chang talks with former Department of Defense special counsel and New York University law professor Ryan Goodman about the Jan. 6 committee's fifth public hearing on Capitol Hill Thursday. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
- <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">Senate sends the school meal waivers bill back to the House with time running out</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
