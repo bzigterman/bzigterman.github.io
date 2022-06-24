@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:46 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukrainian forces told to retreat from key eastern city</a> BBC: Severodonetsk is the focus of Russia's invasion as Moscow tries to take control of the east. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukrainian forces told to retreat from key eastern city</a> BBC: Severodonetsk is the current focus of Russia's invasion as Moscow tries to take control of the east. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
+ <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
  <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61919761?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia's new PM vows 'reset' with France after submarine row</a> BBC: It follows the French president accusing Australia's ex-PM of lying to him over a submarine deal. 
  <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
@@ -53,14 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61914167?at_medium=RSS&at_campaign=KARANGA">Netflix cuts 300 more jobs after subscriptions fall</a> BBC: In April the streaming giant reported its first subscriber loss in more than a decade. 
  <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
- <p class="updated_time"> 01:52 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-becomes-an-official-eu-membership-candidate-11656009059">Ukraine Becomes an Official EU Membership Candidate</a> WSJ: The decision was agreed to by European Union leaders at a summit in Brussels and fulfills one of Ukrainian President Volodymyr Zelensky’s biggest requests of European countries. 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
- <p class="updated_time"> 01:34 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/russias-welcome-at-brics-summit-shows-disconnect-with-west-11656020361">Russia's Welcome at Brics Summit Shows Disconnect With West</a> WSJ: The difficulty of U.S.-led efforts to ostracize Moscow is highlighted as Russian President Vladimir Putin participates in his highest-profile international gathering since the invasion of Ukraine. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
@@ -122,6 +120,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
  <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">Senate passes gun control bill and sends it to the House</a> NPR: The first major gun legislation in nearly three decades would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
@@ -152,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107089638/federal-authorities-searched-former-justice-official-jeff-clarks-home">Federal authorities searched former Justice official Jeff Clark's home</a> NPR: Federal authorities on Wednesday searched the home of former Justice official Jeff Clark, who supported Trump's voting fraud claims and features heavily in today's Jan. 6 committee hearings 
  <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
- <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-victim-protections-discrimination">Biden's Title IX reforms would roll back Trump-era rules, expand victim protections</a> NPR: The administration proposed an overhaul of regulations to expand protections for LGBTQI+ students and require schools to respond to all sexual discrimination complaints. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
