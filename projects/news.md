@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24">4 months into the Russia-Ukraine war: What happened today (June 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:49 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61929723?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Survivors count horrific cost</a> BBC: Near the epicentre of the quake that struck Afghanistan this week, houses lie in ruins. 
  <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 02:58 PM CT, Jun. 24 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
- <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61918430?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Survivors struggle for food and shelter amidst cholera fears</a> BBC: Secunder Kermani reports from Paktika, Afghanistan, where one survivor says he lost 20 relatives. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:20 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61898397?at_medium=RSS&at_campaign=KARANGA">As audiences return to Glastonbury and other festivals, will they cope?</a> BBC: After two years of cancellations, music fans could experience a mixture of relief and anxiety. 
- <p class="updated_time"> 06:19 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/22/1106711204/polio-found-in-u-k-for-the-first-time-in-nearly-40-years-heres-what-it-means">Polio is found in the U.K. for the first time in nearly 40 years. Here's what it means</a> NPR: Scientists in Britain have detected multiple versions of the virus in wastewater. Officials say the risk to the public is extremely low and urge people to ensure their polio vaccines are up to date. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:48 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107440547/the-abortion-case-is-named-after-thomas-dobbs-who-says-he-has-nothing-to-do-with">The abortion case is named after Thomas Dobbs, who says he has nothing to do with it</a> NPR: The "Dobbs" in the case title refers to Thomas Dobbs, an infectious diseases doctor who became Mississippi's top health officer the same year the state adopted new abortion restrictions. 
  <p class="updated_time"> 03:28 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531593/former-governor-whose-bill-was-at-the-center-of-roe-ruling-reacts-to-scotus-deci">Former governor whose bill was at the center of Roe ruling reacts to SCOTUS' decision</a> NPR: NPR's Mary Louise Kelly talks with Phil Bryant, the former governor of Mississippi, who signed a bill that bans abortions after 15 weeks. 
  <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
@@ -148,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
  <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">The House has passed the gun control bill. The next stop is Biden's desk</a> NPR: The House approved the bipartisan bill 234 to 193 exactly one month after a mass shooting in Uvalde, Texas. It's the first gun control measure to come out of Congress in nearly three decades. 
- <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106701188/just-say-it-was-corrupt-and-3-other-takeaways-from-thursdays-jan-6-hearing">'Just say it was corrupt' and 3 other takeaways from Thursday's Jan. 6 hearing</a> NPR: Former Justice Department officials described the relentless pressure Trump put on them to find evidence of voter fraud when it didn't exist and a tense showdown in the Oval Office. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
