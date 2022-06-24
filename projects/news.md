@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court strikes down abortion rights</a> BBC: Millions of women lose the legal right to abortion after the Supreme Court overturns Roe v Wade. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
@@ -19,12 +21,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a USB stick containing the data of 460,000 people during a night out. 
+ <p class="updated_time"> 04:52 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/world-leaders-seek-solutions-to-food-shortages-caused-by-ukraine-war-11656078747">World Leaders Seek Solutions to Food Shortages</a> WSJ: Officials from the world’s most advanced economies gathered in Berlin to find solutions to shortages that have been exacerbated by the economic war under way between Russia and the West. 
  <p class="updated_time"> 04:43 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
+ <p class="updated_time"> 04:19 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-workers-brace-for-tough-times-as-real-wages-fall-11656076779">Europe's Workers Brace for Tough Times as Real Wages Fall</a> WSJ: Europeans are likely to see their spending power fall faster than their U.S. counterparts, as Russia’s invasion of Ukraine sends inflation on a fresh surge, threatening to push the continent into recession. 
+ <p class="updated_time"> 03:43 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/china-probes-operator-of-nations-biggest-academic-database-11656074605">China Probes Operator of Nation's Biggest Academic Database</a> WSJ: The second investigation of China National Knowledge Infrastructure comes as Beijing restricts the flow of information about what is happening inside the country. 
+ <p class="updated_time"> 03:34 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/colombian-president-elects-economic-revamp-faces-cost-crunch-11656074047">Colombian President-Elect's  Economic Revamp Faces Cost Crunch</a> WSJ: Gustavo Petro proposed jobs for all and cuts to oil output, but many doubt he will have the funds or clout to implement sweeping change. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
- <p class="updated_time"> 11:39 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-diplomat-in-australia-says-ties-can-improve-11656059956">China's Top Diplomat in Australia Says Ties Can Improve</a> WSJ: China’s ambassador to Australia said he believes strained relations between the two countries can improve, though the protests that interrupted his speech suggest there will be political challenges. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
  <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
@@ -37,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Lawyers threatened to quit over Trump election pressure</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
- <p class="updated_time"> 08:22 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/inflation-in-japan-raises-pressure-on-central-bank-to-reconsider-low-rates-11656048171">Inflation in Japan Raises Pressure on Central Bank</a> WSJ: Consumer prices remained above the Bank of Japan’s target for a second successive month. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
@@ -73,10 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
- <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Afghan Earthquake Victims</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
- <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107244408/morning-news-brief">News brief: Senate gun vote, reaction to Supreme Court gun ruling, Jan. 6 hearing</a> NPR: The Senate passes a gun control bill and sends it to the House. The Supreme Court strikes down New York's law restricting concealed carrying of guns. A recap of Thursday's House Jan. 6 hearing. 
  <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
- <p class="updated_time"> 01:24 AM CT, Jun. 24 </p> 
- <a href="https://www.cnn.com/2022/06/23/politics/january-6-hearing-day-5-takeaways/index.html">5 takeaways from the fifth day of January 6 hearings </a> CNN: The January 6 select committee's latest public hearing on Thursday shed considerable new light on former President Donald Trump's attempts to weaponize the Justice Department in the final months of his term as part of his plot to overturn the 2020 election and stay in power. 
  <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">Senate passes gun control bill and sends it to the House</a> NPR: The first major gun legislation in nearly three decades would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
@@ -148,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107217243/former-doj-officials-detail-threatening-resign-en-masse-trump-meeting">Former DOJ officials detail threatening to resign en masse in meeting with Trump</a> NPR: Witnesses in today's hearing revealed details of a dramatic Oval Office meeting on Jan. 3, 2021. 
  <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript">Here's every word from the fifth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 23 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
- <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
- <a href="https://www.cnn.com/2022/06/23/politics/samuel-alito-stephen-breyer-guns/index.html">Samuel Alito lashes out at liberals in guns case as tensions boil over at SCOTUS </a> CNN: While Justice Clarence Thomas spent 63 pages in a 6-3 majority opinion Thursday painstakingly explaining the court's reasons for striking down a New York conceal carry gun law and changing the way judges will analyze a host of other gun regulations going forward, his colleague Samuel Alito took a different tack. 
  <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
  <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
