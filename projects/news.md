@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
  <p class="updated_time"> 04:01 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukrainian forces told to retreat from key eastern city</a> BBC: Severodonetsk is the current focus of Russia's invasion as Moscow tries to take control of the east. 
- <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
@@ -62,7 +62,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
+ <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Afghan Earthquake Victims</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
  <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
