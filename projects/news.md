@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61919761?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia's new PM vows 'reset' with France after submarine row</a> BBC: It follows the French president accusing Australia's ex-PM of lying to him over a submarine deal. 
  <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
  <p class="updated_time"> 11:07 PM CT, Jun. 23 </p> 
@@ -59,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
  <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
- <p class="updated_time"> 11:38 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914165?at_medium=RSS&at_campaign=KARANGA">Nike latest brand to leave Russia permanently</a> BBC: Russia's economic isolation deepens as more Western companies leave the country. 
  <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
