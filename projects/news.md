@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:46 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukrainian forces told to retreat from key eastern city</a> BBC: Severodonetsk is the focus of Russia's invasion as Moscow tries to take control of the east. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
@@ -26,7 +28,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
  <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra: What is India's luxury resort politics?</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra: What is India's 'luxury resort politics'?</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
  <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61735603?at_medium=RSS&at_campaign=KARANGA">US immigration: 'They'd rather die than return to Nicaragua'</a> BBC: A record number of Nicaraguans are heading to the US as conditions worsen at home. 
  <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
