@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules the landmark Roe v Wade case. 
  <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61929438?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Why this is a seismic day in America</a> BBC: The divide in America has become even deeper after this Supreme Court ruling, writes Sarah Smith. 
+ <p class="updated_time"> 10:22 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916553?at_medium=RSS&at_campaign=KARANGA">Saudis free youngest prisoner who faced execution</a> BBC: Murtaja Qureiris was held for eight years for alleged involvement in a protest when he was 10. 
  <p class="updated_time"> 09:22 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship "Sammy B" sank off the Philippines in a ferocious WWII battle with the Japanese. 
- <p class="updated_time"> 09:03 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
