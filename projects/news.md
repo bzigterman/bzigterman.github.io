@@ -19,6 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61919761?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia's new PM vows 'reset' with France after submarine row</a> BBC: It follows the French president accusing Australia's ex-PM of lying to him over a submarine deal. 
  <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
+ <p class="updated_time"> 10:46 PM CT, Jun. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Orders Withdrawal From Severodonetsk to Avoid Encirclement</a> WSJ: The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area. 
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 12:48 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849">Aid Begins to Arrive for Victims of Afghanistan Earthquake</a> WSJ: The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead. 
- <p class="updated_time"> 12:01 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775">Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</a> WSJ: Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk. 
  <p class="updated_time"> 11:02 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-names-new-intelligence-chief-amid-suspicious-deaths-11656014544">Iran's Revolutionary Guard Names New Intelligence Chief Amid Suspicious Deaths</a> WSJ: Hossein Taeb is dismissed from the post after the deaths of at least seven military officers and scientists and Israel’s disruption of an alleged assassination plot in Turkey. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
@@ -77,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61906979?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar ex-leader sent to solitary confinement</a> BBC: Myanmar's deposed civilian leader, who is 77, was arrested after a military coup last year. 
  <p class="updated_time"> 07:50 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
- <p class="updated_time"> 06:48 AM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/lebanon-nominates-caretaker-prime-minister-najib-mikati-to-form-government-again-11655999319">Lebanon Nominates Caretaker Prime Minister to Form Government Again</a> WSJ: The move comes after last month’s election threw up no clear winner and raised fears of another period of political uncertainty. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
