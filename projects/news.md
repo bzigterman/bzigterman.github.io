@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
+ <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61919761?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia's new PM vows 'reset' with France after submarine row</a> BBC: It follows the French president accusing Australia's ex-PM of lying to him over a submarine deal. 
  <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
- <p class="updated_time"> 11:07 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill could be signed into law within days after Republicans and Democrats supported it. 
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of carmaker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Zero evidence of voter fraud, lawyers told Trump</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
@@ -113,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
  <p class="updated_time"> 03:59 PM CT, Jun. 21 </p> 
  <a href="https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21">Russia-Ukraine war: What happened today (June 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:32 PM CT, Jun. 21 </p> 
- <a href="https://www.npr.org/2022/06/21/1106424728/why-volunteer-grave-diggers-in-ukraine-are-exhuming-russias-dead">Why volunteer grave diggers in Ukraine are exhuming Russia's dead</a> NPR: Ukraine has been collecting the bodies of dead Russians left behind pushed Russian forces back from Kharkiv weeks ago. Two brothers from an outside village are helping unbury the dead. 
 
 
 </details>
