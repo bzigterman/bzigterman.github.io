@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: A different Russia-Ukraine battle in India</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
+ <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61884941?at_medium=RSS&at_campaign=KARANGA">Kidnap alert heightens Iran-Israel shadow war fears</a> BBC: The warnings for Israeli tourists join assassinations and sabotage as the foes aim at each other. 
+ <p class="updated_time"> 06:02 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61815493?at_medium=RSS&at_campaign=KARANGA">Kenyan elections: The woman who rallies crowds - but won't vote</a> BBC: Diana Mwazi is one of many young Kenyans who see elections as a way to make money, not bring change. 
  <p class="updated_time"> 06:00 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61787200?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families risking all to escape through Russia to Georgia</a> BBC: Risky escape routes have opened up for Ukrainians - including driving through Russia to Georgia. 
  <p class="updated_time"> 05:59 PM CT, Jun. 24 </p> 
@@ -99,14 +105,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106966981/ukraine-russia-g7-ports-food-security">Ahead of the G-7, Biden confronts Putin's latest geopolitical weapon — food</a> NPR: President Biden will attend the G-7 summit in Germany this weekend, where leaders are expected to address food insecurity stemming from Russia's blockade of Ukrainian ports on the Black Sea. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
- <p class="updated_time"> 06:24 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61894760?at_medium=RSS&at_campaign=KARANGA">Brics summit: Members push for global clout amid Ukraine war</a> BBC: Leaders from India, Russia, China, Brazil and South Africa meet amid major shifts in geopolitics. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
- <p class="updated_time"> 06:13 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-61783637?at_medium=RSS&at_campaign=KARANGA">How Aussie farmers are hoping to win over tequila fans</a> BBC: Two Australia farmers are aiming rival Mexican tequila and mezcal with a similar delicious spirit. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
