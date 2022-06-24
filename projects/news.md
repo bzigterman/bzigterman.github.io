@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a memory stick containing the data of some 460,000 people during a boozy night out. 
  <p class="updated_time"> 04:43 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">US Senate passes first gun control bill in decades</a> BBC: The landmark bill is a rare moment of cooperation between the two parties over gun control measures. 
  <p class="updated_time"> 04:01 AM CT, Jun. 24 </p> 
@@ -123,6 +125,8 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107244492/texas-gop-platform-embraces-far-right-and-anti-gay-rhetoric">Texas GOP platform embraces far-right and anti-gay rhetoric</a> NPR: Texas Republicans recently adopted homophobic and transphobic language in their party platform, part of a larger trend of moves against LGBTQ rights by conservatives. 
+ <p class="updated_time"> 04:09 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244408/morning-news-brief">News brief: Senate gun vote, reaction to Supreme Court gun ruling, Jan. 6 hearing</a> NPR: The Senate passes a gun control bill and sends it to the House. The Supreme Court strikes down New York's law restricting concealed carrying of guns. A recap of Thursday's House Jan. 6 hearing. 
  <p class="updated_time"> 04:00 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained">A federal law requires translated voting ballots, but not in Arabic or Haitian Creole</a> NPR: The Voting Rights Act requires some states and local areas to offer election materials in more than just English. But the support for voters is limited to Spanish, Asian and Native American languages. 
@@ -154,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
  <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">Senate sends the school meal waivers bill back to the House with time running out</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
- <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107089638/federal-authorities-searched-former-justice-official-jeff-clarks-home">Federal authorities searched former Justice official Jeff Clark's home</a> NPR: Federal authorities on Wednesday searched the home of former Justice official Jeff Clark, who supported Trump's voting fraud claims and features heavily in today's Jan. 6 committee hearings 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
