@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
+ <p class="updated_time"> 09:09 PM CT, Jun. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive Oval Office showdown with Trump and justice department lawyers. 
  <p class="updated_time"> 07:13 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61918944?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Trudeau denies meddling in police probe</a> BBC: Canada's police chief has been accused of pressuring local officers to help advance a Canada gun ban. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
@@ -23,16 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61906803?at_medium=RSS&at_campaign=KARANGA">Tangshan and Xuzhou: Fury and questions over China's treatment of women</a> BBC: Two prominent cases of abuse have ignited a debate about misogyny among the country's young women. 
  <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 06:28 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Trump election challenge 'a murder-suicide pact'</a> BBC: The Capitol riot panel hears of an explosive Oval Office showdown with Trump and justice department lawyers. 
  <p class="updated_time"> 06:10 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61909617?at_medium=RSS&at_campaign=KARANGA">World's lowest parachute jump attempt</a> BBC: Former paratrooper, John Bream, jumped from 85 ft (26m) in order to claim the title. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
- <p class="updated_time"> 04:50 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61915237?at_medium=RSS&at_campaign=KARANGA">Supreme Court ruling expands US gun rights</a> BBC: The major decision by the highest court is expected to allow more people to carry guns legally. 
  <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61918430?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: No food, no shelter and fears of cholera</a> BBC: Secunder Kermani reports from Paktika, Afghanistan, where one survivor says he lost 20 relatives. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61918430?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Survivors struggle for food and shelter amidst cholera fears</a> BBC: Secunder Kermani reports from Paktika, Afghanistan, where one survivor says he lost 20 relatives. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
@@ -124,6 +124,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:40 PM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">Senate passes gun control bill and sends it to the House</a> NPR: The first major gun legislation in nearly three decades would incentivize states to pass red flag laws and expand background checks for 18- to 21-year-olds, among other measures. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106701188/just-say-it-was-corrupt-and-3-other-takeaways-from-thursdays-jan-6-hearing">'Just say it was corrupt' and 3 other takeaways from Thursday's Jan. 6 hearing</a> NPR: Former Justice Department officials described the relentless pressure Trump put on them to find evidence of voter fraud when it didn't exist and a tense showdown in the Oval Office. 
  <p class="updated_time"> 07:05 PM CT, Jun. 23 </p> 
@@ -147,15 +149,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
  <p class="updated_time"> 01:29 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">The House extended a school meal lifeline; families are now waiting on the Senate</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
+ <a href="https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate">Senate sends the school meal waivers bill back to the House with time running out</a> NPR: Congress is rushing to pass an extension for some of the school meal waivers that provided support to families and schools during the pandemic that expire June 30. 
  <p class="updated_time"> 12:56 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107089638/federal-authorities-searched-former-justice-official-jeff-clarks-home">Federal authorities searched former Justice official Jeff Clark's home</a> NPR: Federal authorities on Wednesday searched the home of former Justice official Jeff Clark, who supported Trump's voting fraud claims and features heavily in today's Jan. 6 committee hearings 
  <p class="updated_time"> 12:45 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106922050/why-overturning-roe-isnt-the-final-goal-of-the-anti-abortion-movement">Why overturning Roe isn't the final goal of the anti-abortion movement</a> NPR: Law professor Mary Ziegler explains how the anti-abortion movement upended the GOP establishment and helped push the courts to the right. Her new book is Dollars for Life. 
  <p class="updated_time"> 11:08 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107045291/title-ix-9-biden-expand-victim-protections-discrimination">Biden's Title IX reforms would roll back Trump-era rules, expand victim protections</a> NPR: The administration proposed an overhaul of regulations to expand protections for LGBTQI+ students and require schools to respond to all sexual discrimination complaints. 
- <p class="updated_time"> 09:38 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1102995474/supreme-court-opinion-guns">Supreme Court strikes down N.Y. law that restricts concealed carrying of guns</a> NPR: The opinion, written by Justice Clarence Thomas, invalidates New York's requirement for people to show "proper cause" to get public carry gun licenses. 
  <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:21 PM CT, Jun. 22 </p> 
