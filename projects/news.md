@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:40 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules landmark Roe v Wade case. 
+ <p class="updated_time"> 11:47 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules the landmark Roe v Wade case. 
  <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61929438?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Why this is a seismic day in America</a> BBC: The divide in America has become even deeper after this Supreme Court ruling, writes Sarah Smith. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship sank off the Philippines during a ferocious WWII battle with the Japanese fleet. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
+ <p class="updated_time"> 07:45 AM CT, Jun. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
- <p class="updated_time"> 10:46 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Orders Withdrawal From Severodonetsk to Avoid Encirclement</a> WSJ: The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area. 
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
@@ -71,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
- <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
@@ -123,7 +121,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Biden delivers remarks on the historic overturning of Roe v. Wade</a> NPR: President Joe Biden speaks publicly Friday afternoon, just hours after the Supreme Court officially overturned the constitutional right to abortion. 
+ <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Following Roe's reversal, Biden calls it 'a sad day' for the court and the U.S. </a> NPR: President Joe Biden noted that this is the first time the court has revoked a constitutional right. Now that Roe has been overturned, "the health and life of women in this nation are now at risk." 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
