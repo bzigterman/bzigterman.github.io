@@ -118,6 +118,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531593/former-governor-whose-bill-was-at-the-center-of-roe-ruling-reacts-to-scotus-deci">Former governor whose bill was at the center of Roe ruling reacts to SCOTUS' decision</a> NPR: NPR's Mary Louise Kelly talks with Phil Bryant, the former governor of Mississippi, who signed a bill that bans abortions after 15 weeks. 
+ <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531693/the-atmosphere-outside-the-supreme-court-where-some-protest-and-others-celebrate">The atmosphere outside the Supreme Court, where some protest and others celebrate</a> NPR: Activists from both sides of the abortion issue gathered outside the Supreme Court today. Some were celebrating. Some were protesting. 
+ <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/2022/06/24/1107531630/context-and-perspective-on-abortion-and-gun-rights-after-this-weeks-scotus-decis">Context and perspective on abortion and gun rights after this week's SCOTUS decisions</a> NPR: NPR's Mary Louise Kelly talks with Washington Free Beacon editor-in-chief Eliana Johnson and Washington Post politics reporter Amber Phillips about the overturning of Roe and developments on gun laws. 
+ <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/06/24/1107316711/doctors-ethical-bind-abortion">For doctors, abortion restrictions create an 'impossible choice' when providing care</a> NPR: Physicians must treat in line with patients' wishes and standards of care. Some medical ethicists say that abortion bans will force doctors to disregard these obligations in order to follow the law. 
  <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
@@ -142,14 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107234183/senate-passes-gun-control-bill-and-sends-it-to-the-house">The House has passed the gun control bill. The next stop is Biden's desk</a> NPR: The House approved the bipartisan bill 234 to 193 exactly one month after a mass shooting in Uvalde, Texas. It's the first gun control measure to come out of Congress in nearly three decades. 
  <p class="updated_time"> 07:35 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106701188/just-say-it-was-corrupt-and-3-other-takeaways-from-thursdays-jan-6-hearing">'Just say it was corrupt' and 3 other takeaways from Thursday's Jan. 6 hearing</a> NPR: Former Justice Department officials described the relentless pressure Trump put on them to find evidence of voter fraud when it didn't exist and a tense showdown in the Oval Office. 
- <p class="updated_time"> 07:05 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107217243/former-doj-officials-detail-threatening-resign-en-masse-trump-meeting">Former DOJ officials detail threatening to resign en masse in meeting with Trump</a> NPR: Witnesses in today's hearing revealed details of a dramatic Oval Office meeting on Jan. 3, 2021. 
- <p class="updated_time"> 06:31 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript">Here's every word from the fifth Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the June 23 hearing from the House select committee investigating the Jan. 6 Capitol attack. 
- <p class="updated_time"> 04:57 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107192874/republicans-trump-pardons-jan-6">Republican lawmakers asked the White House for pardons before and after Jan. 6</a> NPR: Various Republican House members requested pardons from President Donald Trump in the final days of his administration, according to testimony presented before the Jan. 6 committee. 
- <p class="updated_time"> 04:17 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151112/a-breakdown-of-how-the-jan-6-panel-has-made-its-hearings-so-easy-to-follow">A breakdown of how the Jan. 6 panel has made its hearings so easy to follow</a> NPR: The panel investigating Jan. 6 has been accused of engaging in show biz with its TV storytelling techniques. Instead, those tricks of the trade are making the hearings tangible and easy to follow. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
