@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 06:49 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukraine orders forces to withdraw from key eastern city</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
- <p class="updated_time"> 06:34 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
@@ -87,6 +87,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1106987699/saudi-crown-prince-m-b-s-visits-turkey-for-1st-time-since-khashoggi-killing">Saudi crown prince visits Turkey for 1st time since Khashoggi killing</a> NPR: Turkey and Saudi Arabia declared their determination to start a "new era of cooperation" during a visit by Saudi Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 06:07 AM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024">Nuclear Power Is Poised for a Comeback. The Problem Is Building the Reactors.</a> WSJ: Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years. 
+ <p class="updated_time"> 04:08 AM CT, Jun. 23 </p> 
+ <a href="https://www.npr.org/2022/06/23/1106966981/ukraine-russia-g7-ports-food-security">Ahead of the G-7, Biden confronts Putin's latest geopolitical weapon — food</a> NPR: President Biden will attend the G-7 summit in Germany this weekend, where leaders are expected to address food insecurity stemming from Russia's blockade of Ukrainian ports on the Black Sea. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 01:31 AM CT, Jun. 23 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/22/1106863274/ukraine-could-become-a-candidate-to-join-the-eu-heres-what-it-takes-to-get-in">Ukraine could become a candidate to join the EU. Here's what it takes to get in</a> NPR: European Union leaders will meet Thursday in Brussels where they are expected to approve Ukraine as a candidate to join the EU — a process that is neither quick nor easy. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
- <p class="updated_time"> 03:35 PM CT, Jun. 22 </p> 
- <a href="https://www.npr.org/2022/06/22/1106863197/more-than-1-000-people-are-dead-after-earthquake-in-eastern-afghanistan">More than 1,000 people are dead after earthquake in eastern Afghanistan</a> NPR: More than 1,000 people are dead after a 5.9 earthquake struck eastern Afghanistan overnight on Wednesday. For a country already experiencing widescale hunger and poverty, it is one more tragedy. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
  <p class="updated_time"> 11:00 AM CT, Jun. 22 </p> 
