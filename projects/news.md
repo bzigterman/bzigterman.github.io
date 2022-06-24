@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:23 AM CT, Jun. 24 </p> 
+ <p class="updated_time"> 09:41 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court strikes down abortion rights</a> BBC: Millions of women lose the legal right to abortion after the Supreme Court overturns Roe v Wade. 
+ <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916553?at_medium=RSS&at_campaign=KARANGA">Saudis free youngest prisoner who faced execution</a> BBC: Murtaja Qureiris was held for eight years for alleged involvement in a protest when he was 10. 
+ <p class="updated_time"> 09:32 AM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 08:52 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916554?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN says an Israeli shot killed Al Jazeera journalist</a> BBC: It is the first UN probe into the death of Shireen Abu Aqla, shot during an Israeli operation in May. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
- <p class="updated_time"> 06:49 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Ukraine orders forces to withdraw from key eastern city</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
@@ -35,10 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
- <p class="updated_time"> 11:22 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61919761?at_medium=RSS&at_campaign=KARANGA">Aukus: Australia's new PM vows 'reset' with France after submarine row</a> BBC: It follows the French president accusing Australia's ex-PM of lying to him over a submarine deal. 
- <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
  <p class="updated_time"> 10:46 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Orders Withdrawal From Severodonetsk to Avoid Encirclement</a> WSJ: The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area. 
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
@@ -57,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61906803?at_medium=RSS&at_campaign=KARANGA">Tangshan and Xuzhou: Fury and questions over China's treatment of women</a> BBC: Two prominent cases of abuse have ignited a debate about misogyny among the country's young women. 
  <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 06:10 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61909617?at_medium=RSS&at_campaign=KARANGA">World's lowest parachute jump attempt</a> BBC: Former paratrooper, John Bream, jumped from 85 ft (26m) in order to claim the title. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
  <p class="updated_time"> 04:34 PM CT, Jun. 23 </p> 
@@ -69,16 +65,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
- <p class="updated_time"> 02:57 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61914167?at_medium=RSS&at_campaign=KARANGA">Netflix cuts 300 more jobs after subscriptions fall</a> BBC: In April the streaming giant reported its first subscriber loss in more than a decade. 
  <p class="updated_time"> 02:48 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61891467?at_medium=RSS&at_campaign=KARANGA">EU awards Ukraine and Moldova candidate status</a> BBC: President Zelensky calls it a "unique and historical moment... Ukraine's future is within the EU". 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 01:35 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61916736?at_medium=RSS&at_campaign=KARANGA">French Banksy: Eight guilty in theft of Bataclan mural</a> BBC: The men all receive four year sentences after the mural was stolen from a door at the concert hall. 
- <p class="updated_time"> 01:12 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61916694?at_medium=RSS&at_campaign=KARANGA">Florida nabs largest python ever found in state</a> BBC: The female python was nearly 18ft long (5m) - and was pregnant with an astonishing 122 eggs. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
@@ -128,6 +120,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
  <p class="updated_time"> 06:13 AM CT, Jun. 24 </p> 
@@ -160,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151077/trump-tried-to-use-the-doj-in-his-effort-to-overturn-election-ex-doj-officials-s">Trump tried to use the DOJ in his effort to overturn election, ex-DOJ officials said</a> NPR: The House Jan. 6 committee held a hearing Thursday with testimony from former DOJ officials on how Donald Trump tried to use the department to spread false claims about election fraud. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
- <p class="updated_time"> 03:44 PM CT, Jun. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
 
 </details>
