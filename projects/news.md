@@ -20,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:18 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61919424?at_medium=RSS&at_campaign=KARANGA">Toyota recalls electric cars over concerns about loose wheels</a> BBC: The bZ4X is the Japanese motor industry giant's first mass-produced all-electric vehicle. 
  <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of carmaker Nio's Shanghai HQ, and a smashed vehicle below. 
+ <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
  <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Zero evidence of voter fraud, lawyers told Trump</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
  <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
