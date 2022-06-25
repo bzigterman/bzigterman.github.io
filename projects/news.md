@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
+ <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
  <p class="updated_time"> 09:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman known to security services killed two and injured 21. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
@@ -49,12 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24">4 months into the Russia-Ukraine war: What happened today (June 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:49 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61929723?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Survivors count horrific cost</a> BBC: Near the epicentre of the quake that struck Afghanistan this week, houses lie in ruins. 
  <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
- <p class="updated_time"> 02:58 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">Congress passes first gun control bill in decades</a> BBC: The landmark bipartisan bill now heads to President Joe Biden's desk to be signed into law. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
