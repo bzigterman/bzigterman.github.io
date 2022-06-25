@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
  <p class="updated_time"> 03:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a nightlife district of Oslo left two people dead and 21 injured, police say. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
@@ -24,7 +26,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: A different Russia-Ukraine battle in India</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: Russia and Ukraine face off in India amid war</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
  <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61884941?at_medium=RSS&at_campaign=KARANGA">Kidnap alert heightens Iran-Israel shadow war fears</a> BBC: The warnings for Israeli tourists join assassinations and sabotage as the foes aim at each other. 
  <p class="updated_time"> 06:02 PM CT, Jun. 24 </p> 
