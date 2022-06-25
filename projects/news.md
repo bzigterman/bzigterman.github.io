@@ -25,12 +25,12 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Tehran. He did not give a specific date but said the negotiations would reopen quickly. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
+ <p class="updated_time"> 03:52 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529">Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</a> WSJ: Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
- <p class="updated_time"> 12:27 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/shooting-outside-gay-nightclub-in-norway-kills-two-sparks-terrorism-investigation-11656149242">Shooting Outside Gay Bar in Norway Kills Two, Sparks Terrorism Investigation</a> WSJ: The overnight attack left 14 people wounded and prompted organizers of the city’s Pride march to cancel the celebration hours before it was meant to begin. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
@@ -59,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
- <p class="updated_time"> 10:22 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
