@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
+ <p class="updated_time"> 04:24 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61940007?at_medium=RSS&at_campaign=KARANGA">G7 face battle for unity as cost of Ukraine war mounts</a> BBC: The Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria. 
  <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Dozens die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with 23 killed and many injured. 
  <p class="updated_time"> 03:03 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
- <p class="updated_time"> 01:57 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
  <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 10:26 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, EU Foreign-Policy Chief Says</a> WSJ: Josep Borrell, speaking after meeting Iran’s foreign minister in Tehran, cautions that the prospects of reaching a deal remain far from certain. 
+ <p class="updated_time"> 09:54 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
  <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
@@ -41,10 +45,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401">Shanghai's Covid Lockdown Legacy: Confusion, Despair, Departure</a> WSJ: Diaries of residents who lived through the city’s long battle against Covid-19 reveal their journey from complacency to shock to a growing sense of disillusionment with the government. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
- <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests against US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
@@ -71,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 09:38 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916553?at_medium=RSS&at_campaign=KARANGA">Saudis free youngest prisoner who faced execution</a> BBC: Murtaja Qureiris was held for eight years for alleged involvement in a protest when he was 10. 
- <p class="updated_time"> 09:22 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61925862?at_medium=RSS&at_campaign=KARANGA">USS Samuel B Roberts: World's deepest shipwreck discovered</a> BBC: The US Navy ship "Sammy B" sank off the Philippines in a ferocious WWII battle with the Japanese. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
@@ -114,7 +116,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:43 PM CT, Jun. 25 </p> 
+ <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
