@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:17 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Police treating bar killings as terrorist attack</a> BBC: Two people are killed and 21 injured at a popular gay bar and in nearby streets of Norway's capital. 
+ <p class="updated_time"> 03:20 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a nightlife district of Oslo left two people dead and 21 injured, police say. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Norwegian police say 2 were killed and 14 hurt in an Oslo mass shooting</a> NPR: A suspect was arrested, a police spokesperson said. It wasn't clear whether the shooting had any connection to the Pride parade that was to be held Saturday in Oslo. 
+ <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Shooting in Oslo that killed 2 and wounded 14 investigated as possible terror attack</a> NPR: The shooting occurred outside a bar popular with the city's LGBTQ community, hours before Oslo's Pride parade was to take place. Organizers canceled all Pride events on the advice of police. 
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
