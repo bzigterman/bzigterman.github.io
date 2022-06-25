@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
+ <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 07:22 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
@@ -67,12 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
  <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
- <p class="updated_time"> 10:28 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-61919581?at_medium=RSS&at_campaign=KARANGA">Two killed as Nio electric car falls from third floor office in Shanghai</a> BBC: Pictures show a gaping hole in the side of car maker Nio's Shanghai HQ, and a smashed vehicle below. 
- <p class="updated_time"> 10:03 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61918350?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearing: Lawyers threatened to quit over Trump election pressure</a> BBC: The Capitol riot panel hears of an explosive showdown between Trump and justice department lawyers. 
- <p class="updated_time"> 07:10 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61919244?at_medium=RSS&at_campaign=KARANGA">Bodies of Dom Phillips and Bruno Pereira returned to families</a> BBC: The men were killed in Brazil's Amazon earlier this month while returning from an expedition. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
  <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
