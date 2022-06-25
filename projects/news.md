@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 04:58 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a busy nightlife district of Oslo left two people dead and 21 injured, police say. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: Two were killed and 21 injured ahead of Oslo Pride, and police say it may have been a hate crime. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
