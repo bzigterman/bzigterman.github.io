@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 10:24 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Police have arrested a suspect but no motive for the attack has yet been given. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Fourteen people are wounded in the attack, some seriously, and a suspect has been arrested 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
