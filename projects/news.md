@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:09 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman known to security services killed two and injured 21. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
- <p class="updated_time"> 04:58 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: Two were killed and 21 injured ahead of Oslo Pride, and police say it may have been a hate crime. 
  <p class="updated_time"> 04:25 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Iran. He did not give a specific date but said the negotiations would resume “quickly.” 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Tehran. He did not give a specific date but said the negotiations would reopen quickly. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
@@ -30,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with many killed and injured. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
