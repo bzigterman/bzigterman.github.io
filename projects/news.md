@@ -15,12 +15,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
  <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
+ <p class="updated_time"> 10:26 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, EU Foreign-Policy Chief Says</a> WSJ: Josep Borrell, speaking after meeting Iran’s foreign minister in Tehran, cautions that the prospects of reaching a deal remain far from certain. 
  <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
- <p class="updated_time"> 09:30 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, EU Foreign-Policy Chief Says</a> WSJ: Josep Borrell, speaking after meeting Iran’s foreign minister in Tehran, cautions that the prospects of reaching a deal remain far from certain. 
  <p class="updated_time"> 09:18 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/shooting-outside-gay-nightclub-in-norway-kills-two-sparks-terrorism-investigation-11656149242">Shooting Outside Gay Bar in Norway Kills Two</a> WSJ: The overnight attack left 21 people wounded and prompted organizers of the city’s Pride march to cancel the celebration hours before it was scheduled to begin. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
