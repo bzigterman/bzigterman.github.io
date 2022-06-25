@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a busy nightlife district of Oslo left two people dead and 21 injured, police say. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
- <p class="updated_time"> 03:54 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a nightlife district of Oslo left two people dead and 21 injured, police say. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
