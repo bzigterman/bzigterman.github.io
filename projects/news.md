@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:03 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
  <p class="updated_time"> 01:57 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
- <p class="updated_time"> 12:01 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
  <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 10:26 AM CT, Jun. 25 </p> 
@@ -46,7 +46,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests against US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: Russia and Ukraine face off in India amid war</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
  <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
