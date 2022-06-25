@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: A different Russia-Ukraine battle in India</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
  <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/latin-grammy-winner-gets-9-year-prison-sentence-in-cuba-11656105948">Latin Grammy Winner Gets 9-Year Prison Sentence in Cuba</a> WSJ: Cuban court sentences rapper Maykel Castillo and artist Luis Manuel Otero for contempt, public disorder and desecrating national symbols. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
- <p class="updated_time"> 12:53 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61928898?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court ends constitutional right to abortion</a> BBC: States can decide to ban abortion after the Supreme Court overrules the landmark Roe v Wade case. 
  <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61929438?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Why this is a seismic day in America</a> BBC: The divide in America has become even deeper after this Supreme Court ruling, writes Sarah Smith. 
  <p class="updated_time"> 10:22 AM CT, Jun. 24 </p> 
@@ -144,6 +144,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/06/24/1107316711/doctors-ethical-bind-abortion">For doctors, abortion restrictions create an 'impossible choice' when providing care</a> NPR: Physicians must treat in line with patients' wishes and standards of care. Some medical ethicists say that abortion bans will force doctors to disregard these obligations in order to follow the law. 
  <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
+ <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
+ <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
  <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Following Roe's reversal, Biden calls it 'a sad day' for the court and the U.S. </a> NPR: President Joe Biden noted that this is the first time the court has revoked a constitutional right. Now that Roe has been overturned, "the health and life of women in this nation are now at risk." 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
