@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:30 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
  <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
- <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 10:22 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814">Ukraine Troops Retreat From Severodonetsk After Long Battle</a> WSJ: The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
