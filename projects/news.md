@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:56 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Police treating bar killings as terrorist attack</a> BBC: Two people are killed and 14 injured at a popular gay bar and in nearby streets of Norway's capital. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
- <p class="updated_time"> 01:24 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Fourteen people are wounded in the attack, some seriously, and a suspect has been arrested. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
