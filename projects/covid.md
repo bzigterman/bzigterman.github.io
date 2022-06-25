@@ -1879,16 +1879,16 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">488K</td>
-<td class="gt_row gt_right">609K</td>
-<td class="gt_row gt_right">+25%</td></tr>
+<td class="gt_row gt_right">635K</td>
+<td class="gt_row gt_right">+30%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">1K</td>
 <td class="gt_row gt_right gt_striped">1K</td>
-<td class="gt_row gt_right gt_striped">&minus;3%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;1%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">9M</td>
 <td class="gt_row gt_right">6M</td>
-<td class="gt_row gt_right">&minus;34%</td></tr>
+<td class="gt_row gt_right">&minus;36%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
@@ -1900,7 +1900,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   
@@ -1909,12 +1909,12 @@ html {
 
 ## Case Acceleration
 
-As of Thursday, the 14-day percent change in average new cases was:
+As of Friday, the 14-day percent change in average new cases was:
   
 - -31% in Champaign County
 - -26% in Illinois
-- -11% in the United States
-- 25% worldwide
+- -5% in the United States
+- 30% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1926,11 +1926,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Thursday, the 14-day percent change in average new deaths was:
+As of Friday, the 14-day percent change in average new deaths was:
   
 - -28% in Illinois
-- 20% in the United States
-- -4% worldwide
+- 37% in the United States
+- -1% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"

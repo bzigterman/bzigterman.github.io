@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 10:24 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Fourteen people are wounded in the attack, some seriously, and a suspect has been arrested 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
- <p class="updated_time"> 07:22 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: A different Russia-Ukraine battle in India</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
  <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
@@ -109,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
  <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
- <p class="updated_time"> 12:01 AM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61868874?at_medium=RSS&at_campaign=KARANGA">Upskirt photos shared in Facebook groups, BBC finds</a> BBC: Meta says it has removed accounts and groups showing upskirting, after a BBC investigation. 
 
 
 </details>
