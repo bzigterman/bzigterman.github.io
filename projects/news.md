@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:58 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: Two were killed and 21 injured ahead of Oslo Pride, and police say it may have been a hate crime. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
@@ -18,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride canceled after shootings kill 2 and seriously wound 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
+ <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel parade after shootings kill 2 and wound 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
- <p class="updated_time"> 08:04 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106994140/sri-lankan-prime-minister-says-nations-economy-has-collapsed">Sri Lankan prime minister says that the nation's economy has collapsed</a> NPR: Sri Lanka's debt-laden economy has "collapsed" after months of shortages of food, fuel and electricity, the prime minister told lawmakers Wednesday. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
@@ -120,6 +120,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628750/s-c-gubernatorial-candidate-says-there-should-be-age-limits-for-elected-official">S.C. gubernatorial candidate says there should be age limits for elected officials</a> NPR: NPR's Susan Davis speaks with Joe Cunningham, former South Carolina congressman, about his campaign for governor and his position on age limits for politicians. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628729/jan-6-committee-alleges-that-6-congressional-republicans-sought-pardons-from-tru">Jan. 6 committee alleges that 6 Congressional Republicans sought pardons from Trump</a> NPR: The House Jan. 6 committee released testimony alleging that some Republican members of Congress sought pardons from then-President Donald Trump for their roles in trying to subvert the 2020 elections. 
+ <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628715/the-supreme-court-is-at-its-most-conservative-now-from-the-last-75-years">The Supreme Court is at its most conservative now from the last 75 years</a> NPR: The Supreme Court's abortion decision, along with a ruling on guns earlier in the week, continues the current court's move to the political right. 
  <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107423114/the-jan-6-committee-has-learned-some-lessons-from-previous-televised-hearings">The Jan. 6 committee has learned some lessons from previous televised hearings</a> NPR: The most telling testimony against the Republican former president has come from Republicans he appointed or who supported him and voted for him (and, in some cases, say they would do so again). 
  <p class="updated_time"> 05:07 PM CT, Jun. 24 </p> 
@@ -142,18 +150,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107531630/context-and-perspective-on-abortion-and-gun-rights-after-this-weeks-scotus-decis">Context and perspective on abortion and gun rights after this week's SCOTUS decisions</a> NPR: NPR's Mary Louise Kelly talks with Washington Free Beacon editor-in-chief Eliana Johnson and Washington Post politics reporter Amber Phillips about the overturning of Roe and developments on gun laws. 
  <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/06/24/1107316711/doctors-ethical-bind-abortion">For doctors, abortion restrictions create an 'impossible choice' when providing care</a> NPR: Physicians must treat in line with patients' wishes and standards of care. Some medical ethicists say that abortion bans will force doctors to disregard these obligations in order to follow the law. 
- <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
- <p class="updated_time"> 11:14 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107360710/biden-suprume-court-overturn-roe-v-wade-abortion">Following Roe's reversal, Biden calls it 'a sad day' for the court and the U.S. </a> NPR: President Joe Biden noted that this is the first time the court has revoked a constitutional right. Now that Roe has been overturned, "the health and life of women in this nation are now at risk." 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 09:17 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn">Supreme Court overturns Roe v. Wade, ending right to abortion upheld for decades</a> NPR: The U.S. Supreme Court has overturned the constitutional right to an abortion, reversing Roe v. Wade, the court's five-decade-old decision that guaranteed a woman's right to obtain an abortion. 
- <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
