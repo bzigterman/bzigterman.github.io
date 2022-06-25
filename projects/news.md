@@ -107,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
- <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
 
 
 </details>
