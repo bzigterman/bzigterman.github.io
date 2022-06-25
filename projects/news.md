@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
+ <p class="updated_time"> 06:09 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia on brink of default as debt deadline looms</a> BBC: The country is close to its first default since 1998 as sanctions block payments to creditors 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
  <p class="updated_time"> 05:41 PM CT, Jun. 25 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
- <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
 
 
 </details>
