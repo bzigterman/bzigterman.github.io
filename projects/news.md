@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Fourteen people are wounded in the attack, some seriously, and a suspect has been arrested. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Norwegian police say 2 were killed and at least a dozen hurt in an Oslo mass shooting</a> NPR: A suspect was arrested, a police spokesperson said. It wasn't clear whether the shooting had any connection to the Pride parade that was to be held Saturday in Oslo. 
+ <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Norwegian police say 2 were killed and 14 hurt in an Oslo mass shooting</a> NPR: A suspect was arrested, a police spokesperson said. It wasn't clear whether the shooting had any connection to the Pride parade that was to be held Saturday in Oslo. 
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
- <p class="updated_time"> 10:24 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Fourteen people are wounded in the attack, some seriously, and a suspect has been arrested 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
