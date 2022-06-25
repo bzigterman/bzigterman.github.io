@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:24 PM CT, Jun. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Two killed in nightlife district attack</a> BBC: Police have arrested a suspect but no motive for the attack has yet been given. 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Eighteen dead in mass break-in to Spanish enclave of Melilla</a> BBC: A huge crowd of migrants tries to cross into Melilla in North Africa, with many killed and injured. 
  <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
@@ -59,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
- <p class="updated_time"> 05:39 AM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61921222?at_medium=RSS&at_campaign=KARANGA">Japanese man loses USB stick with entire city's personal details</a> BBC: A Japanese worker lost a USB stick containing the data of 460,000 people during a night out. 
  <p class="updated_time"> 04:52 AM CT, Jun. 24 </p> 
  <a href="https://www.wsj.com/articles/world-leaders-seek-solutions-to-food-shortages-caused-by-ukraine-war-11656078747">World Leaders Seek Solutions to Food Shortages</a> WSJ: Officials from the world’s most advanced economies gathered in Berlin to find solutions to shortages that have been exacerbated by the economic war under way between Russia and the West. 
  <p class="updated_time"> 04:19 AM CT, Jun. 24 </p> 
