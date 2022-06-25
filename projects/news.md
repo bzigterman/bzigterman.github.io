@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:58 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: Two were killed and 21 injured ahead of Oslo Pride, and police say it may have been a hate crime. 
+ <p class="updated_time"> 04:25 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Iran. He did not give a specific date but said the negotiations would resume “quickly.” 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
- <p class="updated_time"> 02:32 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Iran. He did not give a specific date but said the negotiations would resume “quickly.” 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
  <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
- <p class="updated_time"> 09:00 AM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106992339/diego-maradona-death-argentina-homicide-trial">An Argentine judge orders 8 to face a homicide trial in soccer star Maradona's death </a> NPR: The defendants include a neurosurgeon, two nurses and a car coordinator. Diego Maradona was under their care when he died at age 60 — and prosecutors say they were recklessly negligent. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
  <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
@@ -114,6 +114,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:26 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628813/could-fl-gov-desantis-successfully-challenge-trump-in-2024s-presidential-electio">Could Fl. Gov. DeSantis successfully challenge Trump in 2024's presidential election?</a> NPR: NPR's Susan Davis talks with New Yorker magazine staff writer Dexter Filkins about Florida Gov. Ron DeSantis and his growing strength in the Republican Party. 
+ <p class="updated_time"> 08:24 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107628806/week-in-politics-biden-urges-voters-to-look-to-november-elections-to-enact-chang">Week in politics: Biden urges voters to look to November elections to enact change</a> NPR: President Biden is urging voters to elect representatives who support abortion rights in November's election. But it's doubtful the issue will shift the balance of power in Congress. 
+ <p class="updated_time"> 08:04 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107626030/biden-signs-gun-safety-law">Biden signs gun safety bill into law</a> NPR: The president's signing comes just over a month after the mass shooting at an elementary school in Uvalde, Texas, killed 19 children and two adults. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628750/s-c-gubernatorial-candidate-says-there-should-be-age-limits-for-elected-official">S.C. gubernatorial candidate says there should be age limits for elected officials</a> NPR: NPR's Susan Davis speaks with Joe Cunningham, former South Carolina congressman, about his campaign for governor and his position on age limits for politicians. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
@@ -138,12 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107440547/the-abortion-case-is-named-after-thomas-dobbs-who-says-he-has-nothing-to-do-with">The abortion case is named after Thomas Dobbs, who says he has nothing to do with it</a> NPR: The "Dobbs" in the case title refers to Thomas Dobbs, an infectious diseases doctor who became Mississippi's top health officer the same year the state adopted new abortion restrictions. 
  <p class="updated_time"> 03:28 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531593/former-governor-whose-bill-was-at-the-center-of-roe-ruling-reacts-to-scotus-deci">Former governor whose bill was at the center of Roe ruling reacts to SCOTUS' decision</a> NPR: NPR's Mary Louise Kelly talks with Phil Bryant, the former governor of Mississippi, who signed a bill that bans abortions after 15 weeks. 
- <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107531693/the-atmosphere-outside-the-supreme-court-where-some-protest-and-others-celebrate">The atmosphere outside the Supreme Court, where some protest and others celebrate</a> NPR: Activists from both sides of the abortion issue gathered outside the Supreme Court today. Some were celebrating. Some were protesting. 
- <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107531630/context-and-perspective-on-abortion-and-gun-rights-after-this-weeks-scotus-decis">Context and perspective on abortion and gun rights after this week's SCOTUS decisions</a> NPR: NPR's Mary Louise Kelly talks with Washington Free Beacon editor-in-chief Eliana Johnson and Washington Post politics reporter Amber Phillips about the overturning of Roe and developments on gun laws. 
- <p class="updated_time"> 03:26 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/06/24/1107316711/doctors-ethical-bind-abortion">For doctors, abortion restrictions create an 'impossible choice' when providing care</a> NPR: Physicians must treat in line with patients' wishes and standards of care. Some medical ethicists say that abortion bans will force doctors to disregard these obligations in order to follow the law. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
  <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
