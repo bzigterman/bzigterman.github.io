@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
  <p class="updated_time"> 12:01 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
  <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
- <p class="updated_time"> 10:30 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
  <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
+ <p class="updated_time"> 09:30 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, EU Foreign-Policy Chief Says</a> WSJ: Josep Borrell, speaking after meeting Iran’s foreign minister in Tehran, cautions that the prospects of reaching a deal remain far from certain. 
+ <p class="updated_time"> 09:18 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/shooting-outside-gay-nightclub-in-norway-kills-two-sparks-terrorism-investigation-11656149242">Shooting Outside Gay Bar in Norway Kills Two</a> WSJ: The overnight attack left 21 people wounded and prompted organizers of the city’s Pride march to cancel the celebration hours before it was scheduled to begin. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
- <p class="updated_time"> 04:25 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Tehran. He did not give a specific date but said the negotiations would reopen quickly. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
  <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/ukraines-tiny-snake-island-plays-an-outsize-role-in-the-war-11656162000">Ukraine's Tiny Snake Island Plays an Outsize Role in the War</a> WSJ: The rocky Black Sea outcrop has been fiercely contested territory since Russia conquered it in February. But for Moscow, it is as much a liability as an asset. 
  <p class="updated_time"> 03:52 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529">Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</a> WSJ: Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine. 
+ <p class="updated_time"> 02:52 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/union-boss-becomes-u-k-s-surprise-media-star-11656157962">Union Boss Becomes U.K.'s Surprise Media Star</a> WSJ: Mick Lynch has annoyed commuters by leading a rail strike, but he is winning admirers, too, as soaring inflation eats into wages. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
@@ -105,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
  <p class="updated_time"> 03:58 PM CT, Jun. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61904582?at_medium=RSS&at_campaign=KARANGA">Afghanistan rocked by major earthquake</a> BBC: The Taliban appeals for help as Afghanistan is shaken by its deadliest earthquake in two decades. 
- <p class="updated_time"> 12:40 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61902322?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: 'Sanctions have brought my factory to a standstill'</a> BBC: Sanctions leave Russia's exclave on the EU's borders struggling to trade. 
 
 
 </details>
@@ -114,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:43 PM CT, Jun. 25 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 08:26 AM CT, Jun. 25 </p> 
@@ -146,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107440547/the-abortion-case-is-named-after-thomas-dobbs-who-says-he-has-nothing-to-do-with">The abortion case is named after Thomas Dobbs, who says he has nothing to do with it</a> NPR: The "Dobbs" in the case title refers to Thomas Dobbs, an infectious diseases doctor who became Mississippi's top health officer the same year the state adopted new abortion restrictions. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
- <p class="updated_time"> 09:37 AM CT, Jun. 24 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
