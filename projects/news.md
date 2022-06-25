@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 10:30 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61936820?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Russia has full control of eastern city, Ukraine says</a> BBC: The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew. 
  <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Tehran. He did not give a specific date but said the negotiations would reopen quickly. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-tiny-snake-island-plays-an-outsize-role-in-the-war-11656162000">Ukraine's Tiny Snake Island Plays an Outsize Role in the War</a> WSJ: The rocky Black Sea outcrop has been fiercely contested territory since Russia conquered it in February. But for Moscow, it is as much a liability as an asset. 
  <p class="updated_time"> 03:52 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529">Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</a> WSJ: Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
