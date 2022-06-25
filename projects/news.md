@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
  <p class="updated_time"> 05:41 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 04:24 PM CT, Jun. 25 </p> 
@@ -101,14 +105,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
  <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
- <p class="updated_time"> 10:34 AM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61912737?at_medium=RSS&at_campaign=KARANGA">South Africa's Zondo commission: Damning report exposes rampant corruption</a> BBC: President Cyril Ramaphosa vows to have learnt the lessons but many South Africans are not convinced. 
  <p class="updated_time"> 01:41 AM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61906057?at_medium=RSS&at_campaign=KARANGA">Sexual harassment at Western Australia mines 'appalling and systemic'</a> BBC: It has been "generally accepted or overlooked" at sites run by large firms, a landmark report says. 
- <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-61882542?at_medium=RSS&at_campaign=KARANGA">What happened when Israel sent its refugees to Rwanda</a> BBC: As the UK presses on with its asylum deal, refugees sent from Israel to Rwanda describe their experiences. 
- <p class="updated_time"> 06:17 PM CT, Jun. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61874041?at_medium=RSS&at_campaign=KARANGA">Ukraine war: High school students pose in prom dresses among ruins</a> BBC: Photographer Stanislav Senyk organised a photo shoot of students in the bombed city of Chernihiv. 
 
 
 </details>
@@ -116,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 PM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107666598/roe-overturned-abortion-access-biden-senate-democrats">Biden must take stronger action on abortion, Senate Democrats say</a> NPR: With Roe v. Wade overturned, Senate Democrats want Biden to use presidential power to ease abortion access and protect those who seek the procedures. But he has limited options. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
@@ -146,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 04:00 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531637/how-congress-responds-to-roe-decision-may-affect-which-party-gets-control-in-nov">How Congress responds to Roe decision may affect which party gets control in November</a> NPR: The Supreme Court's abortion decision raises big questions around whether Congress will respond and how it could affect the campaign for control this November. 
- <p class="updated_time"> 03:48 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107440547/the-abortion-case-is-named-after-thomas-dobbs-who-says-he-has-nothing-to-do-with">The abortion case is named after Thomas Dobbs, who says he has nothing to do with it</a> NPR: The "Dobbs" in the case title refers to Thomas Dobbs, an infectious diseases doctor who became Mississippi's top health officer the same year the state adopted new abortion restrictions. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
