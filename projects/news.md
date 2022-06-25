@@ -15,6 +15,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: Two were killed and 21 injured ahead of Oslo Pride, and police say it may have been a hate crime. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
+ <p class="updated_time"> 02:32 AM CT, Jun. 25 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-to-resume-soon-says-eu-foreign-policy-chief-11656156747">Iran Nuclear Talks to Resume Soon, Says EU Foreign-Policy Chief</a> WSJ: Josep Borrell was speaking after meeting Iran’s foreign minister in Iran. He did not give a specific date but said the negotiations would resume “quickly.” 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61919752?at_medium=RSS&at_campaign=KARANGA">Congress passes first gun control bill in decades</a> BBC: The landmark bipartisan bill now heads to President Joe Biden's desk to be signed into law. 
  <p class="updated_time"> 02:21 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61931172?at_medium=RSS&at_campaign=KARANGA">Pompeii: Ancient pregnant tortoise surprises archaeologists</a> BBC: The reptile's 2,000-year-old remains are discovered by archaeologists buried in volcanic ash and rock. 
- <p class="updated_time"> 01:53 PM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/latin-grammy-winner-gets-9-year-prison-sentence-in-cuba-11656105948">Latin Grammy Winner Gets 9-Year Prison Sentence in Cuba</a> WSJ: Cuban court sentences rapper Maykel Castillo and artist Luis Manuel Otero for contempt, public disorder and desecrating national symbols. 
  <p class="updated_time"> 01:39 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61920708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv orders forces to withdraw from Severodonetsk</a> BBC: Severodonetsk is the current focus of Russia as it tries to take control of eastern Ukraine. 
  <p class="updated_time"> 11:29 AM CT, Jun. 24 </p> 
@@ -71,14 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
- <p class="updated_time"> 04:19 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-workers-brace-for-tough-times-as-real-wages-fall-11656076779">Europe's Workers Brace for Tough Times as Real Wages Fall</a> WSJ: Europeans are likely to see their spending power fall faster than their U.S. counterparts, as Russia’s invasion of Ukraine sends inflation on a fresh surge, threatening to push the continent into recession. 
- <p class="updated_time"> 03:34 AM CT, Jun. 24 </p> 
- <a href="https://www.wsj.com/articles/colombian-president-elects-economic-revamp-faces-cost-crunch-11656074047">Colombian President-Elect's  Economic Revamp Faces Cost Crunch</a> WSJ: Gustavo Petro proposed jobs for all and cuts to oil output, but many doubt he will have the funds or clout to implement sweeping change. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
- <p class="updated_time"> 11:33 PM CT, Jun. 23 </p> 
- <a href="https://www.wsj.com/articles/as-europe-opens-door-to-ukraine-nearby-georgia-falls-from-favor-11656059602">As Europe Opens Door to Ukraine, Nearby Georgia Falls From Favor</a> WSJ: When European Union officials cracked open the door to membership for Ukraine, they snubbed Georgia, another victim of Russian aggression. 
  <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
  <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
