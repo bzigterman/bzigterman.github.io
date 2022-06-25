@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:49 PM CT, Jun. 25 </p> 
+ <p class="updated_time"> 05:41 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 04:24 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61940007?at_medium=RSS&at_campaign=KARANGA">G7 face battle for unity as cost of Ukraine war mounts</a> BBC: The Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria. 
