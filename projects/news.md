@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:20 AM CT, Jun. 25 </p> 
+ <p class="updated_time"> 03:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Norway shooting: Man charged with terrorism after deadly Oslo attack</a> BBC: The attack in a nightlife district of Oslo left two people dead and 21 injured, police say. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Shooting in Oslo that killed 2 and wounded 14 investigated as possible terror attack</a> NPR: The shooting occurred outside a bar popular with the city's LGBTQ community, hours before Oslo's Pride parade was to take place. Organizers canceled all Pride events on the advice of police. 
+ <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride canceled after shootings kill 2 and seriously wound 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
  <p class="updated_time"> 11:59 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61933814?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion clinics start to close after Supreme Court ruling</a> BBC: After the Supreme Court removed the constitutional right to abortion, some states have outlawed it. 
  <p class="updated_time"> 08:37 PM CT, Jun. 24 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
+ <a href="https://www.npr.org/2022/06/25/1107423114/the-jan-6-committee-has-learned-some-lessons-from-previous-televised-hearings">The Jan. 6 committee has learned some lessons from previous televised hearings</a> NPR: The most telling testimony against the Republican former president has come from Republicans he appointed or who supported him and voted for him (and, in some cases, say they would do so again). 
  <p class="updated_time"> 05:07 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107538165/supreme-court-roe-v-wade-overturned-reactions">What people said outside the Supreme Court after Roe v. Wade was overturned</a> NPR: Demonstrators from both sides of the abortion issue gathered outside the Supreme Court after the justices overturned the constitutional right to an abortion. 
  <p class="updated_time"> 04:30 PM CT, Jun. 24 </p> 
@@ -150,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn">Supreme Court overturns Roe v. Wade, ending right to abortion upheld for decades</a> NPR: The U.S. Supreme Court has overturned the constitutional right to an abortion, reversing Roe v. Wade, the court's five-decade-old decision that guaranteed a woman's right to obtain an abortion. 
  <p class="updated_time"> 06:14 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107244422/what-can-a-documentary-filmmaker-add-to-the-record-of-the-jan-6-attacks">What can a documentary filmmaker add to the record of the Jan. 6 attacks?</a> NPR: NPR's Steve Inskeep talks to Alex Holder after his testimony to the House Select Committee, about his documentary with exclusive footage inside the Trump White House before and after the insurrection. 
- <p class="updated_time"> 06:13 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107244443/the-senate-passes-a-gun-control-bill-and-sends-it-to-the-house">The Senate passes a gun control bill and sends it to the House</a> NPR: The Senate passed the first major gun legislation in nearly three decades. It would incentivize states to pass red flag laws and expand background checks for 18 to 21-year-olds, among other measures. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
  <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
