@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets around the country, as world leaders discuss their response in Germany. 
+ <p class="updated_time"> 12:46 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets in many areas, as world leaders discuss further military support for Ukraine. 
+ <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24">4 months into the Russia-Ukraine war: What happened today (June 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:15 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691249/texas-has-banned-almost-all-abortions-but-its-taken-decades">Texas has banned almost all abortions — but it's taken decades</a> NPR: Nine years ago, state Sen. Wendy Davis stopped a vote on a bill that would have forced Texas abortion facilities to close. Now abortions will soon be illegal in the state with few exceptions. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628729/jan-6-committee-alleges-that-6-congressional-republicans-sought-pardons-from-tru">Jan. 6 committee alleges that 6 Congressional Republicans sought pardons from Trump</a> NPR: The House Jan. 6 committee released testimony alleging that some Republican members of Congress sought pardons from then-President Donald Trump for their roles in trying to subvert the 2020 elections. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628715/the-supreme-court-is-at-its-most-conservative-now-from-the-last-75-years">The Supreme Court is at its most conservative now from the last 75 years</a> NPR: The Supreme Court's abortion decision, along with a ruling on guns earlier in the week, continues the current court's move to the political right. 
- <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107423114/the-jan-6-committee-has-learned-some-lessons-from-previous-televised-hearings">The Jan. 6 committee has learned some lessons from previous televised hearings</a> NPR: The most telling testimony against the Republican former president has come from Republicans he appointed or who supported him and voted for him (and, in some cases, say they would do so again). 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
