@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:15 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61943248?at_medium=RSS&at_campaign=KARANGA">Huge fire engulfs ferry in Philippines</a> BBC: More than 100 people are rescued from a ferry between two islands in the central Philippines. 
+ <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
+ <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61943248?at_medium=RSS&at_campaign=KARANGA">Huge fire engulfs ferry in Philippines</a> BBC: All but two of 165 people who were aboard a blazing ferry are rescued in the central Philippines. 
+ <p class="updated_time"> 06:53 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
  <p class="updated_time"> 05:48 AM CT, Jun. 26 </p> 
@@ -89,12 +93,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
- <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
- <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
 
 
 </details>
@@ -102,6 +102,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691249/texas-has-banned-almost-all-abortions-but-its-taken-decades">Texas has banned almost all abortions — but it's taken decades</a> NPR: Nine years ago, state Sen. Wendy Davis stopped a vote on a bill that would have forced Texas abortion facilities to close. Now abortions will soon be illegal in the state with few exceptions. 
+ <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691235/michigan-is-looking-to-ban-abortions-it-may-rest-on-the-gubernatorial-election">Michigan is looking to ban abortions. It may rest on the gubernatorial election</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation. It will be a main campaign issue for Democratic Gov. Gretchen Whitmer and her most competitive Republican rival, Tudor Dixon. 
+ <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691228/sen-mitch-mcconnell-is-illuminating-the-legal-conservative-route-for-republicans">Sen. Mitch McConnell is illuminating the legal conservative route for Republicans</a> NPR: Much of the credit for the overturning of Roe v. Wade goes to Sen. Mitch McConnell, R-Ky., who helped install the conservative majority on the Supreme Court. He may not be finished. 
+ <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 06:15 PM CT, Jun. 25 </p> 
@@ -126,14 +134,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628715/the-supreme-court-is-at-its-most-conservative-now-from-the-last-75-years">The Supreme Court is at its most conservative now from the last 75 years</a> NPR: The Supreme Court's abortion decision, along with a ruling on guns earlier in the week, continues the current court's move to the political right. 
  <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107423114/the-jan-6-committee-has-learned-some-lessons-from-previous-televised-hearings">The Jan. 6 committee has learned some lessons from previous televised hearings</a> NPR: The most telling testimony against the Republican former president has come from Republicans he appointed or who supported him and voted for him (and, in some cases, say they would do so again). 
- <p class="updated_time"> 05:07 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107538165/supreme-court-roe-v-wade-overturned-reactions">What people said outside the Supreme Court after Roe v. Wade was overturned</a> NPR: Demonstrators from both sides of the abortion issue gathered outside the Supreme Court after the justices overturned the constitutional right to an abortion. 
- <p class="updated_time"> 04:30 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107445443/supreme-court-majority-and-dissent-opinions-dobbs-reveal-schism">The Supreme Court's majority and dissent opinions on Dobbs reveal a massive schism</a> NPR: "The Constitution does not confer a right to abortion," Justice Samuel Alito wrote for the majority. The court's liberals warn that other rights could now be vulnerable. 
- <p class="updated_time"> 04:28 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107531679/biden-says-it-is-up-to-voters-if-they-want-to-see-abortion-rights-restored">Biden says it is up to voters if they want to see abortion rights restored</a> NPR: The White House has reacted somberly to the Supreme Court ruling that has overturned Roe v. Wade. President Biden said there's little he can do on his own to change the situation. 
- <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
  <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
