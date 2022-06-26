@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
+ <p class="updated_time"> 04:12 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: Hundreds of people are injured after a wooden stand fell, local media report. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
- <p class="updated_time"> 03:32 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: Hundreds of people are injured after a wooden stand fell, local media report. 
  <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945378?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Conflict overshadows G7 summit</a> BBC: Russia pounds Ukraine with missiles for a second day, ahead of a key G7 summit of Western leaders. 
  <p class="updated_time"> 12:46 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets in many areas, as world leaders discuss further military support for Ukraine. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
+ <p class="updated_time"> 11:41 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/g-7-close-to-agreement-on-exploring-new-sanction-capping-russian-oil-price-11656276097">G-7 Close to Pact on Exploring New Sanction Capping Russian Oil Price</a> WSJ: The move is designed to counter the sharp increase in prices that have accompanied previous sanction rounds targeting Moscow’s energy exports. 
  <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
@@ -63,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-s-held-secret-meeting-with-israeli-arab-military-chiefs-to-counter-iran-air-threat-11656235802">U.S. Held Secret Meeting With Israeli, Arab Military Chiefs to Counter Iran Air Threat</a> WSJ: The meeting in Sharm El Sheikh, Egypt, included military officials from Israel, Saudi Arabia, Qatar, Jordan, Egypt, the U.A.E. and Bahrain. 
  <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
- <p class="updated_time"> 12:00 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/central-banks-should-raise-rates-sharply-or-risk-high-inflation-era-bis-warns-11656234002">Central Banks Should Raise Rates Sharply or Risk High-Inflation Era, BIS Warns</a> WSJ: The Bank for International Settlements cautions that the steps necessary to get inflation under control could raise global economic costs. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61892780?at_medium=RSS&at_campaign=KARANGA">The Indians choosing not to have children</a> BBC: A growing number of Indians are deciding to not become parents. The BBC spoke to them to find out why. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
