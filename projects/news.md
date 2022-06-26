@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: The cause of the deaths remains unclear, and police say an investigation is ongoing. 
  <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107688656/russia-strikes-kyiv-as-troops-consolidate-gains-in-the-east">Russia strikes Kyiv as troops consolidate gains in the east</a> NPR: Russia attacked the Ukrainian capital Sunday, hitting at least two residential buildings, Kyiv Mayor Vitali Klitschko said. He said "it is maybe a symbolic attack" ahead of this week's NATO summit. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
- <p class="updated_time"> 04:01 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 17 found dead in South Africa nightclub</a> BBC: The cause of the deaths remains unclear, and police say an investigation is ongoing. 
  <p class="updated_time"> 03:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61941589?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK joins ban on imports of Russian gold</a> BBC: The move by the UK, US, Canada and Japan will "strike at the heart of Putin's war machine", the UK PM says. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
