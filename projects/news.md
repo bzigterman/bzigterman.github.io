@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61943248?at_medium=RSS&at_campaign=KARANGA">Huge fire engulfs ferry in Philippines</a> BBC: More than 100 people are rescued from a ferry between two islands in the central Philippines. 
+ <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
  <p class="updated_time"> 05:48 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: The cause of the deaths remains unclear, and police say an investigation is ongoing. 
  <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
@@ -19,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61941589?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK joins ban on imports of Russian gold</a> BBC: The move by the UK, US, Canada and Japan will "strike at the heart of Putin's war machine", the UK PM says. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
+ <p class="updated_time"> 12:54 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/g-7-summit-brings-together-leaders-weakened-by-inflation-impatience-at-home-11656234001">G-7 Summit Brings Together Leaders Weakened by Inflation, Impatience at Home</a> WSJ: The allies aim to project unity in their confrontation with Russia and sketch a plan for Ukraine’s reconstruction, but a grim economic and political backdrop on both sides of the Atlantic is sure to test their resolve. 
  <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
@@ -43,16 +49,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
- <p class="updated_time"> 09:18 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/shooting-outside-gay-nightclub-in-norway-kills-two-sparks-terrorism-investigation-11656149242">Shooting Outside Gay Bar in Norway Kills Two</a> WSJ: The overnight attack left 21 people wounded and prompted organizers of the city’s Pride march to cancel the celebration hours before it was scheduled to begin. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
- <p class="updated_time"> 04:00 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/ukraines-tiny-snake-island-plays-an-outsize-role-in-the-war-11656162000">Ukraine's Tiny Snake Island Plays an Outsize Role in the War</a> WSJ: The rocky Black Sea outcrop has been fiercely contested territory since Russia conquered it in February. But for Moscow, it is as much a liability as an asset. 
  <p class="updated_time"> 03:52 AM CT, Jun. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529">Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</a> WSJ: Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine. 
  <p class="updated_time"> 02:52 AM CT, Jun. 25 </p> 
@@ -61,12 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
- <p class="updated_time"> 12:30 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401">Shanghai's Covid Lockdown Legacy: Confusion, Despair, Departure</a> WSJ: Diaries of residents who lived through the city’s long battle against Covid-19 reveal their journey from complacency to shock to a growing sense of disillusionment with the government. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
- <p class="updated_time"> 08:02 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61933487?at_medium=RSS&at_campaign=KARANGA">Billie Eilish protests against US abortion ruling at Glastonbury</a> BBC: The 20-year-old calls the decision to end the constitutional right to abortion a "dark day". 
  <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: Russia and Ukraine face off in India amid war</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
  <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
@@ -93,16 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 01:22 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107240619/british-conservatives-lose-2-elections-in-blow-to-pm-boris-johnson">British Conservatives lose 2 elections in blow to PM Boris Johnson</a> NPR: Defeat in the two district contests increases jitters among Conservatives who worry the erratic and divisive prime minister is no longer an electoral asset. 
- <p class="updated_time"> 07:03 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61910835?at_medium=RSS&at_campaign=KARANGA">Glastonbury 2022: Billie Eilish to make history as youngest-ever headliner</a> BBC: The pop star will be the festival's youngest-ever solo headliner when she tops the bill on Friday. 
- <p class="updated_time"> 07:02 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61905894?at_medium=RSS&at_campaign=KARANGA">Maharashtra: What is India's 'luxury resort politics'?</a> BBC: In India, politicians are often whisked away to fancy resorts at the time of a crisis - why? 
- <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61735603?at_medium=RSS&at_campaign=KARANGA">US immigration: 'They'd rather die than return to Nicaragua'</a> BBC: A record number of Nicaraguans are heading to the US as conditions worsen at home. 
- <p class="updated_time"> 06:51 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61906803?at_medium=RSS&at_campaign=KARANGA">Tangshan and Xuzhou: Fury and questions over China's treatment of women</a> BBC: Two prominent cases of abuse have ignited a debate about misogyny among the country's young women. 
- <p class="updated_time"> 06:29 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61907505?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 17-23 June 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
