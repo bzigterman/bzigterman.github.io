@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 05:01 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Scores of people are injured and four have died after a wooden stand fell, local officials say. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
