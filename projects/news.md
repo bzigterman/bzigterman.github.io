@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:35 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61941172?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Memorial service take place at Oslo Cathedral</a> BBC: Royals and the prime minister joined a service to remember two killed and 21 injured near a gay bar. 
  <p class="updated_time"> 08:27 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691298/russian-missiles-hit-western-ukraine">Russian missiles hit western Ukraine</a> NPR: Russian missiles hit cities in western Ukraine throughout the weekend, an escalation that has punctured the relative lull in fighting in and around Kyiv. 
  <p class="updated_time"> 08:11 AM CT, Jun. 26 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
  <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Dozens die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with 23 killed and many injured. 
- <p class="updated_time"> 03:03 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61933817?at_medium=RSS&at_campaign=KARANGA">Oslo shooting: Norway attack being treated as Islamist terrorism, police say</a> BBC: Witnesses hid in a gay bar's basement as a gunman fired on a crowd, killing two and injuring 21. 
  <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 10:26 AM CT, Jun. 25 </p> 
