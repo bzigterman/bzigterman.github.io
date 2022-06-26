@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107688656/russia-strikes-kyiv-as-troops-consolidate-gains-in-the-east">Russia strikes Kyiv as troops consolidate gains in the east</a> NPR: Russia attacked the Ukrainian capital Sunday, hitting at least two residential buildings, Kyiv Mayor Vitali Klitschko said. He said "it is maybe a symbolic attack" ahead of this week's NATO summit. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 04:01 AM CT, Jun. 26 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
  <p class="updated_time"> 04:07 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23">Russia-Ukraine war: What happened today (June 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
 
 
 </details>
