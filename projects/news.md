@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets around the country, as world leaders discuss their response in Germany. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61942445?at_medium=RSS&at_campaign=KARANGA">Roe v Wade reaction: Chaos at abortion protest in South Carolina</a> BBC: In South Carolina, six people are arrested at an event full of pro-choice and anti-abortion activists. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
+ <p class="updated_time"> 07:30 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China, as they look to challenge autocracies. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
@@ -45,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165">Russian Missiles Strike Kyiv Homes</a> WSJ: The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
- <p class="updated_time"> 12:54 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/g-7-summit-brings-together-leaders-weakened-by-inflation-impatience-at-home-11656234001">G-7 Summit Brings Together Leaders Weakened by Inflation, Impatience at Home</a> WSJ: The allies aim to project unity in their confrontation with Russia and sketch a plan for Ukraine’s reconstruction, but a grim economic and political backdrop on both sides of the Atlantic is sure to test their resolve. 
  <p class="updated_time"> 12:30 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-held-secret-meeting-with-israeli-arab-military-chiefs-to-counter-iran-air-threat-11656235802">U.S. Held Secret Meeting With Israeli, Arab Military Chiefs to Counter Iran Air Threat</a> WSJ: The meeting in Sharm El Sheikh, Egypt, included military officials from Israel, Saudi Arabia, Qatar, Jordan, Egypt, the U.A.E. and Bahrain. 
  <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
