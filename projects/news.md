@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:01 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Scores of people are injured and four have died after a wooden stand fell, local officials say. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
- <p class="updated_time"> 04:12 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: About 70 people are injured after a wooden stand fell, local media report. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
  <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
@@ -27,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
+ <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests In Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. ‘So many killings in Mexico,’ said Pope Francis. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
  <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
- <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
 
 
 </details>
