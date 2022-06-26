@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:11 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61849137?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Church that helped Jane Roe still aids abortion-seekers</a> BBC: A Dallas church linked to Jane Roe will keep helping women get abortions despite Supreme Court ruling. 
+ <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
+ <p class="updated_time"> 06:08 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61902458?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman's suicide: A widow's grief</a> BBC: The force takes on mental health to help officers affected by stress - but for some it comes too late. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61907734?at_medium=RSS&at_campaign=KARANGA">Will electric motorbike sales take-off across Asia?</a> BBC: Soaring petrol prices could speed up the transition to electric much faster than expected. 
  <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 05:01 PM CT, Jun. 26 </p> 
@@ -30,7 +38,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests In Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. ‘So many killings in Mexico,’ said Pope Francis. 
+ <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests in Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. “So many killings in Mexico,” said Pope Francis. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
@@ -99,12 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
- <p class="updated_time"> 06:14 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61914531?at_medium=RSS&at_campaign=KARANGA">Chess: Russia and Ukraine face off in India amid war</a> BBC: Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration. 
- <p class="updated_time"> 06:04 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61884941?at_medium=RSS&at_campaign=KARANGA">Kidnap alert heightens Iran-Israel shadow war fears</a> BBC: The warnings for Israeli tourists join assassinations and sabotage as the foes aim at each other. 
- <p class="updated_time"> 06:02 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61815493?at_medium=RSS&at_campaign=KARANGA">Kenyan elections: The woman who rallies crowds - but won't vote</a> BBC: Diana Mwazi is one of many young Kenyans who see elections as a way to make money, not bring change. 
  <p class="updated_time"> 06:00 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61787200?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families risking all to escape through Russia to Georgia</a> BBC: Risky escape routes have opened up for Ukrainians - including driving through Russia to Georgia. 
  <p class="updated_time"> 05:59 PM CT, Jun. 24 </p> 
