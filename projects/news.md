@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61892780?at_medium=RSS&at_campaign=KARANGA">The Indians choosing not to have children</a> BBC: A growing number of Indians are deciding to not become parents. The BBC spoke to them to find out why. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:09 PM CT, Jun. 25 </p> 
