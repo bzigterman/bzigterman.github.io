@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
  <p class="updated_time"> 03:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: Hundreds of people are injured after a wooden stand fell, local media report. 
  <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
  <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107531651/biden-to-attend-germanys-g-7-meeting-this-weekend-blinken-talks-food-security-at">Biden to attend Germany's G-7 meeting this weekend; Blinken talks food security at UN</a> NPR: President Biden will be in Europe for a G-7 meeting in Germany, before he heads to a NATO summit. Secretary of State Antony Blinken is in Berlin on Friday to join a UN conference on food security. 
- <p class="updated_time"> 03:57 PM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24">4 months into the Russia-Ukraine war: What happened today (June 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
 
@@ -116,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107713190/where-will-conservatives-focus-their-political-energy-now-roe-has-been-overturne">Where will conservatives focus their political energy now Roe has been overturned?</a> NPR: The decision to overturn Roe v. Wade was the culmination of years of work by social conservatives. NPR's Michel Martin speaks with columnist Mona Charen about what's next for their movement. 
  <p class="updated_time"> 03:17 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107710215/roe-overturned-mary-miller-historic-victory-for-white-life">A GOP congresswoman said the end of Roe is a 'historic victory for white life'</a> NPR: In the moment, Rep. Mary Miller then led the crowd in applause. A campaign spokesperson for Miller told NPR she meant to say "victory for Right to Life." 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628750/s-c-gubernatorial-candidate-says-there-should-be-age-limits-for-elected-official">S.C. gubernatorial candidate says there should be age limits for elected officials</a> NPR: NPR's Susan Davis speaks with Joe Cunningham, former South Carolina congressman, about his campaign for governor and his position on age limits for politicians. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
- <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628729/jan-6-committee-alleges-that-6-congressional-republicans-sought-pardons-from-tru">Jan. 6 committee alleges that 6 Congressional Republicans sought pardons from Trump</a> NPR: The House Jan. 6 committee released testimony alleging that some Republican members of Congress sought pardons from then-President Donald Trump for their roles in trying to subvert the 2020 elections. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
