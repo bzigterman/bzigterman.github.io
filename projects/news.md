@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:02 PM CT, Jun. 25 </p> 
+ <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61892780?at_medium=RSS&at_campaign=KARANGA">The Indians choosing not to have children</a> BBC: A growing number of Indians are deciding to not become parents. The BBC spoke to them to find out why. 
