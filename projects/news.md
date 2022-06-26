@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691298/russian-missiles-hit-western-ukraine">Russian missiles hit western Ukraine</a> NPR: Russian missiles hit cities in western Ukraine throughout the weekend, an escalation that has punctured the relative lull in fighting in and around Kyiv. 
  <p class="updated_time"> 08:11 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of mysterious deaths. 
  <p class="updated_time"> 07:51 AM CT, Jun. 26 </p> 
@@ -39,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:54 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/g-7-summit-brings-together-leaders-weakened-by-inflation-impatience-at-home-11656234001">G-7 Summit Brings Together Leaders Weakened by Inflation, Impatience at Home</a> WSJ: The allies aim to project unity in their confrontation with Russia and sketch a plan for Ukraine’s reconstruction, but a grim economic and political backdrop on both sides of the Atlantic is sure to test their resolve. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-held-secret-meeting-with-israeli-arab-military-chiefs-to-counter-iran-air-threat-11656235802">U.S. Held Secret Meeting With Israeli, Arab Military Chiefs to Counter Iran Air Threat</a> WSJ: The meeting in Sharm El Sheikh, Egypt, included military officials from Israel, Saudi Arabia, Qatar, Jordan, Egypt, the U.A.E. and Bahrain. 
  <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
@@ -93,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/24/1107370547/global-reproductive-and-womens-rights-groups-react-to-overturn-of-roe-v-wade">Global reproductive and women's rights groups react to overturn of Roe v. Wade</a> NPR: Some nonprofit groups have welcomed the U.S. Supreme Court decision. But many global reproductive and women's rights groups condemned the ruling. 
  <p class="updated_time"> 10:13 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
- <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
 
