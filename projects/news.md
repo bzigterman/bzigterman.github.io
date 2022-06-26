@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 PM CT, Jun. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61892780?at_medium=RSS&at_campaign=KARANGA">The Indians choosing not to have children</a> BBC: A growing number of Indians are deciding to not become parents. The BBC spoke to them to find out why. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia on brink of default as debt deadline looms</a> BBC: The country is close to its first default since 1998 as sanctions block payments to creditors 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
- <p class="updated_time"> 05:41 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 04:24 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61940007?at_medium=RSS&at_campaign=KARANGA">G7 face battle for unity as cost of Ukraine war mounts</a> BBC: The Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria. 
  <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
