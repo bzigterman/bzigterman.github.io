@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61942445?at_medium=RSS&at_campaign=KARANGA">Roe v Wade reaction: Chaos at abortion protest in South Carolina</a> BBC: In South Carolina, six people are arrested at an event full of pro-choice and anti-abortion activists. 
+ <p class="updated_time"> 07:41 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of mysterious deaths. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
@@ -17,14 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
- <p class="updated_time"> 05:48 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: The cause of the deaths remains unclear, and police say an investigation is ongoing. 
  <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107688656/russia-strikes-kyiv-as-troops-consolidate-gains-in-the-east">Russia strikes Kyiv as troops consolidate gains in the east</a> NPR: Russia attacked the Ukrainian capital Sunday, hitting at least two residential buildings, Kyiv Mayor Vitali Klitschko said. He said "it is maybe a symbolic attack" ahead of this week's NATO summit. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 03:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61941589?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK joins ban on imports of Russian gold</a> BBC: The move by the UK, US, Canada and Japan will "strike at the heart of Putin's war machine", the UK PM says. 
+ <p class="updated_time"> 03:23 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165">Russian Missiles Strike Kyiv Homes</a> WSJ: The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:54 AM CT, Jun. 26 </p> 
@@ -59,10 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
- <p class="updated_time"> 03:52 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529">Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</a> WSJ: Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine. 
- <p class="updated_time"> 02:52 AM CT, Jun. 25 </p> 
- <a href="https://www.wsj.com/articles/union-boss-becomes-u-k-s-surprise-media-star-11656157962">Union Boss Becomes U.K.'s Surprise Media Star</a> WSJ: Mick Lynch has annoyed commuters by leading a rail strike, but he is winning admirers, too, as soaring inflation eats into wages. 
  <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
