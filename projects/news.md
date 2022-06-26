@@ -15,6 +15,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
+ <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
- <p class="updated_time"> 05:44 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107688656/russia-strikes-kyiv">Russia bombs Kyiv in a weekend missile barrage across Ukraine</a> NPR: A Russian missile slammed into the top floor of an apartment building in the capital, killing at least one person and injuring several others. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
@@ -146,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628715/the-supreme-court-is-at-its-most-conservative-now-from-the-last-75-years">The Supreme Court is at its most conservative now from the last 75 years</a> NPR: The Supreme Court's abortion decision, along with a ruling on guns earlier in the week, continues the current court's move to the political right. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
- <p class="updated_time"> 02:49 PM CT, Jun. 23 </p> 
- <a href="https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html">What the Supreme Court's new gun rights ruling means </a> CNN: Justice Clarence Thomas opened the floodgates for all sorts of gun safety laws to be challenged in federal court. 
 
 
 </details>
