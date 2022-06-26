@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:26 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61938111?at_medium=RSS&at_campaign=KARANGA">Russia promises Belarus Iskander-M nuclear-capable missiles</a> BBC: The Iskander-M systems can carry both conventional and nuclear warheads, with a range of up to 500 km. 
  <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/23/1107151056/biden-faces-pressure-to-help-get-wnba-star-brittney-griner-released-from-russian">Biden faces pressure to help get WNBA star Brittney Griner released from Russian jail</a> NPR: Dozens of civil and human rights groups wrote a letter to Biden urging him to help secure the release of WNBA star Brittney Griner. She's remained in a Russian jail since February on drug charges. 
  <p class="updated_time"> 03:28 PM CT, Jun. 23 </p> 
  <a href="https://www.npr.org/2022/06/23/1107151042/russias-economy-is-weathering-sanctions-but-tough-times-are-ahead">Russia's economy is weathering sanctions, but tough times are ahead</a> NPR: NPR's Mary Louise Kelly speaks with Russian political scientist Ilya Matveev about the impact of sanctions on the Russian economy. 
- <p class="updated_time"> 01:50 PM CT, Jun. 23 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/06/23/1105869772/russia-ukraine-war-artist-black-and-white-photography">An artist in Ukraine captures the war in black and white</a> NPR: Vladyslav Krasnoshchok describes himself as a "geopolitical surrealist" painter. Since Russia's invasion of Ukraine began, he's been photographing the war with a vintage Olympus 35 mm camera. 
 
 
 </details>
