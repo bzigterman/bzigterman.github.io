@@ -30,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 07:30 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China, as they look to challenge autocracies. 
+ <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
