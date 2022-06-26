@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:13 AM CT, Jun. 26 </p> 
+ <p class="updated_time"> 11:42 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets around the country, as world leaders discuss their response in Germany. 
+ <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
