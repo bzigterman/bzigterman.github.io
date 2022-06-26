@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: Hundreds of people are injured after a wooden stand fell, local media report. 
+ <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61945378?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Conflict overshadows G7 summit</a> BBC: Russia pounds Ukraine with missiles for a second day, ahead of a key G7 summit of Western leaders. 
  <p class="updated_time"> 12:46 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets in many areas, as world leaders discuss further military support for Ukraine. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
@@ -112,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:17 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107710215/roe-overturned-mary-miller-historic-victory-for-white-life">A GOP congresswoman said the end of Roe is a 'historic victory for white life'</a> NPR: In the moment, Rep. Mary Miller then led the crowd in applause. A campaign spokesperson for Miller told NPR she meant to say "victory for Right to Life." 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
@@ -142,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628729/jan-6-committee-alleges-that-6-congressional-republicans-sought-pardons-from-tru">Jan. 6 committee alleges that 6 Congressional Republicans sought pardons from Trump</a> NPR: The House Jan. 6 committee released testimony alleging that some Republican members of Congress sought pardons from then-President Donald Trump for their roles in trying to subvert the 2020 elections. 
- <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628715/the-supreme-court-is-at-its-most-conservative-now-from-the-last-75-years">The Supreme Court is at its most conservative now from the last 75 years</a> NPR: The Supreme Court's abortion decision, along with a ruling on guns earlier in the week, continues the current court's move to the political right. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
