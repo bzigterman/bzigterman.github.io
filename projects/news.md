@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:22 PM CT, Jun. 26 </p> 
+ <p class="updated_time"> 03:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured as bullfight stand collapses</a> BBC: Hundreds of people are injured after a wooden stand fell, local media report. 
  <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945378?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Conflict overshadows G7 summit</a> BBC: Russia pounds Ukraine with missiles for a second day, ahead of a key G7 summit of Western leaders. 
