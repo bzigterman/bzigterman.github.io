@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:11 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of mysterious deaths. 
+ <p class="updated_time"> 07:51 AM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107691277/afghanistan-is-reeling-after-2-earthquakes-in-a-week">Afghanistan is reeling after 2 earthquakes in a week</a> NPR: NPR's Elissa Nadworny speaks to journalist Ali Latifi about the recovery efforts following the earthquake in eastern Afghanistan. 
  <p class="updated_time"> 07:47 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61942445?at_medium=RSS&at_campaign=KARANGA">Roe v Wade reaction: Chaos at abortion protest in South Carolina</a> BBC: In South Carolina, six people are arrested at an event full of pro-choice and anti-abortion activists. 
- <p class="updated_time"> 07:41 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">At least 20 found dead in South Africa nightclub</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of mysterious deaths. 
+ <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
@@ -29,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61941589?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK joins ban on imports of Russian gold</a> BBC: The move by the UK, US, Canada and Japan will "strike at the heart of Putin's war machine", the UK PM says. 
  <p class="updated_time"> 03:23 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165">Russian Missiles Strike Kyiv Homes</a> WSJ: The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion. 
+ <p class="updated_time"> 02:00 AM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/hong-kongs-struggle-to-lure-bankers-dims-its-role-as-a-global-finance-hub-11656241202">Hong Kong's Struggle to Lure Bankers Dims Its Role as a Global Finance Hub</a> WSJ: As the region’s top networking center, Hong Kong’s reputation continues to suffer as Covid controls keep international bankers and investors away. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:54 AM CT, Jun. 26 </p> 
@@ -41,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
- <p class="updated_time"> 04:24 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61940007?at_medium=RSS&at_campaign=KARANGA">G7 face battle for unity as cost of Ukraine war mounts</a> BBC: The Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria. 
  <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Dozens die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with 23 killed and many injured. 
  <p class="updated_time"> 03:03 PM CT, Jun. 25 </p> 
@@ -91,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/24/1107022067/russia-ukraine-detention-enforced-disappearance">Russia is disappearing Ukrainian civilians. Their families want answers</a> NPR: Ukrainians who were held in Russia detail their detention, hoping to help find a teacher still missing. She is one of more than 200 civilians that U.N. human rights workers say Russia has disappeared. 
  <p class="updated_time"> 07:06 AM CT, Jun. 24 </p> 
  <a href="https://www.npr.org/2022/06/24/1107254898/israeli-gunfire-shireen-abu-akleh-un-human-rights">Israeli gunfire killed journalist Shireen Abu Akleh, U.N. says</a> NPR: "We have found no information suggesting that there was activity by armed Palestinians in the immediate vicinity," U.N. Human Rights Office spokeswoman Ravina Shamdasani said. 
- <p class="updated_time"> 05:58 AM CT, Jun. 24 </p> 
- <a href="https://www.npr.org/2022/06/24/1106979380/g7-summit-2022-germany-global-infrastructure">Biden said the G-7 would counter Chinese influence. This year, he'll try again</a> NPR: At the last G-7, President Biden announced a plan for the West to counter China's influence in low- and middle-income countries. But not much has happened since. This year, there's a relaunch. 
  <p class="updated_time"> 05:08 PM CT, Jun. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61918678?at_medium=RSS&at_campaign=KARANGA">Anita Alvarez: Coach saves US swimmer who fainted during competition</a> BBC: Artistic swimmer Anita Alvarez was rescued from the bottom of the pool at the world championships. 
 
