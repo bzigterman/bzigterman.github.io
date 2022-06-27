@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961601/canada-expects-more-americans-seeking-abortions-to-cross-the-border">Canada expects more Americans seeking abortions to cross the border</a> NPR: Canadian providers who perform abortions anticipate increased demand for services from Americans now that Roe v. Wade is overturned. Additional clients could strain already stretched capacity. 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961587/russian-court-extends-brittney-griners-detention">Russian court extends Brittney Griner's detention</a> NPR: A Russian court has again extended the arrest of U.S. basketball star Brittney Griner. Her trial on drug charges starts July 1. 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961529/g-7-leaders-focus-on-ukraine-war-in-summit">G-7 leaders focus on Ukraine war in summit</a> NPR: Leaders of the G-7 nations met in Germany and focused on the war in Ukraine. They talked about new missile defense systems for Kyiv and a proposal for a price cap for Russian oil. 
  <p class="updated_time"> 03:01 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61959875?at_medium=RSS&at_campaign=KARANGA">Malawi men jailed over murder of man with albinism</a> BBC: Five men are jailed after killing a man with albinism as part of a plot to sell his body parts. 
  <p class="updated_time"> 01:58 PM CT, Jun. 27 </p> 
@@ -35,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
  <p class="updated_time"> 06:58 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine by Year End</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the group’s leaders float new sanctions against Moscow. 
+ <p class="updated_time"> 06:04 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/its-what-beijings-party-boss-may-not-have-said-that-shows-zero-covid-fatigue-11656342243">It's What Beijing's Party Boss May Not Have Said That Shows Zero-Covid Fatigue</a> WSJ: Beijing’s top official reportedly vowed five more years of strict pandemic controls in a speech, prompting a social media outburst—and a speedy retraction of the pledge. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
@@ -73,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
- <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests in Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. “So many killings in Mexico,” said Pope Francis. 
  <p class="updated_time"> 09:00 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691305/israel-soldier-killed-journalist-shireen-abu-akleh">Israel's probe of journalist Shireen Abu Akleh's killing raises questions</a> NPR: As Israel investigates the killing of journalist Shireen Abu Akleh, military experts critique the shortcomings of Israel's prosecution of other Palestinian civilian casualties. 
  <p class="updated_time"> 08:27 AM CT, Jun. 26 </p> 
@@ -89,12 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
- <p class="updated_time"> 04:55 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107688656/russia-strikes-kyiv">Russia bombs Kyiv in a weekend missile barrage across Ukraine</a> NPR: A Russian missile slammed into the top floor of an apartment building in the capital, killing at least one person and injuring several others. 
- <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
- <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
@@ -112,8 +112,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961580/the-future-of-the-anti-abortion-rights-movement">The future of the anti-abortion-rights movement</a> NPR: NPR's Ari Shapiro talks to Kristan Hawkins, president of Students for Life America, about the anti-abortion rights movement's goals now that Roe v. Wade has been overturned. 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961573/many-abortion-rights-supporters-are-frustrated-with-democrats">Many abortion rights supporters are frustrated with Democrats</a> NPR: Many who support abortion rights say they have already been voting and that Democrats haven't prioritized protecting abortion rights. 
+ <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107961515/former-justice-department-official-richard-donoghue-on-jan-6-probe">Former Justice Department official Richard Donoghue on Jan. 6 probe</a> NPR: Richard Donoghue, who served as acting deputy attorney general in the Trump administration, talks with NPR's Ari Shapiro about former President Donald Trump's efforts to subvert the 2020 election. 
  <p class="updated_time"> 12:34 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 Committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
+ <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
  <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
@@ -136,12 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107713190/where-will-conservatives-focus-their-political-energy-now-roe-has-been-overturne">Where will conservatives focus their political energy now Roe has been overturned?</a> NPR: The decision to overturn Roe v. Wade was the culmination of years of work by social conservatives. NPR's Michel Martin speaks with columnist Mona Charen about what's next for their movement. 
  <p class="updated_time"> 03:17 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107710215/roe-overturned-mary-miller-historic-victory-for-white-life">A GOP congresswoman said the end of Roe is a 'historic victory for white life'</a> NPR: In the moment, Rep. Mary Miller then led the crowd in applause. A campaign spokesperson for Miller told NPR she meant to say "victory for Right to Life." 
- <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
- <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691249/texas-has-banned-almost-all-abortions-but-its-taken-decades">Texas has banned almost all abortions — but it's taken decades</a> NPR: Nine years ago, state Sen. Wendy Davis stopped a vote on a bill that would have forced Texas abortion facilities to close. Now abortions will soon be illegal in the state with few exceptions. 
- <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691235/michigan-is-looking-to-ban-abortions-it-may-rest-on-the-gubernatorial-election">Michigan is looking to ban abortions. It may rest on the gubernatorial election</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation. It will be a main campaign issue for Democratic Gov. Gretchen Whitmer and her most competitive Republican rival, Tudor Dixon. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
