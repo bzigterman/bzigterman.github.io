@@ -26,11 +26,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Images show the building completely ablaze, and at least two people have been confirmed dead. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Local officials say at least ten people have been confirmed dead, and dozens more have been injured. 
  <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
- <p class="updated_time"> 08:10 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
+ <p class="updated_time"> 08:55 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: The plodding yet persistent Russian advance and attacks on Ukrainian civilian targets, including a mall with around 1,000 people inside, add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 06:58 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine by Year End</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the group’s leaders float new sanctions against Moscow. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
