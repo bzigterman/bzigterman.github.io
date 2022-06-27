@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:23 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 06:10 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
- <p class="updated_time"> 04:58 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 04:26 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
@@ -79,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61902458?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman's suicide: A widow's grief</a> BBC: The force takes on mental health to help officers affected by stress - but for some it comes too late. 
  <p class="updated_time"> 06:03 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61907734?at_medium=RSS&at_campaign=KARANGA">Will electric motorbike sales take off across Asia?</a> BBC: Soaring petrol prices could speed up the transition to electric much faster than expected. 
+ <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
@@ -123,7 +125,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961515/former-justice-department-official-richard-donoghue-on-jan-6-probe">Former Justice Department official Richard Donoghue on Jan. 6 probe</a> NPR: Richard Donoghue, who served as acting deputy attorney general in the Trump administration, talks with NPR's Ari Shapiro about former President Donald Trump's efforts to subvert the 2020 election. 
  <p class="updated_time"> 12:34 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
+ <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
  <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
