@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 06:09 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel tavern deaths tragedy</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
- <p class="updated_time"> 11:19 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Hundreds of people are injured and four have died after a wooden stand fell, local officials say. 
  <p class="updated_time"> 08:20 PM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
  <p class="updated_time"> 06:11 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61849137?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Church that helped Jane Roe still aids abortion-seekers</a> BBC: A Dallas church linked to Jane Roe will keep helping women get abortions despite Supreme Court ruling. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61849137?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Church that helped Jane Roe still aids abortion-seekers</a> BBC: This church helped the original Roe - and will keep aiding abortion-seekers after Supreme Court ruling. 
  <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
  <p class="updated_time"> 06:08 PM CT, Jun. 26 </p> 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1106859552/primary-illinois-colorado-republican-candidate-democrats-ads">Democrats are bankrolling ads promoting fringe Republican candidates. Here's why</a> NPR: As the midterm primary season rolls along, voters may have noticed a strange phenomenon of political advertising: Democrats paying for ads supporting Republican candidates. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 04:01 AM CT, Jun. 27 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
- <p class="updated_time"> 06:15 PM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107666598/roe-overturned-abortion-access-biden-senate-democrats">Biden must take stronger action on abortion, Senate Democrats say</a> NPR: With Roe v. Wade overturned, Senate Democrats want Biden to use presidential power to ease abortion access and protect those who seek the procedures. But he has limited options. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
