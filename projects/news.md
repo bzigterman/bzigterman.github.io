@@ -23,14 +23,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
+ <p class="updated_time"> 11:36 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 11:21 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
  <p class="updated_time"> 11:02 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/61956192?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russian court decides US star to stand trial on drug charges</a> BBC: American basketball star Brittney Griner is scheduled to stand trial in Russia on Friday on charges of illegal cannabis possession. 
- <p class="updated_time"> 10:46 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 10:35 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61956104?at_medium=RSS&at_campaign=KARANGA">Melilla migrant deaths spark anger in Spain</a> BBC: At least 23 migrants died on Friday when a crowd tried to cross into Spain's North African enclave. 
  <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
