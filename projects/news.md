@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:16 AM CT, Jun. 27 </p> 
+ <p class="updated_time"> 09:38 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
@@ -35,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/north-koreas-first-covid-wave-has-passed-with-no-apparent-signs-of-catastrophe-11656335120">North Korea's First Covid Wave Has Passed With No Apparent Signs of Catastrophe</a> WSJ: The prevalence of the Omicron variant rather than earlier strains, strict lockdowns and resilient immune systems may have helped the country avoid a worse outcome, say defectors and health experts. 
  <p class="updated_time"> 04:07 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
+ <p class="updated_time"> 03:30 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107750828/brittney-griner-russia-court-appearance-drug-trial">WNBA star Brittney Griner is seen at court, but Russia extends her detention again</a> NPR: The star with the U.S. Olympic and the WNBA's Phoenix Mercury was bracketed by four security officers and a dog as she was led down a stairwell to a courtroom for Monday's hearing. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
  <p class="updated_time"> 01:41 AM CT, Jun. 27 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
- <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
 
