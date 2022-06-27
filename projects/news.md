@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:46 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
+ <p class="updated_time"> 09:37 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, report says</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in in default. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
- <p class="updated_time"> 07:28 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia defaults on debt for first time since 1998</a> BBC: The country fails to make a $100m interest payment as a result of Western sanctions. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The highs and lows since handover</a> BBC: From the Olympics to mass protests, here are five key moments in the 25 years since handover. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: Five moments in fraught relationship since handover</a> BBC: From the Olympics to mass protests, the 25 years since handover have seen highs and lows. 
  <p class="updated_time"> 07:04 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-61915349?at_medium=RSS&at_campaign=KARANGA">Why do so many devastating earthquakes happen in Afghanistan?</a> BBC: At least 1,000 people have died in Afghanistan's worst earthquake in two decades 
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
@@ -37,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
  <p class="updated_time"> 03:15 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945378?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Conflict overshadows G7 summit</a> BBC: Russia pounds Ukraine with missiles for a second day, ahead of a key G7 summit of Western leaders. 
+ <p class="updated_time"> 12:50 PM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165">Russian Missiles Strike Kyiv Homes</a> WSJ: The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion. 
  <p class="updated_time"> 12:46 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61943252?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missiles hit targets across country as G7 rallies over Russia</a> BBC: Russia hits targets in many areas, as world leaders discuss further military support for Ukraine. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
@@ -81,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 03:32 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61941589?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK joins ban on imports of Russian gold</a> BBC: The move by the UK, US, Canada and Japan will "strike at the heart of Putin's war machine", the UK PM says. 
- <p class="updated_time"> 03:13 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/in-ukraines-south-counter-attacks-offer-kyiv-hope-for-turning-back-russia-11656245619">In Ukraine's South, Counterattacks Offer Kyiv Hope for Turning Back Russia</a> WSJ: Kyiv’s forces in southern Ukraine are fighting to extend one of their most successful counterattacks against Russia and push beyond this small, artillery-scarred village to chip away at Moscow’s presence in a strategically vital area along the Black Sea. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:30 AM CT, Jun. 26 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
- <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Dozens die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with 23 killed and many injured. 
  <p class="updated_time"> 09:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
