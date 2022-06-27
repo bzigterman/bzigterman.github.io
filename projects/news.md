@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961601/canada-expects-more-americans-seeking-abortions-to-cross-the-border">Canada expects more Americans seeking abortions to cross the border</a> NPR: Canadian providers who perform abortions anticipate increased demand for services from Americans now that Roe v. Wade is overturned. Additional clients could strain already stretched capacity. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
- <p class="updated_time"> 06:53 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961580/the-future-of-the-anti-abortion-rights-movement">The future of the anti-abortion-rights movement</a> NPR: NPR's Ari Shapiro talks to Kristan Hawkins, president of Students for Life America, about the anti-abortion rights movement's goals now that Roe v. Wade has been overturned. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107591849/roe-6-political-questions-supreme-court">6 political questions after the Supreme Court overturned Roe v. Wade</a> NPR: There are lots of questions about what happens now after the Supreme Court's ruling on Roe v. Wade. Here are six that have political implications. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713190/where-will-conservatives-focus-their-political-energy-now-roe-has-been-overturne">Where will conservatives focus their political energy now Roe has been overturned?</a> NPR: The decision to overturn Roe v. Wade was the culmination of years of work by social conservatives. NPR's Michel Martin speaks with columnist Mona Charen about what's next for their movement. 
- <p class="updated_time"> 03:17 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107710215/roe-overturned-mary-miller-historic-victory-for-white-life">A GOP congresswoman said the end of Roe is a 'historic victory for white life'</a> NPR: In the moment, Rep. Mary Miller then led the crowd in applause. A campaign spokesperson for Miller told NPR she meant to say "victory for Right to Life." 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
