@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
+ <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Images show the building completely ablaze, and at least two people have been confirmed dead. 
  <p class="updated_time"> 09:38 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
+ <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
  <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 08:38 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954068?at_medium=RSS&at_campaign=KARANGA">Ukraine war: People in siege city Lysychansk ordered to leave</a> BBC: Residents of the front-line city of Lysychansk are ordered to leave as Russian forces push forward. 
+ <p class="updated_time"> 06:06 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61951632?at_medium=RSS&at_campaign=KARANGA">Ecuador promises fuel price cuts amid protests</a> BBC: President Lasso makes a concession during a protest respite, but no deal has been reached. 
- <p class="updated_time"> 05:32 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
- <p class="updated_time"> 05:17 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
- <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691298/russian-missiles-hit-western-ukraine">Russian missiles hit western Ukraine</a> NPR: Russian missiles hit cities in western Ukraine throughout the weekend, an escalation that has punctured the relative lull in fighting in and around Kyiv. 
  <p class="updated_time"> 07:51 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691277/afghanistan-is-reeling-after-2-earthquakes-in-a-week">Afghanistan is reeling after 2 earthquakes in a week</a> NPR: NPR's Elissa Nadworny speaks to journalist Ali Latifi about the recovery efforts following the earthquake in eastern Afghanistan. 
- <p class="updated_time"> 07:47 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61942445?at_medium=RSS&at_campaign=KARANGA">Roe v Wade reaction: Chaos at abortion protest in South Carolina</a> BBC: In South Carolina, six people are arrested at an event full of pro-choice and anti-abortion activists. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
  <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107727009/in-michigan-abortion-could-come-down-to-voters-in-november">In Michigan, abortion could come down to voters in November</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation, is moving toward the ballot as a state constitutional amendment and will be a big issue in the competitive race for governor. 
  <p class="updated_time"> 07:27 AM CT, Jun. 27 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691235/michigan-is-looking-to-ban-abortions-it-may-rest-on-the-gubernatorial-election">Michigan is looking to ban abortions. It may rest on the gubernatorial election</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation. It will be a main campaign issue for Democratic Gov. Gretchen Whitmer and her most competitive Republican rival, Tudor Dixon. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691228/sen-mitch-mcconnell-is-illuminating-the-legal-conservative-route-for-republicans">Sen. Mitch McConnell is illuminating the legal conservative route for Republicans</a> NPR: Much of the credit for the overturning of Roe v. Wade goes to Sen. Mitch McConnell, R-Ky., who helped install the conservative majority on the Supreme Court. He may not be finished. 
- <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
