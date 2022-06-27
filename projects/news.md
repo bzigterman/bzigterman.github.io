@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
+ <p class="updated_time"> 02:25 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 01:31 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947201?at_medium=RSS&at_campaign=KARANGA">Sydney climate protests: Activists block streets and harbour tunnel</a> BBC: The protesters say their actions are urgently needed, but police label them "violent" and "erratic". 
- <p class="updated_time"> 01:18 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
  <p class="updated_time"> 11:19 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Hundreds of people are injured and four have died after a wooden stand fell, local officials say. 
- <p class="updated_time"> 09:46 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
  <p class="updated_time"> 08:20 PM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
