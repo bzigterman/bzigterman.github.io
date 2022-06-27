@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61947294?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky to address G7 as Russian missiles hit cities</a> BBC: The Ukrainian president calls for more weapons and says partners "need to move faster". 
  <p class="updated_time"> 09:46 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
+ <p class="updated_time"> 08:20 PM CT, Jun. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 11:41 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/g-7-close-to-agreement-on-exploring-new-sanction-capping-russian-oil-price-11656276097">G-7 Close to Pact on Exploring New Sanction Capping Russian Oil Price</a> WSJ: The move aims to counter sharp rise in prices that accompanied prior sanction rounds targeting Moscow’s energy exports. 
- <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
@@ -71,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61942445?at_medium=RSS&at_campaign=KARANGA">Roe v Wade reaction: Chaos at abortion protest in South Carolina</a> BBC: In South Carolina, six people are arrested at an event full of pro-choice and anti-abortion activists. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
- <p class="updated_time"> 07:30 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
