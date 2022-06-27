@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:06 AM CT, Jun. 27 </p> 
+ <p class="updated_time"> 11:40 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 10, injures hundreds</a> BBC: A chemical container was dropped by a crane and exploded at the port of Aqaba, authorities say. 
+ <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
+ <p class="updated_time"> 11:21 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
+ <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
+ <p class="updated_time"> 11:02 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/sport/basketball/61956192?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russian court decides US star to stand trial on drug charges</a> BBC: American basketball star Brittney Griner is scheduled to stand trial in Russia on Friday on charges of illegal cannabis possession. 
  <p class="updated_time"> 10:35 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61956104?at_medium=RSS&at_campaign=KARANGA">Melilla migrant deaths spark anger in Spain</a> BBC: At least 23 migrants died on Friday when a crowd tried to cross into Spain's North African enclave. 
  <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
@@ -21,20 +29,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
  <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
- <p class="updated_time"> 08:38 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61954068?at_medium=RSS&at_campaign=KARANGA">Ukraine war: People in siege city Lysychansk ordered to leave</a> BBC: Residents of the front-line city of Lysychansk are ordered to leave as Russian forces push forward. 
+ <p class="updated_time"> 07:19 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 06:58 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine by Year End</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the group’s leaders float new sanctions against Moscow. 
- <p class="updated_time"> 06:47 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
- <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61951632?at_medium=RSS&at_campaign=KARANGA">Ecuador promises fuel price cuts amid protests</a> BBC: President Lasso makes a concession during a protest respite, but no deal has been reached. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Over two decades, Teesta Setalvad has been an advocate for victims of the riots and a critic of leader Narendra Modi for his alleged inaction. 
+ <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody an Indian activist, Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat when he was the state’s chief minister. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
@@ -47,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107750828/brittney-griner-russia-court-appearance-drug-trial">WNBA star Brittney Griner is seen at court, but Russia extends her detention again</a> NPR: The star with the U.S. Olympic and the WNBA's Phoenix Mercury was bracketed by four security officers and a dog as she was led down a stairwell to a courtroom for Monday's hearing. 
  <p class="updated_time"> 01:41 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
- <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: Five moments in fraught relationship since handover</a> BBC: From the Olympics to mass protests, the 25 years since handover have seen highs and lows. 
  <p class="updated_time"> 07:04 PM CT, Jun. 26 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
- <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
 
