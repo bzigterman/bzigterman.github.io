@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:35 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61956104?at_medium=RSS&at_campaign=KARANGA">Melilla migrant deaths spark anger in Spain</a> BBC: At least 23 migrants died on Friday when a crowd tried to cross into Spain's North African enclave. 
  <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
- <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: Five moments in fraught relationship since handover</a> BBC: From the Olympics to mass protests, the 25 years since handover have seen highs and lows. 
  <p class="updated_time"> 07:04 PM CT, Jun. 26 </p> 
