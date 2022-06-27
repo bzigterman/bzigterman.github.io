@@ -25,8 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61959875?at_medium=RSS&at_campaign=KARANGA">Malawi men jailed over murder of man with albinism</a> BBC: Five men are jailed after killing a man with albinism as part of a plot to sell his body parts. 
  <p class="updated_time"> 01:58 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 11, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
- <p class="updated_time"> 12:58 PM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the group’s leaders float new sanctions against Moscow. 
+ <p class="updated_time"> 01:37 PM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the U.S. says it will supply more military aid and deploy further sanctions against Moscow. 
  <p class="updated_time"> 11:55 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
