@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61951632?at_medium=RSS&at_campaign=KARANGA">Ecuador promises fuel price cuts amid protests</a> BBC: President Lasso makes a concession during a protest respite, but no deal has been reached. 
+ <p class="updated_time"> 05:32 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
+ <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: At the first meeting of the summit, the Russian leader's so-called macho image is made fun of. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
- <p class="updated_time"> 04:12 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 03:10 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">Youngest South Africa tavern victim was 13 - minister</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
- <p class="updated_time"> 01:31 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61947201?at_medium=RSS&at_campaign=KARANGA">Sydney climate protests: Activists block streets and harbour tunnel</a> BBC: The protesters say their actions are urgently needed, but police label them "violent" and "erratic". 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
  <p class="updated_time"> 12:30 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-held-secret-meeting-with-israeli-arab-military-chiefs-to-counter-iran-air-threat-11656235802">U.S. Held Secret Meeting With Israeli, Arab Military Chiefs to Counter Iran Air Threat</a> WSJ: The meeting in Sharm El Sheikh, Egypt, included military officials from Israel, Saudi Arabia, Qatar, Jordan, Egypt, the U.A.E. and Bahrain. 
- <p class="updated_time"> 06:34 PM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61892780?at_medium=RSS&at_campaign=KARANGA">The Indians choosing not to have children</a> BBC: A growing number of Indians are deciding to not become parents. The BBC spoke to them to find out why. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
