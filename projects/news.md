@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:01 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61959875?at_medium=RSS&at_campaign=KARANGA">Malawi men jailed over murder of man with albinism</a> BBC: Five men are jailed after killing a man with albinism as part of a plot to sell his body parts. 
  <p class="updated_time"> 01:58 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 11, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
  <p class="updated_time"> 11:55 AM CT, Jun. 27 </p> 
@@ -21,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
  <p class="updated_time"> 11:02 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/61956192?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russian court decides US star to stand trial on drug charges</a> BBC: American basketball star Brittney Griner is scheduled to stand trial in Russia on Friday on charges of illegal cannabis possession. 
+ <p class="updated_time"> 10:46 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 10:35 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61956104?at_medium=RSS&at_campaign=KARANGA">Melilla migrant deaths spark anger in Spain</a> BBC: At least 23 migrants died on Friday when a crowd tried to cross into Spain's North African enclave. 
  <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
@@ -29,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Local officials say more than ten people have been confirmed dead, and dozens more have been injured. 
  <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
- <p class="updated_time"> 08:55 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: The plodding yet persistent Russian advance and attacks on Ukrainian civilian targets, including a mall with around 1,000 people inside, add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 06:58 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine by Year End</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the group’s leaders float new sanctions against Moscow. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
@@ -39,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat. 
- <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
  <p class="updated_time"> 04:11 AM CT, Jun. 27 </p> 
