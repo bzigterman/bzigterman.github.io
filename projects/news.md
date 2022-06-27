@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
  <p class="updated_time"> 04:58 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 04:26 PM CT, Jun. 27 </p> 
@@ -23,16 +25,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961529/g-7-leaders-focus-on-ukraine-war-in-summit">G-7 leaders focus on Ukraine war in summit</a> NPR: Leaders of the G-7 nations met in Germany and focused on the war in Ukraine. They talked about new missile defense systems for Kyiv and a proposal for a price cap for Russian oil. 
  <p class="updated_time"> 03:01 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61959875?at_medium=RSS&at_campaign=KARANGA">Malawi men jailed over murder of man with albinism</a> BBC: Five men are jailed after killing a man with albinism as part of a plot to sell his body parts. 
+ <p class="updated_time"> 01:59 PM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the U.S. says it will supply more military aid and deploy further sanctions against Moscow. 
  <p class="updated_time"> 01:58 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 11, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
- <p class="updated_time"> 01:37 PM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the U.S. says it will supply more military aid and deploy further sanctions against Moscow. 
+ <p class="updated_time"> 01:53 PM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 11:55 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
- <p class="updated_time"> 11:36 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 11:21 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61902458?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman's suicide: A widow's grief</a> BBC: The force takes on mental health to help officers affected by stress - but for some it comes too late. 
  <p class="updated_time"> 06:03 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61907734?at_medium=RSS&at_campaign=KARANGA">Will electric motorbike sales take off across Asia?</a> BBC: Soaring petrol prices could speed up the transition to electric much faster than expected. 
- <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
