@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:51 AM CT, Jun. 27 </p> 
+ <p class="updated_time"> 04:12 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 03:10 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">Youngest South Africa tavern victim was 13 - minister</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
