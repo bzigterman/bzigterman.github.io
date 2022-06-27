@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
  <p class="updated_time"> 07:28 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia defaults on debt for first time since 1998</a> BBC: The country fails to make a $100m interest payment as a result of Western sanctions. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
  <p class="updated_time"> 03:32 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61934163?at_medium=RSS&at_campaign=KARANGA">Dozens die trying to cross into Spanish enclave of Melilla</a> BBC: A huge crowd of migrants storm a fence into Melilla in North Africa, with 23 killed and many injured. 
- <p class="updated_time"> 11:28 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 09:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
@@ -122,6 +122,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 PM CT, Jun. 26 </p> 
+ <a href="https://www.npr.org/2022/06/26/1107591849/roe-6-political-questions-supreme-court">6 political questions after the Supreme Court overturned Roe v. Wade</a> NPR: There are lots of questions about what happens now after the Supreme Court's ruling on Roe v. Wade. Here are six that have political implications. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713190/where-will-conservatives-focus-their-political-energy-now-roe-has-been-overturne">Where will conservatives focus their political energy now Roe has been overturned?</a> NPR: The decision to overturn Roe v. Wade was the culmination of years of work by social conservatives. NPR's Michel Martin speaks with columnist Mona Charen about what's next for their movement. 
  <p class="updated_time"> 03:17 PM CT, Jun. 26 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107626030/biden-signs-gun-safety-law">Biden signs gun safety bill into law</a> NPR: The president's signing comes just over a month after the mass shooting at an elementary school in Uvalde, Texas, killed 19 children and two adults. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628750/s-c-gubernatorial-candidate-says-there-should-be-age-limits-for-elected-official">S.C. gubernatorial candidate says there should be age limits for elected officials</a> NPR: NPR's Susan Davis speaks with Joe Cunningham, former South Carolina congressman, about his campaign for governor and his position on age limits for politicians. 
- <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
