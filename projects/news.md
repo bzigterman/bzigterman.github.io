@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia defaults on debt for first time since 1998</a> BBC: The country fails to make a $100m interest payment as a result of Western sanctions. 
+ <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The highs and lows since handover</a> BBC: From the Olympics to mass protests, here are five key moments in the 25 years since handover. 
+ <p class="updated_time"> 07:04 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61915349?at_medium=RSS&at_campaign=KARANGA">Why do so many devastating earthquakes happen in Afghanistan?</a> BBC: At least 1,000 people have died in Afghanistan's worst earthquake in two decades 
+ <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
  <p class="updated_time"> 06:11 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61849137?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Church that helped Jane Roe still aids abortion-seekers</a> BBC: A Dallas church linked to Jane Roe will keep helping women get abortions despite Supreme Court ruling. 
  <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
@@ -32,7 +40,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 11:41 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/g-7-close-to-agreement-on-exploring-new-sanction-capping-russian-oil-price-11656276097">G-7 Close to Pact on Exploring New Sanction Capping Russian Oil Price</a> WSJ: The move is designed to counter the sharp increase in prices that have accompanied previous sanction rounds targeting Moscow’s energy exports. 
+ <a href="https://www.wsj.com/articles/g-7-close-to-agreement-on-exploring-new-sanction-capping-russian-oil-price-11656276097">G-7 Close to Pact on Exploring New Sanction Capping Russian Oil Price</a> WSJ: The move aims to counter sharp rise in prices that accompanied prior sanction rounds targeting Moscow’s energy exports. 
  <p class="updated_time"> 11:10 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61945712?at_medium=RSS&at_campaign=KARANGA">G7 leaders meet amid political pressures at home</a> BBC: Behind the grinning photo ops of the G7 summit, world leaders grapple with their differing outlooks. 
  <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
@@ -91,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61936818?at_medium=RSS&at_campaign=KARANGA">Frozen baby mammoth discovered in Yukon excites Canada</a> BBC: A whole baby woolly mammoth is dug up at a Yukon gold mine - a first for North America. 
  <p class="updated_time"> 09:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
- <p class="updated_time"> 09:45 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61938109?at_medium=RSS&at_campaign=KARANGA">Joe Biden signs into law landmark gun control bill</a> BBC: The most significant changes in US gun safety rules in decades follows a series of mass shootings. 
  <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
@@ -101,16 +107,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 04:09 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61935485?at_medium=RSS&at_campaign=KARANGA">The moment a woman was saved from rushing flood waters in China</a> BBC: It took rescue crews multiple attempts to reach the woman who was clinging to her car. 
- <p class="updated_time"> 01:38 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61923967?at_medium=RSS&at_campaign=KARANGA">Italy's Red Brigades: Ex-members face extradition from France</a> BBC: A French court will decide the fate of several ex-members of the violent Red Brigades guerrilla group. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
- <p class="updated_time"> 06:00 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61787200?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families risking all to escape through Russia to Georgia</a> BBC: Risky escape routes have opened up for Ukrainians - including driving through Russia to Georgia. 
- <p class="updated_time"> 05:59 PM CT, Jun. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61933933?at_medium=RSS&at_campaign=KARANGA">First reactions to US Supreme Court abortion ruling</a> BBC: Protesters react strongly as news of the Supreme Court's decision spreads to crowds outside. 
  <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
  <p class="updated_time"> 04:16 PM CT, Jun. 24 </p> 
