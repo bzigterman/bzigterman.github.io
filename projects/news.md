@@ -113,7 +113,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:34 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 Committee schedules last minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
+ <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 Committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
  <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
