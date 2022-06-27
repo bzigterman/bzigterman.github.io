@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:09 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel tavern deaths tragedy</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
+ <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61951632?at_medium=RSS&at_campaign=KARANGA">Ecuador promises fuel price cuts amid protests</a> BBC: President Lasso makes a concession during a protest respite, but no deal has been reached. 
  <p class="updated_time"> 05:32 AM CT, Jun. 27 </p> 
@@ -19,8 +23,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
- <p class="updated_time"> 03:10 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">Youngest South Africa tavern victim was 13 - minister</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
  <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
- <p class="updated_time"> 12:11 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107619558/oslo-norway-mass-shooting">Oslo Pride organizers cancel a parade after a gunman kills 2 and wounds 10</a> NPR: Police are investigating the shooting as a possible terrorist attack during the Norwegian capital's annual Pride festival. Investigators said a suspect was arrested. 
  <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 04:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107063641/illinois-governor-primary-democrat-pritzker-gop-bailey-griffin-irvin-trump">Some of the country's richest people try to influence the Illinois race for governor</a> NPR: Democrat and billionaire Gov. JB Pritzker is not only funding his own campaign but also running ads for GOP frontrunner Darren Bailey. Billionaire Ken Griffin is funding Republican Richard Irvin. 
  <p class="updated_time"> 04:00 AM CT, Jun. 27 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107666598/roe-overturned-abortion-access-biden-senate-democrats">Biden must take stronger action on abortion, Senate Democrats say</a> NPR: With Roe v. Wade overturned, Senate Democrats want Biden to use presidential power to ease abortion access and protect those who seek the procedures. But he has limited options. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
