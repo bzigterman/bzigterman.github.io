@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:05 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in in default. 
+ <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
- <p class="updated_time"> 11:33 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in in default. 
- <p class="updated_time"> 11:22 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:19 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Hundreds of people are injured and four have died after a wooden stand fell, local officials say. 
  <p class="updated_time"> 10:21 PM CT, Jun. 26 </p> 
