@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
+ <p class="updated_time"> 03:10 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">Youngest South Africa tavern victim was 13 - minister</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
- <p class="updated_time"> 02:25 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 01:31 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947201?at_medium=RSS&at_campaign=KARANGA">Sydney climate protests: Activists block streets and harbour tunnel</a> BBC: The protesters say their actions are urgently needed, but police label them "violent" and "erratic". 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests in Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. “So many killings in Mexico,” said Pope Francis. 
- <p class="updated_time"> 09:32 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61941170?at_medium=RSS&at_campaign=KARANGA">South African police investigate nightclub deaths</a> BBC: Post-mortem examinations will be carried out shortly to determine the cause of 22 mysterious deaths. 
  <p class="updated_time"> 09:30 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61941591?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US firms pledge to pay staff travel expenses for abortions</a> BBC: Disney, JP Morgan and Meta are among the companies to confirm such policies after the Roe v Wade ruling. 
  <p class="updated_time"> 09:00 AM CT, Jun. 26 </p> 
@@ -116,6 +116,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107063641/illinois-governor-primary-democrat-pritzker-gop-bailey-griffin-irvin-trump">Some of the country's richest people try to influence the Illinois race for governor</a> NPR: Democrat and billionaire Gov. JB Pritzker is not only funding his own campaign but also running ads for GOP frontrunner Darren Bailey. Billionaire Ken Griffin is funding Republican Richard Irvin. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107699789/new-york-gov-primary-results-kathy-hochul-lee-zeldin-andrew-giuliani">In N.Y.'s primary, 2 Democrats and 4 Republicans are running to oust Gov. Hochul</a> NPR: Gov. Kathy Hochul is seeking a full term after succeeding Andrew Cuomo who resigned last year. If elected in November, she would be the first woman chosen by voters as New York's governor. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107733632/poll-majorities-oppose-supreme-courts-abortion-ruling-and-worry-about-other-righ">Poll: Majorities oppose Supreme Court's abortion ruling and worry about other rights</a> NPR: 56% of Americans disapproved of the decision in an NPR/PBS NewsHour/Marist poll conducted after it was announced. A similar number say it was motivated by politics — not law. 
  <p class="updated_time"> 01:58 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107266693/for-years-sen-klobuchar-has-been-pushing-to-close-the-boyfriend-loophole">For years Sen. Klobuchar has been pushing to close the 'boyfriend loophole'</a> NPR: NPR's Leila Fadel speaks with Democratic Sen. Amy Klobuchar about the bipartisan gun safety bill passed by the Senate. 
  <p class="updated_time"> 07:52 PM CT, Jun. 26 </p> 
@@ -142,12 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:28 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
- <p class="updated_time"> 08:26 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628813/could-fl-gov-desantis-successfully-challenge-trump-in-2024s-presidential-electio">Could Fl. Gov. DeSantis successfully challenge Trump in 2024's presidential election?</a> NPR: NPR's Susan Davis talks with New Yorker magazine staff writer Dexter Filkins about Florida Gov. Ron DeSantis and his growing strength in the Republican Party. 
- <p class="updated_time"> 08:24 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628806/week-in-politics-biden-urges-voters-to-look-to-november-elections-to-enact-chang">Week in politics: Biden urges voters to look to November elections to enact change</a> NPR: President Biden is urging voters to elect representatives who support abortion rights in November's election. But it's doubtful the issue will shift the balance of power in Congress. 
- <p class="updated_time"> 08:04 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107626030/biden-signs-gun-safety-law">Biden signs gun safety bill into law</a> NPR: The president's signing comes just over a month after the mass shooting at an elementary school in Uvalde, Texas, killed 19 children and two adults. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
