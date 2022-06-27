@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:25 AM CT, Jun. 27 </p> 
+ <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
- <p class="updated_time"> 06:09 AM CT, Jun. 27 </p> 
+ <p class="updated_time"> 08:16 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
@@ -20,19 +20,25 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:32 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: At the first meeting of the summit, the Russian leader's so-called macho image is made fun of. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
+ <p class="updated_time"> 04:20 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">G-7 Expected to Adopt Fresh Sanctions Against Russia</a> WSJ: Leaders are expected to agree to start work on a mechanism to cap the purchase price of Russian oil, with the U.S. also announcing a new round of military aid for Ukraine and sanctions against Moscow, U.S. officials said. 
+ <p class="updated_time"> 04:11 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-first-covid-wave-has-passed-with-no-apparent-signs-of-catastrophe-11656335120">North Korea's First Covid Wave Has Passed With No Apparent Signs of Catastrophe</a> WSJ: The prevalence of the Omicron variant rather than earlier strains, strict lockdowns and resilient immune systems may have helped the country avoid a worse outcome, say defectors and health experts. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
+ <p class="updated_time"> 01:46 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
+ <p class="updated_time"> 01:05 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/indias-finance-minister-defends-increased-purchases-of-russian-oil-11656324356">India's Finance Minister Defends Increased Purchases of Russian Oil</a> WSJ: India’s finance minister defended the country’s stepped up purchases of discounted Russian oil, saying that the government is simply doing what was best for the economy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
- <p class="updated_time"> 08:20 PM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-g-7-allies-detail-infrastructure-plan-to-challenge-china-11656255601">U.S. and G-7 Allies Detail Infrastructure Plan to Challenge China</a> WSJ: The U.S. and its allies laid out plans to invest billions of dollars for infrastructure projects in developing countries in an attempt to challenge a similar program by China. 
  <p class="updated_time"> 07:51 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61946853?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: Villagers report aftershocks but no aid</a> BBC: In a remote Afghan village residents fear a new earthquake and aid has not yet reached the nearest town. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
@@ -55,14 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
- <p class="updated_time"> 12:50 PM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165">Russian Missiles Strike Kyiv Homes</a> WSJ: The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
- <p class="updated_time"> 11:41 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/g-7-close-to-agreement-on-exploring-new-sanction-capping-russian-oil-price-11656276097">G-7 Close to Pact on Exploring New Sanction Capping Russian Oil Price</a> WSJ: The move aims to counter sharp rise in prices that accompanied prior sanction rounds targeting Moscow’s energy exports. 
- <p class="updated_time"> 11:01 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/south-african-police-investigate-deaths-of-22-youngsters-in-township-tavern-11656246848">South African Police Investigate Deaths of 22 Youngsters in Township Tavern</a> WSJ: Authorities were investigating the deaths of 22 young people, some as young as 14, whose bodies were found in a township tavern near the coastal city of East London. 
  <p class="updated_time"> 10:46 AM CT, Jun. 26 </p> 
  <a href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767">Killing of Jesuit Priests in Mexico Shakes Nation Afflicted by Violence</a> WSJ: A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. “So many killings in Mexico,” said Pope Francis. 
  <p class="updated_time"> 09:00 AM CT, Jun. 26 </p> 
@@ -87,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 01:08 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107683826/ecuador-government-state-of-emergency-indigenous-strike">Ecuador's government has lifted a state of emergency amid an Indigenous-led strike</a> NPR: Ecuador's largest Indigenous organization began a strike two weeks ago to demand gasoline prices be cut, price controls be imposed on agricultural products and a larger budget be set for education. 
- <p class="updated_time"> 12:30 AM CT, Jun. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-held-secret-meeting-with-israeli-arab-military-chiefs-to-counter-iran-air-threat-11656235802">U.S. Held Secret Meeting With Israeli, Arab Military Chiefs to Counter Iran Air Threat</a> WSJ: The meeting in Sharm El Sheikh, Egypt, included military officials from Israel, Saudi Arabia, Qatar, Jordan, Egypt, the U.A.E. and Bahrain. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61826273?at_medium=RSS&at_campaign=KARANGA">Nigerian Ife head: Why UK police are holding a priceless sculpture</a> BBC: Original Ife bronze heads, of which only some 20 survive, are thought to be about 700 years old. 
  <p class="updated_time"> 06:03 PM CT, Jun. 25 </p> 
@@ -112,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107727009/in-michigan-abortion-could-come-down-to-voters-in-november">In Michigan, abortion could come down to voters in November</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation, is moving toward the ballot as a state constitutional amendment and will be a big issue in the competitive race for governor. 
  <p class="updated_time"> 07:27 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106859552/primary-illinois-colorado-republican-candidate-democrats-ads">Democrats are bankrolling ads promoting fringe Republican candidates. Here's why</a> NPR: As the midterm primary season rolls along, voters may have noticed a strange phenomenon of political advertising: Democrats paying for ads supporting Republican candidates. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
@@ -140,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691228/sen-mitch-mcconnell-is-illuminating-the-legal-conservative-route-for-republicans">Sen. Mitch McConnell is illuminating the legal conservative route for Republicans</a> NPR: Much of the credit for the overturning of Roe v. Wade goes to Sen. Mitch McConnell, R-Ky., who helped install the conservative majority on the Supreme Court. He may not be finished. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
- <p class="updated_time"> 04:02 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107687336/biden-says-g-7-countries-will-ban-russian-gold-in-response-to-the-war-in-ukraine">Biden says G-7 countries will ban Russian gold in response to the war in Ukraine</a> NPR: Senior Biden administration officials said gold is Moscow's second largest export after energy. Banning imports would make it more difficult for Russia to participate in global markets, they said. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
