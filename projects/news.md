@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:05 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in in default. 
+ <p class="updated_time"> 01:31 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61947201?at_medium=RSS&at_campaign=KARANGA">Sydney climate protests: Activists block streets and harbour tunnel</a> BBC: The protesters say their actions are urgently needed, but police label them "violent" and "erratic". 
+ <p class="updated_time"> 01:18 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in historic foreign debt default, reports suggest</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61947325?at_medium=RSS&at_campaign=KARANGA">G7 summit: Leaders detail $600bn plan to rival China's Belt and Road initiative</a> BBC: The revamped plan will see fresh funds being injected into development projects in Asia and Africa. 
  <p class="updated_time"> 11:19 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61945917?at_medium=RSS&at_campaign=KARANGA">Colombia: Scores injured in deadly bullfight stand collapse</a> BBC: Hundreds of people are injured and four have died after a wooden stand fell, local officials say. 
- <p class="updated_time"> 10:21 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61947294?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky to address G7 as Russian missiles hit cities</a> BBC: The Ukrainian president calls for more weapons and says partners "need to move faster". 
  <p class="updated_time"> 09:46 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
  <p class="updated_time"> 08:20 PM CT, Jun. 26 </p> 
@@ -38,7 +38,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:08 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61902458?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman's suicide: A widow's grief</a> BBC: The force takes on mental health to help officers affected by stress - but for some it comes too late. 
  <p class="updated_time"> 06:03 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61907734?at_medium=RSS&at_campaign=KARANGA">Will electric motorbike sales take-off across Asia?</a> BBC: Soaring petrol prices could speed up the transition to electric much faster than expected. 
+ <a href="https://www.bbc.co.uk/news/business-61907734?at_medium=RSS&at_campaign=KARANGA">Will electric motorbike sales take off across Asia?</a> BBC: Soaring petrol prices could speed up the transition to electric much faster than expected. 
  <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
@@ -73,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
- <p class="updated_time"> 07:00 AM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61943248?at_medium=RSS&at_campaign=KARANGA">Huge fire engulfs ferry in Philippines</a> BBC: All but two of 165 people who were aboard a blazing ferry are rescued in the central Philippines. 
  <p class="updated_time"> 06:53 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691194/south-african-police-investigating-deaths-20-nightclub">Police are investigating the deaths of at least 20 at a South African nightclub</a> NPR: It is unclear what led to the deaths of the young people, who were reportedly attending a party to celebrate the end of winter school exams. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
@@ -118,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:58 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107266693/for-years-sen-klobuchar-has-been-pushing-to-close-the-boyfriend-loophole">For years Sen. Klobuchar has been pushing to close the 'boyfriend loophole'</a> NPR: NPR's Leila Fadel speaks with Democratic Sen. Amy Klobuchar about the bipartisan gun safety bill passed by the Senate. 
  <p class="updated_time"> 07:52 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107591849/roe-6-political-questions-supreme-court">6 political questions after the Supreme Court overturned Roe v. Wade</a> NPR: There are lots of questions about what happens now after the Supreme Court's ruling on Roe v. Wade. Here are six that have political implications. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
@@ -148,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628806/week-in-politics-biden-urges-voters-to-look-to-november-elections-to-enact-chang">Week in politics: Biden urges voters to look to November elections to enact change</a> NPR: President Biden is urging voters to elect representatives who support abortion rights in November's election. But it's doubtful the issue will shift the balance of power in Congress. 
  <p class="updated_time"> 08:04 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107626030/biden-signs-gun-safety-law">Biden signs gun safety bill into law</a> NPR: The president's signing comes just over a month after the mass shooting at an elementary school in Uvalde, Texas, killed 19 children and two adults. 
- <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107628750/s-c-gubernatorial-candidate-says-there-should-be-age-limits-for-elected-official">S.C. gubernatorial candidate says there should be age limits for elected officials</a> NPR: NPR's Susan Davis speaks with Joe Cunningham, former South Carolina congressman, about his campaign for governor and his position on age limits for politicians. 
  <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
  <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
