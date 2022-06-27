@@ -13,6 +13,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
+ <p class="updated_time"> 08:38 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61954068?at_medium=RSS&at_campaign=KARANGA">Ukraine war: People in siege city Lysychansk ordered to leave</a> BBC: Residents of the front-line city of Lysychansk are ordered to leave as Russian forces push forward. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
  <p class="updated_time"> 03:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107750828/brittney-griner-russia-court-appearance-drug-trial">WNBA star Brittney Griner is seen at court, but Russia extends her detention again</a> NPR: The star with the U.S. Olympic and the WNBA's Phoenix Mercury was bracketed by four security officers and a dog as she was led down a stairwell to a courtroom for Monday's hearing. 
- <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
  <p class="updated_time"> 01:41 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
