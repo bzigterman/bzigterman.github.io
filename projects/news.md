@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
+ <p class="updated_time"> 04:53 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
@@ -31,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/north-koreas-first-covid-wave-has-passed-with-no-apparent-signs-of-catastrophe-11656335120">North Korea's First Covid Wave Has Passed With No Apparent Signs of Catastrophe</a> WSJ: The prevalence of the Omicron variant rather than earlier strains, strict lockdowns and resilient immune systems may have helped the country avoid a worse outcome, say defectors and health experts. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
- <p class="updated_time"> 01:46 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 01:05 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/indias-finance-minister-defends-increased-purchases-of-russian-oil-11656324356">India's Finance Minister Defends Increased Purchases of Russian Oil</a> WSJ: India’s finance minister defended the country’s stepped up purchases of discounted Russian oil, saying that the government is simply doing what was best for the economy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
@@ -142,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:41 AM CT, Jun. 24 </p> 
- <a href="https://www.cnn.com/2022/06/24/politics/supreme-court-dobbs-opinion-key-lines/index.html">Key lines from Supreme Court opinion overturning Roe v. Wade</a> CNN: The Supreme Court's ruling on Friday overturning Roe v. Wade, the most consequential high court ruling in decades, contained several striking lines that will resonate for decades to come. 
 
 
 </details>
