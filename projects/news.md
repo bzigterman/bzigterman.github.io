@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:30 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 10, injures hundreds</a> BBC: A chemical container was dropped by a crane and exploded at the port of Aqaba, authorities say. 
  <p class="updated_time"> 11:55 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
- <p class="updated_time"> 11:40 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 10, injures hundreds</a> BBC: A chemical container was dropped by a crane and exploded at the port of Aqaba, authorities say. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
  <p class="updated_time"> 11:21 AM CT, Jun. 27 </p> 
@@ -38,7 +38,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody an Indian activist, Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat when he was the state’s chief minister. 
+ <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:34 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 Committee schedules last minute hearing for Tuesday</a> NPR: The Jan. 6 Committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
  <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691249/texas-has-banned-almost-all-abortions-but-its-taken-decades">Texas has banned almost all abortions — but it's taken decades</a> NPR: Nine years ago, state Sen. Wendy Davis stopped a vote on a bill that would have forced Texas abortion facilities to close. Now abortions will soon be illegal in the state with few exceptions. 
  <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691235/michigan-is-looking-to-ban-abortions-it-may-rest-on-the-gubernatorial-election">Michigan is looking to ban abortions. It may rest on the gubernatorial election</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation. It will be a main campaign issue for Democratic Gov. Gretchen Whitmer and her most competitive Republican rival, Tudor Dixon. 
- <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691228/sen-mitch-mcconnell-is-illuminating-the-legal-conservative-route-for-republicans">Sen. Mitch McConnell is illuminating the legal conservative route for Republicans</a> NPR: Much of the credit for the overturning of Roe v. Wade goes to Sen. Mitch McConnell, R-Ky., who helped install the conservative majority on the Supreme Court. He may not be finished. 
  <p class="updated_time"> 04:36 PM CT, Jun. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
