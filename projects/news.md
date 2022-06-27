@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 08:42 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
- <p class="updated_time"> 08:16 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:36 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61951632?at_medium=RSS&at_campaign=KARANGA">Ecuador promises fuel price cuts amid protests</a> BBC: President Lasso makes a concession during a protest respite, but no deal has been reached. 
  <p class="updated_time"> 05:32 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
+ <p class="updated_time"> 05:17 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
- <p class="updated_time"> 04:53 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Forces Push to Extend Gains in Eastern Ukraine</a> WSJ: The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia. 
+ <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Over two decades, Teesta Setalvad has been an advocate for victims of the riots and a critic of leader Narendra Modi for his alleged inaction. 
  <p class="updated_time"> 04:37 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61950486?at_medium=RSS&at_campaign=KARANGA">Sofia Sapega: Belarus Ryanair plane arrest student appeals for pardon</a> BBC: Sofia Sapega's plea comes a year after she was detained by the KGB on a diverted flight in Minsk. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
@@ -31,10 +33,12 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">G-7 Expected to Adopt Fresh Sanctions Against Russia</a> WSJ: Leaders are expected to agree to start work on a mechanism to cap the purchase price of Russian oil, with the U.S. also announcing a new round of military aid for Ukraine and sanctions against Moscow, U.S. officials said. 
  <p class="updated_time"> 04:11 AM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/north-koreas-first-covid-wave-has-passed-with-no-apparent-signs-of-catastrophe-11656335120">North Korea's First Covid Wave Has Passed With No Apparent Signs of Catastrophe</a> WSJ: The prevalence of the Omicron variant rather than earlier strains, strict lockdowns and resilient immune systems may have helped the country avoid a worse outcome, say defectors and health experts. 
+ <p class="updated_time"> 04:07 AM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
  <p class="updated_time"> 02:52 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61947195?at_medium=RSS&at_campaign=KARANGA">Nasa launches first rocket from Australian commercial spaceport</a> BBC: It is Nasa's first launch from a commercial site outside the US - and a landmark moment for Australia. 
- <p class="updated_time"> 01:05 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/indias-finance-minister-defends-increased-purchases-of-russian-oil-11656324356">India's Finance Minister Defends Increased Purchases of Russian Oil</a> WSJ: India’s finance minister defended the country’s stepped up purchases of discounted Russian oil, saying that the government is simply doing what was best for the economy. 
+ <p class="updated_time"> 01:41 AM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
  <p class="updated_time"> 12:34 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61947315?at_medium=RSS&at_campaign=KARANGA">Japan urges 37 million people to switch off lights</a> BBC: Officials have asked people in Tokyo and its surrounding area to turn off lights amid a heatwave. 
  <p class="updated_time"> 11:41 PM CT, Jun. 26 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/25/1107628820/biden-meets-with-g7-to-talk-about-ukraine-inflation-food-insecurity-climate-chan">Biden meets with G7 to talk about Ukraine, inflation, food insecurity, climate change</a> NPR: President Biden is headed to Germany for a meeting of the G7 with leaders of the wealthiest countries. At the top of their agenda is the war in Ukraine, now in its fifth month. 
  <p class="updated_time"> 07:01 AM CT, Jun. 25 </p> 
  <a href="https://www.npr.org/2022/06/25/1107628743/biden-will-visit-saudi-arabia-to-ask-for-an-increase-in-oil-production">Biden will visit Saudi Arabia to ask for an increase in oil production</a> NPR: President Biden's trip to Saudi Arabia next month represents a stark change in his attitude towards Saudi Crown Prince Mohammed bin Salman, who has been implicated in the killing of a journalist. 
- <p class="updated_time"> 01:06 AM CT, Jun. 25 </p> 
- <a href="https://www.npr.org/2022/06/25/1107620889/morocco-migrants-die-stampede-spain-border-fence">At least 18 migrants die in surge to cross Moroccan border fence into Spain's Melilla</a> NPR: A spokesperson for the Spanish government's office in Melilla said about 2,000 people tried to enter, but many were stopped by Spanish and Moroccan forces on either side of the border fence. 
  <p class="updated_time"> 04:54 PM CT, Jun. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61932909?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Elation and despair outside US Supreme Court</a> BBC: Women across the US have sharply different reactions to the decision to overturn Roe v Wade. 
 
