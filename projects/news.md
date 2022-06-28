@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 13, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
  <p class="updated_time"> 01:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 12:56 AM CT, Jun. 28 </p> 
@@ -32,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
  <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'Our boat capsized, we swam to survive'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'I have nothing left except my life'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
  <p class="updated_time"> 06:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61798330?at_medium=RSS&at_campaign=KARANGA">El Salvador's abortion ban: 'I was sent to prison for suffering a miscarriage'</a> BBC: Elsy was sentenced to 30 years for aggravated homicide after losing her baby in a miscarriage in El Salvador. 
  <p class="updated_time"> 06:31 PM CT, Jun. 27 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 01:59 PM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the U.S. says it will supply more military aid and deploy further sanctions against Moscow. 
- <p class="updated_time"> 01:58 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 11, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
