@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims, believed to be migrants, were discovered in a remote area on the outskirts of San Antonio. 
  <p class="updated_time"> 09:38 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
- <p class="updated_time"> 09:36 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 40 found dead in abandoned lorry</a> BBC: The victims, believed to be migrants, were discovered in a remote area on the outskirts of San Antonio. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
@@ -20,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
  <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">How Afghanistan embassy in Delhi is surviving without funds</a> BBC: It's one of 70 such missions around the world running with little support since the Taliban takeover. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">Delhi Afghan embassy not taking orders from Taliban</a> BBC: It's one of 70 such missions around the world running with little funds since the Taliban takeover. 
  <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
  <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
