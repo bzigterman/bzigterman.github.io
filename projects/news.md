@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108121373/a-german-court-sentences-101-year-old-to-5-years-for-role-as-nazi-guard">A German court sentences 101-year-old to 5 years for role as Nazi guard</a> NPR: The regional court in Germany convicted the man of 3,518 counts of being an accessory to murder for serving at the Nazis' Sachsenhausen concentration camp during World War II. 
+ <p class="updated_time"> 04:29 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 04:02 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
- <p class="updated_time"> 03:44 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">Death toll rises from Russian strike on shopping mall in Ukraine</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
  <p class="updated_time"> 09:00 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691305/israel-soldier-killed-journalist-shireen-abu-akleh">Israel's probe of journalist Shireen Abu Akleh's killing raises questions</a> NPR: As Israel investigates the killing of journalist Shireen Abu Akleh, military experts critique the shortcomings of Israel's prosecution of other Palestinian civilian casualties. 
- <p class="updated_time"> 08:27 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691298/russian-missiles-hit-western-ukraine">Russian missiles hit western Ukraine</a> NPR: Russian missiles hit cities in western Ukraine throughout the weekend, an escalation that has punctured the relative lull in fighting in and around Kyiv. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
