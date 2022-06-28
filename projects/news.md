@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:18 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
+ <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 13, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
- <p class="updated_time"> 01:27 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
- <p class="updated_time"> 12:56 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
