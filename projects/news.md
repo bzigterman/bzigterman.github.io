@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
+ <p class="updated_time"> 08:31 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 08:26 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
@@ -23,6 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61946619?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who rocked Glastonbury with McCartney?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
+ <p class="updated_time"> 05:19 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Attack</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
+ <p class="updated_time"> 05:13 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
  <p class="updated_time"> 04:49 AM CT, Jun. 28 </p> 
@@ -33,24 +39,16 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">West's Challenges in Tackling Russia Exposed at G-7</a> WSJ: The summit ended with an agreement to discuss new sanctions against Russia but underlined the limits of using economic tools to punish Russia four months after its invasion of Ukraine. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
- <p class="updated_time"> 03:44 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
  <p class="updated_time"> 03:25 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-restricts-fuel-use-to-essential-services-11656419114">Sri Lanka Restricts Fuel Use to Essential Services</a> WSJ: Sri Lanka urged residents to stay home and has sharply restricted fuel use as it struggles to shore up energy supplies amid its deepening sovereign debt crisis. 
- <p class="updated_time"> 03:06 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Attack</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
  <p class="updated_time"> 02:37 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-to-visit-hong-kong-a-city-of-dashed-democracy-dreams-25-years-after-handover-11656416248">China's Xi to Visit Hong Kong, a City of Dashed Democracy Dreams 25 Years After Handover</a> WSJ: Chinese leader Xi Jinping’s planned visit to Hong Kong to mark the 25th anniversary of its handover from the U.K. bookends a period in which Beijing has taken full control of the city, ending debate over its political future. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
- <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 13, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
- <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61961744?at_medium=RSS&at_campaign=KARANGA">Australia census: Five ways the country is changing</a> BBC: Big shifts are happening - the country is now more diverse, less religious, and increasingly millennial. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
