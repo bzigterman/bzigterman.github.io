@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">Death toll rises from Russian strike on shopping mall in Ukraine</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
  <p class="updated_time"> 02:18 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691277/afghanistan-is-reeling-after-2-earthquakes-in-a-week">Afghanistan is reeling after 2 earthquakes in a week</a> NPR: NPR's Elissa Nadworny speaks to journalist Ali Latifi about the recovery efforts following the earthquake in eastern Afghanistan. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
- <p class="updated_time"> 07:04 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691221/politics-chat-biden-and-g7-discuss-ukraine-abortion-rights-and-gun-control-bills">Politics chat: Biden and G7 discuss Ukraine; abortion rights and gun control bills</a> NPR: Domestic issues like abortion and guns have followed President Biden abroad, where he's meeting with G7 and NATO leaders. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926983?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Helping families find missing loved ones</a> BBC: A Red Cross call centre is reuniting Ukrainian and Russian prisoners of war with their loved ones. 
  <p class="updated_time"> 06:10 PM CT, Jun. 25 </p> 
