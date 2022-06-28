@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
  <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 08:31 AM CT, Jun. 28 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
- <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61961211?at_medium=RSS&at_campaign=KARANGA">Oslo attacks: Pride protesters defy Norway police warnings</a> BBC: Thousands gathered to remember the victims of a deadly attack in Oslo which targeted an LGBT venue. 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
@@ -106,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Cassidy Hutchinson, a Mark Meadows aide, to testify at Tuesday's Jan. 6 panel hearing</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
@@ -136,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961573/many-abortion-rights-supporters-are-frustrated-with-democrats">Many abortion rights supporters are frustrated with Democrats</a> NPR: Many who support abortion rights say they have already been voting and that Democrats haven't prioritized protecting abortion rights. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961515/former-justice-department-official-richard-donoghue-on-jan-6-probe">Former Justice Department official Richard Donoghue on Jan. 6 probe</a> NPR: Richard Donoghue, who served as acting deputy attorney general in the Trump administration, talks with NPR's Ari Shapiro about former President Donald Trump's efforts to subvert the 2020 election. 
- <p class="updated_time"> 12:34 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
