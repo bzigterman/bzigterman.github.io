@@ -9,12 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387075/russia-is-facing-a-huge-geopolitical-price-for-its-invasion-of-ukraine">Russia is facing a huge geopolitical price for its invasion of Ukraine</a> NPR: Russia has won significant ground on the battlefield in eastern Ukraine but a growing number of experts say the growing costs to Moscow's military, economy and stature far outweigh the gains. 
+ <p class="updated_time"> 04:26 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108378113/how-gas-projects-in-africa-could-affect-the-continents-future">How gas projects in Africa could affect the continent's future</a> NPR: The scramble for gas after the Ukraine war means a push for new gas projects across Africa. Some worry these projects don't make sense. And they could worsen climate change for the continent. 
+ <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61971858?at_medium=RSS&at_campaign=KARANGA">Turkey supports Finland and Sweden Nato bid</a> BBC: Ankara had previously opposed to the Scandinavian countries' bids to join the alliance. 
+ <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundred</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area, though bitter divisions remain. 
+ <p class="updated_time"> 04:12 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: Donald Trump's top team knew days in advance of the potential for violence, a former staffer has said. 
+ <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">January 6 hearings: Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, says ex-White House aide 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles 
  <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
  <p class="updated_time"> 02:40 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61972124?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Rafael Nadal beats Francisco Cerundolo to reach second round</a> BBC: Rafael Nadal continues his bid for an improbable calendar-year Grand Slam by fighting off Francisco Cerundolo to win on his return to Wimbledon. 
+ <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -87,20 +101,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
- <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
- <p class="updated_time"> 04:07 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
- <p class="updated_time"> 03:30 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107750828/brittney-griner-russia-court-appearance-drug-trial">WNBA star Brittney Griner is seen at court, but Russia extends her detention again</a> NPR: The star with the U.S. Olympic and the WNBA's Phoenix Mercury was bracketed by four security officers and a dog as she was led down a stairwell to a courtroom for Monday's hearing. 
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
  <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
- <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
 
 
 </details>
@@ -108,6 +114,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387054/trump-said-he-knew-jan-6-crowd-members-had-weapons-ex-white-house-aide-testified">Trump said he knew Jan. 6 crowd members had weapons, ex-White House aide testified</a> NPR: A former White House aide told the House Jan. 6 committee that President Trump knew the crowd was armed and tried overpowering a secret service agent to go to the Capitol. 
+ <p class="updated_time"> 04:40 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387061/vp-harris-responds-to-scotus-ruling-that-there-is-no-constitutional-right-to-abo">VP Harris responds to SCOTUS ruling that there is no constitutional right to abortion</a> NPR: Vice President Harris has a long history working on reproductive rights. NPR's Asma Khalid talks with her about what the White House will do now that the Supreme Court has overturned 'Roe v. Wade.' 
+ <p class="updated_time"> 04:28 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108236828/oklahoma-governor-primary-republican-democrat-stitt-hofmeister-results-abortion">Despite heavy criticism, Gov. Stitt is the favorite to win the Oklahoma GOP primary </a> NPR: In Oklahoma, state Superintendent Joy Hofmeister left the GOP to run against Gov. Kevin Stitt who fiercely opposes abortion rights, defends gun rights and is endorsed by former President Trump. 
+ <p class="updated_time"> 04:17 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108332978/hhs-secretary-becerra-on-federal-abortion-rights">HHS Secretary Becerra on federal abortion rights</a> NPR: NPR's Juana Summers talks with President Biden's health and human services secretary, Xavier Becerra, about steps the administration is prepared to take to protect women's reproductive health care. 
+ <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108376194/former-aide-said-trump-tried-to-go-to-the-capitol-on-jan-6-in-latest-hearing">Former aide said Trump tried to go to the Capitol on Jan. 6 in latest hearing</a> NPR: A former White House aide said Trump planned to visit the Capitol on Jan. 6, 2021. When staff stopped those plans Trump attempted to grab the steering wheel of the presidential limousine. 
+ <p class="updated_time"> 03:32 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found Louisiana's new congressional maps diluted the votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
  <p class="updated_time"> 03:13 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108374896/vp-harris-calls-for-abortion-rights-supporters-to-channel-frustration-into-actio">VP Harris calls for abortion-rights supporters to channel frustration into action</a> NPR: In an interview with NPR White House correspondent Asma Khalid, the vice president also called on Congress to codify abortion rights. 
  <p class="updated_time"> 02:55 PM CT, Jun. 28 </p> 
@@ -117,7 +137,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:41 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls Trump lunging for the wheel when told he couldn't go to the Capitol</a> NPR: Former President Donald Trump lunged for the steering wheel and grabbed his driver after being told that he would not be going to the Capitol with his supporters after his rally on Jan. 6 
+ <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls being told Trump grabbed the wheel when he couldn't go to the Capitol</a> NPR: Cassidy Hutchinson testified she asked those involved if the story was true and they did not dispute the account of Trump growing "irate" when told that he had to return to the White House. 
  <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
@@ -126,22 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Former White House aide says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, was the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
- <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108117694/the-house-jan-6-committee-schedules-a-last-minute-hearing-for-tuesday">The House Jan. 6 committee schedules a last-minute hearing for Tuesday</a> NPR: This will be the sixth hearing for the Democratic-led committee, which has spent the last few weeks building a case around former President Donald Trump and his influence on the Jan. 6 insurrection. 
- <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
- <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108117666/morning-news-brief">News brief: 46 migrants found dead in San Antonio, Jan. 6  hearing, NATO summit</a> NPR: Dozens of migrants are found dead in a truck in Texas. The House Jan. 6 panel schedules a last-minute hearing. NATO leaders meet in Madrid for what could be the most transformative summit in decades. 
- <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963863/frustration-at-biden-and-other-democrats-grows-among-abortion-rights-supporters">Frustration at Biden and other Democrats grows among abortion-rights supporters</a> NPR: While abortion-rights supporters have focused their anger at the Supreme Court, but there was plenty aimed at Democrats who they feel let them down. 
- <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107778844/there-are-key-primaries-in-new-york-oklahoma-colorado-illinois-and-utah-today">There are key primaries in New York, Oklahoma, Colorado, Illinois and Utah today</a> NPR: New York governor's race and two incumbent vs. incumbent contests are among some key primaries on Tuesday. 
- <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107881079/michigan-abortion-gretchen-whitmer">Michigan shapes up as one of the next abortion battlefronts</a> NPR: Gov. Gretchen Whitmer tells NPR that abortion-rights supporters are fighting on all fronts to keep a 1931 ban from going back into effect. 
- <p class="updated_time"> 01:17 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
- <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
- <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
 
 </details>
