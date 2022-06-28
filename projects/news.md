@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:25 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Krememchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
  <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
@@ -24,15 +26,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 04:02 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
+ <p class="updated_time"> 02:14 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">G-7 Meeting Concludes With Focus on China</a> WSJ: The U.S. and other leading countries concluded their summit with an agreement to focus on the rising challenges posed by China, even as Russia’s war in Ukraine was the most urgent concern of the gathering. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
+ <p class="updated_time"> 02:01 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Strike</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
  <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 13, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
+ <p class="updated_time"> 01:00 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/china-is-updating-its-formula-for-building-itself-out-of-a-slump-11656410400">China Is Updating Its Formula for Building Itself Out of a Slump</a> WSJ: Beijing pivots to new types of public-works projects; data centers, a space station. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
@@ -65,10 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961587/russian-court-extends-brittney-griners-detention">Russian court extends Brittney Griner's detention</a> NPR: A Russian court has again extended the arrest of U.S. basketball star Brittney Griner. Her trial on drug charges starts July 1. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961529/g-7-leaders-focus-on-ukraine-war-in-summit">G-7 leaders focus on Ukraine war in summit</a> NPR: Leaders of the G-7 nations met in Germany and focused on the war in Ukraine. They talked about new missile defense systems for Kyiv and a proposal for a price cap for Russian oil. 
- <p class="updated_time"> 02:07 PM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
- <p class="updated_time"> 01:59 PM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/g-7-expected-to-adopt-fresh-sanctions-against-russia-11656320252">Zelensky Asks for Western Help to Push Russia Out of Ukraine Before Winter</a> WSJ: The Ukrainian president’s appeal to the G-7 comes as the U.S. says it will supply more military aid and deploy further sanctions against Moscow. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
@@ -79,16 +83,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
- <p class="updated_time"> 04:47 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
  <p class="updated_time"> 04:07 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
  <p class="updated_time"> 03:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107750828/brittney-griner-russia-court-appearance-drug-trial">WNBA star Brittney Griner is seen at court, but Russia extends her detention again</a> NPR: The star with the U.S. Olympic and the WNBA's Phoenix Mercury was bracketed by four security officers and a dog as she was led down a stairwell to a courtroom for Monday's hearing. 
- <p class="updated_time"> 01:41 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476">Shanghai Has Reopened, but Not Disneyland</a> WSJ: The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy. 
  <p class="updated_time"> 07:06 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61809659?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: Five moments in fraught relationship since handover</a> BBC: From the Olympics to mass protests, the 25 years since handover have seen highs and lows. 
  <p class="updated_time"> 07:04 PM CT, Jun. 26 </p> 
