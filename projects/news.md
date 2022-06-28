@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
+ <p class="updated_time"> 09:36 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 40 found dead in abandoned lorry</a> BBC: The victims, believed to be migrants, were discovered in a remote area on the outskirts of San Antonio. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
@@ -25,10 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61798330?at_medium=RSS&at_campaign=KARANGA">El Salvador's abortion ban: 'I was sent to prison for suffering a miscarriage'</a> BBC: Elsy was sentenced to 30 years for aggravated homicide after losing her baby in a miscarriage in El Salvador. 
  <p class="updated_time"> 06:31 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61952794?at_medium=RSS&at_campaign=KARANGA">The abortion clues that can hide on your phone</a> BBC: There are a number of concerns around data protection following the US Supreme Court's ruling on abortion. 
- <p class="updated_time"> 06:23 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
+ <p class="updated_time"> 04:38 PM CT, Jun. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-kills-suspected-militant-linked-to-al-qaeda-in-syria-11656380309">U.S. Kills Suspected Militant Linked to Al Qaeda in Syria</a> WSJ: Abu Hamzah al Yemeni was targeted in a drone strike, U.S. military said. 
  <p class="updated_time"> 04:26 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961587/russian-court-extends-brittney-griners-detention">Russian court extends Brittney Griner's detention</a> NPR: A Russian court has again extended the arrest of U.S. basketball star Brittney Griner. Her trial on drug charges starts July 1. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961529/g-7-leaders-focus-on-ukraine-war-in-summit">G-7 leaders focus on Ukraine war in summit</a> NPR: Leaders of the G-7 nations met in Germany and focused on the war in Ukraine. They talked about new missile defense systems for Kyiv and a proposal for a price cap for Russian oil. 
- <p class="updated_time"> 03:01 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61959875?at_medium=RSS&at_campaign=KARANGA">Malawi men jailed over murder of man with albinism</a> BBC: Five men are jailed after killing a man with albinism as part of a plot to sell his body parts. 
  <p class="updated_time"> 02:07 PM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794">Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</a> WSJ: A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow. 
  <p class="updated_time"> 01:59 PM CT, Jun. 27 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
  <p class="updated_time"> 11:02 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/sport/basketball/61956192?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russian court decides US star to stand trial on drug charges</a> BBC: American basketball star Brittney Griner is scheduled to stand trial in Russia on Friday on charges of illegal cannabis possession. 
- <p class="updated_time"> 10:19 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61929926?at_medium=RSS&at_campaign=KARANGA">Russia in debt default as payment deadline passes</a> BBC: The country fails to make $100m interest payment due to sanctions and is reported to be in default. 
  <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Local officials say more than ten people have been confirmed dead, and dozens more have been injured. 
  <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
@@ -71,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/india-arrests-rights-activist-at-forefront-of-legal-battles-over-2002-gujarat-riots-11656337678">India Arrests Rights Activist</a> WSJ: Authorities are holding in custody Teesta Setalvad, known for her yearslong efforts to bring legal action against Prime Minister Narendra Modi over the 2002 Hindu-Muslim riots in Gujarat. 
  <p class="updated_time"> 04:30 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107752526/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained">More than 300 LGBTQ activists in Istanbul are released after being detained</a> NPR: The once-annual Pride march has been banned since 2015 when police used tear gas and water cannons after a last-minute ban to disperse crowds. 
- <p class="updated_time"> 04:11 AM CT, Jun. 27 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-first-covid-wave-has-passed-with-no-apparent-signs-of-catastrophe-11656335120">North Korea's First Covid Wave Has Passed With No Apparent Signs of Catastrophe</a> WSJ: The prevalence of the Omicron variant rather than earlier strains, strict lockdowns and resilient immune systems may have helped the country avoid a worse outcome, say defectors and health experts. 
  <p class="updated_time"> 04:07 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107750231/russia-default-foreign-debt-payments-explained">What's happening with Russia's 1st default on foreign debt in a century</a> NPR: The clock ran out on Russia's payments. But there's a twist: Russia does not consider itself in default because the country has the money, just its payments have been blocked by Western sanctions. 
  <p class="updated_time"> 03:30 AM CT, Jun. 27 </p> 
@@ -126,6 +124,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
+ <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
  <p class="updated_time"> 06:59 PM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
@@ -158,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107266693/for-years-sen-klobuchar-has-been-pushing-to-close-the-boyfriend-loophole">For years Sen. Klobuchar has been pushing to close the 'boyfriend loophole'</a> NPR: NPR's Leila Fadel speaks with Democratic Sen. Amy Klobuchar about the bipartisan gun safety bill passed by the Senate. 
  <p class="updated_time"> 07:52 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107591849/roe-6-political-questions-supreme-court">6 political questions after the Supreme Court overturned Roe v. Wade</a> NPR: There are lots of questions about what happens now after the Supreme Court's ruling on Roe v. Wade. Here are six that have political implications. 
- <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107713190/where-will-conservatives-focus-their-political-energy-now-roe-has-been-overturne">Where will conservatives focus their political energy now Roe has been overturned?</a> NPR: The decision to overturn Roe v. Wade was the culmination of years of work by social conservatives. NPR's Michel Martin speaks with columnist Mona Charen about what's next for their movement. 
 
 
 </details>
