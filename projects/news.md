@@ -108,10 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:41 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls Trump lunging for the wheel when told he couldn't go to the Capitol</a> NPR: Former President Donald Trump lunged for the steering wheel and grabbed his driver after being told that he would not be going to the Capitol with his supporters after his rally on Jan. 6 
- <p class="updated_time"> 01:00 PM CT, Jun. 28 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
