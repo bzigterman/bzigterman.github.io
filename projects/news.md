@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
  <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
- <p class="updated_time"> 08:31 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 08:26 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
  <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
+ <p class="updated_time"> 06:11 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
@@ -49,6 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/chinas-xi-to-visit-hong-kong-a-city-of-dashed-democracy-dreams-25-years-after-handover-11656416248">China's Xi to Visit Hong Kong, a City of Dashed Democracy Dreams 25 Years After Handover</a> WSJ: Chinese leader Xi Jinping’s planned visit to Hong Kong to mark the 25th anniversary of its handover from the U.K. bookends a period in which Beijing has taken full control of the city, ending debate over its political future. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
@@ -106,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
@@ -136,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961580/the-future-of-the-anti-abortion-rights-movement">The future of the anti-abortion-rights movement</a> NPR: NPR's Ari Shapiro talks to Kristan Hawkins, president of Students for Life America, about the anti-abortion rights movement's goals now that Roe v. Wade has been overturned. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961573/many-abortion-rights-supporters-are-frustrated-with-democrats">Many abortion rights supporters are frustrated with Democrats</a> NPR: Many who support abortion rights say they have already been voting and that Democrats haven't prioritized protecting abortion rights. 
- <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107961515/former-justice-department-official-richard-donoghue-on-jan-6-probe">Former Justice Department official Richard Donoghue on Jan. 6 probe</a> NPR: Richard Donoghue, who served as acting deputy attorney general in the Trump administration, talks with NPR's Ari Shapiro about former President Donald Trump's efforts to subvert the 2020 election. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
