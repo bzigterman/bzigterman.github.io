@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:10 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Before being sentenced, Ghislaine Maxwell apologised for helping Jeffrey Epstein sexually abuse young girls. 
- <p class="updated_time"> 02:01 PM CT, Jun. 28 </p> 
+ <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
+ <p class="updated_time"> 02:40 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/61972124?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Rafael Nadal beats Francisco Cerundolo to reach second round</a> BBC: Rafael Nadal continues his bid for an improbable calendar-year Grand Slam by fighting off Francisco Cerundolo to win on his return to Wimbledon. 
+ <p class="updated_time"> 02:28 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, ex-White House aide says 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
- <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
  <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108343064/trump-didnt-want-to-stop-capitol-attack-former-white-house-aide-testifies">Trump didn't want to stop Capitol attack, former White House aide testifies</a> NPR: Former Mark Meadows aide Cassidy Hutchinson recalls exchange between her boss and White House Counsel Pat Cipollone, who warned "Somebody is going to die and this is going to be on your effing hands." 
  <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:41 PM CT, Jun. 28 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107961580/the-future-of-the-anti-abortion-rights-movement">The future of the anti-abortion-rights movement</a> NPR: NPR's Ari Shapiro talks to Kristan Hawkins, president of Students for Life America, about the anti-abortion rights movement's goals now that Roe v. Wade has been overturned. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
