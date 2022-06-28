@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 03:44 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107691305/israel-soldier-killed-journalist-shireen-abu-akleh">Israel's probe of journalist Shireen Abu Akleh's killing raises questions</a> NPR: As Israel investigates the killing of journalist Shireen Abu Akleh, military experts critique the shortcomings of Israel's prosecution of other Palestinian civilian casualties. 
  <p class="updated_time"> 08:27 AM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107691298/russian-missiles-hit-western-ukraine">Russian missiles hit western Ukraine</a> NPR: Russian missiles hit cities in western Ukraine throughout the weekend, an escalation that has punctured the relative lull in fighting in and around Kyiv. 
- <p class="updated_time"> 07:51 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691277/afghanistan-is-reeling-after-2-earthquakes-in-a-week">Afghanistan is reeling after 2 earthquakes in a week</a> NPR: NPR's Elissa Nadworny speaks to journalist Ali Latifi about the recovery efforts following the earthquake in eastern Afghanistan. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
@@ -126,6 +126,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1107963863/frustration-at-biden-and-other-democrats-grows-among-abortion-rights-supporters">Frustration at Biden and other Democrats grows among abortion-rights supporters</a> NPR: While abortion-rights supporters have focused their anger at the Supreme Court, but there was plenty aimed at Democrats who they feel let them down. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1107778844/there-are-key-primaries-in-new-york-oklahoma-colorado-illinois-and-utah-today">There are key primaries in New York, Oklahoma, Colorado, Illinois and Utah today</a> NPR: New York governor's race and two incumbent vs. incumbent contests are among some key primaries on Tuesday. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1107881079/michigan-abortion-gretchen-whitmer">Michigan shapes up as one of the next abortion battlefronts</a> NPR: Gov. Gretchen Whitmer tells NPR that abortion-rights supporters are fighting on all fronts to keep a 1931 ban from going back into effect. 
  <p class="updated_time"> 01:17 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
  <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
@@ -154,12 +160,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 04:01 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107063641/illinois-governor-primary-democrat-pritzker-gop-bailey-griffin-irvin-trump">Some of the country's richest people try to influence the Illinois race for governor</a> NPR: Democrat and billionaire Gov. JB Pritzker is not only funding his own campaign but also running ads for GOP frontrunner Darren Bailey. Billionaire Ken Griffin is funding Republican Richard Irvin. 
- <p class="updated_time"> 04:00 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107699789/new-york-gov-primary-results-kathy-hochul-lee-zeldin-andrew-giuliani">In N.Y.'s primary, 2 Democrats and 4 Republicans are running to oust Gov. Hochul</a> NPR: Gov. Kathy Hochul is seeking a full term after succeeding Andrew Cuomo who resigned last year. If elected in November, she would be the first woman chosen by voters as New York's governor. 
- <p class="updated_time"> 04:00 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107733632/poll-majorities-oppose-supreme-courts-abortion-ruling-and-worry-about-other-righ">Poll: Majorities oppose Supreme Court's abortion ruling and worry about other rights</a> NPR: 56% of Americans disapproved of the decision in an NPR/PBS NewsHour/Marist poll conducted after it was announced. A similar number say it was motivated by politics — not law. 
- <p class="updated_time"> 01:58 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107266693/for-years-sen-klobuchar-has-been-pushing-to-close-the-boyfriend-loophole">For years Sen. Klobuchar has been pushing to close the 'boyfriend loophole'</a> NPR: NPR's Leila Fadel speaks with Democratic Sen. Amy Klobuchar about the bipartisan gun safety bill passed by the Senate. 
 
 
 </details>
