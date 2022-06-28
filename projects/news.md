@@ -131,9 +131,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
- <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108117694/the-house-jan-6-committee-schedules-a-last-minute-hearing-for-tuesday">The House Jan. 6 committee schedules a last-minute hearing for Tuesday</a> NPR: This will be the sixth hearing for the Democratic-led committee, which has spent the last few weeks building a case around former President Donald Trump and his influence on the Jan. 6 insurrection. 
+ <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107963863/frustration-at-biden-and-other-democrats-grows-among-abortion-rights-supporters">Frustration at Biden and other Democrats grows among abortion-rights supporters</a> NPR: While abortion-rights supporters have focused their anger at the Supreme Court, but there was plenty aimed at Democrats who they feel let them down. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
