@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:12 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61976009?at_medium=RSS&at_campaign=KARANGA">Hisham al-Sayed: Hamas video claims to show captive Israeli</a> BBC: Hisham al-Sayed was last seen in 2015 when he is believed to have wandered into the Gaza Strip. 
  <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
  <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
@@ -20,7 +22,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61971858?at_medium=RSS&at_campaign=KARANGA">Turkey supports Finland and Sweden Nato bid</a> BBC: Ankara had previously opposed to the Scandinavian countries' bids to join the alliance. 
  <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundred</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area, though bitter divisions remain. 
+ <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundreds</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area. 
  <p class="updated_time"> 04:12 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: Donald Trump's top team knew days in advance of the potential for violence, a former staffer has said. 
  <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Brazen daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
- <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 07:35 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/scotlands-nicola-sturgeon-sets-out-plan-for-independence-vote-11656434150">Scotland's Nicola Sturgeon Sets Out Plan for Independence Vote</a> WSJ: The Scottish leader aims to hold a referendum in October 2023, but faces both legal and political challenges. 
  <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
@@ -114,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Jun. 28 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 05:45 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108376010/trumps-legal-exposure-may-be-growing-and-4-other-takeaways-from-the-jan-6-hearin">Trump's legal exposure may be growing – and 4 other takeaways from the Jan. 6 hearing</a> NPR: Former White House aide Cassidy Hutchinson testified under oath about a volatile and angry president who was prone to throwing dishes, knew that supporters were armed and didn't want the riot to stop. 
  <p class="updated_time"> 05:23 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108396692/jan-6-committee-hearing-transcript">Here's every word from the sixth Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 28 House select committee investigating the Jan. 6 Capitol attack hearing. 
  <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
@@ -140,12 +144,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108280982/texas-migrant-deaths-human-smuggling-mexico">With 51 people dead in Texas, here's what you should know about migrant smuggling</a> NPR: The trapped people were found after a worker heard someone crying for help. Two experts — one a former Homeland Security Investigations agent — tell NPR how it happened. 
  <p class="updated_time"> 02:33 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108343064/trump-didnt-want-to-stop-capitol-attack-former-white-house-aide-testifies">Trump didn't want to stop Capitol attack, former White House aide testifies</a> NPR: Former Mark Meadows aide Cassidy Hutchinson recalls exchange between her boss and White House Counsel Pat Cipollone, who warned "Somebody is going to die and this is going to be on your effing hands." 
- <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:41 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls being told Trump grabbed the wheel when he couldn't go to the Capitol</a> NPR: Cassidy Hutchinson testified she asked those involved if the story was true and they did not dispute the account of Trump growing "irate" when told that he had to return to the White House. 
- <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
 
 
 </details>
