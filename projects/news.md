@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:42 AM CT, Jun. 28 </p> 
+ <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 08:26 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
