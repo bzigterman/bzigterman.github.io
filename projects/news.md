@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">January 6 hearings: Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, says ex-White House aide 
  <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
  <p class="updated_time"> 02:40 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61972124?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Rafael Nadal beats Francisco Cerundolo to reach second round</a> BBC: Rafael Nadal continues his bid for an improbable calendar-year Grand Slam by fighting off Francisco Cerundolo to win on his return to Wimbledon. 
- <p class="updated_time"> 02:28 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, ex-White House aide says 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -108,8 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108374896/vp-harris-calls-for-abortion-rights-supporters-to-channel-frustration-into-actio">VP Harris calls for abortion-rights supporters to channel frustration into action</a> NPR: In an interview with NPR White House correspondent Asma Khalid, the vice president also called on Congress to codify abortion rights. 
  <p class="updated_time"> 02:55 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108280982/texas-migrant-deaths-human-smuggling-mexico">With 50 people dead in Texas, here's what you should know about migrant smuggling</a> NPR: The trapped people were found after a worker heard someone crying for help. Two experts — one a former Homeland Security Investigations agent — tell NPR how it happened. 
+ <a href="https://www.npr.org/2022/06/28/1108280982/texas-migrant-deaths-human-smuggling-mexico">With 51 people dead in Texas, here's what you should know about migrant smuggling</a> NPR: The trapped people were found after a worker heard someone crying for help. Two experts — one a former Homeland Security Investigations agent — tell NPR how it happened. 
  <p class="updated_time"> 02:33 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108343064/trump-didnt-want-to-stop-capitol-attack-former-white-house-aide-testifies">Trump didn't want to stop Capitol attack, former White House aide testifies</a> NPR: Former Mark Meadows aide Cassidy Hutchinson recalls exchange between her boss and White House Counsel Pat Cipollone, who warned "Somebody is going to die and this is going to be on your effing hands." 
  <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1107881079/michigan-abortion-gretchen-whitmer">Michigan shapes up as one of the next abortion battlefronts</a> NPR: Gov. Gretchen Whitmer tells NPR that abortion-rights supporters are fighting on all fronts to keep a 1931 ban from going back into effect. 
  <p class="updated_time"> 01:17 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
- <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
