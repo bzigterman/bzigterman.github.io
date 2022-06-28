@@ -9,6 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61961211?at_medium=RSS&at_campaign=KARANGA">Oslo attacks: Pride protesters defy Norway police warnings</a> BBC: Thousands gathered to remember the victims of a deadly attack in Oslo which targeted an LGBT venue. 
+ <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
+ <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">How Afghanistan embassy in Delhi is surviving without funds</a> BBC: It's one of 70 such missions around the world running with little support since the Taliban takeover. 
+ <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
+ <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'I have nothing left except my life'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
+ <p class="updated_time"> 06:36 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61798330?at_medium=RSS&at_campaign=KARANGA">El Salvador's abortion ban: 'I was sent to prison for suffering a miscarriage'</a> BBC: Elsy was sentenced to 30 years for aggravated homicide after losing her baby in a miscarriage in El Salvador. 
+ <p class="updated_time"> 06:31 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61952794?at_medium=RSS&at_campaign=KARANGA">The abortion clues that can hide on your phone</a> BBC: There are a number of concerns around data protection following the US Supreme Court's ruling on abortion. 
  <p class="updated_time"> 06:23 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 06:10 PM CT, Jun. 27 </p> 
@@ -105,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61926644?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Ukraine's International Legion of foreign fighters</a> BBC: The BBC speaks to some of the thousands of foreign soldiers who have joined the fight against Russia. 
  <p class="updated_time"> 09:54 AM CT, Jun. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61788929?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: The world reacts to US abortion ruling</a> BBC: Our correspondents in Italy, El Salvador, India, Ireland and Canada explain the impact in countries across the globe. 
- <p class="updated_time"> 09:39 AM CT, Jun. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61936960?at_medium=RSS&at_campaign=KARANGA">Afghanistan earthquake: hospital struggles to help survivors</a> BBC: Caring for victims is a challenge in a country already in the grip of a humanitarian crisis. 
 
 
 </details>
@@ -114,7 +126,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:28 PM CT, Jun. 27 </p> 
+ <p class="updated_time"> 06:59 PM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
