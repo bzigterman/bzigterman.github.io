@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell awaits sentencing over sex trafficking charges</a> BBC: Ghislaine Maxwell was convicted of helping late US financier Jeffrey Epstein sexually abuse young girls. 
  <p class="updated_time"> 10:31 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 10:24 AM CT, Jun. 28 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61946619?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who rocked Glastonbury with McCartney?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 05:19 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Attack</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
  <p class="updated_time"> 05:13 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
@@ -44,7 +44,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
+ <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">At least 20 people were killed in Russia's missile attack on a crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week — attacks Moscow says are aimed at military installations but often hit civilian targets instead. 
  <p class="updated_time"> 03:25 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-restricts-fuel-use-to-essential-services-11656419114">Sri Lanka Restricts Fuel Use to Essential Services</a> WSJ: Sri Lanka urged residents to stay home and has sharply restricted fuel use as it struggles to shore up energy supplies amid its deepening sovereign debt crisis. 
  <p class="updated_time"> 02:37 AM CT, Jun. 28 </p> 
@@ -115,7 +115,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Cassidy Hutchinson, a Mark Meadows aide, to testify at Tuesday's Jan. 6 panel hearing</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
+ <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Live Updates: A former aide to Mark Meadows to testify at Jan. 6 panel hearing</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
