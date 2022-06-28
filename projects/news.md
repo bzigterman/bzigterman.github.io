@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:25 AM CT, Jun. 28 </p> 
+ <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
+ <p class="updated_time"> 07:11 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
@@ -25,16 +29,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108121373/a-german-court-sentences-101-year-old-to-5-years-for-role-as-nazi-guard">A German court sentences 101-year-old to 5 years for role as Nazi guard</a> NPR: The regional court in Germany convicted the man of 3,518 counts of being an accessory to murder for serving at the Nazis' Sachsenhausen concentration camp during World War II. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
- <p class="updated_time"> 04:02 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
+ <p class="updated_time"> 03:25 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/sri-lanka-restricts-fuel-use-to-essential-services-11656419114">Sri Lanka Restricts Fuel Use to Essential Services</a> WSJ: Sri Lanka urged residents to stay home and has sharply restricted fuel use as it struggles to shore up energy supplies amid its deepening sovereign debt crisis. 
  <p class="updated_time"> 03:06 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Strike</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
+ <p class="updated_time"> 02:32 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/china-lowers-quarantine-time-for-visitors-in-move-to-boost-economy-11656415919">China Lowers Quarantine Time for Visitors in Move to Boost Economy</a> WSJ: Travelers from overseas and anyone who has had a close Covid contact will need to isolate for 10 days, down from 21 days previously. 
  <p class="updated_time"> 02:14 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">G-7 Meeting Concludes With Focus on China</a> WSJ: The U.S. and other leading countries concluded their summit with an agreement to focus on the rising challenges posed by China, even as Russia’s war in Ukraine was the most urgent concern of the gathering. 
- <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
@@ -128,6 +132,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Cassidy Hutchinson, a Mark Meadows aide, to testify at Tuesday's Jan. 6 panel hearing</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
@@ -160,8 +166,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107886305/jan-6-committee-schedules-last-minute-hearing-for-tuesday">Jan. 6 committee schedules last-minute hearing for Tuesday</a> NPR: The Jan. 6 committee investigating the attack on the Capitol will hold its sixth hearing tomorrow after previously announcing there would be no more hearings until July. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
- <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
 
 
 </details>
