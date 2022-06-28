@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 11:54 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims, believed to be migrants, were discovered in a remote area on the outskirts of San Antonio. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61961744?at_medium=RSS&at_campaign=KARANGA">Australia census: Five ways the country is changing</a> BBC: Big shifts are happening - the country is now more diverse, less religious, and increasingly millennial. 
  <p class="updated_time"> 11:49 PM CT, Jun. 27 </p> 
