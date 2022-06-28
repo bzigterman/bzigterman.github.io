@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
+ <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387096/turkey-has-dropped-its-objections-to-finland-and-sweden-joining-nato">Turkey has dropped its objections to Finland and Sweden joining NATO</a> NPR: NATO leades say Turkey has dropped its objection to Finland and Sweden being invited into the alliance — one of the most significant reactions by the West so far to Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:57 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387075/russia-is-facing-a-huge-geopolitical-price-for-its-invasion-of-ukraine">Russia is facing a huge geopolitical price for its invasion of Ukraine</a> NPR: Russia has won significant ground on the battlefield in eastern Ukraine but a growing number of experts say the growing costs to Moscow's military, economy and stature far outweigh the gains. 
  <p class="updated_time"> 04:26 PM CT, Jun. 28 </p> 
@@ -95,10 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107961587/russian-court-extends-brittney-griners-detention">Russian court extends Brittney Griner's detention</a> NPR: A Russian court has again extended the arrest of U.S. basketball star Brittney Griner. Her trial on drug charges starts July 1. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961529/g-7-leaders-focus-on-ukraine-war-in-summit">G-7 leaders focus on Ukraine war in summit</a> NPR: Leaders of the G-7 nations met in Germany and focused on the war in Ukraine. They talked about new missile defense systems for Kyiv and a proposal for a price cap for Russian oil. 
- <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
- <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
  <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
@@ -114,6 +114,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:23 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108396692/jan-6-committee-hearing-transcript">Here's every word from the sixth Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 28 House select committee investigating the Jan. 6 Capitol attack hearing. 
+ <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387096/turkey-has-dropped-its-objections-to-finland-and-sweden-joining-nato">Turkey has dropped its objections to Finland and Sweden joining NATO</a> NPR: NATO leades say Turkey has dropped its objection to Finland and Sweden being invited into the alliance — one of the most significant reactions by the West so far to Russia's invasion of Ukraine. 
+ <p class="updated_time"> 05:05 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108387082/what-the-former-white-house-aides-testimony-could-mean-for-the-jan-6-investigati">What the former White House aide's testimony could mean for the Jan. 6 investigation</a> NPR: Tuesday's surprise hearing of the Jan. 6 committee came with some explosive testimony from Cassidy Hutchinson. She was an aide to former White House Chief of Staff Mark Meadows. 
  <p class="updated_time"> 04:46 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387054/trump-said-he-knew-jan-6-crowd-members-had-weapons-ex-white-house-aide-testified">Trump said he knew Jan. 6 crowd members had weapons, ex-White House aide testified</a> NPR: A former White House aide told the House Jan. 6 committee that President Trump knew the crowd was armed and tried overpowering a secret service agent to go to the Capitol. 
  <p class="updated_time"> 04:40 PM CT, Jun. 28 </p> 
@@ -127,7 +133,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:51 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108376194/former-aide-said-trump-tried-to-go-to-the-capitol-on-jan-6-in-latest-hearing">Former aide said Trump tried to go to the Capitol on Jan. 6 in latest hearing</a> NPR: A former White House aide said Trump planned to visit the Capitol on Jan. 6, 2021. When staff stopped those plans Trump attempted to grab the steering wheel of the presidential limousine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found Louisiana's new congressional maps diluted the votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
+ <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found a Louisiana congressional map likely dilutes votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
  <p class="updated_time"> 03:13 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108374896/vp-harris-calls-for-abortion-rights-supporters-to-channel-frustration-into-actio">VP Harris calls for abortion-rights supporters to channel frustration into action</a> NPR: In an interview with NPR White House correspondent Asma Khalid, the vice president also called on Congress to codify abortion rights. 
  <p class="updated_time"> 02:55 PM CT, Jun. 28 </p> 
@@ -140,12 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls being told Trump grabbed the wheel when he couldn't go to the Capitol</a> NPR: Cassidy Hutchinson testified she asked those involved if the story was true and they did not dispute the account of Trump growing "irate" when told that he had to return to the White House. 
  <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
- <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
- <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Former White House aide says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, was the panel's surprise witness today. 
- <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
 
 
 </details>
