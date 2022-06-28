@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell awaits sentencing over sex trafficking conviction</a> BBC: Ghislaine Maxwell was convicted of helping late US financier Jeffrey Epstein sexually abuse young girls. 
+ <p class="updated_time"> 01:34 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol to overturn election result, ex-White House aide says 
+ <p class="updated_time"> 01:32 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell apologises for helping Jeffrey Epstein sexually abuse young girls. 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 10:24 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Brazen daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
- <p class="updated_time"> 09:44 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
