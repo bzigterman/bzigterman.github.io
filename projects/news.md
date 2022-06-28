@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
+ <p class="updated_time"> 11:48 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
  <p class="updated_time"> 11:33 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell awaits sentencing over sex trafficking charges</a> BBC: Ghislaine Maxwell was convicted of helping late US financier Jeffrey Epstein sexually abuse young girls. 
+ <p class="updated_time"> 10:56 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61971856?at_medium=RSS&at_campaign=KARANGA">Germany: Missing boy found alive in sewer after eight days</a> BBC: Police in Germany say the eight-year-old crawled into the sewer and then "lost his bearings". 
  <p class="updated_time"> 10:31 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 10:24 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Brazen daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 09:44 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
- <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
- <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-61961211?at_medium=RSS&at_campaign=KARANGA">Oslo attacks: Pride protesters defy Norway police warnings</a> BBC: Thousands gathered to remember the victims of a deadly attack in Oslo which targeted an LGBT venue. 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
  <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
- <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
 
 
 </details>
