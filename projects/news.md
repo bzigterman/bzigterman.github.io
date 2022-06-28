@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61961211?at_medium=RSS&at_campaign=KARANGA">Oslo attacks: Pride protesters defy Norway police warnings</a> BBC: Thousands gathered to remember the victims of a deadly attack in Oslo which targeted an LGBT venue. 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
@@ -25,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61952794?at_medium=RSS&at_campaign=KARANGA">The abortion clues that can hide on your phone</a> BBC: There are a number of concerns around data protection following the US Supreme Court's ruling on abortion. 
  <p class="updated_time"> 06:23 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping a centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
- <p class="updated_time"> 06:10 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
  <p class="updated_time"> 04:26 PM CT, Jun. 27 </p> 
