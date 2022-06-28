@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:34 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol to overturn election result, ex-White House aide says 
- <p class="updated_time"> 01:32 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell apologises for helping Jeffrey Epstein sexually abuse young girls. 
+ <p class="updated_time"> 01:54 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Before being sentenced, Ghislaine Maxwell apologised for helping Jeffrey Epstein sexually abuse young girls. 
+ <p class="updated_time"> 01:48 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, ex-White House aide says 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -53,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">At least 20 people were killed in Russia's missile attack on a crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week — attacks Moscow says are aimed at military installations but often hit civilian targets instead. 
- <p class="updated_time"> 03:25 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-restricts-fuel-use-to-essential-services-11656419114">Sri Lanka Restricts Fuel Use to Essential Services</a> WSJ: Sri Lanka urged residents to stay home and has sharply restricted fuel use as it struggles to shore up energy supplies amid its deepening sovereign debt crisis. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
@@ -110,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:41 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108301900/witness-recalls-trump-lunging-for-the-wheel-when-told-he-couldnt-go-to-the-capit">Witness recalls Trump lunging for the wheel when told he couldn't go to the Capitol</a> NPR: Former President Donald Trump lunged for the steering wheel and grabbed his driver after being told that he would not be going to the Capitol with his supporters after his rally on Jan. 6 
  <p class="updated_time"> 01:00 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
@@ -117,7 +117,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Live Updates: Hutchinson says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
+ <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Former White House aide says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
@@ -140,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107961580/the-future-of-the-anti-abortion-rights-movement">The future of the anti-abortion-rights movement</a> NPR: NPR's Ari Shapiro talks to Kristan Hawkins, president of Students for Life America, about the anti-abortion rights movement's goals now that Roe v. Wade has been overturned. 
- <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107961573/many-abortion-rights-supporters-are-frustrated-with-democrats">Many abortion rights supporters are frustrated with Democrats</a> NPR: Many who support abortion rights say they have already been voting and that Democrats haven't prioritized protecting abortion rights. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
