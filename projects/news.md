@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell awaits sentencing over sex trafficking conviction</a> BBC: Ghislaine Maxwell was convicted of helping late US financier Jeffrey Epstein sexually abuse young girls. 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
+ <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61972937?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows civilians fleeing Russian missile strikes in Kremenchuk</a> BBC: Footage from a pond in Kremenchuk shows people running for cover as missile strikes hit nearby area. 
  <p class="updated_time"> 11:48 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
- <p class="updated_time"> 11:33 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell awaits sentencing over sex trafficking charges</a> BBC: Ghislaine Maxwell was convicted of helping late US financier Jeffrey Epstein sexually abuse young girls. 
  <p class="updated_time"> 10:56 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61971856?at_medium=RSS&at_campaign=KARANGA">Germany: Missing boy found alive in sewer after eight days</a> BBC: Police in Germany say the eight-year-old crawled into the sewer and then "lost his bearings". 
  <p class="updated_time"> 10:31 AM CT, Jun. 28 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <p class="updated_time"> 07:35 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/scotlands-nicola-sturgeon-sets-out-plan-for-independence-vote-11656434150">Scotland's Nicola Sturgeon Sets Out Plan for Independence Vote</a> WSJ: The Scottish leader aims to hold a referendum in October 2023, but faces both legal and political challenges. 
  <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
  <p class="updated_time"> 06:11 AM CT, Jun. 28 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">At least 20 people were killed in Russia's missile attack on a crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week — attacks Moscow says are aimed at military installations but often hit civilian targets instead. 
  <p class="updated_time"> 03:25 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-restricts-fuel-use-to-essential-services-11656419114">Sri Lanka Restricts Fuel Use to Essential Services</a> WSJ: Sri Lanka urged residents to stay home and has sharply restricted fuel use as it struggles to shore up energy supplies amid its deepening sovereign debt crisis. 
- <p class="updated_time"> 02:37 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-to-visit-hong-kong-a-city-of-dashed-democracy-dreams-25-years-after-handover-11656416248">China's Xi to Visit Hong Kong, a City of Dashed Democracy Dreams 25 Years After Handover</a> WSJ: Chinese leader Xi Jinping’s planned visit to Hong Kong to mark the 25th anniversary of its handover from the U.K. bookends a period in which Beijing has taken full control of the city, ending debate over its political future. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
  <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
- <p class="updated_time"> 05:34 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61943916?at_medium=RSS&at_campaign=KARANGA">Why the world needs to do more to protect its oceans</a> BBC: A treaty to protect the world’s oceans is being discussed this week – what is at stake? 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
  <p class="updated_time"> 04:02 PM CT, Jun. 26 </p> 
@@ -110,12 +110,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Jun. 28 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:16 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108170076/cassidy-hutchinson-jan-6-hearing">Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?</a> NPR: NPR has confirmed that Cassidy Hutchinson is expected to be the witness for today's Jan. 6 hearing. 
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Live Updates: A former aide to Mark Meadows to testify at Jan. 6 panel hearing</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
+ <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Live Updates: Hutchinson says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
@@ -134,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
  <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
- <p class="updated_time"> 06:59 PM CT, Jun. 27 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
