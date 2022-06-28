@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:27 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <p class="updated_time"> 12:56 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
- <p class="updated_time"> 11:54 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61961744?at_medium=RSS&at_campaign=KARANGA">Australia census: Five ways the country is changing</a> BBC: Big shifts are happening - the country is now more diverse, less religious, and increasingly millennial. 
  <p class="updated_time"> 11:49 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
- <p class="updated_time"> 11:38 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 10:55 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
@@ -32,7 +32,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
  <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'I have nothing left except my life'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'Our boat capsized, we swam to survive'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
  <p class="updated_time"> 06:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61798330?at_medium=RSS&at_campaign=KARANGA">El Salvador's abortion ban: 'I was sent to prison for suffering a miscarriage'</a> BBC: Elsy was sentenced to 30 years for aggravated homicide after losing her baby in a miscarriage in El Salvador. 
  <p class="updated_time"> 06:31 PM CT, Jun. 27 </p> 
@@ -124,6 +124,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:17 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
  <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
  <p class="updated_time"> 06:59 PM CT, Jun. 27 </p> 
@@ -156,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107733632/poll-majorities-oppose-supreme-courts-abortion-ruling-and-worry-about-other-righ">Poll: Majorities oppose Supreme Court's abortion ruling and worry about other rights</a> NPR: 56% of Americans disapproved of the decision in an NPR/PBS NewsHour/Marist poll conducted after it was announced. A similar number say it was motivated by politics — not law. 
  <p class="updated_time"> 01:58 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107266693/for-years-sen-klobuchar-has-been-pushing-to-close-the-boyfriend-loophole">For years Sen. Klobuchar has been pushing to close the 'boyfriend loophole'</a> NPR: NPR's Leila Fadel speaks with Democratic Sen. Amy Klobuchar about the bipartisan gun safety bill passed by the Senate. 
- <p class="updated_time"> 07:52 PM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107591849/roe-6-political-questions-supreme-court">6 political questions after the Supreme Court overturned Roe v. Wade</a> NPR: There are lots of questions about what happens now after the Supreme Court's ruling on Roe v. Wade. Here are six that have political implications. 
 
 
 </details>
