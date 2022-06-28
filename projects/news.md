@@ -9,20 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:31 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
+ <p class="updated_time"> 10:24 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 09:44 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61966202?at_medium=RSS&at_campaign=KARANGA">Walgreens abandons Boots sale after market turmoil</a> BBC: The owner of the UK pharmacy chain says no buyer was able to make an adequate offer. 
  <p class="updated_time"> 09:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61970093?at_medium=RSS&at_campaign=KARANGA">Colombia prison riot sparks deadly fire</a> BBC: Inmates set fire to mattresses to stop warders breaking up a riot, but the blaze killed 49 of them. 
  <p class="updated_time"> 09:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
- <p class="updated_time"> 08:26 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61963475?at_medium=RSS&at_campaign=KARANGA">Maastricht Tefaf raid: Bizarre daylight attack targets art fair</a> BBC: Two suspects are arrested after a gang smashes display cases at a major European fair in Maastricht. 
  <p class="updated_time"> 07:40 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
- <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 06:11 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
