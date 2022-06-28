@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
+ <p class="updated_time"> 05:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
+ <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
+ <p class="updated_time"> 04:49 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61963473?at_medium=RSS&at_campaign=KARANGA">Nazi camp guard, 101, given five years for aiding murder</a> BBC: The oldest Nazi criminal ever to stand trial in Germany, he had always denied being a camp guard. 
  <p class="updated_time"> 04:39 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108121373/a-german-court-sentences-101-year-old-to-5-years-for-role-as-nazi-guard">A German court sentences 101-year-old to 5 years for role as Nazi guard</a> NPR: The regional court in Germany convicted the man of 3,518 counts of being an accessory to murder for serving at the Nazis' Sachsenhausen concentration camp during World War II. 
- <p class="updated_time"> 04:29 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 04:02 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">Death toll rises from Russian strike on shopping mall in Ukraine</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
+ <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
@@ -29,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61961744?at_medium=RSS&at_campaign=KARANGA">Australia census: Five ways the country is changing</a> BBC: Big shifts are happening - the country is now more diverse, less religious, and increasingly millennial. 
- <p class="updated_time"> 11:49 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
- <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Local officials say more than ten people have been confirmed dead, and dozens more have been injured. 
  <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61224856?at_medium=RSS&at_campaign=KARANGA">US Supreme Court: Should this coach have been punished for praying?</a> BBC: A high school coach should have been able to pray on the field at school, the US Supreme Court said. 
  <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/26/1107713204/germany-prepares-to-host-the-world-for-major-meetings">Germany prepares to host the world for major meetings</a> NPR: NPR's Michel Martin speaks with Germany's Ambassador to the U.S. Emily Haber about two summits where her country will be a major player — the G-7 and NATO — and their priorities. 
  <p class="updated_time"> 12:38 PM CT, Jun. 26 </p> 
  <a href="https://www.npr.org/2022/06/26/1107701371/biden-announced-a-600-billion-global-infrastructure-program-to-counter-chinas-cl">Biden announced a $600 billion global infrastructure program to counter China's clout</a> NPR: A decade after China's global infrastructure program started, the U.S., G7 countries and private capital will invest in clean energy, technology and other projects in developing countries. 
- <p class="updated_time"> 09:00 AM CT, Jun. 26 </p> 
- <a href="https://www.npr.org/2022/06/26/1107691305/israel-soldier-killed-journalist-shireen-abu-akleh">Israel's probe of journalist Shireen Abu Akleh's killing raises questions</a> NPR: As Israel investigates the killing of journalist Shireen Abu Akleh, military experts critique the shortcomings of Israel's prosecution of other Palestinian civilian casualties. 
  <p class="updated_time"> 07:38 AM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61943613?at_medium=RSS&at_campaign=KARANGA">How Ukraine left its mark on Glastonbury</a> BBC: Eurovision winners and folk heroes played across the festival, spreading a message of resistance. 
  <p class="updated_time"> 06:01 AM CT, Jun. 26 </p> 
@@ -126,6 +126,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
@@ -158,8 +160,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
  <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107727009/in-michigan-abortion-could-come-down-to-voters-in-november">In Michigan, abortion could come down to voters in November</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation, is moving toward the ballot as a state constitutional amendment and will be a big issue in the competitive race for governor. 
- <p class="updated_time"> 07:27 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1106859552/primary-illinois-colorado-republican-candidate-democrats-ads">Democrats are bankrolling ads promoting fringe Republican candidates. Here's why</a> NPR: As the midterm primary season rolls along, voters may have noticed a strange phenomenon of political advertising: Democrats paying for ads supporting Republican candidates. 
 
 
 </details>
