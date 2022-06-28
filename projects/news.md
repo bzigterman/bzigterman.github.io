@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:51 PM CT, Jun. 27 </p> 
+ <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
+ <p class="updated_time"> 11:54 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned lorry</a> BBC: The victims, believed to be migrants, were discovered in a remote area on the outskirts of San Antonio. 
- <p class="updated_time"> 09:38 PM CT, Jun. 27 </p> 
+ <p class="updated_time"> 11:49 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61956711?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on shopping centre a war crime - G7 leaders</a> BBC: Some 1,000 civilians were inside the building at the time of the strike, Ukraine's president said. 
+ <p class="updated_time"> 11:38 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
+ <p class="updated_time"> 10:55 PM CT, Jun. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 07:36 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61958813?at_medium=RSS&at_campaign=KARANGA">Amtrak derailment: Three killed in Missouri after train hits truck</a> BBC: More than 250 people were onboard the Los Angeles-Chicago train when it hit a dump truck. 
  <p class="updated_time"> 07:30 PM CT, Jun. 27 </p> 
@@ -20,7 +26,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
  <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">Delhi Afghan embassy not taking orders from Taliban</a> BBC: It's one of 70 such missions around the world running with little funds since the Taliban takeover. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">Delhi Afghanistan embassy not taking orders from Taliban</a> BBC: It's one of 70 such missions around the world running with little funds since the Taliban takeover. 
  <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
  <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
@@ -33,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
  <p class="updated_time"> 04:38 PM CT, Jun. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-kills-suspected-militant-linked-to-al-qaeda-in-syria-11656380309">U.S. Kills Suspected Militant Linked to Al Qaeda in Syria</a> WSJ: Abu Hamzah al Yemeni was targeted in a drone strike, U.S. military said. 
- <p class="updated_time"> 04:26 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
@@ -53,12 +57,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61954516?at_medium=RSS&at_campaign=KARANGA">Nato plans huge upgrade in rapid reaction force</a> BBC: Jens Stoltenberg said the increase followed a direct threat from Russia to European security. 
  <p class="updated_time"> 11:39 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1107854331/russian-missile-strike-shopping-mall-kremenchuk">Russian missile strike hits a crowded shopping mall in central Ukraine</a> NPR: Scores of civilians were feared killed or wounded in the city of Kremenchuk. Ukrainian President Volodymyr Zelenskyy said in a Telegram post that the number of victims was "unimaginable." 
- <p class="updated_time"> 11:21 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61949878?at_medium=RSS&at_campaign=KARANGA">South Africa police try to unravel mystery of tavern deaths</a> BBC: Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says. 
  <p class="updated_time"> 11:04 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61954445?at_medium=RSS&at_campaign=KARANGA">Ukraine war: G7 pledges to stay with Ukraine until the end</a> BBC: Under pressure to be united against Russia, the West promises support "for as long as it takes". 
- <p class="updated_time"> 11:02 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/sport/basketball/61956192?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russian court decides US star to stand trial on drug charges</a> BBC: American basketball star Brittney Griner is scheduled to stand trial in Russia on Friday on charges of illegal cannabis possession. 
  <p class="updated_time"> 10:12 AM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61957596?at_medium=RSS&at_campaign=KARANGA">Ukraine: Missile strikes busy shopping centre in Kremenchuk</a> BBC: Local officials say more than ten people have been confirmed dead, and dozens more have been injured. 
  <p class="updated_time"> 09:25 AM CT, Jun. 27 </p> 
