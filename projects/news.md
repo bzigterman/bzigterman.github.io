@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 06:25 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Krememchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
  <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
@@ -29,18 +29,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrest Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">More than a dozen people died in Russia's missile attack on crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
+ <p class="updated_time"> 03:06 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Strike</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
  <p class="updated_time"> 02:14 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">G-7 Meeting Concludes With Focus on China</a> WSJ: The U.S. and other leading countries concluded their summit with an agreement to focus on the rising challenges posed by China, even as Russia’s war in Ukraine was the most urgent concern of the gathering. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
- <p class="updated_time"> 02:01 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787">Ukrainian Rescuers Search for Survivors After Mall Strike</a> WSJ: Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces. 
  <p class="updated_time"> 01:50 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950965?at_medium=RSS&at_campaign=KARANGA">Toxic gas leak at Jordan's Aqaba port kills 13, injures hundreds</a> BBC: A container filled with chlorine was dropped by a crane at the port of Aqaba, authorities say. 
  <p class="updated_time"> 01:00 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/china-is-updating-its-formula-for-building-itself-out-of-a-slump-11656410400">China Is Updating Its Formula for Building Itself Out of a Slump</a> WSJ: Beijing pivots to new types of public-works projects; data centers, a space station. 
+ <a href="https://www.wsj.com/articles/china-is-updating-its-formula-for-building-itself-out-of-a-slump-11656410400">China Is Updating Its Formula for Building Itself Out of a Slump</a> WSJ: Now chock-a-block with skyscrapers, dams, roads and airports, the country is pivoting to new types of infrastructure in response to fresh economic turbulence. 
  <p class="updated_time"> 11:57 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA">Nato summit: Five challenges for the military alliance</a> BBC: After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit? 
  <p class="updated_time"> 11:50 PM CT, Jun. 27 </p> 
@@ -134,6 +134,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108117694/the-house-jan-6-committee-schedules-a-last-minute-hearing-for-tuesday">The House Jan. 6 committee schedules a last-minute hearing for Tuesday</a> NPR: This will be the sixth hearing for the Democratic-led committee, which has spent the last few weeks building a case around former President Donald Trump and his influence on the Jan. 6 insurrection. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
+ <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108117666/morning-news-brief">News brief: 46 migrants found dead in San Antonio, Jan. 6  hearing, NATO summit</a> NPR: Dozens of migrants are found dead in a truck in Texas. The House Jan. 6 panel schedules a last-minute hearing. NATO leaders meet in Madrid for what could be the most transformative summit in decades. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107963863/frustration-at-biden-and-other-democrats-grows-among-abortion-rights-supporters">Frustration at Biden and other Democrats grows among abortion-rights supporters</a> NPR: While abortion-rights supporters have focused their anger at the Supreme Court, but there was plenty aimed at Democrats who they feel let them down. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
@@ -160,8 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
  <p class="updated_time"> 09:26 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106290141/supreme-court-high-school-coach-right-to-pray">Supreme Court backs a high school coach's right to pray on the 50-yard line</a> NPR: The 6-to-3 decision is the latest example of the court's conservative supermajority requiring more accommodation for religion in public schools and less separation between church and state. 
- <p class="updated_time"> 08:47 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107727009/in-michigan-abortion-could-come-down-to-voters-in-november">In Michigan, abortion could come down to voters in November</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation, is moving toward the ballot as a state constitutional amendment and will be a big issue in the competitive race for governor. 
 
 
 </details>
