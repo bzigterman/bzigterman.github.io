@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:34 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The UK Hongkongers living with handover's legacy</a> BBC: The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK. 
+ <p class="updated_time"> 06:18 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61973633?at_medium=RSS&at_campaign=KARANGA">Ukraine war cluster munitions: 'Everything began to explode'</a> BBC: A BBC investigation has gathered evidence of the repeated use of cluster munitions in the city of Chernihiv, northern Ukraine. 
  <p class="updated_time"> 06:12 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61976009?at_medium=RSS&at_campaign=KARANGA">Hisham al-Sayed: Hamas video claims to show captive Israeli</a> BBC: Hisham al-Sayed was last seen in 2015 when he is believed to have wandered into the Gaza Strip. 
  <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
@@ -103,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
- <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
 
