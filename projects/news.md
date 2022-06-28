@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61946619?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who rocked Glastonbury with McCartney?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 05:05 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
  <p class="updated_time"> 04:49 AM CT, Jun. 28 </p> 
