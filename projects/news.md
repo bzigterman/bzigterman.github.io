@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:54 PM CT, Jun. 28 </p> 
+ <p class="updated_time"> 02:10 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Before being sentenced, Ghislaine Maxwell apologised for helping Jeffrey Epstein sexually abuse young girls. 
- <p class="updated_time"> 01:48 PM CT, Jun. 28 </p> 
+ <p class="updated_time"> 02:01 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61971428?at_medium=RSS&at_campaign=KARANGA">Trump urged armed supporters to storm Capitol - aide</a> BBC: Donald Trump knew supporters had weapons when he urged them to storm the Capitol, ex-White House aide says 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
@@ -117,7 +117,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:49 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107887181/musicians-react-to-roe-v-wade-decision">Musicians react to Supreme Court decision on right to abortion</a> NPR: After Friday's Supreme Court decision, artists from around the world spent the following days sharing their reactions and plans for the immediate future. 
  <p class="updated_time"> 07:50 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Former White House aide says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, is the panel's surprise witness today. 
+ <a href="https://www.npr.org/2022/06/28/1107963394/jan-6-hearing-live-stream-how-to-watch">Former White House aide says Trump knew crowd was armed and told them to march</a> NPR: Cassidy Hutchinson, the Mark Meadows aide who appeared in videotaped testimony before the Jan. 6 committee last week, was the panel's surprise witness today. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
