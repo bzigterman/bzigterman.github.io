@@ -23,6 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
  <p class="updated_time"> 10:56 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61971856?at_medium=RSS&at_campaign=KARANGA">Germany: Missing boy found alive in sewer after eight days</a> BBC: Police in Germany say the eight-year-old crawled into the sewer and then "lost his bearings". 
+ <p class="updated_time"> 10:54 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
+ <p class="updated_time"> 10:44 AM CT, Jun. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
  <p class="updated_time"> 10:31 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 10:24 AM CT, Jun. 28 </p> 
@@ -35,14 +39,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/scotlands-nicola-sturgeon-sets-out-plan-for-independence-vote-11656434150">Scotland's Nicola Sturgeon Sets Out Plan for Independence Vote</a> WSJ: The Scottish leader aims to hold a referendum in October 2023, but faces both legal and political challenges. 
  <p class="updated_time"> 07:24 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA">Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'</a> BBC: A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside. 
- <p class="updated_time"> 06:11 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61946619?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who rocked Glastonbury with McCartney?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 05:13 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
  <p class="updated_time"> 04:49 AM CT, Jun. 28 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108280982/texas-migrant-deaths-human-smuggling-mexico">With 50 people dead in Texas, here's what you should know about migrant smuggling</a> NPR: The trapped people were found after a worker heard someone crying for help. Two experts — one a former Homeland Security Investigations agent — tell NPR how it happened. 
  <p class="updated_time"> 02:33 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108343064/trump-didnt-want-to-stop-capitol-attack-former-white-house-aide-testifies">Trump didn't want to stop Capitol attack, former White House aide testifies</a> NPR: Former Mark Meadows aide Cassidy Hutchinson recalls exchange between her boss and White House Counsel Pat Cipollone, who warned "Somebody is going to die and this is going to be on your effing hands." 
  <p class="updated_time"> 02:03 PM CT, Jun. 28 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108107750/abortion-rights-california-supreme-court-roe-v-wade-midterm-elections-2022">Californians can vote to add abortion to the state's constitutional rights</a> NPR: The amendment, which comes three days after the U.S. Supreme Court reversed the landmark 1973 Roe v. Wade case, will go to midterm elections on Nov. 8. 
  <p class="updated_time"> 08:02 PM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1108071679/abortion-state-courts-louisiana-utah">The Supreme Court's abortion ruling shifts legal battles to state courts</a> NPR: Judges temporarily blocked abortion bans Monday in Louisiana and Utah, while abortion rights advocates challenged laws in Texas, Idaho, Kentucky and Mississippi. 
- <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:47 AM CT, Jun. 27 </p> 
  <a href="https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html">The 4 remaining Supreme Court cases of this blockbuster term</a> CNN: Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over. 
 
