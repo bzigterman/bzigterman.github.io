@@ -11,12 +11,12 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
+ <p class="updated_time"> 04:02 AM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 03:44 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA">Non-essential petrol sales halted for two weeks in Sri Lanka</a> BBC: The country says it is saving its limited fuel supplies for vehicles used for essential services. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">Death toll rises from Russian strike on shopping mall in Ukraine</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week —attacks Moscow says are aimed at military installations but often hit purely civilian targets instead. 
- <p class="updated_time"> 02:18 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61956108?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: Indian police arrests Modi critic over tweets</a> BBC: Mohammed Zubair of Alt News has reportedly been accused of insulting religious beliefs on Twitter. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: At least 46 found dead in abandoned truck</a> BBC: The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border. 
  <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
@@ -126,6 +126,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108117750/an-election-denier-in-colorado-is-running-for-secretary-of-state">An election denier in Colorado is running for secretary of state</a> NPR: Tina Peters — a local Republican election clerk who has been indicted on 10 charges of election tampering and misconduct — is running for Colorado's top election job in Tuesday's primary. 
+ <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
+ <a href="https://www.npr.org/2022/06/28/1108117694/the-house-jan-6-committee-schedules-a-last-minute-hearing-for-tuesday">The House Jan. 6 committee schedules a last-minute hearing for Tuesday</a> NPR: This will be the sixth hearing for the Democratic-led committee, which has spent the last few weeks building a case around former President Donald Trump and his influence on the Jan. 6 insurrection. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1107963863/frustration-at-biden-and-other-democrats-grows-among-abortion-rights-supporters">Frustration at Biden and other Democrats grows among abortion-rights supporters</a> NPR: While abortion-rights supporters have focused their anger at the Supreme Court, but there was plenty aimed at Democrats who they feel let them down. 
  <p class="updated_time"> 04:00 AM CT, Jun. 28 </p> 
@@ -156,10 +160,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/27/1107727009/in-michigan-abortion-could-come-down-to-voters-in-november">In Michigan, abortion could come down to voters in November</a> NPR: Abortion is still legal in Michigan but it's the subject of litigation, is moving toward the ballot as a state constitutional amendment and will be a big issue in the competitive race for governor. 
  <p class="updated_time"> 07:27 AM CT, Jun. 27 </p> 
  <a href="https://www.npr.org/2022/06/27/1106859552/primary-illinois-colorado-republican-candidate-democrats-ads">Democrats are bankrolling ads promoting fringe Republican candidates. Here's why</a> NPR: As the midterm primary season rolls along, voters may have noticed a strange phenomenon of political advertising: Democrats paying for ads supporting Republican candidates. 
- <p class="updated_time"> 06:01 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107717283/abortion-rights-green-symbol">How green became the color of the abortion rights movement</a> NPR: The shade associated with the reproductive rights movement can be traced to Argentina, where a growing number of activists were pushing for the government to legalize abortion. 
- <p class="updated_time"> 04:01 AM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107063641/illinois-governor-primary-democrat-pritzker-gop-bailey-griffin-irvin-trump">Some of the country's richest people try to influence the Illinois race for governor</a> NPR: Democrat and billionaire Gov. JB Pritzker is not only funding his own campaign but also running ads for GOP frontrunner Darren Bailey. Billionaire Ken Griffin is funding Republican Richard Irvin. 
 
 
 </details>
