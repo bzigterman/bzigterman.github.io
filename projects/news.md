@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
  <p class="updated_time"> 03:13 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
- <p class="updated_time"> 02:05 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Israel welcomes Ben & Jerry's reversal over West Bank settlements</a> BBC: Unilever agrees a deal to continue selling the ice cream throughout Israel and the occupied West Bank. 
  <p class="updated_time"> 11:53 AM CT, Jun. 29 </p> 
