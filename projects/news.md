@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:18 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61959018?at_medium=RSS&at_campaign=KARANGA">R. Kelly: US singer faces decades in jail at sex trafficking sentencing</a> BBC: The disgraced pop star will be sentenced on Wednesday after being found guilty of sex trafficking. 
+ <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland's journey from neutral to Nato</a> BBC: It is a historic shift for the Nordic nations and Russia is vehemently opposed to the change. 
+ <p class="updated_time"> 06:46 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61963517?at_medium=RSS&at_campaign=KARANGA">Outcry in Egypt as iconic Nile houseboats are destroyed</a> BBC: The last homes are being removed as part of what officials say is a plan to beautify the waterfront. 
+ <p class="updated_time"> 06:45 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61967842?at_medium=RSS&at_campaign=KARANGA">Why ex-French colonies are joining the Commonwealth</a> BBC: Behind the Commonwealth's allure as it welcomes Gabon and Togo into its ranks. 
+ <p class="updated_time"> 06:41 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61940343?at_medium=RSS&at_campaign=KARANGA">How Michael Gardner helped transform Miami's nightlife</a> BBC: The businessman overcame racial barriers to become one of Miami’s foremost nightlife promoters. 
+ <p class="updated_time"> 06:36 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Survivors who found friendship in marathon terror trial</a> BBC: The 2015 Paris attacks left 130 people dead and some of the survivors have formed a unique bond. 
  <p class="updated_time"> 06:34 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The UK Hongkongers living with handover's legacy</a> BBC: The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK. 
  <p class="updated_time"> 06:18 PM CT, Jun. 28 </p> 
@@ -32,11 +44,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
- <p class="updated_time"> 02:40 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/61972124?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Rafael Nadal beats Francisco Cerundolo to reach second round</a> BBC: Rafael Nadal continues his bid for an improbable calendar-year Grand Slam by fighting off Francisco Cerundolo to win on his return to Wimbledon. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
@@ -77,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">At least 20 people were killed in Russia's missile attack on a crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week — attacks Moscow says are aimed at military installations but often hit civilian targets instead. 
- <p class="updated_time"> 02:08 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Will Sweden and Finland go from neutral to Nato?</a> BBC: It would be a historic shift if they do and Turkey is the only obstacle to them joining. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
