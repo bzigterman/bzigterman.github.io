@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:27 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61978727?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows missile striking shopping mall in Kremenchuk</a> BBC: Ukraine's President Zelensky releases footage of missile strike, which killed at least 20 people. 
+ <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
+ <p class="updated_time"> 04:02 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1107656228/the-end-of-roe-has-implications-for-abortion-rights-around-the-globe">The end of Roe has implications for abortion rights around the globe</a> NPR: International rights groups have long warned that overturning Roe v. Wade could weaken abortion rights in other countries, potentially leading some nations to adopt new restrictive laws. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1107604161/war-in-ukraine-is-driving-demand-for-africas-natural-gas-thats-controversial">War in Ukraine is driving demand for Africa's natural gas. That's controversial</a> NPR: The African natural gas industry is booming as Europe looks to replace Russian supplies. But some worry new African gas projects don't make financial sense in a warming world. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1107090873/how-elizabeth-cottens-music-fueled-the-folk-revival">How Elizabeth Cotten's music fueled the folk revival</a> NPR: Although inducted into the 2022 Rock & Roll Hall of Fame, her contributions haven't always been properly acknowledged. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
@@ -25,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: Enraged president tried to grab the steering wheel to direct his limousine to the Capitol, ex-aide says. 
  <p class="updated_time"> 10:02 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61976446?at_medium=RSS&at_campaign=KARANGA">Australia honey bees put in lockdown due to deadly varroa parasite</a> BBC: A deadly parasite is detected in the country's bee population which could cause millions of dollars of damage. 
+ <p class="updated_time"> 08:49 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61976369?at_medium=RSS&at_campaign=KARANGA">Fossils: Cave woman one million years older than thought</a> BBC: New research complicates our current understanding of where humans came from. 
  <p class="updated_time"> 08:33 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61976396?at_medium=RSS&at_campaign=KARANGA">Monkeypox: White House outlines vaccine plan</a> BBC: The pool of people advised to get jabbed in the US now includes anyone with a suspected exposure. 
  <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
@@ -56,8 +68,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:26 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108378113/how-gas-projects-in-africa-could-affect-the-continents-future">How gas projects in Africa could affect the continent's future</a> NPR: The scramble for gas after the Ukraine war means a push for new gas projects across Africa. Some worry these projects don't make sense. And they could worsen climate change for the continent. 
  <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61971858?at_medium=RSS&at_campaign=KARANGA">Turkey supports Finland and Sweden Nato bid</a> BBC: Ankara had previously opposed to the Nordic countries' bids to join the alliance. 
- <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundreds</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area. 
  <p class="updated_time"> 04:02 PM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/colombia-peace-commission-calls-for-overhaul-of-army-and-u-s-backed-war-on-drugs-11656464542">Colombia Peace Commission Calls For Overhaul of Army and U.S.-backed War on Drugs</a> WSJ: President-elect Gustavo Petro, who has promised to upend the nation’s war on drugs, said he would consider the recommendations. 
@@ -69,14 +79,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
- <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61972937?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows civilians fleeing Russian missile strikes in Kremenchuk</a> BBC: Footage from a pond in Kremenchuk shows people running for cover as missile strikes hit nearby area. 
  <p class="updated_time"> 11:48 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
- <p class="updated_time"> 10:56 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61971856?at_medium=RSS&at_campaign=KARANGA">Germany: Missing boy found alive in sewer after eight days</a> BBC: Police in Germany say the eight-year-old crawled into the sewer and then "lost his bearings". 
  <p class="updated_time"> 10:54 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
  <p class="updated_time"> 10:44 AM CT, Jun. 28 </p> 
@@ -95,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">West's Challenges in Tackling Russia Exposed at G-7</a> WSJ: The summit ended with an agreement to discuss new sanctions against Russia but underlined the limits of using economic tools to punish Russia four months after its invasion of Ukraine. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
- <p class="updated_time"> 03:34 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108119523/death-toll-rises-from-russian-strike-on-shopping-mall-in-ukraine">At least 20 people were killed in Russia's missile attack on a crowded Ukrainian mall</a> NPR: Russia has been escalating bombardments of Ukrainian cities this week — attacks Moscow says are aimed at military installations but often hit civilian targets instead. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
  <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
@@ -113,14 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61952794?at_medium=RSS&at_campaign=KARANGA">The abortion clues that can hide on your phone</a> BBC: There are a number of concerns around data protection following the US Supreme Court's ruling on abortion. 
  <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
- <p class="updated_time"> 03:59 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27">Russia-Ukraine war: What happened today (June 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107961601/canada-expects-more-americans-seeking-abortions-to-cross-the-border">Canada expects more Americans seeking abortions to cross the border</a> NPR: Canadian providers who perform abortions anticipate increased demand for services from Americans now that Roe v. Wade is overturned. Additional clients could strain already stretched capacity. 
- <p class="updated_time"> 03:09 PM CT, Jun. 27 </p> 
- <a href="https://www.npr.org/2022/06/27/1107961587/russian-court-extends-brittney-griners-detention">Russian court extends Brittney Griner's detention</a> NPR: A Russian court has again extended the arrest of U.S. basketball star Brittney Griner. Her trial on drug charges starts July 1. 
- <p class="updated_time"> 05:15 AM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
 
@@ -130,6 +126,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108513218/harris-says-abortion-rights-supporters-must-stand-together-ahead-of-nov-election">Harris says abortion-rights supporters must stand together ahead of Nov. elections</a> NPR: Vice President Harris responds to Roe v. Wade being overturned by the Supreme Court. She says abortion-rights supporters need to channel their disappointment into political action ahead of midterms. 
+ <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108513183/morning-news-brief">News brief: Jan. 6 hearing, NATO summit, recession fears lead to layoffs</a> NPR: A recap of the explosive testimony before the House Jan. 6 panel. Turkey agrees to support Norway and Sweden joining NATO. As fears of a recession build, companies are laying off workers. 
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 06:00 PM CT, Jun. 28 </p> 
@@ -158,10 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found a Louisiana congressional map likely dilutes votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
  <p class="updated_time"> 03:13 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108374896/vp-harris-calls-for-abortion-rights-supporters-to-channel-frustration-into-actio">VP Harris calls for abortion-rights supporters to channel frustration into action</a> NPR: In an interview with NPR White House correspondent Asma Khalid, the vice president also called on Congress to codify abortion rights. 
- <p class="updated_time"> 02:55 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108280982/texas-migrant-deaths-human-smuggling-mexico">With 51 people dead in Texas, here's what you should know about migrant smuggling</a> NPR: The trapped people were found after a worker heard someone crying for help. Two experts — one a former Homeland Security Investigations agent — tell NPR how it happened. 
- <p class="updated_time"> 02:33 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108343064/trump-didnt-want-to-stop-capitol-attack-former-white-house-aide-testifies">Trump didn't want to stop Capitol attack, former White House aide testifies</a> NPR: Former Mark Meadows aide Cassidy Hutchinson recalls exchange between her boss and White House Counsel Pat Cipollone, who warned "Somebody is going to die and this is going to be on your effing hands." 
 
 
 </details>
