@@ -91,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/scotlands-nicola-sturgeon-sets-out-plan-for-independence-vote-11656434150">Scotland's Nicola Sturgeon Sets Out Plan for Independence Vote</a> WSJ: The Scottish leader aims to hold a referendum in October 2023, but faces both legal and political challenges. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
- <p class="updated_time"> 05:27 AM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61946619?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who rocked Glastonbury with McCartney?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
  <p class="updated_time"> 04:39 AM CT, Jun. 28 </p> 
@@ -103,22 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
  <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
- <p class="updated_time"> 06:54 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61901074?at_medium=RSS&at_campaign=KARANGA">Fertiliser shortage hits African farmers battling food crisis</a> BBC: The global fertiliser shortage is driving up prices and raising fears of food scarcity. 
- <p class="updated_time"> 06:51 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61950476?at_medium=RSS&at_campaign=KARANGA">Delhi Afghanistan embassy not taking orders from Taliban</a> BBC: It's one of 70 such missions around the world running with little funds since the Taliban takeover. 
- <p class="updated_time"> 06:48 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61803199?at_medium=RSS&at_campaign=KARANGA">Why young Arab men turn to anti-impotency drugs</a> BBC: How sexual medication is used in the Arab world as a way of living up to ideals of masculinity. 
- <p class="updated_time"> 06:39 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61949495?at_medium=RSS&at_campaign=KARANGA">Bangladesh floods: 'I have nothing left except my life'</a> BBC: Khudeza survived the worst floods in north-east Bangladesh for a century but millions are homeless. 
- <p class="updated_time"> 06:36 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-61798330?at_medium=RSS&at_campaign=KARANGA">El Salvador's abortion ban: 'I was sent to prison for suffering a miscarriage'</a> BBC: Elsy was sentenced to 30 years for aggravated homicide after losing her baby in a miscarriage in El Salvador. 
- <p class="updated_time"> 06:31 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61952794?at_medium=RSS&at_campaign=KARANGA">The abortion clues that can hide on your phone</a> BBC: There are a number of concerns around data protection following the US Supreme Court's ruling on abortion. 
- <p class="updated_time"> 06:03 PM CT, Jun. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61957394?at_medium=RSS&at_campaign=KARANGA">Hong Kong: ‘We don’t know where the red line is’</a> BBC: China promised to protect democratic freedoms for 50 years but new laws have effectively silenced all criticism. 
- <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
 
 
 </details>
@@ -126,12 +108,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108042591/gun-control-student-activists">We asked 5 students: What inspired you to become a gun control activist?</a> NPR: NPR spoke with high school and college students who have been impacted by gun violence, and are now working to make sure others won't be. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513218/harris-says-abortion-rights-supporters-must-stand-together-ahead-of-nov-election">Harris says abortion-rights supporters must stand together ahead of Nov. elections</a> NPR: Vice President Harris responds to Roe v. Wade being overturned by the Supreme Court. She says abortion-rights supporters need to channel their disappointment into political action ahead of midterms. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513183/morning-news-brief">News brief: Jan. 6 hearing, NATO summit, recession fears lead to layoffs</a> NPR: A recap of the explosive testimony before the House Jan. 6 panel. Turkey agrees to support Norway and Sweden joining NATO. As fears of a recession build, companies are laying off workers. 
+ <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
+ <p class="updated_time"> 09:29 PM CT, Jun. 28 </p> 
+ <a href="https://www.cnn.com/2022/06/28/politics/january-6-hearing-day-6-takeaways-hutchinson/index.html">7 takeaways from Tuesday's shocking January 6 hearing</a> CNN: The House select committee investigating the January 6, 2021, Capitol Hill insurrection reconvened Tuesday for a hastily scheduled hearing, featuring blockbuster testimony from Trump White House aide Cassidy Hutchinson. 
  <p class="updated_time"> 06:00 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:45 PM CT, Jun. 28 </p> 
@@ -156,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108376194/former-aide-said-trump-tried-to-go-to-the-capitol-on-jan-6-in-latest-hearing">Former aide said Trump tried to go to the Capitol on Jan. 6 in latest hearing</a> NPR: A former White House aide said Trump planned to visit the Capitol on Jan. 6, 2021. When staff stopped those plans Trump attempted to grab the steering wheel of the presidential limousine. 
  <p class="updated_time"> 03:32 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found a Louisiana congressional map likely dilutes votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
- <p class="updated_time"> 03:13 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108374896/vp-harris-calls-for-abortion-rights-supporters-to-channel-frustration-into-actio">VP Harris calls for abortion-rights supporters to channel frustration into action</a> NPR: In an interview with NPR White House correspondent Asma Khalid, the vice president also called on Congress to codify abortion rights. 
 
 
 </details>
