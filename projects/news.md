@@ -9,14 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the US makes sure that the country has the means to repel Russian aggression. 
+ <p class="updated_time"> 06:29 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61976839?at_medium=RSS&at_campaign=KARANGA">Mahabaleshwar: India’s fragile hill states choke under tourist rush</a> BBC: Some of India’s most ecologically sensitive hill retreats are being swamped by a rush of holidaymakers. 
+ <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
+ <p class="updated_time"> 06:23 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
+ <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61914013?at_medium=RSS&at_campaign=KARANGA">Stranger Things: I pinch myself at my luck, says actor Jamie Campbell Bower</a> BBC: Actor Jamie Campbell Bower on why he feels fortunate to have a key role in the hit Netflix show. 
+ <p class="updated_time"> 06:15 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">In pictures: V&A celebrates Africa's cutting-edge fashion</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
+ <p class="updated_time"> 06:12 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
+ <p class="updated_time"> 05:52 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989617?at_medium=RSS&at_campaign=KARANGA">Paris attack: 'We still have our injuries, our traumas, our nightmares'</a> BBC: Survivors of the 2015 attacks spoke to the BBC after the sentencing of Salah Abdeslam and 19 others. 
+ <p class="updated_time"> 05:24 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
+ <p class="updated_time"> 05:05 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
+ <p class="updated_time"> 04:57 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61990365?at_medium=RSS&at_campaign=KARANGA">Survivor makes tearful statement after R. Kelly sentencing</a> BBC: Lizzette Martinez tells reporters outside the New York court she is grateful for the 30-year sentence. 
  <p class="updated_time"> 04:53 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
- <p class="updated_time"> 04:34 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
  <p class="updated_time"> 04:30 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
@@ -29,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
- <p class="updated_time"> 03:13 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Israel welcomes Ben & Jerry's reversal over West Bank settlements</a> BBC: Unilever agrees a deal to continue selling the ice cream throughout Israel and the occupied West Bank. 
  <p class="updated_time"> 11:53 AM CT, Jun. 29 </p> 
@@ -83,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
- <p class="updated_time"> 10:02 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61976446?at_medium=RSS&at_campaign=KARANGA">Australia honey bees put in lockdown due to deadly varroa parasite</a> BBC: A deadly parasite is detected in the country's bee population which could cause millions of dollars of damage. 
  <p class="updated_time"> 08:49 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61976369?at_medium=RSS&at_campaign=KARANGA">Fossils: Cave woman one million years older than thought</a> BBC: New research complicates our current understanding of where humans came from. 
  <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
@@ -99,16 +115,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Survivors who found friendship in marathon terror trial</a> BBC: The 2015 Paris attacks left 130 people dead and some of the survivors have formed a unique bond. 
  <p class="updated_time"> 06:34 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The UK Hongkongers living with the handover's legacy</a> BBC: The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK. 
- <p class="updated_time"> 06:18 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61973633?at_medium=RSS&at_campaign=KARANGA">Ukraine war cluster munitions: 'Everything began to explode'</a> BBC: A BBC investigation has gathered evidence of the repeated use of cluster munitions in the city of Chernihiv, northern Ukraine. 
  <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
- <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108387096/turkey-has-dropped-its-objections-to-finland-and-sweden-joining-nato">Turkey has dropped its objections to Finland and Sweden joining NATO</a> NPR: NATO leades say Turkey has dropped its objection to Finland and Sweden being invited into the alliance — one of the most significant reactions by the West so far to Russia's invasion of Ukraine. 
- <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
- <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61972937?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows civilians fleeing Russian missile strikes in Kremenchuk</a> BBC: Footage from a pond in Kremenchuk shows people running for cover as missile strikes hit nearby area. 
 
 
 </details>
@@ -116,6 +124,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the US makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717888/the-deaths-of-migrants-in-san-antonio-has-put-a-spotlight-on-the-immigration-iss">The deaths of migrants in San Antonio has put a spotlight on the immigration issue</a> NPR: The deaths of 53 smuggled in a semi-truck in Texas have thrown immigration into headlines ahead of midterms. Republicans blame Biden for loosening Trump's policies. Immigrant advocates fault Title 42. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
@@ -148,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108042591/gun-control-student-activists">We asked 5 students: What inspired you to become a gun control activist?</a> NPR: NPR spoke with high school and college students who have been impacted by gun violence, and are now working to make sure others won't be. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513274/a-district-attorney-in-texas-says-he-wont-prosecute-abortion-crimes">This Texas district attorney is one of dozens who have vowed not to prosecute abortion</a> NPR: Nearly 90 elected prosecutors from both blue and red states pledged not to prosecute those who seek or provide abortions. One Texas DA says that's because their jobs are about keeping people safe. 
- <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513246/ex-white-house-staffer-details-trumps-behavior-leading-up-to-the-capitol-attack">Ex-White House staffer details Trump's behavior leading up to the Capitol attack</a> NPR: Former Trump White House aide Cassidy Hutchinson has made bombshell revelations about former President Donald Trump's role in the Jan. 6 riot at the U.S. Capitol. 
  <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
 
