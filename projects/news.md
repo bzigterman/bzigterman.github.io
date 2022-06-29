@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:46 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61980555?at_medium=RSS&at_campaign=KARANGA">Nato summit: Turkey pushes Finland and Sweden on extradition after deal</a> BBC: It calls for the handover of 33 "terror" suspects after a deal to let Finland and Sweden join Nato. 
+ <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
  <p class="updated_time"> 04:27 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61978727?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows missile striking shopping mall in Kremenchuk</a> BBC: Ukraine's President Zelensky releases footage of missile strike, which killed at least 20 people. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
@@ -26,11 +30,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:33 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825">Ukraine's War of Attrition Exacts Heavy Toll on Both Sides</a> WSJ: Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave since 1875</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave ever recorded</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
  <p class="updated_time"> 01:17 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
  <p class="updated_time"> 01:15 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976456?at_medium=RSS&at_campaign=KARANGA">Rappler: Philippines orders shutdown of Maria Ressa's critical news site</a> BBC: The decision to strip Rappler of its licence comes in the last days of Rodrigo Duterte's presidency. 
+ <p class="updated_time"> 01:05 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/philippines-news-site-faces-closure-after-regulator-upholds-decision-11656497114">Philippines News Site Faces Closure After Regulator Upholds Decision</a> WSJ: Rappler, run by Nobel Peace Prize winner Maria Ressa, has published reports critical of President Rodrigo Duterte’s war on drugs. 
  <p class="updated_time"> 12:33 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181">Rice Is Saving Asia as Ukraine War Drives Up Food Prices</a> WSJ: Unlike wheat and corn, rice has generally been cheaper this year than it was last year—a boon for many Asian countries where it is integral to diets. 
  <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
@@ -63,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The UK Hongkongers living with handover's legacy</a> BBC: The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK. 
  <p class="updated_time"> 06:18 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61973633?at_medium=RSS&at_campaign=KARANGA">Ukraine war cluster munitions: 'Everything began to explode'</a> BBC: A BBC investigation has gathered evidence of the repeated use of cluster munitions in the city of Chernihiv, northern Ukraine. 
- <p class="updated_time"> 06:12 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61976009?at_medium=RSS&at_campaign=KARANGA">Hisham al-Sayed: Hamas video claims to show captive Israeli</a> BBC: Hisham al-Sayed was last seen in 2015 when he is believed to have wandered into the Gaza Strip. 
  <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
  <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
- <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
