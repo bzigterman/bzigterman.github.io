@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61959018?at_medium=RSS&at_campaign=KARANGA">R. Kelly: US singer faces decades in jail at sex trafficking sentencing</a> BBC: The R&B artist is to be sentenced later on Wednesday on charges of racketeering and sex trafficking. 
+ <p class="updated_time"> 01:16 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61981735?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Verdicts begin for 20 accused of mass murder</a> BBC: The biggest trial in modern French history delivers verdicts for 20 accused over the 2015 atrocity. 
  <p class="updated_time"> 12:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
@@ -27,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 07:12 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine's Zelensky Calls on U.N. to Visit Destroyed Mall</a> WSJ: President Volodymyr Zelensky proposed that officials inspect the site of a Russian missile strike on Monday that killed at least 20 people, to dispute Moscow’s claims that it had been targeting munitions stored at an adjacent factory. 
- <p class="updated_time"> 07:00 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61981735?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Verdicts due for 20 accused of mass murder</a> BBC: The biggest trial in modern French history readies verdicts for 20 accused over the 2015 atrocity. 
  <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
  <p class="updated_time"> 06:01 AM CT, Jun. 29 </p> 
@@ -50,7 +52,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in its worst heatwave ever recorded</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's War in Ukraine Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 12:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506">Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</a> WSJ: Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.” 
  <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61976369?at_medium=RSS&at_campaign=KARANGA">Fossils: Cave woman one million years older than thought</a> BBC: New research complicates our current understanding of where humans came from. 
  <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61870699?at_medium=RSS&at_campaign=KARANGA">National Sample Survey: How India taught the world the art of collecting data</a> BBC: India was once a trailblazer in data collection, but its reputation is taking a beating now. 
- <p class="updated_time"> 07:18 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61959018?at_medium=RSS&at_campaign=KARANGA">R. Kelly: US singer faces decades in jail at sex trafficking sentencing</a> BBC: The disgraced pop star will be sentenced on Wednesday after being found guilty of sex trafficking. 
  <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland's journey from neutral to Nato</a> BBC: It is a historic shift for the Nordic nations and Russia is vehemently opposed to the change. 
  <p class="updated_time"> 06:45 PM CT, Jun. 28 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108635408/lev-parnas-sentenced-20-months">Giuliani associate Lev Parnas is sentenced to 20 months in prison</a> NPR: Lev Parnas, an associate of Rudy Giuliani who was a figure in President Donald Trump's first impeachment investigation, was sentenced Wednesday for fraud and campaign finance crimes. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:32 AM CT, Jun. 29 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108387096/turkey-has-dropped-its-objections-to-finland-and-sweden-joining-nato">Turkey has dropped its objections to Finland and Sweden joining NATO</a> NPR: NATO leades say Turkey has dropped its objection to Finland and Sweden being invited into the alliance — one of the most significant reactions by the West so far to Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:05 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387082/what-the-former-white-house-aides-testimony-could-mean-for-the-jan-6-investigati">What the former White House aide's testimony could mean for the Jan. 6 investigation</a> NPR: Tuesday's surprise hearing of the Jan. 6 committee came with some explosive testimony from Cassidy Hutchinson. She was an aide to former White House Chief of Staff Mark Meadows. 
- <p class="updated_time"> 04:46 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108387054/trump-said-he-knew-jan-6-crowd-members-had-weapons-ex-white-house-aide-testified">Trump said he knew Jan. 6 crowd members had weapons, ex-White House aide testified</a> NPR: A former White House aide told the House Jan. 6 committee that President Trump knew the crowd was armed and tried overpowering a secret service agent to go to the Capitol. 
 
 
 </details>
