@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:58 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Surviving suspect Salah Abdeslam found guilty</a> BBC: Salah Abdeslam and 18 others are found guilty for their involvement in an attack that killed 130. 
+ <p class="updated_time"> 02:47 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
+ <p class="updated_time"> 02:30 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Salah Abdeslam guilty as historic trial ends</a> BBC: A French court convicts 20 men over the 2015 atrocities at the Bataclan Theatre and across Paris. 
+ <p class="updated_time"> 02:05 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 01:37 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
- <p class="updated_time"> 01:29 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61959018?at_medium=RSS&at_campaign=KARANGA">R. Kelly: US singer faces decades in jail at sex trafficking sentencing</a> BBC: The R&B artist is to be sentenced later on Wednesday on charges of racketeering and sex trafficking. 
  <p class="updated_time"> 12:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundreds</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area. 
  <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
