@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1107090873/how-elizabeth-cottens-music-fueled-the-folk-revival">How Elizabeth Cotten's music fueled the folk revival</a> NPR: Although inducted into the 2022 Rock & Roll Hall of Fame, her contributions haven't always been properly acknowledged. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
+ <p class="updated_time"> 01:44 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/opec-allies-struggle-to-meet-oil-production-targets-11656499462">OPEC, Allies Struggle to Meet Oil Production Targets</a> WSJ: As President Biden prepares to go to Saudi Arabia, OPEC members say the cartel and its allies have fallen far behind on their oil-production targets and are in their weakest position in recent years to help tame high crude prices. 
  <p class="updated_time"> 01:33 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825">Ukraine's War of Attrition Exacts Heavy Toll on Both Sides</a> WSJ: Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
@@ -29,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
  <p class="updated_time"> 01:15 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976456?at_medium=RSS&at_campaign=KARANGA">Rappler: Philippines orders shutdown of Maria Ressa's critical news site</a> BBC: The decision to strip Rappler of its licence comes in the last days of Rodrigo Duterte's presidency. 
+ <p class="updated_time"> 12:33 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181">Rice Is Saving Asia as Ukraine War Drives Up Food Prices</a> WSJ: Unlike wheat and corn, rice has generally been cheaper this year than it was last year—a boon for many Asian countries where it is integral to diets. 
  <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61976350?at_medium=RSS&at_campaign=KARANGA">Airbnb permanently bans parties and events around the world</a> BBC: The home rental platform said a temporary ban, which was introduced in 2020, was popular with hosts. 
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
@@ -100,8 +104,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108513197/rep-jamie-raskin-says-cassidy-hutchinson-is-a-very-credible-witness">Rep. Jamie Raskin says Cassidy Hutchinson is a very credible witness</a> NPR: NPR's A Martinez talks to Democrat Rep. Jamie Raskin of Maryland who is also a Jan. 6 committee member, about some of the more significant revelations from the testimony of Cassidy Hutchinson. 
+ <p class="updated_time"> 06:19 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108513190/cassidy-hutchinson-provides-explosive-testimony-during-the-jan-6-hearing">Cassidy Hutchinson provides explosive testimony during the Jan. 6 hearing </a> NPR: The House panel heard bombshell testimony from the former Trump White House aide who detailed the former president's knowledge of the potential for violence on Jan. 6, and his outbursts of anger. 
  <p class="updated_time"> 05:01 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108042591/gun-control-student-activists">We asked 5 students: What inspired you to become a gun control activist?</a> NPR: NPR spoke with high school and college students who have been impacted by gun violence, and are now working to make sure others won't be. 
+ <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108513246/ex-white-house-staffer-details-trumps-behavior-leading-up-to-the-capitol-attack">Ex-White House staffer details Trump's behavior leading up to the Capitol attack</a> NPR: Former Trump White House aide Cassidy Hutchinson has made bombshell revelations about former President Donald Trump's role in the Jan. 6 riot at the U.S. Capitol. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513218/harris-says-abortion-rights-supporters-must-stand-together-ahead-of-nov-election">Harris says abortion-rights supporters must stand together ahead of Nov. elections</a> NPR: Vice President Harris responds to Roe v. Wade being overturned by the Supreme Court. She says abortion-rights supporters need to channel their disappointment into political action ahead of midterms. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
@@ -130,12 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108236828/oklahoma-governor-primary-republican-democrat-stitt-hofmeister-results-abortion">In Oklahoma, former Republican Joy Hofmeister will face Gov. Kevin Stitt in November</a> NPR: In Oklahoma, state Superintendent Joy Hofmeister left the GOP to run against Gov. Kevin Stitt who fiercely opposes abortion rights, defends gun rights and is endorsed by former President Trump. 
  <p class="updated_time"> 04:17 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108332978/hhs-secretary-becerra-on-federal-abortion-rights">HHS Secretary Becerra on federal abortion rights</a> NPR: NPR's Juana Summers talks with President Biden's health and human services secretary, Xavier Becerra, about steps the administration is prepared to take to protect women's reproductive health care. 
- <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:51 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108376194/former-aide-said-trump-tried-to-go-to-the-capitol-on-jan-6-in-latest-hearing">Former aide said Trump tried to go to the Capitol on Jan. 6 in latest hearing</a> NPR: A former White House aide said Trump planned to visit the Capitol on Jan. 6, 2021. When staff stopped those plans Trump attempted to grab the steering wheel of the presidential limousine. 
- <p class="updated_time"> 03:32 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108370498/louisiana-redistricting-supreme-court-lawsuit">The Supreme Court has delayed creating a majority Black voting district in Louisiana</a> NPR: After a lower court found a Louisiana congressional map likely dilutes votes of Black voters, the Supreme Court put on hold an order for a second majority Black congressional district to be created. 
 
 
 </details>
