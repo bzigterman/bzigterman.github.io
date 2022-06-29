@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1107090873/how-elizabeth-cottens-music-fueled-the-folk-revival">How Elizabeth Cotten's music fueled the folk revival</a> NPR: Although inducted into the 2022 Rock & Roll Hall of Fame, her contributions haven't always been properly acknowledged. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
+ <p class="updated_time"> 01:33 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825">Ukraine's War of Attrition Exacts Heavy Toll on Both Sides</a> WSJ: Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave since 1875</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
  <p class="updated_time"> 01:17 AM CT, Jun. 29 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108378113/how-gas-projects-in-africa-could-affect-the-continents-future">How gas projects in Africa could affect the continent's future</a> NPR: The scramble for gas after the Ukraine war means a push for new gas projects across Africa. Some worry these projects don't make sense. And they could worsen climate change for the continent. 
  <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundreds</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area. 
- <p class="updated_time"> 04:02 PM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/colombia-peace-commission-calls-for-overhaul-of-army-and-u-s-backed-war-on-drugs-11656464542">Colombia Peace Commission Calls For Overhaul of Army and U.S.-backed War on Drugs</a> WSJ: President-elect Gustavo Petro, who has promised to upend the nation’s war on drugs, said he would consider the recommendations. 
  <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:11 PM CT, Jun. 28 </p> 
@@ -83,24 +83,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61972937?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows civilians fleeing Russian missile strikes in Kremenchuk</a> BBC: Footage from a pond in Kremenchuk shows people running for cover as missile strikes hit nearby area. 
  <p class="updated_time"> 11:48 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
- <p class="updated_time"> 10:54 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/oil-tanker-is-stopped-by-u-s-on-transit-from-russian-port-to-new-orleans-11656429086">Oil Tanker Stopped by U.S. in Transit From Russian Port to New Orleans</a> WSJ: The ship carrying oil products was chartered by a Swiss-based commodities trader that said it complied with sanctions against Russia. 
  <p class="updated_time"> 10:44 AM CT, Jun. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-iran-gather-for-indirect-talks-on-nuclear-deal-revival-11656420279">U.S., Iran Gather for Indirect Talks on Nuclear-Deal Revival</a> WSJ: Efforts to revive the Iranian 2015 nuclear agreement were set to resume, with U.S. and Iranian officials playing down expectations of a quick breakthrough that would open the way to a restored deal. 
- <p class="updated_time"> 07:35 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/scotlands-nicola-sturgeon-sets-out-plan-for-independence-vote-11656434150">Scotland's Nicola Sturgeon Sets Out Plan for Independence Vote</a> WSJ: The Scottish leader aims to hold a referendum in October 2023, but faces both legal and political challenges. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
  <p class="updated_time"> 05:00 AM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61963598?at_medium=RSS&at_campaign=KARANGA">Kremenchuk mall attack: 'I saw burned people... some covered in blood'</a> BBC: Survivors speak about the Russian missile attack on a shopping mall in Kremenchuk, Ukraine. 
  <p class="updated_time"> 04:39 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108121373/a-german-court-sentences-101-year-old-to-5-years-for-role-as-nazi-guard">A German court sentences 101-year-old to 5 years for role as Nazi guard</a> NPR: The regional court in Germany convicted the man of 3,518 counts of being an accessory to murder for serving at the Nazis' Sachsenhausen concentration camp during World War II. 
- <p class="updated_time"> 04:31 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/g-7-meeting-to-conclude-with-focus-on-china-11656408428">West's Challenges in Tackling Russia Exposed at G-7</a> WSJ: The summit ended with an agreement to discuss new sanctions against Russia but underlined the limits of using economic tools to punish Russia four months after its invasion of Ukraine. 
  <p class="updated_time"> 04:05 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1103324447/colombia-war-crimes-tribunal">Colombia's tribunal exposes how troops kidnapped and killed thousands of civilians</a> NPR: Colombian army officers kidnapped and executed over 6,400 civilians from 2002 to 2008 and falsely reported them as Marxist guerrillas killed in combat to boost body counts, a special tribunal found. 
- <p class="updated_time"> 12:30 AM CT, Jun. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-to-seek-biden-support-for-laser-defense-11656408600">Israel to Seek Biden Support for Laser Defense</a> WSJ: The experimental system known as Iron Beam could provide another layer of defense against Iran in the Middle East. 
 
 
 </details>
