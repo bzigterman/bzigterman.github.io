@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
+ <p class="updated_time"> 04:30 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
  <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
@@ -19,12 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
- <p class="updated_time"> 03:22 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
- <p class="updated_time"> 03:13 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Salah Abdeslam guilty as historic trial ends</a> BBC: A French court convicts 20 men over the 2015 atrocities at the Bataclan Theatre and across Paris. 
  <p class="updated_time"> 02:05 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
