@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
+ <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
+ <p class="updated_time"> 11:12 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
@@ -21,12 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61980555?at_medium=RSS&at_campaign=KARANGA">Nato summit: Turkey pushes Finland and Sweden on extradition after deal</a> BBC: It calls for the handover of 33 "terror" suspects after a deal to let Finland and Sweden join Nato. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
+ <p class="updated_time"> 07:12 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine's Zelensky Calls on U.N. to Visit Destroyed Mall</a> WSJ: President Volodymyr Zelensky proposed that officials inspect the site of a Russian missile strike on Monday that killed at least 20 people, to dispute Moscow’s claims that it had been targeting munitions stored at an adjacent factory. 
  <p class="updated_time"> 07:00 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61981735?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Verdicts due for 20 accused of mass murder</a> BBC: The biggest trial in modern French history readies verdicts for 20 accused over the 2015 atrocity. 
  <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
- <p class="updated_time"> 06:22 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine's Zelensky Calls on U.N. to Visit Destroyed Mall</a> WSJ: President Volodymyr Zelensky proposed that officials inspect the site of a Russian missile strike on Monday that killed at least 20 people, to dispute Moscow’s claims that it had been targeting munitions stored at an adjacent factory. 
  <p class="updated_time"> 05:27 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/opec-allies-struggle-to-meet-oil-production-targets-11656499462">OPEC, Allies Struggle to Meet Oil Production Targets</a> WSJ: As President Biden prepares to go to Saudi Arabia, OPEC members say the cartel and its allies have fallen far behind on their oil-production targets and are in their weakest position in recent years to help tame high crude prices. 
  <p class="updated_time"> 04:27 AM CT, Jun. 29 </p> 
@@ -44,7 +46,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:33 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825">Ukraine's War of Attrition Exacts Heavy Toll on Both Sides</a> WSJ: Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave ever recorded</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in its worst heatwave ever recorded</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's War in Ukraine Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 01:05 AM CT, Jun. 29 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/28/1104942210/too-shallow-few-fish-unsafe-water-floating-down-the-indus-river-in-a-rubber-ding">Floating in a rubber dinghy, a filmmaker documents the Indus River's water woes</a> NPR: Pakistani filmmaker Wajahat Malik pulled together an expedition to raft down the 2,000-mile river. He hopes to reconnect people with the Indus, which is being threatened by overuse and climate change. 
  <p class="updated_time"> 05:30 AM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/sections/money/2022/06/28/1107449055/the-strange-underground-economy-of-tree-poaching">The strange underground economy of tree poaching</a> NPR: A new book dives deep into the fascinating criminal world of tree theft and efforts to combat it. 
- <p class="updated_time"> 04:39 AM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108121373/a-german-court-sentences-101-year-old-to-5-years-for-role-as-nazi-guard">A German court sentences 101-year-old to 5 years for role as Nazi guard</a> NPR: The regional court in Germany convicted the man of 3,518 counts of being an accessory to murder for serving at the Nazis' Sachsenhausen concentration camp during World War II. 
 
 
 </details>
