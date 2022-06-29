@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Surviving suspect Salah Abdeslam found guilty</a> BBC: Salah Abdeslam and 18 others are found guilty for their involvement in an attack that killed 130. 
+ <p class="updated_time"> 01:37 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 01:29 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61959018?at_medium=RSS&at_campaign=KARANGA">R. Kelly: US singer faces decades in jail at sex trafficking sentencing</a> BBC: The R&B artist is to be sentenced later on Wednesday on charges of racketeering and sex trafficking. 
- <p class="updated_time"> 01:16 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61981735?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Verdicts begin for 20 accused of mass murder</a> BBC: The biggest trial in modern French history delivers verdicts for 20 accused over the 2015 atrocity. 
  <p class="updated_time"> 12:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
- <p class="updated_time"> 11:12 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
  <p class="updated_time"> 09:12 AM CT, Jun. 29 </p> 
