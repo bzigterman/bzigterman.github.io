@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61981735?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Verdicts due for 20 accused of mass murder</a> BBC: The biggest trial in modern French history readies verdicts for 20 accused over the 2015 atrocity. 
  <p class="updated_time"> 06:46 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61980555?at_medium=RSS&at_campaign=KARANGA">Nato summit: Turkey pushes Finland and Sweden on extradition after deal</a> BBC: It calls for the handover of 33 "terror" suspects after a deal to let Finland and Sweden join Nato. 
  <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
@@ -44,13 +46,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: Enraged president tried to grab the steering wheel to direct his limousine to the Capitol, ex-aide says. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
  <p class="updated_time"> 10:02 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61976446?at_medium=RSS&at_campaign=KARANGA">Australia honey bees put in lockdown due to deadly varroa parasite</a> BBC: A deadly parasite is detected in the country's bee population which could cause millions of dollars of damage. 
  <p class="updated_time"> 08:49 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61976369?at_medium=RSS&at_campaign=KARANGA">Fossils: Cave woman one million years older than thought</a> BBC: New research complicates our current understanding of where humans came from. 
- <p class="updated_time"> 08:33 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61976396?at_medium=RSS&at_campaign=KARANGA">Monkeypox: White House outlines vaccine plan</a> BBC: The pool of people advised to get jabbed in the US now includes anyone with a suspected exposure. 
  <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61870699?at_medium=RSS&at_campaign=KARANGA">National Sample Survey: How India taught the world the art of collecting data</a> BBC: India was once a trailblazer in data collection, but its reputation is taking a beating now. 
  <p class="updated_time"> 07:18 PM CT, Jun. 28 </p> 
@@ -107,7 +107,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:21 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513197/rep-jamie-raskin-says-cassidy-hutchinson-is-a-very-credible-witness">Rep. Jamie Raskin says Cassidy Hutchinson is a very credible witness</a> NPR: NPR's A Martinez talks to Democrat Rep. Jamie Raskin of Maryland who is also a Jan. 6 committee member, about some of the more significant revelations from the testimony of Cassidy Hutchinson. 
+ <a href="https://www.npr.org/2022/06/29/1108513197/rep-jamie-raskin-says-cassidy-hutchinson-is-a-very-credible-witness">Rep. Jamie Raskin says Cassidy Hutchinson is a very credible witness</a> NPR: NPR's A Martinez talks to Democrat Rep. Jamie Raskin of Maryland, who is also a Jan. 6 committee member, about some of the more significant revelations from the testimony of Cassidy Hutchinson. 
  <p class="updated_time"> 06:19 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513190/cassidy-hutchinson-provides-explosive-testimony-during-the-jan-6-hearing">Cassidy Hutchinson provides explosive testimony during the Jan. 6 hearing </a> NPR: The House panel heard bombshell testimony from the former Trump White House aide who detailed the former president's knowledge of the potential for violence on Jan. 6, and his outbursts of anger. 
  <p class="updated_time"> 05:01 AM CT, Jun. 29 </p> 
