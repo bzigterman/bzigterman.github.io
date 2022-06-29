@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
+ <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
  <p class="updated_time"> 04:34 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
  <p class="updated_time"> 04:30 PM CT, Jun. 29 </p> 
@@ -101,10 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
  <p class="updated_time"> 05:09 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108387096/turkey-has-dropped-its-objections-to-finland-and-sweden-joining-nato">Turkey has dropped its objections to Finland and Sweden joining NATO</a> NPR: NATO leades say Turkey has dropped its objection to Finland and Sweden being invited into the alliance — one of the most significant reactions by the West so far to Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:57 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108387075/russia-is-facing-a-huge-geopolitical-price-for-its-invasion-of-ukraine">Russia is facing a huge geopolitical price for its invasion of Ukraine</a> NPR: Russia has won significant ground on the battlefield in eastern Ukraine but a growing number of experts say the growing costs to Moscow's military, economy and stature far outweigh the gains. 
- <p class="updated_time"> 04:26 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108378113/how-gas-projects-in-africa-could-affect-the-continents-future">How gas projects in Africa could affect the continent's future</a> NPR: The scramble for gas after the Ukraine war means a push for new gas projects across Africa. Some worry these projects don't make sense. And they could worsen climate change for the continent. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -116,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108717888/the-deaths-of-migrants-in-san-antonio-has-put-a-spotlight-on-the-immigration-iss">The deaths of migrants in San Antonio has put a spotlight on the immigration issue</a> NPR: The deaths of 53 smuggled in a semi-truck in Texas have thrown immigration into headlines ahead of midterms. Republicans blame Biden for loosening Trump's policies. Immigrant advocates fault Title 42. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717849/rep-pramila-jayapal-d-wash-supports-a-national-strike-over-roes-demise">Rep. Pramila Jayapal, D-Wash., supports a national strike over Roe's demise</a> NPR: NPR's Juana Summers talks with Rep. Pramila Jayapal, chair of the Congressional Progressive Caucus, about protecting abortion rights — which has long been among the Democratic party's central causes. 
  <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
@@ -148,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108513274/a-district-attorney-in-texas-says-he-wont-prosecute-abortion-crimes">This Texas district attorney is one of dozens who have vowed not to prosecute abortion</a> NPR: Nearly 90 elected prosecutors from both blue and red states pledged not to prosecute those who seek or provide abortions. One Texas DA says that's because their jobs are about keeping people safe. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513246/ex-white-house-staffer-details-trumps-behavior-leading-up-to-the-capitol-attack">Ex-White House staffer details Trump's behavior leading up to the Capitol attack</a> NPR: Former Trump White House aide Cassidy Hutchinson has made bombshell revelations about former President Donald Trump's role in the Jan. 6 riot at the U.S. Capitol. 
- <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513218/harris-says-abortion-rights-supporters-must-stand-together-ahead-of-nov-election">Harris says abortion-rights supporters must stand together ahead of Nov. elections</a> NPR: Vice President Harris responds to Roe v. Wade being overturned by the Supreme Court. She says abortion-rights supporters need to channel their disappointment into political action ahead of midterms. 
  <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
 
