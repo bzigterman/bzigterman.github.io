@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61976350?at_medium=RSS&at_campaign=KARANGA">Airbnb permanently bans parties and events around the world</a> BBC: The firm said a temporary ban on parties, which was introduced in August 2020, was popular with hosts. 
- <p class="updated_time"> 11:09 PM CT, Jun. 28 </p> 
+ <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave since 1875</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
+ <p class="updated_time"> 01:17 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
+ <p class="updated_time"> 01:15 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976456?at_medium=RSS&at_campaign=KARANGA">Rappler: Philippines orders shutdown of Maria Ressa's critical news site</a> BBC: The decision to strip Rappler of its licence comes in the last days of Rodrigo Duterte's presidency. 
+ <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61976350?at_medium=RSS&at_campaign=KARANGA">Airbnb permanently bans parties and events around the world</a> BBC: The home rental platform said a temporary ban, which was introduced in 2020, was popular with hosts. 
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
