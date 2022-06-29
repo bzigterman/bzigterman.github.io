@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:47 PM CT, Jun. 29 </p> 
+ <p class="updated_time"> 01:58 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Surviving suspect Salah Abdeslam found guilty</a> BBC: Salah Abdeslam and 18 others are found guilty for their involvement in an attack that killed 130. 
  <p class="updated_time"> 01:37 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
