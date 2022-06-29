@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
+ <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108710365/ben-jerrys-corporate-owner-found-a-workaround-to-sell-ice-cream-in-the-west-bank">Ben & Jerry's' corporate owner found a workaround to sell ice cream in the West Bank</a> NPR: The corporate owner of Ben & Jerry's has made a deal to keep selling ice cream in Israel and its West Bank settlements, working around an attempt by the ice cream maker to protest Israeli occupation. 
  <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
@@ -21,22 +27,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Salah Abdeslam guilty as historic trial ends</a> BBC: A French court convicts 20 men over the 2015 atrocities at the Bataclan Theatre and across Paris. 
  <p class="updated_time"> 02:05 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
- <p class="updated_time"> 12:33 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
+ <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Israel welcomes Ben & Jerry's reversal over West Bank settlements</a> BBC: Unilever agrees a deal to continue selling the ice cream throughout Israel and the occupied West Bank. 
+ <p class="updated_time"> 11:53 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine, Russia Exchange Prisoners as War Grinds On</a> WSJ: The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
+ <p class="updated_time"> 11:35 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/iran-u-s-nuclear-deal-talks-end-without-progress-11656530571">Iran-U.S. Nuclear Talks End Without Progress</a> WSJ: Efforts to restore the 2015 nuclear deal face an uncertain future, with no fresh date set for negotiations to continue. 
+ <p class="updated_time"> 10:59 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/deal-on-bigger-nato-likely-helps-turkeys-erdogan-shore-up-support-at-home-11656531914">Deal on Bigger NATO Likely Helps Turkey's Erdogan Build Support at Home</a> WSJ: In Turkey, President Recep Tayyip Erdogan’s backers already have begun spinning the deal as a victory. Mr. Erdogan’s support has collapsed in recent years amid a struggling economy. 
  <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
+ <p class="updated_time"> 10:30 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/key-participant-in-2015-paris-attacks-convicted-to-life-in-prison-the-harshest-punishment-under-french-law-11656529648">Key Participant in 2015 Paris Terror Attacks Gets Life in Prison</a> WSJ: The conviction of Salah Abdeslam, the highest-profile participant in the November 2015 terror attacks, ends a brutal chapter in France’s yearslong struggle with terrorist groups. 
  <p class="updated_time"> 09:12 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
+ <p class="updated_time"> 09:01 AM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/billionaire-mukesh-ambani-begins-putting-succession-plan-in-place-at-reliance-industries-11656525684">Billionaire Mukesh Ambani Begins Putting Succession Plan in Place</a> WSJ: The tycoon elevated his son Akash Ambani to chairman of the board of Reliance Jio Infocomm, providing welcome certainty for India’s most valuable conglomerate. 
  <p class="updated_time"> 08:13 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61980555?at_medium=RSS&at_campaign=KARANGA">Nato summit: Turkey pushes Finland and Sweden on extradition after deal</a> BBC: It calls for the handover of 33 "terror" suspects after a deal to let Finland and Sweden join Nato. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
  <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 07:12 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine's Zelensky Calls on U.N. to Visit Destroyed Mall</a> WSJ: President Volodymyr Zelensky proposed that officials inspect the site of a Russian missile strike on Monday that killed at least 20 people, to dispute Moscow’s claims that it had been targeting munitions stored at an adjacent factory. 
  <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
  <p class="updated_time"> 06:01 AM CT, Jun. 29 </p> 
@@ -61,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 12:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506">Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</a> WSJ: Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.” 
- <p class="updated_time"> 11:30 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61976350?at_medium=RSS&at_campaign=KARANGA">Airbnb permanently bans parties and events around the world</a> BBC: The home rental platform said a temporary ban, which was introduced in 2020, was popular with hosts. 
  <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -93,10 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108387075/russia-is-facing-a-huge-geopolitical-price-for-its-invasion-of-ukraine">Russia is facing a huge geopolitical price for its invasion of Ukraine</a> NPR: Russia has won significant ground on the battlefield in eastern Ukraine but a growing number of experts say the growing costs to Moscow's military, economy and stature far outweigh the gains. 
  <p class="updated_time"> 04:26 PM CT, Jun. 28 </p> 
  <a href="https://www.npr.org/2022/06/28/1108378113/how-gas-projects-in-africa-could-affect-the-continents-future">How gas projects in Africa could affect the continent's future</a> NPR: The scramble for gas after the Ukraine war means a push for new gas projects across Africa. Some worry these projects don't make sense. And they could worsen climate change for the continent. 
- <p class="updated_time"> 04:20 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108376225/afghans-work-to-recover-after-earthquake-that-killed-hundred">Afghans work to recover after earthquake that killed hundreds</a> NPR: Hundreds perished in last week's earthquake in eastern Afghanistan. Afghans are working together to deliver aid to the area. 
- <p class="updated_time"> 03:59 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28">Russia-Ukraine war: What happened today (June 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -108,6 +116,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108717849/rep-pramila-jayapal-d-wash-supports-a-national-strike-over-roes-demise">Rep. Pramila Jayapal, D-Wash., supports a national strike over Roe's demise</a> NPR: NPR's Juana Summers talks with Rep. Pramila Jayapal, chair of the Congressional Progressive Caucus, about protecting abortion rights — which has long been among the Democratic party's central causes. 
+ <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:48 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108687699/sen-bernie-sanders-calls-dot-fining-airlines-disrupted-flights">Sen. Bernie Sanders calls on DOT to start fining airlines for disrupted flights</a> NPR: Ahead of the Fourth of July travel weekend, Bernie Sanders calls on the U.S. Department of Transportation to take action to reduce airline cancellations and delays. 
+ <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:44 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108573335/hutchinsons-bombshell-jan-6-testimony-sways-legal-experts-and-conservative-media">Hutchinson's bombshell Jan. 6 testimony sways legal experts and conservative media</a> NPR: The explosive testimony about former President Trump's actions on Jan. 6, 2021, has led to calls from some right-leaning outlets that Trump is unfit to serve in office. 
  <p class="updated_time"> 03:29 PM CT, Jun. 29 </p> 
@@ -134,16 +150,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108513246/ex-white-house-staffer-details-trumps-behavior-leading-up-to-the-capitol-attack">Ex-White House staffer details Trump's behavior leading up to the Capitol attack</a> NPR: Former Trump White House aide Cassidy Hutchinson has made bombshell revelations about former President Donald Trump's role in the Jan. 6 riot at the U.S. Capitol. 
  <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108513218/harris-says-abortion-rights-supporters-must-stand-together-ahead-of-nov-election">Harris says abortion-rights supporters must stand together ahead of Nov. elections</a> NPR: Vice President Harris responds to Roe v. Wade being overturned by the Supreme Court. She says abortion-rights supporters need to channel their disappointment into political action ahead of midterms. 
- <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513183/morning-news-brief">News brief: Jan. 6 hearing, NATO summit, recession fears lead to layoffs</a> NPR: A recap of the explosive testimony before the House Jan. 6 panel. Turkey agrees to support Norway and Sweden joining NATO. As fears of a recession build, companies are laying off workers. 
  <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
- <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
- <p class="updated_time"> 05:45 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108376010/trumps-legal-exposure-may-be-growing-and-4-other-takeaways-from-the-jan-6-hearin">Trump's legal exposure may be growing – and 4 other takeaways from the Jan. 6 hearing</a> NPR: Former White House aide Cassidy Hutchinson testified under oath about a volatile and angry president who was prone to throwing dishes, knew that supporters were armed and didn't want the riot to stop. 
- <p class="updated_time"> 05:23 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108396692/jan-6-committee-hearing-transcript">Here's every word from the sixth Jan. 6 committee hearing on its investigation </a> NPR: Read the full transcript from the June 28 House select committee investigating the Jan. 6 Capitol attack hearing. 
 
 
 </details>
