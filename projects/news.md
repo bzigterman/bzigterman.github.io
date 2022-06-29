@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in worst heatwave since 1875</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
  <p class="updated_time"> 01:17 AM CT, Jun. 29 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 02:48 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970358?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentenced to 20 years over sex trafficking</a> BBC: Ghislaine Maxwell told victims she had helped Jeffrey Epstein sexually abuse she was sorry for their pain. 
- <p class="updated_time"> 01:42 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell sentencing: 'We still want answers'</a> BBC: Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was. 
  <p class="updated_time"> 12:09 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61969006?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Mexico blames poverty and US border crisis</a> BBC: Migrants of Mexican, Honduran and Guatemalan origin were among 50 found dead in a truck in Texas. 
  <p class="updated_time"> 12:05 PM CT, Jun. 28 </p> 
@@ -121,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61948390?at_medium=RSS&at_campaign=KARANGA">'Show them our pecs' - G7 leaders mock Putin</a> BBC: As the G7 leaders sat down for their first meeting on Sunday, they started to make fun of the Russian leader's so-called macho image. 
  <p class="updated_time"> 06:32 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61926642?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC journalist Olga Malchevska returns to bombed Kyiv home</a> BBC: Olga Malchevska was live on air when she saw images of her childhood home in the aftermath of a Russian attack. 
- <p class="updated_time"> 06:10 PM CT, Jun. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61932993?at_medium=RSS&at_campaign=KARANGA">Forced to Beg: Tanzania’s Trafficked Kids</a> BBC: A BBC undercover investigation has exposed a human trafficking network smuggling disabled children from Tanzania to Kenya. 
  <p class="updated_time"> 04:18 PM CT, Jun. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61945914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What Severodonetsk's fall means for the conflict</a> BBC: Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region. 
 
