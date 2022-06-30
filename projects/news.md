@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:20 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: US Supreme Court curbs government's power to limit greenhouse gas emissions in a setback for President Biden's climate plans 
  <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
  <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
@@ -53,14 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel Sets New Election, Spotlighting Role of Arab Minority in Government</a> WSJ: As the country heads to its fifth election in less than four years, the role of Arab parties has emerged as a lightning rod, possibly driving a further rightward shift in the electorate and giving a boost to the fortunes of former premier Benjamin Netanyahu. 
  <p class="updated_time"> 12:56 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841337/ferdinand-marcos-jr-takes-oath-philippine-president">Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president</a> NPR: The namesake son of an ousted dictator is sworn in as Philippine president in one of the greatest political comebacks in recent history in the country. 
- <p class="updated_time"> 12:40 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: Rajasthan on edge after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
  <p class="updated_time"> 12:30 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61976940?at_medium=RSS&at_campaign=KARANGA">Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte</a> BBC: Ferdinand "Bongbong" Marcos Jr succeeds Rodrigo Duterte after a historic election win in May. 
  <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
- <p class="updated_time"> 12:04 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/business-61991140?at_medium=RSS&at_campaign=KARANGA">Pride: Amazon restricts LGBT goods in United Arab Emirates</a> BBC: The online retail giant says it has to comply with the laws of the countries in which it operates. 
  <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
@@ -83,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
  <p class="updated_time"> 05:52 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989617?at_medium=RSS&at_campaign=KARANGA">Paris attack: 'We still have our injuries, our traumas, our nightmares'</a> BBC: Survivors of the 2015 attacks spoke to the BBC after the sentencing of Salah Abdeslam and 19 others. 
- <p class="updated_time"> 04:57 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61990365?at_medium=RSS&at_campaign=KARANGA">Survivor makes tearful statement after R. Kelly sentencing</a> BBC: Lizzette Martinez tells reporters outside the New York court she is grateful for the 30-year sentence. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
@@ -118,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1104015677/supreme-court-remain-in-mexico-rmm">Supreme Court sides with the Biden administration in 'Remain in Mexico' case</a> NPR: On a 5-4 vote, the U.S. Supreme Court handed the Biden administration a victory, allowing it to rescind the Trump-era Remain in Mexico policy. 
+ <p class="updated_time"> 09:09 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1103595898/supreme-court-epa-climate-change">Supreme Court restricts the EPA's authority to mandate carbon emissions</a> NPR: The U.S. Supreme Court, in a 6-3 decision, ruled that the Environmental Protection Agency does not have the authority to mandate carbon emissions from existing power plants. 
  <p class="updated_time"> 09:02 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden calls for a filibuster carveout to protect abortion rights</a> NPR: President Joe Biden said he would support changing the filibuster rules in the Senate to ensure that privacy rights, including abortion rights, are enshrined into law. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
@@ -144,10 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108717849/rep-pramila-jayapal-d-wash-supports-a-national-strike-over-roes-demise">Rep. Pramila Jayapal, D-Wash., supports a national strike over Roe's demise</a> NPR: NPR's Juana Summers talks with Rep. Pramila Jayapal, chair of the Congressional Progressive Caucus, about protecting abortion rights — which has long been among the Democratic party's central causes. 
  <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:48 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108687699/sen-bernie-sanders-calls-dot-fining-airlines-disrupted-flights">Sen. Bernie Sanders calls on DOT to start fining airlines for disrupted flights</a> NPR: Ahead of the Fourth of July travel weekend, Bernie Sanders calls on the U.S. Department of Transportation to take action to reduce airline cancellations and delays. 
- <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
