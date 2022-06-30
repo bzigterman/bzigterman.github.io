@@ -142,6 +142,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1104015677/supreme-court-remain-in-mexico-rmm">Supreme Court sides with the Biden administration in 'Remain in Mexico' case</a> NPR: On a 5-4 vote, the U.S. Supreme Court handed the Biden administration a victory, allowing it to rescind the Trump-era Remain in Mexico policy. 
  <p class="updated_time"> 09:09 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1103595898/supreme-court-epa-climate-change">Supreme Court restricts the EPA's authority to mandate carbon emissions reductions</a> NPR: The U.S. Supreme Court, in a 6-3 decision, ruled that the Environmental Protection Agency does not have the authority to mandate carbon emissions from existing power plants. 
+ <p class="updated_time"> 09:04 AM CT, Jun. 30 </p> 
+ <a href="https://www.cnn.com/2022/06/30/politics/trump-republicans-2024-january-6-revelations/index.html">Jan. 6 committee revelations may give Republicans opening to take on Trump in 2024</a> CNN: Nothing ever really seems to bring Donald Trump down. 
  <p class="updated_time"> 09:02 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden says he supports change in Senate filibuster rules for abortion rights</a> NPR: President Biden has resisted changes to Senate rules requiring 60 votes to pass legislation. But he says he would support changing the filibuster to codify privacy rights, including abortion rights. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
