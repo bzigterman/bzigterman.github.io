@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:20 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: US Supreme Court curbs government's power to limit greenhouse gas emissions in a setback for President Biden's climate plans 
+ <p class="updated_time"> 09:29 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
  <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108890878/liz-cheney-trump-domestic-threat">The U.S. is facing a domestic threat from Trump, Liz Cheney says</a> NPR: "Republicans cannot both be loyal to Donald Trump and loyal to the Constitution," Rep. Liz Cheney said in a speech at the Ronald Reagan Presidential Library. 
  <p class="updated_time"> 09:16 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1104015677/supreme-court-remain-in-mexico-rmm">Supreme Court sides with the Biden administration in 'Remain in Mexico' case</a> NPR: On a 5-4 vote, the U.S. Supreme Court handed the Biden administration a victory, allowing it to rescind the Trump-era Remain in Mexico policy. 
  <p class="updated_time"> 09:09 AM CT, Jun. 30 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108717888/the-deaths-of-migrants-in-san-antonio-has-put-a-spotlight-on-the-immigration-iss">The deaths of migrants in San Antonio has put a spotlight on the immigration issue</a> NPR: The deaths of 53 smuggled in a semi-truck in Texas have thrown immigration into headlines ahead of midterms. Republicans blame Biden for loosening Trump's policies. Immigrant advocates fault Title 42. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717849/rep-pramila-jayapal-d-wash-supports-a-national-strike-over-roes-demise">Rep. Pramila Jayapal, D-Wash., supports a national strike over Roe's demise</a> NPR: NPR's Juana Summers talks with Rep. Pramila Jayapal, chair of the Congressional Progressive Caucus, about protecting abortion rights — which has long been among the Democratic party's central causes. 
- <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
