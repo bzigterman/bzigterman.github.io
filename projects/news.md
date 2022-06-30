@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
+ <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
@@ -97,10 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
- <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108710365/ben-jerrys-corporate-owner-found-a-workaround-to-sell-ice-cream-in-the-west-bank">Ben & Jerry's' corporate owner found a workaround to sell ice cream in the West Bank</a> NPR: The corporate owner of Ben & Jerry's has made a deal to keep selling ice cream in Israel and its West Bank settlements, working around an attempt by the ice cream maker to protest Israeli occupation. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -116,6 +116,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109051809/immigration-advocates-are-cheering-the-supreme-courts-decision-on-remain-in-mexi">Immigration advocates are cheering the Supreme Court's decision on 'Remain in Mexico'</a> NPR: The Supreme Court sided with the Biden administration in a major immigration ruling. The Court says the government can roll back the so-called "Remain in Mexico" policy implemented by President Trump. 
+ <p class="updated_time"> 03:27 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109051816/supreme-court-allows-biden-administration-to-roll-back-remain-in-mexico-policy">Supreme Court allows Biden administration to roll back 'Remain In Mexico' policy</a> NPR: NPR's Juana Summers speaks with Marysol Castro, an attorney with El Paso's Diocesan Migrant and Refugee Services, about the Remain in Mexico decision. 
  <p class="updated_time"> 02:52 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6">Election deniers have taken their fraud theories on tour — to nearly every state</a> NPR: Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide. 
  <p class="updated_time"> 01:55 PM CT, Jun. 30 </p> 
@@ -146,10 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108843816/biden-is-wrapping-up-a-week-of-high-level-meetings-with-allies-in-europe">Biden is wrapping up a week of high-level meetings with allies in Europe</a> NPR: While in Europe, President Biden committed more U.S. troops to NATO and worked with G-7 leaders on Russia. Before heading home, he'll take questions about the domestic issues waiting for him. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843788/jan-6-committee-subpoenas-trumps-former-white-house-counsel-pat-cipollone">Jan. 6 committee subpoenas Trump's former White House counsel Pat Cipollone</a> NPR: The House Jan. 6 panel has issued a subpoena for former White House Counsel Pat Cipollone. The committee is asking him to appear for a deposition next week. 
- <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108843753/morning-news-brief">News brief: Supreme Court winds down, Biden news conference, election deniers</a> NPR: The Supreme Court will issue opinions in two remaining cases. President Biden wraps up a week of high-level meetings with allies in Europe. Election denialism evolves into a nationwide movement. 
- <p class="updated_time"> 04:01 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in">Ketanji Brown Jackson sworn in as first Black woman on the Supreme Court</a> NPR: Ketanji Brown Jackson, President Biden's first Supreme Court pick, has been sworn in as the 116th justice. She is the first Black woman to serve on the nation's high court. 
 
 
 </details>
