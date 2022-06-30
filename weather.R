@@ -456,7 +456,7 @@ ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
   )
 
 ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 3, height = 8, dpi = 320)
+       width = 5, height = 8, dpi = 320)
 
 ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
   geom_point() +
