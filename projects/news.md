@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
+ <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-61993157?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin hits back at G7 leaders' topless photo jibes</a> BBC: Russia's president says it would be "disgusting" to see leaders who mocked his macho image strip off. 
  <p class="updated_time"> 07:40 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: The president says Hong Kong has "risen from the ashes" - critics accuse China of crushing freedoms. 
+ <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
+ <p class="updated_time"> 06:59 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61993467?at_medium=RSS&at_campaign=KARANGA">Survivors confront R. Kelly in court: 'You destroyed so many lives'</a> BBC: Several of the disgraced singer's victims address him directly in court during his sentencing. 
  <p class="updated_time"> 06:57 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
@@ -63,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 07:12 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61979873?at_medium=RSS&at_campaign=KARANGA">Russia's attack on Mariupol theatre a clear war crime, Amnesty says</a> BBC: Russian forces likely targeted the building knowing it was a shelter for civilians, the group says. 
- <p class="updated_time"> 06:56 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
@@ -142,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:44 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108573335/hutchinsons-bombshell-jan-6-testimony-sways-legal-experts-and-conservative-media">Hutchinson's bombshell Jan. 6 testimony sways legal experts and conservative media</a> NPR: The explosive testimony about former President Trump's actions on Jan. 6, 2021, has led to calls from some right-leaning outlets that Trump is unfit to serve in office. 
- <p class="updated_time"> 02:41 PM CT, Jun. 29 </p> 
- <a href="https://www.cnn.com/2022/06/29/politics/ketanji-brown-jackson-fractured-supreme-court/index.html">Ketanji Brown Jackson to join a Supreme Court in turmoil </a> CNN: Judge Ketanji Brown Jackson is set to join the Supreme Court on Thursday, making history as the first female African-American justice and beginning what could be a decades-long tenure. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
