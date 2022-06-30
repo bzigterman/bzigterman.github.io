@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108843686/chinese-leader-xi-arrives-in-hong-kong-for-25th-anniversary-of-handover">Chinese leader Xi arrives in Hong Kong for 25th anniversary of handover</a> NPR: The Chinese leader is expected to speak about Hong Kong's future at a ceremony Friday marking the return of the former British colony to Chinese rule on July 1, 1997. 
+ <p class="updated_time"> 01:51 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
+ <p class="updated_time"> 01:14 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61990864?at_medium=RSS&at_campaign=KARANGA">Hello Kitty firm strikes China deal after viral hit</a> BBC: Shares of Japanese company Sanrio rose by almost 14% in Tokyo after the agreement was announced. 
+ <p class="updated_time"> 12:56 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108841337/ferdinand-marcos-jr-takes-oath-philippine-president">Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president</a> NPR: The namesake son of an ousted dictator is sworn in as Philippine president in one of the greatest political comebacks in recent history in the country. 
+ <p class="updated_time"> 12:40 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: Rajasthan on edge after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
+ <p class="updated_time"> 12:30 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61976940?at_medium=RSS&at_campaign=KARANGA">Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte</a> BBC: Ferdinand "Bongbong" Marcos Jr succeeds Rodrigo Duterte after a historic election win in May. 
  <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
  <p class="updated_time"> 12:04 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61991140?at_medium=RSS&at_campaign=KARANGA">Pride: Amazon restricts LGBT goods in United Arab Emirates</a> BBC: The online retail giant says it has to comply with the laws of the countries in which it operates. 
  <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
- <p class="updated_time"> 11:09 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61976940?at_medium=RSS&at_campaign=KARANGA">Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte</a> BBC: Ferdinand "Bongbong" Marcos Jr succeeds Rodrigo Duterte after a historic election win in May. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
@@ -25,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61979873?at_medium=RSS&at_campaign=KARANGA">Russia's attack on Mariupol theatre a clear war crime, Amnesty says</a> BBC: Russian forces likely targeted the building knowing it was a shelter for civilians, the group says. 
  <p class="updated_time"> 06:56 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
- <p class="updated_time"> 06:41 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
@@ -41,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61989617?at_medium=RSS&at_campaign=KARANGA">Paris attack: 'We still have our injuries, our traumas, our nightmares'</a> BBC: Survivors of the 2015 attacks spoke to the BBC after the sentencing of Salah Abdeslam and 19 others. 
  <p class="updated_time"> 04:57 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990365?at_medium=RSS&at_campaign=KARANGA">Survivor makes tearful statement after R. Kelly sentencing</a> BBC: Lizzette Martinez tells reporters outside the New York court she is grateful for the 30-year sentence. 
- <p class="updated_time"> 04:53 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61974395?at_medium=RSS&at_campaign=KARANGA">Migrants die daily in lorries hot as 'gates of hell'</a> BBC: Eager to come to the US, migrants often ignore the fatal risks of being smuggled in vehicles. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
@@ -73,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
  <p class="updated_time"> 10:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/key-participant-in-2015-paris-attacks-convicted-to-life-in-prison-the-harshest-punishment-under-french-law-11656529648">Key Participant in 2015 Paris Terror Attacks Gets Life in Prison</a> WSJ: The conviction of Salah Abdeslam, the highest-profile participant in the November 2015 terror attacks, ends a brutal chapter in France’s yearslong struggle with terrorist groups. 
- <p class="updated_time"> 09:12 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
  <p class="updated_time"> 09:01 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/billionaire-mukesh-ambani-begins-putting-succession-plan-in-place-at-reliance-industries-11656525684">Billionaire Mukesh Ambani Begins Putting Succession Plan in Place</a> WSJ: The tycoon elevated his son Akash Ambani to chairman of the board of Reliance Jio Infocomm, providing welcome certainty for India’s most valuable conglomerate. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
@@ -99,24 +103,12 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 12:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506">Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</a> WSJ: Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.” 
- <p class="updated_time"> 10:40 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
- <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61870699?at_medium=RSS&at_campaign=KARANGA">National Sample Survey: How India taught the world the art of collecting data</a> BBC: India was once a trailblazer in data collection, but its reputation is taking a beating now. 
  <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland's journey from neutral to Nato</a> BBC: It is a historic shift for the Nordic nations and Russia is vehemently opposed to the change. 
- <p class="updated_time"> 06:45 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61967842?at_medium=RSS&at_campaign=KARANGA">Why ex-French colonies are joining the Commonwealth</a> BBC: Behind the Commonwealth's allure as it welcomes Gabon and Togo into its ranks. 
- <p class="updated_time"> 06:41 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61940343?at_medium=RSS&at_campaign=KARANGA">How Michael Gardner helped transform Miami's nightlife</a> BBC: The businessman overcame racial barriers to become one of Miami’s foremost nightlife promoters. 
  <p class="updated_time"> 06:36 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Survivors who found friendship in marathon terror trial</a> BBC: The 2015 Paris attacks left 130 people dead and some of the survivors have formed a unique bond. 
- <p class="updated_time"> 06:34 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA">China and Hong Kong: The UK Hongkongers living with the handover's legacy</a> BBC: The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK. 
- <p class="updated_time"> 05:18 PM CT, Jun. 28 </p> 
- <a href="https://www.npr.org/2022/06/28/1108387110/germany-aims-to-offset-living-costs-and-gas-demand-with-discounted-public-transp">Germany aims to offset living costs and gas demand with discounted public transport</a> NPR: This summer, one can travel in Germany on public transportation for less than $10 a month. It's part of a government package to tackle the soaring cost of living by using more public transportation. 
 
 
 </details>
