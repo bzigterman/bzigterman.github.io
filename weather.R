@@ -670,16 +670,20 @@ today_temp_history <- temp_history %>%
 
 normals <- read_csv("data/normals.csv") %>%
   mutate(date = parse_date_time(date, "md")) %>%
+  select(date, min, max)
+year(normals$date) = year(today(tzone = "America/Chicago"))
+normals_today <- normals %>%
   filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
   filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
 
+
 almanac_data <- tibble(type = c("record","normal","today","current"),
                        min = c(min(today_temp_history$temp),
-                               normals$min,
+                               normals_today$min,
                                min(temps_today$temp),
                                as.numeric("NA")),
                        max = c(max(today_temp_history$temp),
-                               normals$max,
+                               normals_today$max,
                                max(temps_today$temp),
                                max(temps_past_hour$temp)))
 
@@ -697,21 +701,27 @@ ggplot(almanac_longer, aes(x = 1,
                            color = type)) +
   geom_line(data = filter(almanac_longer, type != "Current"),
                           alpha = .5) +
-  scale_size_manual(values = c(12,6,3,1.5)) +
+  scale_size_manual(values = c(6,3,1.5)) +
   scale_color_manual(values = c("purple","black","yellow")) +
   geom_point(data = filter(almanac_longer, type == "Current"),
              color = "red",
              size = 5) +
-  geom_text(data = almanac_longer, aes(label = value))
+  theme(
+    legend.title = element_blank(),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    plot.caption = element_text(color = "grey70")
+  )
 
 
-geom_segment(data = filter(almanac_data, type == "record"), 
-             aes(y = min, yend = max)) +
-  geom_segment(data = filter(almanac_data, type == "today"), 
-               aes(y = min, yend = max)) +
-  geom_segment(data = filter(almanac_data, type == "normal"), 
-               aes(y = min, yend = max),
-               color = ) 
+
+# geom_segment(data = filter(almanac_data, type == "record"), 
+#              aes(y = min, yend = max)) +
+#   geom_segment(data = filter(almanac_data, type == "today"), 
+#                aes(y = min, yend = max)) +
+#   geom_segment(data = filter(almanac_data, type == "normal"), 
+#                aes(y = min, yend = max),
+#                color = ) 
 
 
 p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
