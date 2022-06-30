@@ -668,6 +668,16 @@ today_temp_history <- temp_history %>%
   filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
   mutate(date = ymd(as_date(central_time)))
 
+record_range <- today_temp_history %>%
+  select(temp) %>%
+  mutate(period = "Record") 
+
+seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
+           length.out = 100)
+records_range <- tibble(period = "Record",
+                        temp = seq)
+
+
 normals <- read_csv("data/normals.csv") %>%
   mutate(date = parse_date_time(date, "md")) %>%
   select(date, min, max)
@@ -676,8 +686,20 @@ normals_today <- normals %>%
   filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
   filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
 
+normals_longer <- normals_today %>%
+  pivot_longer(cols = c(min,max))
 
-almanac_data <- tibble(type = c("record","normal","today","current"),
+seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
+           length.out = 100)
+normals_range <- tibble(period = "Normal",
+                        temp = seq)
+
+temps <- full_join(records_range,normals_range) %>%
+  full_join(temps_today) %>%
+  full_join(temps_past_hour) %>%
+  select(period, temp)
+
+almanac_data <- tibble(period = c("Record","Normal","Today","Now"),
                        min = c(min(today_temp_history$temp),
                                normals_today$min,
                                min(temps_today$temp),
@@ -714,6 +736,64 @@ ggplot(almanac_longer, aes(x = 1,
     plot.caption = element_text(color = "grey70")
   )
 
+## plot----
+p <- ggplot(data = temps,
+       aes(x = period,
+           y = temp)) +
+  geom_hline(data = temps_past_hour, aes(yintercept = temp,
+                                         color = temp)) +
+  geom_line(data = temps,
+            aes(color = temp),
+            size = 4) +
+  geom_text(data = almanac_data,
+            aes(x = period,
+                y = min,
+                label = round(min)),
+            nudge_y = -2) +
+  geom_text(data = almanac_data,
+            aes(x = period,
+                y = max,
+                label = round(max)),
+            nudge_y = if_else( is.na(almanac_data$min),0, 2)) +
+  geom_text(data = almanac_data,
+            aes(x = period,
+                y = if_else( is.na(min),max, (min+max)/2),
+                label = period),
+            #vjust =.5,
+            angle = 90,
+            size = 3,
+            #nudge_y = 1,
+            nudge_x = -.2,
+            color = "grey60") +
+   scale_x_discrete(limits = c(
+     "Now",
+     "Today",
+     "Normal","Record"),
+     labels = NULL) +
+  scale_color_distiller(palette = "Spectral",
+                        guide = NULL) +
+  theme_minimal() +
+  scale_y_continuous(labels = NULL) +
+  labs(x = NULL,
+       y = NULL,
+       caption = "Source: OpenWeather, MRCC, NWS") +
+  theme(
+    axis.text.x = element_text(angle = 90),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    plot.caption = element_text(color = "grey70")
+  )
+p
+ggsave("plots/champaign_almanac_mobile.png", bg = "white",
+       width = 4, height = 8, dpi = 320)
+
+p +
+  theme(
+    plot.margin = margin(0,180,0,180)
+  )
+
+ggsave("plots/champaign_almanac.png", bg = "white",
+       width = 8, height = 8*(628/1200), dpi = 320)
 
 
 # geom_segment(data = filter(almanac_data, type == "record"), 
@@ -725,34 +805,37 @@ ggplot(almanac_longer, aes(x = 1,
 #                color = ) 
 
 
-p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
-  geom_point() +
-  geom_line() +
-  geom_text(nudge_x = .2) +
-  theme_minimal() +
-  #scale_color_discrete(
-  scale_y_continuous(labels = NULL) +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather, MRCC, NWS") +
-  theme(
-    legend.title = element_blank(),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey70")
-  )
-p
-
-ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 5, height = 8, dpi = 320)
-
-p +
-  theme(
-    plot.margin = margin(0,180,0,180)
-  )
-
-ggsave("plots/champaign_almanac.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
+# p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value),
+#                                 color = value)) +
+#   geom_hline(data = temps_past_hour, aes(yintercept = temp,
+#                                          color = temp)) +
+#   geom_line(size = 2) +
+#   geom_text(nudge_x = .2) +
+#   theme_minimal() +
+#   scale_color_distiller(palette = "Spectral",
+#                         guide = NULL) +
+#   scale_y_continuous(labels = NULL) +
+#   labs(x = NULL,
+#        y = NULL,
+#        caption = "Source: OpenWeather, MRCC, NWS") +
+#   theme(
+#     legend.title = element_blank(),
+#     plot.background = element_rect(fill = "white", color = "white"),
+#     panel.grid = element_blank(),
+#     plot.caption = element_text(color = "grey70")
+#   )
+# p
+# 
+# ggsave("plots/champaign_almanac_mobile.png", bg = "white",
+#        width = 5, height = 8, dpi = 320)
+# 
+# p +
+#   theme(
+#     plot.margin = margin(0,180,0,180)
+#   )
+# 
+# ggsave("plots/champaign_almanac.png", bg = "white",
+#        width = 8, height = 8*(628/1200), dpi = 320)
 
 
 # web text ----
@@ -780,6 +863,10 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   "</p>",
                   sep = "")
 
+today <- strftime(x = now, 
+                  tz = "US/Central",
+                  format = "%B %d")
+
 cat(
   "---
 layout: page
@@ -806,7 +893,7 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 
-## Temperature Comparison
+## Temperature History
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
@@ -814,7 +901,7 @@ Currently:
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-## Almanac
+## Almanac for ",today,":
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_almanac.png\"
