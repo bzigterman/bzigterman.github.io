@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
+ <p class="updated_time"> 03:24 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives Hong Kong for handover anniversary</a> BBC: It is President Xi Jinping's first visit outside mainland China in nearly two-and-a-half years. 
+ <p class="updated_time"> 03:19 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM and hold snap election in November</a> BBC: Yair Lapid will take over until the polls, with Benjamin Netanyahu aiming to return to power. 
+ <p class="updated_time"> 03:15 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
  <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843686/chinese-leader-xi-arrives-in-hong-kong-for-25th-anniversary-of-handover">Chinese leader Xi arrives in Hong Kong for 25th anniversary of handover</a> NPR: The Chinese leader is expected to speak about Hong Kong's future at a ceremony Friday marking the return of the former British colony to Chinese rule on July 1, 1997. 
  <p class="updated_time"> 01:51 AM CT, Jun. 30 </p> 
@@ -27,8 +35,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61991140?at_medium=RSS&at_campaign=KARANGA">Pride: Amazon restricts LGBT goods in United Arab Emirates</a> BBC: The online retail giant says it has to comply with the laws of the countries in which it operates. 
  <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
+ <p class="updated_time"> 11:21 PM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel to Hold New Elections After Parliament Dissolved</a> WSJ: The decision marks the end of the first Israeli coalition government to include an independent Arab party and sets the stage for the country’s fifth general election in less than four years. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
+ <p class="updated_time"> 07:59 PM CT, Jun. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-returns-to-growth-mode-as-covid-lockdowns-lift-11656565192">China's Economy Returns to Growth Mode as Covid Lockdowns Lift</a> WSJ: Economic activity expanded in June after three months of contraction, according to official surveys of businesses and factories, but economists are downbeat about the prospects for a major revival. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 07:12 PM CT, Jun. 29 </p> 
@@ -55,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
  <p class="updated_time"> 04:30 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel set to get new PM and hold fifth election in less than four years</a> BBC: Naftali Bennett will hand over power to Foreign Minister Yair Lapid once parliament dissolves itself. 
  <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jun. 29 </p> 
@@ -65,44 +75,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
- <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Israel welcomes Ben & Jerry's reversal over West Bank settlements</a> BBC: Unilever agrees a deal to continue selling the ice cream throughout Israel and the occupied West Bank. 
  <p class="updated_time"> 11:53 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine, Russia Exchange Prisoners as War Grinds On</a> WSJ: The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
- <p class="updated_time"> 11:35 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/iran-u-s-nuclear-deal-talks-end-without-progress-11656530571">Iran-U.S. Nuclear Talks End Without Progress</a> WSJ: Efforts to restore the 2015 nuclear deal face an uncertain future, with no fresh date set for negotiations to continue. 
- <p class="updated_time"> 10:59 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/deal-on-bigger-nato-likely-helps-turkeys-erdogan-shore-up-support-at-home-11656531914">Deal on Bigger NATO Likely Helps Turkey's Erdogan Build Support at Home</a> WSJ: In Turkey, President Recep Tayyip Erdogan’s backers already have begun spinning the deal as a victory. Mr. Erdogan’s support has collapsed in recent years amid a struggling economy. 
  <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
- <p class="updated_time"> 10:30 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/key-participant-in-2015-paris-attacks-convicted-to-life-in-prison-the-harshest-punishment-under-french-law-11656529648">Key Participant in 2015 Paris Terror Attacks Gets Life in Prison</a> WSJ: The conviction of Salah Abdeslam, the highest-profile participant in the November 2015 terror attacks, ends a brutal chapter in France’s yearslong struggle with terrorist groups. 
- <p class="updated_time"> 09:01 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/billionaire-mukesh-ambani-begins-putting-succession-plan-in-place-at-reliance-industries-11656525684">Billionaire Mukesh Ambani Begins Putting Succession Plan in Place</a> WSJ: The tycoon elevated his son Akash Ambani to chairman of the board of Reliance Jio Infocomm, providing welcome certainty for India’s most valuable conglomerate. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
  <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 06:01 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865">In Hong Kong, Young People's Hopes Fade 25 Years After Handover From U.K.</a> WSJ: As Hong Kong authorities roll out celebrations this week to commemorate a quarter-century under Chinese rule and inaugurate a new local government, one of their biggest challenges is to address the frustrated ambitions of the city’s younger population. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
  <p class="updated_time"> 04:02 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1107656228/the-end-of-roe-has-implications-for-abortion-rights-around-the-globe">The end of Roe has implications for abortion rights around the globe</a> NPR: International rights groups have long warned that overturning Roe v. Wade could weaken abortion rights in other countries, potentially leading some nations to adopt new restrictive laws. 
  <p class="updated_time"> 04:00 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1107604161/war-in-ukraine-is-driving-demand-for-africas-natural-gas-thats-controversial">War in Ukraine is driving demand for Africa's natural gas. That's controversial</a> NPR: The African natural gas industry is booming as Europe looks to replace Russian supplies. But some worry new African gas projects don't make financial sense in a warming world. 
- <p class="updated_time"> 04:00 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1107090873/how-elizabeth-cottens-music-fueled-the-folk-revival">How Elizabeth Cotten's music fueled the folk revival</a> NPR: Although inducted into the 2022 Rock & Roll Hall of Fame, her contributions haven't always been properly acknowledged. 
- <p class="updated_time"> 03:57 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/indian-state-on-edge-after-sectarian-killing-is-posted-on-social-media-11656507424">Indian State on Edge After Sectarian Killing Is Posted on Social Media</a> WSJ: Indian authorities banned gatherings and suspended internet services in the western state of Rajasthan after video of the killing of a Hindu man by two Muslim men was shared widely online, inflaming religious tensions. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
- <p class="updated_time"> 12:30 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506">Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</a> WSJ: Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.” 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
  <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
