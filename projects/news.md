@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30">Russia-Ukraine war: What happened today (June 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:55 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
+ <p class="updated_time"> 03:52 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62001165?at_medium=RSS&at_campaign=KARANGA">A Nato summit in Madrid for hawks</a> BBC: The BBC's Frank Gardner speaks to Nato leaders during the first summit since Russia invaded Ukraine. 
  <p class="updated_time"> 03:35 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
@@ -21,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002298?at_medium=RSS&at_campaign=KARANGA">Controversial Florida abortion ban blocked by court</a> BBC: A Florida judge has granted a temporary injunction against a law banning abortions after 15 weeks. 
  <p class="updated_time"> 12:49 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62003518?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson sworn in as first black woman on US top court</a> BBC: Justice Jackson will join the highest court in the US at a pivotal moment in its 233-year history. 
- <p class="updated_time"> 12:35 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 11:35 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
@@ -99,14 +103,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
- <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
- <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland's journey from neutral to Nato</a> BBC: It is a historic shift for the Nordic nations and Russia is vehemently opposed to the change. 
  <p class="updated_time"> 06:36 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA">Paris attacks: Survivors who found friendship in marathon terror trial</a> BBC: The 2015 Paris attacks left 130 people dead and some of the survivors have formed a unique bond. 
 
