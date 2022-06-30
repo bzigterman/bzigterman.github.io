@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a 'clear war crime,' Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
- <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
+ <p class="updated_time"> 11:35 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
+ <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
+ <p class="updated_time"> 11:24 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
+ <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
  <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
  <p class="updated_time"> 10:17 AM CT, Jun. 30 </p> 
@@ -29,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: The president says Hong Kong has "risen from the ashes" - critics accuse China of crushing freedoms. 
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
+ <p class="updated_time"> 07:20 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Russian Troops Withdraw From Ukraine's Snake Island</a> WSJ: Russian forces withdrew from a strategically important Ukrainian island on the Black Sea even as President Vladimir Putin said he wouldn’t set a deadline for the end of his war, now in its fifth month. 
  <p class="updated_time"> 06:59 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61993467?at_medium=RSS&at_campaign=KARANGA">R. Kelly survivors detail abuse in impact statements</a> BBC: Several of the disgraced singer's victims address him directly in court during his sentencing. 
  <p class="updated_time"> 06:57 AM CT, Jun. 30 </p> 
@@ -49,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
  <p class="updated_time"> 03:24 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-defuse-tension-with-moscow-over-russian-exclave-kaliningrad-11656591866">Europe Moves to Defuse Tension With Moscow Over Russian Exclave Kaliningrad</a> WSJ: Some EU capitals, including Germany, are concerned that Lithuania’s enforcement of the sanctions against Kaliningrad could trigger a dangerous escalation from the Kremlin 
- <p class="updated_time"> 03:21 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Russian Troops Withdraw From Ukraine's Snake Island</a> WSJ: Russian forces withdrew from a strategically important Ukrainian island on the Black Sea even as President Vladimir Putin said he wouldn’t set a deadline for the end of his war, now in its fifth month. 
  <p class="updated_time"> 03:15 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
  <p class="updated_time"> 03:13 AM CT, Jun. 30 </p> 
@@ -69,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61976940?at_medium=RSS&at_campaign=KARANGA">Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte</a> BBC: Ferdinand "Bongbong" Marcos Jr succeeds Rodrigo Duterte after a historic election win in May. 
  <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
- <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
  <p class="updated_time"> 06:12 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
- <p class="updated_time"> 05:52 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989617?at_medium=RSS&at_campaign=KARANGA">Paris attack: 'We still have our injuries, our traumas, our nightmares'</a> BBC: Survivors of the 2015 attacks spoke to the BBC after the sentencing of Salah Abdeslam and 19 others. 
  <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
@@ -114,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
+ <p class="updated_time"> 11:10 AM CT, Jun. 30 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/ketanji-brown-jackson-fractured-supreme-court/index.html">Ketanji Brown Jackson to join a Supreme Court in turmoil </a> CNN: Judge Ketanji Brown Jackson is set to join the Supreme Court on Thursday, making history as the first female African-American justice and beginning what could be a decades-long tenure. 
  <p class="updated_time"> 09:50 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case">Supreme Court to take on controversial election-law case </a> NPR: At issue is a legal theory that would give state legislatures unfettered authority to set the rules for  federal elections, free of supervision by the state courts and state constitutions. 
  <p class="updated_time"> 09:47 AM CT, Jun. 30 </p> 
@@ -135,17 +139,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843753/morning-news-brief">News brief: Supreme Court winds down, Biden news conference, election deniers</a> NPR: The Supreme Court will issue opinions in two remaining cases. President Biden wraps up a week of high-level meetings with allies in Europe. Election denialism evolves into a nationwide movement. 
  <p class="updated_time"> 04:01 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in">Ketanji Brown Jackson to be sworn in as first Black woman on the Supreme Court</a> NPR: Ketanji Brown Jackson, President Biden's first Supreme Court pick, will be sworn in as the 116th justice today at noon ET. She will be the first Black woman to serve on the nation's high court. 
+ <a href="https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in">Ketanji Brown Jackson sworn in as first Black woman on the Supreme Court</a> NPR: Ketanji Brown Jackson, President Biden's first Supreme Court pick, has been sworn in as the 116th justice. She is the first Black woman to serve on the nation's high court. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108814577/period-tracker-app-flo-privacy-roe-v-wade">Period tracker app Flo developing 'anonymous mode' to quell post-Roe privacy concerns</a> NPR: The period tracker app Flo is developing an "anonymous mode" in the wake of privacy concerns after the Supreme Court ruled to overturn Roe v. Wade. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108351562/roe-abortion-supreme-court-scotus-law">One man's outsized role in shaping the Supreme Court and overturning Roe</a> NPR: A dedicated minority of conservative activists has been working for decades to dismantle Roe v. Wade. One man in particular has played an outsized role in that effort: Leonard Leo. 
  <p class="updated_time"> 07:22 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108798387/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel">Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel</a> NPR: Testimony in the Jan. 6 hearings so far has shown Cipollone present at key points in the leadup to Jan. 6 and on the day of the attack. He figured heavily in Tuesday's testimony of Cassidy Hutchinson. 
- <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
- <p class="updated_time"> 02:41 PM CT, Jun. 29 </p> 
- <a href="https://www.cnn.com/2022/06/29/politics/ketanji-brown-jackson-fractured-supreme-court/index.html">Ketanji Brown Jackson to join a Supreme Court in turmoil </a> CNN: Judge Ketanji Brown Jackson is set to join the Supreme Court on Thursday, making history as the first female African-American justice and beginning what could be a decades-long tenure. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
