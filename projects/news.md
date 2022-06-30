@@ -9,20 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
+ <p class="updated_time"> 05:07 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM as Netanyahu targets comeback</a> BBC: Yair Lapid will take over until polls in November, with Benjamin Netanyahu aiming to return to power. 
+ <p class="updated_time"> 04:51 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Ben & Jerry's criticises resumption of sales in Israeli settlements</a> BBC: The ice cream maker is unhappy with Unilever's deal to continue sales in the occupied West Bank. 
+ <p class="updated_time"> 04:49 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
+ <p class="updated_time"> 04:37 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: He says Hong Kong has "risen from the ashes" but critics accuse China of crushing the main freedoms. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108720505/lgbtqia-envoys-human-rights-trans-rights-gay-marriage-criminalization">3 LGBTQ diplomats see opportunity and crisis for queer people around the world</a> NPR: Only four countries in the world have a high level diplomat specifically assigned to handle LGBTQ issues. We spoke to three of them to hear what their work has taught them. 
  <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
- <p class="updated_time"> 03:24 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives Hong Kong for handover anniversary</a> BBC: It is President Xi Jinping's first visit outside mainland China in nearly two-and-a-half years. 
- <p class="updated_time"> 03:19 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM and hold snap election in November</a> BBC: Yair Lapid will take over until the polls, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 03:15 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
  <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843686/chinese-leader-xi-arrives-in-hong-kong-for-25th-anniversary-of-handover">Chinese leader Xi arrives in Hong Kong for 25th anniversary of handover</a> NPR: The Chinese leader is expected to speak about Hong Kong's future at a ceremony Friday marking the return of the former British colony to Chinese rule on July 1, 1997. 
  <p class="updated_time"> 01:51 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
- <p class="updated_time"> 01:14 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/business-61990864?at_medium=RSS&at_campaign=KARANGA">Hello Kitty firm strikes China deal after viral hit</a> BBC: Shares of Japanese company Sanrio rose by almost 14% in Tokyo after the agreement was announced. 
+ <p class="updated_time"> 01:22 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel Sets New Election, Spotlighting Role of Arab Minority in Government</a> WSJ: As the country heads to its fifth election in less than four years, the role of Arab parties has emerged as a lightning rod, possibly driving a further rightward shift in the electorate and giving a boost to the fortunes of former premier Benjamin Netanyahu. 
  <p class="updated_time"> 12:56 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841337/ferdinand-marcos-jr-takes-oath-philippine-president">Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president</a> NPR: The namesake son of an ousted dictator is sworn in as Philippine president in one of the greatest political comebacks in recent history in the country. 
  <p class="updated_time"> 12:40 AM CT, Jun. 30 </p> 
@@ -35,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61991140?at_medium=RSS&at_campaign=KARANGA">Pride: Amazon restricts LGBT goods in United Arab Emirates</a> BBC: The online retail giant says it has to comply with the laws of the countries in which it operates. 
  <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
- <p class="updated_time"> 11:21 PM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel to Hold New Elections After Parliament Dissolved</a> WSJ: The decision marks the end of the first Israeli coalition government to include an independent Arab party and sets the stage for the country’s fifth general election in less than four years. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
  <p class="updated_time"> 07:59 PM CT, Jun. 29 </p> 
@@ -65,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717911/international-special-envoys-for-lgbtq-rights-talk-about-pride-around-the-world">International special envoys for LGBTQ rights talk about pride around the world</a> NPR: NPR's Ari Shapiro talks with envoys assigned to LGBTQ issues – the U.S.'s Jessica Stern, Italy's Fabrizio Petri and Argentina's Alba Rueda – about whether life is improving for queer people globally. 
- <p class="updated_time"> 04:30 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61983555?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US to ramp up military presence across Europe</a> BBC: President Biden announces a strengthening by "land, air and sea" over Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jun. 29 </p> 
@@ -89,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
  <p class="updated_time"> 04:02 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1107656228/the-end-of-roe-has-implications-for-abortion-rights-around-the-globe">The end of Roe has implications for abortion rights around the globe</a> NPR: International rights groups have long warned that overturning Roe v. Wade could weaken abortion rights in other countries, potentially leading some nations to adopt new restrictive laws. 
- <p class="updated_time"> 04:00 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1107604161/war-in-ukraine-is-driving-demand-for-africas-natural-gas-thats-controversial">War in Ukraine is driving demand for Africa's natural gas. That's controversial</a> NPR: The African natural gas industry is booming as Europe looks to replace Russian supplies. But some worry new African gas projects don't make financial sense in a warming world. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
@@ -108,6 +110,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108843830/election-denialism-has-evolved-into-a-sprawling-nationwide-force-that-s-gone-loc">Election denialism has evolved into a sprawling nationwide force that's gone local</a> NPR: Election deniers are spreading false narratives that there was rampant fraud in the 2020 election. NPR tracked four men who appeared at more than 300 events in 45 states and Washington, D.C. 
+ <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108843816/biden-is-wrapping-up-a-week-of-high-level-meetings-with-allies-in-europe">Biden is wrapping up a week of high-level meetings with allies in Europe</a> NPR: While in Europe, President Biden committed more U.S. troops to NATO and worked with G-7 leaders on Russia. Before heading home, he'll take questions about the domestic issues waiting for him. 
+ <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108843788/jan-6-committee-subpoenas-trumps-former-white-house-counsel-pat-cipollone">Jan. 6 committee subpoenas Trump's former White House counsel Pat Cipollone</a> NPR: The House Jan. 6 panel has issued a subpoena for former White House Counsel Pat Cipollone. The committee is asking him to appear for a deposition next week. 
+ <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108843753/morning-news-brief">News brief: Supreme Court winds down, Biden news conference, election deniers</a> NPR: The Supreme Court will issue opinions in two remaining cases. President Biden wraps up a week of high-level meetings with allies in Europe. Election denialism evolves into a nationwide movement. 
+ <p class="updated_time"> 04:01 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in">Ketanji Brown Jackson to be sworn in as first Black woman on the Supreme Court</a> NPR: Ketanji Brown Jackson, President Biden's first Supreme Court pick, will be sworn in as the 116th justice today at noon ET. She will be the first Black woman to serve on the nation's high court. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108814577/period-tracker-app-flo-privacy-roe-v-wade">Period tracker app Flo developing 'anonymous mode' to quell post-Roe privacy concerns</a> NPR: The period tracker app Flo is developing an "anonymous mode" in the wake of privacy concerns after the Supreme Court ruled to overturn Roe v. Wade. 
+ <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108351562/roe-abortion-supreme-court-scotus-law">One man's outsized role in shaping the Supreme Court and overturning Roe</a> NPR: A dedicated minority of conservative activists has been working for decades to dismantle Roe v. Wade. One man in particular has played an outsized role in that effort: Leonard Leo. 
  <p class="updated_time"> 07:22 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108798387/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel">Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel</a> NPR: Testimony in the Jan. 6 hearings so far has shown Cipollone present at key points in the leadup to Jan. 6 and on the day of the attack. He figured heavily in Tuesday's testimony of Cassidy Hutchinson. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
@@ -124,24 +140,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:44 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108573335/hutchinsons-bombshell-jan-6-testimony-sways-legal-experts-and-conservative-media">Hutchinson's bombshell Jan. 6 testimony sways legal experts and conservative media</a> NPR: The explosive testimony about former President Trump's actions on Jan. 6, 2021, has led to calls from some right-leaning outlets that Trump is unfit to serve in office. 
- <p class="updated_time"> 03:29 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108710363/what-weve-learned-so-far-about-jan-6">What we've learned so far about Jan. 6</a> NPR: House investigators have been building their case, presenting dozens of hours of testimony, showing how President Trump and his allies tried to overturn the results of the 2020 presidential election. 
- <p class="updated_time"> 01:15 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108635408/lev-parnas-sentenced-20-months">Giuliani associate Lev Parnas is sentenced to 20 months in prison</a> NPR: Lev Parnas, an associate of Rudy Giuliani who was a figure in President Donald Trump's first impeachment investigation, was sentenced Wednesday for fraud and campaign finance crimes. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:32 AM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/2022/06/28/politics/january-6-hearing-day-6-takeaways-hutchinson/index.html">7 takeaways from Tuesday's shocking January 6 hearing</a> CNN: The House select committee investigating the January 6, 2021, Capitol Hill insurrection reconvened Tuesday for a hastily scheduled hearing, featuring blockbuster testimony from Trump White House aide Cassidy Hutchinson. 
- <p class="updated_time"> 09:03 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108548298/pelosi-vatican-communion-abortion-rights">Pelosi receives Communion in the Vatican, despite her home archbishop refusing it</a> NPR: The head of the church in San Francisco has said the House Speaker can't receive the sacrament there because of her abortion rights support, but Pope Francis has avoided politicizing the Eucharist. 
- <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
- <p class="updated_time"> 06:21 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513197/rep-jamie-raskin-says-cassidy-hutchinson-is-a-very-credible-witness">Rep. Jamie Raskin says Cassidy Hutchinson is a very credible witness</a> NPR: NPR's A Martinez talks to Democrat Rep. Jamie Raskin of Maryland, who is also a Jan. 6 committee member, about some of the more significant revelations from the testimony of Cassidy Hutchinson. 
- <p class="updated_time"> 06:19 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513190/cassidy-hutchinson-provides-explosive-testimony-during-the-jan-6-hearing">Cassidy Hutchinson provides explosive testimony during the Jan. 6 hearing </a> NPR: The House panel heard bombshell testimony from the former Trump White House aide who detailed the former president's knowledge of the potential for violence on Jan. 6, and his outbursts of anger. 
- <p class="updated_time"> 05:01 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108042591/gun-control-student-activists">We asked 5 students: What inspired you to become a gun control activist?</a> NPR: NPR spoke with high school and college students who have been impacted by gun violence, and are now working to make sure others won't be. 
  <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
 
