@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:57 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
@@ -19,8 +21,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM as Netanyahu targets comeback</a> BBC: Yair Lapid will take over until polls in November, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 04:51 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Ben & Jerry's criticises resumption of sales in Israeli settlements</a> BBC: The ice cream maker is unhappy with Unilever's deal to continue sales in the occupied West Bank. 
- <p class="updated_time"> 04:49 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
  <p class="updated_time"> 04:37 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: He says Hong Kong has "risen from the ashes" but critics accuse China of crushing the main freedoms. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
@@ -64,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61914013?at_medium=RSS&at_campaign=KARANGA">Stranger Things: I pinch myself at my luck, says actor Jamie Campbell Bower</a> BBC: Actor Jamie Campbell Bower on why he feels fortunate to have a key role in the hit Netflix show. 
  <p class="updated_time"> 06:15 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">In pictures: V&A celebrates Africa's cutting-edge fashion</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
  <p class="updated_time"> 06:12 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
  <p class="updated_time"> 05:52 PM CT, Jun. 29 </p> 
