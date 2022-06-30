@@ -404,81 +404,6 @@ his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
 
 his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 
-# record_min, record_max, today_current, today_min, today_max, normal_min, normal_max
-today_temp_history <- temp_history %>%
-  select(temp, central_time) %>%
-  filter(month(central_time) == month(today(tzone = "America/Chicago"))) %>%
-  filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
-  mutate(date = ymd(as_date(central_time)))
-
-normals <- read_csv("data/normals.csv") %>%
-  mutate(date = parse_date_time(date, "md")) %>%
-  filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
-  filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
-
-
-
-
-almanac_data <- tibble(type = c("record","normal","today","current"),
-                       min = c(min(today_temp_history$temp),
-                               normals$min,
-                               min(temps_today$temp),
-                               as.numeric("NA")),
-                       max = c(max(today_temp_history$temp),
-                               normals$max,
-                               max(temps_today$temp),
-                               max(temps_past_hour$temp)))
-                       
-almanac_longer <- pivot_longer(almanac_data,
-                               cols = c(min,max)) %>%
-  mutate(type = recode_factor(type, 
-                               "current"       = "Current",
-                               "today"        = "Today",
-                               "normal"       = "Normal",
-                               "record"       = "Record"))
-
-                       
-ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
-  geom_point() +
-  geom_line() +
-  geom_text(nudge_x = .3) +
-  theme_minimal() +
-  #scale_color_discrete(
-  scale_y_continuous(labels = NULL) +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather, MRCC, NWS") +
-  theme(
-    legend.title = element_blank(),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey70")
-  )
-
-ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 5, height = 8, dpi = 320)
-
-ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
-  geom_point() +
-  geom_line() +
-  geom_text(nudge_x = .1) +
-  theme_minimal() +
-  #scale_color_discrete(
-  scale_y_continuous(labels = NULL) +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather, MRCC, NWS") +
-  theme(
-    legend.title = element_blank(),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey70")
-  )
-
-ggsave("plots/champaign_almanac.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
-
-
 # zones = list(
 #   c(value = 10,
 #     color = "#5e4fa2"),
@@ -732,6 +657,92 @@ ggplot(data = temps,
 
 ggsave("plots/temp_history_mobile.png", bg = "white",
        width = 4, height = 8*(628/1200), dpi = 320)
+
+
+# almanac ----
+
+# record_min, record_max, today_current, today_min, today_max, normal_min, normal_max
+today_temp_history <- temp_history %>%
+  select(temp, central_time) %>%
+  filter(month(central_time) == month(today(tzone = "America/Chicago"))) %>%
+  filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
+  mutate(date = ymd(as_date(central_time)))
+
+normals <- read_csv("data/normals.csv") %>%
+  mutate(date = parse_date_time(date, "md")) %>%
+  filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
+  filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
+
+almanac_data <- tibble(type = c("record","normal","today","current"),
+                       min = c(min(today_temp_history$temp),
+                               normals$min,
+                               min(temps_today$temp),
+                               as.numeric("NA")),
+                       max = c(max(today_temp_history$temp),
+                               normals$max,
+                               max(temps_today$temp),
+                               max(temps_past_hour$temp)))
+
+almanac_longer <- pivot_longer(almanac_data,
+                               cols = c(min,max)) %>%
+  mutate(type = recode_factor(type, 
+                              "current"       = "Current",
+                              "today"        = "Today",
+                              "normal"       = "Normal",
+                              "record"       = "Record"))
+
+ggplot(almanac_longer, aes(x = 1,
+                           y = value,
+                           size = type,
+                           color = type)) +
+  geom_line(data = filter(almanac_longer, type != "Current"),
+                          alpha = .5) +
+  scale_size_manual(values = c(12,6,3,1.5)) +
+  scale_color_manual(values = c("purple","black","yellow")) +
+  geom_point(data = filter(almanac_longer, type == "Current"),
+             color = "red",
+             size = 5) +
+  geom_text(data = almanac_longer, aes(label = value))
+
+
+geom_segment(data = filter(almanac_data, type == "record"), 
+             aes(y = min, yend = max)) +
+  geom_segment(data = filter(almanac_data, type == "today"), 
+               aes(y = min, yend = max)) +
+  geom_segment(data = filter(almanac_data, type == "normal"), 
+               aes(y = min, yend = max),
+               color = ) 
+
+
+p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
+  geom_point() +
+  geom_line() +
+  geom_text(nudge_x = .2) +
+  theme_minimal() +
+  #scale_color_discrete(
+  scale_y_continuous(labels = NULL) +
+  labs(x = NULL,
+       y = NULL,
+       caption = "Source: OpenWeather, MRCC, NWS") +
+  theme(
+    legend.title = element_blank(),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    plot.caption = element_text(color = "grey70")
+  )
+p
+
+ggsave("plots/champaign_almanac_mobile.png", bg = "white",
+       width = 5, height = 5, dpi = 320)
+
+p +
+  theme(
+    plot.margin = margin(0,180,0,180)
+  )
+
+ggsave("plots/champaign_almanac.png", bg = "white",
+       width = 8, height = 8*(628/1200), dpi = 320)
+
 
 # web text ----
 severe_weather_outlook_url <- 
