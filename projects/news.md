@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 AM CT, Jun. 30 </p> 
+ <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a 'clear war crime,' Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
+ <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
+ <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
+ <p class="updated_time"> 10:17 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1104033925/las-voces-de-victimas-de-crimenes-de-genero-en-argentina-a-traves-de-testimonios">Las voces de víctimas de crímenes de género en Argentina a través de testimonios</a> NPR: Un proyecto visual documenta a familiares, hermanos, padres y amigos de víctimas de crímenes de género en Argentina 
+ <p class="updated_time"> 10:15 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
+ <p class="updated_time"> 09:49 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
  <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
  <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
@@ -20,15 +30,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
  <p class="updated_time"> 06:59 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61993467?at_medium=RSS&at_campaign=KARANGA">Survivors confront R. Kelly in court: 'You destroyed so many lives'</a> BBC: Several of the disgraced singer's victims address him directly in court during his sentencing. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61993467?at_medium=RSS&at_campaign=KARANGA">R. Kelly survivors detail abuse in impact statements</a> BBC: Several of the disgraced singer's victims address him directly in court during his sentencing. 
  <p class="updated_time"> 06:57 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
- <p class="updated_time"> 05:37 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
  <p class="updated_time"> 05:35 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-economy-returns-to-growth-mode-as-covid-lockdowns-lift-11656565192">China's Economy Returns to Growth Mode as Covid-19 Lockdowns Lift</a> WSJ: Economic activity expanded in June after three months of contraction, according to official surveys of businesses and factories, but economists are downbeat about the prospects for a major revival. 
  <p class="updated_time"> 05:07 AM CT, Jun. 30 </p> 
@@ -91,14 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710365/ben-jerrys-corporate-owner-found-a-workaround-to-sell-ice-cream-in-the-west-bank">Ben & Jerry's' corporate owner found a workaround to sell ice cream in the West Bank</a> NPR: The corporate owner of Ben & Jerry's has made a deal to keep selling ice cream in Israel and its West Bank settlements, working around an attempt by the ice cream maker to protest Israeli occupation. 
  <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
- <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
- <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
- <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
- <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -114,14 +114,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case">Supreme Court to take on controversial election-law case </a> NPR: At issue is a legal theory that would give state legislatures unfettered authority to set the rules for  federal elections, free of supervision by the state courts and state constitutions. 
+ <p class="updated_time"> 09:47 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1107648753/supreme-court-north-carolina-redistricting-independent-state-legislature-theory">How the Supreme Court could radically reshape elections for president and Congress</a> NPR: The justices have agreed to hear a case next term about how much power state legislatures have over how congressional and presidential elections are run. It could upend election laws across the U.S. 
  <p class="updated_time"> 09:29 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108890878/liz-cheney-trump-domestic-threat">The U.S. is facing a domestic threat from Trump, Liz Cheney says</a> NPR: "Republicans cannot both be loyal to Donald Trump and loyal to the Constitution," Rep. Liz Cheney said in a speech at the Ronald Reagan Presidential Library. 
  <p class="updated_time"> 09:16 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1104015677/supreme-court-remain-in-mexico-rmm">Supreme Court sides with the Biden administration in 'Remain in Mexico' case</a> NPR: On a 5-4 vote, the U.S. Supreme Court handed the Biden administration a victory, allowing it to rescind the Trump-era Remain in Mexico policy. 
  <p class="updated_time"> 09:09 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1103595898/supreme-court-epa-climate-change">Supreme Court restricts the EPA's authority to mandate carbon emissions</a> NPR: The U.S. Supreme Court, in a 6-3 decision, ruled that the Environmental Protection Agency does not have the authority to mandate carbon emissions from existing power plants. 
+ <a href="https://www.npr.org/2022/06/30/1103595898/supreme-court-epa-climate-change">Supreme Court restricts the EPA's authority to mandate carbon emissions reductions</a> NPR: The U.S. Supreme Court, in a 6-3 decision, ruled that the Environmental Protection Agency does not have the authority to mandate carbon emissions from existing power plants. 
  <p class="updated_time"> 09:02 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden calls for a filibuster carveout to protect abortion rights</a> NPR: President Joe Biden said he would support changing the filibuster rules in the Senate to ensure that privacy rights, including abortion rights, are enshrined into law. 
+ <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden says he supports change in Senate filibuster rules for abortion rights</a> NPR: President Biden has resisted changes to Senate rules requiring 60 votes to pass legislation. But he says he would support changing the filibuster to codify privacy rights, including abortion rights. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843830/election-denialism-has-evolved-into-a-sprawling-nationwide-force-that-s-gone-loc">Election denialism has evolved into a sprawling nationwide force that's gone local</a> NPR: Election deniers are spreading false narratives that there was rampant fraud in the 2020 election. NPR tracked four men who appeared at more than 300 events in 45 states and Washington, D.C. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
@@ -140,14 +144,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108798387/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel">Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel</a> NPR: Testimony in the Jan. 6 hearings so far has shown Cipollone present at key points in the leadup to Jan. 6 and on the day of the attack. He figured heavily in Tuesday's testimony of Cassidy Hutchinson. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
- <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108717888/the-deaths-of-migrants-in-san-antonio-has-put-a-spotlight-on-the-immigration-iss">The deaths of migrants in San Antonio has put a spotlight on the immigration issue</a> NPR: The deaths of 53 smuggled in a semi-truck in Texas have thrown immigration into headlines ahead of midterms. Republicans blame Biden for loosening Trump's policies. Immigrant advocates fault Title 42. 
- <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108717849/rep-pramila-jayapal-d-wash-supports-a-national-strike-over-roes-demise">Rep. Pramila Jayapal, D-Wash., supports a national strike over Roe's demise</a> NPR: NPR's Juana Summers talks with Rep. Pramila Jayapal, chair of the Congressional Progressive Caucus, about protecting abortion rights — which has long been among the Democratic party's central causes. 
+ <p class="updated_time"> 02:41 PM CT, Jun. 29 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/ketanji-brown-jackson-fractured-supreme-court/index.html">Ketanji Brown Jackson to join a Supreme Court in turmoil </a> CNN: Judge Ketanji Brown Jackson is set to join the Supreme Court on Thursday, making history as the first female African-American justice and beginning what could be a decades-long tenure. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
- <a href="https://www.cnn.com/2022/06/29/politics/breyer-supreme-court/index.html">Breyer makes it official: He's leaving the Supreme Court on Thursday at noon</a> CNN: Justice Stephen Breyer has notified the White House that his retirement will be effective Thursday, June 30, at noon ET. 
 
 
 </details>
