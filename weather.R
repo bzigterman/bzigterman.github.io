@@ -711,30 +711,30 @@ almanac_data <- tibble(period = c("Record","Normal","Today","Now"),
 
 almanac_longer <- pivot_longer(almanac_data,
                                cols = c(min,max)) %>%
-  mutate(type = recode_factor(type, 
+  mutate(period = recode_factor(period, 
                               "current"       = "Current",
                               "today"        = "Today",
                               "normal"       = "Normal",
                               "record"       = "Record"))
 
-ggplot(almanac_longer, aes(x = 1,
-                           y = value,
-                           size = type,
-                           color = type)) +
-  geom_line(data = filter(almanac_longer, type != "Current"),
-                          alpha = .5) +
-  scale_size_manual(values = c(6,3,1.5)) +
-  scale_color_manual(values = c("purple","black","yellow")) +
-  geom_point(data = filter(almanac_longer, type == "Current"),
-             color = "red",
-             size = 5) +
-  theme_minimal() +
-  theme(
-    legend.title = element_blank(),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey70")
-  )
+# ggplot(almanac_longer, aes(x = 1,
+#                            y = value,
+#                            size = period,
+#                            color = period)) +
+#   geom_line(data = filter(almanac_longer, period != "Current"),
+#                           alpha = .5) +
+#   scale_size_manual(values = c(6,3,1.5)) +
+#   scale_color_manual(values = c("purple","black","yellow")) +
+#   geom_point(data = filter(almanac_longer, period == "Current"),
+#              color = "red",
+#              size = 5) +
+#   theme_minimal() +
+#   theme(
+#     legend.title = element_blank(),
+#     plot.background = element_rect(fill = "white", color = "white"),
+#     panel.grid = element_blank(),
+#     plot.caption = element_text(color = "grey70")
+#   )
 
 ## plot----
 p <- ggplot(data = temps,
