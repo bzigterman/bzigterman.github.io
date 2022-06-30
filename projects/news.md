@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
+ <p class="updated_time"> 12:04 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61991140?at_medium=RSS&at_campaign=KARANGA">Pride: Amazon restricts LGBT goods in United Arab Emirates</a> BBC: The online retail giant says it has to comply with the laws of the countries in which it operates. 
  <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 11:09 PM CT, Jun. 29 </p> 
@@ -27,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
- <p class="updated_time"> 06:23 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
  <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61914013?at_medium=RSS&at_campaign=KARANGA">Stranger Things: I pinch myself at my luck, says actor Jamie Campbell Bower</a> BBC: Actor Jamie Campbell Bower on why he feels fortunate to have a key role in the hit Netflix show. 
  <p class="updated_time"> 06:15 PM CT, Jun. 29 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
  <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 06:30 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
  <p class="updated_time"> 06:01 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865">In Hong Kong, Young People's Hopes Fade 25 Years After Handover From U.K.</a> WSJ: As Hong Kong authorities roll out celebrations this week to commemorate a quarter-century under Chinese rule and inaugurate a new local government, one of their biggest challenges is to address the frustrated ambitions of the city’s younger population. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
