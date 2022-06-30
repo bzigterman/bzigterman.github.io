@@ -9,10 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61990913?at_medium=RSS&at_campaign=KARANGA">Living through Japan's hottest summer on record</a> BBC: Japan is experiencing record-breaking heat - and summer has hardly begun. 
+ <p class="updated_time"> 06:22 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62002472?at_medium=RSS&at_campaign=KARANGA">Sri Lanka fuel crisis: Waiting for days to get fuel</a> BBC: Even taxi drivers and car salesmen are forced into two-day mile-long queues for petrol in Sri Lanka. 
+ <p class="updated_time"> 06:19 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61901033?at_medium=RSS&at_campaign=KARANGA">Life inside the Dutch earthquake zone</a> BBC: Homes damaged by gas extraction are propped up with wooden beams while residents suffer health issues. 
+ <p class="updated_time"> 06:16 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61966317?at_medium=RSS&at_campaign=KARANGA">Russia's elite 331st paras regiment fight for public support</a> BBC: In the thick of the Donbas battle, the paras regiment is trapped in a conflict that is costing many lives. 
+ <p class="updated_time"> 06:07 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Xi Jinping in Hong Kong to mark 25 years of handover</a> BBC: Chinese leader Xi Jinping will attend in what is his first trip outside mainland China since early 2020. 
+ <p class="updated_time"> 06:03 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
+ <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61996296?at_medium=RSS&at_campaign=KARANGA">Assam: 'I saw my husband die as flood water rose around us'</a> BBC: Millions in India’s Assam state are struggling to piece together their lives after devastating floods. 
+ <p class="updated_time"> 04:31 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109087285/pro-cyclist-texas-murder-arrest-costa-rica">A Texas woman accused in a pro cyclist's death is arrested in Costa Rica</a> NPR: Kaitlin Marie Armstrong (shown), suspected in the fatal shooting of professional cyclist Anna Moriah Wilson at an Austin home, has been arrested in Costa Rica, the U.S. Marshals Service said Thursday. 
+ <p class="updated_time"> 04:28 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel gets new PM as Netanyahu targets comeback</a> BBC: Yair Lapid takes over until polls in November, with Benjamin Netanyahu aiming to return to power. 
+ <p class="updated_time"> 04:25 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
+ <p class="updated_time"> 04:24 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host who is Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter takes the top office for the first time. 
  <p class="updated_time"> 04:01 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30">Russia-Ukraine war: What happened today (June 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:55 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 03:52 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62001165?at_medium=RSS&at_campaign=KARANGA">A Nato summit in Madrid for hawks</a> BBC: The BBC's Frank Gardner speaks to Nato leaders during the first summit since Russia invaded Ukraine. 
  <p class="updated_time"> 03:35 PM CT, Jun. 30 </p> 
@@ -49,12 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">U.S. to Support Ukraine for 'as Long as It Takes,' Biden Says</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
  <p class="updated_time"> 08:38 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/monkeypoxs-unusual-spread-in-democratic-republic-of-congo-puzzles-researchers-11656610703">Monkeypox's Unusual Spread in Democratic Republic of Congo Puzzles Researchers</a> WSJ: Monkeypox has been reported in the DRC for decades, but the virus is now being found in provinces where it had never before been seen. So far, researchers don’t know why. 
- <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
  <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61993157?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin hits back at G7 leaders' topless photo jibes</a> BBC: Russia's president says it would be "disgusting" to see leaders who mocked his macho image strip off. 
- <p class="updated_time"> 07:40 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: The president says Hong Kong has "risen from the ashes" - critics accuse China of crushing freedoms. 
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
  <p class="updated_time"> 06:59 AM CT, Jun. 30 </p> 
@@ -65,16 +81,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
- <p class="updated_time"> 05:07 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM as Netanyahu targets comeback</a> BBC: Yair Lapid will take over until polls in November, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 04:51 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Ben & Jerry's criticises resumption of sales in Israeli settlements</a> BBC: The ice cream maker is unhappy with Unilever's deal to continue sales in the occupied West Bank. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108720505/lgbtqia-envoys-human-rights-trans-rights-gay-marriage-criminalization">3 LGBTQ diplomats see opportunity and crisis for queer people around the world</a> NPR: Only four countries in the world have a high level diplomat specifically assigned to handle LGBTQ issues. We spoke to three of them to hear what their work has taught them. 
  <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
- <p class="updated_time"> 03:15 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
  <p class="updated_time"> 03:13 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-key-allies-close-ranks-against-china-11656591213">U.S., Key Allies Close Ranks Against China</a> WSJ: The U.S. and allies across Europe and Asia view China as a shared security challenge, more troubling for its support for Russia amid the Ukraine war. 
  <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
@@ -101,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
  <p class="updated_time"> 06:12 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
- <p class="updated_time"> 04:41 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108376226/the-region-responsible-for-40-of-italys-agriculture-faces-worst-drought-in-70-ye">The region responsible for 40% of Italy's agriculture faces worst drought in 70 years</a> NPR: Italy's agricultural heartland is suffering its worst drought in 70 years. Authorities are struggling to deal with the situation and save as much of the country's harvest as possible. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -116,6 +126,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109051844/a-crop-of-candidates-are-insisting-they-won-their-elections-despite-not-being-cl">A crop of candidates are insisting they won their elections, despite not being close</a> NPR: Some candidates who finished way down in Georgia's primaries have said their elections were tainted by fraud, and at least one is fundraising off of that. 
+ <p class="updated_time"> 04:15 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1107260645/the-effect-the-supreme-courts-climate-decision-may-have">The effect the Supreme Court's climate decision may have</a> NPR: The U.S. Supreme Court ruled that the Environment Protection Agency does not have the authority to mandate carbon emissions reductions from existing power plants. 
  <p class="updated_time"> 03:42 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051809/immigration-advocates-are-cheering-the-supreme-courts-decision-on-remain-in-mexi">Immigration advocates are cheering the Supreme Court's decision on 'Remain in Mexico'</a> NPR: The Supreme Court sided with the Biden administration in a major immigration ruling. The Court says the government can roll back the so-called "Remain in Mexico" policy implemented by President Trump. 
  <p class="updated_time"> 03:27 PM CT, Jun. 30 </p> 
@@ -148,10 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden says he supports change in Senate filibuster rules for abortion rights</a> NPR: President Biden has resisted changes to Senate rules requiring 60 votes to pass legislation. But he says he would support changing the filibuster to codify privacy rights, including abortion rights. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843830/election-denialism-has-evolved-into-a-sprawling-nationwide-force-that-s-gone-loc">Election denialism has evolved into a sprawling nationwide force that's gone local</a> NPR: Election deniers are spreading false narratives that there was rampant fraud in the 2020 election. NPR tracked four men who appeared at more than 300 events in 45 states and Washington, D.C. 
- <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108843816/biden-is-wrapping-up-a-week-of-high-level-meetings-with-allies-in-europe">Biden is wrapping up a week of high-level meetings with allies in Europe</a> NPR: While in Europe, President Biden committed more U.S. troops to NATO and worked with G-7 leaders on Russia. Before heading home, he'll take questions about the domestic issues waiting for him. 
- <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108843788/jan-6-committee-subpoenas-trumps-former-white-house-counsel-pat-cipollone">Jan. 6 committee subpoenas Trump's former White House counsel Pat Cipollone</a> NPR: The House Jan. 6 panel has issued a subpoena for former White House Counsel Pat Cipollone. The committee is asking him to appear for a deposition next week. 
 
 
 </details>
