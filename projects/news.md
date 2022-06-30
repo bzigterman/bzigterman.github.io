@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62001162?at_medium=RSS&at_campaign=KARANGA">Danish mink cull: PM Frederiksen and officials heavily criticised</a> BBC: Mette Frederiksen is found to have misled the public while officials are accused of misconduct. 
  <p class="updated_time"> 01:02 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62002298?at_medium=RSS&at_campaign=KARANGA">Controversial Florida abortion ban blocked by court</a> BBC: A Florida judge has granted a temporary injunction against a law banning abortions after 15 weeks 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62002298?at_medium=RSS&at_campaign=KARANGA">Controversial Florida abortion ban blocked by court</a> BBC: A Florida judge has granted a temporary injunction against a law banning abortions after 15 weeks. 
  <p class="updated_time"> 12:49 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62003518?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson sworn in as first black woman on US top court</a> BBC: Justice Jackson will join the highest court in the US at a pivotal moment in its 233-year history. 
  <p class="updated_time"> 12:35 PM CT, Jun. 30 </p> 
@@ -25,7 +27,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
  <p class="updated_time"> 10:40 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/weather/features/62001812?at_medium=RSS&at_campaign=KARANGA">Europe heatwave breaks multiple June records</a> BBC: An oppressive heatwave has broken temperature records from the Arctic Circle to North Africa. 
- <p class="updated_time"> 10:19 AM CT, Jun. 30 </p> 
+ <p class="updated_time"> 10:32 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/biden-backs-f-16-sales-to-turkey-amid-deal-to-expand-nato-11656611001">Biden Backs F-16 Sales to Turkey Amid Deal to Expand NATO</a> WSJ: The president’s comments on a jet-fighters agreement follow a decision by Turkish President Recep Tayyip Erdogan to drop a threatened veto of Sweden and Finland’s membership in the alliance. 
  <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29">Russia-Ukraine war: What happened today (June 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108710365/ben-jerrys-corporate-owner-found-a-workaround-to-sell-ice-cream-in-the-west-bank">Ben & Jerry's' corporate owner found a workaround to sell ice cream in the West Bank</a> NPR: The corporate owner of Ben & Jerry's has made a deal to keep selling ice cream in Israel and its West Bank settlements, working around an attempt by the ice cream maker to protest Israeli occupation. 
- <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -116,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:52 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6">Election deniers have taken their fraud theories on tour — to nearly every state</a> NPR: Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide. 
  <p class="updated_time"> 01:55 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108737968/federal-websites-accessible-disabled">DOJ fails to report on making federal websites accessible to disabled people</a> NPR: It has been 10 years since the Justice Department filed a report on the government's compliance with IT accessibility standards, a group of concerned senators say. Now they are asking for answers. 
  <p class="updated_time"> 12:57 PM CT, Jun. 30 </p> 
@@ -148,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108843753/morning-news-brief">News brief: Supreme Court winds down, Biden news conference, election deniers</a> NPR: The Supreme Court will issue opinions in two remaining cases. President Biden wraps up a week of high-level meetings with allies in Europe. Election denialism evolves into a nationwide movement. 
  <p class="updated_time"> 04:01 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in">Ketanji Brown Jackson sworn in as first Black woman on the Supreme Court</a> NPR: Ketanji Brown Jackson, President Biden's first Supreme Court pick, has been sworn in as the 116th justice. She is the first Black woman to serve on the nation's high court. 
- <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108814577/period-tracker-app-flo-privacy-roe-v-wade">Period tracker app Flo developing 'anonymous mode' to quell post-Roe privacy concerns</a> NPR: The period tracker app Flo is developing an "anonymous mode" in the wake of privacy concerns after the Supreme Court ruled to overturn Roe v. Wade. 
 
 
 </details>
