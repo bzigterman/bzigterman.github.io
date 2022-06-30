@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: The president says Hong Kong has "risen from the ashes" - critics accuse China of crushing freedoms. 
  <p class="updated_time"> 06:57 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/61992802?at_medium=RSS&at_campaign=KARANGA">Ex-F1 boss Ecclestone says he'd take a bullet for Putin</a> BBC: Formula 1 says comments by the sport's former boss Bernie Ecclestone on Vladimir Putin and racism are in "stark contrast" to "modern values". 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
@@ -21,18 +23,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM as Netanyahu targets comeback</a> BBC: Yair Lapid will take over until polls in November, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 04:51 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61985652?at_medium=RSS&at_campaign=KARANGA">Ben & Jerry's criticises resumption of sales in Israeli settlements</a> BBC: The ice cream maker is unhappy with Unilever's deal to continue sales in the occupied West Bank. 
- <p class="updated_time"> 04:37 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61991980?at_medium=RSS&at_campaign=KARANGA">China's President Xi arrives in Hong Kong for handover anniversary</a> BBC: He says Hong Kong has "risen from the ashes" but critics accuse China of crushing the main freedoms. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108720505/lgbtqia-envoys-human-rights-trans-rights-gay-marriage-criminalization">3 LGBTQ diplomats see opportunity and crisis for queer people around the world</a> NPR: Only four countries in the world have a high level diplomat specifically assigned to handle LGBTQ issues. We spoke to three of them to hear what their work has taught them. 
  <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
+ <p class="updated_time"> 03:24 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/europe-moves-to-defuse-tension-with-moscow-over-russian-exclave-kaliningrad-11656591866">Europe Moves to Defuse Tension With Moscow Over Russian Exclave Kaliningrad</a> WSJ: Some EU capitals, including Germany, are concerned that Lithuania’s enforcement of the sanctions against Kaliningrad could trigger a dangerous escalation from the Kremlin 
+ <p class="updated_time"> 03:21 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Russian Troops Withdraw From Ukraine's Snake Island</a> WSJ: Russian forces withdrew from a strategically important Ukrainian island on the Black Sea even as President Vladimir Putin said he wouldn’t set a deadline for the end of his war, now in its fifth month. 
  <p class="updated_time"> 03:15 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host set to be Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter will take the top office for the first time. 
+ <p class="updated_time"> 03:13 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/u-s-key-allies-close-ranks-against-china-11656591213">U.S., Key Allies Close Ranks Against China</a> WSJ: The U.S. and allies across Europe and Asia view China as a shared security challenge, more troubling for its support for Russia amid the Ukraine war. 
  <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843686/chinese-leader-xi-arrives-in-hong-kong-for-25th-anniversary-of-handover">Chinese leader Xi arrives in Hong Kong for 25th anniversary of handover</a> NPR: The Chinese leader is expected to speak about Hong Kong's future at a ceremony Friday marking the return of the former British colony to Chinese rule on July 1, 1997. 
  <p class="updated_time"> 01:51 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
+ <p class="updated_time"> 01:34 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinping-visits-hong-kong-to-mark-anniversary-cap-crushing-of-dissent-11656585292">Xi Jinping Visits Hong Kong to Mark Anniversary, Capping Crushing of Dissent</a> WSJ: The visit to commemorate 25 years since Britain returned the city to Beijing, marked a milestone in the Chinese leader’s pledge to deliver a strong and unified nation as he moves to extend his rule. 
  <p class="updated_time"> 01:22 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel Sets New Election, Spotlighting Role of Arab Minority in Government</a> WSJ: As the country heads to its fifth election in less than four years, the role of Arab parties has emerged as a lightning rod, possibly driving a further rightward shift in the electorate and giving a boost to the fortunes of former premier Benjamin Netanyahu. 
  <p class="updated_time"> 12:56 AM CT, Jun. 30 </p> 
@@ -83,20 +91,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:39 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108715478/paris-attacks-2015-conviction-life-sentence">20 men are convicted in the 2015 Paris terror attacks; one sentenced to life in prison</a> NPR: The deadliest peacetime attacks in French history killed 130 people. Chief suspect Salah Abdeslam was found guilty of murder and attempted murder in relation to a terrorist enterprise. 
- <p class="updated_time"> 11:53 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine, Russia Exchange Prisoners as War Grinds On</a> WSJ: The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
- <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
- <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
  <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
@@ -140,12 +142,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
  <p class="updated_time"> 03:44 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108573335/hutchinsons-bombshell-jan-6-testimony-sways-legal-experts-and-conservative-media">Hutchinson's bombshell Jan. 6 testimony sways legal experts and conservative media</a> NPR: The explosive testimony about former President Trump's actions on Jan. 6, 2021, has led to calls from some right-leaning outlets that Trump is unfit to serve in office. 
+ <p class="updated_time"> 02:41 PM CT, Jun. 29 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/ketanji-brown-jackson-fractured-supreme-court/index.html">Ketanji Brown Jackson to join a Supreme Court in turmoil </a> CNN: Judge Ketanji Brown Jackson is set to join the Supreme Court on Thursday, making history as the first female African-American justice and beginning what could be a decades-long tenure. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 10:32 AM CT, Jun. 29 </p> 
- <a href="https://www.cnn.com/2022/06/28/politics/january-6-hearing-day-6-takeaways-hutchinson/index.html">7 takeaways from Tuesday's shocking January 6 hearing</a> CNN: The House select committee investigating the January 6, 2021, Capitol Hill insurrection reconvened Tuesday for a hastily scheduled hearing, featuring blockbuster testimony from Trump White House aide Cassidy Hutchinson. 
- <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
- <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
+ <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/breyer-supreme-court/index.html">Breyer makes it official: He's leaving the Supreme Court on Thursday at noon</a> CNN: Justice Stephen Breyer has notified the White House that his retirement will be effective Thursday, June 30, at noon ET. 
 
 
 </details>
