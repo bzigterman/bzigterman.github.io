@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
+ <p class="updated_time"> 11:09 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61976940?at_medium=RSS&at_campaign=KARANGA">Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte</a> BBC: Ferdinand "Bongbong" Marcos Jr succeeds Rodrigo Duterte after a historic election win in May. 
+ <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
+ <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 07:12 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61979873?at_medium=RSS&at_campaign=KARANGA">Russia's attack on Mariupol theatre a clear war crime, Amnesty says</a> BBC: Russian forces likely targeted the building knowing it was a shelter for civilians, the group says. 
  <p class="updated_time"> 06:56 PM CT, Jun. 29 </p> 
@@ -17,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
- <p class="updated_time"> 06:29 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61976839?at_medium=RSS&at_campaign=KARANGA">Mahabaleshwar: India’s fragile hill states choke under tourist rush</a> BBC: Some of India’s most ecologically sensitive hill retreats are being swamped by a rush of holidaymakers. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
  <p class="updated_time"> 06:23 PM CT, Jun. 29 </p> 
@@ -69,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61976836?at_medium=RSS&at_campaign=KARANGA">Udaipur: India state on alert after Prophet Muhammad row beheading</a> BBC: Two Muslim men in Rajasthan killed a Hindu tailor who backed controversial remarks about the Prophet Muhammad. 
  <p class="updated_time"> 09:01 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/billionaire-mukesh-ambani-begins-putting-succession-plan-in-place-at-reliance-industries-11656525684">Billionaire Mukesh Ambani Begins Putting Succession Plan in Place</a> WSJ: The tycoon elevated his son Akash Ambani to chairman of the board of Reliance Jio Infocomm, providing welcome certainty for India’s most valuable conglomerate. 
- <p class="updated_time"> 08:13 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61980555?at_medium=RSS&at_campaign=KARANGA">Nato summit: Turkey pushes Finland and Sweden on extradition after deal</a> BBC: It calls for the handover of 33 "terror" suspects after a deal to let Finland and Sweden join Nato. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
  <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61981785?at_medium=RSS&at_campaign=KARANGA">Bruce's Beach returned to family nearly a century after seizure</a> BBC: A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure. 
  <p class="updated_time"> 06:01 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865">In Hong Kong, Young People's Hopes Fade 25 Years After Handover From U.K.</a> WSJ: As Hong Kong authorities roll out celebrations this week to commemorate a quarter-century under Chinese rule and inaugurate a new local government, one of their biggest challenges is to address the frustrated ambitions of the city’s younger population. 
- <p class="updated_time"> 04:27 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61978727?at_medium=RSS&at_campaign=KARANGA">Ukraine war: CCTV shows missile striking shopping mall in Kremenchuk</a> BBC: Ukraine's President Zelensky releases footage of missile strike, which killed at least 18 people. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
  <p class="updated_time"> 04:02 AM CT, Jun. 29 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/28/1108493651/the-first-woman-speaker-of-frances-parliament-defends-the-right-to-abortion">The first woman speaker of France's parliament defends the right to abortion</a> NPR: The National Assembly elects Yael Braun-Pivet as speaker as it prepares to tackle proposals on fighting inflation and enshrining abortion rights in the French Constitution. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
- <p class="updated_time"> 08:49 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61976369?at_medium=RSS&at_campaign=KARANGA">Fossils: Cave woman one million years older than thought</a> BBC: New research complicates our current understanding of where humans came from. 
  <p class="updated_time"> 07:39 PM CT, Jun. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61870699?at_medium=RSS&at_campaign=KARANGA">National Sample Survey: How India taught the world the art of collecting data</a> BBC: India was once a trailblazer in data collection, but its reputation is taking a beating now. 
  <p class="updated_time"> 06:55 PM CT, Jun. 28 </p> 
