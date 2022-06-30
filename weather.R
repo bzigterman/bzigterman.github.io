@@ -706,6 +706,7 @@ ggplot(almanac_longer, aes(x = 1,
   geom_point(data = filter(almanac_longer, type == "Current"),
              color = "red",
              size = 5) +
+  theme_minimal() +
   theme(
     legend.title = element_blank(),
     plot.background = element_rect(fill = "white", color = "white"),
@@ -743,7 +744,7 @@ p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value))) +
 p
 
 ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 5, height = 5, dpi = 320)
+       width = 5, height = 8, dpi = 320)
 
 p +
   theme(
