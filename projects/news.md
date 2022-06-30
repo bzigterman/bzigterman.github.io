@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:12 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61979873?at_medium=RSS&at_campaign=KARANGA">Russia's attack on Mariupol theatre a clear war crime, Amnesty says</a> BBC: Russian forces likely targeted the building knowing it was a shelter for civilians, the group says. 
+ <p class="updated_time"> 06:56 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
+ <p class="updated_time"> 06:41 PM CT, Jun. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the US makes sure that the country has the means to repel Russian aggression. 
+ <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 06:29 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61976839?at_medium=RSS&at_campaign=KARANGA">Mahabaleshwar: India’s fragile hill states choke under tourist rush</a> BBC: Some of India’s most ecologically sensitive hill retreats are being swamped by a rush of holidaymakers. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
@@ -25,10 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
  <p class="updated_time"> 05:52 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61989617?at_medium=RSS&at_campaign=KARANGA">Paris attack: 'We still have our injuries, our traumas, our nightmares'</a> BBC: Survivors of the 2015 attacks spoke to the BBC after the sentencing of Salah Abdeslam and 19 others. 
- <p class="updated_time"> 05:24 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61989354?at_medium=RSS&at_campaign=KARANGA">Paris trial: Salah Abdeslam guilty as historic trial ends</a> BBC: Salah Abdeslam and 19 others convicted over the 2015 attacks which killed 130 people across Paris. 
- <p class="updated_time"> 05:05 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61989606?at_medium=RSS&at_campaign=KARANGA">R. Kelly given 30 years in jail for sex abuse</a> BBC: The singer was found to have used his celebrity status to sexually abuse children and women. 
  <p class="updated_time"> 04:57 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990365?at_medium=RSS&at_campaign=KARANGA">Survivor makes tearful statement after R. Kelly sentencing</a> BBC: Lizzette Martinez tells reporters outside the New York court she is grateful for the 30-year sentence. 
  <p class="updated_time"> 04:53 PM CT, Jun. 29 </p> 
@@ -92,8 +94,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61976937?at_medium=RSS&at_campaign=KARANGA">Japan swelters in its worst heatwave ever recorded</a> BBC: Unrelenting temperatures break records for June as officials warn of a looming power shortage. 
- <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-drives-a-quantum-leap-in-nato-weaponry-11656498597">Russia's Ukraine War Drives Gains in NATO Weaponry</a> WSJ: The alliance’s former East Bloc members are getting new, modernized arsenals to replace former Soviet weapons they sent to Ukraine, honing NATO’s ability to face off against Russia. 
  <p class="updated_time"> 12:30 AM CT, Jun. 29 </p> 
  <a href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506">Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</a> WSJ: Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.” 
@@ -124,8 +124,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:22 PM CT, Jun. 29 </p> 
+ <a href="https://www.npr.org/2022/06/29/1108798387/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel">Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel</a> NPR: Testimony in the Jan. 6 hearings so far has shown Cipollone present at key points in the leadup to Jan. 6 and on the day of the attack. He figured heavily in Tuesday's testimony of Cassidy Hutchinson. 
  <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the US makes sure that the country has the means to repel Russian aggression. 
+ <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 04:35 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108717888/the-deaths-of-migrants-in-san-antonio-has-put-a-spotlight-on-the-immigration-iss">The deaths of migrants in San Antonio has put a spotlight on the immigration issue</a> NPR: The deaths of 53 smuggled in a semi-truck in Texas have thrown immigration into headlines ahead of midterms. Republicans blame Biden for loosening Trump's policies. Immigrant advocates fault Title 42. 
  <p class="updated_time"> 04:14 PM CT, Jun. 29 </p> 
@@ -156,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108513190/cassidy-hutchinson-provides-explosive-testimony-during-the-jan-6-hearing">Cassidy Hutchinson provides explosive testimony during the Jan. 6 hearing </a> NPR: The House panel heard bombshell testimony from the former Trump White House aide who detailed the former president's knowledge of the potential for violence on Jan. 6, and his outbursts of anger. 
  <p class="updated_time"> 05:01 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108042591/gun-control-student-activists">We asked 5 students: What inspired you to become a gun control activist?</a> NPR: NPR spoke with high school and college students who have been impacted by gun violence, and are now working to make sure others won't be. 
- <p class="updated_time"> 04:07 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108513274/a-district-attorney-in-texas-says-he-wont-prosecute-abortion-crimes">This Texas district attorney is one of dozens who have vowed not to prosecute abortion</a> NPR: Nearly 90 elected prosecutors from both blue and red states pledged not to prosecute those who seek or provide abortions. One Texas DA says that's because their jobs are about keeping people safe. 
  <p class="updated_time"> 11:52 PM CT, Jun. 28 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html">5 takeaways from Tuesday's elections in Colorado, Illinois and more</a> CNN: Republican primary voters in Colorado resoundingly rejected Donald Trump's brand of politics Tuesday, choosing more moderate nominees for key offices over a group of candidates that had embraced the former President's lies about election fraud. 
 
