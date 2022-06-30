@@ -1,0 +1,2001 @@
+
+<HTML>
+<PRE>
+SUMMARY REPORT                                     Champaign County, Illinios                              UNOFFICIAL RESULTS
+                                                   General Primary
+                                                   June 28, 2022
+Run Date:06/29/22 11:02 AM                         STATISTICS
+
+                                       TOTAL VOTES     %        EV            VBM           ED
+
+ PRECINCTS COUNTED (OF 118).  .  .  .  .        118  100.00
+ REGISTERED VOTERS - TOTAL .  .  .  .  .    120,538
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .     28,539                 5,826         4,120        18,593
+ BALLOTS CAST - DEMOCRATIC .  .  .  .  .     12,643   44.30         2,582         3,193         6,868
+ BALLOTS CAST - REPUBLICAN .  .  .  .  .     15,529   54.41         3,123           872        11,534
+ BALLOTS CAST - NONPARTISAN.  .  .  .  .        367    1.29           121            55           191
+ BALLOTS CAST - BLANK.  .  .  .  .  .  .         11     .04             1             4             6
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .              23.68
+ VOTER TURNOUT - BLANK  .  .  .  .  .  .                .01
+
+                          ********** (DEMOCRATIC) **********
+
+U.S.SENATOR
+(VOTE FOR)  1
+ TAMMY DUCKWORTH  .  .  .  .  .  .  .  .     12,193  100.00         2,504         3,093         6,596
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        450                    78           100           272
+
+GOV. AND LT.GOV
+(VOTE FOR)  1
+ (JB PRITZKER  .  .  .  .  .  .  .  .  .     11,274   90.99         2,361         2,865         6,048
+ (BEVERLY MILES.  .  .  .  .  .  .  .  .      1,102    8.89           167           254           681
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         14     .11             3             5             6
+    Over Votes .  .  .  .  .  .  .  .  .        106                    15            35            56
+   Under Votes .  .  .  .  .  .  .  .  .        143                    36            34            73
+
+ATTY.GEN
+(VOTE FOR)  1
+ KWAME RAOUL.  .  .  .  .  .  .  .  .  .     11,712  100.00         2,388         2,976         6,348
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        927                   194           217           516
+
+SEC.OF STATE
+(VOTE FOR)  1
+ ALEXI GIANNOULIAS.  .  .  .  .  .  .  .      5,691   48.07         1,202         1,345         3,144
+ DAVID H. MOORE.  .  .  .  .  .  .  .  .      1,130    9.55           215           297           618
+ ANNA M. VALENCIA .  .  .  .  .  .  .  .      4,483   37.87           909         1,276         2,298
+ SIDNEY MOORE  .  .  .  .  .  .  .  .  .        534    4.51            90            97           347
+    Over Votes .  .  .  .  .  .  .  .  .         13                     3             4             6
+   Under Votes .  .  .  .  .  .  .  .  .        788                   163           174           451
+
+COMPTROLLER
+(VOTE FOR)  1
+ SUSANA A. MENDOZA.  .  .  .  .  .  .  .     11,802  100.00         2,421         2,995         6,386
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        837                   161           198           478
+
+TREASURER
+(VOTE FOR)  1
+ MICHAEL W. FRERICHS .  .  .  .  .  .  .     11,891  100.00         2,435         3,016         6,440
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        748                   147           177           424
+
+REP.IN CONGRESS D2
+(VOTE FOR)  1
+ ROBIN KELLY.  .  .  .  .  .  .  .  .  .        443  100.00            82           109           252
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         46                     3            12            31
+
+REP.IN CONGRESS D13
+(VOTE FOR)  1
+ NIKKI BUDZINSKI  .  .  .  .  .  .  .  .      6,697   67.16         1,256         1,725         3,716
+ DAVID PALMER  .  .  .  .  .  .  .  .  .      3,274   32.84           685           838         1,751
+    Over Votes .  .  .  .  .  .  .  .  .          3                     1             2             0
+   Under Votes .  .  .  .  .  .  .  .  .        257                    49            83           125
+
+REP.IN CONGRESS D15
+(VOTE FOR)  1
+ PAUL J. LANGE .  .  .  .  .  .  .  .  .      1,680  100.00           438           366           876
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        243                    68            58           117
+
+ST.CNTRL.COMMITTEEWOMAN D2
+(VOTE FOR)  1
+ ROBIN KELLY.  .  .  .  .  .  .  .  .  .        442  100.00            78           111           253
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         47                     7            10            30
+
+ST.CNTRL.COMMITTEEMAN D2
+(VOTE FOR)  1
+ WILLIAM "WILL" DAVIS.  .  .  .  .  .  .        308   70.00            61            76           171
+ ADAM SHORTER  .  .  .  .  .  .  .  .  .        132   30.00            21            37            74
+    Over Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+   Under Votes .  .  .  .  .  .  .  .  .         48                     3             8            37
+
+ST.CENTRAL COMMITTEEWOMAN D13
+(VOTE FOR)  1
+ LaTOYA N. GREENWOOD .  .  .  .  .  .  .      6,137   67.98         1,166         1,520         3,451
+ PAM MONETTI.  .  .  .  .  .  .  .  .  .      2,890   32.02           574           880         1,436
+    Over Votes .  .  .  .  .  .  .  .  .          5                     2             1             2
+   Under Votes .  .  .  .  .  .  .  .  .      1,195                   249           247           699
+
+ST.CTRL.COMMITTEEMAN D13
+(VOTE FOR)  1
+ BILL HOULIHAN .  .  .  .  .  .  .  .  .      8,697  100.00         1,683         2,306         4,708
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,530                   308           342           880
+
+ST.CNTRL.COMMITTEEWOMAN D15
+(VOTE FOR)  1
+ KATHERINE F.S. DANIELS .  .  .  .  .  .        841   52.83           236           206           399
+ LIZ BROWN-REEVES .  .  .  .  .  .  .  .        751   47.17           175           156           420
+    Over Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+   Under Votes .  .  .  .  .  .  .  .  .        330                    95            62           173
+
+ST.CNTRL.COMMITTEEMAN D15
+(VOTE FOR)  1
+ TERRY C. REDMAN  .  .  .  .  .  .  .  .      1,604  100.00           426           357           821
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        319                    80            67           172
+
+STATE SENATOR D51
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,921                   491           429         1,001
+
+STATE SENATOR D52
+(VOTE FOR)  1
+ SCOTT M. BENNETT .  .  .  .  .  .  .  .     10,005  100.00         1,952         2,588         5,465
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        713                   139           176           398
+
+REP.IN THE G.A. D101
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,644                   440           358           846
+
+REP.IN THE G.A. D102
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        277                    51            71           155
+
+REP.IN THE G.A. D103
+(VOTE FOR)  1
+ CAROL AMMONS  .  .  .  .  .  .  .  .  .      5,900  100.00         1,135         1,351         3,414
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        688                   133           177           378
+
+REP.IN THE G.A. D104
+(VOTE FOR)  1
+ CYNTHIA E. CUNNINGHAM  .  .  .  .  .  .      3,770  100.00           755         1,134         1,881
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        360                    68           102           190
+
+COUNTY CLERK
+(VOTE FOR)  1
+ AARON AMMONS  .  .  .  .  .  .  .  .  .     11,223  100.00         2,278         2,870         6,075
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,416                   304           323           789
+
+COUNTY EXECUTIVE
+(VOTE FOR)  1
+ STEVE SUMMERS .  .  .  .  .  .  .  .  .     11,193  100.00         2,276         2,869         6,048
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,446                   306           324           816
+
+COUNTY TREASURER
+(VOTE FOR)  1
+ CASSANDRA "CJ" JOHNSON .  .  .  .  .  .     11,342  100.00         2,332         2,887         6,123
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,297                   250           306           741
+
+COUNTY SHERIFF
+(VOTE FOR)  1
+ DUSTIN HEUERMAN  .  .  .  .  .  .  .  .     11,326  100.00         2,329         2,897         6,100
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,313                   253           296           764
+
+REG.SUPT.OF SCHOOLS CF9
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .     12,597                 2,576         3,180         6,841
+
+REG.SUPT.OF SCHOOLS CCC11
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         11                     3             2             6
+
+REG.SUPT.OF SCHOOLS MP39
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         31                     3            11            17
+
+MEMBER OF THE CO.BD. D1
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,498                   762           524         1,212
+
+MEMBER OF THE CO.BD. D2
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,090                   204           270           616
+
+MEMBER OF THE CO.BD. D3
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,292                   214           314           764
+
+MEMBER OF THE CO.BD. D4
+(VOTE FOR)  2
+ ELIZABETH "ELLY" HANAUER-FRIEDMAN  .  .      1,105   49.40           230           313           562
+ JENNIFER "JENNY" LOKSHIN  .  .  .  .  .      1,132   50.60           237           362           533
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,233                   233           319           681
+
+MEMBER OF THE CO.BD. D5
+(VOTE FOR)  2
+ BETHANY A VANICHTHEERANONT.  .  .  .  .        754   44.25           140           242           372
+ LEAH TAYLOR.  .  .  .  .  .  .  .  .  .        950   55.75           188           266           496
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,018                   214           232           572
+
+MEMBER OF THE CO.BD. D6
+(VOTE FOR)  2
+ MIKE INGRAM.  .  .  .  .  .  .  .  .  .        566   48.58           106           158           302
+ SAMANTHA CARTER  .  .  .  .  .  .  .  .        599   51.42           106           158           335
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        755                   140           160           455
+
+MEMBER OF THE CO.BD. D7
+(VOTE FOR)  2
+ ERIC THORSLAND.  .  .  .  .  .  .  .  .        710   46.28           116           182           412
+ KYLE PATTERSON.  .  .  .  .  .  .  .  .        824   53.72           137           203           484
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        892                   157           143           592
+
+MEMBER OF THE CO.BD. D8
+(VOTE FOR)  2
+ STEPHANIE FORTADO.  .  .  .  .  .  .  .        518   42.74            93           126           299
+ EMILY RODRIGUEZ  .  .  .  .  .  .  .  .        694   57.26           127           139           428
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        614                    90           105           419
+
+MEMBER OF THE CO.BD. D9
+(VOTE FOR)  2
+ JENNIFER LOCKE.  .  .  .  .  .  .  .  .        805   43.75           165           267           373
+ JENNIFER STRAUB  .  .  .  .  .  .  .  .      1,035   56.25           223           328           484
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,086                   220           225           641
+
+MEMBER OF THE CO.BD. D10
+(VOTE FOR)  2
+ CHRISTOPHER (CHRIS) STOHR .  .  .  .  .        998   49.28           200           332           466
+ JILMALA ROGERS.  .  .  .  .  .  .  .  .      1,027   50.72           191           293           543
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,317                   303           313           701
+
+MEMBER OF THE CO.BD. D11
+(VOTE FOR)  2
+ WAYNE T. WILLIAMS JR.  .  .  .  .  .  .        410   39.73            91           106           213
+ LORRAINE COWART  .  .  .  .  .  .  .  .        622   60.27           131           150           341
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        734                   146           156           432
+
+5TH APP.CT.JDG (OVERSTREET)
+(VOTE FOR)  1
+ BRIAN ROBERTS .  .  .  .  .  .  .  .  .     10,552  100.00         2,148         2,723         5,681
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,087                   434           470         1,183
+
+6TH CIR.CT.JDG-CHM CO (FORD)
+(VOTE FOR)  1
+ BENJAMIN W. DYER .  .  .  .  .  .  .  .     10,757  100.00         2,204         2,809         5,744
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,882                   378           384         1,120
+
+6TH CIR.CT.JDG-CHM CO (LADD)
+(VOTE FOR)  1
+ CHAD BECKETT  .  .  .  .  .  .  .  .  .     10,710  100.00         2,170         2,796         5,744
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,929                   412           397         1,120
+
+PCT.COMM. AYERS
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         20                     3             2            15
+
+PCT.COMM. BROWN FISHER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         36                     1             8            27
+
+PCT.COMM. BROWN FOOSLAND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          4                     0             0             4
+
+PCT.COMM. CHAMPAIGN 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         16                     3             6             7
+
+PCT.COMM. CHAMPAIGN 2
+(VOTE FOR)  1
+ BETHANY A VANICHTHEERANONT.  .  .  .  .        173  100.00            26            60            87
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     4             7            15
+
+PCT.COMM. CHAMPAIGN 3
+(VOTE FOR)  1
+ LEAH TAYLOR.  .  .  .  .  .  .  .  .  .        211  100.00            53            37           121
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         50                    10             5            35
+
+PCT.COMM. CHAMPAIGN 4
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        296                    60            76           160
+
+PCT.COMM. CHAMPAIGN 5
+(VOTE FOR)  1
+ ARTICE JAMES  .  .  .  .  .  .  .  .  .        197  100.00            44            44           109
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     3             8            15
+
+PCT.COMM. CHAMPAIGN 6
+(VOTE FOR)  1
+ DIANE SIEGLE ORE .  .  .  .  .  .  .  .        192  100.00            47            65            80
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                    10            13            17
+
+PCT.COMM. CITY OF CHAMPAIGN 01
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        126                    33            26            67
+
+PCT.COMM. CITY OF CHAMPAIGN 02
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         27                     5             3            19
+
+PCT.COMM. CITY OF CHAMPAIGN 03
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                     8             1            31
+
+PCT.COMM. CITY OF CHAMPAIGN 04
+(VOTE FOR)  1
+ CHLOE STROZ.  .  .  .  .  .  .  .  .  .         13  100.00             2             0            11
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          4                     0             0             4
+
+PCT.COMM. CITY OF CHAMPAIGN 05
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     6             0             8
+
+PCT.COMM. CITY OF CHAMPAIGN 06
+(VOTE FOR)  1
+ BRETT PEUGH.  .  .  .  .  .  .  .  .  .        159  100.00            23            29           107
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         29                     6             3            20
+
+PCT.COMM. CITY OF CHAMPAIGN 07
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                     9             3            28
+
+PCT.COMM. CITY OF CHAMPAIGN 08
+(VOTE FOR)  1
+ EMILY EARL .  .  .  .  .  .  .  .  .  .         29  100.00             6             1            22
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          5                     4             0             1
+
+PCT.COMM. CITY OF CHAMPAIGN 09
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         84                    22            20            42
+
+PCT.COMM. CITY OF CHAMPAIGN 10
+(VOTE FOR)  1
+ TANYA WEATHERLY  .  .  .  .  .  .  .  .         65  100.00            16            14            35
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          6                     2             1             3
+
+PCT.COMM. CITY OF CHAMPAIGN 11
+(VOTE FOR)  1
+ STEPHANIE FORTADO.  .  .  .  .  .  .  .        207  100.00            32            60           115
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         39                     6            10            23
+
+PCT.COMM. CITY OF CHAMPAIGN 12
+(VOTE FOR)  1
+ ADANI SANCHEZ .  .  .  .  .  .  .  .  .        164  100.00            26            36           102
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     2             3            21
+
+PCT.COMM. CITY OF CHAMPAIGN 13
+(VOTE FOR)  1
+ ERIC THORSLAND.  .  .  .  .  .  .  .  .        222  100.00            39            46           137
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         39                     6             7            26
+
+PCT.COMM. CITY OF CHAMPAIGN 14
+(VOTE FOR)  1
+ KYLE PATTERSON.  .  .  .  .  .  .  .  .         70  100.00            15            12            43
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          9                     0             1             8
+
+PCT.COMM. CITY OF CHAMPAIGN 15
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        143                    21            35            87
+
+PCT.COMM. CITY OF CHAMPAIGN 16
+(VOTE FOR)  1
+ TERRY MAHER.  .  .  .  .  .  .  .  .  .        100  100.00            17            23            60
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         16                     0             4            12
+
+PCT.COMM. CITY OF CHAMPAIGN 17
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        225                    50            84            91
+
+PCT.COMM. CITY OF CHAMPAIGN 18
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        111                    27            25            59
+
+PCT.COMM. CITY OF CHAMPAIGN 19
+(VOTE FOR)  1
+ RYAN GROFF .  .  .  .  .  .  .  .  .  .        156  100.00            20            40            96
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         22                     1             4            17
+
+PCT.COMM. CITY OF CHAMPAIGN 20
+(VOTE FOR)  1
+ WILLIAM C. WINDELBORN  .  .  .  .  .  .        218  100.00            51            40           127
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                     7             7            26
+
+PCT.COMM. CITY OF CHAMPAIGN 21
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        131                    15            19            97
+
+PCT.COMM. CITY OF CHAMPAIGN 22
+(VOTE FOR)  1
+ DEBORA AUBLE  .  .  .  .  .  .  .  .  .         71  100.00            10            10            51
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     1             2            11
+
+PCT.COMM. CITY OF CHAMPAIGN 23
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         94                    12            20            62
+
+PCT.COMM. CITY OF CHAMPAIGN 24
+(VOTE FOR)  1
+ KATHY SHANNON .  .  .  .  .  .  .  .  .        233  100.00            40            80           113
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         33                    10             7            16
+
+PCT.COMM. CITY OF CHAMPAIGN 25
+(VOTE FOR)  1
+ MIKE INGRAM.  .  .  .  .  .  .  .  .  .        104  100.00            10            14            80
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         15                     0             2            13
+
+PCT.COMM. CITY OF CHAMPAIGN 26
+(VOTE FOR)  1
+ MELANIE SHECKELS .  .  .  .  .  .  .  .        131  100.00            19            28            84
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         28                     6             7            15
+
+PCT.COMM. CITY OF CHAMPAIGN 27
+(VOTE FOR)  1
+ DIANA DUDZIENSKI .  .  .  .  .  .  .  .         89  100.00            13            20            56
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         16                     1             6             9
+
+PCT.COMM. CITY OF CHAMPAIGN 28
+(VOTE FOR)  1
+ CHASE SCOTT.  .  .  .  .  .  .  .  .  .         29   39.19             1            11            17
+ GEORGE DANOS  .  .  .  .  .  .  .  .  .         45   60.81            11             9            25
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          7                     1             1             5
+
+PCT.COMM. CITY OF CHAMPAIGN 29
+(VOTE FOR)  1
+ ANDREW QUARNSTROM.  .  .  .  .  .  .  .         75  100.00            22            21            32
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     2             1             9
+
+PCT.COMM. CITY OF CHAMPAIGN 30
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         69                     9            16            44
+
+PCT.COMM CITY OF CHAMPAIGN 31
+(VOTE FOR)  1
+ JON ABRAHAMSEN.  .  .  .  .  .  .  .  .         80  100.00            12            18            50
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          8                     1             1             6
+
+PCT.COMM. CITY OF CHAMPAIGN 32
+(VOTE FOR)  1
+ WILL ALDRIDGE .  .  .  .  .  .  .  .  .        140  100.00            36            42            62
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         57                     8             7            42
+
+PCT.COMM. CITY OF CHAMPAIGN 33
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        173                    26            45           102
+
+PCT.COMM. CITY OF CHAMPAIGN 34
+(VOTE FOR)  1
+ MATT SULLARD  .  .  .  .  .  .  .  .  .        239  100.00            49            78           112
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                    12            13            15
+
+PCT.COMM. CITY OF CHAMPAIGN 35
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        160                    39            36            85
+
+PCT.COMM. CITY OF CHAMPAIGN 36
+(VOTE FOR)  1
+ ANN QUACKENBUSH  .  .  .  .  .  .  .  .        125  100.00            29            47            49
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         18                     4             3            11
+
+PCT.COMM. CITY OF CHAMPAIGN 37
+(VOTE FOR)  1
+ LISA TWEEDY.  .  .  .  .  .  .  .  .  .        200  100.00            29            57           114
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         23                     9             3            11
+
+PCT.COMM. CITY OF CHAMPAIGN 38
+(VOTE FOR)  1
+ DELORIS HENRY .  .  .  .  .  .  .  .  .         76   38.78            19            23            34
+ JEANETTE WATTS.  .  .  .  .  .  .  .  .        120   61.22            17            36            67
+    Over Votes .  .  .  .  .  .  .  .  .          2                     1             0             1
+   Under Votes .  .  .  .  .  .  .  .  .         53                     8            19            26
+
+PCT.COMM. CITY OF CHAMPAIGN 39
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        155                    21            57            77
+
+PCT.COMM. COLFAX
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     2             7             3
+
+PCT.COMM. COMPROMISE GIFFORD
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     3             4             7
+
+PCT.COMM. COMPROMISE PENFIELD
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          8                     1             0             7
+
+PCT.COMM. CONDIT
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     2             3             5
+
+PCT.COMM. CRITTENDEN
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         11                     1             2             8
+
+PCT.COMM. CUNNINGHAM 01
+(VOTE FOR)  1
+ LINDA R. TURNBULL.  .  .  .  .  .  .  .        119  100.00            29            24            66
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     1             2             9
+
+PCT.COMM. CUNNINGHAM 02
+(VOTE FOR)  1
+ YINXI MA.  .  .  .  .  .  .  .  .  .  .         14  100.00             3             1            10
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     0             0             3
+
+PCT.COMM. CUNNINGHAM 03
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     1             2             7
+
+PCT.COMM. CUNNINGHAM 04
+(VOTE FOR)  1
+ EMMA MURPHY.  .  .  .  .  .  .  .  .  .          4  100.00             1             1             2
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+
+PCT.COMM. CUNNINGHAM 05
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          1                     1             0             0
+
+PCT.COMM. CUNNINGHAM 06
+(VOTE FOR)  1
+ DEBORAH LIU.  .  .  .  .  .  .  .  .  .         86  100.00            10            21            55
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     1             1            10
+
+PCT.COMM. CUNNINGHAM 07
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         65                    13            16            36
+
+PCT.COMM. CUNNINGHAM 08
+(VOTE FOR)  1
+ JAKE FAVA  .  .  .  .  .  .  .  .  .  .         92  100.00            19            12            61
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         24                     7             3            14
+
+PCT.COMM. CUNNINGHAM 09
+(VOTE FOR)  1
+ JENNIFER STRAUB  .  .  .  .  .  .  .  .        138  100.00            35            53            50
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         85                     4             8            73
+
+PCT.COMM. CUNNINGHAM 10
+(VOTE FOR)  1
+ RUTH E. WYMAN .  .  .  .  .  .  .  .  .        177  100.00            40            32           105
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         32                     4            11            17
+
+PCT.COMM. CUNNINGHAM 11
+(VOTE FOR)  1
+ STEVE SUMMERS .  .  .  .  .  .  .  .  .         94  100.00            26            23            45
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     2             0             8
+
+PCT.COMM. CUNNINGHAM 12
+(VOTE FOR)  1
+ CHRISTOPHER (CHRIS) STOHR .  .  .  .  .        207  100.00            37            49           121
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         38                     8             8            22
+
+PCT.COMM. CUNNINGHAM 13
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        138                    26            29            83
+
+PCT.COMM. CUNNINGHAM 14
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        231                    51            89            91
+
+PCT.COMM. CUNNINGHAM 15
+(VOTE FOR)  1
+ DESHAWN WILLIAMS .  .  .  .  .  .  .  .        124  100.00            26            38            60
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         23                    10             7             6
+
+PCT.COMM. CUNNINGHAM 16
+(VOTE FOR)  1
+ MARY KING  .  .  .  .  .  .  .  .  .  .        110  100.00            17            25            68
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     1             2            11
+
+PCT.COMM. CUNNINGHAM 17
+(VOTE FOR)  1
+ WAYNE T. WILLIAMS JR.  .  .  .  .  .  .         70  100.00            20            17            33
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         17                     5             7             5
+
+PCT.COMM. CUNNINGHAM 18
+(VOTE FOR)  1
+ CAROL AMMONS  .  .  .  .  .  .  .  .  .        136  100.00            32            40            64
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         19                     4             9             6
+
+PCT.COMM. CUNNINGHAM 19
+(VOTE FOR)  1
+ CARA MAURIZI  .  .  .  .  .  .  .  .  .        182  100.00            45            53            84
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         28                     8             5            15
+
+PCT.COMM. CUNNINGHAM 20
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         91                    15            28            48
+
+PCT.COMM. CUNNINGHAM 21
+(VOTE FOR)  1
+ ALVIN G KLEIN .  .  .  .  .  .  .  .  .        107  100.00            18            35            54
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         21                     1            12             8
+
+PCT.COMM. CUNNINGHAM 22
+(VOTE FOR)  1
+ RICKY BALDWIN .  .  .  .  .  .  .  .  .        156  100.00            25            33            98
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         28                     4            13            11
+
+PCT.COMM. CUNNINGHAM 23
+(VOTE FOR)  1
+ WILLIAM SCHOELL  .  .  .  .  .  .  .  .        282  100.00            64            96           122
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         28                     6             8            14
+
+PCT.COMM. EAST BEND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     4             3             7
+
+PCT.COMM. HARWOOD
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          7                     0             4             3
+
+PCT.COMM. HENSLEY
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         53                    13            13            27
+
+PCT.COMM. KERR
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     0             0             3
+
+PCT.COMM. LUDLOW 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     0             5             5
+
+PCT.COMM. LUDLOW 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         63                    19             6            38
+
+PCT.COMM. LUDLOW 3
+(VOTE FOR)  1
+ BARBARA ANDERSON .  .  .  .  .  .  .  .         56  100.00             7            19            30
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          8                     0             5             3
+
+PCT.COMM. MAHOMET 1
+(VOTE FOR)  1
+ RACHEL SMITH-BOLTON .  .  .  .  .  .  .        261  100.00            95            51           115
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         56                    22            10            24
+
+PCT.COMM. MAHOMET 2
+(VOTE FOR)  1
+ SUSAN JACKSON .  .  .  .  .  .  .  .  .        120  100.00            44            22            54
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         20                     6             2            12
+
+PCT.COMM. MAHOMET 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        135                    36            18            81
+
+PCT.COMM. MAHOMET 4
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        296                    89            79           128
+
+PCT.COMM. MAHOMET 5
+(VOTE FOR)  1
+ DIANA ONKEN.  .  .  .  .  .  .  .  .  .        144  100.00            52            27            65
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         23                     6             3            14
+
+PCT.COMM. NEWCOMB
+(VOTE FOR)  1
+ KEN KEEFE  .  .  .  .  .  .  .  .  .  .         74  100.00            18            16            40
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     3             3             6
+
+PCT.COMM. OGDEN 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         27                     1             8            18
+
+PCT.COMM. OGDEN 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          9                     0             2             7
+
+PCT.COMM. PESOTUM
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         37                     3             7            27
+
+PCT.COMM. PHILO
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         67                     8            16            43
+
+PCT.COMM. RANTOUL 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         57                    13            16            28
+
+PCT.COMM. RANTOUL 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         43                     4             4            35
+
+PCT.COMM. RANTOUL 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         33                     4             8            21
+
+PCT.COMM. RANTOUL 4
+(VOTE FOR)  1
+ A. LEE ROBERTS JR.  .  .  .  .  .  .  .         38  100.00             6             6            26
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     0             1             2
+
+PCT.COMM. RANTOUL 5
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         83                    16            21            46
+
+PCT.COMM. RANTOUL 6
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         70                    17            22            31
+
+PCT.COMM. RAYMOND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          4                     1             2             1
+
+PCT.COMM. SADORUS SADORUS
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         25                     4             7            14
+
+PCT.COMM. SADORUS IVESDALE
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     1             8            17
+
+PCT.COMM. SCOTT BONDVILLE
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         28                     0            12            16
+
+PCT.COMM. SCOTT SEYMOUR
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         13                     1             3             9
+
+PCT.COMM. SIDNEY
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         45                     2            16            27
+
+PCT.COMM. SOMER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         43                     6            15            22
+
+PCT.COMM. SOUTH HOMER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         30                     2            10            18
+
+PCT.COMM. STANTON
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     1             3             6
+
+PCT.COMM. ST. JOSEPH 1
+(VOTE FOR)  1
+ CARI WEST-HENKELMAN .  .  .  .  .  .  .         57  100.00            13            18            26
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         13                     4             3             6
+
+PCT.COMM. ST. JOSEPH 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        100                    20            26            54
+
+PCT.COMM. ST. JOSEPH 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         51                    14            11            26
+
+PCT.COMM. TOLONO 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         86                    25            10            51
+
+PCT.COMM. TOLONO 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        155                    28            62            65
+
+PCT.COMM. TOLONO 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         52                    11            13            28
+
+PCT.COMM. URBANA 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         72                    11            25            36
+
+PCT.COMM. URBANA 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         97                    29            32            36
+
+PCT.COMM. URBANA 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        109                    28            36            45
+
+PCT.COMM. URBANA 4
+(VOTE FOR)  1
+ MARYAM AR-RAHEEM .  .  .  .  .  .  .  .        105  100.00            31            23            51
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     6             4             2
+
+                          ********** (REPUBLICAN) **********
+
+U.S.SENATOR
+(VOTE FOR)  1
+ CASEY CHLEBEK .  .  .  .  .  .  .  .  .      1,283    9.96           211            78           994
+ PEGGY HUBBARD .  .  .  .  .  .  .  .  .      3,737   29.02           744           186         2,807
+ ROBERT "BOBBY" PITON.  .  .  .  .  .  .      1,076    8.36           184            43           849
+ JIMMY LEE TILLMAN II.  .  .  .  .  .  .        792    6.15           152            49           591
+ ANTHONY W. WILLIAMS .  .  .  .  .  .  .      1,185    9.20           230            62           893
+ KATHY SALVI.  .  .  .  .  .  .  .  .  .      2,818   21.88           673           170         1,975
+ MATTHEW "MATT" DUBIEL  .  .  .  .  .  .      1,987   15.43           346           139         1,502
+    Over Votes .  .  .  .  .  .  .  .  .         10                     1             2             7
+   Under Votes .  .  .  .  .  .  .  .  .      2,641                   582           143         1,916
+
+GOV. AND LT.GOV.
+(VOTE FOR)  1
+ (DARREN BAILEY.  .  .  .  .  .  .  .  .      7,485   49.39         1,310           235         5,940
+ (PAUL SCHIMPF .  .  .  .  .  .  .  .  .        532    3.51           134            63           335
+ (RICHARD C. IRVIN.  .  .  .  .  .  .  .      2,748   18.13           668           237         1,843
+ (GARY RABINE  .  .  .  .  .  .  .  .  .        646    4.26           120            29           497
+ (MAX SOLOMON  .  .  .  .  .  .  .  .  .        148     .98            44            13            91
+ (JESSE SULLIVAN  .  .  .  .  .  .  .  .      3,574   23.58           739           263         2,572
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         23     .15             4             1            18
+    Over Votes .  .  .  .  .  .  .  .  .         14                     3             3             8
+   Under Votes .  .  .  .  .  .  .  .  .        358                   101            28           229
+
+ATTY.GEN.
+(VOTE FOR)  1
+ STEVE KIM  .  .  .  .  .  .  .  .  .  .      5,043   38.41         1,083           399         3,561
+ DAVID SHESTOKAS  .  .  .  .  .  .  .  .      2,632   20.05           502           151         1,979
+ THOMAS G. DeVORE .  .  .  .  .  .  .  .      5,454   41.54         1,035           207         4,212
+    Over Votes .  .  .  .  .  .  .  .  .          2                     0             1             1
+   Under Votes .  .  .  .  .  .  .  .  .      2,397                   503           114         1,780
+
+SEC.OF STATE
+(VOTE FOR)  1
+ DAN BRADY  .  .  .  .  .  .  .  .  .  .     10,517   76.49         2,085           499         7,933
+ JOHN C. MILHISER .  .  .  .  .  .  .  .      3,232   23.51           652           283         2,297
+    Over Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+   Under Votes .  .  .  .  .  .  .  .  .      1,778                   386            90         1,302
+
+COMPTROLLER
+(VOTE FOR)  1
+ SHANNON L. TERESI.  .  .  .  .  .  .  .     12,837  100.00         2,554           714         9,569
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,691                   569           158         1,964
+
+TREASURER
+(VOTE FOR)  1
+ TOM DEMMER .  .  .  .  .  .  .  .  .  .     12,861  100.00         2,557           712         9,592
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,667                   566           160         1,941
+
+REP.IN CONGRESS D2
+(VOTE FOR)  1
+ SHANE CULTRA  .  .  .  .  .  .  .  .  .        603   45.24            74            20           509
+ ASHLEY RAMOS  .  .  .  .  .  .  .  .  .        324   24.31            34            20           270
+ THOMAS LYNCH  .  .  .  .  .  .  .  .  .        406   30.46            43            21           342
+    Over Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+   Under Votes .  .  .  .  .  .  .  .  .        182                    16             9           157
+
+REP.IN CONGRESS D13
+(VOTE FOR)  1
+ REGAN DEERING .  .  .  .  .  .  .  .  .      1,914   32.67           384           141         1,389
+ MATT HAUSMAN  .  .  .  .  .  .  .  .  .      1,904   32.50           385           168         1,351
+ JESSE REISING .  .  .  .  .  .  .  .  .      1,604   27.38           327           105         1,172
+ TERRY MARTIN  .  .  .  .  .  .  .  .  .        436    7.44           104            52           280
+    Over Votes .  .  .  .  .  .  .  .  .          7                     2             1             4
+   Under Votes .  .  .  .  .  .  .  .  .        512                   100            50           362
+
+REP.IN CONGRESS D15
+(VOTE FOR)  1
+ RODNEY DAVIS  .  .  .  .  .  .  .  .  .      3,808   51.40           935           191         2,682
+ MARY MILLER.  .  .  .  .  .  .  .  .  .      3,600   48.60           659            81         2,860
+    Over Votes .  .  .  .  .  .  .  .  .          3                     0             1             2
+   Under Votes .  .  .  .  .  .  .  .  .        225                    60            12           153
+
+STATE SENATOR D51
+(VOTE FOR)  1
+ CHAPIN ROSE.  .  .  .  .  .  .  .  .  .      7,063  100.00         1,470           269         5,324
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        609                   141            29           439
+
+STATE SENATOR D52
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      7,856                 1,512           574         5,770
+
+REP.IN THE G.A. D101
+(VOTE FOR)  1
+ CHRIS MILLER  .  .  .  .  .  .  .  .  .      5,275  100.00         1,104           202         3,969
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,012                   272            53           687
+
+REP.IN THE G.A. D102
+(VOTE FOR)  1
+ ADAM M NIEMERG.  .  .  .  .  .  .  .  .      1,159  100.00           194            32           933
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        226                    41            11           174
+
+REP.IN THE G.A. D103
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,686                   574           209         1,903
+
+REP.IN THE G.A. D104
+(VOTE FOR)  1
+ MIKE MARRON.  .  .  .  .  .  .  .  .  .      4,481  100.00           820           307         3,354
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        689                   118            58           513
+
+COUNTY CLERK
+(VOTE FOR)  1
+ TERRENCE STUBER  .  .  .  .  .  .  .  .     12,918  100.00         2,562           717         9,639
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,610                   561           155         1,894
+
+COUNTY EXECUTIVE
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .     15,528                 3,123           872        11,533
+
+COUNTY TREASURER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .     15,528                 3,123           872        11,533
+
+COUNTY SHERIFF
+(VOTE FOR)  1
+ JOHN P. BROWN .  .  .  .  .  .  .  .  .     11,628   82.86         2,381           623         8,624
+ GREGORY A. WORRELL  .  .  .  .  .  .  .      2,406   17.14           411           164         1,831
+    Over Votes .  .  .  .  .  .  .  .  .          5                     1             0             4
+   Under Votes .  .  .  .  .  .  .  .  .      1,489                   330            85         1,074
+
+REG.SUPT.OF SCHOOLS CF9
+(VOTE FOR)  1
+ GARY LEWIS .  .  .  .  .  .  .  .  .  .     12,563  100.00         2,542           693         9,328
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,806                   572           171         2,063
+
+REG.SUPT.OF SCHOOLS CCC11
+(VOTE FOR)  1
+ KYLE THOMPSON .  .  .  .  .  .  .  .  .         82  100.00             5             4            73
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         16                     0             0            16
+
+REG.SUPT.OF SCHOOLS MP39
+(VOTE FOR)  1
+ JILL R. REEDY .  .  .  .  .  .  .  .  .         54  100.00             4             4            46
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          7                     0             0             7
+
+MEMBER OF THE CO.BD. D1
+(VOTE FOR)  2
+ JAMES E GOSS  .  .  .  .  .  .  .  .  .      2,114   46.78           591           104         1,419
+ JEFF WILSON.  .  .  .  .  .  .  .  .  .      2,405   53.22           682           109         1,614
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      3,763                 1,045           159         2,559
+
+MEMBER OF THE CO.BD. D2
+(VOTE FOR)  2
+ DIANE MICHAELS.  .  .  .  .  .  .  .  .      1,449   61.87           156            59         1,234
+ TOM SEXTON .  .  .  .  .  .  .  .  .  .        893   38.13            89            37           767
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,570                   169            50         1,351
+
+MEMBER OF THE CO.BD. D3
+(VOTE FOR)  2
+ STANLEY C. HARPER.  .  .  .  .  .  .  .      2,243   57.99           322            86         1,835
+ AARON L. ESRY .  .  .  .  .  .  .  .  .      1,625   42.01           258            72         1,295
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,374                   286            62         2,026
+
+MEMBER OF THE CO.BD. D4
+(VOTE FOR)  2
+ JIM MCGUIRE.  .  .  .  .  .  .  .  .  .      1,118   60.73           221           100           797
+ BRADLEY JOSEPH PASSALACQUA.  .  .  .  .        723   39.27           143            79           501
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,477                   256            99         1,122
+
+MEMBER OF THE CO.BD. D5
+(VOTE FOR)  2
+ LUCAS ATWOOD  .  .  .  .  .  .  .  .  .      1,129   93.46           278            78           773
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         79    6.54            30             4            45
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,638                   394           120         1,124
+
+MEMBER OF THE CO.BD. D6
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         28  100.00             4             1            23
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,046                   202            79           765
+
+MEMBER OF THE CO.BD. D7
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,224                   172            68           984
+
+MEMBER OF THE CO.BD. D8
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        572                    96            42           434
+
+MEMBER OF THE CO.BD. D9
+(VOTE FOR)  2
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      1,020                   206            74           740
+
+MEMBER OF THE CO.BD. D10
+(VOTE FOR)  2
+ MIKE KOBEL .  .  .  .  .  .  .  .  .  .        527   57.16           143            68           316
+ DEAN HAZEN .  .  .  .  .  .  .  .  .  .        395   42.84           110            54           231
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        678                   171            62           445
+
+MEMBER OF THE CO.BD. D11
+(VOTE FOR)  2
+ KAREN JAMES.  .  .  .  .  .  .  .  .  .        407  100.00            96            33           278
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        559                   126            45           388
+
+5TH APP.CT.JDG (OVERSTREET)
+(VOTE FOR)  1
+ MIKE McHANEY  .  .  .  .  .  .  .  .  .      6,924   57.15         1,362           344         5,218
+ BARRY L. VAUGHAN .  .  .  .  .  .  .  .      5,192   42.85         1,025           369         3,798
+    Over Votes .  .  .  .  .  .  .  .  .          2                     0             0             2
+   Under Votes .  .  .  .  .  .  .  .  .      3,410                   736           159         2,515
+
+6TH CIR.CT.JDG-CHM CO (FORD)
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .     15,528                 3,123           872        11,533
+
+6TH CIR.CT.JDG-CHM CO (LADD)
+(VOTE FOR)  1
+ SAM LIMENTATO .  .  .  .  .  .  .  .  .     12,846  100.00         2,599           717         9,530
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .      2,682                   524           155         2,003
+
+PCT.COMM. AYERS
+(VOTE FOR)  1
+ KEVIN E. BLOCK.  .  .  .  .  .  .  .  .         81  100.00             1             2            78
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         23                     1             0            22
+
+PCT.COMM. BROWN FISHER
+(VOTE FOR)  1
+ DENNIS DETWEILER .  .  .  .  .  .  .  .        220  100.00             7            11           202
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         34                     1             0            33
+
+PCT.COMM. BROWN FOOSLAND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         47                     1             0            46
+
+PCT.COMM. CHAMPAIGN 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         12                     2             2             8
+
+PCT.COMM. CHAMPAIGN 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        259                    60            15           184
+
+PCT.COMM. CHAMPAIGN 3
+(VOTE FOR)  1
+ JIM GREEN  .  .  .  .  .  .  .  .  .  .        378   99.21            94            24           260
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          3     .79             0             0             3
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         78                    14             7            57
+
+PCT.COMM. CHAMPAIGN 4
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        266                    52            22           192
+
+PCT.COMM. CHAMPAIGN 5
+(VOTE FOR)  1
+ JIM MCGUIRE.  .  .  .  .  .  .  .  .  .        208  100.00            31            11           166
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         50                     9             2            39
+
+PCT.COMM. CHAMPAIGN 6
+(VOTE FOR)  1
+ DEE SHONKWILER.  .  .  .  .  .  .  .  .        165  100.00            49            26            90
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         44                     5             7            32
+
+PCT.COMM. CITY OF CHAMPAIGN 01
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          9                     1             0             8
+
+PCT.COMM. CITY OF CHAMPAIGN 02
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          7                     2             0             5
+
+PCT.COMM. CITY OF CHAMPAIGN 03
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          4                     0             0             4
+
+PCT.COMM. CITY OF CHAMPAIGN 04
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          4                     0             0             4
+
+PCT.COMM. CITY OF CHAMPAIGN 05
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     2             0             1
+
+PCT.COMM. CITY OF CHAMPAIGN 06
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         65                    14             4            47
+
+PCT.COMM. CITY OF CHAMPAIGN 07
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     1             1             1
+
+PCT.COMM. CITY OF CHAMPAIGN 08
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          3                     2             0             1
+
+PCT.COMM. CITY OF CHAMPAIGN 09
+(VOTE FOR)  1
+ RICHARD J MONTGOMERY.  .  .  .  .  .  .         22  100.00             3             1            18
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          5                     0             1             4
+
+PCT.COMM. CITY OF CHAMPAIGN 10
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         23                     3             5            15
+
+PCT.COMM. CITY OF CHAMPAIGN 11
+(VOTE FOR)  1
+ RENEE MULLEN  .  .  .  .  .  .  .  .  .         44  100.00             9             3            32
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     6             0             8
+
+PCT.COMM. CITY OF CHAMPAIGN 12
+(VOTE FOR)  1
+ PEGGY K. MONAHAN .  .  .  .  .  .  .  .         44  100.00             7             3            34
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         15                     2             2            11
+
+PCT.COMM. CITY OF CHAMPAIGN 13
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         71                    19             4            48
+
+PCT.COMM. CITY OF CHAMPAIGN 14
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     4             0            22
+
+PCT.COMM. CITY OF CHAMPAIGN 15
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         56                     7             2            47
+
+PCT.COMM. CITY OF CHAMPAIGN 16
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         66                     6             4            56
+
+PCT.COMM. CITY OF CHAMPAIGN 17
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        162                    37            23           102
+
+PCT.COMM. CITY OF CHAMPAIGN 18
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         97                    30            10            57
+
+PCT.COMM. CITY OF CHAMPAIGN 19
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         68                    16             6            46
+
+PCT.COMM. CITY OF CHAMPAIGN 20
+(VOTE FOR)  1
+ JANET S. ROADCAP .  .  .  .  .  .  .  .         64  100.00            11             3            50
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         17                     1             0            16
+
+PCT.COMM. CITY OF CHAMPAIGN 21
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         73                     5             6            62
+
+PCT.COMM. CITY OF CHAMPAIGN 22
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         51                     3             1            47
+
+PCT.COMM. CITY OF CHAMPAIGN 23
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         58                     6             4            48
+
+PCT.COMM. CITY OF CHAMPAIGN 24
+(VOTE FOR)  1
+ BRUCE G POVALISH .  .  .  .  .  .  .  .        188  100.00            26            12           150
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         45                    11             3            31
+
+PCT.COMM. CITY OF CHAMPAIGN 25
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         54                     2             0            52
+
+PCT.COMM. CITY OF CHAMPAIGN 26
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        117                    24             7            86
+
+PCT.COMM. CITY OF CHAMPAIGN 27
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         66                     5             7            54
+
+PCT.COMM. CITY OF CHAMPAIGN 28
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         50                     9             0            41
+
+PCT.COMM. CITY OF CHAMPAIGN 29
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         83                    23             9            51
+
+PCT.COMM. CITY OF CHAMPAIGN 30
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         26                     2             3            21
+
+PCT.COMM. CITY OF CHAMPAIGN 31
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         45                     8             2            35
+
+PCT.COMM. CITY OF CHAMPAIGN 32
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         16  100.00             2             1            13
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        142                    26             9           107
+
+PCT.COMM. CITY OF CHAMPAIGN 33
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        175                    32            10           133
+
+PCT.COMM. CITY OF CHAMPAIGN 34
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        235                    63            14           158
+
+PCT.COMM. CITY OF CHAMPAIGN 35
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        103                    32             5            66
+
+PCT.COMM. CITY OF CHAMPAIGN 36
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        126                    23            13            90
+
+PCT.COMM. CITY OF CHAMPAIGN 37
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        227                    52            17           158
+
+PCT.COMM. CITY OF CHAMPAIGN 38
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        222                    42            16           164
+
+PCT.COMM. CITY OF CHAMPAIGN 39
+(VOTE FOR)  1
+ LUCAS ATWOOD  .  .  .  .  .  .  .  .  .         86  100.00            10             9            67
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         20                     1             2            17
+
+PCT.COMM. COLFAX
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         46                    11             3            32
+
+PCT.COMM. COMPROMISE GIFFORD
+(VOTE FOR)  1
+ EARL B SMITH  .  .  .  .  .  .  .  .  .        194  100.00            11             4           179
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         17                     1             0            16
+
+PCT.COMM. COMPROMISE PENFIELD
+(VOTE FOR)  1
+ ERIC J. SUITS .  .  .  .  .  .  .  .  .         69  100.00             0             0            69
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          8                     1             0             7
+
+PCT.COMM. CONDIT
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        146                     7             5           134
+
+PCT.COMM. CRITTENDEN
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         99                     5             4            90
+
+PCT.COMM. CUNNINGHAM 01
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         11                     4             0             7
+
+PCT.COMM. CUNNINGHAM 02
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          2                     0             0             2
+
+PCT.COMM. CUNNINGHAM 03
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          2                     0             0             2
+
+PCT.COMM. CUNNINGHAM 04
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+
+PCT.COMM. CUNNINGHAM 05
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+
+PCT.COMM. CUNNINGHAM 06
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         20                     1             0            19
+
+PCT.COMM. CUNNINGHAM 07
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         13                     2             0            11
+
+PCT.COMM. CUNNINGHAM 08
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          9                     2             1             6
+
+PCT.COMM. CUNNINGHAM 09
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         16                     1             2            13
+
+PCT.COMM. CUNNINGHAM 10
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         19                     1             3            15
+
+PCT.COMM. CUNNINGHAM 11
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         15                     3             0            12
+
+PCT.COMM. CUNNINGHAM 12
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         33                     8             4            21
+
+PCT.COMM. CUNNINGHAM 13
+(VOTE FOR)  1
+ LAURA KANIS.  .  .  .  .  .  .  .  .  .         34  100.00             5             1            28
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         13                     3             0            10
+
+PCT.COMM. CUNNINGHAM 14
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         55                    17             4            34
+
+PCT.COMM. CUNNINGHAM 15
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         50                    11             1            38
+
+PCT.COMM. CUNNINGHAM 16
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         38                     6             2            30
+
+PCT.COMM. CUNNINGHAM 17
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         96                    29             8            59
+
+PCT.COMM. CUNNINGHAM 18
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         83                    29             7            47
+
+PCT.COMM. CUNNINGHAM 19
+(VOTE FOR)  1
+ BILL BURTNESS .  .  .  .  .  .  .  .  .         95  100.00            26            19            50
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         13                     7             0             6
+
+PCT.COMM. CUNNINGHAM 20
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .          4  100.00             2             1             1
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         45                    11             7            27
+
+PCT.COMM. CUNNINGHAM 21
+(VOTE FOR)  1
+ SUSAN M. THOMAS  .  .  .  .  .  .  .  .         36  100.00            15             6            15
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         11                     2             0             9
+
+PCT.COMM. CUNNINGHAM 22
+(VOTE FOR)  1
+ ALAN R. ANDERSON .  .  .  .  .  .  .  .         57  100.00            11             9            37
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         17                     4             2            11
+
+PCT.COMM. CUNNINGHAM 23
+(VOTE FOR)  1
+ MARK SHELDEN  .  .  .  .  .  .  .  .  .        129  100.00            16            21            92
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         22                     3             3            16
+
+PCT.COMM. EAST BEND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        156                     5             2           149
+
+PCT.COMM. HARWOOD
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        102                     6             6            90
+
+PCT.COMM. HENSLEY
+(VOTE FOR)  1
+ ROBERT SHERMAN.  .  .  .  .  .  .  .  .        136  100.00            22             8           106
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         31                     3             4            24
+
+PCT.COMM. KERR
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         31                     4             1            26
+
+PCT.COMM. LUDLOW 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         78                     3             0            75
+
+PCT.COMM. LUDLOW 2
+(VOTE FOR)  1
+ DIANE MICHAELS.  .  .  .  .  .  .  .  .        135  100.00            27             6           102
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     3             0            11
+
+PCT.COMM. LUDLOW 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        129                    12            15           102
+
+PCT.COMM. MAHOMET 1
+(VOTE FOR)  1
+ JAMES E GOSS  .  .  .  .  .  .  .  .  .        698  100.00           239            29           430
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        174                    68             8            98
+
+PCT.COMM. MAHOMET 2
+(VOTE FOR)  1
+ DAVID PARSONS .  .  .  .  .  .  .  .  .        305  100.00            83            13           209
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         93                    22             9            62
+
+PCT.COMM. MAHOMET 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        375                   114            18           243
+
+PCT.COMM. MAHOMET 4
+(VOTE FOR)  1
+ CHAPIN ROSE.  .  .  .  .  .  .  .  .  .        804  100.00           306            38           460
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        101                    27             4            70
+
+PCT.COMM. MAHOMET 5
+(VOTE FOR)  1
+ KIRK BUILTA.  .  .  .  .  .  .  .  .  .        412  100.00           122            17           273
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        125                    37             5            83
+
+PCT.COMM. NEWCOMB
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        363                   100            16           247
+
+PCT.COMM. OGDEN 1
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        174                    12             3           159
+
+PCT.COMM. OGDEN 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        110                     5             8            97
+
+PCT.COMM. PESOTUM
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        155                    19             4           132
+
+PCT.COMM. PHILO
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        315                    18             8           289
+
+PCT.COMM. RANTOUL 1
+(VOTE FOR)  1
+ ANTHONY J. BROWN .  .  .  .  .  .  .  .        149  100.00            35            10           104
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         20                     2             2            16
+
+PCT.COMM. RANTOUL 2
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         78                     6             3            69
+
+PCT.COMM. RANTOUL 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         98                    10             7            81
+
+PCT.COMM. RANTOUL 4
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        206                    10             4           192
+
+PCT.COMM. RANTOUL 5
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        150                    27             4           119
+
+PCT.COMM. RANTOUL 6
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         69                    18             3            48
+
+PCT.COMM. RAYMOND
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         73                    13             1            59
+
+PCT.COMM. SADORUS SADORUS
+(VOTE FOR)  1
+ TED A. MYHRE  .  .  .  .  .  .  .  .  .         71  100.00             9             2            60
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         14                     1             1            12
+
+PCT.COMM. SADORUS IVESDALE
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         33                     0             4            29
+
+PCT.COMM. SCOTT BONDVILLE
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .         17  100.00             0             0            17
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         82                     1             3            78
+
+PCT.COMM. SCOTT SEYMOUR
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         85                     6             6            73
+
+PCT.COMM. SIDNEY
+(VOTE FOR)  1
+ CHERYL GANT MUMM .  .  .  .  .  .  .  .        145   49.15             8             9           128
+ SUSAN KAY MANTELL.  .  .  .  .  .  .  .        150   50.85            10             6           134
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         25                     2             0            23
+
+PCT.COMM. SOMER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        149                    19             7           123
+
+PCT.COMM. SOUTH HOMER
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        222                    16            13           193
+
+PCT.COMM. STANTON
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        147                     9             1           137
+
+PCT.COMM. ST. JOSEPH 1
+(VOTE FOR)  1
+ AARON L. ESRY .  .  .  .  .  .  .  .  .        279  100.00            76             9           194
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         58                     9             3            46
+
+PCT.COMM. ST. JOSEPH 2
+(VOTE FOR)  1
+ TAMI FRUHLING-VOGES .  .  .  .  .  .  .        287  100.00            62             6           219
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         61                     8             1            52
+
+PCT.COMM. ST. JOSEPH 3
+(VOTE FOR)  1
+ TERRI CUMMINGS.  .  .  .  .  .  .  .  .        266  100.00            69             8           189
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         55                    13             1            41
+
+PCT.COMM. TOLONO 1
+(VOTE FOR)  1
+ LARRY D. KEARNS  .  .  .  .  .  .  .  .        210  100.00            47             6           157
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         29                     7             0            22
+
+PCT.COMM. TOLONO 2
+(VOTE FOR)  1
+ JOAN E. DYKSTRA  .  .  .  .  .  .  .  .        148  100.00            34            17            97
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         37                     6             6            25
+
+PCT.COMM. TOLONO 3
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        226                    44             6           176
+
+PCT.COMM. URBANA 1
+(VOTE FOR)  1
+ JOHN FARNEY.  .  .  .  .  .  .  .  .  .         41  100.00             9             1            31
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         10                     2             4             4
+
+PCT.COMM. URBANA 2
+(VOTE FOR)  1
+ MICHAEL SCHAMER  .  .  .  .  .  .  .  .         50   45.87            19             6            25
+ TERESA WHITLATCH .  .  .  .  .  .  .  .         59   54.13            21             4            34
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         24                    13             1            10
+
+PCT.COMM. URBANA 3
+(VOTE FOR)  1
+ MARK S BALLARD.  .  .  .  .  .  .  .  .         89  100.00            25            10            54
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         11                     2             2             7
+
+PCT.COMM. URBANA 4
+(VOTE FOR)  1
+ NO CANDIDATE  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .        104                    26             5            73
+
+                          ********** (NONPARTISAN) **********
+
+ARTHUR CUSD 305 QUESTION D305
+(VOTE FOR)  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .          1  100.00             0             0             1
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .          0                     0             0             0
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+
+MAHOMET-SEYMOUR CUSD 3 QUESTION D3
+(VOTE FOR)  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .      1,618   32.63           517           151           950
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .      3,340   67.37         1,094           276         1,970
+    Over Votes .  .  .  .  .  .  .  .  .          1                     0             0             1
+   Under Votes .  .  .  .  .  .  .  .  .         62                    16             6            40
+
+ST. JOSEPH CCSD 169 QUESTION D169
+(VOTE FOR)  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .        664   53.04           153            40           471
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .        588   46.96           152            50           386
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         87                    12             6            69
+
+FPD QUESTION LINCOLNSHIRE FIELDS FPD
+(VOTE FOR)  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .        568   85.93           141            44           383
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .         93   14.07            16            22            55
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         40                     7             4            29
+
+SANGAMON VALLEY WATER QUESTION WAT
+(VOTE FOR)  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .      1,456   74.21           495           107           854
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .        506   25.79           183            40           283
+    Over Votes .  .  .  .  .  .  .  .  .          0                     0             0             0
+   Under Votes .  .  .  .  .  .  .  .  .         56                    20             4            32
+</PRE>
+</HTML>
