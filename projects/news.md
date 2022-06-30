@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:29 AM CT, Jun. 30 </p> 
+ <p class="updated_time"> 09:43 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 08:28 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61996698?at_medium=RSS&at_campaign=KARANGA">Calais migrant crisis: 15 arrested over Channel tragedy</a> BBC: The deaths of 27 people in November was one of the deadliest incidents in the English Channel. 
@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 05:37 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
+ <p class="updated_time"> 05:35 AM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-returns-to-growth-mode-as-covid-lockdowns-lift-11656565192">China's Economy Returns to Growth Mode as Covid-19 Lockdowns Lift</a> WSJ: Economic activity expanded in June after three months of contraction, according to official surveys of businesses and factories, but economists are downbeat about the prospects for a major revival. 
  <p class="updated_time"> 05:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel to get new PM as Netanyahu targets comeback</a> BBC: Yair Lapid will take over until polls in November, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 04:51 AM CT, Jun. 30 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 10:00 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61990495?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Putin still wants to take most of Ukraine - US</a> BBC: According to US intelligence assessments, Russia's invasion is likely to grind on for some time. 
- <p class="updated_time"> 07:59 PM CT, Jun. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-economy-returns-to-growth-mode-as-covid-lockdowns-lift-11656565192">China's Economy Returns to Growth Mode as Covid Lockdowns Lift</a> WSJ: Economic activity expanded in June after three months of contraction, according to official surveys of businesses and factories, but economists are downbeat about the prospects for a major revival. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 07:12 PM CT, Jun. 29 </p> 
