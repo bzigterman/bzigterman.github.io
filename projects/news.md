@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 05:37 AM CT, Jun. 30 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684">U.S. to Ramp Up Military Presence in Europe to Counter Russia</a> WSJ: The U.S. will make its biggest military expansion in Europe since the Cold War, including its first permanent troop presence in Poland, as NATO prepares for two more members to join the alliance in response to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 04:15 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108517978/a-journalist-says-the-philippines-is-shutting-down-her-critical-news-site">A journalist says the Philippines is shutting down her critical news site</a> NPR: Maria Ressa, the first Filipino Nobel Peace Prize recipient, says the government is closing Rappler, which gained notoriety for its reporting of President Duterte's bloody crackdown on illegal drugs. 
- <p class="updated_time"> 04:02 AM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1107656228/the-end-of-roe-has-implications-for-abortion-rights-around-the-globe">The end of Roe has implications for abortion rights around the globe</a> NPR: International rights groups have long warned that overturning Roe v. Wade could weaken abortion rights in other countries, potentially leading some nations to adopt new restrictive laws. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 01:30 AM CT, Jun. 29 </p> 
