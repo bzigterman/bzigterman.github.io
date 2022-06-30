@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 10:11 AM CT, June 30</p>
+<p class="updated_time"> Latest data: 10:26 AM CT, June 30</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -29,6 +29,14 @@ Currently:
   <source srcset="{{ site.baseurl }}/plots/temp_history.png"
           media="(min-width: 750px)">
   <img src="{{ site.baseurl }}/plots/temp_history_mobile.png" alt="" />
+</picture>
+
+## Almanac
+
+<picture>
+  <source srcset="{{ site.baseurl }}/plots/champaign_almanac.png"
+          media="(min-width: 750px)">
+  <img src="{{ site.baseurl }}/plots/champaign_almanac_mobile.png" alt="" />
 </picture>
 
 ## Severe Thunderstorm Outlook
