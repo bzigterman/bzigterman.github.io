@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:35 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 11:35 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61990497?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Suspected truck driver is charged</a> BBC: Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
- <p class="updated_time"> 11:24 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
  <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:38 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108913337/did-the-trump-camp-help-far-right-militia-groups-plan-the-jan-6-attack">Did the Trump camp help far-right militia groups plan the Jan. 6 attack?</a> NPR: New York Times journalist Alan Feuer says some members of Trump's inner circle have close ties to the Proud Boys and the Oath Keepers, whose leaders have been charged with seditious conspiracy. 
  <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
  <p class="updated_time"> 11:10 AM CT, Jun. 30 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108814577/period-tracker-app-flo-privacy-roe-v-wade">Period tracker app Flo developing 'anonymous mode' to quell post-Roe privacy concerns</a> NPR: The period tracker app Flo is developing an "anonymous mode" in the wake of privacy concerns after the Supreme Court ruled to overturn Roe v. Wade. 
  <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108351562/roe-abortion-supreme-court-scotus-law">One man's outsized role in shaping the Supreme Court and overturning Roe</a> NPR: A dedicated minority of conservative activists has been working for decades to dismantle Roe v. Wade. One man in particular has played an outsized role in that effort: Leonard Leo. 
- <p class="updated_time"> 07:22 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108798387/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel">Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel</a> NPR: Testimony in the Jan. 6 hearings so far has shown Cipollone present at key points in the leadup to Jan. 6 and on the day of the attack. He figured heavily in Tuesday's testimony of Cassidy Hutchinson. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
 
