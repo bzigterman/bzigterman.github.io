@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 05:37 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
  <p class="updated_time"> 05:07 AM CT, Jun. 30 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346">Ukraine, Russia Exchange Prisoners as War Grinds On</a> WSJ: The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow. 
  <p class="updated_time"> 11:43 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/29/1108279324/many-pakistanis-dig-the-cultural-nods-on-ms-marvel-but-are-mixed-on-casting">Many Pakistanis dig the cultural nods on 'Ms. Marvel' but are mixed on casting</a> NPR: Pakistanis weigh in on the new Disney+ show, which features the story of Kamala Khan, a Pakistani American teen who discovers her superpowers in her grandmother's bangle. 
- <p class="updated_time"> 10:38 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61986705?at_medium=RSS&at_campaign=KARANGA">Austria mudslide: Aerial footage from Carinthia region shows scale of damage</a> BBC: Houses and roads in a mountainous southern region were flooded, and vehicles were stranded in the mud. 
  <p class="updated_time"> 08:12 AM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108536666/biden-is-boosting-u-s-troops-in-europe-because-of-russias-war-in-ukraine">Biden is boosting U.S. troops in Europe because of Russia's war in Ukraine</a> NPR: President Biden said there will be a permanent headquarters in Poland for the U.S. 5th Army Corps. It's one of several ways NATO forces will be beefed up after Russia invaded Ukraine. 
  <p class="updated_time"> 07:41 AM CT, Jun. 29 </p> 
