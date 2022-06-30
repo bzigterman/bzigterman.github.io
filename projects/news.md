@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:02 AM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden calls for a filibuster carveout to protect abortion rights</a> NPR: President Joe Biden said he would support changing the filibuster rules in the Senate to ensure that privacy rights, including abortion rights, are enshrined into law. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108843830/election-denialism-has-evolved-into-a-sprawling-nationwide-force-that-s-gone-loc">Election denialism has evolved into a sprawling nationwide force that's gone local</a> NPR: Election deniers are spreading false narratives that there was rampant fraud in the 2020 election. NPR tracked four men who appeared at more than 300 events in 45 states and Washington, D.C. 
  <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/29/1108687699/sen-bernie-sanders-calls-dot-fining-airlines-disrupted-flights">Sen. Bernie Sanders calls on DOT to start fining airlines for disrupted flights</a> NPR: Ahead of the Fourth of July travel weekend, Bernie Sanders calls on the U.S. Department of Transportation to take action to reduce airline cancellations and delays. 
  <p class="updated_time"> 03:47 PM CT, Jun. 29 </p> 
  <a href="https://www.npr.org/2022/06/29/1108710364/secretary-blinken-and-spanish-foreign-minister-albares-on-new-nato-strategic-con">Secretary Blinken and Spanish Foreign Minister Albares on new NATO Strategic Concept</a> NPR: NPR's Michel Martin moderates a panel with Secretary of State Antony Blinken and Spain's Foreign Minister José Manuel Albares at the NATO Public Forum in Madrid about Ukraine and immigration. 
- <p class="updated_time"> 03:44 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108573335/hutchinsons-bombshell-jan-6-testimony-sways-legal-experts-and-conservative-media">Hutchinson's bombshell Jan. 6 testimony sways legal experts and conservative media</a> NPR: The explosive testimony about former President Trump's actions on Jan. 6, 2021, has led to calls from some right-leaning outlets that Trump is unfit to serve in office. 
  <p class="updated_time"> 12:30 PM CT, Jun. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:59 AM CT, Jun. 29 </p> 
