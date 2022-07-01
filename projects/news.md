@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 18 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, Ukraine says. 
+ <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">The trial begins today for Brittney Griner, the WNBA star detained in Russia</a> NPR: Griner, 31, was arrested on Feb. 17, after authorities at a Moscow area airport allegedly found cannabis vape cartridges in her luggage 
+ <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
+ <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
+ <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
  <p class="updated_time"> 01:07 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
  <p class="updated_time"> 12:23 AM CT, Jul. 01 </p> 
@@ -19,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62006032?at_medium=RSS&at_campaign=KARANGA">Nato Summit: Did Justin Trudeau forget Australian PM’s name?</a> BBC: The awkward moment played out when the leaders met at the Nato Summit in Madrid. 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
+ <p class="updated_time"> 10:41 PM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/eu-targets-foreign-subsidies-aiming-at-china-but-worrying-u-s-companies-11656661297">EU Targets Foreign Subsidies, Worrying U.S. Companies</a> WSJ: EU lawmakers struck a political agreement on new rules for companies that reap financial benefits from governments outside the bloc, pushing forward a proposal that sparked concern from some U.S. business groups. 
  <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
@@ -52,15 +64,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 02:53 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Biden Vows Ukraine Help for 'as Long as It Takes'</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
+ <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Biden Vows to Help Ukraine for 'as Long as It Takes'</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62001162?at_medium=RSS&at_campaign=KARANGA">Danish mink cull: PM Frederiksen and officials heavily criticised</a> BBC: Mette Frederiksen is found to have misled the public while officials are accused of misconduct. 
  <p class="updated_time"> 01:02 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002298?at_medium=RSS&at_campaign=KARANGA">Controversial Florida abortion ban blocked by court</a> BBC: A Florida judge has granted a temporary injunction against a law banning abortions after 15 weeks. 
- <p class="updated_time"> 12:49 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62003518?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson sworn in as first black woman on US top court</a> BBC: Justice Jackson will join the highest court in the US at a pivotal moment in its 233-year history. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
@@ -76,7 +86,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:40 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/indonesias-jokowi-visits-ukraine-and-russia-warning-food-crisis-looms-11656613955">Indonesia's Jokowi Visits Ukraine and Russia, Warning Food Crisis Looms</a> WSJ: The leader avoided criticizing Moscow, in line with the position of many developing nations wanting to preserve ties with Russia and not be seen as aligned with the U.S. 
  <p class="updated_time"> 08:38 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/monkeypoxs-unusual-spread-in-democratic-republic-of-congo-puzzles-researchers-11656610703">Monkeypox's Unusual Spread in Democratic Republic of Congo Puzzles Researchers</a> WSJ: Monkeypox has been reported in the DRC for decades, but the virus is now being found in provinces where it had never before been seen. So far, researchers don’t know why. 
+ <a href="https://www.wsj.com/articles/monkeypoxs-unusual-spread-in-democratic-republic-of-congo-puzzles-researchers-11656610703">Monkeypox's Unusual Spread in Congo Puzzles Researchers</a> WSJ: Monkeypox has been reported in the DRC for decades, but the virus is now being found in provinces where it had never before been seen. So far, researchers don’t know why. 
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
@@ -87,18 +97,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108720505/lgbtqia-envoys-human-rights-trans-rights-gay-marriage-criminalization">3 LGBTQ diplomats see opportunity and crisis for queer people around the world</a> NPR: Only four countries in the world have a high level diplomat specifically assigned to handle LGBTQ issues. We spoke to three of them to hear what their work has taught them. 
  <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
- <p class="updated_time"> 02:36 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108843686/chinese-leader-xi-arrives-in-hong-kong-for-25th-anniversary-of-handover">Chinese leader Xi arrives in Hong Kong for 25th anniversary of handover</a> NPR: The Chinese leader is expected to speak about Hong Kong's future at a ceremony Friday marking the return of the former British colony to Chinese rule on July 1, 1997. 
- <p class="updated_time"> 01:22 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/israel-to-hold-new-elections-after-parliament-dissolved-11656576682">Israel Sets New Election, Spotlighting Role of Arab Minority in Government</a> WSJ: As the country heads to its fifth election in less than four years, the role of Arab parties has emerged as a lightning rod, possibly driving a further rightward shift in the electorate and giving a boost to the fortunes of former premier Benjamin Netanyahu. 
- <p class="updated_time"> 12:56 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108841337/ferdinand-marcos-jr-takes-oath-philippine-president">Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president</a> NPR: The namesake son of an ousted dictator is sworn in as Philippine president in one of the greatest political comebacks in recent history in the country. 
  <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
- <p class="updated_time"> 06:33 PM CT, Jun. 29 </p> 
- <a href="https://www.npr.org/2022/06/29/1108777465/putin-russia-unwilling-engage-ukraine-talks-says-antony-blinken">Putin has been unwilling to engage in Ukraine talks, says Secretary of State Blinken</a> NPR: It is important that the Ukrainians define the terms of any potential negotiation, Blinken tells NPR, while the U.S. makes sure that the country has the means to repel Russian aggression. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
  <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
