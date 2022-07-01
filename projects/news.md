@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470597/odesa-maintains-some-normalcy-despite-russian-aerial-assault-on-southern-ukraine">Odesa maintains some normalcy despite Russian aerial assault on southern Ukraine</a> NPR: Russia has increased its aerial assault on southern Ukraine, firing missiles at areas outside of the Donbas. But despite the threat, it's almost as if the war hasn't touched the port city Odesa. 
  <p class="updated_time"> 03:32 PM CT, Jul. 01 </p> 
@@ -44,7 +46,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
  <p class="updated_time"> 05:24 AM CT, Jul. 01 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
- <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
@@ -120,6 +120,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109470737/some-fear-christian-nationalism-is-getting-legal-legitimacy-through-the-supreme-">Some fear Christian nationalism is getting legal legitimacy through the Supreme Court</a> NPR: Three recent SCOTUS rulings have been celebrated by an extreme far right wing pushing conservative Christian values. Some see the decisions as evidence this ideology has found legitimacy on the bench. 
+ <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470657/gov-lujan-grisham-asks-biden-to-consider-providing-abortion-care-on-federal-land">Gov. Lujan Grisham asks Biden to consider providing abortion care on federal land</a> NPR: NPR's Ari Shapiro talks with Michelle Lujan Grisham, Democratic governor of New Mexico, about Friday's meeting with President Biden regarding the Supreme Court's overturning of Roe v. Wade. 
  <p class="updated_time"> 03:49 PM CT, Jul. 01 </p> 
@@ -150,10 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1107260645/the-effect-the-supreme-courts-climate-decision-may-have">The effect the Supreme Court's climate decision may have</a> NPR: The U.S. Supreme Court ruled that the Environment Protection Agency does not have the authority to mandate carbon emissions reductions from existing power plants. 
  <p class="updated_time"> 03:42 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051809/immigration-advocates-are-cheering-the-supreme-courts-decision-on-remain-in-mexi">Immigration advocates are cheering the Supreme Court's decision on 'Remain in Mexico'</a> NPR: The Supreme Court sided with the Biden administration in a major immigration ruling. The Court says the government can roll back the so-called "Remain in Mexico" policy implemented by President Trump. 
- <p class="updated_time"> 03:27 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1109051816/supreme-court-allows-biden-administration-to-roll-back-remain-in-mexico-policy">Supreme Court allows Biden administration to roll back 'Remain In Mexico' policy</a> NPR: NPR's Juana Summers speaks with Marysol Castro, an attorney with El Paso's Diocesan Migrant and Refugee Services, about the Remain in Mexico decision. 
- <p class="updated_time"> 02:52 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6">Election deniers have taken their fraud theories on tour — to nearly every state</a> NPR: Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide. 
  <p class="updated_time"> 01:29 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/epa-supreme-court-ruling-effect/index.html">How the Supreme Court ruling will gut the EPA's ability to fight the climate crisis</a> CNN: The Supreme Court on Thursday dealt a major blow to climate action by handcuffing the Environmental Protection Agency's ability to regulate planet-warming emissions from the country's power plants, just as scientists warn the world is running out of time to get the climate crisis under control. 
 
