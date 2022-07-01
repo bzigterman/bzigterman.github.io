@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 05:25 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Lorry driver 'unaware air conditioner had stopped working'</a> BBC: A police informant says he was told that the driver was "unaware" the air conditioning had failed. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: A police informant says he was told that the driver was "unaware" the air conditioning had failed. 
  <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
- <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
  <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
