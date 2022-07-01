@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Lorry driver 'unaware air conditioner had stopped working'</a> BBC: A police informant says he was told that the driver was "unaware" the air conditioning had failed. 
  <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
- <p class="updated_time"> 05:24 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-62008763?at_medium=RSS&at_campaign=KARANGA">Logan Paul: Youtuber signs WWE contract ready for Summerslam</a> BBC: The YouTuber will return to the ring to reignite his feud with veteran wrestler The Miz. 
  <p class="updated_time"> 04:58 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/israels-lapid-seizes-his-turn-to-take-on-netanyahu-11656683929">Israel's Lapid Seizes His Turn to Take On Netanyahu</a> WSJ: Yair Lapid became Israel’s prime minister, albeit in a caretaker capacity, after waiting more than a decade. Now the former talk-show host has four months to broaden his support base and keep his job before the next elections in November. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
