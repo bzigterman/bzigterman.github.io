@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing starvation as food aid cuts hit</a> BBC: Some 60% of the country's population faces starvation amid food aid cuts, aid workers say. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:18 PM CT, Jul. 01 </p> 
@@ -19,38 +21,36 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
- <p class="updated_time"> 11:02 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing starvation as food aid cuts hit</a> BBC: Some 60% of the country's population faces starvation amid food aid cuts, aid workers say. 
  <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 10:31 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
+ <p class="updated_time"> 09:08 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614">New U.S. Guided Rockets Strengthen Ukraine's Hand</a> WSJ: Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region. 
+ <p class="updated_time"> 09:06 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62008245?at_medium=RSS&at_campaign=KARANGA">Julian Assange submits High Court appeal to fight extradition</a> BBC: The Wikileaks founder seeks to appeal against a decision to extradite him over leaked files. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1106327585/russia-invasion-ukraine-environment-impacts">Shredded trees, dead dolphins and wildfires — how Russia's invasion is hurting nature</a> NPR: The environmental impacts from Russia's invasion of Ukraine could be felt far longer than the war itself. 
  <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
- <p class="updated_time"> 06:34 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
  <p class="updated_time"> 05:24 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62008763?at_medium=RSS&at_campaign=KARANGA">Logan Paul: Youtuber signs WWE contract ready for Summerslam</a> BBC: The YouTuber will return to the ring to reignite his feud with veteran wrestler The Miz. 
- <p class="updated_time"> 05:12 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/assange-files-fresh-appeal-against-extradition-to-u-s-11656679501">Julian Assange Files Fresh Appeal Against Extradition to U.S.</a> WSJ: WikiLeaks founder Julian Assange has appealed his extradition from the U.K., setting the stage for months of further legal wrangling over whether he should be sent to the U.S. to face espionage charges. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
+ <p class="updated_time"> 04:43 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831">Taliban Splits Emerge Over Religion, Power and Girls' Schools</a> WSJ: The Taliban stayed cohesive as a fighting force during the 20-year insurgency. Now cracks are appearing on multiple fronts. 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
  <p class="updated_time"> 04:08 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
- <p class="updated_time"> 03:32 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/summits-set-stage-for-europes-new-reality-long-term-confrontation-with-russia-11656678747">Europe's New Reality: Long-Term Confrontation With Russia</a> WSJ: With no sign of an early end to the war in Ukraine, Western leaders at three summits in the past week underlined their strong support for the country and laid out plans to deter what they see as Russian expansionist ambitions. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">Russian prosecutors call first witnesses in case against Brittney Griner</a> NPR: Griner, 31, is "a bit worried" because of the trial and the potential of a prison sentence, he lawyer tells NPR, "but she's a tough lady and I think she will manage." 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
@@ -59,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
- <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
  <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
@@ -120,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:28 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109319734/biden-warns-democratic-governors-a-gop-congress-would-try-to-ban-abortion-nation">Biden warns Democratic governors a GOP Congress would try to ban abortion nationwide</a> NPR: President Joe Biden met with Democratic governors Friday afternoon to discuss ways their states are protecting abortion access and continuing to push abortion as an election issue in November. 
  <p class="updated_time"> 11:56 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109355442/medal-of-freedom-simone-biles-john-mccain-gabby-giffords">Biden will award the Medal of Freedom to Biles, McCain, Giffords and others</a> NPR: The president will present the nation's highest civilian honor to 17 people, who also include Oscar-winning Denzel Washington, the late Apple co-founder Steve Jobs and soccer Olympian Megan Rapinoe. 
  <p class="updated_time"> 10:51 AM CT, Jul. 01 </p> 
@@ -131,7 +131,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:07 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109275691/the-supreme-court-could-radically-reshape-elections-for-president-and-congress">The Supreme Court could radically reshape elections for president and Congress</a> NPR: The Supreme Court has agreed to hear a case that could give state legislatures a lot of unchecked power over the results of federal elections. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees">The Christian Right is winning cultural battles while public opinion disagrees</a> NPR: The Christian Right's wins in the Supreme Court on abortion and prayer in school come at a time when a growing majority of Americans are strongly opposed to its views. 
+ <a href="https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees">The Christian Right is winning in court while losing in public opinion</a> NPR: The Christian Right's wins in the Supreme Court on abortion and prayer in school come at a time when a growing majority of Americans are strongly opposed to its views. 
  <p class="updated_time"> 07:03 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109137857/delta-pilots-picket-major-airports-call-for-higher-pay">More than 1,200 Delta pilots picket at 7 major airports to call for higher pay</a> NPR: Delta pilots are looking for higher pay and better insurance as contract negotiations continue with the company. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
@@ -154,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108913337/did-the-trump-camp-help-far-right-militia-groups-plan-the-jan-6-attack">Did the Trump camp help far-right militia groups plan the Jan. 6 attack?</a> NPR: New York Times journalist Alan Feuer says some members of Trump's inner circle have close ties to the Proud Boys and the Oath Keepers, whose leaders have been charged with seditious conspiracy. 
  <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
- <p class="updated_time"> 10:33 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108912836/biden-weighs-on-what-was-accomplished-at-the-nato-summit">Biden weighs in on what was accomplished at the NATO summit</a> NPR: President Biden holds a press conference as the NATO summit wraps in Madrid. 
 
 
 </details>
