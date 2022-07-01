@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:14 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
+ <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:17 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 19 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
@@ -25,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
+ <p class="updated_time"> 01:58 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/how-chinas-national-security-law-silences-hong-kong-11656673119">How China's National Security Law Silences Hong Kong</a> WSJ: Jailed pro-democracy leaders are being ground down by months without trial and the fear they will spend the rest of their lives behind bars. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
  <p class="updated_time"> 01:12 AM CT, Jul. 01 </p> 
@@ -97,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
- <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
