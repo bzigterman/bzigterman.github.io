@@ -14,7 +14,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">The trial begins today for Brittney Griner, the WNBA star detained in Russia</a> NPR: Griner, 31, was arrested on Feb. 17, after authorities at a Moscow area airport allegedly found cannabis vape cartridges in her luggage 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
+ <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
