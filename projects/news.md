@@ -9,44 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 20 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1106327585/russia-invasion-ukraine-environment-impacts">Shredded trees, dead dolphins and wildfires — how Russia's invasion is hurting nature</a> NPR: The environmental impacts from Russia's invasion of Ukraine could be felt far longer than the war itself. 
+ <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
  <p class="updated_time"> 06:14 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
- <p class="updated_time"> 05:17 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 19 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
+ <p class="updated_time"> 04:12 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinpings-hong-kong-tour-signals-confidence-that-city-is-under-control-11656681135">Xi Jinping's Hong Kong Tour Signals Confidence That City Is Under Control</a> WSJ: China’s president left Hong Kong after a truncated trip to mark the 25th anniversary of the city’s return to Chinese rule, with apparently a new era of stability in a territory rocked by violent protests a few years ago. 
  <p class="updated_time"> 04:08 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
  <p class="updated_time"> 03:59 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 20 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
+ <p class="updated_time"> 03:45 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/assange-files-fresh-appeal-against-extradition-to-u-s-11656679501">Julian Assange Files Fresh Appeal Against Extradition to U.S.</a> WSJ: WikiLeaks founder Julian Assange has appealed his extradition from the U.K., setting the stage for months of further legal wrangling over whether he should be sent to the U.S. to face espionage charges. 
+ <p class="updated_time"> 03:32 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/summits-set-stage-for-europes-new-reality-long-term-confrontation-with-russia-11656678747">Europe's New Reality: Long-Term Confrontation With Russia</a> WSJ: With no sign of an early end to the war in Ukraine, Western leaders at three summits in the past week underlined their strong support for the country and laid out plans to deter what they see as Russian expansionist ambitions. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">Russian prosecutors call first witnesses in case against Brittney Griner</a> NPR: Griner, 31, is "a bit worried" because of the trial and the potential of a prison sentence, he lawyer tells NPR, "but she's a tough lady and I think she will manage." 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
- <p class="updated_time"> 02:03 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-competition-zeroes-in-on-growth-11656673380">U.S.-China Competition Zeroes In on Growth</a> WSJ: President Biden’s statement that U.S. gross domestic product might grow faster this year than China’s has struck a nerve in Beijing 
- <p class="updated_time"> 01:58 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/how-chinas-national-security-law-silences-hong-kong-11656673119">How China's National Security Law Silences Hong Kong</a> WSJ: Jailed pro-democracy leaders are being ground down by months without trial and the fear they will spend the rest of their lives behind bars. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
- <p class="updated_time"> 01:12 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347">In Russia's Biggest Cities, Ukraine War Fades to Background Noise</a> WSJ: Bars are filled to the brim, film and jazz festivals are sold out and Moscow’s police officers are busier handing out fines for public drinking than putting down dissent. 
  <p class="updated_time"> 01:07 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
- <p class="updated_time"> 01:06 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/north-korea-blames-alien-things-from-south-for-covid-19-outbreak-11656669974">North Korea Blames 'Alien Things' From South for Covid-19 Outbreak</a> WSJ: North Korea claimed its first Covid-19 outbreak began after two people touched “alien things,” state media said, blaming exposure to what they said were virus-tainted balloons that had been sent over the border from South Korea. 
- <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
  <p class="updated_time"> 12:10 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62005320?at_medium=RSS&at_campaign=KARANGA">UK sandwich chain Pret A Manger to launch in India</a> BBC: Indian conglomerate Reliance Industries will open outlets across the country under a franchise deal. 
  <p class="updated_time"> 12:02 AM CT, Jul. 01 </p> 
@@ -69,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61877762?at_medium=RSS&at_campaign=KARANGA">How flowers are 'put to sleep' for long sea voyages</a> BBC: Kenya's flower exporters are switching to sea freight as new tech helps keep flowers fresh at sea. 
  <p class="updated_time"> 04:31 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109087285/pro-cyclist-texas-murder-arrest-costa-rica">A Texas woman accused in a pro cyclist's death is arrested in Costa Rica</a> NPR: Kaitlin Marie Armstrong (shown), suspected in the fatal shooting of professional cyclist Anna Moriah Wilson at an Austin home, has been arrested in Costa Rica, the U.S. Marshals Service said Thursday. 
- <p class="updated_time"> 04:28 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61916558?at_medium=RSS&at_campaign=KARANGA">Israel gets new PM as Netanyahu targets comeback</a> BBC: Yair Lapid takes over until polls in November, with Benjamin Netanyahu aiming to return to power. 
  <p class="updated_time"> 04:25 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 04:24 PM CT, Jun. 30 </p> 
@@ -99,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1104033925/las-voces-de-victimas-de-crimenes-de-genero-en-argentina-a-traves-de-testimonios">Las voces de víctimas de crímenes de género en Argentina a través de testimonios</a> NPR: Un proyecto visual documenta a familiares, hermanos, padres y amigos de víctimas de crímenes de género en Argentina 
  <p class="updated_time"> 09:49 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
- <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
