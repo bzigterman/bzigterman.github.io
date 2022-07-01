@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:53 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
+ <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62008245?at_medium=RSS&at_campaign=KARANGA">Julian Assange submits High Court appeal to fight extradition</a> BBC: The Wikileaks founder seeks to appeal against a decision to extradite him over leaked files. 
  <p class="updated_time"> 08:44 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 20 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
@@ -19,6 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
+ <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
+ <p class="updated_time"> 05:24 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-62008763?at_medium=RSS&at_campaign=KARANGA">Logan Paul: Youtuber signs WWE contract ready for Summerslam</a> BBC: The YouTuber will return to the ring to reignite his feud with veteran wrestler The Miz. 
  <p class="updated_time"> 05:12 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/assange-files-fresh-appeal-against-extradition-to-u-s-11656679501">Julian Assange Files Fresh Appeal Against Extradition to U.S.</a> WSJ: WikiLeaks founder Julian Assange has appealed his extradition from the U.K., setting the stage for months of further legal wrangling over whether he should be sent to the U.S. to face espionage charges. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
@@ -41,20 +49,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
- <p class="updated_time"> 01:07 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
  <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
- <p class="updated_time"> 12:10 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-62005320?at_medium=RSS&at_campaign=KARANGA">UK sandwich chain Pret A Manger to launch in India</a> BBC: Indian conglomerate Reliance Industries will open outlets across the country under a franchise deal. 
- <p class="updated_time"> 12:02 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62006032?at_medium=RSS&at_campaign=KARANGA">Nato Summit: Did Justin Trudeau forget Australian PM’s name?</a> BBC: The awkward moment played out when the leaders met at the Nato Summit in Madrid. 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
  <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
- <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62005216?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous leaders agree to call off strikes</a> BBC: Indigenous groups led two weeks of protests against fuel costs, paralysing the country's economy. 
  <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61990913?at_medium=RSS&at_campaign=KARANGA">Living through Japan's hottest summer on record</a> BBC: Japan is experiencing record-breaking heat - and summer has hardly begun. 
  <p class="updated_time"> 06:22 PM CT, Jun. 30 </p> 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61877762?at_medium=RSS&at_campaign=KARANGA">How flowers are 'put to sleep' for long sea voyages</a> BBC: Kenya's flower exporters are switching to sea freight as new tech helps keep flowers fresh at sea. 
  <p class="updated_time"> 04:31 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109087285/pro-cyclist-texas-murder-arrest-costa-rica">A Texas woman accused in a pro cyclist's death is arrested in Costa Rica</a> NPR: Kaitlin Marie Armstrong (shown), suspected in the fatal shooting of professional cyclist Anna Moriah Wilson at an Austin home, has been arrested in Costa Rica, the U.S. Marshals Service said Thursday. 
- <p class="updated_time"> 04:25 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62000742?at_medium=RSS&at_campaign=KARANGA">Supreme Court limits Biden's power to cut emissions</a> BBC: The landmark ruling curbs federal power to limit greenhouse gas emissions in a setback for President Biden. 
  <p class="updated_time"> 04:24 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host who is Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter takes the top office for the first time. 
  <p class="updated_time"> 04:01 PM CT, Jun. 30 </p> 
@@ -83,10 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
- <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62001162?at_medium=RSS&at_campaign=KARANGA">Danish mink cull: PM Frederiksen and officials heavily criticised</a> BBC: Mette Frederiksen is found to have misled the public while officials are accused of misconduct. 
- <p class="updated_time"> 01:02 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62002298?at_medium=RSS&at_campaign=KARANGA">Controversial Florida abortion ban blocked by court</a> BBC: A Florida judge has granted a temporary injunction against a law banning abortions after 15 weeks. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
@@ -122,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:15 AM CT, Jul. 01 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
  <p class="updated_time"> 04:07 AM CT, Jul. 01 </p> 
@@ -148,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108737968/federal-websites-accessible-disabled">DOJ fails to report on making federal websites accessible to disabled people</a> NPR: It has been 10 years since the Justice Department filed a report on the government's compliance with IT accessibility standards, a group of concerned senators say. Now they are asking for answers. 
  <p class="updated_time"> 01:29 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/epa-supreme-court-ruling-effect/index.html">How the Supreme Court ruling will gut the EPA's ability to fight the climate crisis</a> CNN: The Supreme Court on Thursday dealt a major blow to climate action by handcuffing the Environmental Protection Agency's ability to regulate planet-warming emissions from the country's power plants, just as scientists warn the world is running out of time to get the climate crisis under control. 
- <p class="updated_time"> 12:57 PM CT, Jun. 30 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:38 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108913337/did-the-trump-camp-help-far-right-militia-groups-plan-the-jan-6-attack">Did the Trump camp help far-right militia groups plan the Jan. 6 attack?</a> NPR: New York Times journalist Alan Feuer says some members of Trump's inner circle have close ties to the Proud Boys and the Oath Keepers, whose leaders have been charged with seditious conspiracy. 
  <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
