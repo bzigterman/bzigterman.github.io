@@ -670,11 +670,11 @@ today_temp_history <- temp_history %>%
 
 record_range <- today_temp_history %>%
   select(temp) %>%
-  mutate(period = "Record") 
+  mutate(period = "Record (since 1888)") 
 
 seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
            length.out = 100)
-records_range <- tibble(period = "Record",
+records_range <- tibble(period = "Record (since 1888)",
                         temp = seq)
 
 
@@ -691,7 +691,7 @@ normals_longer <- normals_today %>%
 
 seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
            length.out = 100)
-normals_range <- tibble(period = "Normal",
+normals_range <- tibble(period = "Normal (1991–2020)",
                         temp = seq)
 
 temps <- full_join(records_range,normals_range) %>%
@@ -699,7 +699,8 @@ temps <- full_join(records_range,normals_range) %>%
   full_join(temps_past_hour) %>%
   select(period, temp)
 
-almanac_data <- tibble(period = c("Record","Normal","Today","Now"),
+almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
+                                  "Today","Now"),
                        min = c(min(today_temp_history$temp),
                                normals_today$min,
                                min(temps_today$temp),
@@ -714,8 +715,8 @@ almanac_longer <- pivot_longer(almanac_data,
   mutate(period = recode_factor(period, 
                               "current"       = "Current",
                               "today"        = "Today",
-                              "normal"       = "Normal",
-                              "record"       = "Record"))
+                              "normal"       = "Normal (1991–2020)",
+                              "record"       = "Record (since 1888)"))
 
 # ggplot(almanac_longer, aes(x = 1,
 #                            y = value,
@@ -768,7 +769,8 @@ p <- ggplot(data = temps,
    scale_x_discrete(limits = c(
      "Now",
      "Today",
-     "Normal","Record"),
+     "Normal (1991–2020)",
+     "Record (since 1888)"),
      labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
