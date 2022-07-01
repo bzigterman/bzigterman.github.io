@@ -19,20 +19,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
+ <p class="updated_time"> 05:12 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/assange-files-fresh-appeal-against-extradition-to-u-s-11656679501">Julian Assange Files Fresh Appeal Against Extradition to U.S.</a> WSJ: WikiLeaks founder Julian Assange has appealed his extradition from the U.K., setting the stage for months of further legal wrangling over whether he should be sent to the U.S. to face espionage charges. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
- <p class="updated_time"> 04:12 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/xi-jinpings-hong-kong-tour-signals-confidence-that-city-is-under-control-11656681135">Xi Jinping's Hong Kong Tour Signals Confidence That City Is Under Control</a> WSJ: China’s president left Hong Kong after a truncated trip to mark the 25th anniversary of the city’s return to Chinese rule, with apparently a new era of stability in a territory rocked by violent protests a few years ago. 
  <p class="updated_time"> 04:08 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
  <p class="updated_time"> 03:59 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 20 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
- <p class="updated_time"> 03:45 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/assange-files-fresh-appeal-against-extradition-to-u-s-11656679501">Julian Assange Files Fresh Appeal Against Extradition to U.S.</a> WSJ: WikiLeaks founder Julian Assange has appealed his extradition from the U.K., setting the stage for months of further legal wrangling over whether he should be sent to the U.S. to face espionage charges. 
  <p class="updated_time"> 03:32 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/summits-set-stage-for-europes-new-reality-long-term-confrontation-with-russia-11656678747">Europe's New Reality: Long-Term Confrontation With Russia</a> WSJ: With no sign of an early end to the war in Ukraine, Western leaders at three summits in the past week underlined their strong support for the country and laid out plans to deter what they see as Russian expansionist ambitions. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
@@ -45,12 +43,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
  <p class="updated_time"> 01:07 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
+ <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
  <p class="updated_time"> 12:10 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62005320?at_medium=RSS&at_campaign=KARANGA">UK sandwich chain Pret A Manger to launch in India</a> BBC: Indian conglomerate Reliance Industries will open outlets across the country under a franchise deal. 
  <p class="updated_time"> 12:02 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62006032?at_medium=RSS&at_campaign=KARANGA">Nato Summit: Did Justin Trudeau forget Australian PM’s name?</a> BBC: The awkward moment played out when the leaders met at the Nato Summit in Madrid. 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
+ <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005216?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous leaders agree to call off strikes</a> BBC: Indigenous groups led two weeks of protests against fuel costs, paralysing the country's economy. 
  <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
