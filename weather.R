@@ -785,7 +785,7 @@ p <- ggplot(data = temps,
   )
 p
 ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
+       width = 4, height = 8*(628/1200), dpi = 320)
 
 p +
   theme(
