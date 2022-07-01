@@ -9,28 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:09 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 18 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, Ukraine says. 
+ <p class="updated_time"> 05:17 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 19 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
+ <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
+ <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
+ <p class="updated_time"> 04:08 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">The trial begins today for Brittney Griner, the WNBA star detained in Russia</a> NPR: Griner, 31, was arrested on Feb. 17, after authorities at a Moscow area airport allegedly found cannabis vape cartridges in her luggage 
+ <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">The trial begins for Brittney Griner, the WNBA star detained in Russia</a> NPR: Griner, 31, was arrested on Feb. 17, after authorities at a Moscow area airport allegedly found cannabis vape cartridges in her luggage 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
+ <p class="updated_time"> 01:12 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347">In Russia's Biggest Cities, Ukraine War Fades to Background Noise</a> WSJ: Bars are filled to the brim, film and jazz festivals are sold out and Moscow’s police officers are busier handing out fines for public drinking than putting down dissent. 
  <p class="updated_time"> 01:07 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
- <p class="updated_time"> 12:23 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
+ <p class="updated_time"> 01:06 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-blames-alien-things-from-south-for-covid-19-outbreak-11656669974">North Korea Blames 'Alien Things' From South for Covid-19 Outbreak</a> WSJ: North Korea claimed its first Covid-19 outbreak began after two people touched “alien things,” state media said, blaming exposure to what they said were virus-tainted balloons that had been sent over the border from South Korea. 
+ <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
  <p class="updated_time"> 12:10 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-62005320?at_medium=RSS&at_campaign=KARANGA">UK sandwich chain Pret A Manger to launch in India</a> BBC: Indian conglomerate Reliance Industries will open outlets across the country under a franchise deal. 
  <p class="updated_time"> 12:02 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62006032?at_medium=RSS&at_campaign=KARANGA">Nato Summit: Did Justin Trudeau forget Australian PM’s name?</a> BBC: The awkward moment played out when the leaders met at the Nato Summit in Madrid. 
+ <p class="updated_time"> 11:51 PM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 18 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
- <p class="updated_time"> 10:41 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/eu-targets-foreign-subsidies-aiming-at-china-but-worrying-u-s-companies-11656661297">EU Targets Foreign Subsidies, Worrying U.S. Companies</a> WSJ: EU lawmakers struck a political agreement on new rules for companies that reap financial benefits from governments outside the bloc, pushing forward a proposal that sparked concern from some U.S. business groups. 
  <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
@@ -63,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
- <p class="updated_time"> 02:53 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">Biden Vows to Help Ukraine for 'as Long as It Takes'</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
@@ -75,28 +85,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
- <p class="updated_time"> 10:40 AM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/weather/features/62001812?at_medium=RSS&at_campaign=KARANGA">Europe heatwave breaks multiple June records</a> BBC: An oppressive heatwave has broken temperature records from the Arctic Circle to North Africa. 
  <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
  <p class="updated_time"> 10:17 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1104033925/las-voces-de-victimas-de-crimenes-de-genero-en-argentina-a-traves-de-testimonios">Las voces de víctimas de crímenes de género en Argentina a través de testimonios</a> NPR: Un proyecto visual documenta a familiares, hermanos, padres y amigos de víctimas de crímenes de género en Argentina 
  <p class="updated_time"> 09:49 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
- <p class="updated_time"> 09:40 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/indonesias-jokowi-visits-ukraine-and-russia-warning-food-crisis-looms-11656613955">Indonesia's Jokowi Visits Ukraine and Russia, Warning Food Crisis Looms</a> WSJ: The leader avoided criticizing Moscow, in line with the position of many developing nations wanting to preserve ties with Russia and not be seen as aligned with the U.S. 
- <p class="updated_time"> 08:38 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/monkeypoxs-unusual-spread-in-democratic-republic-of-congo-puzzles-researchers-11656610703">Monkeypox's Unusual Spread in Congo Puzzles Researchers</a> WSJ: Monkeypox has been reported in the DRC for decades, but the virus is now being found in provinces where it had never before been seen. So far, researchers don’t know why. 
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
  <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
- <p class="updated_time"> 04:00 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108720505/lgbtqia-envoys-human-rights-trans-rights-gay-marriage-criminalization">3 LGBTQ diplomats see opportunity and crisis for queer people around the world</a> NPR: Only four countries in the world have a high level diplomat specifically assigned to handle LGBTQ issues. We spoke to three of them to hear what their work has taught them. 
- <p class="updated_time"> 03:32 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization">New Zealand's government classifies the Proud Boys as a terrorist organization</a> NPR: Proud Boys Chairman Enrique Tarrio and four other members were federally charged earlier this month with conspiring to overthrow the government by attacking the Capitol in the Jan. 6 riots. 
  <p class="updated_time"> 12:07 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61973635?at_medium=RSS&at_campaign=KARANGA">Ukrainian troops being trained in the UK</a> BBC: Military personnel from Ukraine are being trained in Salisbury Plain by British and New Zealand troops. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
@@ -122,6 +122,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
+ <p class="updated_time"> 04:07 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109275698/the-supreme-court-curbs-the-epas-power-to-protect-the-environment">The Supreme Court curbs the EPA's power to protect the environment</a> NPR: The Supreme Court limited the ways in which the EPA could regulate greenhouse gas pollution from power plants, jeopardizing President Biden's goal for an emissions-free power sector by 2035. 
+ <p class="updated_time"> 04:07 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109275691/the-supreme-court-could-radically-reshape-elections-for-president-and-congress">The Supreme Court could radically reshape elections for president and Congress</a> NPR: The Supreme Court has agreed to hear a case that could give state legislatures a lot of unchecked power over the results of federal elections. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees">The Christian Right is winning cultural battles while public opinion disagrees</a> NPR: The Christian Right's wins in the Supreme Court on abortion and prayer in school come at a time when a growing majority of Americans are strongly opposed to its views. 
  <p class="updated_time"> 07:03 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109137857/delta-pilots-picket-major-airports-call-for-higher-pay">More than 1,200 Delta pilots picket at 7 major airports to call for higher pay</a> NPR: Delta pilots are looking for higher pay and better insurance as contract negotiations continue with the company. 
  <p class="updated_time"> 04:34 PM CT, Jun. 30 </p> 
@@ -148,14 +156,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108912836/biden-weighs-on-what-was-accomplished-at-the-nato-summit">Biden weighs in on what was accomplished at the NATO summit</a> NPR: President Biden holds a press conference as the NATO summit wraps in Madrid. 
  <p class="updated_time"> 09:50 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case">Supreme Court to take on controversial election-law case </a> NPR: At issue is a legal theory that would give state legislatures unfettered authority to set the rules for  federal elections, free of supervision by the state courts and state constitutions. 
- <p class="updated_time"> 09:47 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1107648753/supreme-court-north-carolina-redistricting-independent-state-legislature-theory">How the Supreme Court could radically reshape elections for president and Congress</a> NPR: The justices have agreed to hear a case next term about how much power state legislatures have over how congressional and presidential elections are run. It could upend election laws across the U.S. 
- <p class="updated_time"> 09:29 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108890878/liz-cheney-trump-domestic-threat">The U.S. is facing a domestic threat from Trump, Liz Cheney says</a> NPR: "Republicans cannot both be loyal to Donald Trump and loyal to the Constitution," Rep. Liz Cheney said in a speech at the Ronald Reagan Presidential Library. 
- <p class="updated_time"> 09:16 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1104015677/supreme-court-remain-in-mexico-rmm">Supreme Court sides with the Biden administration in 'Remain in Mexico' case</a> NPR: On a 5-4 vote, the U.S. Supreme Court handed the Biden administration a victory, allowing it to rescind the Trump-era Remain in Mexico policy. 
- <p class="updated_time"> 09:09 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1103595898/supreme-court-epa-climate-change">Supreme Court restricts the EPA's authority to mandate carbon emissions reductions</a> NPR: The U.S. Supreme Court, in a 6-3 decision, ruled that the Environmental Protection Agency does not have the authority to mandate carbon emissions from existing power plants. 
  <p class="updated_time"> 09:04 AM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/trump-republicans-2024-january-6-revelations/index.html">Jan. 6 committee revelations may give Republicans opening to take on Trump in 2024</a> CNN: Nothing ever really seems to bring Donald Trump down. 
 
