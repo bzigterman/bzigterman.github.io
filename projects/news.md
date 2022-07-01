@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:19 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
+ <p class="updated_time"> 02:52 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62013997?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Elite Russian regiment fights for support and the war for borsch</a> BBC: Support for Russia's elite fighting force looks less certain as the regiment reappears in Ukraine. 
+ <p class="updated_time"> 02:34 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109388362/new-monkeypox-cases-triple-in-europe">New monkeypox cases have tripled in Europe since June 15, the WHO regional chief says</a> NPR: The monkeypox outbreak is expanding, and Europe is at its center, says Dr. Hans Kluge. 
+ <p class="updated_time"> 02:33 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 02:10 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
@@ -21,18 +29,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: Grieving Honduran mother in despair over migrant relatives lost in Texas lorry tragedy. 
  <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
- <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
- <p class="updated_time"> 10:31 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
  <p class="updated_time"> 10:05 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 09:08 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614">New U.S. Guided Rockets Strengthen Ukraine's Hand</a> WSJ: Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region. 
- <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62008245?at_medium=RSS&at_campaign=KARANGA">Julian Assange submits High Court appeal to fight extradition</a> BBC: The Wikileaks founder seeks to appeal against a decision to extradite him over leaked files. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1106327585/russia-invasion-ukraine-environment-impacts">Shredded trees, dead dolphins and wildfires — how Russia's invasion is hurting nature</a> NPR: The environmental impacts from Russia's invasion of Ukraine could be felt far longer than the war itself. 
  <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
@@ -43,6 +45,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
  <p class="updated_time"> 05:24 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62008763?at_medium=RSS&at_campaign=KARANGA">Logan Paul: Youtuber signs WWE contract ready for Summerslam</a> BBC: The YouTuber will return to the ring to reignite his feud with veteran wrestler The Miz. 
+ <p class="updated_time"> 04:58 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/israels-lapid-seizes-his-turn-to-take-on-netanyahu-11656683929">Israel's Lapid Seizes His Turn to Take On Netanyahu</a> WSJ: Yair Lapid became Israel’s prime minister, albeit in a caretaker capacity, after waiting more than a decade. Now the former talk-show host has four months to broaden his support base and keep his job before the next elections in November. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61876082?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Xi Jinping defends China's rule at handover anniversary</a> BBC: Despite criticism, China's leader says the "one country two systems" model works and must continue. 
  <p class="updated_time"> 04:43 AM CT, Jul. 01 </p> 
@@ -95,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
  <p class="updated_time"> 10:18 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
- <p class="updated_time"> 10:17 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1104033925/las-voces-de-victimas-de-crimenes-de-genero-en-argentina-a-traves-de-testimonios">Las voces de víctimas de crímenes de género en Argentina a través de testimonios</a> NPR: Un proyecto visual documenta a familiares, hermanos, padres y amigos de víctimas de crímenes de género en Argentina 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
