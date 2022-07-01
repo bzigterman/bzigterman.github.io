@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005066?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: FBI adds Ruja Ignatova to top ten most wanted</a> BBC: Ruja Ignatova is accused of defrauding victims out of $4bn (£3.2bn) through a cryptocurrency scam. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61996296?at_medium=RSS&at_campaign=KARANGA">Assam: 'I saw my husband die as flood water rose around us'</a> BBC: Millions in India’s Assam state are struggling to piece together their lives after devastating floods. 
+ <p class="updated_time"> 06:01 PM CT, Jun. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61877762?at_medium=RSS&at_campaign=KARANGA">How flowers are 'put to sleep' for long sea voyages</a> BBC: Kenya's flower exporters are switching to sea freight as new tech helps keep flowers fresh at sea. 
  <p class="updated_time"> 04:31 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109087285/pro-cyclist-texas-murder-arrest-costa-rica">A Texas woman accused in a pro cyclist's death is arrested in Costa Rica</a> NPR: Kaitlin Marie Armstrong (shown), suspected in the fatal shooting of professional cyclist Anna Moriah Wilson at an Austin home, has been arrested in Costa Rica, the U.S. Marshals Service said Thursday. 
  <p class="updated_time"> 04:28 PM CT, Jun. 30 </p> 
@@ -39,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
+ <p class="updated_time"> 02:53 PM CT, Jun. 30 </p> 
+ <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">U.S. to Support Ukraine for 'as Long as It Takes,' Biden Says</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
  <p class="updated_time"> 02:50 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 01:13 PM CT, Jun. 30 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61993601?at_medium=RSS&at_campaign=KARANGA">Patrice Lumumba: DR Congo buries tooth of independence hero</a> BBC: The tooth is all that remains of the murdered independence leader whose body was dissolved in acid. 
  <p class="updated_time"> 09:49 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
- <p class="updated_time"> 08:41 AM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672">U.S. to Support Ukraine for 'as Long as It Takes,' Biden Says</a> WSJ: The U.S. president concluded days of summits in which nations pledged to aid Kyiv and counter Moscow, while Russian leader Vladimir Putin said “nothing has changed” in his goals in Ukraine. 
  <p class="updated_time"> 08:38 AM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/monkeypoxs-unusual-spread-in-democratic-republic-of-congo-puzzles-researchers-11656610703">Monkeypox's Unusual Spread in Democratic Republic of Congo Puzzles Researchers</a> WSJ: Monkeypox has been reported in the DRC for decades, but the virus is now being found in provinces where it had never before been seen. So far, researchers don’t know why. 
  <p class="updated_time"> 08:27 AM CT, Jun. 30 </p> 
@@ -126,6 +128,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:03 PM CT, Jun. 30 </p> 
+ <a href="https://www.npr.org/2022/06/30/1109137857/delta-pilots-picket-major-airports-call-for-higher-pay">More than 1,200 Delta pilots picket at 7 major airports to call for higher pay</a> NPR: Delta pilots are looking for higher pay and better insurance as contract negotiations continue with the company. 
  <p class="updated_time"> 04:34 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051844/a-crop-of-candidates-are-insisting-they-won-their-elections-despite-not-being-cl">A crop of candidates are insisting they won their elections, despite not being close</a> NPR: Some candidates who finished way down in Georgia's primaries have said their elections were tainted by fraud, and at least one is fundraising off of that. 
  <p class="updated_time"> 04:15 PM CT, Jun. 30 </p> 
@@ -160,8 +164,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/30/politics/trump-republicans-2024-january-6-revelations/index.html">Jan. 6 committee revelations may give Republicans opening to take on Trump in 2024</a> CNN: Nothing ever really seems to bring Donald Trump down. 
  <p class="updated_time"> 09:02 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108880746/biden-filibuster-abortion-rights">Biden says he supports change in Senate filibuster rules for abortion rights</a> NPR: President Biden has resisted changes to Senate rules requiring 60 votes to pass legislation. But he says he would support changing the filibuster to codify privacy rights, including abortion rights. 
- <p class="updated_time"> 04:06 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108843830/election-denialism-has-evolved-into-a-sprawling-nationwide-force-that-s-gone-loc">Election denialism has evolved into a sprawling nationwide force that's gone local</a> NPR: Election deniers are spreading false narratives that there was rampant fraud in the 2020 election. NPR tracked four men who appeared at more than 300 events in 45 states and Washington, D.C. 
 
 
 </details>
