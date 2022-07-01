@@ -901,7 +901,7 @@ Currently:
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-## Almanac for ",today,":
+## Almanac for ",today,"
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_almanac.png\"
