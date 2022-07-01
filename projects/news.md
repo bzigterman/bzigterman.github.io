@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109470597/odesa-maintains-some-normalcy-despite-russian-aerial-assault-on-southern-ukraine">Odesa maintains some normalcy despite Russian aerial assault on southern Ukraine</a> NPR: Russia has increased its aerial assault on southern Ukraine, firing missiles at areas outside of the Donbas. But despite the threat, it's almost as if the war hasn't touched the port city Odesa. 
  <p class="updated_time"> 03:32 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109476072/india-plastics-ban-begins">India begins to ban single-use plastics including cups and straws</a> NPR: Other items like water or soda bottles or snack bags aren't banned yet. But the government has set targets for manufacturers to be responsible for recycling or disposing of them after their use. 
  <p class="updated_time"> 03:19 PM CT, Jul. 01 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/06/30/1106858954/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-b">Scientists say they've solved a 700-year-old mystery: Where and when Black Death began</a> NPR: For centuries, scientists and historians have wondered where the Black Death — the deadliest pandemic in recorded history — came from. New research sheds light on the ancient disease. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
- <p class="updated_time"> 10:55 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108931813/russia-ukraine-mariupol-theater-war-crime">Mariupol theater bombing was a clear war crime, Amnesty International says</a> NPR: Hundreds of civilians were sheltering in the drama theater during the March siege of Mariupol, the southern Ukrainian port city that Russian troops destroyed and now occupy. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
@@ -120,6 +120,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109470657/gov-lujan-grisham-asks-biden-to-consider-providing-abortion-care-on-federal-land">Gov. Lujan Grisham asks Biden to consider providing abortion care on federal land</a> NPR: NPR's Ari Shapiro talks with Michelle Lujan Grisham, Democratic governor of New Mexico, about Friday's meeting with President Biden regarding the Supreme Court's overturning of Roe v. Wade. 
+ <p class="updated_time"> 03:49 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109486052/epa-supreme-court-emissions-target-ruling">The EPA prepares for its 'counterpunch' after the Supreme Court ruling</a> NPR: The Supreme Court's ruling that curbs the power of the EPA will slow its ability to respond to the climate crisis, but "does not take the EPA out of the game," according to its administrator. 
+ <p class="updated_time"> 03:42 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109470583/president-biden-and-a-group-of-governors-met-about-protecting-abortion-rights">President Biden and a group of governors met about protecting abortion rights</a> NPR: President Biden met with a group of Democratic governors on how to protect abortion rights after the Supreme Court overturned Roe v. Wade. 
  <p class="updated_time"> 01:28 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109319734/biden-warns-democratic-governors-a-gop-congress-would-try-to-ban-abortion-nation">Biden warns Democratic governors a GOP Congress would try to ban abortion nationwide</a> NPR: President Joe Biden met with Democratic governors Friday afternoon to discuss ways their states are protecting abortion access and continuing to push abortion as an election issue in November. 
  <p class="updated_time"> 11:56 AM CT, Jul. 01 </p> 
@@ -148,14 +154,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109051816/supreme-court-allows-biden-administration-to-roll-back-remain-in-mexico-policy">Supreme Court allows Biden administration to roll back 'Remain In Mexico' policy</a> NPR: NPR's Juana Summers speaks with Marysol Castro, an attorney with El Paso's Diocesan Migrant and Refugee Services, about the Remain in Mexico decision. 
  <p class="updated_time"> 02:52 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6">Election deniers have taken their fraud theories on tour — to nearly every state</a> NPR: Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide. 
- <p class="updated_time"> 01:55 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108737968/federal-websites-accessible-disabled">DOJ fails to report on making federal websites accessible to disabled people</a> NPR: It has been 10 years since the Justice Department filed a report on the government's compliance with IT accessibility standards, a group of concerned senators say. Now they are asking for answers. 
  <p class="updated_time"> 01:29 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/epa-supreme-court-ruling-effect/index.html">How the Supreme Court ruling will gut the EPA's ability to fight the climate crisis</a> CNN: The Supreme Court on Thursday dealt a major blow to climate action by handcuffing the Environmental Protection Agency's ability to regulate planet-warming emissions from the country's power plants, just as scientists warn the world is running out of time to get the climate crisis under control. 
- <p class="updated_time"> 12:38 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108913337/did-the-trump-camp-help-far-right-militia-groups-plan-the-jan-6-attack">Did the Trump camp help far-right militia groups plan the Jan. 6 attack?</a> NPR: New York Times journalist Alan Feuer says some members of Trump's inner circle have close ties to the Proud Boys and the Oath Keepers, whose leaders have been charged with seditious conspiracy. 
- <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
 
 
 </details>
