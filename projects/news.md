@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
+ <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage">UNESCO declares borsch cooking an endangered Ukrainian heritage</a> NPR: Ukraine's culture minister declared victory in "the war for borsch" as Russia also claims the hearty beet soup. UNESCO says the invasion threatens Ukraine's borsch culture with "extreme urgency." 
  <p class="updated_time"> 01:15 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing starvation as food aid cuts hit</a> BBC: Some 60% of the country's population faces starvation amid food aid cuts, aid workers say. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
- <p class="updated_time"> 12:18 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: Grieving Honduran mother in despair over migrant relatives lost in Texas lorry tragedy. 
  <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
@@ -25,10 +27,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 10:31 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
+ <p class="updated_time"> 10:05 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 09:08 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614">New U.S. Guided Rockets Strengthen Ukraine's Hand</a> WSJ: Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region. 
- <p class="updated_time"> 09:06 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62008245?at_medium=RSS&at_campaign=KARANGA">Julian Assange submits High Court appeal to fight extradition</a> BBC: The Wikileaks founder seeks to appeal against a decision to extradite him over leaked files. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims">Families of murdered women and trans Argentinians ensure their voices are not silenced</a> NPR: A visual project documents relatives, siblings, parents and friends of victims of gender-based crimes in Argentina 
  <p class="updated_time"> 10:17 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/06/30/1104033925/las-voces-de-victimas-de-crimenes-de-genero-en-argentina-a-traves-de-testimonios">Las voces de víctimas de crímenes de género en Argentina a través de testimonios</a> NPR: Un proyecto visual documenta a familiares, hermanos, padres y amigos de víctimas de crímenes de género en Argentina 
- <p class="updated_time"> 09:49 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
