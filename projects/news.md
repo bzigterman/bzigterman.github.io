@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61267490?at_medium=RSS&at_campaign=KARANGA">John Lee: Who is Hong Kong's new hardline pro-Beijing leader?</a> BBC: The ex-security chief was essentially handpicked by Beijing and is set to prioritise law enforcement. 
+ <p class="updated_time"> 02:03 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-china-competition-zeroes-in-on-growth-11656673380">U.S.-China Competition Zeroes In on Growth</a> WSJ: President Biden’s statement that U.S. gross domestic product might grow faster this year than China’s has struck a nerve in Beijing 
  <p class="updated_time"> 01:58 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/how-chinas-national-security-law-silences-hong-kong-11656673119">How China's National Security Law Silences Hong Kong</a> WSJ: Jailed pro-democracy leaders are being ground down by months without trial and the fear they will spend the rest of their lives behind bars. 
  <p class="updated_time"> 01:24 AM CT, Jul. 01 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 18 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
- <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62005216?at_medium=RSS&at_campaign=KARANGA">Ecuador protests: Indigenous leaders agree to call off strikes</a> BBC: Indigenous groups led two weeks of protests against fuel costs, paralysing the country's economy. 
  <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
