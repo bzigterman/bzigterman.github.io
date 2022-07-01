@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:18 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: 'How could I let this happen to my children?" grieving Honduran mother asks. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: Grieving Honduran mother in despair over migrant relatives lost in Texas lorry tragedy. 
  <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
- <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61986714?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Trump film-maker now has 'two armed guards'</a> BBC: Alex Holder, who filmed Trump after the 2020 election, has now been ordered to give evidence. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61891472?at_medium=RSS&at_campaign=KARANGA">The bloody legacy of Rodrigo Duterte</a> BBC: The Philippines strongman is retiring after a career fighting drugs and crime that left thousands dead. 
  <p class="updated_time"> 06:20 PM CT, Jun. 29 </p> 
