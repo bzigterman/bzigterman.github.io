@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 11:02 AM CT, Jul. 01 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 10:31 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
- <p class="updated_time"> 09:53 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62008245?at_medium=RSS&at_campaign=KARANGA">Julian Assange submits High Court appeal to fight extradition</a> BBC: The Wikileaks founder seeks to appeal against a decision to extradite him over leaked files. 
  <p class="updated_time"> 08:44 AM CT, Jul. 01 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:56 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109355442/medal-of-freedom-simone-biles-john-mccain-gabby-giffords">Biden will award the Medal of Freedom to Biles, McCain, Giffords and others</a> NPR: The president will present the nation's highest civilian honor to 17 people, who also include Oscar-winning Denzel Washington, the late Apple co-founder Steve Jobs and soccer Olympian Megan Rapinoe. 
  <p class="updated_time"> 10:51 AM CT, Jul. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
  <p class="updated_time"> 10:33 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108912836/biden-weighs-on-what-was-accomplished-at-the-nato-summit">Biden weighs in on what was accomplished at the NATO summit</a> NPR: President Biden holds a press conference as the NATO summit wraps in Madrid. 
- <p class="updated_time"> 09:50 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case">Supreme Court to take on controversial election-law case </a> NPR: At issue is a legal theory that would give state legislatures unfettered authority to set the rules for  federal elections, free of supervision by the state courts and state constitutions. 
 
 
 </details>
