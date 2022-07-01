@@ -318,7 +318,7 @@ ggsave("plots/champaign_weather.png", bg = "white",
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 8, dpi = 320)
 
-# create temp comparison chart ----
+# temp comparison chart ----
 temp_history <- read_csv("data/champaign_weather.csv") %>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
@@ -785,7 +785,7 @@ p <- ggplot(data = temps,
   )
 p
 ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 4, height = 8, dpi = 320)
+       width = 8, height = 8*(628/1200), dpi = 320)
 
 p +
   theme(
