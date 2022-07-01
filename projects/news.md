@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 12:18 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
+ <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: 'How could I let this happen to my children?" grieving Honduran mother asks. 
  <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
