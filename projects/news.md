@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
+ <p class="updated_time"> 11:02 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing starvation as food aid cuts hit</a> BBC: Some 60% of the country's population faces starvation amid food aid cuts, aid workers say. 
+ <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
+ <p class="updated_time"> 10:31 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
  <p class="updated_time"> 09:53 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 08:50 AM CT, Jul. 01 </p> 
@@ -19,8 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1106327585/russia-invasion-ukraine-environment-impacts">Shredded trees, dead dolphins and wildfires — how Russia's invasion is hurting nature</a> NPR: The environmental impacts from Russia's invasion of Ukraine could be felt far longer than the war itself. 
  <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
- <p class="updated_time"> 06:14 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
+ <p class="updated_time"> 06:34 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a Landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
@@ -37,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
- <p class="updated_time"> 03:59 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 20 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 03:32 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/summits-set-stage-for-europes-new-reality-long-term-confrontation-with-russia-11656678747">Europe's New Reality: Long-Term Confrontation With Russia</a> WSJ: With no sign of an early end to the war in Ukraine, Western leaders at three summits in the past week underlined their strong support for the country and laid out plans to deter what they see as Russian expansionist ambitions. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
@@ -51,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109272990/xi-defends-vision-of-hong-kong-while-marking-25-year-anniversary-of-handover">Xi defends vision of Hong Kong while marking 25-year anniversary of handover</a> NPR: China's president says the "one country, two systems" framework is working — even as recent changes have all but eliminated dissenting voices in the territory. 
  <p class="updated_time"> 12:30 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801">American Father Reunited With Child Lost During Kabul Evacuation</a> WSJ: The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August. 
- <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
  <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 06:23 PM CT, Jun. 30 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61914013?at_medium=RSS&at_campaign=KARANGA">Stranger Things: I pinch myself at my luck, says actor Jamie Campbell Bower</a> BBC: Actor Jamie Campbell Bower on why he feels fortunate to have a key role in the hit Netflix show. 
  <p class="updated_time"> 06:15 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
- <p class="updated_time"> 06:12 PM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61980875?at_medium=RSS&at_campaign=KARANGA">Hong Kong handover: Am I Chinese or a Hongkonger?</a> BBC: Two Hongkongers born in 1997, the year the city returned to China, tell us how they view identity. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
  <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
@@ -116,7 +118,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:15 AM CT, Jul. 01 </p> 
+ <p class="updated_time"> 10:51 AM CT, Jul. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
