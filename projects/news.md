@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470758/even-with-beijings-backing-hong-kongs-new-leader-faces-big-challenges">Even with Beijing's backing, Hong Kong's new leader faces big challenges</a> NPR: Hong Kong gets a new leader on Friday with strong backing from Beijing, but faces challenges with a sluggish economy that remains closed to the outside world — and China — by COVID controls. 
  <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
@@ -30,17 +32,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage">UNESCO declares borsch cooking an endangered Ukrainian heritage</a> NPR: Ukraine's culture minister declared victory in "the war for borsch" as Russia also claims the hearty beet soup. UNESCO says the invasion threatens Ukraine's borsch culture with "extreme urgency." 
  <p class="updated_time"> 01:15 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing starvation as food aid cuts hit</a> BBC: Some 60% of the country's population faces starvation amid food aid cuts, aid workers say. 
+ <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing food insecurity as food aid cuts hit</a> BBC: Some 60% of the country's population faces severe acute food insecurity amid food aid cuts, aid workers say. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
+ <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: Grieving Honduran mother in despair over migrant relatives lost in Texas lorry tragedy. 
  <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
- <p class="updated_time"> 10:05 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 09:08 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614">New U.S. Guided Rockets Strengthen Ukraine's Hand</a> WSJ: Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
@@ -154,8 +156,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1107260645/the-effect-the-supreme-courts-climate-decision-may-have">The effect the Supreme Court's climate decision may have</a> NPR: The U.S. Supreme Court ruled that the Environment Protection Agency does not have the authority to mandate carbon emissions reductions from existing power plants. 
  <p class="updated_time"> 03:42 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051809/immigration-advocates-are-cheering-the-supreme-courts-decision-on-remain-in-mexi">Immigration advocates are cheering the Supreme Court's decision on 'Remain in Mexico'</a> NPR: The Supreme Court sided with the Biden administration in a major immigration ruling. The Court says the government can roll back the so-called "Remain in Mexico" policy implemented by President Trump. 
- <p class="updated_time"> 01:29 PM CT, Jun. 30 </p> 
- <a href="https://www.cnn.com/2022/06/30/politics/epa-supreme-court-ruling-effect/index.html">How the Supreme Court ruling will gut the EPA's ability to fight the climate crisis</a> CNN: The Supreme Court on Thursday dealt a major blow to climate action by handcuffing the Environmental Protection Agency's ability to regulate planet-warming emissions from the country's power plants, just as scientists warn the world is running out of time to get the climate crisis under control. 
+ <p class="updated_time"> 07:22 AM CT, Jun. 30 </p> 
+ <a href="https://www.cnn.com/2022/06/29/politics/primary-midterm-elections-what-matters/index.html">Here's what November's midterms look like after the spring primaries</a> CNN: Historic wins for racially diverse and first-time candidates. Questions about former President Donald Trump's endorsement power. A mixed bag for election deniers. 
 
 
 </details>
