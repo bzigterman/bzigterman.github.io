@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1106327585/russia-invasion-ukraine-environment-impacts">Shredded trees, dead dolphins and wildfires — how Russia's invasion is hurting nature</a> NPR: The environmental impacts from Russia's invasion of Ukraine could be felt far longer than the war itself. 
  <p class="updated_time"> 06:14 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Detained US basketball star appears in Russian court on drug charges</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
@@ -23,8 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
+ <p class="updated_time"> 03:59 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 20 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">The trial begins for Brittney Griner, the WNBA star detained in Russia</a> NPR: Griner, 31, was arrested on Feb. 17, after authorities at a Moscow area airport allegedly found cannabis vape cartridges in her luggage 
+ <a href="https://www.npr.org/2022/07/01/1109272785/brittney-griner-trial-russia-prison-jail-wnba-basketball-detained">Russian prosecutors call first witnesses in case against Brittney Griner</a> NPR: Griner, 31, is "a bit worried" because of the trial and the potential of a prison sentence, he lawyer tells NPR, "but she's a tough lady and I think she will manage." 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109274251/deadly-missile-strike-hits-residential-buildings-in-odesa-ukraine">Deadly missile strike hits residential buildings in Ukraine's Odesa region</a> NPR: Video of the pre-dawn attack showed the charred remains of buildings in the Ukrainian port city. 
  <p class="updated_time"> 02:09 AM CT, Jul. 01 </p> 
@@ -47,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62005320?at_medium=RSS&at_campaign=KARANGA">UK sandwich chain Pret A Manger to launch in India</a> BBC: Indian conglomerate Reliance Industries will open outlets across the country under a franchise deal. 
  <p class="updated_time"> 12:02 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62006032?at_medium=RSS&at_campaign=KARANGA">Nato Summit: Did Justin Trudeau forget Australian PM’s name?</a> BBC: The awkward moment played out when the leaders met at the Nato Summit in Madrid. 
- <p class="updated_time"> 11:51 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500">Russian Missiles Kill 18 in Residential Area in Odessa Region, Ukraine Says</a> WSJ: The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.” 
  <p class="updated_time"> 11:34 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62005220?at_medium=RSS&at_campaign=KARANGA">North Korea claims Covid arrived on 'alien things' near border</a> BBC: It has recorded 4.7 million suspected cases since April, after two years of claiming to be Covid-free. 
  <p class="updated_time"> 08:08 PM CT, Jun. 30 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108741029/ticking-down-a-checklist-of-qualifications-in-mr-malcolms-list">Ticking down a checklist of qualifications in 'Mr. Malcolm's List'</a> NPR: A 19th-century British gentleman's requirements for his bride lead to a scheme with many complications in Mr. Malcolm's List, a Bridgerton-like romance based on Suzanne Allain's 2020 novel. 
  <p class="updated_time"> 07:27 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61992491?at_medium=RSS&at_campaign=KARANGA">Snake Island: Why Russia couldn't hold on to strategic Black Sea outcrop</a> BBC: Russia claims it is a gesture of goodwill, but the withdrawal from a Black Sea rock is a big defeat. 
- <p class="updated_time"> 06:23 AM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108855805/russia-withdraws-snake-island-ukraine">Ukraine wins back control over Snake Island</a> NPR: Ukraine's southern forces have been striking the island in recent days to take out Russian outposts. Russia's defense ministry said its troops left as a "goodwill gesture." 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61996440?at_medium=RSS&at_campaign=KARANGA">President Xi in Hong Kong for handover anniversary</a> BBC: Chinese President Xi Jinping arrives in Hong Kong to mark 25 years since the former British colony was returned to Beijing's rule. 
  <p class="updated_time"> 07:44 PM CT, Jun. 29 </p> 
@@ -136,6 +136,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees">The Christian Right is winning cultural battles while public opinion disagrees</a> NPR: The Christian Right's wins in the Supreme Court on abortion and prayer in school come at a time when a growing majority of Americans are strongly opposed to its views. 
  <p class="updated_time"> 07:03 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109137857/delta-pilots-picket-major-airports-call-for-higher-pay">More than 1,200 Delta pilots picket at 7 major airports to call for higher pay</a> NPR: Delta pilots are looking for higher pay and better insurance as contract negotiations continue with the company. 
+ <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
+ <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
  <p class="updated_time"> 04:34 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051844/a-crop-of-candidates-are-insisting-they-won-their-elections-despite-not-being-cl">A crop of candidates are insisting they won their elections, despite not being close</a> NPR: Some candidates who finished way down in Georgia's primaries have said their elections were tainted by fraud, and at least one is fundraising off of that. 
  <p class="updated_time"> 04:15 PM CT, Jun. 30 </p> 
@@ -148,20 +150,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6">Election deniers have taken their fraud theories on tour — to nearly every state</a> NPR: Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide. 
  <p class="updated_time"> 01:55 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108737968/federal-websites-accessible-disabled">DOJ fails to report on making federal websites accessible to disabled people</a> NPR: It has been 10 years since the Justice Department filed a report on the government's compliance with IT accessibility standards, a group of concerned senators say. Now they are asking for answers. 
+ <p class="updated_time"> 01:29 PM CT, Jun. 30 </p> 
+ <a href="https://www.cnn.com/2022/06/30/politics/epa-supreme-court-ruling-effect/index.html">How the Supreme Court ruling will gut the EPA's ability to fight the climate crisis</a> CNN: The Supreme Court on Thursday dealt a major blow to climate action by handcuffing the Environmental Protection Agency's ability to regulate planet-warming emissions from the country's power plants, just as scientists warn the world is running out of time to get the climate crisis under control. 
  <p class="updated_time"> 12:57 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:38 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108913337/did-the-trump-camp-help-far-right-militia-groups-plan-the-jan-6-attack">Did the Trump camp help far-right militia groups plan the Jan. 6 attack?</a> NPR: New York Times journalist Alan Feuer says some members of Trump's inner circle have close ties to the Proud Boys and the Oath Keepers, whose leaders have been charged with seditious conspiracy. 
  <p class="updated_time"> 12:01 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108578286/with-time-ticking-for-climate-action-supreme-court-limits-ways-to-curb-emissions">With time ticking for climate action, Supreme Court limits ways to curb emissions</a> NPR: The U.S. Supreme Court's opinion in a key environmental case, WV v. EPA, says the federal agency lacks authority to use greenhouse gas emissions caps to force fossil fuel power plants out of business. 
- <p class="updated_time"> 10:56 AM CT, Jun. 30 </p> 
- <a href="https://www.cnn.com/2022/06/30/politics/supreme-court-climate-change-epa-regulations/index.html">Supreme Court curbs EPA's ability to fight climate change</a> CNN: The Supreme Court curbed the Environmental Protection Agency's ability to broadly regulate carbon emissions from existing power plants, a major defeat for the Biden administration's attempts to slash emissions at a moment when scientists are sounding alarms about the accelerating pace of global warming. 
  <p class="updated_time"> 10:33 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1108912836/biden-weighs-on-what-was-accomplished-at-the-nato-summit">Biden weighs in on what was accomplished at the NATO summit</a> NPR: President Biden holds a press conference as the NATO summit wraps in Madrid. 
  <p class="updated_time"> 09:50 AM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case">Supreme Court to take on controversial election-law case </a> NPR: At issue is a legal theory that would give state legislatures unfettered authority to set the rules for  federal elections, free of supervision by the state courts and state constitutions. 
- <p class="updated_time"> 09:04 AM CT, Jun. 30 </p> 
- <a href="https://www.cnn.com/2022/06/30/politics/trump-republicans-2024-january-6-revelations/index.html">Jan. 6 committee revelations may give Republicans opening to take on Trump in 2024</a> CNN: Nothing ever really seems to bring Donald Trump down. 
 
 
 </details>
