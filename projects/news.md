@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
+ <a href="https://www.npr.org/2022/07/01/1109470758/even-with-beijings-backing-hong-kongs-new-leader-faces-big-challenges">Even with Beijing's backing, Hong Kong's new leader faces big challenges</a> NPR: Hong Kong gets a new leader on Friday with strong backing from Beijing, but faces challenges with a sluggish economy that remains closed to the outside world — and China — by COVID controls. 
  <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Jul. 01 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62001165?at_medium=RSS&at_campaign=KARANGA">A Nato summit in Madrid for hawks</a> BBC: The BBC's Frank Gardner speaks to Nato leaders during the first summit since Russia invaded Ukraine. 
  <p class="updated_time"> 03:35 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
- <p class="updated_time"> 03:30 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1109051150/thousands-have-been-sent-to-the-hospital-due-to-japans-blistering-heatwave">Thousands have been sent to the hospital due to Japan's blistering heatwave</a> NPR: Japan is sweltering amid a blistering heatwave not seen in decades. As the country deals with an energy crunch, Japanese businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 06:08 AM CT, Jun. 30 </p> 
