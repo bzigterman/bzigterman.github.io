@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022476?at_medium=RSS&at_campaign=KARANGA">Russia dredges up landing ship hit by Ukraine missile fire</a> BBC: The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike. 
+ <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
+ <p class="updated_time"> 12:39 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022471?at_medium=RSS&at_campaign=KARANGA">Lysychansk: Heavy fighting rages in Ukraine-held eastern city</a> BBC: Ukrainian forces say they are being pounded by Russian heavy artillery as they battle to keep the city. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
- <p class="updated_time"> 10:32 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022471?at_medium=RSS&at_campaign=KARANGA">Lysychansk: Heavy fighting rages in Ukraine-held eastern city</a> BBC: Ukrainian forces say they are being pounded by Russian heavy artillery as they battle to keep the city. 
  <p class="updated_time"> 08:48 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62022470?at_medium=RSS&at_campaign=KARANGA">Hormozgan: Quake near southern Iran coast kills five</a> BBC: A strong earthquake rocks Hormozgan province, killing five and wrecking a village near the coast. 
  <p class="updated_time"> 08:26 AM CT, Jul. 02 </p> 
@@ -21,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109558010/two-ukrainian-fighters-describe-the-current-state-of-the-frontlines-against-russ">Two Ukrainian fighters describe the current state of the frontlines against Russia</a> NPR: Two Ukrainian fighters — one a volunteer solider, the other, a commander — describe what they're seeing on the frontlines of the war against Russia. 
  <p class="updated_time"> 08:15 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
+ <p class="updated_time"> 08:06 AM CT, Jul. 02 </p> 
+ <a href="https://www.wsj.com/articles/jens-stoltenberg-prepares-to-confront-putin-in-extra-year-at-natos-helm-11656763204">Jens Stoltenberg Prepares to Confront Putin in Extra Year at NATO's Helm</a> WSJ: The former Norwegian prime minister passed up an exit opportunity and will spend at least another year guiding the alliance through unprecedented challenges. 
  <p class="updated_time"> 07:28 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109559371/ship-sinks-south-china-sea-storm-chaba">Dozens are feared lost after a ship sinks in the South China Sea</a> NPR: An industrial support ship operating has sunk in a storm with the possible loss of more than two dozen crew members, rescue services in Hong Kong said Saturday. 
  <p class="updated_time"> 07:21 AM CT, Jul. 02 </p> 
@@ -39,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62020407?at_medium=RSS&at_campaign=KARANGA">Gambia bans all timber exports to combat rosewood smuggling</a> BBC: In 2020, the BBC revealed that vast quantities of protected rosewood were being trafficked from Senegal. 
  <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109214047/how-russian-musicians-are-raising-money-for-ukraine">How Russian musicians are raising money for Ukraine </a> NPR: JetLAG bills itself as the largest festival of Russian, Slavic and East European musicians in the U.S. But its organizers almost canceled it this summer because of the war in Ukraine. 
- <p class="updated_time"> 03:00 AM CT, Jul. 02 </p> 
- <a href="https://www.wsj.com/articles/jens-stoltenberg-prepares-to-confront-putin-in-extra-year-at-natos-helm-11656763204">Jens Stoltenberg Prepares to Confront Putin in Extra Year at NATO's Helm</a> WSJ: The former Norwegian prime minister passed up an exit opportunity and will spend at least another year guiding the alliance through unprecedented challenges. 
  <p class="updated_time"> 02:48 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109554743/earthquake-kills-at-least-5-iran">A strong earthquake has killed at least 5 in southern Iran</a> NPR: Five people were killed and 44 others injured in a magnitude 6.3 earthquake in southern Iran on Saturday, state television reported. 
  <p class="updated_time"> 02:11 AM CT, Jul. 02 </p> 
@@ -73,24 +77,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109470597/odesa-maintains-some-normalcy-despite-russian-aerial-assault-on-southern-ukraine">Odesa maintains some normalcy despite Russian aerial assault on southern Ukraine</a> NPR: Russia has increased its aerial assault on southern Ukraine, firing missiles at areas outside of the Donbas. But despite the threat, it's almost as if the war hasn't touched the port city Odesa. 
  <p class="updated_time"> 03:32 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109476072/india-plastics-ban-begins">India begins to ban single-use plastics including cups and straws</a> NPR: Other items like water or soda bottles or snack bags aren't banned yet. But the government has set targets for manufacturers to be responsible for recycling or disposing of them after their use. 
- <p class="updated_time"> 03:19 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62013362?at_medium=RSS&at_campaign=KARANGA">Borsch soup in Ukraine added to Unesco endangered heritage list</a> BBC: While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim. 
  <p class="updated_time"> 02:52 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62013997?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Elite Russian regiment fights for support and the war for borsch</a> BBC: Support for Russia's elite fighting force looks less certain as the regiment reappears in Ukraine. 
  <p class="updated_time"> 02:34 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109388362/new-monkeypox-cases-triple-in-europe">New monkeypox cases have tripled in Europe since June 15, the WHO regional chief says</a> NPR: The monkeypox outbreak is expanding, and Europe is at its center, says Dr. Hans Kluge. 
- <p class="updated_time"> 02:33 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62011084?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: 'No higher priority' than bringing her home</a> BBC: If convicted on drugs charges Brittney Griner faces up to 10 years in prison. 
- <p class="updated_time"> 02:10 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage">UNESCO declares borsch cooking an endangered Ukrainian heritage</a> NPR: Ukraine's culture minister declared victory in "the war for borsch" as Russia also claims the hearty beet soup. UNESCO says the invasion threatens Ukraine's borsch culture with "extreme urgency." 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
- <p class="updated_time"> 11:58 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
@@ -116,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:02 PM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109577232/uvalde-schools-police-chief-resigns-city-council-pete-arredondo">The Uvalde schools police chief resigns from city council</a> NPR: Pete Arredondo stepped down from his position in the City Council just weeks after being sworn in following allegations that he erred in his response to the mass shooting at Robb Elementary School. 
  <p class="updated_time"> 10:48 AM CT, Jul. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:15 AM CT, Jul. 02 </p> 
@@ -146,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109355442/medal-of-freedom-simone-biles-john-mccain-gabby-giffords">Biden will award the Medal of Freedom to Biles, McCain, Giffords and others</a> NPR: The president will present the nation's highest civilian honor to 17 people, who also include Oscar-winning Denzel Washington, the late Apple co-founder Steve Jobs and soccer Olympian Megan Rapinoe. 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
- <p class="updated_time"> 04:07 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109275698/the-supreme-court-curbs-the-epas-power-to-protect-the-environment">The Supreme Court curbs the EPA's power to protect the environment</a> NPR: The Supreme Court limited the ways in which the EPA could regulate greenhouse gas pollution from power plants, jeopardizing President Biden's goal for an emissions-free power sector by 2035. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
  <p class="updated_time"> 07:22 AM CT, Jun. 30 </p> 
