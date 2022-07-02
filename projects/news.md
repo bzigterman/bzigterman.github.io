@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:33 PM CT, Jul. 01 </p> 
+ <p class="updated_time"> 02:48 AM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109554743/earthquake-kills-at-least-5-iran">A strong earthquake has killed at least 5 in southern Iran</a> NPR: Five people were killed and 44 others injured in a magnitude 6.3 earthquake in southern Iran on Saturday, state television reported. 
+ <p class="updated_time"> 02:11 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
+ <p class="updated_time"> 01:58 AM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: The suspected driver of the truck where 53 migrants were found dead was hiding in bushes nearby. 
  <p class="updated_time"> 07:54 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
  <p class="updated_time"> 07:32 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916551?at_medium=RSS&at_campaign=KARANGA">The rise of the video game Arab hero</a> BBC: Developers are moving away from stereotypes of Arab characters and depicting them more positively. 
  <p class="updated_time"> 07:27 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62009301?at_medium=RSS&at_campaign=KARANGA">Unique terror trial that changed France</a> BBC: More than 400 survivors and relatives gave evidence in the unprecedented trial that ended this week. 
- <p class="updated_time"> 07:23 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: A police informant says he was told that the driver was "unaware" the air conditioning had failed. 
  <p class="updated_time"> 07:19 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62001760?at_medium=RSS&at_campaign=KARANGA">Brazil: Rio's residents garden their way out of hunger</a> BBC: Brazilian communities are combatting soaring food prices and a hunger crisis with urban gardens. 
  <p class="updated_time"> 07:13 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61912110?at_medium=RSS&at_campaign=KARANGA">India farm law: Seven months after repeal, farmers are ready for new protests</a> BBC: Seven months after the government repealed the farm laws, farmers say demands not fulfilled yet. 
  <p class="updated_time"> 06:54 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61966824?at_medium=RSS&at_campaign=KARANGA">Missing cryptoqueen: Is Dr Ruja Ignatova the biggest Bitcoin holder?</a> BBC: As the FBI adds Ruja Ignatova to its most wanted list, new findings suggest she amassed billions in Bitcoin. 
+ <a href="https://www.bbc.co.uk/news/technology-61966824?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: Is Dr Ruja Ignatova the biggest Bitcoin holder?</a> BBC: As the FBI adds Ruja Ignatova to its most wanted list, new findings suggest she amassed billions in Bitcoin. 
  <p class="updated_time"> 06:48 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-62009739?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 25 June - 1 July 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30">Russia-Ukraine war: What happened today (June 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:52 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62001165?at_medium=RSS&at_campaign=KARANGA">A Nato summit in Madrid for hawks</a> BBC: The BBC's Frank Gardner speaks to Nato leaders during the first summit since Russia invaded Ukraine. 
- <p class="updated_time"> 03:35 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1109051151/estonias-prime-minister-kaja-kallas-on-how-the-nato-summit-went">Estonia's Prime Minister Kaja Kallas on how the NATO summit went</a> NPR: NPR's Michel Martin speaks with Estonian Prime Minister Kaja Kallas at the NATO conference in Madrid, Spain. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-62002126?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: Russian leader hits back over G7 jibes</a> BBC: Russia's President Putin responds to G7 leaders who mocked his macho image earlier this week. 
  <p class="updated_time"> 06:26 PM CT, Jun. 29 </p> 
@@ -127,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61914013?at_medium=RSS&at_campaign=KARANGA">Stranger Things: I pinch myself at my luck, says actor Jamie Campbell Bower</a> BBC: Actor Jamie Campbell Bower on why he feels fortunate to have a key role in the hit Netflix show. 
  <p class="updated_time"> 06:15 PM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
- <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
 
 
 </details>
