@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62020074?at_medium=RSS&at_campaign=KARANGA">New York overhauls gun laws after Supreme Court ruling</a> BBC: The restrictions adopted in New York are likely to end up in another legal challenge. 
+ <p class="updated_time"> 04:20 AM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62020407?at_medium=RSS&at_campaign=KARANGA">Gambia bans all timber exports to combat rosewood smuggling</a> BBC: In 2020, the BBC revealed that vast quantities of protected rosewood were being trafficked from Senegal. 
+ <p class="updated_time"> 04:12 AM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building in Tobruk</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
  <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109214047/how-russian-musicians-are-raising-money-for-ukraine">How Russian musicians are raising money for Ukraine </a> NPR: JetLAG bills itself as the largest festival of Russian, Slavic and East European musicians in the U.S. But its organizers almost canceled it this summer because of the war in Ukraine. 
  <p class="updated_time"> 02:48 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109554743/earthquake-kills-at-least-5-iran">A strong earthquake has killed at least 5 in southern Iran</a> NPR: Five people were killed and 44 others injured in a magnitude 6.3 earthquake in southern Iran on Saturday, state television reported. 
+ <p class="updated_time"> 02:46 AM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62020070?at_medium=RSS&at_campaign=KARANGA">Jerry Hall files for divorce from Rupert Murdoch</a> BBC: The model cited "irreconcilable differences" with the media tycoon in court papers filed in California. 
  <p class="updated_time"> 02:11 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 01:58 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: The suspected driver of the truck where 53 migrants were found dead was hiding in bushes nearby. 
- <p class="updated_time"> 07:54 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
  <p class="updated_time"> 07:32 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916551?at_medium=RSS&at_campaign=KARANGA">The rise of the video game Arab hero</a> BBC: Developers are moving away from stereotypes of Arab characters and depicting them more positively. 
  <p class="updated_time"> 07:27 PM CT, Jul. 01 </p> 
@@ -55,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62006743?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile strikes kill 21 in Odesa region - emergency service</a> BBC: The overnight strikes hit a residential building and a recreation centre in a village, officials say. 
  <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage">UNESCO declares borsch cooking an endangered Ukrainian heritage</a> NPR: Ukraine's culture minister declared victory in "the war for borsch" as Russia also claims the hearty beet soup. UNESCO says the invasion threatens Ukraine's borsch culture with "extreme urgency." 
- <p class="updated_time"> 01:15 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62014750?at_medium=RSS&at_campaign=KARANGA">South Sudan: Thousands facing food insecurity as food aid cuts hit</a> BBC: Some 60% of the country's population faces severe acute food insecurity amid food aid cuts, aid workers say. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
@@ -77,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
- <p class="updated_time"> 05:29 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-62008413?at_medium=RSS&at_campaign=KARANGA">Russia moves to take control of Sakhalin-2 oil and gas project</a> BBC: The Russian government moves to take over Sakhalin-2 in which Shell has a share of more than a quarter. 
  <p class="updated_time"> 04:58 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/israels-lapid-seizes-his-turn-to-take-on-netanyahu-11656683929">Israel's Lapid Seizes His Turn to Take On Netanyahu</a> WSJ: Yair Lapid became Israel’s prime minister, albeit in a caretaker capacity, after waiting more than a decade. Now the former talk-show host has four months to broaden his support base and keep his job before the next elections in November. 
  <p class="updated_time"> 04:52 AM CT, Jul. 01 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831">Taliban Splits Emerge Over Religion, Power and Girls' Schools</a> WSJ: The Taliban stayed cohesive as a fighting force during the 20-year insurgency. Now cracks are appearing on multiple fronts. 
  <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
- <p class="updated_time"> 04:08 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62008099?at_medium=RSS&at_campaign=KARANGA">Bison attacks woman at Yellowstone National Park</a> BBC: It is the second such incident in three days in the US park. 
  <p class="updated_time"> 04:00 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know">Are sanctions actually hurting Russia's economy? Here's what you need to know</a> NPR: Russia's economy is weathering sanctions over the war in Ukraine, but tough times may be ahead, according to an assessment from experts. 
  <p class="updated_time"> 02:29 AM CT, Jul. 01 </p> 

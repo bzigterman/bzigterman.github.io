@@ -1894,7 +1894,7 @@ html {
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">+1%</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right">61</td>
+<td class="gt_row gt_right">60</td>
 <td class="gt_row gt_right">61</td>
 <td class="gt_row gt_right">+1%</td></tr>
   </tbody>
