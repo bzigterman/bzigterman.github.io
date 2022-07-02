@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
  <p class="updated_time"> 07:32 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61916551?at_medium=RSS&at_campaign=KARANGA">The rise of the video game Arab hero</a> BBC: Developers are moving away from stereotypes of Arab characters and depicting them more positively. 
  <p class="updated_time"> 07:27 PM CT, Jul. 01 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
+ <p class="updated_time"> 04:33 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/62017262?at_medium=RSS&at_campaign=KARANGA">Vera Pauw: Republic of Ireland boss reveals rape and assault in Dutch football</a> BBC: Republic of Ireland manager Vera Pauw says she was raped and sexually assaulted by three different men in Dutch football. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470758/even-with-beijings-backing-hong-kongs-new-leader-faces-big-challenges">Even with Beijing's backing, Hong Kong's new leader faces big challenges</a> NPR: Hong Kong gets a new leader on Friday with strong backing from Beijing, but faces challenges with a sluggish economy that remains closed to the outside world — and China — by COVID controls. 
  <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
