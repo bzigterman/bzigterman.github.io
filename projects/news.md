@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109214047/how-russian-musicians-are-raising-money-for-ukraine">How Russian musicians are raising money for Ukraine </a> NPR: JetLAG bills itself as the largest festival of Russian, Slavic and East European musicians in the U.S. But its organizers almost canceled it this summer because of the war in Ukraine. 
  <p class="updated_time"> 02:48 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109554743/earthquake-kills-at-least-5-iran">A strong earthquake has killed at least 5 in southern Iran</a> NPR: Five people were killed and 44 others injured in a magnitude 6.3 earthquake in southern Iran on Saturday, state television reported. 
  <p class="updated_time"> 02:11 AM CT, Jul. 02 </p> 
@@ -115,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/06/30/1109087285/pro-cyclist-texas-murder-arrest-costa-rica">A Texas woman accused in a pro cyclist's death is arrested in Costa Rica</a> NPR: Kaitlin Marie Armstrong (shown), suspected in the fatal shooting of professional cyclist Anna Moriah Wilson at an Austin home, has been arrested in Costa Rica, the U.S. Marshals Service said Thursday. 
  <p class="updated_time"> 04:24 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61950964?at_medium=RSS&at_campaign=KARANGA">Yair Lapid: The ex-TV host who is Israel's new PM</a> BBC: The 58-year-old former boxer and TV presenter takes the top office for the first time. 
- <p class="updated_time"> 04:01 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30">Russia-Ukraine war: What happened today (June 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:52 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62001165?at_medium=RSS&at_campaign=KARANGA">A Nato summit in Madrid for hawks</a> BBC: The BBC's Frank Gardner speaks to Nato leaders during the first summit since Russia invaded Ukraine. 
  <p class="updated_time"> 11:34 AM CT, Jun. 30 </p> 
@@ -134,6 +134,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109442956/these-candidates-lost-badly-but-now-are-claiming-fraud">These candidates lost badly, but now are claiming fraud</a> NPR: Former President Trump's influence is growing — with fringe candidates, who are refusing to admit defeat even after they've been trounced. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109336452/protest-music-abortion-rights-roe-wade-march-blm">5 protest songs that have taken on new meaning post-Roe</a> NPR: Since the Supreme Court overturned Roe v. Wade last week, many have turned to music to express the emotion that has overwhelmed them in this moment. We examine five songs and what they mean today. 
  <p class="updated_time"> 04:03 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470737/some-fear-christian-nationalism-is-getting-legal-legitimacy-through-the-supreme-">Some fear Christian nationalism is getting legal legitimacy through the Supreme Court</a> NPR: Three recent SCOTUS rulings have been celebrated by an extreme far right wing pushing conservative Christian values. Some see the decisions as evidence this ideology has found legitimacy on the bench. 
  <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
@@ -164,10 +168,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
  <p class="updated_time"> 04:34 PM CT, Jun. 30 </p> 
  <a href="https://www.npr.org/2022/06/30/1109051844/a-crop-of-candidates-are-insisting-they-won-their-elections-despite-not-being-cl">A crop of candidates are insisting they won their elections, despite not being close</a> NPR: Some candidates who finished way down in Georgia's primaries have said their elections were tainted by fraud, and at least one is fundraising off of that. 
- <p class="updated_time"> 04:15 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1107260645/the-effect-the-supreme-courts-climate-decision-may-have">The effect the Supreme Court's climate decision may have</a> NPR: The U.S. Supreme Court ruled that the Environment Protection Agency does not have the authority to mandate carbon emissions reductions from existing power plants. 
- <p class="updated_time"> 03:42 PM CT, Jun. 30 </p> 
- <a href="https://www.npr.org/2022/06/30/1109051809/immigration-advocates-are-cheering-the-supreme-courts-decision-on-remain-in-mexi">Immigration advocates are cheering the Supreme Court's decision on 'Remain in Mexico'</a> NPR: The Supreme Court sided with the Biden administration in a major immigration ruling. The Court says the government can roll back the so-called "Remain in Mexico" policy implemented by President Trump. 
  <p class="updated_time"> 07:22 AM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/29/politics/primary-midterm-elections-what-matters/index.html">Here's what November's midterms look like after the spring primaries</a> CNN: Historic wins for racially diverse and first-time candidates. Questions about former President Donald Trump's endorsement power. A mixed bag for election deniers. 
 
