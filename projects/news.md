@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022452?at_medium=RSS&at_campaign=KARANGA">Israel shoots down 'Hezbollah drones' heading for gas rig</a> BBC: The drones were allegedly launched from Lebanon, amid border tensions between the nations. 
+ <p class="updated_time"> 03:45 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022452?at_medium=RSS&at_campaign=KARANGA">Israel shoots down Hezbollah drones heading for gas rig</a> BBC: The drones are launched from Lebanon, amid border tensions between the nations. 
  <p class="updated_time"> 01:51 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022476?at_medium=RSS&at_campaign=KARANGA">Russia dredges up landing ship hit by Ukraine missile fire</a> BBC: The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike. 
  <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
