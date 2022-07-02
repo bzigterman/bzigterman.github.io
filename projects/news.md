@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022452?at_medium=RSS&at_campaign=KARANGA">Israel shoots down 'Hezbollah drones' heading for gas rig</a> BBC: The drones were allegedly launched from Lebanon, amid border tensions between the nations. 
  <p class="updated_time"> 01:51 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022476?at_medium=RSS&at_campaign=KARANGA">Russia dredges up landing ship hit by Ukraine missile fire</a> BBC: The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike. 
  <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
@@ -112,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Jul. 02 </p> 
+ <a href="https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps">Data privacy concerns make the post-Roe era uncharted territory</a> NPR: Digital privacy advocates are encouraging abortion seekers to err on the side of caution. Text messages, browser histories and emails could be used in criminal investigations. 
  <p class="updated_time"> 01:02 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109577232/uvalde-schools-police-chief-resigns-city-council-pete-arredondo">The Uvalde schools police chief resigns from city council</a> NPR: Pete Arredondo stepped down from his position in the City Council just weeks after being sworn in following allegations that he erred in his response to the mass shooting at Robb Elementary School. 
  <p class="updated_time"> 10:48 AM CT, Jul. 02 </p> 
@@ -142,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109319734/biden-warns-democratic-governors-a-gop-congress-would-try-to-ban-abortion-nation">Biden warns Democratic governors a GOP Congress would try to ban abortion nationwide</a> NPR: President Joe Biden met with Democratic governors Friday afternoon to discuss ways their states are protecting abortion access and continuing to push abortion as an election issue in November. 
  <p class="updated_time"> 11:56 AM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109355442/medal-of-freedom-simone-biles-john-mccain-gabby-giffords">Biden will award the Medal of Freedom to Biles, McCain, Giffords and others</a> NPR: The president will present the nation's highest civilian honor to 17 people, who also include Oscar-winning Denzel Washington, the late Apple co-founder Steve Jobs and soccer Olympian Megan Rapinoe. 
- <p class="updated_time"> 04:30 AM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1108988825/hong-kong-handover-turns-25">The Hong Kong handover turns 25. So does an entire generation. </a> NPR: Two teenagers bonded over high school Model United Nations. A decade later, one is in self-exile. The other waits for her and their other friends to return to the Hong Kong they once knew. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
  <p class="updated_time"> 07:22 AM CT, Jun. 30 </p> 
