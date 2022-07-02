@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:33 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 07:54 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
  <p class="updated_time"> 07:32 PM CT, Jul. 01 </p> 
@@ -27,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-62009739?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 25 June - 1 July 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
- <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62018206?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Women travelling for abortions will be protected - Biden</a> BBC: The US president warns some US states will attempt to arrest women crossing state lines for access. 
  <p class="updated_time"> 04:33 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/football/62017262?at_medium=RSS&at_campaign=KARANGA">Vera Pauw: Republic of Ireland boss reveals rape and assault in Dutch football</a> BBC: Republic of Ireland manager Vera Pauw says she was raped and sexually assaulted by three different men in Dutch football. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
@@ -63,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62014494?at_medium=RSS&at_campaign=KARANGA">UK and New Zealand expand working holiday visas</a> BBC: The age limit for a visa to live and work in either country will go up to 35 under a new deal. 
  <p class="updated_time"> 10:52 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Ukraine demands the seizure of Russian-flagged grain ship off Turkey</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
+ <p class="updated_time"> 10:11 AM CT, Jul. 01 </p> 
+ <a href="https://www.wsj.com/articles/vatican-sells-london-building-at-center-of-corruption-scandal-11656702695">Vatican Sells London Building at Center of Corruption Scandal</a> WSJ: The sale, for around $225 million, marks a loss of some $140 million in an investment that has led to a trial at the Vatican featuring charges of embezzlement and other crimes. 
  <p class="updated_time"> 09:08 AM CT, Jul. 01 </p> 
  <a href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614">New U.S. Guided Rockets Strengthen Ukraine's Hand</a> WSJ: Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region. 
  <p class="updated_time"> 08:39 AM CT, Jul. 01 </p> 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61878458?at_medium=RSS&at_campaign=KARANGA">Africa at the 'cutting-edge of global fashion'</a> BBC: The diversity and creativity of African fashion are on show in a retrospective at London's V&A museum. 
  <p class="updated_time"> 03:10 AM CT, Jun. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-40635526?at_medium=RSS&at_campaign=KARANGA">R. Kelly: The history of allegations against him</a> BBC: The US singer has been found guilty of eight counts of sex trafficking and one of racketeering. 
- <p class="updated_time"> 10:20 PM CT, Jun. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61970258?at_medium=RSS&at_campaign=KARANGA">Jan 6 hearings: Ex-aide paints devastating picture of Trump</a> BBC: New allegations emerge about what the former US president did during the January 6 riot at the Capitol. 
 
 
 </details>
