@@ -9,8 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:25 PM CT, Jul. 01 </p> 
+ <p class="updated_time"> 07:32 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61916551?at_medium=RSS&at_campaign=KARANGA">The rise of the video game Arab hero</a> BBC: Developers are moving away from stereotypes of Arab characters and depicting them more positively. 
+ <p class="updated_time"> 07:27 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62009301?at_medium=RSS&at_campaign=KARANGA">Unique terror trial that changed France</a> BBC: More than 400 survivors and relatives gave evidence in the unprecedented trial that ended this week. 
+ <p class="updated_time"> 07:23 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: A police informant says he was told that the driver was "unaware" the air conditioning had failed. 
+ <p class="updated_time"> 07:19 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62001760?at_medium=RSS&at_campaign=KARANGA">Brazil: Rio's residents garden their way out of hunger</a> BBC: Brazilian communities are combatting soaring food prices and a hunger crisis with urban gardens. 
+ <p class="updated_time"> 07:13 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61912110?at_medium=RSS&at_campaign=KARANGA">India farm law: Seven months after repeal, farmers are ready for new protests</a> BBC: Seven months after the government repealed the farm laws, farmers say demands not fulfilled yet. 
+ <p class="updated_time"> 06:54 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61966824?at_medium=RSS&at_campaign=KARANGA">Missing cryptoqueen: Is Dr Ruja Ignatova the biggest Bitcoin holder?</a> BBC: As the FBI adds Ruja Ignatova to its most wanted list, new findings suggest she amassed billions in Bitcoin. 
+ <p class="updated_time"> 06:48 PM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-62009739?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 25 June - 1 July 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 05:02 PM CT, Jul. 01 </p> 
