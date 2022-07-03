@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:21 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62031294?at_medium=RSS&at_campaign=KARANGA">Russian scientist Kolker held in spy probe dies of cancer</a> BBC: FSB officers had flown terminally ill Dmitry Kolker, a top quantum physicist, to a Moscow jail. 
  <p class="updated_time"> 03:10 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: A 22-year-old Danish man is arrested after the shooting at the Fields mall in the capital. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
