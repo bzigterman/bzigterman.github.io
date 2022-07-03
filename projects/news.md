@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Several people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 04:02 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: A 22-year-old Danish man is arrested after the shooting at the Fields mall in the capital. 
  <p class="updated_time"> 03:21 PM CT, Jul. 03 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
- <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61987945?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Can we say how many people have died?</a> BBC: Russia and Ukraine have different claims of how many people have died in the conflict. The BBC explores the data. 
 
