@@ -9,20 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:14 PM CT, Jul. 03 </p> 
+ <p class="updated_time"> 02:57 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Several killed in Copenhagen shopping mall shooting</a> BBC: A 22-year-old Danish man is arrested after the shooting at the Fields mall in the capital. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were killed in a shooting at a mall in Copenhagen</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
+ <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were killed in a shooting at a Copenhagen mall</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
  <p class="updated_time"> 12:27 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
  <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
+ <p class="updated_time"> 10:42 AM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Killed in Shooting at Copenhagen Mall</a> WSJ: Several people were killed in a shooting at a Copenhagen shopping mall on Sunday evening, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029779?at_medium=RSS&at_campaign=KARANGA">Egypt: Red Sea beaches close after deadly shark attack</a> BBC: Two women tourists died after being attacked while swimming near the Egyptian city of Hurghada. 
- <p class="updated_time"> 09:30 AM CT, Jul. 03 </p> 
- <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Shot at Copenhagen Mall</a> WSJ: Several people were shot at a Copenhagen shopping mall, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 08:31 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62029016?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Roger Federer and former champions celebrate 100 years of Centre Court</a> BBC: Wimbledon marks 100 years of its Centre Court with a musical celebration and guest appearances from a host of former champions, including Roger Federer. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
