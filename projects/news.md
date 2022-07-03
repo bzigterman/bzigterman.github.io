@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:59 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62025541?at_medium=RSS&at_campaign=KARANGA">Deadly blasts hit Russian border city</a> BBC: At least three are reported killed in explosions in the city of Belgorod, near the border with Ukraine. 
+ <p class="updated_time"> 09:34 PM CT, Jul. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62025539?at_medium=RSS&at_campaign=KARANGA">Three police die in 'pure hell' Kentucky shooting</a> BBC: The officers are killed along with a police dog as they try to serve a warrant for domestic violence. 
  <p class="updated_time"> 07:48 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62025538?at_medium=RSS&at_campaign=KARANGA">Argentina's finance minister makes sudden exit</a> BBC: Martin Guzmán's departure leaves a big question mark over Argentina's future economic policy. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62025538?at_medium=RSS&at_campaign=KARANGA">Argentina's economy minister makes sudden exit</a> BBC: Martin Guzmán's departure leaves a big question mark over Argentina's future economic policy. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
@@ -35,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62022476?at_medium=RSS&at_campaign=KARANGA">Russia dredges up landing ship hit by Ukraine missile fire</a> BBC: The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike. 
  <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
+ <p class="updated_time"> 12:16 PM CT, Jul. 02 </p> 
+ <a href="https://www.wsj.com/articles/bullet-that-killed-shireen-abu-akleh-handed-to-u-s-11656796565">Bullet That Killed Al Jazeera Journalist Handed to U.S.</a> WSJ: American officials plan to do their own investigation to determine whether an Israeli soldier fired the round that killed Shireen Abu Akleh. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
  <p class="updated_time"> 08:48 AM CT, Jul. 02 </p> 
@@ -55,10 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109557954/wnba-star-brittney-griner-begins-trial-in-moscow-over-drug-charges">WNBA star Brittney Griner begins trial in Moscow over drug charges</a> NPR: Russian prosecutors outlined drug charges against WNBA star Brittney Griner when her trial started in Moscow on Friday. The Biden administration says she's being wrongly detained. 
  <p class="updated_time"> 06:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62020070?at_medium=RSS&at_campaign=KARANGA">Jerry Hall files for divorce from Rupert Murdoch</a> BBC: The model cited "irreconcilable differences" with the media tycoon in court papers filed in California. 
- <p class="updated_time"> 06:35 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62018882?at_medium=RSS&at_campaign=KARANGA">Libya protesters storm parliament building in Tobruk</a> BBC: Rallies take place in Tobruk, Tripoli and other cities amid anger at the country's political deadlock. 
- <p class="updated_time"> 05:10 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62020074?at_medium=RSS&at_campaign=KARANGA">New York overhauls gun laws after Supreme Court ruling</a> BBC: The restrictions adopted in New York are likely to end up in another legal challenge. 
  <p class="updated_time"> 04:30 AM CT, Jul. 02 </p> 
  <a href="https://www.wsj.com/articles/russian-strike-kills-four-in-eastern-ukrainian-city-of-slovyansk-11656760755">Russian Strike Kills Four in Eastern Ukrainian City of Slovyansk</a> WSJ: Ukrainian officials said the latest deadly attack is part of a new Russian strategy to terrorize Ukraine into submission. 
  <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
@@ -95,10 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61987945?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Can we say how many people have died?</a> BBC: Russia and Ukraine have different claims of how many people have died in the conflict. The BBC explores the data. 
- <p class="updated_time"> 04:43 AM CT, Jul. 01 </p> 
- <a href="https://www.wsj.com/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831">Taliban Splits Emerge Over Religion, Power and Girls' Schools</a> WSJ: The Taliban stayed cohesive as a fighting force during the 20-year insurgency. Now cracks are appearing on multiple fronts. 
- <p class="updated_time"> 08:39 PM CT, Jun. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943">Xi Says Hong Kong's Loyalty to Beijing Will Ensure Prosperous Future</a> WSJ: Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61996296?at_medium=RSS&at_campaign=KARANGA">Assam: Death and despair after deadliest urban flood in India</a> BBC: Millions in India’s Assam state are struggling to piece together their lives after devastating floods. 
 
