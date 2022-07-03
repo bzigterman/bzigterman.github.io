@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 AM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62022308?at_medium=RSS&at_campaign=KARANGA">Taiwan: China attack not imminent, but US watching closely, says Gen Milley</a> BBC: Top US general Mark Milley says China clearly is developing the capability to be able to attack Taiwan. 
+ <p class="updated_time"> 03:19 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109602298/north-korea-slams-us-south-korea-japan-military-cooperation">North Korea slams US-South Korea-Japan military cooperation</a> NPR: North Korea on Sunday slammed the United States, South Korea and Japan for pushing to boost their trilateral military cooperation, warning it would reinforce its military capability. 
+ <p class="updated_time"> 02:58 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109599738/russians-press-assault-on-eastern-ukrainian-city">Russians press assault on eastern Ukrainian city</a> NPR: Russian forces pounded the city of Lysychansk and its surroundings in an all-out attempt to seize the last stronghold of resistance in eastern Ukraine's Luhansk province, the governor said Saturday. 
  <p class="updated_time"> 01:38 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109602480/israel-shoots-down-hezbollah-drones-over-mediterranean">Israel shoots down Hezbollah drones over Mediterranean</a> NPR: The Israeli military on Saturday said it shot down three unmanned aircraft launched by Lebanese militant group Hezbollah moving near an Israeli gas platform in the Mediterranean Sea. 
  <p class="updated_time"> 11:59 PM CT, Jul. 02 </p> 
@@ -27,14 +33,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61977063?at_medium=RSS&at_campaign=KARANGA">Sarfaraz Khan: The 'wandering cricketer' on the road to stardom</a> BBC: Sarfaraz Khan's heavy scoring in domestic cricket has him knocking on the doors of Indian cricket. 
  <p class="updated_time"> 06:32 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109591048/al-jazeera-shireen-abu-akleh-bullet-investigation">The bullet that killed Al Jazeera's Shireen Abu Akleh has been sent to U.S. officials</a> NPR: An official with the Palestinian Authority tells NPR an agreement was reached to share the bullet with the U.S. 
- <p class="updated_time"> 06:32 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022471?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukraine and Russia both claim control over Lysychansk</a> BBC: The strategic eastern city of Lysychansk is at the centre of competing claims as fighting rages. 
  <p class="updated_time"> 06:28 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62003180?at_medium=RSS&at_campaign=KARANGA">Ukraine: The teachers swapping classrooms for trenches</a> BBC: A number of teachers in Ukraine are educating their students online from the front line. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61975857?at_medium=RSS&at_campaign=KARANGA">Inside a US abortion clinic in its final days</a> BBC: The BBC spent time with staff before they had to stop work and turn patients away. 
  <p class="updated_time"> 05:29 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62025178?at_medium=RSS&at_campaign=KARANGA">Dozens freed from church awaiting 'Second Coming' in Ondo Nigeria</a> BBC: Police free 77 people from confinement in a church in south-western Nigeria. 
+ <a href="https://www.bbc.co.uk/news/world-africa-62025178?at_medium=RSS&at_campaign=KARANGA">Dozens of Nigerians freed from church awaiting 'Second Coming' in Ondo</a> BBC: Police free 77 people from confinement in a church in south-western Nigeria. 
  <p class="updated_time"> 03:45 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022452?at_medium=RSS&at_campaign=KARANGA">Israel shoots down Hezbollah drones heading for gas rig</a> BBC: The drones are launched from Lebanon, amid border tensions between the nations. 
  <p class="updated_time"> 01:51 PM CT, Jul. 02 </p> 
@@ -69,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109214047/how-russian-musicians-are-raising-money-for-ukraine">How Russian musicians are raising money for Ukraine </a> NPR: JetLAG bills itself as the largest festival of Russian, Slavic and East European musicians in the U.S. But its organizers almost canceled it this summer because of the war in Ukraine. 
  <p class="updated_time"> 02:48 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109554743/earthquake-kills-at-least-5-iran">A strong earthquake has killed at least 5 in southern Iran</a> NPR: Five people were killed and 44 others injured in a magnitude 6.3 earthquake in southern Iran on Saturday, state television reported. 
- <p class="updated_time"> 01:58 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62018517?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: Truck driver 'unaware air conditioner had stopped working'</a> BBC: The suspected driver of the truck where 53 migrants were found dead was hiding in bushes nearby. 
  <p class="updated_time"> 12:30 AM CT, Jul. 02 </p> 
  <a href="https://www.wsj.com/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200">Mines, Port Damage Threaten Revival of Sea Route for Ukraine Grain</a> WSJ: U.N.-sponsored talks are aimed at striking an agreement between Moscow and Kyiv to give shipments of Ukrainian grain safe passage—but it could still take weeks, or even months, to get traffic moving again. 
  <p class="updated_time"> 06:54 PM CT, Jul. 01 </p> 
@@ -83,10 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470597/odesa-maintains-some-normalcy-despite-russian-aerial-assault-on-southern-ukraine">Odesa maintains some normalcy despite Russian aerial assault on southern Ukraine</a> NPR: Russia has increased its aerial assault on southern Ukraine, firing missiles at areas outside of the Donbas. But despite the threat, it's almost as if the war hasn't touched the port city Odesa. 
- <p class="updated_time"> 03:32 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109476072/india-plastics-ban-begins">India begins to ban single-use plastics including cups and straws</a> NPR: Other items like water or soda bottles or snack bags aren't banned yet. But the government has set targets for manufacturers to be responsible for recycling or disposing of them after their use. 
- <p class="updated_time"> 02:34 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109388362/new-monkeypox-cases-triple-in-europe">New monkeypox cases have tripled in Europe since June 15, the WHO regional chief says</a> NPR: The monkeypox outbreak is expanding, and Europe is at its center, says Dr. Hans Kluge. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
@@ -106,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:12 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109602367/texas-clinics-halt-abortions-after-state-high-court-ruling">Texas clinics halt abortions after state high court ruling</a> NPR: Clinics were shutting down abortion services in the nation's second-largest state Saturday after the Texas Supreme Court blocked an order allowing the procedure to resume in some cases. 
  <p class="updated_time"> 06:22 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8">Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally</a> NPR: After Minnesota lawmakers approved a measure to legalize the sale of certain types of THC edibles, at least one Republican said he didn't realize what he was approving. 
  <p class="updated_time"> 05:33 PM CT, Jul. 02 </p> 
@@ -136,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109486052/epa-supreme-court-emissions-target-ruling">The EPA prepares for its 'counterpunch' after the Supreme Court ruling</a> NPR: The Supreme Court's ruling that curbs the power of the EPA will slow its ability to respond to the climate crisis, but "does not take the EPA out of the game," according to its administrator. 
  <p class="updated_time"> 03:42 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470583/president-biden-and-a-group-of-governors-met-about-protecting-abortion-rights">President Biden and a group of governors met about protecting abortion rights</a> NPR: President Biden met with a group of Democratic governors on how to protect abortion rights after the Supreme Court overturned Roe v. Wade. 
- <p class="updated_time"> 01:28 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109319734/biden-warns-democratic-governors-a-gop-congress-would-try-to-ban-abortion-nation">Biden warns Democratic governors a GOP Congress would try to ban abortion nationwide</a> NPR: President Joe Biden met with Democratic governors Friday afternoon to discuss ways their states are protecting abortion access and continuing to push abortion as an election issue in November. 
  <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
  <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
  <p class="updated_time"> 07:22 AM CT, Jun. 30 </p> 
