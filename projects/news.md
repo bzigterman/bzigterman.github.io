@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:33 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Several hurt in Copenhagen shopping mall shooting</a> BBC: One suspect is arrested following gunshots at the Field's mall in the south of the Danish capital. 
+ <p class="updated_time"> 02:14 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Several killed in Copenhagen shopping mall shooting</a> BBC: A 22-year-old Danish man is arrested after the shooting at the Fields mall in the capital. 
+ <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were shot at a shopping mall in Copenhagen</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
  <p class="updated_time"> 12:27 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
  <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
@@ -19,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029779?at_medium=RSS&at_campaign=KARANGA">Egypt: Red Sea beaches close after deadly shark attack</a> BBC: Two women tourists died after being attacked while swimming near the Egyptian city of Hurghada. 
+ <p class="updated_time"> 09:30 AM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Shot at Copenhagen Mall</a> WSJ: Several people were shot at a Copenhagen shopping mall, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 08:31 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62029016?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Roger Federer and former champions celebrate 100 years of Centre Court</a> BBC: Wimbledon marks 100 years of its Centre Court with a musical celebration and guest appearances from a host of former champions, including Roger Federer. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62025539?at_medium=RSS&at_campaign=KARANGA">Three police die in 'pure hell' Kentucky shooting</a> BBC: The officers are killed along with a police dog as they try to serve a warrant for domestic violence. 
  <p class="updated_time"> 07:48 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62025538?at_medium=RSS&at_campaign=KARANGA">Argentina's economy minister makes sudden exit</a> BBC: Martin Guzmán's departure leaves a big question mark over Argentina's future economic policy. 
- <p class="updated_time"> 07:34 PM CT, Jul. 02 </p> 
- <a href="https://www.wsj.com/articles/more-than-two-dozen-sailors-missing-after-ship-breaks-in-half-during-typhoon-off-hong-kong-11656822890">More Than Two Dozen Sailors Missing After Ship Breaks in Half During Typhoon Off Hong Kong</a> WSJ: Authorities in Hong Kong said they are conducting a search and rescue operation for more than two dozen seamen in the South China Sea after a ship broke in half during a typhoon. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
  <p class="updated_time"> 07:28 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109559371/ship-sinks-south-china-sea-storm-chaba">Dozens are feared lost after a ship sinks in the South China Sea</a> NPR: An industrial support ship operating has sunk in a storm with the possible loss of more than two dozen crew members, rescue services in Hong Kong said Saturday. 
- <p class="updated_time"> 07:21 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109557968/25-years-ago-britain-handed-control-of-hong-kong-back-to-china">25 years ago, Britain handed control of Hong Kong back to China</a> NPR: NPR's Melissa Block speaks with two friends from Hong Kong born 25 years ago, when China resumed control over the city. They've faced difficult decisions since, personally and politically. 
  <p class="updated_time"> 06:54 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61966824?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: Is Dr Ruja Ignatova the biggest Bitcoin holder?</a> BBC: As the FBI adds Ruja Ignatova to its most wanted list, new findings suggest she amassed billions in Bitcoin. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
