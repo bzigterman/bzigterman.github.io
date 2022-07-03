@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:40 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109605023/argentine-economy-minister-resigns-amid-peso-diesel-woes">Argentine economy minister resigns amid peso, diesel woes</a> NPR: Argentina's economy minister resigned unexpectedly Saturday, dealing a fresh blow to the government of President Alberto Ferández as the country struggles with economic problems. 
  <p class="updated_time"> 03:28 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62022308?at_medium=RSS&at_campaign=KARANGA">Taiwan: China attack not imminent, but US watching closely, says Gen Milley</a> BBC: Top US general Mark Milley says China clearly is developing the capability to be able to attack Taiwan. 
  <p class="updated_time"> 03:19 AM CT, Jul. 03 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109470758/even-with-beijings-backing-hong-kongs-new-leader-faces-big-challenges">Even with Beijing's backing, Hong Kong's new leader faces big challenges</a> NPR: Hong Kong gets a new leader on Friday with strong backing from Beijing, but faces challenges with a sluggish economy that remains closed to the outside world — and China — by COVID controls. 
  <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:47 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109470597/odesa-maintains-some-normalcy-despite-russian-aerial-assault-on-southern-ukraine">Odesa maintains some normalcy despite Russian aerial assault on southern Ukraine</a> NPR: Russia has increased its aerial assault on southern Ukraine, firing missiles at areas outside of the Donbas. But despite the threat, it's almost as if the war hasn't touched the port city Odesa. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
