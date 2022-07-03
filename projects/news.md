@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Several hurt in Copenhagen shopping mall shooting</a> BBC: One suspect is arrested following gunshots at the Field's mall in the south of the Danish capital. 
+ <p class="updated_time"> 12:27 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029779?at_medium=RSS&at_campaign=KARANGA">Egypt: Red Sea beaches close after deadly shark attack</a> BBC: Two women tourists died after being attacked while swimming near the Egyptian city of Hurghada. 
  <p class="updated_time"> 08:31 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62029016?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Roger Federer and former champions celebrate 100 years of Centre Court</a> BBC: Wimbledon marks 100 years of its Centre Court with a musical celebration and guest appearances from a host of former champions, including Roger Federer. 
+ <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582">Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</a> WSJ: The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months. 
  <p class="updated_time"> 07:47 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027248?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Downpours and floods cause mass evacuations and at least one death in Australia's largest city. 
  <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
@@ -25,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62025541?at_medium=RSS&at_campaign=KARANGA">Ukraine blamed by Russia for deadly blast in border city of Belgorod</a> BBC: Ukraine dismisses claims that its forces targeted homes in Belgorod in Russia, killing three people. 
  <p class="updated_time"> 06:47 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109607646/japan-is-suffering-a-blistering-heatwave-and-energy-crunch">Japan is suffering a blistering heatwave and energy crunch </a> NPR: Japan is sweltering amid a heatwave not seen in decades. As the country deals with an energy crunch, businesses are trying to save energy by turning lights down and thermostats up. 
- <p class="updated_time"> 06:04 AM CT, Jul. 03 </p> 
- <a href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582">Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</a> WSJ: The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
@@ -97,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61987945?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Can we say how many people have died?</a> BBC: Russia and Ukraine have different claims of how many people have died in the conflict. The BBC explores the data. 
- <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61996296?at_medium=RSS&at_campaign=KARANGA">Assam: Death and despair after deadliest urban flood in India</a> BBC: Millions in India’s Assam state are struggling to piece together their lives after devastating floods. 
 
 
 </details>
