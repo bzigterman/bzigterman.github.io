@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 04:04 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027248?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Roads have been cut off, with 18 evacuation orders in western Sydney alone and warnings of more to come. 
  <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
- <p class="updated_time"> 08:26 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62012430?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a whale is cut free from ropes in Norwegian Sea</a> BBC: The Norwegian Coastguard came to the rescue after the whale got tangled. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
