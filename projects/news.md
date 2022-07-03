@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 AM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62027248?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Roads have been cut off, with 18 evacuation orders in western Sydney alone and warnings of more to come. 
+ <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109605165/governor-russians-gaining-foothold-in-pivotal-ukraine-city">Governor: Russians gaining foothold in pivotal Ukraine city</a> NPR: Russian forces are strengthening their positions in a grueling fight to capture the last stronghold of resistance in eastern Ukraine's Luhansk province, the region's governor said Sunday. 
  <p class="updated_time"> 03:40 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109605023/argentine-economy-minister-resigns-amid-peso-diesel-woes">Argentine economy minister resigns amid peso, diesel woes</a> NPR: Argentina's economy minister resigned unexpectedly Saturday, dealing a fresh blow to the government of President Alberto Ferández as the country struggles with economic problems. 
  <p class="updated_time"> 03:28 AM CT, Jul. 03 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/bullet-that-killed-shireen-abu-akleh-handed-to-u-s-11656796565">Bullet That Killed Al Jazeera Journalist Handed to U.S.</a> WSJ: American officials plan to do their own investigation to determine whether an Israeli soldier fired the round that killed Shireen Abu Akleh. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
- <p class="updated_time"> 08:48 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62022470?at_medium=RSS&at_campaign=KARANGA">Hormozgan: Quake near southern Iran coast kills five</a> BBC: A strong earthquake rocks Hormozgan province, killing five and wrecking a village near the coast. 
  <p class="updated_time"> 08:26 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109558024/climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vintners in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 08:19 AM CT, Jul. 02 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 04:15 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470758/even-with-beijings-backing-hong-kongs-new-leader-faces-big-challenges">Even with Beijing's backing, Hong Kong's new leader faces big challenges</a> NPR: Hong Kong gets a new leader on Friday with strong backing from Beijing, but faces challenges with a sluggish economy that remains closed to the outside world — and China — by COVID controls. 
- <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
