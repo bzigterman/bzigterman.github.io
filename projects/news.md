@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 AM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109602480/israel-shoots-down-hezbollah-drones-over-mediterranean">Israel shoots down Hezbollah drones over Mediterranean</a> NPR: The Israeli military on Saturday said it shot down three unmanned aircraft launched by Lebanese militant group Hezbollah moving near an Israeli gas platform in the Mediterranean Sea. 
  <p class="updated_time"> 11:59 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62025541?at_medium=RSS&at_campaign=KARANGA">Deadly blasts hit Russian border city</a> BBC: At least three are reported killed in explosions in the city of Belgorod, near the border with Ukraine. 
  <p class="updated_time"> 09:34 PM CT, Jul. 02 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109476072/india-plastics-ban-begins">India begins to ban single-use plastics including cups and straws</a> NPR: Other items like water or soda bottles or snack bags aren't banned yet. But the government has set targets for manufacturers to be responsible for recycling or disposing of them after their use. 
  <p class="updated_time"> 02:34 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109388362/new-monkeypox-cases-triple-in-europe">New monkeypox cases have tripled in Europe since June 15, the WHO regional chief says</a> NPR: The monkeypox outbreak is expanding, and Europe is at its center, says Dr. Hans Kluge. 
- <p class="updated_time"> 02:07 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109319174/unesco-declares-ukraine-borsch-ukrainian-heritage">UNESCO declares borsch cooking an endangered Ukrainian heritage</a> NPR: Ukraine's culture minister declared victory in "the war for borsch" as Russia also claims the hearty beet soup. UNESCO says the invasion threatens Ukraine's borsch culture with "extreme urgency." 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
