@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:29 PM CT, Jul. 03 </p> 
+ <p class="updated_time"> 04:56 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Several people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
@@ -31,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/tennis/62029016?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Roger Federer and former champions celebrate 100 years of Centre Court</a> BBC: Wimbledon marks 100 years of its Centre Court with a musical celebration and guest appearances from a host of former champions, including Roger Federer. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582">Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</a> WSJ: The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months. 
- <p class="updated_time"> 07:47 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62027248?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Downpours and floods cause mass evacuations and at least one death in Australia's largest city. 
  <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
@@ -103,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
+ <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
  <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61987945?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Can we say how many people have died?</a> BBC: Russia and Ukraine have different claims of how many people have died in the conflict. The BBC explores the data. 
 
