@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62025539?at_medium=RSS&at_campaign=KARANGA">Three police die in 'pure hell' Kentucky shooting</a> BBC: The officers are killed along with a police dog as they try to serve a warrant for domestic violence. 
  <p class="updated_time"> 07:48 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62025538?at_medium=RSS&at_campaign=KARANGA">Argentina's economy minister makes sudden exit</a> BBC: Martin Guzmán's departure leaves a big question mark over Argentina's future economic policy. 
+ <p class="updated_time"> 07:34 PM CT, Jul. 02 </p> 
+ <a href="https://www.wsj.com/articles/more-than-two-dozen-sailors-missing-after-ship-breaks-in-half-during-typhoon-off-hong-kong-11656822890">More Than Two Dozen Sailors Missing After Ship Breaks in Half During Typhoon off Hong Kong</a> WSJ: Authorities in Hong Kong said they are conducting a search and rescue operation for more than two dozen seamen in the South China Sea after a ship broke in half during a typhoon. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
