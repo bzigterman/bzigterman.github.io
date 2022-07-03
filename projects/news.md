@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 04:29 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: Shoppers flee in panic after gunfire erupts in one of the country's biggest shopping centres. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Several people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 03:21 PM CT, Jul. 03 </p> 
