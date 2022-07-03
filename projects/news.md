@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Several killed in Copenhagen shopping mall shooting</a> BBC: A 22-year-old Danish man is arrested after the shooting at the Fields mall in the capital. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were shot at a shopping mall in Copenhagen</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
+ <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were killed in a shooting at a mall in Copenhagen</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
  <p class="updated_time"> 12:27 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
  <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
