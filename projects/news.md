@@ -9,22 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62034220?at_medium=RSS&at_campaign=KARANGA">Kellogg's loses court case over sugary cereal supermarket offers</a> BBC: It means products like Crunchy Nut Corn Flakes will not be allowed in end of aisle promotions. 
+ <p class="updated_time"> 06:29 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet chief operating officer resigns</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption to schedules. 
+ <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
+ <p class="updated_time"> 06:16 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills six</a> BBC: Emergency officials said another nine people have been injured, and 19 remain missing. 
+ <p class="updated_time"> 06:00 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62033006?at_medium=RSS&at_campaign=KARANGA">Leena Manimekalai: India director criticised for poster of movie 'Kaali'</a> BBC: A poster for director Leena Manimekalai's new movie shows her dressed as a goddess, smoking a cigarette. 
  <p class="updated_time"> 05:46 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
  <p class="updated_time"> 05:32 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman to face judge for questioning</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
- <p class="updated_time"> 05:28 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62034220?at_medium=RSS&at_campaign=KARANGA">Kellogg's loses court case over sugary cereal supermarket offers</a> BBC: It means products such as Crunchy Nut Cornflakes will not be allowed in end of aisle promotions. 
- <p class="updated_time"> 05:03 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills six</a> BBC: Emergency officials said another nine people have been injured, and 19 remain missing. 
+ <p class="updated_time"> 05:04 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62035768?at_medium=RSS&at_campaign=KARANGA">Prices in Turkey rise at fastest pace for 24 years</a> BBC: The country's inflation rate hits 78%, as prices continue to spiral further upwards due to the Ukraine war. 
  <p class="updated_time"> 04:43 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine: Lysychansk is a battle lost, not the war - governor</a> BBC: Serhiy Haidai tells the BBC that troops left the key city of Lysychansk to save it from Russian destruction. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
- <p class="updated_time"> 03:47 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 02:08 AM CT, Jul. 04 </p> 
@@ -36,19 +42,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182">Lessons of Russia's War in Ukraine: You Can't Hide and Weapons Stockpiles Are Essential</a> WSJ: The U.S. and its allies are studying Europe’s biggest conflict in decades. ‘You can’t cyber your way across a river.’ 
+ <a href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182">Ukraine War Lessons: You Can't Hide and Weapons Stockpiles Are Essential</a> WSJ: The U.S. and its allies are studying Europe’s biggest conflict in decades. ‘You can’t cyber your way across a river.’ 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
- <p class="updated_time"> 10:08 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62032801?at_medium=RSS&at_campaign=KARANGA">Uzbekistan Karakalpakstan: Thousands injured in unrest</a> BBC: Officials in the region of Karakalpakstan say thousands of people are being treated in hospital. 
- <p class="updated_time"> 08:36 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61991110?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Australian PM visits Kyiv, pledges more military aid</a> BBC: Anthony Albanese visited the devastated towns of Bucha and Irpin, describing what he saw as a 'war crime'. 
  <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
- <p class="updated_time"> 06:19 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/technology-62003253?at_medium=RSS&at_campaign=KARANGA">MPs call for UK ban on two Chinese CCTV firms</a> BBC: Sixty-seven MPs and Lords have said Hikvision and Dahua surveillance equipment should be banned. 
- <p class="updated_time"> 06:17 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61981241?at_medium=RSS&at_campaign=KARANGA">Bihar: Their son vanished - then an imposter took over for 41 years</a> BBC: An Indian man, pretending to be a missing son, deceived the boy's family for over four decades. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
  <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
@@ -56,7 +54,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109629190/at-madrids-amor-de-dios-flamenco-academy-dancers-are-finding-their-rhythm-again">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: Amor de Dios is a famous dance center in Madrid that specializes in teaching flamenco. NPR's Michel Martin visited to see how this art form is taught. 
+ <a href="https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: The pandemic placed competitive flamenco dancing on pause in Madrid. Now the passion and the intimacy of the artform are back on stage. 
  <p class="updated_time"> 03:37 PM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Killed in Shooting at Copenhagen Mall</a> WSJ: Several people were killed in a shooting at a Copenhagen shopping mall on Sunday evening, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
