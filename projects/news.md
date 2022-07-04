@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
+ <p class="updated_time"> 03:31 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
+ <p class="updated_time"> 01:29 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 12:10 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
  <p class="updated_time"> 12:00 PM CT, Jul. 04 </p> 
@@ -21,34 +27,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Shopping mall gunman charged with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
  <p class="updated_time"> 09:58 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
+ <p class="updated_time"> 09:53 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
  <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
  <p class="updated_time"> 09:23 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
- <p class="updated_time"> 09:06 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
  <p class="updated_time"> 07:02 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
- <p class="updated_time"> 06:48 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
- <p class="updated_time"> 06:19 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/macron-removes-minister-accused-of-rape-sexual-assault-from-french-government-11656938442">Macron Removes Minister Accused of Rape, Sexual Assault From French Government</a> WSJ: French President Emmanuel Macron pushed out a minister accused of sexual assault and rape as part of a wider government reshuffle aimed at breathing new life into his administration after losing control of the legislature last month. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
+ <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's chief police inspector said there was no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
@@ -56,7 +58,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:30 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/biden-might-soon-ease-chinese-tariffs-in-a-decision-fraught-with-policy-tensions-11656927001">Biden Might Soon Soften Chinese Tariffs, in Decision Fraught With Policy Tensions</a> WSJ: The White House wants to take steps aimed at easing inflation while still looking tough on China. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
+ <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109607646/japan-is-suffering-a-blistering-heatwave-and-energy-crunch">Japan is suffering a blistering heatwave and energy crunch </a> NPR: Japan is sweltering amid a heatwave not seen in decades. As the country deals with an energy crunch, businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
- <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109605165/governor-russians-gaining-foothold-in-pivotal-ukraine-city">Russia claims it has captured the pivotal city of Lysychansk in eastern Ukraine</a> NPR: Russian forces are strengthening their positions in a grueling fight to capture the last stronghold of resistance in eastern Ukraine's Luhansk province, the region's governor said Sunday. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
@@ -106,6 +106,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109737479/illinois-rep-brad-schneider-reacts-to-shooting-in-his-district">Illinois Rep. Brad Schneider reacts to shooting in his district</a> NPR: NPR's Ailsa Chang speaks with U.S. Rep. Brad Schneider, D-Ill., about a Fourth of July parade shooting that happened in the district that he represents in Highland Park, Ill. 
+ <p class="updated_time"> 02:47 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants">6 immigrants reflect on their complicated relationships with the 4th of July</a> NPR: We asked people who immigrated to the United States what the day meant to them — and how their feelings about the holiday have changed since they first arrived. 
  <p class="updated_time"> 10:00 AM CT, Jul. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
@@ -134,10 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109336452/protest-music-abortion-rights-roe-wade-march-blm">5 protest songs that have taken on new meaning post-Roe</a> NPR: Since the Supreme Court overturned Roe v. Wade last week, many have turned to music to express the emotion that has overwhelmed them in this moment. We examine five songs and what they mean today. 
  <p class="updated_time"> 04:03 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470737/some-fear-christian-nationalism-is-getting-legal-legitimacy-through-the-supreme-">Some fear Christian nationalism is getting legal legitimacy through the Supreme Court</a> NPR: Three recent SCOTUS rulings have been celebrated by an extreme far right wing pushing conservative Christian values. Some see the decisions as evidence this ideology has found legitimacy on the bench. 
- <p class="updated_time"> 03:59 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109470657/gov-lujan-grisham-asks-biden-to-consider-providing-abortion-care-on-federal-land">Gov. Lujan Grisham asks Biden to consider providing abortion care on federal land</a> NPR: NPR's Ari Shapiro talks with Michelle Lujan Grisham, Democratic governor of New Mexico, about Friday's meeting with President Biden regarding the Supreme Court's overturning of Roe v. Wade. 
 
 
 </details>
