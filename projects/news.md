@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:48 AM CT, Jul. 04 </p> 
+ <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
+ <p class="updated_time"> 09:27 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman charged in court with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
- <p class="updated_time"> 08:46 AM CT, Jul. 04 </p> 
+ <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
+ <p class="updated_time"> 09:23 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
- <p class="updated_time"> 07:51 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62034220?at_medium=RSS&at_campaign=KARANGA">Kellogg's loses court case over sugary cereal supermarket offers</a> BBC: It means products like Crunchy Nut Corn Flakes will not be allowed in end of aisle promotions. 
  <p class="updated_time"> 07:29 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Emergency officials said another eight people have been injured, and 15 remain missing. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
@@ -23,12 +25,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62035768?at_medium=RSS&at_campaign=KARANGA">Prices in Turkey rise at fastest pace for 24 years</a> BBC: The country's inflation rate hits 78%, as prices continue to spiral further upwards due to the Ukraine war. 
  <p class="updated_time"> 06:58 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62015958?at_medium=RSS&at_campaign=KARANGA">Tim Westwood: BBC reveals complaints against DJ</a> BBC: Police were involved after one of six bullying or sexual misconduct complaints, the corporation says. 
- <p class="updated_time"> 06:48 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
+ <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
  <p class="updated_time"> 06:00 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62033006?at_medium=RSS&at_campaign=KARANGA">Leena Manimekalai: Outrage over poster of smoking Hindu goddess</a> BBC: A poster for director Leena Manimekalai's new movie shows her dressed as a goddess, smoking a cigarette. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/china-starts-trial-of-vanished-canadian-chinese-billionaire-11656937271">China Starts Trial of Vanished Canadian-Chinese Billionaire</a> WSJ: More than five years after he mysteriously disappeared, Canadian-Chinese billionaire Xiao Jianhua is standing trial in mainland China, marking progress in a protracted case that has baffled the country’s business community. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
- <p class="updated_time"> 01:14 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/six-people-killed-in-italian-glacier-avalanche-11656929689">Six People Killed in Italian Glacier Avalanche</a> WSJ: Rescue workers in the Italian Alps continued to search for survivors after a large shard of ice broke off the Marmolada glacier in the Dolomites. 
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police say they believe Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
@@ -62,6 +62,8 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109629169/sindicato-de-manteros-creates-an-anti-racist-space-for-african-migrants-in-spain">'Sindicato de manteros' creates an anti-racist space for African migrants in Spain</a> NPR: Immigration to Spain is a controversial issue. In Madrid, a store run by African migrants — and a local non-profit — are working to change the way the issue is viewed by the Spanish public. 
+ <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: The pandemic placed competitive flamenco dancing on pause in Madrid. Now the passion and the intimacy of the artform are back on stage. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
@@ -77,10 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109605165/governor-russians-gaining-foothold-in-pivotal-ukraine-city">Russia claims it has captured the pivotal city of Lysychansk in eastern Ukraine</a> NPR: Russian forces are strengthening their positions in a grueling fight to capture the last stronghold of resistance in eastern Ukraine's Luhansk province, the region's governor said Sunday. 
- <p class="updated_time"> 03:40 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109605023/argentine-economy-minister-resigns-amid-peso-diesel-woes">Argentine economy minister resigns amid peso, diesel woes</a> NPR: Argentina's economy minister resigned unexpectedly Saturday, dealing a fresh blow to the government of President Alberto Ferández as the country struggles with economic problems. 
- <p class="updated_time"> 03:19 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109602298/north-korea-slams-us-south-korea-japan-military-cooperation">North Korea slams US-South Korea-Japan military cooperation</a> NPR: North Korea on Sunday slammed the United States, South Korea and Japan for pushing to boost their trilateral military cooperation, warning it would reinforce its military capability. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
