@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
  <p class="updated_time"> 04:07 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
- <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1108118116/ukraines-farmers-face-russias-blockade-and-ordnance-in-their-farms-this-harvest">Ukraine's farmers face Russia's blockade and explosives on their lands this harvest</a> NPR: Farmers in Ukraine begin to harvest this year's wheat, barley and rapeseed crops as diplomats try to negotiate an end to Russia's Black Sea blockade of exports. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
