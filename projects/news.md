@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
+ <p class="updated_time"> 10:08 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62032801?at_medium=RSS&at_campaign=KARANGA">Uzbekistan Karakalpakstan: Thousands injured in unrest</a> BBC: Officials in the region of Karakalpakstan say thousands of people are being treated in hospital. 
+ <p class="updated_time"> 08:36 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61991110?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Australian PM visits Kyiv, pledges more military aid</a> BBC: Anthony Albanese visited the devastated towns of Bucha and Irpin, describing what he saw as a 'war crime'. 
  <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
  <p class="updated_time"> 06:17 PM CT, Jul. 03 </p> 
@@ -33,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Turkey detains Russian-flagged grain ship from Ukraine</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
- <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
@@ -67,10 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109602480/israel-shoots-down-hezbollah-drones-over-mediterranean">Israel shoots down Hezbollah drones over Mediterranean</a> NPR: The Israeli military on Saturday said it shot down three unmanned aircraft launched by Lebanese militant group Hezbollah moving near an Israeli gas platform in the Mediterranean Sea. 
  <p class="updated_time"> 01:30 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/strife-rises-in-tunisia-as-democracy-erodes-economic-hardship-grows-11656844202">Strife Rises in Tunisia as Democracy Erodes, Economic Hardship Grows</a> WSJ: A new constitution that would consolidate the power of President Kais Saied is generating dissent among Tunisians who are grappling with rising food prices. 
- <p class="updated_time"> 09:34 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62025539?at_medium=RSS&at_campaign=KARANGA">Three police die in 'pure hell' Kentucky shooting</a> BBC: The officers are killed along with a police dog as they try to serve a warrant for domestic violence. 
- <p class="updated_time"> 07:48 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62025538?at_medium=RSS&at_campaign=KARANGA">Argentina's economy minister makes sudden exit</a> BBC: Martin Guzmán's departure leaves a big question mark over Argentina's future economic policy. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
  <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
