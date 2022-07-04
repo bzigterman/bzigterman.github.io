@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:02 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
+ <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">A meter of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 11:22 PM CT, Jul. 03 </p> 
@@ -19,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61991110?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Australian PM visits Kyiv, pledges more military aid</a> BBC: Anthony Albanese visited the devastated towns of Bucha and Irpin, describing what he saw as a 'war crime'. 
  <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
+ <p class="updated_time"> 06:19 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-62003253?at_medium=RSS&at_campaign=KARANGA">MPs call for UK ban on two Chinese CCTV firms</a> BBC: Sixty-seven MPs and Lords have said Hikvision and Dahua surveillance equipment should be banned. 
  <p class="updated_time"> 06:17 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61981241?at_medium=RSS&at_campaign=KARANGA">Bihar: Their son vanished - then an imposter took over for 41 years</a> BBC: An Indian man, pretending to be a missing son, deceived the boy's family for over four decades. 
- <p class="updated_time"> 06:09 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
  <p class="updated_time"> 05:53 PM CT, Jul. 03 </p> 
@@ -53,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1108118116/ukraines-farmers-face-russias-blockade-and-ordnance-in-their-farms-this-harvest">Ukraine's farmers face Russia's blockade and explosives on their lands this harvest</a> NPR: Farmers in Ukraine begin to harvest this year's wheat, barley and rapeseed crops as diplomats try to negotiate an end to Russia's Black Sea blockade of exports. 
- <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62025541?at_medium=RSS&at_campaign=KARANGA">Ukraine blamed by Russia for deadly blast in border city of Belgorod</a> BBC: Ukraine dismisses claims that its forces targeted homes in Belgorod in Russia, killing three people. 
  <p class="updated_time"> 06:47 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109607646/japan-is-suffering-a-blistering-heatwave-and-energy-crunch">Japan is suffering a blistering heatwave and energy crunch </a> NPR: Japan is sweltering amid a heatwave not seen in decades. As the country deals with an energy crunch, businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
- <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
 
 
 </details>
