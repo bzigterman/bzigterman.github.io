@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:43 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1108118116/ukraines-farmers-face-russias-blockade-and-ordnance-in-their-farms-this-harvest">Ukraine's farmers face Russia's blockade and explosives on their lands this harvest</a> NPR: Farmers in Ukraine begin to harvest this year's wheat, barley and rapeseed crops as diplomats try to negotiate an end to Russia's Black Sea blockade of exports. 
- <p class="updated_time"> 06:47 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109607646/japan-is-suffering-a-blistering-heatwave-and-energy-crunch">Japan is suffering a blistering heatwave and energy crunch </a> NPR: Japan is sweltering amid a heatwave not seen in decades. As the country deals with an energy crunch, businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
@@ -136,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109442956/these-candidates-lost-badly-but-now-are-claiming-fraud">These candidates lost badly, but now are claiming fraud</a> NPR: Former President Trump's influence is growing — with fringe candidates, who are refusing to admit defeat even after they've been trounced. 
  <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109336452/protest-music-abortion-rights-roe-wade-march-blm">5 protest songs that have taken on new meaning post-Roe</a> NPR: Since the Supreme Court overturned Roe v. Wade last week, many have turned to music to express the emotion that has overwhelmed them in this moment. We examine five songs and what they mean today. 
- <p class="updated_time"> 04:03 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109470737/some-fear-christian-nationalism-is-getting-legal-legitimacy-through-the-supreme-">Some fear Christian nationalism is getting legal legitimacy through the Supreme Court</a> NPR: Three recent SCOTUS rulings have been celebrated by an extreme far right wing pushing conservative Christian values. Some see the decisions as evidence this ideology has found legitimacy on the bench. 
 
 
 </details>
