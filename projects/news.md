@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
- <p class="updated_time"> 03:43 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
  <p class="updated_time"> 01:29 PM CT, Jul. 04 </p> 
