@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
+ <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: 'I hid my son in a dumpster' - witness</a> BBC: Police are still searching for the gunman, who shot dead six people at an Independence Day parade. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
- <p class="updated_time"> 04:07 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62003180?at_medium=RSS&at_campaign=KARANGA">Ukraine: The teachers swapping classrooms for trenches</a> BBC: A number of teachers in Ukraine are educating their students online from the front line. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61975857?at_medium=RSS&at_campaign=KARANGA">Inside a US abortion clinic in its final days</a> BBC: The BBC spent time with staff before they had to stop work and turn patients away. 
- <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
 
