@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:02 AM CT, Jul. 04 </p> 
+ <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
+ <p class="updated_time"> 01:25 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61981241?at_medium=RSS&at_campaign=KARANGA">Bihar: Their son vanished - then an imposter took over for 41 years</a> BBC: An Indian man, pretending to be a missing son, deceived the boy's family for over four decades. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
- <p class="updated_time"> 05:53 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030708?at_medium=RSS&at_campaign=KARANGA">Video captures moment glacier collapses in Italian alps</a> BBC: Five people were killed in an avalanche sparked by the glacier collapse on the Marmolada mountain. 
  <p class="updated_time"> 05:41 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
  <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
@@ -47,6 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Turkey detains Russian-flagged grain ship from Ukraine</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61985416?at_medium=RSS&at_campaign=KARANGA">Daphne du Maurier: Novelist who traced past to a French debtors' jail</a> BBC: Rebecca writer Dame Daphne du Maurier discovered her apparent aristocratic past was not as it seemed. 
  <p class="updated_time"> 06:50 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61977063?at_medium=RSS&at_campaign=KARANGA">Sarfaraz Khan: The 'wandering cricketer' on the road to stardom</a> BBC: Sarfaraz Khan's heavy scoring in domestic cricket has him knocking on the doors of Indian cricket. 
- <p class="updated_time"> 06:32 PM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109591048/al-jazeera-shireen-abu-akleh-bullet-investigation">The bullet that killed Al Jazeera's Shireen Abu Akleh has been sent to U.S. officials</a> NPR: An official with the Palestinian Authority tells NPR an agreement was reached to share the bullet with the U.S. 
  <p class="updated_time"> 06:28 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62003180?at_medium=RSS&at_campaign=KARANGA">Ukraine: The teachers swapping classrooms for trenches</a> BBC: A number of teachers in Ukraine are educating their students online from the front line. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
@@ -95,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
- <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-62017430?at_medium=RSS&at_campaign=KARANGA">Same-sex couples legally marry in Switzerland</a> BBC: Couples tie the knot nine months after the country voted for marriage for all. 
  <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
 
