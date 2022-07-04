@@ -9,26 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:56 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Danish police cannot rule out terror in mall attack</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
+ <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
+ <p class="updated_time"> 06:17 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61981241?at_medium=RSS&at_campaign=KARANGA">Bihar: Their son vanished - then an imposter took over for 41 years</a> BBC: An Indian man, pretending to be a missing son, deceived the boy's family for over four decades. 
+ <p class="updated_time"> 06:09 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
+ <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
+ <p class="updated_time"> 05:53 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030708?at_medium=RSS&at_campaign=KARANGA">Video captures moment glacier collapses in Italian alps</a> BBC: Five people were killed in an avalanche sparked by the glacier collapse on the Marmolada mountain. 
+ <p class="updated_time"> 05:41 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
+ <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia">The last city in Luhansk has fallen to Russia. What does that mean for Ukraine? </a> NPR: Lysychansk was the last major city held by Ukrainians in the region. After their retreat, Russia holds the entire Luhansk region and has its sights set on completing its capture of nearby Donetsk. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Several people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
+ <p class="updated_time"> 03:37 PM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Killed in Shooting at Copenhagen Mall</a> WSJ: Several people were killed in a shooting at a Copenhagen shopping mall on Sunday evening, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 03:21 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62031294?at_medium=RSS&at_campaign=KARANGA">Russian scientist Kolker held in spy probe dies of cancer</a> BBC: FSB officers had flown terminally ill Dmitry Kolker, a top quantum physicist, to a Moscow jail. 
+ <p class="updated_time"> 02:03 PM CT, Jul. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Turkey detains Russian-flagged grain ship from Ukraine</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">Several people were killed in a shooting at a Copenhagen mall</a> NPR: One person has been arrested in connection with the shooting at the Field's shopping mall in Denmark's capital. Harry Styles was scheduled to hold a concert at the nearby Royal Arena. 
- <p class="updated_time"> 12:27 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
- <p class="updated_time"> 11:59 AM CT, Jul. 03 </p> 
- <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Killed in Shooting at Copenhagen Mall</a> WSJ: Several people were killed in a shooting at a Copenhagen shopping mall on Sunday evening, according to local police, who said that one person had been arrested. 
+ <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
  <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029779?at_medium=RSS&at_campaign=KARANGA">Egypt: Red Sea beaches close after deadly shark attack</a> BBC: Two women tourists died after being attacked while swimming near the Egyptian city of Hurghada. 
- <p class="updated_time"> 08:31 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/62029016?at_medium=RSS&at_campaign=KARANGA">Wimbledon: Roger Federer and former champions celebrate 100 years of Centre Court</a> BBC: Wimbledon marks 100 years of its Centre Court with a musical celebration and guest appearances from a host of former champions, including Roger Federer. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582">Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</a> WSJ: The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months. 
  <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
@@ -75,12 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62003180?at_medium=RSS&at_campaign=KARANGA">Ukraine: The teachers swapping classrooms for trenches</a> BBC: A number of teachers in Ukraine are educating their students online from the front line. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61975857?at_medium=RSS&at_campaign=KARANGA">Inside a US abortion clinic in its final days</a> BBC: The BBC spent time with staff before they had to stop work and turn patients away. 
- <p class="updated_time"> 05:29 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62025178?at_medium=RSS&at_campaign=KARANGA">Dozens of Nigerians freed from church awaiting 'Second Coming' in Ondo</a> BBC: Police free 77 people from confinement in a church in south-western Nigeria. 
- <p class="updated_time"> 03:45 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022452?at_medium=RSS&at_campaign=KARANGA">Israel shoots down Hezbollah drones heading for gas rig</a> BBC: The drones are launched from Lebanon, amid border tensions between the nations. 
- <p class="updated_time"> 01:51 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022476?at_medium=RSS&at_campaign=KARANGA">Russia dredges up landing ship hit by Ukraine missile fire</a> BBC: The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike. 
  <p class="updated_time"> 12:41 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
@@ -89,12 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109558024/climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vintners in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 08:19 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109558010/two-ukrainian-fighters-describe-the-current-state-of-the-frontlines-against-russ">Two Ukrainian fighters describe the current state of the frontlines against Russia</a> NPR: Two Ukrainian fighters — one a volunteer solider, the other, a commander — describe what they're seeing on the frontlines of the war against Russia. 
- <p class="updated_time"> 08:15 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
- <p class="updated_time"> 07:28 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109559371/ship-sinks-south-china-sea-storm-chaba">Dozens are feared lost after a ship sinks in the South China Sea</a> NPR: An industrial support ship operating has sunk in a storm with the possible loss of more than two dozen crew members, rescue services in Hong Kong said Saturday. 
- <p class="updated_time"> 06:54 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61966824?at_medium=RSS&at_campaign=KARANGA">Missing Cryptoqueen: Is Dr Ruja Ignatova the biggest Bitcoin holder?</a> BBC: As the FBI adds Ruja Ignatova to its most wanted list, new findings suggest she amassed billions in Bitcoin. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
@@ -103,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
  <p class="updated_time"> 05:49 AM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62010183?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a landslide descends on town in Peru</a> BBC: No deaths or serious injures are reported, but authorities are searching for people who may be missing. 
- <p class="updated_time"> 05:15 AM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61987945?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Can we say how many people have died?</a> BBC: Russia and Ukraine have different claims of how many people have died in the conflict. The BBC explores the data. 
 
 
 </details>
@@ -112,7 +108,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:55 AM CT, Jul. 03 </p> 
+ <p class="updated_time"> 05:08 PM CT, Jul. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109607611/politics-chat-supreme-court-rulings-limit-executive-action-on-climate-and-aborti">Politics chat: Supreme Court rulings limit executive action on climate and abortion</a> NPR: From Supreme Court decisions to Jan. 6 revelations — it has been an extraordinary last several days in politics. 
@@ -144,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109470657/gov-lujan-grisham-asks-biden-to-consider-providing-abortion-care-on-federal-land">Gov. Lujan Grisham asks Biden to consider providing abortion care on federal land</a> NPR: NPR's Ari Shapiro talks with Michelle Lujan Grisham, Democratic governor of New Mexico, about Friday's meeting with President Biden regarding the Supreme Court's overturning of Roe v. Wade. 
  <p class="updated_time"> 03:49 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109486052/epa-supreme-court-emissions-target-ruling">The EPA prepares for its 'counterpunch' after the Supreme Court ruling</a> NPR: The Supreme Court's ruling that curbs the power of the EPA will slow its ability to respond to the climate crisis, but "does not take the EPA out of the game," according to its administrator. 
- <p class="updated_time"> 06:02 PM CT, Jun. 30 </p> 
- <a href="https://www.cnn.com/2022/06/30/politics/takeaways-supreme-court-term-round-up-conservative-victories/index.html">Takeaways from the blockbuster victories conservatives secured at the Supreme Court</a> CNN: In decisions handed down in recent weeks, the conservative Supreme Court transformed the legal landscape around an assortment of hot-button issues, including abortion, gun rights, immigration and religious liberty. 
 
 
 </details>
