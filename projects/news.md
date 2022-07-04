@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
  <p class="updated_time"> 12:00 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Italy's prime minister says the incident is "without doubt" linked to climate change. 
  <p class="updated_time"> 11:13 AM CT, Jul. 04 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
- <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police say they believe Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182">Ukraine War Lessons: You Can't Hide and Weapons Stockpiles Are Essential</a> WSJ: The U.S. and its allies are studying Europe’s biggest conflict in decades. “You can’t cyber your way across a river.” 
  <p class="updated_time"> 12:30 AM CT, Jul. 04 </p> 
@@ -95,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
- <p class="updated_time"> 12:11 PM CT, Jul. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62002300?at_medium=RSS&at_campaign=KARANGA">Texas migrant deaths: 'I still have to bring my children home'</a> BBC: A grieving Honduran mother tells of her despair over relatives lost in the Texas lorry tragedy. 
 
 
 </details>
