@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills six</a> BBC: Emergency officials said another nine people have been injured, and 19 remain missing. 
+ <p class="updated_time"> 02:08 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62033004?at_medium=RSS&at_campaign=KARANGA">Manipur landslide: 42 dead, 20 missing as rescue operations continue</a> BBC: Authorities in Manipur state say heavy rain and fresh landslides are hampering rescue efforts. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 01:25 AM CT, Jul. 04 </p> 
@@ -16,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">A meter of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
+ <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 11:22 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 10:08 PM CT, Jul. 03 </p> 
@@ -47,12 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Turkey detains Russian-flagged grain ship from Ukraine</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
- <p class="updated_time"> 11:13 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">At least five killed in Italian Marmolada glacier collapse</a> BBC: Emergency officials said another eight people have been injured, with two suffering serious injuries. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
- <p class="updated_time"> 10:04 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029779?at_medium=RSS&at_campaign=KARANGA">Egypt: Red Sea beaches close after deadly shark attack</a> BBC: Two women tourists died after being attacked while swimming near the Egyptian city of Hurghada. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582">Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</a> WSJ: The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months. 
  <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
@@ -63,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109607646/japan-is-suffering-a-blistering-heatwave-and-energy-crunch">Japan is suffering a blistering heatwave and energy crunch </a> NPR: Japan is sweltering amid a heatwave not seen in decades. As the country deals with an energy crunch, businesses are trying to save energy by turning lights down and thermostats up. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/chinas-slowdown-could-tamp-down-global-inflation-11656853200">China's Slowdown Could Tamp Down Global Inflation</a> WSJ: Growth in the world’s second-largest economy has tumbled this year as Covid-19 outbreaks triggered mass lockdowns and business closures. But there could be a silver lining for the rest of the world. 
  <p class="updated_time"> 03:56 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109605165/governor-russians-gaining-foothold-in-pivotal-ukraine-city">Russia claims it has captured the pivotal city of Lysychansk in eastern Ukraine</a> NPR: Russian forces are strengthening their positions in a grueling fight to capture the last stronghold of resistance in eastern Ukraine's Luhansk province, the region's governor said Sunday. 
  <p class="updated_time"> 03:40 AM CT, Jul. 03 </p> 
