@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:44 PM CT, Jul. 04 </p> 
+ <p class="updated_time"> 05:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62042636?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Six dead in 4 July parade shooting near Chicago</a> BBC: The mayor of Highland Park says the situation is "active" and urged people to remain indoors. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: 'I hid my son in a dumpster' - witness</a> BBC: Police are still searching for the gunman, who shot dead six people at an Independence Day parade. 
