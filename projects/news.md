@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">A meter of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 11:22 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 10:08 PM CT, Jul. 03 </p> 
@@ -31,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia">The last city in Luhansk has fallen to Russia. What does that mean for Ukraine? </a> NPR: Lysychansk was the last major city held by Ukrainians in the region. After their retreat, Russia holds the entire Luhansk region and has its sights set on completing its capture of nearby Donetsk. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
+ <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
+ <a href="https://www.npr.org/2022/07/03/1109629190/at-madrids-amor-de-dios-flamenco-academy-dancers-are-finding-their-rhythm-again">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: Amor de Dios is a famous dance center in Madrid that specializes in teaching flamenco. NPR's Michel Martin visited to see how this art form is taught. 
  <p class="updated_time"> 03:37 PM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/several-people-shot-at-copenhagen-mall-11656873016">Several People Killed in Shooting at Copenhagen Mall</a> WSJ: Several people were killed in a shooting at a Copenhagen shopping mall on Sunday evening, according to local police, who said that one person had been arrested. 
  <p class="updated_time"> 03:21 PM CT, Jul. 03 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109605165/governor-russians-gaining-foothold-in-pivotal-ukraine-city">Russia claims it has captured the pivotal city of Lysychansk in eastern Ukraine</a> NPR: Russian forces are strengthening their positions in a grueling fight to capture the last stronghold of resistance in eastern Ukraine's Luhansk province, the region's governor said Sunday. 
  <p class="updated_time"> 03:40 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109605023/argentine-economy-minister-resigns-amid-peso-diesel-woes">Argentine economy minister resigns amid peso, diesel woes</a> NPR: Argentina's economy minister resigned unexpectedly Saturday, dealing a fresh blow to the government of President Alberto Ferández as the country struggles with economic problems. 
- <p class="updated_time"> 03:28 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62022308?at_medium=RSS&at_campaign=KARANGA">Taiwan: China attack not imminent, but US watching closely, says Gen Milley</a> BBC: Top US general Mark Milley says China clearly is developing the capability to be able to attack Taiwan. 
  <p class="updated_time"> 03:19 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109602298/north-korea-slams-us-south-korea-japan-military-cooperation">North Korea slams US-South Korea-Japan military cooperation</a> NPR: North Korea on Sunday slammed the United States, South Korea and Japan for pushing to boost their trilateral military cooperation, warning it would reinforce its military capability. 
  <p class="updated_time"> 03:00 AM CT, Jul. 03 </p> 
@@ -89,10 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62024376?at_medium=RSS&at_campaign=KARANGA">Crew member of sinking ship airlifted to safety</a> BBC: Over two dozen crew are still missing after an engineering vessel split in two in the South China Sea. 
  <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
- <p class="updated_time"> 08:26 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109558024/climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vintners in Turkey, endangering the future of an ancient industry. 
- <p class="updated_time"> 08:19 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109558010/two-ukrainian-fighters-describe-the-current-state-of-the-frontlines-against-russ">Two Ukrainian fighters describe the current state of the frontlines against Russia</a> NPR: Two Ukrainian fighters — one a volunteer solider, the other, a commander — describe what they're seeing on the frontlines of the war against Russia. 
  <p class="updated_time"> 06:00 PM CT, Jul. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61986065?at_medium=RSS&at_campaign=KARANGA">Hot weather dries up swamp, uncovers ancient fort</a> BBC: A historical group was instrumental in discovering a crannog made from stone near Lough Neagh. 
  <p class="updated_time"> 12:51 PM CT, Jul. 01 </p> 
