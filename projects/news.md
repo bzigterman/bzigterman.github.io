@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:47 AM CT, Jul. 04 </p> 
@@ -39,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61981241?at_medium=RSS&at_campaign=KARANGA">Bihar: Their son vanished - then an imposter took over for 41 years</a> BBC: An Indian man, pretending to be a missing son, deceived the boy's family for over four decades. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
- <p class="updated_time"> 05:41 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030051?at_medium=RSS&at_campaign=KARANGA">Ukraine confirms Russia captured eastern city Lysychansk</a> BBC: Ukraine says it pulled its troops out and Russia claims to control all of Luhansk region. 
  <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia">The last city in Luhansk has fallen to Russia. What does that mean for Ukraine? </a> NPR: Lysychansk was the last major city held by Ukrainians in the region. After their retreat, Russia holds the entire Luhansk region and has its sights set on completing its capture of nearby Donetsk. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
