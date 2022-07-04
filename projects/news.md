@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
+ <p class="updated_time"> 03:37 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 02:21 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills six</a> BBC: Emergency officials said another nine people have been injured, and 19 remain missing. 
  <p class="updated_time"> 02:08 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62033004?at_medium=RSS&at_campaign=KARANGA">Manipur landslide: 42 dead, 20 missing as rescue operations continue</a> BBC: Authorities in Manipur state say heavy rain and fresh landslides are hampering rescue efforts. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
- <p class="updated_time"> 01:25 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62030919?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman kills three in Field's shopping mall</a> BBC: Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres. 
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/how-food-became-putins-new-strategic-weapon-11656849602">How Food Became Putin's New Strategic Weapon</a> WSJ: Russia has used its increased leverage over food exports from Ukraine to divide the international community and expand influence over developing economies in the Middle East, Africa and Asia. 
  <p class="updated_time"> 02:58 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109599738/russians-press-assault-on-eastern-ukrainian-city">Russians press assault on eastern Ukrainian city</a> NPR: Russian forces pounded the city of Lysychansk and its surroundings in an all-out attempt to seize the last stronghold of resistance in eastern Ukraine's Luhansk province, the governor said Saturday. 
- <p class="updated_time"> 01:38 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109602480/israel-shoots-down-hezbollah-drones-over-mediterranean">Israel shoots down Hezbollah drones over Mediterranean</a> NPR: The Israeli military on Saturday said it shot down three unmanned aircraft launched by Lebanese militant group Hezbollah moving near an Israeli gas platform in the Mediterranean Sea. 
  <p class="updated_time"> 01:30 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/strife-rises-in-tunisia-as-democracy-erodes-economic-hardship-grows-11656844202">Strife Rises in Tunisia as Democracy Erodes, Economic Hardship Grows</a> WSJ: A new constitution that would consolidate the power of President Kais Saied is generating dissent among Tunisians who are grappling with rising food prices. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
