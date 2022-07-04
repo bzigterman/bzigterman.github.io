@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:23 AM CT, Jul. 04 </p> 
+ <p class="updated_time"> 12:00 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Italy's prime minister says the incident is "without doubt" linked to climate change. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62035815?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US releases result of test on bullet that killed reporter</a> BBC: Although forensic analysis was inconclusive, the US said Israeli forces likely fired the shot. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Shopping mall gunman charged with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
  <p class="updated_time"> 09:58 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
- <p class="updated_time"> 09:54 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Italy's prime minister says the incident is "without doubt" linked to climate change. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
  <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
@@ -27,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
@@ -35,12 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
  <p class="updated_time"> 06:19 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/macron-removes-minister-accused-of-rape-sexual-assault-from-french-government-11656938442">Macron Removes Minister Accused of Rape, Sexual Assault From French Government</a> WSJ: French President Emmanuel Macron pushed out a minister accused of sexual assault and rape as part of a wider government reshuffle aimed at breathing new life into his administration after losing control of the legislature last month. 
- <p class="updated_time"> 06:12 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
- <p class="updated_time"> 04:04 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-hits-germany-with-first-trade-deficit-in-over-three-decades-11656938249">Ukraine War Hits Germany With First Trade Deficit in Over Three Decades</a> WSJ: The fallout from Russia’s war in Ukraine sent Germany’s import bill for energy sharply higher, but its deficit with China also widened. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
@@ -58,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">At least 6 hikers were killed after a piece of glacier broke loose in Italy</a> NPR: The glacier, in the Marmolada range, is the largest in the Dolomite mountains in northeastern Italy and people ski there in the winter. But the glacier has been rapidly melting away in recent years. 
+ <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">Alpine avalanche in Italy leaves 7 known dead</a> NPR: An Italian regional leader said that 14 persons remained unaccounted for: 10 Italians, three from Czechia and one from Austria. 
  <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia">The last city in Luhansk has fallen to Russia. What does that mean for Ukraine? </a> NPR: Lysychansk was the last major city held by Ukrainians in the region. After their retreat, Russia holds the entire Luhansk region and has its sights set on completing its capture of nearby Donetsk. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
