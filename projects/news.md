@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:42 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109743558/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood">Biden urges unity in July 4th speech, while acknowledging the country's sour mood</a> NPR: In a largely optimistic speech to commemorate July 4th, President Biden spoke to Americans who feel "exhausted" by what they see as a lack of progress. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737479/illinois-rep-brad-schneider-reacts-to-shooting-in-his-district">Illinois Rep. Brad Schneider reacts to shooting in his district</a> NPR: NPR's Ailsa Chang speaks with U.S. Rep. Brad Schneider, D-Ill., about a Fourth of July parade shooting that happened in the district that he represents in Highland Park, Ill. 
  <p class="updated_time"> 02:47 PM CT, Jul. 04 </p> 
