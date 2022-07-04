@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
+ <p class="updated_time"> 03:47 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 03:37 AM CT, Jul. 04 </p> 
@@ -23,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62032964?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Ohio police release video of deadly suspect chase</a> BBC: Police believe black man Jayland Walker fired first before being shot more than 60 times by officers. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
- <p class="updated_time"> 11:22 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 10:08 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62032801?at_medium=RSS&at_campaign=KARANGA">Uzbekistan Karakalpakstan: Thousands injured in unrest</a> BBC: Officials in the region of Karakalpakstan say thousands of people are being treated in hospital. 
  <p class="updated_time"> 08:36 PM CT, Jul. 03 </p> 
@@ -53,6 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62010113?at_medium=RSS&at_campaign=KARANGA">Turkey detains Russian-flagged grain ship from Ukraine</a> BBC: Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
+ <p class="updated_time"> 10:45 AM CT, Jul. 03 </p> 
+ <a href="https://www.wsj.com/articles/british-theater-film-director-peter-brook-dies-at-97-11656877497">British Theater, Film Director Peter Brook Dies at 97</a> WSJ: The two-time Tony Award winner, who had settled in France decades ago, directed the film adaptations of his best stage works as well as the 1963 movie “Lord of the Flies.” 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 08:12 AM CT, Jul. 03 </p> 
@@ -75,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109602298/north-korea-slams-us-south-korea-japan-military-cooperation">North Korea slams US-South Korea-Japan military cooperation</a> NPR: North Korea on Sunday slammed the United States, South Korea and Japan for pushing to boost their trilateral military cooperation, warning it would reinforce its military capability. 
  <p class="updated_time"> 03:00 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/how-food-became-putins-new-strategic-weapon-11656849602">How Food Became Putin's New Strategic Weapon</a> WSJ: Russia has used its increased leverage over food exports from Ukraine to divide the international community and expand influence over developing economies in the Middle East, Africa and Asia. 
- <p class="updated_time"> 02:58 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109599738/russians-press-assault-on-eastern-ukrainian-city">Russians press assault on eastern Ukrainian city</a> NPR: Russian forces pounded the city of Lysychansk and its surroundings in an all-out attempt to seize the last stronghold of resistance in eastern Ukraine's Luhansk province, the governor said Saturday. 
  <p class="updated_time"> 01:30 AM CT, Jul. 03 </p> 
  <a href="https://www.wsj.com/articles/strife-rises-in-tunisia-as-democracy-erodes-economic-hardship-grows-11656844202">Strife Rises in Tunisia as Democracy Erodes, Economic Hardship Grows</a> WSJ: A new constitution that would consolidate the power of President Kais Saied is generating dissent among Tunisians who are grappling with rising food prices. 
  <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
@@ -106,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
  <p class="updated_time"> 05:08 PM CT, Jul. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
@@ -136,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/01/1109309258/russia-ukraine-war-what-happened-today-july-1">Russia-Ukraine war: What happened today (July 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Jul. 01 </p> 
  <a href="https://www.npr.org/2022/07/01/1109470657/gov-lujan-grisham-asks-biden-to-consider-providing-abortion-care-on-federal-land">Gov. Lujan Grisham asks Biden to consider providing abortion care on federal land</a> NPR: NPR's Ari Shapiro talks with Michelle Lujan Grisham, Democratic governor of New Mexico, about Friday's meeting with President Biden regarding the Supreme Court's overturning of Roe v. Wade. 
- <p class="updated_time"> 03:49 PM CT, Jul. 01 </p> 
- <a href="https://www.npr.org/2022/07/01/1109486052/epa-supreme-court-emissions-target-ruling">The EPA prepares for its 'counterpunch' after the Supreme Court ruling</a> NPR: The Supreme Court's ruling that curbs the power of the EPA will slow its ability to respond to the climate crisis, but "does not take the EPA out of the game," according to its administrator. 
 
 
 </details>
