@@ -27,10 +27,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
  <p class="updated_time"> 09:23 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
+ <p class="updated_time"> 09:06 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
  <p class="updated_time"> 07:02 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
+ <p class="updated_time"> 06:48 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
