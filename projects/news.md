@@ -53,6 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
+ <p class="updated_time"> 04:04 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-hits-germany-with-first-trade-deficit-in-over-three-decades-11656938249">Ukraine War Hits Germany With First Trade Deficit in Over Three Decades</a> WSJ: The fallout from Russia’s war in Ukraine sent Germany’s import bill for energy sharply higher, but its deficit with China also widened. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
