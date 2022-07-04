@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:23 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62035815?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US releases result of test on bullet that killed reporter</a> BBC: Although forensic analysis was inconclusive, the US said Israeli forces likely fired the shot. 
+ <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
+ <p class="updated_time"> 10:04 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Shopping mall gunman charged with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
+ <p class="updated_time"> 09:58 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
+ <p class="updated_time"> 09:54 AM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Italy's prime minister says the incident is "without doubt" linked to climate change. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
- <p class="updated_time"> 09:27 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Gunman charged in court with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
  <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
  <p class="updated_time"> 09:23 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
- <p class="updated_time"> 07:29 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Emergency officials said another eight people have been injured, and 15 remain missing. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
- <p class="updated_time"> 07:06 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62035768?at_medium=RSS&at_campaign=KARANGA">Prices in Turkey rise at fastest pace for 24 years</a> BBC: The country's inflation rate hits 78%, as prices continue to spiral further upwards due to the Ukraine war. 
- <p class="updated_time"> 06:58 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62015958?at_medium=RSS&at_campaign=KARANGA">Tim Westwood: BBC reveals complaints against DJ</a> BBC: Police were involved after one of six bullying or sexual misconduct complaints, the corporation says. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
- <p class="updated_time"> 06:00 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62033006?at_medium=RSS&at_campaign=KARANGA">Leena Manimekalai: Outrage over poster of smoking Hindu goddess</a> BBC: A poster for director Leena Manimekalai's new movie shows her dressed as a goddess, smoking a cigarette. 
+ <p class="updated_time"> 06:19 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/macron-removes-minister-accused-of-rape-sexual-assault-from-french-government-11656938442">Macron Removes Minister Accused of Rape, Sexual Assault From French Government</a> WSJ: French President Emmanuel Macron pushed out a minister accused of sexual assault and rape as part of a wider government reshuffle aimed at breathing new life into his administration after losing control of the legislature last month. 
+ <p class="updated_time"> 06:12 AM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:04 AM CT, Jul. 04 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's police chief said investigators had no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
- <p class="updated_time"> 03:21 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/china-starts-trial-of-vanished-canadian-chinese-billionaire-11656937271">China Starts Trial of Vanished Canadian-Chinese Billionaire</a> WSJ: More than five years after he mysteriously disappeared, Canadian-Chinese billionaire Xiao Jianhua is standing trial in mainland China, marking progress in a protracted case that has baffled the country’s business community. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 12:35 AM CT, Jul. 04 </p> 
@@ -104,10 +106,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Jul. 04 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
- <p class="updated_time"> 05:08 PM CT, Jul. 03 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109607611/politics-chat-supreme-court-rulings-limit-executive-action-on-climate-and-aborti">Politics chat: Supreme Court rulings limit executive action on climate and abortion</a> NPR: From Supreme Court decisions to Jan. 6 revelations — it has been an extraordinary last several days in politics. 
  <p class="updated_time"> 03:12 AM CT, Jul. 03 </p> 
