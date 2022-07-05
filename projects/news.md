@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:18 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62054737?at_medium=RSS&at_campaign=KARANGA">Suspected people smugglers arrested across Europe</a> BBC: "Biggest ever" operation targets criminal gang accused of smuggling people across the English Channel. 
- <p class="updated_time"> 12:12 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago suspect planned attack for weeks - US police</a> BBC: The man suspected of killing six people at a 4 July parade near Chicago planned the attack for several weeks, US police say. 
+ <p class="updated_time"> 01:08 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
+ <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
  <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
@@ -23,22 +23,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
+ <p class="updated_time"> 08:58 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">U.K. Chancellor Rishi Sunak Resigns in Blow to Boris Johnson's Government</a> WSJ: The British Prime Minister suffered a serious political hit Tuesday as his treasury chief and health secretary resigned from his cabinet saying they no longer had confidence in his leadership 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star detained in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star held in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
+ <p class="updated_time"> 05:40 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/germany-to-bail-out-energy-suppliers-ahead-of-winter-without-russian-gas-11657032009">Germany to Bail Out Energy Suppliers as It Prepares for Bleak Winter</a> WSJ: The country paved the way for injecting billions of taxpayer money into embattled energy suppliers, as Berlin races for a stop to Russian natural-gas imports—a scenario many economists think would trigger a severe recession. 
  <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
- <p class="updated_time"> 05:33 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/twitter-fights-indias-order-compelling-the-company-to-block-some-tweets-11657031582">Twitter Fights India's Order Compelling the Company to Block Some Tweets</a> WSJ: The legal move by the social-media company escalates a battle over online speech in the country of more than 1.3 billion people. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
- <p class="updated_time"> 03:51 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/world-war-ii-bombs-hamper-germanys-retreat-from-russian-gas-11657025494">World War II Bombs Hamper Germany's Retreat From Russian Gas</a> WSJ: A long-submerged problem is complicating Germany’s attempts to wean itself off the vast pipelines pumping gas west from Russia: Over a million tons of weapons and explosives rusting at the bottom of the sea. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
@@ -142,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8">Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally</a> NPR: After Minnesota lawmakers approved a measure to legalize the sale of certain types of THC edibles, at least one Republican said he didn't realize what he was approving. 
  <p class="updated_time"> 02:54 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps">Data privacy concerns make the post-Roe era uncharted territory</a> NPR: Digital privacy advocates are encouraging abortion seekers to err on the side of caution. Text messages, browser histories and emails could be used in criminal investigations. 
- <p class="updated_time"> 01:02 PM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109577232/uvalde-schools-police-chief-resigns-city-council-pete-arredondo">The Uvalde schools police chief resigns from city council</a> NPR: Pete Arredondo stepped down from his position in the City Council just weeks after being sworn in following allegations that he erred in his response to the mass shooting at Robb Elementary School. 
 
 
 </details>
