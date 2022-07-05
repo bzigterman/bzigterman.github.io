@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
+ <p class="updated_time"> 11:45 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62038180?at_medium=RSS&at_campaign=KARANGA">Service charge: India bans service charge at hotels and restaurants</a> BBC: The new rules also say that customers who refuse to pay the charge cannot be denied entry or service. 
  <p class="updated_time"> 11:24 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
  <p class="updated_time"> 11:16 PM CT, Jul. 04 </p> 
@@ -95,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
  <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
- <p class="updated_time"> 06:56 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
