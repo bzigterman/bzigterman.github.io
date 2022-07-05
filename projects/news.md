@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
+ <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
  <p class="updated_time"> 10:02 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
- <p class="updated_time"> 09:55 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police force five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/italy-faces-worst-drought-in-decades-as-europe-feels-the-heat-11657014984">Italy Faces Worst Drought in Decades as Europe Feels the Heat</a> WSJ: The drought and unseasonably high temperatures over the past several months threatens to ruin many of the country’s crops, as rising average temperatures increase the frequency of extreme weather events across Europe. 
  <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">Brittney Griner writes a letter to President Biden asking for his help</a> NPR: The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not " forget about me and the other American Detainees." 
- <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are under water and thousands have been left without power. 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61865502?at_medium=RSS&at_campaign=KARANGA">Peter Obi: The Labour Party candidate electrifying young Nigerians</a> BBC: An army of social media users backs Peter Obi for Nigeria's presidency, but will that translate into votes? 
  <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
@@ -110,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:36 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground">Even if women manage to get abortion pills, advocates weigh how to guide them</a> NPR: Reproductive rights proponents worry about the risk of counseling those who seek medication abortions, though they've published online support techniques and guides for safe use of the drugs. 
  <p class="updated_time"> 06:04 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative">The Supreme Court is the most conservative in 90 years</a> NPR: In an astounding 62% of the decisions, conservatives prevailed, and more importantly, often prevailed in dramatic ways, according to new data. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
