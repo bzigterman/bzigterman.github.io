@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:58 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Suspect charged with murder over 4 July shooting</a> BBC: Suspect in mass shooting at Independence Day parade near Chicago charged with seven counts of murder 
+ <p class="updated_time"> 06:22 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059114?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Mississippi judge refuses to block abortion ban</a> BBC: It is part of an escalation in activity in US courts as states seek to impose abortion restrictions. 
+ <p class="updated_time"> 06:13 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 05:54 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 04:18 PM CT, Jul. 05 </p> 
