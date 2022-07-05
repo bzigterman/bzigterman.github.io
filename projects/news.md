@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:58 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Suspect charged with murder over 4 July shooting</a> BBC: Suspect in mass shooting at Independence Day parade near Chicago charged with seven counts of murder 
+ <p class="updated_time"> 05:54 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 04:18 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883855/large-hadron-collider-starts-3rd-run-to-unravel-more-mysteries-about-the-univers">Large Hadron Collider starts 3rd run to unravel more mysteries about the Universe</a> NPR: After a few years of upgrades, the Large Hadron Collider in Europe is smashing particles together once again to discover more about the Universe. 
- <p class="updated_time"> 04:17 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
- <p class="updated_time"> 04:15 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
+ <p class="updated_time"> 01:52 PM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
- <p class="updated_time"> 01:05 PM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
  <p class="updated_time"> 11:56 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/u-n-atomic-chief-warns-of-growing-nuclear-risks-11657054576">U.N. Atomic Chief Warns of Growing Nuclear Risks</a> WSJ: Rafael Grossi of the International Atomic Energy Agency pointed to Iran’s nuclear work and Russia’s occupation of Ukrainian sites. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
@@ -103,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
- <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61975857?at_medium=RSS&at_campaign=KARANGA">Inside a US abortion clinic in its final days</a> BBC: The BBC spent time with staff before they had to stop work and turn patients away. 
 
 
 </details>
