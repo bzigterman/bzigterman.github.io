@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109848464/climate-protest-uk-art-last-supper">Climate protesters in England glued themselves to a copy of 'The Last Supper'</a> NPR: Activists from the same group have glued themselves to other paintings at U.K. art galleries in recent days, calling on the government to end all new oil and gas licenses. 
  <p class="updated_time"> 06:22 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059114?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Mississippi judge refuses to block abortion ban</a> BBC: It is part of an escalation in activity in US courts as states seek to impose abortion restrictions. 
  <p class="updated_time"> 06:13 PM CT, Jul. 05 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's chief police inspector said there was no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
- <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
