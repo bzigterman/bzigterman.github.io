@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
+ <p class="updated_time"> 04:43 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
+ <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
  <p class="updated_time"> 04:01 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-62046779?at_medium=RSS&at_campaign=KARANGA">Xiao Jianhua: Canadian officials barred from tycoon's China trial</a> BBC: The trial is taking place five years after Xiao Jianhua vanished from a Hong Kong luxury hotel. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
@@ -23,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 11:45 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62038180?at_medium=RSS&at_campaign=KARANGA">Service charge: India bans service charge at hotels and restaurants</a> BBC: The new rules also say that customers who refuse to pay the charge cannot be denied entry or service. 
- <p class="updated_time"> 11:16 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
  <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are under water and thousands have been left without power. 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
- <p class="updated_time"> 10:04 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Shopping mall gunman charged with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
  <p class="updated_time"> 09:53 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109629169/sindicato-de-manteros-creates-an-anti-racist-space-for-african-migrants-in-spain">'Sindicato de manteros' creates an anti-racist space for African migrants in Spain</a> NPR: Immigration to Spain is a controversial issue. In Madrid, a store run by African migrants — and a local non-profit — are working to change the way the issue is viewed by the Spanish public. 
  <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: The pandemic placed competitive flamenco dancing on pause in Madrid. Now the passion and the intimacy of the artform are back on stage. 
- <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
