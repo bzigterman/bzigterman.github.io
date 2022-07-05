@@ -15,6 +15,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
+ <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
  <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
@@ -27,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
- <p class="updated_time"> 10:25 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
  <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police order five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
@@ -114,6 +114,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109871416/grand-jury-subpoena-giuliani-eastman-graham">Georgia grand jury subpoenas top Trump allies, including Giuliani and Eastman </a> NPR: Jurors have questions for former Trump lawyers Rudy Giuliani and John Eastman as well as others who advised the former president's attempts to reverse his defeat in 2020. 
  <p class="updated_time"> 10:36 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground">Advocates struggle with how much they can help with self-managed abortions</a> NPR: Reproductive rights proponents worry about the risk of counseling those who seek medication abortions, though they've published online support techniques and guides for safe use of the drugs. 
  <p class="updated_time"> 06:04 AM CT, Jul. 05 </p> 
