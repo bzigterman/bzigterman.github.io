@@ -9,12 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:37 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: Police arrest a suspect after a rooftop gunman kills six people at an Independence Day parade. 
+ <p class="updated_time"> 11:24 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
+ <p class="updated_time"> 11:16 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
+ <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are underwater and thousands have been left without power. 
+ <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61865502?at_medium=RSS&at_campaign=KARANGA">Peter Obi: The Labour Party candidate electrifying young Nigerians</a> BBC: An army of social media users backs Peter Obi for Nigeria's presidency, but will that translate into votes? 
+ <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62000677?at_medium=RSS&at_campaign=KARANGA">How the US Supreme Court is reshaping America</a> BBC: America's top court has issued decisions that have divided the country and challenged lawmakers. 
+ <p class="updated_time"> 07:32 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62033246?at_medium=RSS&at_campaign=KARANGA">Avabai Wadia: The lawyer who became India’s family planning pioneer</a> BBC: Avabai Wadia played a major role in India becoming the first country to officially promote family planning. 
+ <p class="updated_time"> 07:31 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62032761?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I can’t afford milk for my babies'</a> BBC: As fuel, food and medicines run out, Sri Lanka is on the brink of a humanitarian crisis, the UN warns. 
+ <p class="updated_time"> 06:06 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61717600?at_medium=RSS&at_campaign=KARANGA">Australia's devastating floods spur new warning systems</a> BBC: Better data and real-time software is allowing companies to improve the precision of flood warnings. 
+ <p class="updated_time"> 04:49 PM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/argentina-names-new-economy-minister-as-inflation-crisis-mounts-11656983921">Argentina Names New Economy Minister as Inflation Crisis Mounts</a> WSJ: The appointment of Silvina Batakis strengthens the government coalition’s far-left faction led by the powerful former president and current vice president. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: 'I hid my son in a dumpster' - witness</a> BBC: Police are still searching for the gunman, who shot dead six people at an Independence Day parade. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
+ <p class="updated_time"> 04:22 PM CT, Jul. 04 </p> 
+ <a href="https://www.wsj.com/articles/china-starts-trial-of-vanished-canadian-chinese-billionaire-11656937271">China Starts Trial of Vanished Canadian-Chinese Billionaire</a> WSJ: More than five years after he mysteriously disappeared, Canadian-Chinese billionaire Xiao Jianhua is standing trial in mainland China, marking progress in a protracted case that has baffled the country’s business community. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
@@ -23,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 12:10 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
- <p class="updated_time"> 12:00 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62029780?at_medium=RSS&at_campaign=KARANGA">Marmolada glacier collapse in Italy kills seven</a> BBC: Italy's prime minister says the incident is "without doubt" linked to climate change. 
  <p class="updated_time"> 11:13 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62035815?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US releases result of test on bullet that killed reporter</a> BBC: Although forensic analysis was inconclusive, the US said Israeli forces likely fired the shot. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
@@ -53,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
- <p class="updated_time"> 04:04 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-hits-germany-with-first-trade-deficit-in-over-three-decades-11656938249">Ukraine War Hits Germany With First Trade Deficit in Over Three Decades</a> WSJ: The fallout from Russia’s war in Ukraine sent Germany’s import bill for energy sharply higher, but its deficit with China also widened. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
@@ -67,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/biden-might-soon-ease-chinese-tariffs-in-a-decision-fraught-with-policy-tensions-11656927001">Biden Might Soon Soften Chinese Tariffs, in Decision Fraught With Policy Tensions</a> WSJ: The White House wants to take steps aimed at easing inflation while still looking tough on China. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
- <p class="updated_time"> 06:37 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61881651?at_medium=RSS&at_campaign=KARANGA">Kenya's cost-of-living crisis: 'I can't afford rice for my children'</a> BBC: Florence Kambua has no choice but to salvage waste from a dump site in Kenya's capital to survive. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">Alpine avalanche in Italy leaves 7 known dead</a> NPR: An Italian regional leader said that 14 persons remained unaccounted for: 10 Italians, three from Czechia and one from Austria. 
  <p class="updated_time"> 05:17 PM CT, Jul. 03 </p> 
@@ -87,20 +99,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109608235/heavy-rains-floods-prompt-evacuations-of-sydney-suburbs">Heavy rains, floods prompt evacuations of Sydney suburbs</a> NPR: Thousands of residents in Sydney suburbs were told to evacuate their homes on Sunday after heavy rains caused floodwaters to rise and rivers to overflow. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
- <p class="updated_time"> 07:06 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61924341?at_medium=RSS&at_campaign=KARANGA">Nigeria rejects Ukraine online degrees: 'It's not fair'</a> BBC: Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid. 
- <p class="updated_time"> 07:04 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-61959825?at_medium=RSS&at_campaign=KARANGA">US woman denied termination in Malta: 'I was terrified'</a> BBC: Andrea was medically evacuated to Spain as doctors in Malta could not terminate her pregnancy under the country's ban on abortion. 
- <p class="updated_time"> 06:58 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61985416?at_medium=RSS&at_campaign=KARANGA">Daphne du Maurier: Novelist who traced past to a French debtors' jail</a> BBC: Rebecca writer Dame Daphne du Maurier discovered her apparent aristocratic past was not as it seemed. 
- <p class="updated_time"> 06:50 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61977063?at_medium=RSS&at_campaign=KARANGA">Sarfaraz Khan: The 'wandering cricketer' on the road to stardom</a> BBC: Sarfaraz Khan's heavy scoring in domestic cricket has him knocking on the doors of Indian cricket. 
- <p class="updated_time"> 06:28 PM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62003180?at_medium=RSS&at_campaign=KARANGA">Ukraine: The teachers swapping classrooms for trenches</a> BBC: A number of teachers in Ukraine are educating their students online from the front line. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61975857?at_medium=RSS&at_campaign=KARANGA">Inside a US abortion clinic in its final days</a> BBC: The BBC spent time with staff before they had to stop work and turn patients away. 
- <p class="updated_time"> 10:46 AM CT, Jul. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62020414?at_medium=RSS&at_campaign=KARANGA">Durban July: South Africa's most fashionable horse race returns</a> BBC: Tens of thousands of South Africans head for the Durban July after a two-year break for Covid. 
 
 
 </details>
