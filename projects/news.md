@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:39 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
- <p class="updated_time"> 01:08 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
  <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Russian artillery is pounding the eastern city of Slovyansk and has set a market on fire, Ukraine says. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Russian artillery pounded the eastern city of Slovyansk and set a market on fire, Ukraine says. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 10:51 AM CT, Jul. 05 </p> 
@@ -28,7 +28,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:25 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
  <p class="updated_time"> 09:58 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">U.K. Chancellor Rishi Sunak Resigns in Blow to Boris Johnson's Government</a> WSJ: The British Prime Minister suffered a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership 
+ <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership 
  <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police order five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
@@ -142,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109602367/texas-clinics-halt-abortions-after-state-high-court-ruling">Texas clinics halt abortions after state high court ruling</a> NPR: Clinics were shutting down abortion services in the nation's second-largest state Saturday after the Texas Supreme Court blocked an order allowing the procedure to resume in some cases. 
  <p class="updated_time"> 06:22 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8">Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally</a> NPR: After Minnesota lawmakers approved a measure to legalize the sale of certain types of THC edibles, at least one Republican said he didn't realize what he was approving. 
- <p class="updated_time"> 02:54 PM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps">Data privacy concerns make the post-Roe era uncharted territory</a> NPR: Digital privacy advocates are encouraging abortion seekers to err on the side of caution. Text messages, browser histories and emails could be used in criminal investigations. 
 
 
 </details>
