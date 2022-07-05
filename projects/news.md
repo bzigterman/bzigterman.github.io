@@ -9,28 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago suspect planned attack for weeks - US police</a> BBC: The man suspected of killing six people at a 4 July parade near Chicago planned the attack for several weeks, US police say. 
+ <p class="updated_time"> 11:35 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62054737?at_medium=RSS&at_campaign=KARANGA">Arrests across Europe of suspected people smugglers</a> BBC: "Biggest ever" operation targets criminal gang accused of smuggling people across the English Channel. 
+ <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
+ <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Russian artillery is pounding the eastern city of Slovyansk and has set a market on fire, Ukraine says. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
+ <p class="updated_time"> 10:51 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
- <p class="updated_time"> 10:02 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
- <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police force five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star detained in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
- <p class="updated_time"> 05:37 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62047993?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: PM Abiy Ahmed calls attack a massacre</a> BBC: Abiy Ahmed pledges to "eliminate" the group that he blames for a second recent attack in Oromia. 
+ <p class="updated_time"> 05:33 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/twitter-fights-indias-order-compelling-the-company-to-block-some-tweets-11657031582">Twitter Fights India's Order Compelling the Company to Block Some Tweets</a> WSJ: The legal move by the social-media company escalates a battle over online speech in the country of more than 1.3 billion people. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
+ <p class="updated_time"> 03:51 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/world-war-ii-bombs-hamper-germanys-retreat-from-russian-gas-11657025494">World War II Bombs Hamper Germany's Retreat From Russian Gas</a> WSJ: A long-submerged problem is complicating Germany’s attempts to wean itself off the vast pipelines pumping gas west from Russia: Over a million tons of weapons and explosives rusting at the bottom of the sea. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
@@ -57,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61996520?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Sand battery' could solve green energy's big problem</a> BBC: A storage device made from sand may overcome the biggest issue in the transition to renewable energy. 
  <p class="updated_time"> 06:06 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61717600?at_medium=RSS&at_campaign=KARANGA">Australia's devastating floods spur new warning systems</a> BBC: Better data and real-time software is allowing companies to improve the precision of flood warnings. 
- <p class="updated_time"> 04:49 PM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/argentina-names-new-economy-minister-as-inflation-crisis-mounts-11656983921">Argentina Names New Economy Minister as Inflation Crisis Mounts</a> WSJ: The appointment of Silvina Batakis strengthens the government coalition’s far-left faction led by the powerful former president and current vice president. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Six people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
@@ -69,16 +75,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
- <p class="updated_time"> 09:53 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
  <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
- <p class="updated_time"> 07:02 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/gunfire-from-israeli-military-positions-likely-killed-al-jazeera-reporter-u-s-finds-11656946607">Gunfire From Israeli Military Positions Likely Killed Al Jazeera Reporter, U.S. Finds</a> WSJ: Gunfire from Israeli military positions was likely responsible for the death in May of Shireen Abu Akleh, the U.S. State Department said, though American officials said they found no evidence the killing was deliberate. 
  <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
@@ -111,7 +113,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:36 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground">Even if women manage to get abortion pills, advocates weigh how to guide them</a> NPR: Reproductive rights proponents worry about the risk of counseling those who seek medication abortions, though they've published online support techniques and guides for safe use of the drugs. 
+ <a href="https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground">Advocates struggle with how much they can help with self-managed abortions</a> NPR: Reproductive rights proponents worry about the risk of counseling those who seek medication abortions, though they've published online support techniques and guides for safe use of the drugs. 
  <p class="updated_time"> 06:04 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative">The Supreme Court is the most conservative in 90 years</a> NPR: In an astounding 62% of the decisions, conservatives prevailed, and more importantly, often prevailed in dramatic ways, according to new data. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
