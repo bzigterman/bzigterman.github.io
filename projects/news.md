@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:43 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more than 30% of Italy's farm produce, an agricultural union warns. 
+ <p class="updated_time"> 07:52 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
+ <p class="updated_time"> 07:45 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/62031210?at_medium=RSS&at_campaign=KARANGA">England v India: Joe Root and Jonny Bairstow complete record chase at Edgbaston</a> BBC: England nonchalantly complete a record chase of 378 to beat India in rapid time on the final morning of the fifth Test at Edgbaston. 
  <p class="updated_time"> 06:36 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62049990?at_medium=RSS&at_campaign=KARANGA">UK economic outlook has deteriorated, Bank of England warns</a> BBC: But banks are well-placed to weather even a severe economic downturn, the Bank of England says. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star detained in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 06:19 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
- <p class="updated_time"> 06:18 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/62031210?at_medium=RSS&at_campaign=KARANGA">England v India: Joe Root and Jonny Bairstow complete record chase at Edgbaston</a> BBC: England nonchalantly complete a record chase of 378 to beat India in rapid time on the final morning of the fifth Test at Edgbaston. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
@@ -29,8 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
- <p class="updated_time"> 02:01 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">Russia Accuses NATO of Stoking Tensions as Fighting Rages in Eastern Ukraine</a> WSJ: Ukrainian troops repelled a Russian attack on one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while the secretary-general of Russia’s security council accused the NATO of stoking further confrontation between Russia and the West. 
+ <p class="updated_time"> 03:30 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Ukrainian troops repelled a Russian attack on one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while the North Atlantic Treaty Organization advanced plans to add Sweden and Finland to the alliance in the face of Russian aggression in Ukraine. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 01:00 AM CT, Jul. 05 </p> 
@@ -138,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109577232/uvalde-schools-police-chief-resigns-city-council-pete-arredondo">The Uvalde schools police chief resigns from city council</a> NPR: Pete Arredondo stepped down from his position in the City Council just weeks after being sworn in following allegations that he erred in his response to the mass shooting at Robb Elementary School. 
  <p class="updated_time"> 08:15 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
- <p class="updated_time"> 07:40 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109557982/the-biden-administration-has-to-change-course-on-climate-change-after-court-ruli">The Biden administration has to change course on climate change after Court ruling</a> NPR: Aides to President Biden say the administration still has options it can pursue in its effort to control climate change despite an adversarial Supreme Court ruling this week. 
 
 
 </details>
