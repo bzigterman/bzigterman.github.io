@@ -25,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
- <p class="updated_time"> 08:58 AM CT, Jul. 05 </p> 
+ <p class="updated_time"> 09:58 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">U.K. Chancellor Rishi Sunak Resigns in Blow to Boris Johnson's Government</a> WSJ: The British Prime Minister suffered a serious political hit Tuesday as his treasury chief and health secretary resigned from his cabinet saying they no longer had confidence in his leadership 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
