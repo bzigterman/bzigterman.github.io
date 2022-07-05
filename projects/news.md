@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109883855/large-hadron-collider-starts-3rd-run-to-unravel-more-mysteries-about-the-univers">Large Hadron Collider starts 3rd run to unravel more mysteries about the Universe</a> NPR: After a few years of upgrades, the Large Hadron Collider in Europe is smashing particles together once again to discover more about the Universe. 
+ <p class="updated_time"> 04:17 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
+ <p class="updated_time"> 04:15 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
- <p class="updated_time"> 02:39 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
@@ -27,14 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
- <p class="updated_time"> 10:51 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Tributes paid to victims of 4 July attack near Chicago</a> BBC: A grandfather and a synagogue employee have been named as some of the 4 July shooting's victims. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
  <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police order five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
+ <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694">Russian Army Turns Ukraine's Largest Nuclear Plant Into a Military Base</a> WSJ: The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star held in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 05:40 AM CT, Jul. 05 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's chief police inspector said there was no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
- <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
