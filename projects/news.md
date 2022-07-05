@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
+ <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
  <p class="updated_time"> 02:41 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
  <p class="updated_time"> 02:08 AM CT, Jul. 05 </p> 
@@ -31,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62033246?at_medium=RSS&at_campaign=KARANGA">Avabai Wadia: The lawyer who became India’s family planning pioneer</a> BBC: Avabai Wadia played a major role in India becoming the first country to officially promote family planning. 
  <p class="updated_time"> 07:31 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62032761?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I can’t afford milk for my babies'</a> BBC: As fuel, food and medicines run out, Sri Lanka is on the brink of a humanitarian crisis, the UN warns. 
+ <p class="updated_time"> 07:12 PM CT, Jul. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61996520?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Sand battery' could solve green energy's big problem</a> BBC: A storage device made from sand may overcome the biggest issue in the transition to renewable energy. 
  <p class="updated_time"> 06:06 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61717600?at_medium=RSS&at_campaign=KARANGA">Australia's devastating floods spur new warning systems</a> BBC: Better data and real-time software is allowing companies to improve the precision of flood warnings. 
  <p class="updated_time"> 04:49 PM CT, Jul. 04 </p> 
@@ -49,14 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
  <p class="updated_time"> 12:10 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
- <p class="updated_time"> 11:13 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62035815?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US releases result of test on bullet that killed reporter</a> BBC: Although forensic analysis was inconclusive, the US said Israeli forces likely fired the shot. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
  <p class="updated_time"> 10:04 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62034089?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Shopping mall gunman charged with murder</a> BBC: The suspect had mental health issues and there is no indication of a terror motive, police say. 
- <p class="updated_time"> 09:58 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62032542?at_medium=RSS&at_campaign=KARANGA">Sri Lanka energy minister warns petrol stocks about to run dry</a> BBC: The crisis-hit country's next shipment of petrol is not due to arrive until later this month. 
  <p class="updated_time"> 09:53 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/fresh-scandal-threatens-to-tarnish-u-k-s-boris-johnson-and-tory-party-11656958008">Fresh Scandal Threatens to Tarnish U.K.'s Boris Johnson and Tory Party</a> WSJ: Allegations that a Tory Party lawmaker made unwanted advances in a London club has put fresh pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: The pandemic placed competitive flamenco dancing on pause in Madrid. Now the passion and the intimacy of the artform are back on stage. 
  <p class="updated_time"> 12:49 PM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting">A gunman killed 3 people and wounded others at a Copenhagen mall</a> NPR: A 22-year-old suspect was arrested after the shooting at the Field's shopping mall in Denmark's capital. Police said the victims included a man in his 40s and two young people. 
- <p class="updated_time"> 10:33 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules">A day trip to Venice will require a reservation — and a fee</a> NPR: City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
