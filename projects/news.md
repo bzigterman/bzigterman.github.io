@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
  <p class="updated_time"> 02:39 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect planned attack for weeks, police say</a> BBC: Police believe the gunman targeted victims at random, with no clear racial or religious motive. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
- <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps">Alpine avalanche in Italy leaves 7 known dead</a> NPR: An Italian regional leader said that 14 persons remained unaccounted for: 10 Italians, three from Czechia and one from Austria. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
@@ -114,6 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109883086/doj-is-stepping-up-enforcement-of-a-law-that-regulates-foreign-lobbying-in-washi">DOJ is stepping up enforcement of a law that regulates foreign lobbying in Washington</a> NPR: The Department of Justice is more actively investigating foreign lobbying in Washington and Congress is considering an update to a key law regulating that. Transparency advocates say it is about time. 
+ <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
  <p class="updated_time"> 03:34 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109871416/grand-jury-subpoena-giuliani-eastman-graham">Georgia grand jury subpoenas top Trump allies, including Giuliani and Eastman </a> NPR: Jurors have questions for former Trump lawyers Rudy Giuliani and John Eastman as well as others who advised the former president's attempts to reverse his defeat in 2020. 
  <p class="updated_time"> 10:36 AM CT, Jul. 05 </p> 
@@ -142,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109607611/politics-chat-supreme-court-rulings-limit-executive-action-on-climate-and-aborti">Politics chat: Supreme Court rulings limit executive action on climate and abortion</a> NPR: From Supreme Court decisions to Jan. 6 revelations — it has been an extraordinary last several days in politics. 
  <p class="updated_time"> 03:12 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109602367/texas-clinics-halt-abortions-after-state-high-court-ruling">Texas clinics halt abortions after state high court ruling</a> NPR: Clinics were shutting down abortion services in the nation's second-largest state Saturday after the Texas Supreme Court blocked an order allowing the procedure to resume in some cases. 
- <p class="updated_time"> 06:22 PM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8">Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally</a> NPR: After Minnesota lawmakers approved a measure to legalize the sale of certain types of THC edibles, at least one Republican said he didn't realize what he was approving. 
 
 
 </details>
