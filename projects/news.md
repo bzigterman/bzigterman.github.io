@@ -21,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
  <p class="updated_time"> 01:05 PM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
+ <p class="updated_time"> 11:56 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-n-atomic-chief-warns-of-growing-nuclear-risks-11657054576">U.N. Atomic Chief Warns of Growing Nuclear Risks</a> WSJ: Rafael Grossi of the International Atomic Energy Agency pointed to Iran’s nuclear work and Russia’s occupation of Ukrainian sites. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
  <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
