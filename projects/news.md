@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
+ <p class="updated_time"> 02:08 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62046779?at_medium=RSS&at_campaign=KARANGA">Xiao Jianhua: Canadian officials barred from tycoon's China trial</a> BBC: The trial is taking place five years after Xiao Jianhua vanished from a Hong Kong luxury hotel. 
+ <p class="updated_time"> 01:10 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62046282?at_medium=RSS&at_campaign=KARANGA">Chinese property developers accept farm produce for homes</a> BBC: China's once-booming property market has been hit hard by the country's zero-Covid policies. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 11:45 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62038180?at_medium=RSS&at_campaign=KARANGA">Service charge: India bans service charge at hotels and restaurants</a> BBC: The new rules also say that customers who refuse to pay the charge cannot be denied entry or service. 
- <p class="updated_time"> 11:24 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
  <p class="updated_time"> 11:16 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
  <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are underwater and thousands have been left without power. 
+ <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are under water and thousands have been left without power. 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61865502?at_medium=RSS&at_campaign=KARANGA">Peter Obi: The Labour Party candidate electrifying young Nigerians</a> BBC: An army of social media users backs Peter Obi for Nigeria's presidency, but will that translate into votes? 
  <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
  <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
- <p class="updated_time"> 09:23 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-62038384?at_medium=RSS&at_campaign=KARANGA">EasyJet executive quits after major flight disruption</a> BBC: The move comes after the airline has been criticised for flight cancellations and disruption. 
  <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
  <p class="updated_time"> 07:02 AM CT, Jul. 04 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
- <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62037088?at_medium=RSS&at_campaign=KARANGA">Storm Bonnie leaves deadly trail in Central America</a> BBC: At least five people have died in heavy rains caused by Bonnie, which has turned into a hurricane. 
  <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
