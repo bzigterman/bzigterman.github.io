@@ -9,30 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more than 30% of Italy's farm produce, an agricultural union warns. 
+ <p class="updated_time"> 06:36 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62049990?at_medium=RSS&at_campaign=KARANGA">UK economic outlook has deteriorated, Bank of England warns</a> BBC: But banks are well-placed to weather even a severe economic downturn, the Bank of England says. 
+ <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star detained in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 06:19 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
  <p class="updated_time"> 06:18 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/62031210?at_medium=RSS&at_campaign=KARANGA">England v India: Joe Root and Jonny Bairstow complete record chase at Edgbaston</a> BBC: England nonchalantly complete a record chase of 378 to beat India in rapid time on the final morning of the fifth Test at Edgbaston. 
- <p class="updated_time"> 06:18 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-62049990?at_medium=RSS&at_campaign=KARANGA">UK economic outlook has deteriorated, Bank of England warns</a> BBC: But banks are well-placed to weather even a severe economic downturn, the Bank of England says. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
- <p class="updated_time"> 04:01 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62046779?at_medium=RSS&at_campaign=KARANGA">Xiao Jianhua: Canadian officials barred from tycoon's China trial</a> BBC: The trial is taking place five years after Xiao Jianhua vanished from a Hong Kong luxury hotel. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
- <p class="updated_time"> 02:41 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more than 30% of Italy's farm produce, an agricultural union warns. 
  <p class="updated_time"> 02:01 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">Russia Accuses NATO of Stoking Tensions as Fighting Rages in Eastern Ukraine</a> WSJ: Ukrainian troops repelled a Russian attack on one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while the secretary-general of Russia’s security council accused the NATO of stoking further confrontation between Russia and the West. 
- <p class="updated_time"> 01:10 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-62046282?at_medium=RSS&at_campaign=KARANGA">Chinese property developers accept farm produce for homes</a> BBC: China's once-booming property market has been hit hard by the country's zero-Covid policies. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 01:00 AM CT, Jul. 05 </p> 
