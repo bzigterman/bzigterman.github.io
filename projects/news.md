@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
+ <p class="updated_time"> 06:18 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/62031210?at_medium=RSS&at_campaign=KARANGA">England v India: Joe Root and Jonny Bairstow complete record chase at Edgbaston</a> BBC: England nonchalantly complete a record chase of 378 to beat India in rapid time on the final morning of the fifth Test at Edgbaston. 
+ <p class="updated_time"> 06:18 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62049990?at_medium=RSS&at_campaign=KARANGA">UK economic outlook has deteriorated, Bank of England warns</a> BBC: But banks are well-placed to weather even a severe economic downturn, the Bank of England says. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
- <p class="updated_time"> 04:43 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
  <p class="updated_time"> 04:01 AM CT, Jul. 05 </p> 
@@ -24,7 +28,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
  <p class="updated_time"> 02:41 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more than 30% of Italy's farm produce, an agricultural union warns. 
+ <p class="updated_time"> 02:01 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">Russia Accuses NATO of Stoking Tensions as Fighting Rages in Eastern Ukraine</a> WSJ: Ukrainian troops repelled a Russian attack on one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while the secretary-general of Russia’s security council accused the NATO of stoking further confrontation between Russia and the West. 
  <p class="updated_time"> 01:10 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62046282?at_medium=RSS&at_campaign=KARANGA">Chinese property developers accept farm produce for homes</a> BBC: China's once-booming property market has been hit hard by the country's zero-Covid policies. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
@@ -33,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/janet-yellen-and-chinas-top-trade-negotiator-discuss-tariffs-on-call-11657015225">Janet Yellen and China's Top Trade Negotiator Discuss Tariffs on Call</a> WSJ: The Treasury Department described the conversation, which also covered the impact of Russia’s war against Ukraine on the global economy, as “candid and substantive.” 
  <p class="updated_time"> 12:56 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/italy-faces-worst-drought-in-decades-as-europe-feels-the-heat-11657014984">Italy Faces Worst Drought in Decades as Europe Feels the Heat</a> WSJ: The drought and unseasonably high temperatures over the past several months threatens to ruin many of the country’s crops, as rising average temperatures increase the frequency of extreme weather events across Europe. 
- <p class="updated_time"> 11:45 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62038180?at_medium=RSS&at_campaign=KARANGA">Service charge: India bans service charge at hotels and restaurants</a> BBC: The new rules also say that customers who refuse to pay the charge cannot be denied entry or service. 
  <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are under water and thousands have been left without power. 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
@@ -83,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's chief police inspector said there was no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 01:33 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
- <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182">Ukraine War Lessons: You Can't Hide and Weapons Stockpiles Are Essential</a> WSJ: The U.S. and its allies are studying Europe’s biggest conflict in decades. “You can’t cyber your way across a river.” 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
