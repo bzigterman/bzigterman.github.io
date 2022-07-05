@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62044014?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russian woman rescued from a Kyiv bomb site</a> BBC: Russian-born Ekaterina Volkova was injured in an air strike on her apartment that killed her Ukrainian husband. 
  <p class="updated_time"> 06:33 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109848464/climate-protest-uk-art-last-supper">Climate protesters in England glued themselves to a copy of 'The Last Supper'</a> NPR: Activists from the same group have glued themselves to other paintings at U.K. art galleries in recent days, calling on the government to end all new oil and gas licenses. 
  <p class="updated_time"> 06:22 PM CT, Jul. 05 </p> 
