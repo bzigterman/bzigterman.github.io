@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:43 AM CT, Jul. 05 </p> 
@@ -27,6 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62046282?at_medium=RSS&at_campaign=KARANGA">Chinese property developers accept farm produce for homes</a> BBC: China's once-booming property market has been hit hard by the country's zero-Covid policies. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
+ <p class="updated_time"> 01:00 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/janet-yellen-and-chinas-top-trade-negotiator-discuss-tariffs-on-call-11657015225">Janet Yellen and China's Top Trade Negotiator Discuss Tariffs on Call</a> WSJ: The Treasury Department described the conversation, which also covered the impact of Russia’s war against Ukraine on the global economy, as “candid and substantive.” 
+ <p class="updated_time"> 12:56 AM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/italy-faces-worst-drought-in-decades-as-europe-feels-the-heat-11657014984">Italy Faces Worst Drought in Decades as Europe Feels the Heat</a> WSJ: The drought and unseasonably high temperatures over the past several months threatens to ruin many of the country’s crops, as rising average temperatures increase the frequency of extreme weather events across Europe. 
  <p class="updated_time"> 11:45 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62038180?at_medium=RSS&at_campaign=KARANGA">Service charge: India bans service charge at hotels and restaurants</a> BBC: The new rules also say that customers who refuse to pay the charge cannot be denied entry or service. 
  <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
@@ -49,16 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: 'I hid my son in a dumpster' - witness</a> BBC: Police are still searching for the gunman, who shot dead six people at an Independence Day parade. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
- <p class="updated_time"> 04:22 PM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/china-starts-trial-of-vanished-canadian-chinese-billionaire-11656937271">China Starts Trial of Vanished Canadian-Chinese Billionaire</a> WSJ: More than five years after he mysteriously disappeared, Canadian-Chinese billionaire Xiao Jianhua is standing trial in mainland China, marking progress in a protracted case that has baffled the country’s business community. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
- <p class="updated_time"> 01:29 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62033619?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin presses on after Lysychansk capture</a> BBC: With Luhansk region entirely in Russia's hands, its president orders the offensive to be continued. 
- <p class="updated_time"> 12:10 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62040790?at_medium=RSS&at_campaign=KARANGA">Drug smuggling: Underwater drones seized by Spanish police</a> BBC: Spanish police say it is the first time they have discovered this kind of unmanned submersible. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
  <p class="updated_time"> 09:53 AM CT, Jul. 04 </p> 
@@ -85,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109662704/4-crew-members-are-rescued-after-a-floating-crane-sinks-south-of-hong-kong">4 crew members are rescued after a floating crane sinks south of Hong Kong</a> NPR: The rescued people were part of a 30-strong crew on board a China-registered floating crane that was involved in building several offshore wind farms, according to local media reports. 
  <p class="updated_time"> 12:33 AM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182">Ukraine War Lessons: You Can't Hide and Weapons Stockpiles Are Essential</a> WSJ: The U.S. and its allies are studying Europe’s biggest conflict in decades. “You can’t cyber your way across a river.” 
- <p class="updated_time"> 12:30 AM CT, Jul. 04 </p> 
- <a href="https://www.wsj.com/articles/biden-might-soon-ease-chinese-tariffs-in-a-decision-fraught-with-policy-tensions-11656927001">Biden Might Soon Soften Chinese Tariffs, in Decision Fraught With Policy Tensions</a> WSJ: The White House wants to take steps aimed at easing inflation while still looking tough on China. 
  <p class="updated_time"> 12:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109658566/a-meter-of-rain-triggers-evacuation-warnings-in-australias-largest-city">More than 3 feet of rain triggers evacuation warnings in Australia's largest city</a> NPR: Parts of Sydney's 5 million people are facing a fourth flooding emergency in less than a year and a half after torrential rain caused dams to overflow and waterways to break their banks. 
  <p class="updated_time"> 05:55 PM CT, Jul. 03 </p> 
@@ -110,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america">The fight to fund abortions in post-Roe America</a> NPR: In post-Roe America, money is even more determinative of who can get an abortion and who can't. Abortion funds are trying to close the gap, but they are now forced to navigate a murky legal landscape. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn">Election deniers are spreading misinformation nationwide. Here are 4 things to know</a> NPR: An NPR investigation found that since the Capitol riot, the election denial movement has moved from the national level to hundreds of grassroots events across the country. Here are four key takeaways. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
@@ -140,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
  <p class="updated_time"> 07:40 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109557982/the-biden-administration-has-to-change-course-on-climate-change-after-court-ruli">The Biden administration has to change course on climate change after Court ruling</a> NPR: Aides to President Biden say the administration still has options it can pursue in its effort to control climate change despite an adversarial Supreme Court ruling this week. 
- <p class="updated_time"> 07:00 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109557954/wnba-star-brittney-griner-begins-trial-in-moscow-over-drug-charges">WNBA star Brittney Griner begins trial in Moscow over drug charges</a> NPR: Russian prosecutors outlined drug charges against WNBA star Brittney Griner when her trial started in Moscow on Friday. The Biden administration says she's being wrongly detained. 
 
 
 </details>
