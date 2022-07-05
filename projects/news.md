@@ -110,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:04 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative">The Supreme Court is the most conservative in 90 years</a> NPR: In an astounding 62% of the decisions, conservatives prevailed, and more importantly, often prevailed in dramatic ways, according to new data. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america">The fight to fund abortions in post-Roe America</a> NPR: In post-Roe America, money is even more determinative of who can get an abortion and who can't. Abortion funds are trying to close the gap, but they are now forced to navigate a murky legal landscape. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
