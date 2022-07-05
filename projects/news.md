@@ -19,6 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
+ <p class="updated_time"> 01:05 PM CT, Jul. 05 </p> 
+ <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
  <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
  <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
@@ -27,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Russian artillery pounded the eastern city of Slovyansk and set a market on fire, Ukraine says. 
- <p class="updated_time"> 11:14 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/u-k-chancellor-rishi-sunak-resigns-in-blow-to-boris-johnsons-government-11657043895">Boris Johnson's Government Suffers High-Profile Resignations</a> WSJ: The British Prime Minister was dealt a serious political hit as his treasury chief and health secretary resigned from his cabinet, saying they no longer had confidence in his leadership. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
@@ -41,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694">Russian Army Turns Ukraine's Largest Nuclear Plant Into a Military Base</a> WSJ: The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star held in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
- <p class="updated_time"> 05:40 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/germany-to-bail-out-energy-suppliers-ahead-of-winter-without-russian-gas-11657032009">Germany to Bail Out Energy Suppliers as It Prepares for Bleak Winter</a> WSJ: The country paved the way for injecting billions of taxpayer money into embattled energy suppliers, as Berlin races for a stop to Russian natural-gas imports—a scenario many economists think would trigger a severe recession. 
  <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
@@ -57,10 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
- <p class="updated_time"> 01:00 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/janet-yellen-and-chinas-top-trade-negotiator-discuss-tariffs-on-call-11657015225">Janet Yellen and China's Top Trade Negotiator Discuss Tariffs on Call</a> WSJ: The Treasury Department described the conversation, which also covered the impact of Russia’s war against Ukraine on the global economy, as “candid and substantive.” 
- <p class="updated_time"> 12:56 AM CT, Jul. 05 </p> 
- <a href="https://www.wsj.com/articles/italy-faces-worst-drought-in-decades-as-europe-feels-the-heat-11657014984">Italy Faces Worst Drought in Decades as Europe Feels the Heat</a> WSJ: The drought and unseasonably high temperatures over the past several months threatens to ruin many of the country’s crops, as rising average temperatures increase the frequency of extreme weather events across Europe. 
  <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">Brittney Griner writes a letter to President Biden asking for his help</a> NPR: The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not " forget about me and the other American Detainees." 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
@@ -76,7 +70,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:06 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61717600?at_medium=RSS&at_campaign=KARANGA">Australia's devastating floods spur new warning systems</a> BBC: Better data and real-time software is allowing companies to improve the precision of flood warnings. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Six people have been killed and several others injured after a gunman opened fire in Illinois. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
@@ -116,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Jul. 05 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883086/doj-is-stepping-up-enforcement-of-a-law-that-regulates-foreign-lobbying-in-washi">DOJ is stepping up enforcement of a law that regulates foreign lobbying in Washington</a> NPR: The Department of Justice is more actively investigating foreign lobbying in Washington and Congress is considering an update to a key law regulating that. Transparency advocates say it is about time. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
@@ -131,7 +127,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn">Election deniers are spreading misinformation nationwide. Here are 4 things to know</a> NPR: An NPR investigation found that since the Capitol riot, the election denial movement has moved from the national level to hundreds of grassroots events across the country. Here are four key takeaways. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">5 things we've learned so far from the Jan. 6 committee hearings</a> NPR: The House select committee investigating the Jan. 6 insurrection plans at least two more hearings this month. Here's what we have learned in the first six. 
+ <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">The Jan. 6 panel announces its next hearing. Here's what we know from them so far</a> NPR: The next hearing will be July 12 at 10 a.m. ET,  according to a notice posted by the committee. It will focus on the rioters and mob who stormed the Capitol. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white">This conservative leader is trying to make white evangelical politics less white</a> NPR: Faith and Freedom Coalition founder Ralph Reed, an activist in GOP politics for three decades, is working to turn out and expand the evangelical vote in 2022. 
  <p class="updated_time"> 05:42 PM CT, Jul. 04 </p> 
@@ -140,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109737479/illinois-rep-brad-schneider-reacts-to-shooting-in-his-district">Illinois Rep. Brad Schneider reacts to shooting in his district</a> NPR: NPR's Ailsa Chang speaks with U.S. Rep. Brad Schneider, D-Ill., about a Fourth of July parade shooting that happened in the district that he represents in Highland Park, Ill. 
  <p class="updated_time"> 02:47 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants">6 immigrants reflect on their complicated relationships with the 4th of July</a> NPR: We asked people who immigrated to the United States what the day meant to them — and how their feelings about the holiday have changed since they first arrived. 
- <p class="updated_time"> 10:00 AM CT, Jul. 04 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
