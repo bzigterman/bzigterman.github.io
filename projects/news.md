@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:57 AM CT, Jul. 05 </p> 
+ <p class="updated_time"> 12:18 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62054737?at_medium=RSS&at_campaign=KARANGA">Suspected people smugglers arrested across Europe</a> BBC: "Biggest ever" operation targets criminal gang accused of smuggling people across the English Channel. 
+ <p class="updated_time"> 12:12 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62054883?at_medium=RSS&at_campaign=KARANGA">Chicago suspect planned attack for weeks - US police</a> BBC: The man suspected of killing six people at a 4 July parade near Chicago planned the attack for several weeks, US police say. 
- <p class="updated_time"> 11:35 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62054737?at_medium=RSS&at_campaign=KARANGA">Arrests across Europe of suspected people smugglers</a> BBC: "Biggest ever" operation targets criminal gang accused of smuggling people across the English Channel. 
  <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
