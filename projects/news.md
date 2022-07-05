@@ -60,7 +60,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:49 PM CT, Jul. 04 </p> 
  <a href="https://www.wsj.com/articles/argentina-names-new-economy-minister-as-inflation-crisis-mounts-11656983921">Argentina Names New Economy Minister as Inflation Crisis Mounts</a> WSJ: The appointment of Silvina Batakis strengthens the government coalition’s far-left faction led by the powerful former president and current vice president. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">Illinois shooting: 'I hid my son in a dumpster' - witness</a> BBC: Police are still searching for the gunman, who shot dead six people at an Independence Day parade. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Six people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
