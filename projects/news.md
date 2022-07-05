@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62046779?at_medium=RSS&at_campaign=KARANGA">Xiao Jianhua: Canadian officials barred from tycoon's China trial</a> BBC: The trial is taking place five years after Xiao Jianhua vanished from a Hong Kong luxury hotel. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
  <p class="updated_time"> 02:41 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62046165?at_medium=RSS&at_campaign=KARANGA">Drought emergency declared in northern Italy</a> BBC: The drought is threatening more then 30% of Italy's farm produce, an agricultural union warns. 
- <p class="updated_time"> 02:08 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62046779?at_medium=RSS&at_campaign=KARANGA">Xiao Jianhua: Canadian officials barred from tycoon's China trial</a> BBC: The trial is taking place five years after Xiao Jianhua vanished from a Hong Kong luxury hotel. 
  <p class="updated_time"> 01:10 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-62046282?at_medium=RSS&at_campaign=KARANGA">Chinese property developers accept farm produce for homes</a> BBC: China's once-booming property market has been hit hard by the country's zero-Covid policies. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
@@ -110,6 +110,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn">Election deniers are spreading misinformation nationwide. Here are 4 things to know</a> NPR: An NPR investigation found that since the Capitol riot, the election denial movement has moved from the national level to hundreds of grassroots events across the country. Here are four key takeaways. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">5 things we've learned so far from the Jan. 6 committee hearings</a> NPR: The House select committee investigating the Jan. 6 insurrection plans at least two more hearings this month. Here's what we have learned in the first six. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white">This conservative leader is trying to make white evangelical politics less white</a> NPR: Faith and Freedom Coalition founder Ralph Reed, an activist in GOP politics for three decades, is working to turn out and expand the evangelical vote in 2022. 
  <p class="updated_time"> 05:42 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109743558/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood">Biden urges unity in July 4th speech, while acknowledging the country's sour mood</a> NPR: In a largely optimistic speech to commemorate July 4th, President Biden spoke to Americans who feel "exhausted" by what they see as a lack of progress. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
@@ -136,12 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109557982/the-biden-administration-has-to-change-course-on-climate-change-after-court-ruli">The Biden administration has to change course on climate change after Court ruling</a> NPR: Aides to President Biden say the administration still has options it can pursue in its effort to control climate change despite an adversarial Supreme Court ruling this week. 
  <p class="updated_time"> 07:00 AM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109557954/wnba-star-brittney-griner-begins-trial-in-moscow-over-drug-charges">WNBA star Brittney Griner begins trial in Moscow over drug charges</a> NPR: Russian prosecutors outlined drug charges against WNBA star Brittney Griner when her trial started in Moscow on Friday. The Biden administration says she's being wrongly detained. 
- <p class="updated_time"> 07:00 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109557940/week-in-politics-decisions-from-the-supreme-court-supermajority-reshape-the-u-s">Week in politics: Decisions from the Supreme Court supermajority reshape the U.S.</a> NPR: In just two short week, the six conservative members of the Supreme Court have dramatically reshaped American jurisprudence. Also, the Jan. 6 committee's next steps. 
- <p class="updated_time"> 04:01 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109442956/these-candidates-lost-badly-but-now-are-claiming-fraud">These candidates lost badly, but now are claiming fraud</a> NPR: Former President Trump's influence is growing — with fringe candidates, who are refusing to admit defeat even after they've been trounced. 
- <p class="updated_time"> 04:00 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109336452/protest-music-abortion-rights-roe-wade-march-blm">5 protest songs that have taken on new meaning post-Roe</a> NPR: Since the Supreme Court overturned Roe v. Wade last week, many have turned to music to express the emotion that has overwhelmed them in this moment. We examine five songs and what they mean today. 
 
 
 </details>
