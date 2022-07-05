@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police force five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
+ <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 07:52 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
- <p class="updated_time"> 07:45 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/62031210?at_medium=RSS&at_campaign=KARANGA">England v India: Joe Root and Jonny Bairstow complete record chase at Edgbaston</a> BBC: England nonchalantly complete a record chase of 378 to beat India in rapid time on the final morning of the fifth Test at Edgbaston. 
- <p class="updated_time"> 06:36 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-62049990?at_medium=RSS&at_campaign=KARANGA">UK economic outlook has deteriorated, Bank of England warns</a> BBC: But banks are well-placed to weather even a severe economic downturn, the Bank of England says. 
  <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star detained in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 06:19 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045932?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Man arrested after 4 July mass shooting</a> BBC: A gunman opened fire on an Independence Day parade near Chicago, killing six people. 
+ <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
+ <p class="updated_time"> 05:37 AM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62047993?at_medium=RSS&at_campaign=KARANGA">Ethiopia violence in Oromia: PM Abiy Ahmed calls attack a massacre</a> BBC: Abiy Ahmed pledges to "eliminate" the group that he blames for a second recent attack in Oromia. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
@@ -37,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/janet-yellen-and-chinas-top-trade-negotiator-discuss-tariffs-on-call-11657015225">Janet Yellen and China's Top Trade Negotiator Discuss Tariffs on Call</a> WSJ: The Treasury Department described the conversation, which also covered the impact of Russia’s war against Ukraine on the global economy, as “candid and substantive.” 
  <p class="updated_time"> 12:56 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/italy-faces-worst-drought-in-decades-as-europe-feels-the-heat-11657014984">Italy Faces Worst Drought in Decades as Europe Feels the Heat</a> WSJ: The drought and unseasonably high temperatures over the past several months threatens to ruin many of the country’s crops, as rising average temperatures increase the frequency of extreme weather events across Europe. 
+ <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">Brittney Griner writes a letter to President Biden asking for his help</a> NPR: The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not " forget about me and the other American Detainees." 
  <p class="updated_time"> 09:42 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61991112?at_medium=RSS&at_campaign=KARANGA">Australia floods: 50,000 on evacuation alert after deluge hits Sydney</a> BBC: Roads have been cut, houses are under water and thousands have been left without power. 
  <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
@@ -58,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
  <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tradegy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
+ <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tragedy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
  <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
@@ -93,10 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia">The last city in Luhansk has fallen to Russia. What does that mean for Ukraine? </a> NPR: Lysychansk was the last major city held by Ukrainians in the region. After their retreat, Russia holds the entire Luhansk region and has its sights set on completing its capture of nearby Donetsk. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
- <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109629169/sindicato-de-manteros-creates-an-anti-racist-space-for-african-migrants-in-spain">'Sindicato de manteros' creates an anti-racist space for African migrants in Spain</a> NPR: Immigration to Spain is a controversial issue. In Madrid, a store run by African migrants — and a local non-profit — are working to change the way the issue is viewed by the Spanish public. 
- <p class="updated_time"> 04:00 PM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos">At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again</a> NPR: The pandemic placed competitive flamenco dancing on pause in Madrid. Now the passion and the intimacy of the artform are back on stage. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
  <p class="updated_time"> 06:02 PM CT, Jul. 02 </p> 
@@ -136,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps">Data privacy concerns make the post-Roe era uncharted territory</a> NPR: Digital privacy advocates are encouraging abortion seekers to err on the side of caution. Text messages, browser histories and emails could be used in criminal investigations. 
  <p class="updated_time"> 01:02 PM CT, Jul. 02 </p> 
  <a href="https://www.npr.org/2022/07/02/1109577232/uvalde-schools-police-chief-resigns-city-council-pete-arredondo">The Uvalde schools police chief resigns from city council</a> NPR: Pete Arredondo stepped down from his position in the City Council just weeks after being sworn in following allegations that he erred in his response to the mass shooting at Robb Elementary School. 
- <p class="updated_time"> 08:15 AM CT, Jul. 02 </p> 
- <a href="https://www.npr.org/2022/07/02/1109558003/nato-commits-to-focusing-on-russia-and-china">NATO commits to focusing on Russia and China</a> NPR: NATO wrapped up its summit in Madrid with a clear, unified message, but there were unsettling reminders of the brutal road ahead in Ukraine and political turmoil back in the U.S. 
 
 
 </details>
