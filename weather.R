@@ -768,11 +768,12 @@ year_weather_data_longer <- year_weather_data %>%
               values_from = value) 
 year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("record","normal","daily"))
 
-fig <- hchart(year_weather_data_longer, "columnrange", 
+fig <- hchart(year_weather_data_longer, "arearange", 
               hcaes(x = date,
                     low = min,
                     high = max,
                     group = type),
+              step = "right",
               tooltip = list(valueSuffix = "°")) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
