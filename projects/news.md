@@ -102,6 +102,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110147335/uvalde-shooting-victims-and-families-funds">Uvalde shooting victims are not getting funds fast enough, local officials say</a> NPR: Texas state Sen. Roland Gutierrez and Uvalde Mayor Don McLaughlin say they've received complaints about the Uvalde Together Resiliency Center. 
  <p class="updated_time"> 04:55 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110179617/daca-federal-appeals-court-hears-arguments">Appeals court hears arguments over GOP-leaning states' suit to end DACA</a> NPR: A federal judge in Texas last year declared the Deferred Action for Childhood Arrivals program dead but left it intact while his order is appealed by the Justice Department and advocacy groups. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
@@ -136,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america">The fight to fund abortions in post-Roe America</a> NPR: In post-Roe America, money is even more determinative of who can get an abortion and who can't. Abortion funds are trying to close the gap, but they are now forced to navigate a murky legal landscape. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn">Election deniers are spreading misinformation nationwide. Here are 4 things to know</a> NPR: An NPR investigation found that since the Capitol riot, the election denial movement has moved from the national level to hundreds of grassroots events across the country. Here are four key takeaways. 
- <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">The Jan. 6 panel announces its next hearing. Here's what we know from them so far</a> NPR: The next hearing will be July 12 at 10 a.m. ET,  according to a notice posted by the committee. It will focus on the rioters and mob who stormed the Capitol. 
 
 
 </details>
