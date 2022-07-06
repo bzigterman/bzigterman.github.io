@@ -94,6 +94,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:31 AM CT, Jul. 06 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:43 AM CT, Jul. 06 </p> 
  <a href="https://www.cnn.com/2022/07/05/politics/democrats-frustrated-biden-lack-of-urgency-supreme-court-setbacks/index.html">After string of Supreme Court setbacks, Democrats wonder whether Biden White House is capable of urgency moment demands</a> CNN: Debra Messing was fed up. The former "Will & Grace" star was among dozens of celebrity Democratic supporters and activists who joined a call with White House aides last Monday to discuss the Supreme Court overturning Roe v. Wade. 
  <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
@@ -102,8 +104,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi">The first Gen Z candidates are running for Congress — and running against compromise</a> NPR: As the first few Gen Z candidates navigate runs for Congress, questions remain over how coming of age during intense national political division will shape Gen Z candidates' approach to politics. 
  <p class="updated_time"> 07:04 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109924708/harris-calls-for-renewing-the-assault-weapons-ban-after-highland-park-mass-shoot">Harris calls for renewing the assault weapons ban after Highland Park mass shooting</a> NPR: "Congress needs to have the courage to act and renew the assault weapons ban," Harris told a teachers convention in Chicago before visiting the shooting scene at nearby Highland Park. 
- <p class="updated_time"> 05:11 PM CT, Jul. 05 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883086/doj-is-stepping-up-enforcement-of-a-law-that-regulates-foreign-lobbying-in-washi">DOJ is stepping up enforcement of a law that regulates foreign lobbying in Washington</a> NPR: The Department of Justice is more actively investigating foreign lobbying in Washington and Congress is considering an update to a key law regulating that. Transparency advocates say it is about time. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
