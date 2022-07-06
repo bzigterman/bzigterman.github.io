@@ -760,6 +760,32 @@ year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
   mutate(date = ymd(date))
 
+year_weather_data_longer <- year_weather_data %>%
+  pivot_longer(!date,
+               names_to = c("type","min_max"),
+               names_sep = "_") %>%
+  pivot_wider(names_from = min_max,
+              values_from = value)
+
+fig <- hchart(year_weather_data_longer, "columnrange", 
+              hcaes(x = date,
+                    low = min,
+                    high = max,
+                    group = type),
+              tooltip = list(valueSuffix = "°")) %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_legend(enabled = FALSE) %>%
+  hc_colors(c("#a6003f","#c2afb1","#e9e8df")) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/champaign_weather_year.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 p <- ggplot(year_weather_data, aes(x = date)) +
   geom_segment(aes(xend = date,
                    y = record_min,
@@ -1003,6 +1029,9 @@ Currently:
           media=\"(min-width: 750px)\">
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
+
+<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_weather_year.png\"
