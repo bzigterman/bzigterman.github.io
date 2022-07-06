@@ -43,6 +43,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62061407?at_medium=RSS&at_campaign=KARANGA">Rocco Morabito: Fugitive mobster handed over to Italy</a> BBC: Rocco Morabito, one of Italy's most wanted men, will serve 30 years after being arrested in Brazil. 
  <p class="updated_time"> 05:01 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62061739?at_medium=RSS&at_campaign=KARANGA">Friends creator says show used wrong pronouns for Chandler's trans parent</a> BBC: Marta Kauffman says it was a mistake not to use female pronouns for Chandler's transgender parent. 
+ <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1109965545/russia-moscow-street-address-us-embassy-donetsk">Russia and the U.S. engage in name-calling — over the U.S. Embassy's Moscow address</a> NPR: In response to the West's support of Ukraine, Moscow is renaming streets where the U.S. and British Embassies are located. The new names honor pro-Kremlin separatists fighting to break from Ukraine. 
  <p class="updated_time"> 04:12 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-62060155?at_medium=RSS&at_campaign=KARANGA">China suspends officials for 'ignoring' alleged baby abduction</a> BBC: The case of a baby who was allegedly abducted from his parents by local officials has sparked outrage. 
  <p class="updated_time"> 04:02 AM CT, Jul. 06 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
- <p class="updated_time"> 03:50 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tragedy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
