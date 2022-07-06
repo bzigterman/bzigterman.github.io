@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 12:10 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
- <p class="updated_time"> 09:25 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 07:57 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Two people died in Russian strikes on Ukraine's eastern city of Slovyansk, local officials say. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
