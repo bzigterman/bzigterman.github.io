@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:00 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
  <p class="updated_time"> 04:24 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110155933/what-the-u-s-can-learn-from-abortion-rights-wins-in-latin-america">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: NPR's Ailsa Chang talks with Ipas Central America and Mexico director Maria Antonieta Alcalde about what the U.S.'s abortion rights movement can learn from reproductive rights wins in Latin America. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
@@ -29,14 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
  <p class="updated_time"> 02:36 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072376?at_medium=RSS&at_campaign=KARANGA">Rapper Nipsey Hussle's killer convicted of murder</a> BBC: Hussle, born Ermias Asghedom, was shot outside his LA clothing store in 2019 after a brief argument. 
- <p class="updated_time"> 01:15 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
  <p class="updated_time"> 01:11 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109381306/eastern-ukraine-coal-mining-russia-invasion">In eastern Ukraine's coal fields, Russia's invasion sparks hopes of a comeback</a> NPR: Ukraine's coal industry was in decline. Now miners find themselves in the middle of a war with Russia — and global demand for coal is rising. 
+ <p class="updated_time"> 01:09 PM CT, Jul. 06 </p> 
+ <a href="https://www.wsj.com/articles/heads-of-fbi-mi5-issue-joint-warning-on-chinese-spying-11657123280">Heads of FBI, MI5 Issue Joint Warning on Chinese Spying</a> WSJ: “The Chinese government is set on stealing your technology,” the agency chiefs tell business leaders. 
+ <p class="updated_time"> 12:43 PM CT, Jul. 06 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-looks-to-ride-out-latest-storm-after-raft-of-resignations-11657103815">U.K.'s Boris Johnson Clings On as More Lawmakers Quit Government</a> WSJ: British Prime Minister Boris Johnson refused to quit following an extraordinary standoff with his Conservative Party that saw a wave of ministers resign and members of his own cabinet implore him to step aside. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
- <p class="updated_time"> 10:42 AM CT, Jul. 06 </p> 
- <a href="https://www.wsj.com/articles/heads-of-fbi-mi5-issue-joint-warning-on-chinese-spying-11657123280">Heads of FBI, MI5 Issue Joint Warning on Chinese Spying</a> WSJ: “The Chinese government is set on stealing your technology,” the agency chiefs tell business leaders. 
  <p class="updated_time"> 10:37 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62064059?at_medium=RSS&at_campaign=KARANGA">South Africa's Enyobeni Tavern deaths: Tears for teenagers at mass funeral</a> BBC: Thousands attend a service in South Africa for 21 children who died mysteriously at a nightclub. 
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128">Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</a> WSJ: Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east. 
  <p class="updated_time"> 08:05 AM CT, Jul. 06 </p> 
  <a href="https://www.wsj.com/articles/americans-ask-biden-to-help-free-relatives-held-in-saudi-arabia-egypt-11657127028">Americans Ask Biden to Help Free Relatives Held in Saudi Arabia, Egypt</a> WSJ: The president is meeting next week with leaders of the two countries and other Middle East partners at a summit in the kingdom. 
- <p class="updated_time"> 07:45 AM CT, Jul. 06 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-looks-to-ride-out-latest-storm-after-raft-of-resignations-11657103815">U.K.'s Boris Johnson Clings On as More Lawmakers Quit Government</a> WSJ: British Prime Minister Boris Johnson’s attempt to hold on to power looked increasingly fraught as he suffered a wave of ministerial resignations and several of his own lawmakers publicly implored him to quit. 
  <p class="updated_time"> 06:40 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061695?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: Civilians flee frontline city as Russians advance</a> BBC: Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack. 
  <p class="updated_time"> 06:21 AM CT, Jul. 06 </p> 
@@ -102,6 +102,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110179617/daca-federal-appeals-court-hears-arguments">Appeals court hears arguments over GOP-leaning states' suit to end DACA</a> NPR: A federal judge in Texas last year declared the Deferred Action for Childhood Arrivals program dead but left it intact while his order is appealed by the Justice Department and advocacy groups. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
  <p class="updated_time"> 12:58 PM CT, Jul. 06 </p> 
@@ -136,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn">Election deniers are spreading misinformation nationwide. Here are 4 things to know</a> NPR: An NPR investigation found that since the Capitol riot, the election denial movement has moved from the national level to hundreds of grassroots events across the country. Here are four key takeaways. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">The Jan. 6 panel announces its next hearing. Here's what we know from them so far</a> NPR: The next hearing will be July 12 at 10 a.m. ET,  according to a notice posted by the committee. It will focus on the rioters and mob who stormed the Capitol. 
- <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white">This conservative leader is trying to make white evangelical politics less white</a> NPR: Faith and Freedom Coalition founder Ralph Reed, an activist in GOP politics for three decades, is working to turn out and expand the evangelical vote in 2022. 
 
 
 </details>
