@@ -765,7 +765,8 @@ year_weather_data_longer <- year_weather_data %>%
                names_to = c("type","min_max"),
                names_sep = "_") %>%
   pivot_wider(names_from = min_max,
-              values_from = value)
+              values_from = value) 
+year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("record","normal","daily"))
 
 fig <- hchart(year_weather_data_longer, "columnrange", 
               hcaes(x = date,
@@ -776,7 +777,7 @@ fig <- hchart(year_weather_data_longer, "columnrange",
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_legend(enabled = FALSE) %>%
-  hc_colors(c("#a6003f","#c2afb1","#e9e8df")) %>%
+  hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
   hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
