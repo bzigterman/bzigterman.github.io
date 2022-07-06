@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:24 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110155933/what-the-u-s-can-learn-from-abortion-rights-wins-in-latin-america">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: NPR's Ailsa Chang talks with Ipas Central America and Mexico director Maria Antonieta Alcalde about what the U.S.'s abortion rights movement can learn from reproductive rights wins in Latin America. 
+ <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
+ <p class="updated_time"> 04:06 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110155940/pakistan-audiences-react-to-ms-marvel-marvels-1st-muslim-superhero-headliner">Pakistan audiences react to 'Ms. Marvel,' Marvel's 1st Muslim superhero headliner</a> NPR: Disney+ brings Ms.Marvel to theaters across Pakistan to celebrate the first Pakistani Marvel superhero Kamala Khan. 
+ <p class="updated_time"> 03:57 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62068417?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Evacuation under fire and new oil tensions</a> BBC: Civilians flee Ukraine's eastern city of Slovyansk and Kazakh oil is hit by a Russian court ruling. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 03:53 PM CT, Jul. 06 </p> 
@@ -16,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:46 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110151878/syrian-refugees-say-theyre-feeling-unwelcome-in-turkey-but-have-nowhere-else-to-">Syrian refugees say they're feeling unwelcome in Turkey, but have nowhere else to go</a> NPR: Many people in Turkey are growing increasingly weary of hosting the millions of Syrian refugees that have been there for years — but the Syrians have no place to go. 
  <p class="updated_time"> 03:37 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62069753?at_medium=RSS&at_campaign=KARANGA">Abuja prison break in Nigeria: More than 400 inmates missing</a> BBC: The Islamist group Boko Haram is suspected of carrying out the attack in Abuja on Tuesday night. 
+ <a href="https://www.bbc.co.uk/news/world-africa-62069753?at_medium=RSS&at_campaign=KARANGA">Nigeria Kuje prison break: More than 400 missing from Abuja jail</a> BBC: The Islamist group Boko Haram is suspected of carrying out the attack in Abuja on Tuesday night. 
  <p class="updated_time"> 03:36 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
  <p class="updated_time"> 02:36 PM CT, Jul. 06 </p> 
@@ -59,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109967448/south-africa-holds-funeral-for-21-teens-who-died-in-tavern">South Africa holds funeral for 21 teens who died in tavern</a> NPR: It's still not known what caused the deaths of the young people, aged between 13 and 17. Pathologists are studying the cause of death from blood samples. 
  <p class="updated_time"> 03:53 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
- <p class="updated_time"> 02:50 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
  <p class="updated_time"> 02:20 AM CT, Jul. 06 </p> 
  <a href="https://www.wsj.com/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436">Russia's Tactical Shift in Ukraine Raises Prospect of Protracted War</a> WSJ: After early missteps, Moscow has found tactics that are working and is making steady advances in eastern Ukraine, setting the stage for a war of attrition in which Kyiv needs more Western weapons and help training new soldiers to turn the tide. 
  <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
@@ -83,20 +89,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
  <p class="updated_time"> 01:39 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
- <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
- <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
- <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
- <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
 
 
 </details>
@@ -104,6 +102,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
  <p class="updated_time"> 12:58 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110024565/biden-letter-brittney-griner-wife">As calls grow to free Brittney Griner, Biden says he's spoken with her wife</a> NPR: The White House said President Biden and Vice President Harris spoke with Cherelle Griner on Wednesday, as more of the WNBA star's supporters publicly petition him to do more to secure her release. 
  <p class="updated_time"> 12:44 PM CT, Jul. 06 </p> 
@@ -138,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings">The Jan. 6 panel announces its next hearing. Here's what we know from them so far</a> NPR: The next hearing will be July 12 at 10 a.m. ET,  according to a notice posted by the committee. It will focus on the rioters and mob who stormed the Capitol. 
  <p class="updated_time"> 04:00 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white">This conservative leader is trying to make white evangelical politics less white</a> NPR: Faith and Freedom Coalition founder Ralph Reed, an activist in GOP politics for three decades, is working to turn out and expand the evangelical vote in 2022. 
- <p class="updated_time"> 05:42 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109743558/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood">Biden urges unity in July 4th speech, while acknowledging the country's sour mood</a> NPR: In a largely optimistic speech to commemorate July 4th, President Biden spoke to Americans who feel "exhausted" by what they see as a lack of progress. 
 
 
 </details>
