@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:10 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 12:10 AM CT, Jul. 06 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61925336?at_medium=RSS&at_campaign=KARANGA">What does egg freezing have to do with your employer?</a> BBC: More firms are offering so-called 'fertility benefits' but there could be hidden catches. 
  <p class="updated_time"> 06:22 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059114?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Mississippi judge refuses to block abortion ban</a> BBC: It is part of an escalation in activity in US courts as states seek to impose abortion restrictions. 
- <p class="updated_time"> 05:54 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 04:18 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883855/large-hadron-collider-starts-3rd-run-to-unravel-more-mysteries-about-the-univers">Large Hadron Collider starts 3rd run to unravel more mysteries about the Universe</a> NPR: After a few years of upgrades, the Large Hadron Collider in Europe is smashing particles together once again to discover more about the Universe. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
