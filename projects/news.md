@@ -21,7 +21,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62068589?at_medium=RSS&at_campaign=KARANGA">Antigua's ban on same-sex acts ruled unconstitutional</a> BBC: Campaigners hope the ruling will pave the way for similar moves in other Caribbean nations. 
  <p class="updated_time"> 09:54 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110017425/boris-johnson-prime-minister-conservative-party-resignations">Boris Johnson fights to stay as British Prime Minister as his party's support unravels</a> NPR: Two top ministers and a slew of more junior officials resigned this week, saying they could no longer serve under Johnson's scandal-tarred leadership. He narrowly got by a no-confidence vote in June. 
- <p class="updated_time"> 07:09 AM CT, Jul. 06 </p> 
+ <p class="updated_time"> 07:47 AM CT, Jul. 06 </p> 
+ <a href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128">Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</a> WSJ: Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east. 
+ <p class="updated_time"> 07:45 AM CT, Jul. 06 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-looks-to-ride-out-latest-storm-after-raft-of-resignations-11657103815">U.K.'s Boris Johnson Clings On as More Lawmakers Quit Government</a> WSJ: British Prime Minister Boris Johnson’s attempt to hold on to power looked increasingly fraught as he suffered a wave of ministerial resignations and several of his own lawmakers publicly implored him to quit. 
  <p class="updated_time"> 06:40 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061695?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: Civilians flee frontline city as Russians advance</a> BBC: Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack. 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109967448/south-africa-holds-funeral-for-21-teens-who-died-in-tavern">South Africa holds funeral for 21 teens who died in tavern</a> NPR: It's still not known what caused the deaths of the young people, aged between 13 and 17. Pathologists are studying the cause of death from blood samples. 
  <p class="updated_time"> 03:53 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
- <p class="updated_time"> 03:22 AM CT, Jul. 06 </p> 
- <a href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128">Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</a> WSJ: Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east. 
  <p class="updated_time"> 02:50 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
  <p class="updated_time"> 02:20 AM CT, Jul. 06 </p> 
