@@ -668,6 +668,32 @@ today_temp_history <- temp_history %>%
   filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
   mutate(date = ymd(as_date(central_time)))
 
+record_maxs <- temp_history %>%
+  mutate(date = date(central_time)) %>%
+  mutate(month = month(date)) %>%
+  mutate(day = day(date)) %>%
+  group_by(month, day) %>%
+  summarise(record_max = max(temp)) %>%
+  ungroup() %>%
+  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+  mutate(date = ymd(date)) %>%
+  select(date, record_max)
+
+record_mins <- temp_history %>%
+  mutate(date = date(central_time)) %>%
+  mutate(month = month(date)) %>%
+  mutate(day = day(date)) %>%
+  group_by(month, day) %>%
+  summarise(record_min = min(temp)) %>%
+  ungroup() %>%
+  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+  mutate(date = ymd(date)) %>%
+  select(date, record_min)
+
+records <- full_join(record_maxs,record_mins)
+
 record_range <- today_temp_history %>%
   select(temp) %>%
   mutate(period = "Record (since 1888)") 
@@ -680,7 +706,11 @@ records_range <- tibble(period = "Record (since 1888)",
 
 normals <- read_csv("data/normals.csv") %>%
   mutate(date = parse_date_time(date, "md")) %>%
-  select(date, min, max)
+  select(date, min, max) %>%
+  mutate(normal_min = min) %>%
+  mutate(normal_max = max) %>%
+  select(date,normal_min,normal_max) %>%
+  filter(date != ymd("0000-02-29"))
 year(normals$date) = year(today(tzone = "America/Chicago"))
 normals_today <- normals %>%
   filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
@@ -693,6 +723,80 @@ seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
            length.out = 100)
 normals_range <- tibble(period = "Normal (1991–2020)",
                         temp = seq)
+
+temps_past_eleven_months <- temps_past_year %>%
+  filter(central_time > now(tzone = "America/Chicago")-weeks(48)) %>%
+  mutate(period = "Past 11 Months") %>%
+  select(temp, period, central_time)
+
+
+daily_maxs <- temps_past_eleven_months %>%
+  mutate(date = date(central_time)) %>%
+  mutate(month = month(date)) %>%
+  mutate(day = day(date)) %>%
+  group_by(month, day) %>%
+  summarise(daily_max = max(temp)) %>%
+  ungroup() %>%
+  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+  mutate(date = ymd(date)) %>%
+  select(date, daily_max)
+
+daily_mins <- temps_past_eleven_months %>%
+  mutate(date = date(central_time)) %>%
+  mutate(month = month(date)) %>%
+  mutate(day = day(date)) %>%
+  group_by(month, day) %>%
+  summarise(daily_min = min(temp)) %>%
+  ungroup() %>%
+  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+  mutate(date = ymd(date)) %>%
+  select(date, daily_min)
+
+dailies <- full_join(daily_maxs,daily_mins)
+
+year_weather_data <- full_join(records, normals) %>%
+  full_join(dailies) %>%
+  mutate(date = ymd(date))
+
+p <- ggplot(year_weather_data, aes(x = date)) +
+  geom_segment(aes(xend = date,
+                   y = record_min,
+                   yend = record_max),
+               color = "#e9e8df",
+               size = .75) +
+  geom_segment(aes(xend = date,
+                   y = normal_min,
+                   yend = normal_max),
+               color = "#c2afb1",
+               size = .75) +
+  geom_segment(aes(xend = date,
+                   y = daily_min,
+                   yend = daily_max),
+               color = "#a6003f",
+               size = .75) +
+  scale_x_date(date_labels = "%b",
+               expand = c(0.01,0.01),
+               name = NULL,
+               date_breaks = "1 month") +
+  scale_y_continuous(name = NULL) +
+  theme_minimal() +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_line(color = "gray80",
+                                      linetype = "dashed"),
+    panel.grid.major.y = element_line(color = "gray93")
+  )
+p
+ggsave("plots/champaign_weather_year.png", bg = "white",
+       width = 8, height = 8*(628/1200), dpi = 320)
+
+p +
+  theme(axis.text = element_text(size = 12))
+
+ggsave("plots/champaign_weather_year_mobile.png", bg = "white",
+       width = 8, height = 8*(628/1200), dpi = 320)
 
 temps <- full_join(records_range,normals_range) %>%
   full_join(temps_today) %>%
@@ -901,6 +1005,12 @@ Currently:
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
           media=\"(min-width: 750px)\">
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
+</picture>
+
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/champaign_weather_year.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/champaign_weather_year_mobile.png\" alt=\"\" />
 </picture>
 
 ## Almanac for ",today,"
