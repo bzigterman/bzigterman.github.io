@@ -792,11 +792,8 @@ p
 ggsave("plots/champaign_weather_year.png", bg = "white",
        width = 8, height = 8*(628/1200), dpi = 320)
 
-p +
-  theme(axis.text = element_text(size = 12))
-
 ggsave("plots/champaign_weather_year_mobile.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
+       width = 4, height = 8*(628/1200), dpi = 320)
 
 temps <- full_join(records_range,normals_range) %>%
   full_join(temps_today) %>%
