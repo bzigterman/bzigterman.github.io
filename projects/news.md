@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: Why West African leaders agreed to drop the economic sanctions imposed on Mali after a coup. 
  <p class="updated_time"> 01:10 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694">Russian Army Turns Ukraine's Largest Nuclear Plant Into a Military Base</a> WSJ: The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison. 
  <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
- <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62048881?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: US report on journalist's death unacceptable, family says</a> BBC: The US has concluded the journalist was likely to have been hit by unintentional Israeli gunfire. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">President Biden receives Brittney Griner's letter from prison in Russia </a> NPR: President Biden has read the letter WNBA player Brittney Griner wrote to him from prison in Russia. The basketball star has been detained there since February. 
- <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62000677?at_medium=RSS&at_campaign=KARANGA">How the US Supreme Court is reshaping America</a> BBC: America's top court has issued decisions that have divided the country and challenged lawmakers. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
