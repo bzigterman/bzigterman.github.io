@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:11 PM CT, Jul. 06 </p> 
+ <p class="updated_time"> 03:46 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110151878/syrian-refugees-say-theyre-feeling-unwelcome-in-turkey-but-have-nowhere-else-to-">Syrian refugees say they're feeling unwelcome in Turkey, but have nowhere else to go</a> NPR: Many people in Turkey are growing increasingly weary of hosting the millions of Syrian refugees that have been there for years — but the Syrians have no place to go. 
+ <p class="updated_time"> 03:37 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62069753?at_medium=RSS&at_campaign=KARANGA">Abuja prison break in Nigeria: More than 400 inmates missing</a> BBC: The Islamist group Boko Haram is suspected of carrying out the attack in Abuja on Tuesday night. 
+ <p class="updated_time"> 03:36 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
+ <p class="updated_time"> 02:36 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072376?at_medium=RSS&at_campaign=KARANGA">Rapper Nipsey Hussle's killer convicted of murder</a> BBC: Hussle, born Ermias Asghedom, was shot outside his LA clothing store in 2019 after a brief argument. 
  <p class="updated_time"> 01:15 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
  <p class="updated_time"> 01:11 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109381306/eastern-ukraine-coal-mining-russia-invasion">In eastern Ukraine's coal fields, Russia's invasion sparks hopes of a comeback</a> NPR: Ukraine's coal industry was in decline. Now miners find themselves in the middle of a war with Russia — and global demand for coal is rising. 
- <p class="updated_time"> 11:19 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62069753?at_medium=RSS&at_campaign=KARANGA">Abuja prison break in Nigeria: More than 400 inmates missing</a> BBC: The Islamist group Boko Haram is suspected of carrying out the attack in Abuja on Tuesday night. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
+ <p class="updated_time"> 10:42 AM CT, Jul. 06 </p> 
+ <a href="https://www.wsj.com/articles/heads-of-fbi-mi5-issue-joint-warning-on-chinese-spying-11657123280">Heads of FBI, MI5 Issue Joint Warning on Chinese Spying</a> WSJ: “The Chinese government is set on stealing your technology,” the agency chiefs tell business leaders. 
  <p class="updated_time"> 10:37 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62064059?at_medium=RSS&at_campaign=KARANGA">South Africa's Enyobeni Tavern deaths: Tears for teenagers at mass funeral</a> BBC: Thousands attend a service in South Africa for 21 children who died mysteriously at a nightclub. 
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
@@ -33,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/americans-ask-biden-to-help-free-relatives-held-in-saudi-arabia-egypt-11657127028">Americans Ask Biden to Help Free Relatives Held in Saudi Arabia, Egypt</a> WSJ: The president is meeting next week with leaders of the two countries and other Middle East partners at a summit in the kingdom. 
  <p class="updated_time"> 07:45 AM CT, Jul. 06 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-looks-to-ride-out-latest-storm-after-raft-of-resignations-11657103815">U.K.'s Boris Johnson Clings On as More Lawmakers Quit Government</a> WSJ: British Prime Minister Boris Johnson’s attempt to hold on to power looked increasingly fraught as he suffered a wave of ministerial resignations and several of his own lawmakers publicly implored him to quit. 
- <p class="updated_time"> 07:01 AM CT, Jul. 06 </p> 
- <a href="https://www.wsj.com/articles/heads-of-fbi-mi5-issue-joint-warning-on-chinese-spying-11657123280">Heads of FBI, MI5 Issue Joint Warning on Chinese Spying</a> WSJ: “The Chinese government is set on stealing your technology,” the agency chiefs tell business leaders. 
  <p class="updated_time"> 06:40 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061695?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: Civilians flee frontline city as Russians advance</a> BBC: Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack. 
  <p class="updated_time"> 06:21 AM CT, Jul. 06 </p> 
@@ -85,12 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
- <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">President Biden receives Brittney Griner's letter from prison in Russia </a> NPR: President Biden has read the letter WNBA player Brittney Griner wrote to him from prison in Russia. The basketball star has been detained there since February. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
- <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109737273/russia-has-control-of-a-key-eastern-ukrainian-city">Russia has control of a key eastern Ukrainian city</a> NPR: Fighting and shelling remain intense in Ukraine as Russia has control of a key eastern Ukrainian city. In some areas, civilians have faced months of food and power shortages. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
