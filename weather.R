@@ -1031,14 +1031,8 @@ Currently:
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"400\"> 
 </iframe>
-
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/champaign_weather_year.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/champaign_weather_year_mobile.png\" alt=\"\" />
-</picture>
 
 ## Almanac for ",today,"
 
