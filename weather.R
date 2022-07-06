@@ -770,8 +770,8 @@ year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c
 
 fig <- hchart(year_weather_data_longer, "arearange", 
               hcaes(x = date,
-                    low = min,
-                    high = max,
+                    low = round(min),
+                    high = round(max),
                     group = type),
               step = "right",
               lineWidth = 0,
