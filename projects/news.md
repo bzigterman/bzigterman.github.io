@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:05 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62061407?at_medium=RSS&at_campaign=KARANGA">Rocco Morabito: Fugitive mobster handed over to Italy</a> BBC: Rocco Morabito, one of Italy's most wanted men, will serve 30 years after being arrested in Brazil. 
+ <p class="updated_time"> 05:01 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62061739?at_medium=RSS&at_campaign=KARANGA">Friends creator says show used wrong pronouns for Chandler's trans parent</a> BBC: Marta Kauffman says it was a mistake not to use female pronouns for Chandler's transgender parent. 
  <p class="updated_time"> 04:12 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-62060155?at_medium=RSS&at_campaign=KARANGA">China suspends officials for 'ignoring' alleged baby abduction</a> BBC: The case of a baby who was allegedly abducted from his parents by local officials has sparked outrage. 
  <p class="updated_time"> 04:02 AM CT, Jul. 06 </p> 
@@ -51,12 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-n-atomic-chief-warns-of-growing-nuclear-risks-11657054576">U.N. Atomic Chief Warns of Growing Nuclear Risks</a> WSJ: Rafael Grossi of the International Atomic Energy Agency pointed to Iran’s nuclear work and Russia’s occupation of Ukrainian sites. 
  <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
- <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
- <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
@@ -87,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
- <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62027039?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Tens of thousands told to evacuate</a> BBC: Tens of thousands of residents have been told to evacuate their homes in Australia's biggest city. 
 
 
 </details>
