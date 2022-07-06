@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:12 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62060155?at_medium=RSS&at_campaign=KARANGA">China suspends officials for 'ignoring' alleged baby abduction</a> BBC: The case of a baby who was allegedly abducted from his parents by local officials has sparked outrage. 
  <p class="updated_time"> 04:02 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109967448/south-africa-holds-funeral-for-21-teens-who-died-in-tavern">South Africa holds funeral for 21 teens who died in tavern</a> NPR: It's still not known what caused the deaths of the young people, aged between 13 and 17. Pathologists are studying the cause of death from blood samples. 
  <p class="updated_time"> 03:53 AM CT, Jul. 06 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62054522?at_medium=RSS&at_campaign=KARANGA">Sydney floods aftermath: 'Everybody is traumatised'</a> BBC: More than eight months of rain have fallen in the Sydney area over four days, turning roads into rivers. 
- <p class="updated_time"> 08:29 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62049478?at_medium=RSS&at_campaign=KARANGA">Nicaragua police order five mayors to stand down</a> BBC: The mayors were replaced by allies of the governing party in the latest crackdown on the opposition. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
@@ -96,6 +96,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1109965552/a-georgia-grand-jury-subpoenas-top-trump-allies-including-giuliani-and-graham">A Georgia grand jury subpoenas top Trump allies, including Giuliani and Graham</a> NPR: The grand jury investigating allegations of 2020 election interference has issued subpoenas for testimony from several Trump insiders, including Rudy Giuliani and Sen. Lindsey Graham. 
  <p class="updated_time"> 04:00 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi">The first Gen Z candidates are running for Congress — and running against compromise</a> NPR: As the first few Gen Z candidates navigate runs for Congress, questions remain over how coming of age during intense national political division will shape Gen Z candidates' approach to politics. 
  <p class="updated_time"> 07:04 PM CT, Jul. 05 </p> 
@@ -126,8 +128,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109737479/illinois-rep-brad-schneider-reacts-to-shooting-in-his-district">Illinois Rep. Brad Schneider reacts to shooting in his district</a> NPR: NPR's Ailsa Chang speaks with U.S. Rep. Brad Schneider, D-Ill., about a Fourth of July parade shooting that happened in the district that he represents in Highland Park, Ill. 
  <p class="updated_time"> 02:47 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants">6 immigrants reflect on their complicated relationships with the 4th of July</a> NPR: We asked people who immigrated to the United States what the day meant to them — and how their feelings about the holiday have changed since they first arrived. 
- <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
 
 
 </details>
