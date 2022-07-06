@@ -774,6 +774,8 @@ fig <- hchart(year_weather_data_longer, "arearange",
                     high = max,
                     group = type),
               step = "right",
+              lineWidth = 0,
+              fillOpacity = 1,
               tooltip = list(valueSuffix = "°")) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -1032,7 +1034,7 @@ Currently:
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"400\"> 
+<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 ## Almanac for ",today,"
