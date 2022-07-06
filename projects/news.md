@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets on to a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 06:40 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061695?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: Civilians flee frontline city as Russians advance</a> BBC: Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack. 
  <p class="updated_time"> 06:21 AM CT, Jul. 06 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
  <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: West African leaders agree to drop the economic sanctions imposed on Mali after a coup. 
- <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets on to a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 11:44 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62056709?at_medium=RSS&at_campaign=KARANGA">Mumbai: Heavy rains bring Indian city to a standstill</a> BBC: Millions are battling flooding and overflowing sewers as monsoon rains lash India's financial capital. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
@@ -94,6 +94,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Jul. 06 </p> 
+ <a href="https://www.cnn.com/2022/07/05/politics/democrats-frustrated-biden-lack-of-urgency-supreme-court-setbacks/index.html">After string of Supreme Court setbacks, Democrats wonder whether Biden White House is capable of urgency moment demands</a> CNN: Debra Messing was fed up. The former "Will & Grace" star was among dozens of celebrity Democratic supporters and activists who joined a call with White House aides last Monday to discuss the Supreme Court overturning Roe v. Wade. 
  <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109965552/a-georgia-grand-jury-subpoenas-top-trump-allies-including-giuliani-and-graham">A Georgia grand jury subpoenas top Trump allies, including Giuliani and Graham</a> NPR: The grand jury investigating allegations of 2020 election interference has issued subpoenas for testimony from several Trump insiders, including Rudy Giuliani and Sen. Lindsey Graham. 
  <p class="updated_time"> 04:00 AM CT, Jul. 06 </p> 
