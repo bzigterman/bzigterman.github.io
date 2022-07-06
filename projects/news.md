@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:57 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Two people died in Russian strikes on Ukraine's eastern city of Slovyansk, local officials say. 
+ <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61973643?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The unsettling legacy of the rapper's protest music</a> BBC: It has been more than a month since the rapper was shot dead. But he is still making headlines. 
+ <p class="updated_time"> 07:27 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
+ <p class="updated_time"> 07:23 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61979384?at_medium=RSS&at_campaign=KARANGA">Trans rescue: A future refuge for those fleeing violence</a> BBC: Two trans women in Amsterdam are planning a refuge in Kenya for trans people at risk all over the world. 
+ <p class="updated_time"> 07:16 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62001426?at_medium=RSS&at_campaign=KARANGA">Arabs believe economy is weak under democracy</a> BBC: People are losing faith in democracy to deliver economic stability across Middle East and North Africa, according to a major new survey. 
  <p class="updated_time"> 06:36 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62044014?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russian woman rescued from a Kyiv bomb site</a> BBC: Russian-born Ekaterina Volkova was injured in an air strike on her apartment that killed her Ukrainian husband. 
  <p class="updated_time"> 06:33 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109848464/climate-protest-uk-art-last-supper">Climate protesters in England glued themselves to a copy of 'The Last Supper'</a> NPR: Activists from the same group have glued themselves to other paintings at U.K. art galleries in recent days, calling on the government to end all new oil and gas licenses. 
+ <p class="updated_time"> 06:29 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61925336?at_medium=RSS&at_campaign=KARANGA">What does egg freezing have to do with your employer?</a> BBC: More firms are offering so-called 'fertility benefits' but there could be hidden catches. 
  <p class="updated_time"> 06:22 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059114?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Mississippi judge refuses to block abortion ban</a> BBC: It is part of an escalation in activity in US courts as states seek to impose abortion restrictions. 
- <p class="updated_time"> 06:13 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 05:54 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 04:18 PM CT, Jul. 05 </p> 
@@ -29,14 +39,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal">2 key U.K. senior ministers quit Boris Johnson's government </a> NPR: The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official. 
  <p class="updated_time"> 11:56 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/u-n-atomic-chief-warns-of-growing-nuclear-risks-11657054576">U.N. Atomic Chief Warns of Growing Nuclear Risks</a> WSJ: Rafael Grossi of the International Atomic Energy Agency pointed to Iran’s nuclear work and Russia’s occupation of Ukrainian sites. 
- <p class="updated_time"> 11:51 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-62038929?at_medium=RSS&at_campaign=KARANGA">British Airways cancels 1,500 more flights</a> BBC: The airline cancels more flights in July, affecting tens of thousands of passengers. 
  <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
  <p class="updated_time"> 11:22 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62048753?at_medium=RSS&at_campaign=KARANGA">Belgium reveals aid worker held for months in Iran</a> BBC: Olivier Vandecasteele's plight emerges as Belgian MPs are asked to back a prisoner swap treaty. 
- <p class="updated_time"> 11:15 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Russian artillery pounded the eastern city of Slovyansk and set a market on fire, Ukraine says. 
  <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 10:43 AM CT, Jul. 05 </p> 
@@ -59,24 +65,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
- <p class="updated_time"> 03:40 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61991114?at_medium=RSS&at_campaign=KARANGA">Twelve religious group members arrested over Australian girl's death</a> BBC: The 12 members of a religious group denied the girl medical treatment for six days, police say. 
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">Brittney Griner writes a letter to President Biden asking for his help</a> NPR: The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not " forget about me and the other American Detainees." 
- <p class="updated_time"> 08:25 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61865502?at_medium=RSS&at_campaign=KARANGA">Peter Obi: The Labour Party candidate electrifying young Nigerians</a> BBC: An army of social media users backs Peter Obi for Nigeria's presidency, but will that translate into votes? 
  <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62000677?at_medium=RSS&at_campaign=KARANGA">How the US Supreme Court is reshaping America</a> BBC: America's top court has issued decisions that have divided the country and challenged lawmakers. 
- <p class="updated_time"> 07:32 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62033246?at_medium=RSS&at_campaign=KARANGA">Avabai Wadia: The lawyer who became India’s family planning pioneer</a> BBC: Avabai Wadia played a major role in India becoming the first country to officially promote family planning. 
- <p class="updated_time"> 07:31 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62032761?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I can’t afford milk for my babies'</a> BBC: As fuel, food and medicines run out, Sri Lanka is on the brink of a humanitarian crisis, the UN warns. 
- <p class="updated_time"> 07:12 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61996520?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Sand battery' could solve green energy's big problem</a> BBC: A storage device made from sand may overcome the biggest issue in the transition to renewable energy. 
- <p class="updated_time"> 06:06 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-61717600?at_medium=RSS&at_campaign=KARANGA">Australia's devastating floods spur new warning systems</a> BBC: Better data and real-time software is allowing companies to improve the precision of flood warnings. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 04:26 PM CT, Jul. 04 </p> 
@@ -85,20 +79,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109737246/a-mexican-town-learned-that-3-local-cousins-died-in-the-san-antonio-smuggling-tr">A Mexican town learned that 3 local cousins died in the San Antonio smuggling tragedy</a> NPR: Relatives of three young cousins from a small town in Mexico finally got that official word that they were among the victims of the San Antonio human smuggling tragedy. 
  <p class="updated_time"> 03:32 PM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109737493/u-s-says-it-was-likely-an-israeli-soldier-who-killed-palestinian-american-journa">U.S. says it was likely an Israeli soldier who killed Palestinian-American journalist</a> NPR: The U.S. says it was likely an Israeli soldier who killed Shireen Abu Akleh, a prominent Palestinian-American journalist, shot in May. She was covering an Israeli military raid.. 
- <p class="updated_time"> 10:15 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-62037334?at_medium=RSS&at_campaign=KARANGA">F1 British Grand Prix: What is halo and how does it save lives?</a> BBC: Driver Zhou Guanyu says the halo device saved his life after a horror crash at Silverstone on Sunday. 
  <p class="updated_time"> 09:37 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation">Shot that killed journalist Shireen Abu Akleh was likely fired by Israelis, U.S. says</a> NPR: Officials have concluded that gunfire from Israeli positions likely killed the veteran Al-Jazeera journalist in May, but that there was "no reason to believe" her shooting was intentional. 
- <p class="updated_time"> 09:26 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62040787?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What is Putin's plan now Luhansk has fallen?</a> BBC: The fall of the city of Lysychansk means the whole Luhansk region is now under Russian control. 
- <p class="updated_time"> 07:16 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62035582?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Harry Styles fans praise Danish police for attack response</a> BBC: People near the scene of Sunday's shooting say police did a good job in getting them to safety. 
- <p class="updated_time"> 06:33 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Ukrainian troops are under heavy bombardment as Russian forces inch towards key targets. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
- <p class="updated_time"> 04:22 AM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-62014792?at_medium=RSS&at_campaign=KARANGA">China: Buyout of UK's largest microchip plant raises concerns</a> BBC: Welsh microchip producer has become a front-line in the tech war between the West and China. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
  <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
@@ -114,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 PM CT, Jul. 05 </p> 
+ <a href="https://www.npr.org/2022/07/05/1109924708/harris-calls-for-renewing-the-assault-weapons-ban-after-highland-park-mass-shoot">Harris calls for renewing the assault weapons ban after Highland Park mass shooting</a> NPR: "Congress needs to have the courage to act and renew the assault weapons ban," Harris told a teachers convention in Chicago before visiting the shooting scene at nearby Highland Park. 
  <p class="updated_time"> 05:11 PM CT, Jul. 05 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
@@ -144,8 +130,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
  <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
  <a href="https://www.npr.org/2022/07/03/1109607611/politics-chat-supreme-court-rulings-limit-executive-action-on-climate-and-aborti">Politics chat: Supreme Court rulings limit executive action on climate and abortion</a> NPR: From Supreme Court decisions to Jan. 6 revelations — it has been an extraordinary last several days in politics. 
- <p class="updated_time"> 03:12 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109602367/texas-clinics-halt-abortions-after-state-high-court-ruling">Texas clinics halt abortions after state high court ruling</a> NPR: Clinics were shutting down abortion services in the nation's second-largest state Saturday after the Texas Supreme Court blocked an order allowing the procedure to resume in some cases. 
 
 
 </details>
