@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:40 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62061695?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia war: Civilians flee frontline city as Russians advance</a> BBC: Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack. 
  <p class="updated_time"> 06:21 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109965531/u-s-is-accused-of-a-double-standard-when-it-comes-to-afghan-and-ukrainian-refuge">U.S. is accused of a double standard when it comes to Afghan and Ukrainian refugees</a> NPR: Thousands of Afghans that were promised U.S. visas remain on the run from the Taliban. The Biden administration, however, quickly cleared red tape for Ukrainians after Russia invaded Ukraine. 
+ <p class="updated_time"> 06:20 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62064059?at_medium=RSS&at_campaign=KARANGA">South Africa tavern deaths: Tears for teenagers at mass funeral in East London</a> BBC: Thousands attend a service in South Africa for 21 children who died mysteriously at a nightclub. 
  <p class="updated_time"> 05:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061407?at_medium=RSS&at_campaign=KARANGA">Rocco Morabito: Fugitive mobster handed over to Italy</a> BBC: Rocco Morabito, one of Italy's most wanted men, will serve 30 years after being arrested in Brazil. 
  <p class="updated_time"> 05:01 AM CT, Jul. 06 </p> 
@@ -29,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets on to a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 11:44 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62056709?at_medium=RSS&at_campaign=KARANGA">Mumbai: Heavy rains bring Indian city to a standstill</a> BBC: Millions are battling flooding and overflowing sewers as monsoon rains lash India's financial capital. 
- <p class="updated_time"> 07:57 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Two people died in Russian strikes on Ukraine's eastern city of Slovyansk, local officials say. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61973643?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The unsettling legacy of the rapper's protest music</a> BBC: It has been more than a month since the rapper was shot dead. But he is still making headlines. 
  <p class="updated_time"> 07:23 PM CT, Jul. 05 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-n-atomic-chief-warns-of-growing-nuclear-risks-11657054576">U.N. Atomic Chief Warns of Growing Nuclear Risks</a> WSJ: Rafael Grossi of the International Atomic Energy Agency pointed to Iran’s nuclear work and Russia’s occupation of Ukrainian sites. 
  <p class="updated_time"> 11:24 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324">NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</a> WSJ: Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance. 
- <p class="updated_time"> 11:07 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/62052323?at_medium=RSS&at_campaign=KARANGA">Nick Kyrgios to appear in court over common assault allegation</a> BBC: Wimbledon quarter-finalist Nick Kyrgios is set to appear in court in Australia next month in relation to an allegation of common assault. 
  <p class="updated_time"> 08:16 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
