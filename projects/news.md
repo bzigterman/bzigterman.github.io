@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
+ <p class="updated_time"> 09:25 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 07:57 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Two people died in Russian strikes on Ukraine's eastern city of Slovyansk, local officials say. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61973643?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The unsettling legacy of the rapper's protest music</a> BBC: It has been more than a month since the rapper was shot dead. But he is still making headlines. 
- <p class="updated_time"> 07:27 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
  <p class="updated_time"> 07:23 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61979384?at_medium=RSS&at_campaign=KARANGA">Trans rescue: A future refuge for those fleeing violence</a> BBC: Two trans women in Amsterdam are planning a refuge in Kenya for trans people at risk all over the world. 
  <p class="updated_time"> 07:16 PM CT, Jul. 05 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694">Russian Army Turns Ukraine's Largest Nuclear Plant Into a Military Base</a> WSJ: The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison. 
- <p class="updated_time"> 06:28 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62049164?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star held in Russia asks Biden for help</a> BBC: Brittney Griner says she's terrified she might not return to her own country. 
  <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
  <p class="updated_time"> 05:30 AM CT, Jul. 05 </p> 
@@ -68,7 +68,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 11:58 PM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">Brittney Griner writes a letter to President Biden asking for his help</a> NPR: The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not " forget about me and the other American Detainees." 
+ <a href="https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help">President Biden receives Brittney Griner's letter from prison in Russia </a> NPR: President Biden has read the letter WNBA player Brittney Griner wrote to him from prison in Russia. The basketball star has been detained there since February. 
  <p class="updated_time"> 08:18 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62000677?at_medium=RSS&at_campaign=KARANGA">How the US Supreme Court is reshaping America</a> BBC: America's top court has issued decisions that have divided the country and challenged lawmakers. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
