@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 05:00 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
  <p class="updated_time"> 04:24 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110155933/what-the-u-s-can-learn-from-abortion-rights-wins-in-latin-america">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: NPR's Ailsa Chang talks with Ipas Central America and Mexico director Maria Antonieta Alcalde about what the U.S.'s abortion rights movement can learn from reproductive rights wins in Latin America. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
