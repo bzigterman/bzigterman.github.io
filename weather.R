@@ -806,11 +806,11 @@ temps <- full_join(records_range,normals_range) %>%
 almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
                                   "Today","Now"),
                        min = c(min(today_temp_history$temp),
-                               normals_today$min,
+                               normals_today$normal_min,
                                min(temps_today$temp),
                                as.numeric("NA")),
                        max = c(max(today_temp_history$temp),
-                               normals_today$max,
+                               normals_today$normal_max,
                                max(temps_today$temp),
                                max(temps_past_hour$temp)))
 
