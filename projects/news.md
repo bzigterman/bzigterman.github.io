@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:02 AM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1109967448/south-africa-holds-funeral-for-21-teens-who-died-in-tavern">South Africa holds funeral for 21 teens who died in tavern</a> NPR: It's still not known what caused the deaths of the young people, aged between 13 and 17. Pathologists are studying the cause of death from blood samples. 
+ <p class="updated_time"> 03:53 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
+ <p class="updated_time"> 02:50 AM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
  <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: West African leaders agree to drop the economic sanctions imposed on Mali after a coup. 
- <p class="updated_time"> 01:10 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets onto a crowd, killing seven and wounding dozens. 
- <p class="updated_time"> 12:10 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62059167?at_medium=RSS&at_campaign=KARANGA">Carlos Santana: Legendary US guitarist collapses on stage</a> BBC: The 74-year-old, who was taken to hospital, later said he passed out because of dehydration. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62059341?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect charged with murder over 4 July attack</a> BBC: The 21-year-old is accused of firing 70 bullets on to a crowd, killing seven and wounding dozens. 
+ <p class="updated_time"> 11:44 PM CT, Jul. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62056709?at_medium=RSS&at_campaign=KARANGA">Mumbai: Heavy rains bring Indian city to a standstill</a> BBC: Millions are battling flooding and overflowing sewers as monsoon rains lash India's financial capital. 
  <p class="updated_time"> 07:57 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62051585?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Market hit as Russians shell frontline city Slovyansk</a> BBC: Two people died in Russian strikes on Ukraine's eastern city of Slovyansk, local officials say. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to">Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to</a> NPR: Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people. 
  <p class="updated_time"> 06:41 AM CT, Jul. 05 </p> 
  <a href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694">Russian Army Turns Ukraine's Largest Nuclear Plant Into a Military Base</a> WSJ: The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison. 
- <p class="updated_time"> 05:38 AM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/africa/62049926?at_medium=RSS&at_campaign=KARANGA">Sierra Leone FA to investigate 95-0 and 91-1 wins in second-tier matches</a> BBC: The Sierra Leone Football Association (SLFA) is investigating the outcome of two league matches that produced a staggering total of 187 goals. 
  <p class="updated_time"> 04:47 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109781522/flying-around-the-world-and-back-home-again-in-imagine-a-city">Flying around the world — and back home again — in 'Imagine a City' </a> NPR: In a new book, pilot and author of Skyfaring Mark Vanhoenacker takes readers to far-flung cities he once dreamed about during his childhood in western Massachusetts. 
  <p class="updated_time"> 04:25 AM CT, Jul. 05 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62037494?at_medium=RSS&at_campaign=KARANGA">Rescuers try to save stranded cargo ship near Sydney</a> BBC: Teams have been deployed to rescue a cargo ship that is stranded off the coast of Australia. 
  <p class="updated_time"> 04:00 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view">A provocative exhibit at NYC's Met Museum takes a new point of view</a> NPR: The exhibit explores how Native Americans have used water. But it also points out how political water is. 
- <p class="updated_time"> 03:43 AM CT, Jul. 04 </p> 
- <a href="https://www.npr.org/2022/07/04/1109669965/danish-police-say-the-deadly-mall-shooting-was-apparently-a-random-attack">Danish police say the deadly mall shooting was apparently a random attack</a> NPR: Copenhagen's chief police inspector said there was no indication that anyone helped the gunman, identified as a 22-year-old Dane. 
  <p class="updated_time"> 04:14 PM CT, Jul. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62032113?at_medium=RSS&at_campaign=KARANGA">Copenhagen shooting: Panic as people flee gunfire inside shopping centre</a> BBC: Three people have been killed in a shooting at a shopping centre in the Danish capital, police say. 
  <p class="updated_time"> 05:25 AM CT, Jul. 03 </p> 
@@ -96,6 +96,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi">The first Gen Z candidates are running for Congress — and running against compromise</a> NPR: As the first few Gen Z candidates navigate runs for Congress, questions remain over how coming of age during intense national political division will shape Gen Z candidates' approach to politics. 
  <p class="updated_time"> 07:04 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109924708/harris-calls-for-renewing-the-assault-weapons-ban-after-highland-park-mass-shoot">Harris calls for renewing the assault weapons ban after Highland Park mass shooting</a> NPR: "Congress needs to have the courage to act and renew the assault weapons ban," Harris told a teachers convention in Chicago before visiting the shooting scene at nearby Highland Park. 
  <p class="updated_time"> 05:11 PM CT, Jul. 05 </p> 
@@ -126,8 +128,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants">6 immigrants reflect on their complicated relationships with the 4th of July</a> NPR: We asked people who immigrated to the United States what the day meant to them — and how their feelings about the holiday have changed since they first arrived. 
  <p class="updated_time"> 04:01 AM CT, Jul. 04 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines">'My body, my choice': How vaccine foes co-opted the abortion rallying cry</a> NPR: Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years. 
- <p class="updated_time"> 06:54 AM CT, Jul. 03 </p> 
- <a href="https://www.npr.org/2022/07/03/1109607611/politics-chat-supreme-court-rulings-limit-executive-action-on-climate-and-aborti">Politics chat: Supreme Court rulings limit executive action on climate and abortion</a> NPR: From Supreme Court decisions to Jan. 6 revelations — it has been an extraordinary last several days in politics. 
 
 
 </details>
