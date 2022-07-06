@@ -717,7 +717,7 @@ normals_today <- normals %>%
   filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
 
 normals_longer <- normals_today %>%
-  pivot_longer(cols = c(min,max))
+  pivot_longer(cols = c(normal_min,normal_max))
 
 seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
            length.out = 100)
