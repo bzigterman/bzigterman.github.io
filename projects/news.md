@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: Why West African leaders agreed to drop the economic sanctions imposed on Mali after a coup. 
+ <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: West African leaders agree to drop the economic sanctions imposed on Mali after a coup. 
  <p class="updated_time"> 01:10 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62047223?at_medium=RSS&at_campaign=KARANGA">Chicago shooting: Parents of two-year-old boy among victims</a> BBC: Irina McCarthy and Kevin McCarthy were shot dead by a gunman, leaving their son Aiden an orphan. 
  <p class="updated_time"> 01:05 AM CT, Jul. 06 </p> 
