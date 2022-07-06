@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:27 PM CT, Jul. 06 </p> 
+ <p class="updated_time"> 02:11 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072376?at_medium=RSS&at_campaign=KARANGA">Rapper Nipsey Hussle's killer convicted of murder</a> BBC: Hussle, born Ermias Asghedom, was shot outside his LA clothing store in 2019 after a brief argument. 
  <p class="updated_time"> 01:15 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting: Suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
@@ -24,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62068589?at_medium=RSS&at_campaign=KARANGA">Antigua's ban on same-sex acts ruled unconstitutional</a> BBC: Campaigners hope the ruling will pave the way for similar moves in other Caribbean nations. 
  <p class="updated_time"> 09:54 AM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110017425/boris-johnson-prime-minister-conservative-party-resignations">Boris Johnson fights to stay as British Prime Minister as his party's support unravels</a> NPR: Two top ministers and a slew of more junior officials resigned this week, saying they could no longer serve under Johnson's scandal-tarred leadership. He narrowly got by a no-confidence vote in June. 
+ <a href="https://www.npr.org/2022/07/06/1110017425/boris-johnson-prime-minister-conservative-party-resignations">Boris Johnson fights to stay as British prime minister as his party's support unravels</a> NPR: Two top ministers and a slew of more junior officials resigned this week, saying they could no longer serve under Johnson's scandal-tarred leadership. He narrowly got by a no-confidence vote in June. 
  <p class="updated_time"> 09:00 AM CT, Jul. 06 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-confronts-divided-parliament-with-plan-to-raise-retirement-age-11657130429">France's Macron Confronts Divided Parliament With Plan to Raise Retirement Age</a> WSJ: The president’s newly appointed prime minister indicated she planned to press ahead with an overhaul of the country’s pension system despite his party recently losing its majority in parliament. 
  <p class="updated_time"> 08:56 AM CT, Jul. 06 </p> 
