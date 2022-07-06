@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
+ <p class="updated_time"> 03:53 PM CT, Jul. 06 </p> 
+ <a href="https://www.npr.org/2022/07/06/1110151880/taiwan-is-watching-ukraine-to-prepare-for-a-possible-invasion-by-china">Taiwan is watching Ukraine to prepare for a possible invasion by China</a> NPR: As people in Taiwan watch the war in Ukraine, NPR's Mary Louise Kelly talks with veteran journalist Chris Horton about what they think it could mean for a Chinese invasion of Taiwan. 
  <p class="updated_time"> 03:46 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110151878/syrian-refugees-say-theyre-feeling-unwelcome-in-turkey-but-have-nowhere-else-to-">Syrian refugees say they're feeling unwelcome in Turkey, but have nowhere else to go</a> NPR: Many people in Turkey are growing increasingly weary of hosting the millions of Syrian refugees that have been there for years — but the Syrians have no place to go. 
  <p class="updated_time"> 03:37 PM CT, Jul. 06 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62027828?at_medium=RSS&at_campaign=KARANGA">Who are 'terrorists' Turkey wants from Sweden and Finland?</a> BBC: The BBC speaks to three people sought in return for support of Swedish and Finnish Nato membership. 
  <p class="updated_time"> 03:48 AM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109780919/nato-poised-to-sign-accession-protocols-for-sweden-finland">NATO poised to sign accession protocols for Sweden, Finland</a> NPR: The anticipated approval by the 30 NATO allies for Sweden and Finland on Tuesday will send the membership bids of the two nations to the alliance capitals for legislative approvals. 
- <p class="updated_time"> 01:01 AM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider">The Large Hadron Collider will embark on a third run to uncover more cosmic secrets</a> NPR: Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions. 
  <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
  <p class="updated_time"> 06:20 AM CT, Jul. 04 </p> 
