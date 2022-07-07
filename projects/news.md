@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:43 PM CT, Jul. 07 </p> 
+ <p class="updated_time"> 03:23 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61902378?at_medium=RSS&at_campaign=KARANGA">Theranos exec Sunny Balwani convicted of fraud</a> BBC: He and fraudster Elizabeth Holmes ran the Silicon Valley company as a couple before its implosion. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338521/inside-the-courtroom-at-brittney-griners-trial-in-russia">Inside the courtroom at Brittney Griner's trial in Russia</a> NPR: WNBA star Brittney Griner plead guilty to drug charges in Russian court Thursday. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338493/brittney-griners-supporters-want-you-to-know-what-its-like-for-women-in-the-wnba">Brittney Griner's supporters want you to know what it's like for women in the WNBA</a> NPR: NPR's Juana Summers speaks with Nadine Domond, head of women's basketball at Virginia State University, about the work to bring attention to Brittney Griner's case. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62085274?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Putin dares West as Zelensky pays tribute to Johnson</a> BBC: Russian forces push into the eastern Donetsk where one civilian died on Thursday after a missile strike. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
@@ -83,16 +91,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110155933/what-the-u-s-can-learn-from-abortion-rights-wins-in-latin-america">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: NPR's Ailsa Chang talks with Ipas Central America and Mexico director Maria Antonieta Alcalde about what the U.S.'s abortion rights movement can learn from reproductive rights wins in Latin America. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
- <p class="updated_time"> 04:06 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110155940/pakistan-audiences-react-to-ms-marvel-marvels-1st-muslim-superhero-headliner">Pakistan audiences react to 'Ms. Marvel,' Marvel's 1st Muslim superhero headliner</a> NPR: Disney+ brings Ms.Marvel to theaters across Pakistan to celebrate the first Pakistani Marvel superhero Kamala Khan. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
- <p class="updated_time"> 03:53 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110151880/taiwan-is-watching-ukraine-to-prepare-for-a-possible-invasion-by-china">Taiwan is watching Ukraine to prepare for a possible invasion by China</a> NPR: As people in Taiwan watch the war in Ukraine, NPR's Mary Louise Kelly talks with veteran journalist Chris Horton about what they think it could mean for a Chinese invasion of Taiwan. 
- <p class="updated_time"> 03:46 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110151878/syrian-refugees-say-theyre-feeling-unwelcome-in-turkey-but-have-nowhere-else-to-">Syrian refugees say they're feeling unwelcome in Turkey, but have nowhere else to go</a> NPR: Many people in Turkey are growing increasingly weary of hosting the millions of Syrian refugees that have been there for years — but the Syrians have no place to go. 
- <p class="updated_time"> 03:36 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
@@ -108,6 +108,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338500/bidens-picks-for-the-presidential-medal-of-freedom-largely-reflect-his-own-polit">Biden's picks for the Presidential Medal of Freedom largely reflect his own politics</a> NPR: President Biden gives the Presidential Medal of Freedom — the nation's highest civilian honor —  to a group of 17 people who in large part sum up his political brand. 
+ <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Denzel Washington, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
  <p class="updated_time"> 10:00 AM CT, Jul. 07 </p> 
@@ -120,6 +126,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110165323/self-induced-abortions-can-raise-medical-and-legal-questions-for-doctors">Self-induced abortions can raise medical — and legal — questions for doctors</a> NPR: Doctors are thinking about how to help women who have questions or concerns after taking abortion pills at home — without putting themselves or their patients in jeopardy. 
  <p class="updated_time"> 10:01 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110214369/lindsey-graham-will-fight-georgia-2020-election-subpoena-his-lawyers-say">Lindsey Graham will fight Georgia 2020 election subpoena, his lawyers say</a> NPR: Graham's attorneys slammed the investigation into former President Donald Trump and his allies' actions in Georgia after the 2020 election as being coordinated with the Jan. 6 committee. 
+ <p class="updated_time"> 09:06 PM CT, Jul. 06 </p> 
+ <a href="https://www.cnn.com/2022/07/06/politics/state-abortion-laws-legal-challenges/index.html">Where state abortion bans stand amid legal challenges</a> CNN: In more than a dozen states, legal fights are underway over abortion bans and other laws that greatly limit the procedure after the US Supreme Court ended a constitutional right to an abortion on June 24. 
  <p class="updated_time"> 08:51 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110210885/georgia-guidestones-monument-damaged-explosion">A Georgia monument, seen by some as satanic, was damaged from a predawn explosion</a> NPR: The roadside attraction was built in 1980 from local granite, commissioned by an unknown person or group under the pseudonym R.C. Christian. 
  <p class="updated_time"> 08:14 PM CT, Jul. 06 </p> 
@@ -134,16 +142,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110024565/biden-letter-brittney-griner-wife">As calls grow to free Brittney Griner, Biden says he's spoken with her wife</a> NPR: The White House said President Biden and Vice President Harris spoke with Cherelle Griner on Wednesday, as more of the WNBA star's supporters publicly petition him to do more to secure her release. 
  <p class="updated_time"> 11:22 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110036950/cipollone-testify-jan-6-committee">Cipollone will testify behind closed doors to the Jan. 6 committee on Friday</a> NPR: Testimony in the panel's hearings so far has shown the former White House counsel present at key points in the lead-up to Jan. 6 and on the day of the attack. 
- <p class="updated_time"> 08:43 AM CT, Jul. 06 </p> 
- <a href="https://www.cnn.com/2022/07/05/politics/democrats-frustrated-biden-lack-of-urgency-supreme-court-setbacks/index.html">After string of Supreme Court setbacks, Democrats wonder whether Biden White House is capable of urgency moment demands</a> CNN: Debra Messing was fed up. The former "Will & Grace" star was among dozens of celebrity Democratic supporters and activists who joined a call with White House aides last Monday to discuss the Supreme Court overturning Roe v. Wade. 
  <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109965552/a-georgia-grand-jury-subpoenas-top-trump-allies-including-giuliani-and-graham">A Georgia grand jury subpoenas top Trump allies, including Giuliani and Graham</a> NPR: The grand jury investigating allegations of 2020 election interference has issued subpoenas for testimony from several Trump insiders, including Rudy Giuliani and Sen. Lindsey Graham. 
- <p class="updated_time"> 04:00 AM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi">The first Gen Z candidates are running for Congress — and running against compromise</a> NPR: As the first few Gen Z candidates navigate runs for Congress, questions remain over how coming of age during intense national political division will shape Gen Z candidates' approach to politics. 
- <p class="updated_time"> 07:04 PM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109924708/harris-calls-for-renewing-the-assault-weapons-ban-after-highland-park-mass-shoot">Harris calls for renewing the assault weapons ban after Highland Park mass shooting</a> NPR: "Congress needs to have the courage to act and renew the assault weapons ban," Harris told a teachers convention in Chicago before visiting the shooting scene at nearby Highland Park. 
- <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109883086/doj-is-stepping-up-enforcement-of-a-law-that-regulates-foreign-lobbying-in-washi">DOJ is stepping up enforcement of a law that regulates foreign lobbying in Washington</a> NPR: The Department of Justice is more actively investigating foreign lobbying in Washington and Congress is considering an update to a key law regulating that. Transparency advocates say it is about time. 
 
 
 </details>
