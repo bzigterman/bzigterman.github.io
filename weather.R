@@ -789,7 +789,8 @@ fig <- hchart(year_weather_data_longer, "arearange",
   ) %>%
   hc_legend(enabled = FALSE) %>%
   hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
-  hc_tooltip(shared = TRUE) %>%
+  hc_tooltip(shared = TRUE,
+             xDateFormat = "%B %e") %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: OpenWeather, MRCC, NWS",
