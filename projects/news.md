@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:22 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62001336?at_medium=RSS&at_campaign=KARANGA">The US army base training Ukrainian fighters</a> BBC: American style training at Fort Leavenworth stands in contrast to Soviet-style military education. 
+ <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
+ <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62077109?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Daily heartbreak of life in a country gone bankrupt</a> BBC: Living in Sri Lanka is a daily battle and people are broken after months of crisis, writes Andrew Fidel Fernando. 
+ <p class="updated_time"> 06:13 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The president is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
  <p class="updated_time"> 04:56 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
  <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
@@ -63,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
- <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
@@ -87,22 +93,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
  <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110219180/record-number-of-people-worldwide-are-moving-toward-starvation-u-n-warns">Record number of people worldwide are moving toward starvation, U.N. warns</a> NPR: The spike in food, fuel and fertilizer prices sparked by the war in Ukraine is threatening to push countries around the world into famine, a U.N. official warns. 
- <p class="updated_time"> 08:01 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62053991?at_medium=RSS&at_campaign=KARANGA">South Africa electricity crisis: No power for up to six hours</a> BBC: In what is described as the biggest ever power crisis, there are blackouts of up to six hours a day. 
- <p class="updated_time"> 07:59 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62035808?at_medium=RSS&at_campaign=KARANGA">How TikTok is fuelling dreams of wealth in the Arab world</a> BBC: The video sharing app is making some Arab youth rich - but for others the dream is way out of reach. 
- <p class="updated_time"> 06:23 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62049654?at_medium=RSS&at_campaign=KARANGA">Australia floods: Unfounded cloud seeding claims spread online</a> BBC: False suggestions that Sydney floods were linked to weather manipulation reach thousands online. 
- <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-61992300?at_medium=RSS&at_campaign=KARANGA">Paradise reopened - Bali hopes for tourists to return</a> BBC: The Indonesian island wants holidaymakers to come back as it reopens after two years. 
- <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61998551?at_medium=RSS&at_campaign=KARANGA">Chagos Islands FA: The team representing a lost homeland, 6,000 miles away</a> BBC: The Chagos Islands football team are trying to keep the story of their ancestors alive, 6,000 miles from their disputed homeland. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
- <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62068589?at_medium=RSS&at_campaign=KARANGA">Antigua's ban on same-sex acts ruled unconstitutional</a> BBC: Campaigners hope the ruling will pave the way for similar moves in other Caribbean nations. 
  <p class="updated_time"> 06:36 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62044014?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russian woman rescued from a Kyiv bomb site</a> BBC: Russian-born Ekaterina Volkova was injured in an air strike on her apartment that killed her Ukrainian husband. 
 
