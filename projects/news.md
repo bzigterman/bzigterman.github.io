@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
+ <p class="updated_time"> 12:13 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62077425?at_medium=RSS&at_campaign=KARANGA">Poland confirms scientist being detained in Iran</a> BBC: Iranian state TV reported that the man was arrested for taking soil samples in a restricted area. 
  <p class="updated_time"> 11:59 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
  <p class="updated_time"> 11:33 AM CT, Jul. 07 </p> 
@@ -23,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-south-asia-62083035?at_medium=RSS&at_campaign=KARANGA">Pakistan goat: Long-eared kid becomes star</a> BBC: Simba's ears measure 54cm (21in) each, a length his owner claims breaks global records. 
  <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
+ <p class="updated_time"> 08:13 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
  <p class="updated_time"> 07:58 AM CT, Jul. 07 </p> 
@@ -53,16 +59,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
  <p class="updated_time"> 03:25 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-boosts-support-for-added-defense-spending-in-japan-11657196729">Ukraine War Boosts Support for Added Defense Spending in Japan</a> WSJ: A national election appears set to give Japan’s government a mandate for a sharp increase in the military budget, thanks to the war in Ukraine. 
- <p class="updated_time"> 01:44 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110219180/record-number-of-people-worldwide-are-moving-toward-starvation-u-n-warns">Record number of people worldwide are moving toward starvation, U.N. warns</a> NPR: The spike in food, fuel and fertilizer prices sparked by the war in Ukraine is threatening to push countries around the world into famine, a U.N. official warns. 
  <p class="updated_time"> 12:36 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-suspends-its-covid-flight-ban-policy-11657186607">Hong Kong Suspends Its Covid Flight-Ban Policy</a> WSJ: Hong Kong will stop banning routes for airlines that bring in more than a certain number of passengers with Covid-19, suspending a policy that has been heavily criticized by businesses and travelers. 
- <p class="updated_time"> 11:53 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Russian UN veto could threaten aid deliveries to 3m people</a> BBC: Russia threatens to block a Security Council resolution keeping open a key cross-border aid route. 
- <p class="updated_time"> 09:06 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62074011?at_medium=RSS&at_campaign=KARANGA">Lithuania donates crowdfunded drone to Ukraine</a> BBC: The drone was originally crowdfunded, but the manufacturer decided to donate it without cost. 
  <p class="updated_time"> 08:01 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62053991?at_medium=RSS&at_campaign=KARANGA">South Africa electricity crisis: No power for up to six hours</a> BBC: In what is described as the biggest ever power crisis, there are blackouts of up to six hours a day. 
  <p class="updated_time"> 07:59 PM CT, Jul. 06 </p> 
