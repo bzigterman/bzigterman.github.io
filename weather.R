@@ -774,6 +774,8 @@ fig <- hchart(year_weather_data_longer, "arearange",
                     high = round(max),
                     group = type),
               step = "right",
+              marker = list(
+                radius = 1),
               lineWidth = 0,
               fillOpacity = 1,
               tooltip = list(valueSuffix = "°")) %>%
