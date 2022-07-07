@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
  <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338570/fifa-to-install-ai-to-help-make-accurate-offside-decisions">FIFA to install AI to help make accurate offside decisions</a> NPR: NPR's Juana Summers speaks with ESPN editor Dale Johnson about FIFA's announcement that artificial intelligence cameras will help make offsides calls at the upcoming World Cup. 
  <p class="updated_time"> 03:54 PM CT, Jul. 07 </p> 
@@ -31,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are 5 possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
  <p class="updated_time"> 01:54 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">James Caan: Oscar-nominated actor and Godfather star dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
+ <p class="updated_time"> 01:03 PM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 12:51 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62084952?at_medium=RSS&at_campaign=KARANGA">Elon Musk became father of twins last year, say reports</a> BBC: The Tesla chief executive says he is trying "to help the underpopulation crisis" in the world. 
  <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
- <p class="updated_time"> 08:13 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
