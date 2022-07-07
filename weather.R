@@ -777,11 +777,14 @@ fig <- hchart(year_weather_data_longer, "arearange",
               lineWidth = 0,
               fillOpacity = 1,
               tooltip = list(valueSuffix = "°")) %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           labels = list(
+             format = "{value}°")
+  ) %>%
   hc_xAxis(title = "",
            labels = list(
              format = "{value:%b}")
-           ) %>%
+  ) %>%
   hc_legend(enabled = FALSE) %>%
   hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
   hc_tooltip(shared = TRUE) %>%
