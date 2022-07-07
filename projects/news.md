@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:34 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
+ <p class="updated_time"> 11:33 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62083036?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: What does the world make of UK PM's exit?</a> BBC: Our correspondents from around the globe share the view from foreign capitals. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
- <p class="updated_time"> 10:15 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM endgame unfolds</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 09:24 AM CT, Jul. 07 </p> 
@@ -56,23 +58,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110219180/record-number-of-people-worldwide-are-moving-toward-starvation-u-n-warns">Record number of people worldwide are moving toward starvation, U.N. warns</a> NPR: The spike in food, fuel and fertilizer prices sparked by the war in Ukraine is threatening to push countries around the world into famine, a U.N. official warns. 
  <p class="updated_time"> 12:36 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-suspends-its-covid-flight-ban-policy-11657186607">Hong Kong Suspends Its Covid Flight Ban Policy</a> WSJ: Hong Kong will stop banning routes for airlines that bring more than a certain number of passengers with Covid-19, suspending a policy that has been heavily criticized by businesses and travelers. 
+ <a href="https://www.wsj.com/articles/hong-kong-suspends-its-covid-flight-ban-policy-11657186607">Hong Kong Suspends Its Covid Flight-Ban Policy</a> WSJ: Hong Kong will stop banning routes for airlines that bring in more than a certain number of passengers with Covid-19, suspending a policy that has been heavily criticized by businesses and travelers. 
  <p class="updated_time"> 11:53 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Russian UN veto could threaten aid deliveries to 3m people</a> BBC: Russia threatens to block a Security Council resolution keeping open a key cross-border aid route. 
- <p class="updated_time"> 11:03 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-62073820?at_medium=RSS&at_campaign=KARANGA">Sri Lanka president asks Russia's Vladimir Putin for help to buy fuel</a> BBC: The country says it is close to running out of petrol amid its worst economic crisis since 1948. 
  <p class="updated_time"> 09:06 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62074011?at_medium=RSS&at_campaign=KARANGA">Lithuania donates crowdfunded drone to Ukraine</a> BBC: The drone was originally crowdfunded, but the manufacturer decided to donate it without cost. 
- <p class="updated_time"> 08:56 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62073674?at_medium=RSS&at_campaign=KARANGA">Argentine ex-army officers jailed over 'Dirty War' crimes against humanity</a> BBC: Nineteen people get long jail terms for crimes against humanity during the military rule in 1976-83. 
  <p class="updated_time"> 08:01 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62053991?at_medium=RSS&at_campaign=KARANGA">South Africa electricity crisis: No power for up to six hours</a> BBC: In what is described as the biggest ever power crisis, there are blackouts of up to six hours a day. 
  <p class="updated_time"> 07:59 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62035808?at_medium=RSS&at_campaign=KARANGA">How TikTok is fuelling dreams of wealth in the Arab world</a> BBC: The video sharing app is making some Arab youth rich - but for others the dream is way out of reach. 
  <p class="updated_time"> 07:26 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62073669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 21,000 alleged war crimes being investigated, prosecutor says</a> BBC: Top prosecutor gives the new figure to the BBC, but admits many trials will be held in absentia. 
- <p class="updated_time"> 07:08 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62073686?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer sentenced to 12 years</a> BBC: Jerry Harris admitted to exchanging lewd pictures with children that he knew to be underage. 
  <p class="updated_time"> 06:23 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62049654?at_medium=RSS&at_campaign=KARANGA">Australia floods: Unfounded cloud seeding claims spread online</a> BBC: False suggestions that Sydney floods were linked to weather manipulation reach thousands online. 
  <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
