@@ -866,7 +866,7 @@ almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
 almanac_longer <- pivot_longer(almanac_data,
                                cols = c(min,max)) %>%
   mutate(period = recode_factor(period, 
-                                "current"       = "Current",
+                                "current"      = "Current",
                                 "today"        = "Today",
                                 "normal"       = "Normal (1991–2020)",
                                 "record"       = "Record (since 1888)"))
