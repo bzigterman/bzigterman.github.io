@@ -440,28 +440,28 @@ fig1 <- hchart(his_los_longer,
                #  enabled = TRUE),
                lineWidth = 9,
                zones = list(
-                   c(value = 10,
-                     color = "#5e4fa2"),
-                   c(value = 10,
-                     color = "#3288bd"),
-                   c(value = 20,
-                     color = "#66c2a5"),
-                   c(value = 32,
-                     color = "#abdda4"),
-                   c(value = 40,
-                     color = "#e6f598"),
-                   c(value = 50,
-                     color = "#ffffbf"),
-                   c(value = 60,
-                     color = "#fee08b"),
-                   c(value = 70,
-                     color = "#fdae61"),
-                   c(value = 80,
-                     color = "#f46d43"),
-                   c(value = 90,
-                     color = "#d53e4f"),
-                   c(value = 200,
-                     color = "#9e0142")),
+                 c(value = 10,
+                   color = "#5e4fa2"),
+                 c(value = 10,
+                   color = "#3288bd"),
+                 c(value = 20,
+                   color = "#66c2a5"),
+                 c(value = 32,
+                   color = "#abdda4"),
+                 c(value = 40,
+                   color = "#e6f598"),
+                 c(value = 50,
+                   color = "#ffffbf"),
+                 c(value = 60,
+                   color = "#fee08b"),
+                 c(value = 70,
+                   color = "#fdae61"),
+                 c(value = 80,
+                   color = "#f46d43"),
+                 c(value = 90,
+                   color = "#d53e4f"),
+                 c(value = 200,
+                   color = "#9e0142")),
                type = "line") %>%
   hc_add_series(his_los,
                 enableMouseTracking = FALSE,
@@ -549,9 +549,9 @@ fig1 <- hchart(his_los_longer,
              "Past Month","Past Week",
              "Yesterday","Today","Now","Next Week")) %>%
   hc_legend(enabled = FALSE) #%>%
-  # hc_add_theme(
-  #   hc_theme_bloom()
-  # )
+# hc_add_theme(
+#   hc_theme_bloom()
+# )
 fig1
 saveWidget(widget = fig1, file = "interactive/champaign_temp_comparison.html",
            selfcontained = FALSE,
@@ -865,10 +865,10 @@ almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
 almanac_longer <- pivot_longer(almanac_data,
                                cols = c(min,max)) %>%
   mutate(period = recode_factor(period, 
-                              "current"       = "Current",
-                              "today"        = "Today",
-                              "normal"       = "Normal (1991–2020)",
-                              "record"       = "Record (since 1888)"))
+                                "current"       = "Current",
+                                "today"        = "Today",
+                                "normal"       = "Normal (1991–2020)",
+                                "record"       = "Record (since 1888)"))
 
 # ggplot(almanac_longer, aes(x = 1,
 #                            y = value,
@@ -891,8 +891,8 @@ almanac_longer <- pivot_longer(almanac_data,
 
 ## plot----
 p <- ggplot(data = temps,
-       aes(x = period,
-           y = temp)) +
+            aes(x = period,
+                y = temp)) +
   geom_hline(data = temps_past_hour, aes(yintercept = temp,
                                          color = temp)) +
   geom_line(data = temps,
@@ -918,12 +918,12 @@ p <- ggplot(data = temps,
             #nudge_y = 1,
             nudge_x = -.2,
             color = "grey60") +
-   scale_x_discrete(limits = c(
-     "Now",
-     "Today",
-     "Normal (1991–2020)",
-     "Record (since 1888)"),
-     labels = NULL) +
+  scale_x_discrete(limits = c(
+    "Now",
+    "Today",
+    "Normal (1991–2020)",
+    "Record (since 1888)"),
+    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
   theme_minimal() +
