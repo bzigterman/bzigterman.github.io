@@ -792,9 +792,19 @@ fig <- hchart(year_weather_data_longer, "arearange",
            labels = list(
              format = "{value}°")
   ) %>%
-  hc_xAxis(title = "",
-           labels = list(
-             format = "{value:%b}")
+  hc_xAxis(
+    title = "",
+    labels = list(
+      format = "{value:%b}"),
+    plotLines = list(
+      list(
+        label = list(text = "Today"),
+        color = "gray",
+        width = 1,
+        value = datetime_to_timestamp(ymd(today(tzone = "America/Chicago"))),
+        zIndex = 1
+      )
+    )
   ) %>%
   hc_legend(enabled = FALSE) %>%
   hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
