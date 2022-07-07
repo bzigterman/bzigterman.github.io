@@ -53,6 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
+ <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 09:24 AM CT, Jul. 07 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/strikes-roll-across-europe-as-unions-push-for-higher-wages-to-offset-inflation-11657209750">Strikes Roll Across Europe as Unions Push for Higher Wages to Offset Inflation</a> WSJ: Workers are staging walkouts and demanding pay increases, some of double digits in percentage terms, as the cost of living rises. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
- <p class="updated_time"> 06:40 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/china-rejects-u-s-u-k-espionage-claims-11657208413">China Rejects U.S.-U.K. Espionage Claims</a> WSJ: The dueling statements come ahead of a planned meeting this week in Bali, Indonesia, between Secretary of State Antony Blinken and his Chinese counterpart. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 06:29 AM CT, Jul. 07 </p> 
