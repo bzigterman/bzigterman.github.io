@@ -20,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but perceptions about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner returns to a Russian court as her trial resumes</a> NPR: Russian prosecutors continue to make their case against Griner, who was arrested on drug charges in February. The Biden administration is facing growing public pressure to bring the WNBA star home. 
+ <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug smuggling charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 06:29 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62076262?at_medium=RSS&at_campaign=KARANGA">Genoa bridge: Hopes for new Italy as disaster trial opens</a> BBC: Families of the 43 people killed look for justice four years after a Genoa highway bridge collapsed. 
  <p class="updated_time"> 06:06 AM CT, Jul. 07 </p> 
