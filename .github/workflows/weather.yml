@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '5-59/10 * * * *'
+  push:
+    paths:
+      - 'weather.R'
 
 jobs:
   run-autoweather:
