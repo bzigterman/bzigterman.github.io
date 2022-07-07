@@ -774,6 +774,14 @@ fig <- hchart(year_weather_data_longer, "arearange",
                     high = round(max),
                     group = type),
               step = "center",
+              dataLabels = list(
+                enabled = TRUE,
+                align = "right",
+                format = "{series.name}: {point.y}°",
+                filter = list(
+                  property = "date",
+                  operator = '==',
+                  value = ymd(today(tzone = "America/Chicago")))),
               marker = list(
                 radius = 1),
               lineWidth = 0,
