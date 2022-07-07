@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:18 AM CT, Jul. 07 </p> 
+ <p class="updated_time"> 09:40 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
+ <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
+ <p class="updated_time"> 09:24 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-south-asia-62083035?at_medium=RSS&at_campaign=KARANGA">Pakistan goat: Long-eared kid becomes star</a> BBC: Simba's ears measure 54cm (21in) each, a length his owner claims breaks global records. 
  <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 08:37 AM CT, Jul. 07 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
  <p class="updated_time"> 01:11 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109381306/eastern-ukraine-coal-mining-russia-invasion">In eastern Ukraine's coal fields, Russia's invasion sparks hopes of a comeback</a> NPR: Ukraine's coal industry was in decline. Now miners find themselves in the middle of a war with Russia — and global demand for coal is rising. 
- <p class="updated_time"> 01:09 PM CT, Jul. 06 </p> 
- <a href="https://www.wsj.com/articles/heads-of-fbi-mi5-issue-joint-warning-on-chinese-spying-11657123280">Heads of FBI, MI5 Issue Joint Warning on Chinese Spying</a> WSJ: “The Chinese government is set on stealing your technology,” the agency chiefs tell business leaders. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
