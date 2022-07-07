@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 AM CT, Jul. 07 </p> 
+ <p class="updated_time"> 11:59 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
  <p class="updated_time"> 11:33 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62083036?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: What does the world make of UK PM's exit?</a> BBC: Our correspondents from around the globe share the view from foreign capitals. 
@@ -25,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
+ <p class="updated_time"> 07:58 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
  <p class="updated_time"> 03:25 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-boosts-support-for-added-defense-spending-in-japan-11657196729">Ukraine War Boosts Support for Added Defense Spending in Japan</a> WSJ: A national election appears set to give Japan’s government a mandate for a sharp increase in the military budget, thanks to the war in Ukraine. 
- <p class="updated_time"> 02:56 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 01:44 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
