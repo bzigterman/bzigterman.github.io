@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:54 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">Godfather actor James Caan dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
+ <p class="updated_time"> 02:43 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61902378?at_medium=RSS&at_campaign=KARANGA">Theranos exec Sunny Balwani convicted of fraud</a> BBC: He and fraudster Elizabeth Holmes ran the Silicon Valley company as a couple before its implosion. 
+ <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62085274?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Putin dares West as Zelensky pays tribute to Johnson</a> BBC: Russian forces push into the eastern Donetsk where one civilian died on Thursday after a missile strike. 
+ <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are 5 possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
+ <p class="updated_time"> 01:54 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">James Caan: Oscar-nominated actor and Godfather star dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
  <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortion: Mississippi's near-total ban to take hold</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortions stopped at Mississippi's last clinic as trigger ban enacted</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
  <p class="updated_time"> 12:13 PM CT, Jul. 07 </p> 
@@ -23,48 +29,46 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62083036?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: What does the world make of UK PM's exit?</a> BBC: Our correspondents from around the globe share the view from foreign capitals. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
+ <p class="updated_time"> 10:38 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 09:24 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-south-asia-62083035?at_medium=RSS&at_campaign=KARANGA">Pakistan goat: Long-eared kid becomes star</a> BBC: Simba's ears measure 54cm (21in) each, a length his owner claims breaks global records. 
+ <p class="updated_time"> 09:16 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 08:13 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
- <p class="updated_time"> 07:58 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/strikes-roll-across-europe-as-unions-push-for-higher-wages-to-offset-inflation-11657209750">Strikes Roll Across Europe as Unions Push for Higher Wages to Offset Inflation</a> WSJ: Workers are staging walkouts and demanding pay increases, some of double digits in percentage terms, as the cost of living rises. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
+ <p class="updated_time"> 06:40 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/china-rejects-u-s-u-k-espionage-claims-11657208413">China Rejects U.S.-U.K. Espionage Claims</a> WSJ: The dueling statements come ahead of a planned meeting this week in Bali, Indonesia, between Secretary of State Antony Blinken and his Chinese counterpart. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 06:29 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62076262?at_medium=RSS&at_campaign=KARANGA">Genoa bridge: Hopes for new Italy as disaster trial opens</a> BBC: Families of the 43 people killed look for justice four years after a Genoa highway bridge collapsed. 
- <p class="updated_time"> 06:12 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/netherlands-poised-to-make-work-from-home-a-legal-right-11657206737">Netherlands Poised to Make Work-From-Home a Legal Right</a> WSJ: As U.S. companies struggle to entice workers back to offices, the Dutch parliament approved legislation to establish home working as a legal right, setting up the Netherlands to be one of the first countries to enshrine such flexibility in law. 
  <p class="updated_time"> 06:06 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62077423?at_medium=RSS&at_campaign=KARANGA">Egypt arrests organisers of joke 'Helwan Real Batman Battle' event</a> BBC: Four people who set up a Facebook event to find "the real Batman" are charged with "planning a riot". 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
- <p class="updated_time"> 05:04 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62076784?at_medium=RSS&at_campaign=KARANGA">Nicaragua expels Mother Teresa's nuns in latest crackdown</a> BBC: The Missionaries of Charity nuns left after their organisation was stripped of its legal status. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222315/g-20-foreign-ministers-which-includes-russia-china-and-the-u-s-gather-in-bali">G-20 foreign ministers, which includes Russia, China and the U.S., gather in Bali</a> NPR: Secretary of State Antony Blinken is leading the U.S. delegation at the G-20 ministerial meeting. It could be the scene of some awkward diplomatic encounters involving Russia's war in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222238/morning-news-brief">News brief: Boris Johnson, review issued on Uvalde shooting, G-20 preview</a> NPR: British Prime Minister Boris Johnson will officially announce he's stepping down. A report says more could have been done to save the Uvalde massacre victims. G20 members are gathering in Bali. 
  <p class="updated_time"> 04:00 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
- <p class="updated_time"> 03:25 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-boosts-support-for-added-defense-spending-in-japan-11657196729">Ukraine War Boosts Support for Added Defense Spending in Japan</a> WSJ: A national election appears set to give Japan’s government a mandate for a sharp increase in the military budget, thanks to the war in Ukraine. 
  <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110219180/record-number-of-people-worldwide-are-moving-toward-starvation-u-n-warns">Record number of people worldwide are moving toward starvation, U.N. warns</a> NPR: The spike in food, fuel and fertilizer prices sparked by the war in Ukraine is threatening to push countries around the world into famine, a U.N. official warns. 
- <p class="updated_time"> 12:36 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-suspends-its-covid-flight-ban-policy-11657186607">Hong Kong Suspends Its Covid Flight-Ban Policy</a> WSJ: Hong Kong will stop banning routes for airlines that bring in more than a certain number of passengers with Covid-19, suspending a policy that has been heavily criticized by businesses and travelers. 
  <p class="updated_time"> 08:01 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62053991?at_medium=RSS&at_campaign=KARANGA">South Africa electricity crisis: No power for up to six hours</a> BBC: In what is described as the biggest ever power crisis, there are blackouts of up to six hours a day. 
  <p class="updated_time"> 07:59 PM CT, Jul. 06 </p> 
@@ -89,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110151878/syrian-refugees-say-theyre-feeling-unwelcome-in-turkey-but-have-nowhere-else-to-">Syrian refugees say they're feeling unwelcome in Turkey, but have nowhere else to go</a> NPR: Many people in Turkey are growing increasingly weary of hosting the millions of Syrian refugees that have been there for years — but the Syrians have no place to go. 
  <p class="updated_time"> 03:36 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109727373/meet-itinerante-a-trio-reviving-colombias-andean-music">Meet Itinerante, a trio reviving Colombia's Andean music </a> NPR: Played on three string instruments, this music was the country's soundtrack from the turn of the 20th century to the 1940s. 
- <p class="updated_time"> 01:11 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1109381306/eastern-ukraine-coal-mining-russia-invasion">In eastern Ukraine's coal fields, Russia's invasion sparks hopes of a comeback</a> NPR: Ukraine's coal industry was in decline. Now miners find themselves in the middle of a war with Russia — and global demand for coal is rising. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
  <p class="updated_time"> 10:10 AM CT, Jul. 06 </p> 
@@ -106,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Denzel Washington, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
  <p class="updated_time"> 10:00 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
@@ -130,6 +134,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110024565/biden-letter-brittney-griner-wife">As calls grow to free Brittney Griner, Biden says he's spoken with her wife</a> NPR: The White House said President Biden and Vice President Harris spoke with Cherelle Griner on Wednesday, as more of the WNBA star's supporters publicly petition him to do more to secure her release. 
  <p class="updated_time"> 11:22 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110036950/cipollone-testify-jan-6-committee">Cipollone will testify behind closed doors to the Jan. 6 committee on Friday</a> NPR: Testimony in the panel's hearings so far has shown the former White House counsel present at key points in the lead-up to Jan. 6 and on the day of the attack. 
+ <p class="updated_time"> 08:43 AM CT, Jul. 06 </p> 
+ <a href="https://www.cnn.com/2022/07/05/politics/democrats-frustrated-biden-lack-of-urgency-supreme-court-setbacks/index.html">After string of Supreme Court setbacks, Democrats wonder whether Biden White House is capable of urgency moment demands</a> CNN: Debra Messing was fed up. The former "Will & Grace" star was among dozens of celebrity Democratic supporters and activists who joined a call with White House aides last Monday to discuss the Supreme Court overturning Roe v. Wade. 
  <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109965552/a-georgia-grand-jury-subpoenas-top-trump-allies-including-giuliani-and-graham">A Georgia grand jury subpoenas top Trump allies, including Giuliani and Graham</a> NPR: The grand jury investigating allegations of 2020 election interference has issued subpoenas for testimony from several Trump insiders, including Rudy Giuliani and Sen. Lindsey Graham. 
  <p class="updated_time"> 04:00 AM CT, Jul. 06 </p> 
@@ -138,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/05/1109924708/harris-calls-for-renewing-the-assault-weapons-ban-after-highland-park-mass-shoot">Harris calls for renewing the assault weapons ban after Highland Park mass shooting</a> NPR: "Congress needs to have the courage to act and renew the assault weapons ban," Harris told a teachers convention in Chicago before visiting the shooting scene at nearby Highland Park. 
  <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
  <a href="https://www.npr.org/2022/07/05/1109883086/doj-is-stepping-up-enforcement-of-a-law-that-regulates-foreign-lobbying-in-washi">DOJ is stepping up enforcement of a law that regulates foreign lobbying in Washington</a> NPR: The Department of Justice is more actively investigating foreign lobbying in Washington and Congress is considering an update to a key law regulating that. Transparency advocates say it is about time. 
- <p class="updated_time"> 03:42 PM CT, Jul. 05 </p> 
- <a href="https://www.npr.org/2022/07/05/1109883085/british-pm-boris-johnsons-government-is-in-turmoil-as-2-cabinet-ministers-resign">British PM Boris Johnson's government is in turmoil as 2 Cabinet ministers resign</a> NPR: To lose one Cabinet minister may be seen as a misfortune, but to lose two looks like carelessness. That's what British Prime Minister Boris Johnson faces after two key members of his Cabinet quit. 
 
 
 </details>
