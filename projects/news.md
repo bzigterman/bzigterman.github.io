@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:18 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
+ <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 08:37 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM endgame unfolds</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
- <p class="updated_time"> 08:17 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62078864?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Basketball star's wife calls on US to secure her release</a> BBC: The US basketball star detained on drugs charges will not get justice in Russia, her wife says. 
  <p class="updated_time"> 08:09 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61967180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Is the tank doomed?</a> BBC: The destruction of Russian tanks in Ukraine has raised questions over its future in modern warfare. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
@@ -20,7 +22,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but perceptions about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug smuggling charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
+ <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 06:29 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62076262?at_medium=RSS&at_campaign=KARANGA">Genoa bridge: Hopes for new Italy as disaster trial opens</a> BBC: Families of the 43 people killed look for justice four years after a Genoa highway bridge collapsed. 
  <p class="updated_time"> 06:06 AM CT, Jul. 07 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/hong-kong-suspends-its-covid-flight-ban-policy-11657186607">Hong Kong Suspends Its Covid Flight Ban Policy</a> WSJ: Hong Kong will stop banning routes for airlines that bring more than a certain number of passengers with Covid-19, suspending a policy that has been heavily criticized by businesses and travelers. 
  <p class="updated_time"> 11:53 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Russian UN veto could threaten aid deliveries to 3m people</a> BBC: Russia threatens to block a Security Council resolution keeping open a key cross-border aid route. 
- <p class="updated_time"> 11:23 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 11:03 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-62073820?at_medium=RSS&at_campaign=KARANGA">Sri Lanka president asks Russia's Vladimir Putin for help to buy fuel</a> BBC: The country says it is close to running out of petrol amid its worst economic crisis since 1948. 
  <p class="updated_time"> 09:06 PM CT, Jul. 06 </p> 
