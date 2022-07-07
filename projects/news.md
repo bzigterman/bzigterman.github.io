@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338570/fifa-to-install-ai-to-help-make-accurate-offside-decisions">FIFA to install AI to help make accurate offside decisions</a> NPR: NPR's Juana Summers speaks with ESPN editor Dale Johnson about FIFA's announcement that artificial intelligence cameras will help make offsides calls at the upcoming World Cup. 
+ <p class="updated_time"> 03:54 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110338549/the-russian-army-appears-close-to-taking-the-entire-donbas-region">The Russian army appears close to taking the entire Donbas region </a> NPR: Russian troops have taken Luhansk and are headed for Donetsk, pounding cities along the way. When Donetsk falls, which seems likely, Putin will have "liberated the Donbas." But will he be satisfied? 
  <p class="updated_time"> 03:35 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088103?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin sentenced to 20 years for violating George Floyd's rights</a> BBC: The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 03:23 PM CT, Jul. 07 </p> 
@@ -37,12 +41,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62077425?at_medium=RSS&at_campaign=KARANGA">Poland confirms scientist being detained in Iran</a> BBC: Iranian state TV reported that the man was arrested for taking soil samples in a restricted area. 
  <p class="updated_time"> 11:59 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
+ <p class="updated_time"> 11:50 AM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 11:33 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62083036?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: What does the world make of UK PM's exit?</a> BBC: Our correspondents from around the globe share the view from foreign capitals. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
- <p class="updated_time"> 10:38 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
@@ -91,10 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61992300?at_medium=RSS&at_campaign=KARANGA">Paradise reopened - Bali hopes for tourists to return</a> BBC: The Indonesian island wants holidaymakers to come back as it reopens after two years. 
  <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61998551?at_medium=RSS&at_campaign=KARANGA">Chagos Islands FA: The team representing a lost homeland, 6,000 miles away</a> BBC: The Chagos Islands football team are trying to keep the story of their ancestors alive, 6,000 miles from their disputed homeland. 
- <p class="updated_time"> 04:24 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110155933/what-the-u-s-can-learn-from-abortion-rights-wins-in-latin-america">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: NPR's Ailsa Chang talks with Ipas Central America and Mexico director Maria Antonieta Alcalde about what the U.S.'s abortion rights movement can learn from reproductive rights wins in Latin America. 
- <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
