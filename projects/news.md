@@ -103,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62068589?at_medium=RSS&at_campaign=KARANGA">Antigua's ban on same-sex acts ruled unconstitutional</a> BBC: Campaigners hope the ruling will pave the way for similar moves in other Caribbean nations. 
  <p class="updated_time"> 06:36 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62044014?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russian woman rescued from a Kyiv bomb site</a> BBC: Russian-born Ekaterina Volkova was injured in an air strike on her apartment that killed her Ukrainian husband. 
- <p class="updated_time"> 04:33 PM CT, Jul. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62045720?at_medium=RSS&at_campaign=KARANGA">People flee gunman at US Independence Day event</a> BBC: Seven people have been killed and several others injured after a gunman opened fire in Illinois. 
 
 
 </details>
