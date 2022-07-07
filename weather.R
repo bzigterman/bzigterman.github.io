@@ -777,6 +777,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
               dataLabels = list(
                 enabled = TRUE,
                 align = "right",
+                allowOverlap = TRUE,
                 format = "{series.name}: {point.y}°",
                 filter = list(
                   property = "date",
