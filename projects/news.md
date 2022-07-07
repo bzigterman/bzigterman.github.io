@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62073669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 21,000 alleged war crimes being investigated, prosecutor says</a> BBC: A top prosecutor gave the new figure to the BBC, but admitted many trials would be held in absentia. 
+ <p class="updated_time"> 07:08 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62073686?at_medium=RSS&at_campaign=KARANGA">Jerry Harris: Star of Netflix's Cheer sentenced to 12 years</a> BBC: Jerry Harris admitted to exchanging lewd pictures with children that he knew to be underage. 
+ <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61998551?at_medium=RSS&at_campaign=KARANGA">Chagos Islands FA: The team representing a lost homeland, 6,000 miles away</a> BBC: The Chagos Islands football team are trying to keep the story of their ancestors alive, 6,000 miles from their disputed homeland. 
  <p class="updated_time"> 05:00 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62068500?at_medium=RSS&at_campaign=KARANGA">Highland Park shooting suspect considered second attack</a> BBC: The 21-year-old suspect was able to purchase five guns despite several 'red flags' being raised. 
  <p class="updated_time"> 04:24 PM CT, Jul. 06 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1109965531/u-s-is-accused-of-a-double-standard-when-it-comes-to-afghan-and-ukrainian-refuge">U.S. is accused of a double standard when it comes to Afghan and Ukrainian refugees</a> NPR: Thousands of Afghans that were promised U.S. visas remain on the run from the Taliban. The Biden administration, however, quickly cleared red tape for Ukrainians after Russia invaded Ukraine. 
  <p class="updated_time"> 05:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62061407?at_medium=RSS&at_campaign=KARANGA">Rocco Morabito: Fugitive mobster handed over to Italy</a> BBC: Rocco Morabito, one of Italy's most wanted men, will serve 30 years after being arrested in Brazil. 
- <p class="updated_time"> 05:01 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62061739?at_medium=RSS&at_campaign=KARANGA">Friends creator says show used wrong pronouns for Chandler's trans parent</a> BBC: Marta Kauffman says it was a mistake not to use female pronouns for Chandler's transgender parent. 
  <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1109965545/russia-moscow-street-address-us-embassy-donetsk">Russia and the U.S. engage in name-calling — over the U.S. Embassy's Moscow address</a> NPR: In response to the West's support of Ukraine, Moscow is renaming streets where the U.S. and British Embassies are located. The new names honor pro-Kremlin separatists fighting to break from Ukraine. 
  <p class="updated_time"> 04:12 AM CT, Jul. 06 </p> 
@@ -71,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436">Russia's Tactical Shift in Ukraine Raises Prospect of Protracted War</a> WSJ: After early missteps, Moscow has found tactics that are working and is making steady advances in eastern Ukraine, setting the stage for a war of attrition in which Kyiv needs more Western weapons and help training new soldiers to turn the tide. 
  <p class="updated_time"> 01:42 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62037317?at_medium=RSS&at_campaign=KARANGA">Mali coup: How junta got Ecowas economic sanctions lifted</a> BBC: West African leaders agree to drop the economic sanctions imposed on Mali after a coup. 
- <p class="updated_time"> 11:44 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62056709?at_medium=RSS&at_campaign=KARANGA">Mumbai: Heavy rains bring Indian city to a standstill</a> BBC: Millions are battling flooding and overflowing sewers as monsoon rains lash India's financial capital. 
  <p class="updated_time"> 07:28 PM CT, Jul. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61973643?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The unsettling legacy of the rapper's protest music</a> BBC: It has been more than a month since the rapper was shot dead. But he is still making headlines. 
  <p class="updated_time"> 07:23 PM CT, Jul. 05 </p> 
