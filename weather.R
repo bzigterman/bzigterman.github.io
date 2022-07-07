@@ -673,24 +673,24 @@ record_maxs <- temp_history %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
   group_by(month, day) %>%
-  summarise(record_max = max(temp)) %>%
+  summarise(Record_max = max(temp)) %>%
   ungroup() %>%
   mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
   filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
   mutate(date = ymd(date)) %>%
-  select(date, record_max)
+  select(date, Record_max)
 
 record_mins <- temp_history %>%
   mutate(date = date(central_time)) %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
   group_by(month, day) %>%
-  summarise(record_min = min(temp)) %>%
+  summarise(Record_min = min(temp)) %>%
   ungroup() %>%
   mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
   filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
   mutate(date = ymd(date)) %>%
-  select(date, record_min)
+  select(date, Record_min)
 
 records <- full_join(record_maxs,record_mins)
 
@@ -707,9 +707,9 @@ records_range <- tibble(period = "Record (since 1888)",
 normals <- read_csv("data/normals.csv") %>%
   mutate(date = parse_date_time(date, "md")) %>%
   select(date, min, max) %>%
-  mutate(normal_min = min) %>%
-  mutate(normal_max = max) %>%
-  select(date,normal_min,normal_max) %>%
+  mutate(Normal_min = min) %>%
+  mutate(Normal_max = max) %>%
+  select(date,Normal_min,Normal_max) %>%
   filter(date != ymd("0000-02-29"))
 year(normals$date) = year(today(tzone = "America/Chicago"))
 normals_today <- normals %>%
@@ -717,7 +717,7 @@ normals_today <- normals %>%
   filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
 
 normals_longer <- normals_today %>%
-  pivot_longer(cols = c(normal_min,normal_max))
+  pivot_longer(cols = c(Normal_min,Normal_max))
 
 seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
            length.out = 100)
@@ -735,24 +735,24 @@ daily_maxs <- temps_past_eleven_months %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
   group_by(month, day) %>%
-  summarise(daily_max = max(temp)) %>%
+  summarise(Actual_max = max(temp)) %>%
   ungroup() %>%
   mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
   filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
   mutate(date = ymd(date)) %>%
-  select(date, daily_max)
+  select(date, Actual_max)
 
 daily_mins <- temps_past_eleven_months %>%
   mutate(date = date(central_time)) %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
   group_by(month, day) %>%
-  summarise(daily_min = min(temp)) %>%
+  summarise(Actual_min = min(temp)) %>%
   ungroup() %>%
   mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
   filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
   mutate(date = ymd(date)) %>%
-  select(date, daily_min)
+  select(date, Actual_min)
 
 dailies <- full_join(daily_maxs,daily_mins)
 
@@ -766,7 +766,7 @@ year_weather_data_longer <- year_weather_data %>%
                names_sep = "_") %>%
   pivot_wider(names_from = min_max,
               values_from = value) 
-year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("record","normal","daily"))
+year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
 
 fig <- hchart(year_weather_data_longer, "arearange", 
               hcaes(x = date,
@@ -778,10 +778,17 @@ fig <- hchart(year_weather_data_longer, "arearange",
               fillOpacity = 1,
               tooltip = list(valueSuffix = "°")) %>%
   hc_yAxis(title = "") %>%
-  hc_xAxis(title = "") %>%
+  hc_xAxis(title = "",
+           labels = list(
+             format = "{value:%b}")
+           ) %>%
   hc_legend(enabled = FALSE) %>%
   hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
   hc_tooltip(shared = TRUE) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: OpenWeather, MRCC, NWS",
+    href = "https://mrcc.purdue.edu") %>%
   hc_add_theme(
     hc_theme_bloom()
   )
