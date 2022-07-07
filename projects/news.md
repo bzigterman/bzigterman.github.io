@@ -106,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:33 PM CT, Jul. 07 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -114,8 +116,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Gabby Giffords, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
- <p class="updated_time"> 10:00 AM CT, Jul. 07 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222259/in-ohio-biden-addressed-a-friendly-crowd-of-labor-leaders-and-union-workers">In Ohio, Biden addressed a friendly crowd of labor leaders and union workers</a> NPR: President Biden flew to Cleveland to make the case for his economic agenda. Polls show Americans have grown pessimistic about his ability to rein in inflation amid growing fears of a recession. 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
