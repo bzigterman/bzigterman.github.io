@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">Godfather actor James Caan dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
+ <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortion: Mississippi's near-total ban to take hold</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
  <p class="updated_time"> 12:13 PM CT, Jul. 07 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
  <p class="updated_time"> 05:04 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62076784?at_medium=RSS&at_campaign=KARANGA">Nicaragua expels Mother Teresa's nuns in latest crackdown</a> BBC: The Missionaries of Charity nuns left after their organisation was stripped of its legal status. 
- <p class="updated_time"> 04:16 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-62077020?at_medium=RSS&at_campaign=KARANGA">Nicki Minaj's husband Kenneth Petty sentenced to one-year house arrest</a> BBC: Kenneth Petty, who failed to update his sex offender status when the couple moved, was also fined. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222315/g-20-foreign-ministers-which-includes-russia-china-and-the-u-s-gather-in-bali">G-20 foreign ministers, which includes Russia, China and the U.S., gather in Bali</a> NPR: Secretary of State Antony Blinken is leading the U.S. delegation at the G-20 ministerial meeting. It could be the scene of some awkward diplomatic encounters involving Russia's war in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62053991?at_medium=RSS&at_campaign=KARANGA">South Africa electricity crisis: No power for up to six hours</a> BBC: In what is described as the biggest ever power crisis, there are blackouts of up to six hours a day. 
  <p class="updated_time"> 07:59 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62035808?at_medium=RSS&at_campaign=KARANGA">How TikTok is fuelling dreams of wealth in the Arab world</a> BBC: The video sharing app is making some Arab youth rich - but for others the dream is way out of reach. 
- <p class="updated_time"> 07:26 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62073669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 21,000 alleged war crimes being investigated, prosecutor says</a> BBC: Top prosecutor gives the new figure to the BBC, but admits many trials will be held in absentia. 
  <p class="updated_time"> 06:23 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62049654?at_medium=RSS&at_campaign=KARANGA">Australia floods: Unfounded cloud seeding claims spread online</a> BBC: False suggestions that Sydney floods were linked to weather manipulation reach thousands online. 
  <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
