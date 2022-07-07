@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62088103?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin sentenced to 20 years for violating George Floyd's rights</a> BBC: The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 03:23 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61902378?at_medium=RSS&at_campaign=KARANGA">Theranos exec Sunny Balwani convicted of fraud</a> BBC: He and fraudster Elizabeth Holmes ran the Silicon Valley company as a couple before its implosion. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are 5 possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
  <p class="updated_time"> 01:54 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">James Caan: Oscar-nominated actor and Godfather star dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
+ <p class="updated_time"> 12:51 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-62084952?at_medium=RSS&at_campaign=KARANGA">Elon Musk became father of twins last year, say reports</a> BBC: The Tesla chief executive says he is trying "to help the underpopulation crisis" in the world. 
  <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortions stopped at Mississippi's last clinic as trigger ban enacted</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
@@ -115,7 +119,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Denzel Washington, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
+ <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Gabby Giffords, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
  <p class="updated_time"> 10:00 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
