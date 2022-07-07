@@ -802,18 +802,18 @@ saveWidget(widget = fig, file = "interactive/champaign_weather_year.html",
 
 p <- ggplot(year_weather_data, aes(x = date)) +
   geom_segment(aes(xend = date,
-                   y = record_min,
-                   yend = record_max),
+                   y = Record_min,
+                   yend = Record_max),
                color = "#e9e8df",
                size = .75) +
   geom_segment(aes(xend = date,
-                   y = normal_min,
-                   yend = normal_max),
+                   y = Normal_min,
+                   yend = Normal_max),
                color = "#c2afb1",
                size = .75) +
   geom_segment(aes(xend = date,
-                   y = daily_min,
-                   yend = daily_max),
+                   y = Actual_min,
+                   yend = Actual_max),
                color = "#a6003f",
                size = .75) +
   scale_x_date(date_labels = "%b",
