@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 12:11 AM CT, Jul. 08 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110222315/g-20-foreign-ministers-which-includes-russia-china-and-the-u-s-gather-in-bali">G-20 foreign ministers, which includes Russia, China and the U.S., gather in Bali</a> NPR: Secretary of State Antony Blinken is leading the U.S. delegation at the G-20 ministerial meeting. It could be the scene of some awkward diplomatic encounters involving Russia's war in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222238/morning-news-brief">News brief: Boris Johnson, review issued on Uvalde shooting, G-20 preview</a> NPR: British Prime Minister Boris Johnson will officially announce he's stepping down. A report says more could have been done to save the Uvalde massacre victims. G20 members are gathering in Bali. 
- <p class="updated_time"> 04:00 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
