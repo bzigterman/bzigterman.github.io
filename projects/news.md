@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 12:11 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM injured after reported gunshot attack</a> BBC: Shinzo Abe collapsed halfway during his speech, and appeared to be bleeding, media reports say. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM injured after reported gunshot attack</a> BBC: Shinzo Abe collapsed halfway through a speech, and appeared to be bleeding, media reports say. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former PM Shinzo Abe hospitalized after reported shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
- <p class="updated_time"> 09:24 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-south-asia-62083035?at_medium=RSS&at_campaign=KARANGA">Pakistan goat: Long-eared kid becomes star</a> BBC: Simba's ears measure 54cm (21in) each, a length his owner claims breaks global records. 
  <p class="updated_time"> 09:16 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
