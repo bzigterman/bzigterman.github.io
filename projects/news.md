@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62098100?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader's alleged killer held grudge against group - police</a> BBC: The man suspected of killing Japan's ex-PM held a grudge against a group he thought Shinzo Abe was part of, police say. 
+ <p class="updated_time"> 11:35 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110421878/itinerante-un-trio-que-revive-la-musica-andina-de-colombia">Itinerante, un trío que revive la música andina de Colombia</a> NPR: Tocada en tres instrumentos de cuerda, esta música fue la banda sonora del país desde principios del siglo XX hasta la década de 1940. 
+ <p class="updated_time"> 11:12 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs order on abortion access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 10:00 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110453574/shinzo-abe-assassination-japan-photos">Japan's former Prime Minister Shinzo Abe was killed. Here's what the scene was like </a> NPR: Here are photos from the scene when Japan's former leader, Shinzo Abe, was assassinated while giving a campaign speech. 
- <p class="updated_time"> 09:37 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden to sign executive order on safeguarding access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:57 AM CT, Jul. 08 </p> 
@@ -27,8 +31,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110450868/shinzo-abe-brought-transformation-to-japan-that-will-last-for-generations">Shinzo Abe brought transformation to Japan that will last for generations</a> NPR: A Martinez speaks with Michael Green, formerly Japan Chair at the Center for Strategic and International Studies, about former Japanese Prime Minister Shinzo Abe's legacy. 
  <p class="updated_time"> 07:11 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61426699?at_medium=RSS&at_campaign=KARANGA">Angola’s José Eduardo dos Santos: The flawed 'architect of peace'</a> BBC: José Eduardo dos Santos was praised for bringing peace but sullied his reputation clinging to power. 
+ <p class="updated_time"> 06:59 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
  <p class="updated_time"> 06:33 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
+ <p class="updated_time"> 06:20 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-assassinated-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
  <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
@@ -39,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62090649?at_medium=RSS&at_campaign=KARANGA">James Caan: Hollywood pays tribute to late Godfather actor</a> BBC: Al Pacino, Francis Ford Coppola and Robert De Niro lead the tributes to the late Godfather actor. 
  <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
- <p class="updated_time"> 02:46 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
  <p class="updated_time"> 02:05 AM CT, Jul. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
@@ -91,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
- <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
@@ -104,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
  <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order">A new executive order aims to preserve abortion access, but its reach is limited</a> NPR: The order will create a new task force on reproductive health care and to coordinate additional steps to help people access abortions. 
  <p class="updated_time"> 10:06 AM CT, Jul. 08 </p> 
@@ -138,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222259/in-ohio-biden-addressed-a-friendly-crowd-of-labor-leaders-and-union-workers">In Ohio, Biden addressed a friendly crowd of labor leaders and union workers</a> NPR: President Biden flew to Cleveland to make the case for his economic agenda. Polls show Americans have grown pessimistic about his ability to rein in inflation amid growing fears of a recession. 
- <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
 
 
 </details>
