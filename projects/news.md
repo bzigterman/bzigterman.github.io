@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
  <p class="updated_time"> 03:35 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577404/the-legacy-of-japans-longest-serving-prime-minister-shinzo-abe">The legacy of Japan's longest-serving prime minister, Shinzo Abe</a> NPR: The policies of Japan's longest-serving Prime Minister Shinzo Abe were highly controversial, both at home and throughout Asia. But that did not lesson the shock and mourning at his sudden death. 
  <p class="updated_time"> 03:31 PM CT, Jul. 08 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The leader is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
  <p class="updated_time"> 04:56 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
- <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338570/fifa-to-install-ai-to-help-make-accurate-offside-decisions">FIFA to install AI to help make accurate offside decisions</a> NPR: NPR's Juana Summers speaks with ESPN editor Dale Johnson about FIFA's announcement that artificial intelligence cameras will help make offsides calls at the upcoming World Cup. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
 
@@ -110,6 +110,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
+ <p class="updated_time"> 03:50 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577418/the-impact-that-president-bidens-executive-order-on-abortion-access-will-have">The impact that President Biden's executive order on abortion access will have</a> NPR: NPR's Ailsa Chang talks with Kim Mutcherson, dean and professor of law of Rutgers University, about the impact President Biden's executive order on abortion access will have. 
  <p class="updated_time"> 01:55 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110502290/how-to-talk-to-kids-about-abortion-roe-scotus">How do you talk to kids about abortion? We want to hear from you</a> NPR: Following the Supreme Court's decision to overturn Roe v. Wade, we want to hear from parents about you are talking to your kids about abortion. Where do you start? What do you say? 
  <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
@@ -140,10 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338500/bidens-picks-for-the-presidential-medal-of-freedom-largely-reflect-his-own-polit">Biden's picks for the Presidential Medal of Freedom largely reflect his own politics</a> NPR: President Biden gives the Presidential Medal of Freedom — the nation's highest civilian honor —  to a group of 17 people who in large part sum up his political brand. 
- <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rappler-plans-to-fight-government-s-shut-down-order">Filipino online news site Rappler plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
- <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Gabby Giffords, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
 
