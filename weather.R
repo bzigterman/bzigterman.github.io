@@ -758,7 +758,24 @@ dailies <- full_join(daily_maxs,daily_mins)
 
 year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
-  mutate(date = ymd(date))
+  mutate(date = ymd(date)) 
+
+record_his <- year_weather_data %>%
+  mutate(records = case_when(
+    round(Record_max) == round(Actual_max) ~ "Record high",
+    round(Record_min) == round(Actual_min) ~ "Record low",
+    TRUE ~ "")) %>%
+  filter(records == "Record high") %>%
+  select(date,Record_max)
+record_los <- year_weather_data %>%
+  mutate(records = case_when(
+    round(Record_max) == round(Actual_max) ~ "Record high",
+    round(Record_min) == round(Actual_min) ~ "Record low",
+    TRUE ~ "")) %>%
+  filter(records == "Record low")%>%
+  select(date,Record_min)
+
+
 
 year_weather_data_longer <- year_weather_data %>%
   pivot_longer(!date,
@@ -806,6 +823,30 @@ fig <- hchart(year_weather_data_longer, "arearange",
       allowOverlap = TRUE,
       format = "{series.name}: {point.y}°"
     )
+  ) %>%
+  hc_add_series(
+    data = record_his,
+    hcaes(x = date,
+          y = round(Record_max)),
+    type = "scatter",
+    enableMouseTracking = FALSE,
+    marker = list(
+      enabled = TRUE,
+      fillColor = "goldenrod",
+      radius = 3,
+      symbol = "triangle")
+  ) %>%
+  hc_add_series(
+    data = record_los,
+    hcaes(x = date,
+          y = round(Record_min)),
+    type = "scatter",
+    enableMouseTracking = FALSE,
+    marker = list(
+      enabled = TRUE,
+      fillColor = "goldenrod",
+      radius = 3,
+      symbol = "triangle-down")
   ) %>%
   hc_yAxis(title = "",
            labels = list(
