@@ -17,8 +17,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former PM Shinzo Abe hospitalized after reported shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
- <p class="updated_time"> 09:22 PM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Shot</a> WSJ: Former Japanese Prime Minister Shinzo Abe is in a state of cardiopulmonary arrest after being shot during a speech in western Japan, authorities said. 
+ <p class="updated_time"> 09:39 PM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Shot</a> WSJ: Intensive efforts are under way to save the life of Shinzo Abe after he was shot during a speech in western Japan, Prime Minister Fumio Kishida said. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
