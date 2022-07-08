@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:57 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: Tributes have been pouring in from around the world after the former Japanese PM was assassinated. 
+ <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: The US and Brazil lead worldwide mourning for Japan's murdered ex-prime minister. 
+ <p class="updated_time"> 12:17 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110500480/rogers-canada-major-internet-outage">A major internet outage in Canada disrupts ATMs and 911 services</a> NPR: Rogers, a leading telecom provider, suffered an outage Friday, creating disruptions to internet, cellular and cable services throughout Canada. The company has millions of customers. 
  <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 11:42 AM CT, Jul. 08 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are the possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
- <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
