@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577404/the-legacy-of-japans-longest-serving-prime-minister-shinzo-abe">The legacy of Japan's longest-serving prime minister, Shinzo Abe</a> NPR: The policies of Japan's longest-serving Prime Minister Shinzo Abe were highly controversial, both at home and throughout Asia. But that did not lesson the shock and mourning at his sudden death. 
+ <p class="updated_time"> 03:31 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110496036/tasman-keith-didnt-come-here-to-point-fingers">Tasman Keith didn't come here to point fingers</a> NPR: The First Nations rapper comes from "a place of understanding [that] at the end of the day everybody is human and we all have a lack of knowledge that we can expand on." His debut album is out today. 
  <p class="updated_time"> 03:17 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577425/cryptoqueen-ruja-ignatovas-international-scheme-landed-her-on-fbis-most-wanted">'CryptoQueen' Ruja Ignatova's international scheme landed her on FBI's Most Wanted</a> NPR: There is a new name on the FBI's Ten Most Wanted Fugitives list — Ruja Ignatova, known as the CryptoQueen. It's a story of international fraud at a scale rarely seen. 
  <p class="updated_time"> 03:17 PM CT, Jul. 08 </p> 
@@ -25,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100403?at_medium=RSS&at_campaign=KARANGA">Arizona to ban people filming police officers within 8 feet</a> BBC: Opponents of the law have said it violates the constitutional right to free speech and a free press. 
  <p class="updated_time"> 02:25 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
+ <p class="updated_time"> 02:05 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Russian UN veto blocks aid deliveries to 3m people</a> BBC: Russia blocks a Security Council resolution keeping open a key cross-border aid route. 
  <p class="updated_time"> 01:44 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110493901/abe-assassination-gun-laws-violence-japan">Abe's assassination shocks Japan, where gun control is strict and shootings are rare</a> NPR: Japan, with famously strict laws, has among the world's lowest rates of gun ownership and gun violence. In 2018 there were just nine firearm deaths reported in Japan, compared with 39,740 in the U.S. 
  <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
@@ -95,12 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
  <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338570/fifa-to-install-ai-to-help-make-accurate-offside-decisions">FIFA to install AI to help make accurate offside decisions</a> NPR: NPR's Juana Summers speaks with ESPN editor Dale Johnson about FIFA's announcement that artificial intelligence cameras will help make offsides calls at the upcoming World Cup. 
- <p class="updated_time"> 03:54 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338549/the-russian-army-appears-close-to-taking-the-entire-donbas-region">The Russian army appears close to taking the entire Donbas region </a> NPR: Russian troops have taken Luhansk and are headed for Donetsk, pounding cities along the way. When Donetsk falls, which seems likely, Putin will have "liberated the Donbas." But will he be satisfied? 
- <p class="updated_time"> 03:35 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62088103?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin sentenced to 20 years for violating George Floyd's rights</a> BBC: The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd. 
- <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338521/inside-the-courtroom-at-brittney-griners-trial-in-russia">Inside the courtroom at Brittney Griner's trial in Russia</a> NPR: WNBA star Brittney Griner plead guilty to drug charges in Russian court Thursday. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
 
