@@ -767,6 +767,18 @@ year_weather_data_longer <- year_weather_data %>%
   pivot_wider(names_from = min_max,
               values_from = value) 
 year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
+today_weather_data <- year_weather_data %>%
+  mutate("Record high" = Record_max) %>%
+  mutate("Record low"  = Record_min) %>%
+  mutate("Normal high" = Normal_max) %>%
+  mutate("Normal low"  = Normal_min) %>%
+  mutate("Actual high" = Actual_max) %>%
+  mutate("Actual low"  = Actual_min) %>%
+  select(date,"Record high","Record low","Normal high",
+         "Normal low","Actual high","Actual low") %>%
+  filter(date == today(tzone = "America/Chicago"))
+today_weather_data_longer <- today_weather_data %>%
+  pivot_longer(!date)
 
 fig <- hchart(year_weather_data_longer, "arearange", 
               hcaes(x = date,
@@ -774,20 +786,27 @@ fig <- hchart(year_weather_data_longer, "arearange",
                     high = round(max),
                     group = type),
               step = "center",
-              dataLabels = list(
-                enabled = TRUE,
-                align = "right",
-                allowOverlap = TRUE,
-                format = "{series.name}: {point.y}°",
-                filter = list(
-                  property = "date",
-                  operator = '==',
-                  value = ymd(today(tzone = "America/Chicago")))),
               marker = list(
                 radius = 1),
               lineWidth = 0,
               fillOpacity = 1,
               tooltip = list(valueSuffix = "°")) %>%
+  hc_add_series(
+    data = today_weather_data_longer,
+    hcaes(x = date,
+          y = round(value),
+          group = name),
+    type = "scatter",
+    enableMouseTracking = FALSE,
+    marker = list(
+      enabled = FALSE),
+    dataLabels = list(
+      enabled = TRUE,
+      align = "right",
+      allowOverlap = TRUE,
+      format = "{series.name}: {point.y}°"
+    )
+  ) %>%
   hc_yAxis(title = "",
            labels = list(
              format = "{value}°")
