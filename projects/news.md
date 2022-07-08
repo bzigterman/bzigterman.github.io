@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:20 AM CT, Jul. 08 </p> 
+ <p class="updated_time"> 03:09 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM 'in grave condition' after shooting</a> BBC: The 67-year-old is in hospital after he was attacked at a political campaign event. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
@@ -32,7 +32,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62077109?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Daily heartbreak of life in a country gone bankrupt</a> BBC: Living in Sri Lanka is a daily battle and people are broken after months of crisis, writes Andrew Fidel Fernando. 
  <p class="updated_time"> 06:13 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The president is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The leader is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
  <p class="updated_time"> 04:56 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
  <p class="updated_time"> 04:01 PM CT, Jul. 07 </p> 
