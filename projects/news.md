@@ -14,7 +14,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:58 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
@@ -98,6 +98,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:25 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110435757/biden-is-expected-to-sign-an-executive-order-to-protect-abortion-rights">Biden is expected to sign an executive order to protect abortion rights</a> NPR: The White House says President Biden will try to answer the Supreme Court's reversal of Roe v. Wade, and preserve access to abortion services by signing an executive order on reproductive rights. 
  <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110435750/morning-news-brief">News brief: Shinzo Abe, Pat Cipollone, New NPR-Ipsos gun survey</a> NPR: An-ex Japanese prime minister was fatally shot while campaigning. A critical figure in the last days of the Trump era will testify before the Jan. 6 panel. A poll delved into gun-control measures. 
  <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
@@ -132,8 +134,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110210885/georgia-guidestones-monument-damaged-explosion">A Georgia monument, seen by some as satanic, was damaged from a predawn explosion</a> NPR: The roadside attraction was built in 1980 from local granite, commissioned by an unknown person or group under the pseudonym R.C. Christian. 
  <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110147335/uvalde-shooting-victims-and-families-funds">Uvalde shooting victims are not getting funds fast enough, local officials say</a> NPR: Texas state Sen. Roland Gutierrez and Uvalde Mayor Don McLaughlin say they've received complaints about the Uvalde Together Resiliency Center. 
- <p class="updated_time"> 04:55 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110179617/daca-federal-appeals-court-hears-arguments">Appeals court hears arguments over GOP-leaning states' suit to end DACA</a> NPR: A federal judge in Texas last year declared the Deferred Action for Childhood Arrivals program dead but left it intact while his order is appealed by the Justice Department and advocacy groups. 
 
 
 </details>
