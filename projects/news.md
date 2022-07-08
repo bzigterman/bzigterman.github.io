@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: Tributes have been pouring in from around the world after the former Japanese PM was assassinated. 
+ <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 11:42 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62098100?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader's alleged killer held grudge against group - police</a> BBC: The man suspected of killing Japan's ex-PM held a grudge against a group he thought Shinzo Abe was part of, police say. 
  <p class="updated_time"> 11:35 AM CT, Jul. 08 </p> 
@@ -23,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110457107/what-shinzo-abes-assassination-means-for-japans-political-landscape">What Shinzo Abe's assassination means for Japan's political landscape</a> NPR: Leila Fadel speaks with James D.J. Brown, associate professor of political science at Temple University's Japan Campus, about the death of former Japanese Prime Minister Shinzo Abe. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
- <p class="updated_time"> 08:27 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader assassinated while giving speech</a> BBC: A man has admitted to shooting the former PM during a campaign event in the city of Nara, police say. 
  <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092196?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Moscow politician gets 7 years for denouncing war</a> BBC: Councillor Alexei Gorinov gets reportedly the first jail term under a law criminalising dissent. 
  <p class="updated_time"> 07:20 AM CT, Jul. 08 </p> 
@@ -89,18 +91,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are the possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
- <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
+ <p class="updated_time"> 12:39 AM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: India reduces gap between second jab and booster dose</a> BBC: The gap between the second and third doses of the Covid vaccine has been reduced to six months. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
- <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
 
 
 </details>
