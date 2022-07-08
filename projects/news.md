@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:09 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM 'in grave condition' after shooting</a> BBC: The 67-year-old is in hospital after he was attacked at a political campaign event. 
+ <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM assassinated at campaign event</a> BBC: A gunman shot at him twice while he was delivering a speech in the southern city of Nara. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former PM Shinzo Abe hospitalized after reported shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
+ <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former Japan PM Shinzo Abe hospitalized after shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
  <p class="updated_time"> 10:11 PM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Shot</a> WSJ: Intensive efforts are under way to save the life of Shinzo Abe after he was shot during a speech in western Japan, Prime Minister Fumio Kishida said. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
@@ -100,6 +100,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110299496/trigger-laws-13-states-two-groups-laid-groundwork">Who and what is behind abortion ban trigger law bills? Two groups laid the groundwork</a> NPR: Two national organizations have gained a reputation for taking the lead on model legislation to restrict and block abortions. Now, states are needing to grapple with the laws they passed. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110239487/most-gun-owners-favor-modest-restrictions-but-deeply-distrust-government-poll-fi">Most gun owners favor modest restrictions but deeply distrust government, poll finds</a> NPR: Overwhelming majorities want to see universal background checks, raising the age to buy any kind of gun to 21 and red flag laws. But just a quarter trust the government to look out for them. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110289142/mississippi-abortion-clinic-shuts-down">Mississippi's last abortion clinic shuts down. The owner promises to continue working</a> NPR: The clinic is now headed to Las Cruces, New Mexico, about 40 miles north of El Paso, Texas. 
  <p class="updated_time"> 06:33 PM CT, Jul. 07 </p> 
@@ -132,10 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110179617/daca-federal-appeals-court-hears-arguments">Appeals court hears arguments over GOP-leaning states' suit to end DACA</a> NPR: A federal judge in Texas last year declared the Deferred Action for Childhood Arrivals program dead but left it intact while his order is appealed by the Justice Department and advocacy groups. 
  <p class="updated_time"> 04:15 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110155980/despite-waning-support-from-his-party-britains-boris-johnson-says-he-wont-resign">Despite waning support from his party, Britain's Boris Johnson says he won't resign</a> NPR: British Prime Minister Boris Johnson remains defiant, insisting he won't resign after another crisis rocked his leadership. 
- <p class="updated_time"> 12:58 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110024565/biden-letter-brittney-griner-wife">As calls grow to free Brittney Griner, Biden says he's spoken with her wife</a> NPR: The White House said President Biden and Vice President Harris spoke with Cherelle Griner on Wednesday, as more of the WNBA star's supporters publicly petition him to do more to secure her release. 
- <p class="updated_time"> 11:22 AM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110036950/cipollone-testify-jan-6-committee">Cipollone will testify behind closed doors to the Jan. 6 committee on Friday</a> NPR: Testimony in the panel's hearings so far has shown the former White House counsel present at key points in the lead-up to Jan. 6 and on the day of the attack. 
 
 
 </details>
