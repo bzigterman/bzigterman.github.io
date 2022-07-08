@@ -820,6 +820,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
     dataLabels = list(
       enabled = TRUE,
       align = "right",
+      verticalAlign = "middle",
       allowOverlap = TRUE,
       format = "{series.name}: {point.y}°"
     )
