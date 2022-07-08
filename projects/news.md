@@ -9,20 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader assassinated while giving speech</a> BBC: A man has admitted to shooting the former PM during a campaign event in the city of Nara, police say. 
+ <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62092196?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Moscow politician gets 7 years for denouncing war</a> BBC: Councillor Alexei Gorinov gets reportedly the first jail term under a law criminalising dissent. 
+ <p class="updated_time"> 07:20 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110450868/shinzo-abe-brought-transformation-to-japan-that-will-last-for-generations">Shinzo Abe brought transformation to Japan that will last for generations</a> NPR: A Martinez speaks with Michael Green, formerly Japan Chair at the Center for Strategic and International Studies, about former Japanese Prime Minister Shinzo Abe's legacy. 
+ <p class="updated_time"> 07:11 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61426699?at_medium=RSS&at_campaign=KARANGA">Angola’s José Eduardo dos Santos: The flawed 'architect of peace'</a> BBC: José Eduardo dos Santos was praised for bringing peace but sullied his reputation clinging to power. 
  <p class="updated_time"> 06:33 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
- <p class="updated_time"> 06:30 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Explosives found at shooting suspect's home - reports</a> BBC: The alleged gunman shot the former PM twice during a campaign event in the city of Nara. 
+ <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
+ <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
+ <p class="updated_time"> 03:53 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he is known for his signature economic reforms and an assertive foreign policy. 
+ <p class="updated_time"> 03:40 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62090649?at_medium=RSS&at_campaign=KARANGA">James Caan: Hollywood pays tribute to late Godfather actor</a> BBC: Al Pacino, Francis Ford Coppola and Robert De Niro lead the tributes to the late Godfather actor. 
+ <p class="updated_time"> 03:09 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
+ <p class="updated_time"> 02:46 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
+ <p class="updated_time"> 02:05 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
- <p class="updated_time"> 12:58 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
- <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
+ <p class="updated_time"> 12:30 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602">Food Insecurity Hits Rich Countries as Inflation Makes Basics Unaffordable for Many</a> WSJ: Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations. 
+ <p class="updated_time"> 11:52 PM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/soft-opening-for-hong-kongs-new-runway-shows-citys-risk-of-hard-landing-11657270317">Hong Kong's Airport Expands Even as It Struggles to Keep Hub Status</a> WSJ: A much anticipated new runway opened for commercial flights on Friday, part of a yearslong infrastructure revamp that the government said would be vital to Hong Kong’s future as a global trade and finance hub. 
+ <p class="updated_time"> 10:45 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62083917?at_medium=RSS&at_campaign=KARANGA">Mumbai floods: India city on red alert for further rain</a> BBC: The city is expected to receive heavy to very heavy rainfall on Friday, leading to more floods. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Ex-Japan leader Shinzo Abe fatally shot</a> NPR: Former Japanese Prime Minister Shinzo Abe has died after being shot during a campaign speech Friday in western Japan. 
- <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088872?at_medium=RSS&at_campaign=KARANGA">US probes rare, intensive audits of Trump critics</a> BBC: Ex-FBI heads James Comey and Andrew McCabe were subjected to rigorous checks during Trump's presidency. 
  <p class="updated_time"> 07:00 PM CT, Jul. 07 </p> 
@@ -43,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338549/the-russian-army-appears-close-to-taking-the-entire-donbas-region">The Russian army appears close to taking the entire Donbas region </a> NPR: Russian troops have taken Luhansk and are headed for Donetsk, pounding cities along the way. When Donetsk falls, which seems likely, Putin will have "liberated the Donbas." But will he be satisfied? 
  <p class="updated_time"> 03:35 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088103?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin sentenced to 20 years for violating George Floyd's rights</a> BBC: The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd. 
- <p class="updated_time"> 03:23 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61902378?at_medium=RSS&at_campaign=KARANGA">Theranos exec Sunny Balwani convicted of fraud</a> BBC: He and fraudster Elizabeth Holmes ran the Silicon Valley company as a couple before its implosion. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338521/inside-the-courtroom-at-brittney-griners-trial-in-russia">Inside the courtroom at Brittney Griner's trial in Russia</a> NPR: WNBA star Brittney Griner plead guilty to drug charges in Russian court Thursday. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -57,34 +77,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62085274?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Putin dares West as Zelensky pays tribute to Johnson</a> BBC: Russian forces push into the eastern Donetsk where one civilian died on Thursday after a missile strike. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are 5 possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
- <p class="updated_time"> 01:54 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">James Caan: Oscar-nominated actor and Godfather star dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
- <p class="updated_time"> 01:03 PM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
  <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortions stopped at Mississippi's last clinic as trigger ban enacted</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
- <p class="updated_time"> 11:59 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
- <p class="updated_time"> 11:50 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
- <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
- <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110222315/g-20-foreign-ministers-which-includes-russia-china-and-the-u-s-gather-in-bali">G-20 foreign ministers, which includes Russia, China and the U.S., gather in Bali</a> NPR: Secretary of State Antony Blinken is leading the U.S. delegation at the G-20 ministerial meeting. It could be the scene of some awkward diplomatic encounters involving Russia's war in Ukraine. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
@@ -98,6 +106,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
+ <p class="updated_time"> 07:41 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110257412/jobs-hiring-unemployment-data-june">Hiring slipped only slightly in June, with no sign of a looming recession</a> NPR: U.S. employers added 372,000 jobs in June, while the unemployment rate held steady at 3.6%. Despite slightly slower job growth, the labor market remains an economic bright spot. 
  <p class="updated_time"> 06:25 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110435757/biden-is-expected-to-sign-an-executive-order-to-protect-abortion-rights">Biden is expected to sign an executive order to protect abortion rights</a> NPR: The White House says President Biden will try to answer the Supreme Court's reversal of Roe v. Wade, and preserve access to abortion services by signing an executive order on reproductive rights. 
  <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
@@ -112,6 +124,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110289142/mississippi-abortion-clinic-shuts-down">Mississippi's last abortion clinic shuts down. The owner promises to continue working</a> NPR: The clinic is now headed to Las Cruces, New Mexico, about 40 miles north of El Paso, Texas. 
  <p class="updated_time"> 06:33 PM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 06:06 PM CT, Jul. 07 </p> 
+ <a href="https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html">Zelensky says Ukraine will not give up territory for peace with Russia: 'This is our land'</a> CNN: Ukrainian President Volodymyr Zelensky told CNN's Wolf Blitzer on Thursday that Ukraine is unwilling to cede any of its land to Russia, standing firm that a concession of Ukrainian territory won't be part of any diplomatic negotiations to end the war. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -128,12 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
  <p class="updated_time"> 04:00 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110165323/self-induced-abortions-can-raise-medical-and-legal-questions-for-doctors">Self-induced abortions can raise medical — and legal — questions for doctors</a> NPR: Doctors are thinking about how to help women who have questions or concerns after taking abortion pills at home — without putting themselves or their patients in jeopardy. 
- <p class="updated_time"> 10:01 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110214369/lindsey-graham-will-fight-georgia-2020-election-subpoena-his-lawyers-say">Lindsey Graham will fight Georgia 2020 election subpoena, his lawyers say</a> NPR: Graham's attorneys slammed the investigation into former President Donald Trump and his allies' actions in Georgia after the 2020 election as being coordinated with the Jan. 6 committee. 
- <p class="updated_time"> 09:06 PM CT, Jul. 06 </p> 
- <a href="https://www.cnn.com/2022/07/06/politics/state-abortion-laws-legal-challenges/index.html">Where state abortion bans stand amid legal challenges</a> CNN: In more than a dozen states, legal fights are underway over abortion bans and other laws that greatly limit the procedure after the US Supreme Court ended a constitutional right to an abortion on June 24. 
- <p class="updated_time"> 08:51 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110210885/georgia-guidestones-monument-damaged-explosion">A Georgia monument, seen by some as satanic, was damaged from a predawn explosion</a> NPR: The roadside attraction was built in 1980 from local granite, commissioned by an unknown person or group under the pseudonym R.C. Christian. 
 
 
 </details>
