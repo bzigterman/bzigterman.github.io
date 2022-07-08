@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden calls for federal law to restore abortion rights</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: The US and Brazil lead worldwide mourning for Japan's murdered ex-prime minister. 
  <p class="updated_time"> 12:17 PM CT, Jul. 08 </p> 
@@ -19,14 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62098100?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader's alleged killer held grudge against group - police</a> BBC: The man suspected of killing Japan's ex-PM held a grudge against a group he thought Shinzo Abe was part of, police say. 
  <p class="updated_time"> 11:35 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110421878/itinerante-un-trio-que-revive-la-musica-andina-de-colombia">Itinerante, un trío que revive la música andina de Colombia</a> NPR: Tocada en tres instrumentos de cuerda, esta música fue la banda sonora del país desde principios del siglo XX hasta la década de 1940. 
- <p class="updated_time"> 11:12 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs order on abortion access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 10:00 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110453574/shinzo-abe-assassination-japan-photos">Japan's former Prime Minister Shinzo Abe was killed. Here's what the scene was like </a> NPR: Here are photos from the scene when Japan's former leader, Shinzo Abe, was assassinated while giving a campaign speech. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:57 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110457107/what-shinzo-abes-assassination-means-for-japans-political-landscape">What Shinzo Abe's assassination means for Japan's political landscape</a> NPR: Leila Fadel speaks with James D.J. Brown, associate professor of political science at Temple University's Japan Campus, about the death of former Japanese Prime Minister Shinzo Abe. 
+ <p class="updated_time"> 08:47 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
  <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
@@ -41,24 +43,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
  <p class="updated_time"> 06:20 AM CT, Jul. 08 </p> 
  <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-assassinated-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
+ <p class="updated_time"> 06:18 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-western-diplomats-clash-at-g-20-gathering-in-bali-11657293508">Russian, Western Diplomats Clash at G-20 Gathering in Bali</a> WSJ: Tensions over the war in Ukraine dominated the meetings, with Moscow’s foreign minister claiming “frenzied Russophobia.” 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
  <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
+ <p class="updated_time"> 04:18 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437">José Eduardo dos Santos, Autocrat Who Led Angola, Dies</a> WSJ: The former president, who brutally crushed dissent during his 38 years in power as those around him grew rich, died in a hospital in Barcelona following a long illness. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
  <p class="updated_time"> 03:40 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62090649?at_medium=RSS&at_campaign=KARANGA">James Caan: Hollywood pays tribute to late Godfather actor</a> BBC: Al Pacino, Francis Ford Coppola and Robert De Niro lead the tributes to the late Godfather actor. 
  <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
- <p class="updated_time"> 02:05 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
- <p class="updated_time"> 12:30 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602">Food Prices Squeeze Poorest in Rich Countries</a> WSJ: Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations. 
- <p class="updated_time"> 11:52 PM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/soft-opening-for-hong-kongs-new-runway-shows-citys-risk-of-hard-landing-11657270317">Hong Kong's Airport Expands Even as It Struggles to Keep Hub Status</a> WSJ: A much anticipated new runway opened for commercial flights on Friday, part of a yearslong infrastructure revamp that the government said would be vital to Hong Kong’s future as a global trade and finance hub. 
  <p class="updated_time"> 10:45 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083917?at_medium=RSS&at_campaign=KARANGA">Mumbai floods: India city on red alert for further rain</a> BBC: The city is expected to receive heavy to very heavy rainfall on Friday, leading to more floods. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
@@ -93,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are the possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
- <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 12:39 AM CT, Jul. 07 </p> 
