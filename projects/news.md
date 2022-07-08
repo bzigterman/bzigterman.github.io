@@ -9,10 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577425/cryptoqueen-ruja-ignatovas-international-scheme-landed-her-on-fbis-most-wanted">'CryptoQueen' Ruja Ignatova's international scheme landed her on FBI's Most Wanted</a> NPR: There is a new name on the FBI's Ten Most Wanted Fugitives list — Ruja Ignatova, known as the CryptoQueen. It's a story of international fraud at a scale rarely seen. 
+ <p class="updated_time"> 03:17 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577369/one-man-s-efforts-to-lighten-the-spirits-of-displaced-children-in-western-ukrain">One man's efforts to lighten the spirits of displaced children in western Ukraine</a> NPR: In a western Ukraine town that's refuge to people from the war in the east, a clown who is a refugee himself tries to keep up children's spirits. 
+ <p class="updated_time"> 03:17 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110577355/japan-grapples-with-the-killing-of-former-prime-minister-shinzo-abe">Japan grapples with the killing of former Prime Minister Shinzo Abe</a> NPR: NPR's Juana Summers speaks with Motoko Rich of 'The New York Times' about the killing of former Prime Minister Shinzo Abe. 
+ <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
+ <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden calls for federal law to restore abortion rights</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
+ <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62102019?at_medium=RSS&at_campaign=KARANGA">US border agents' horseback charge on Haiti migrants 'unnecessary'</a> BBC: The US border control agency said the actions of its agents potentially violated US immigration law. 
+ <p class="updated_time"> 02:31 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62100403?at_medium=RSS&at_campaign=KARANGA">Arizona to ban people filming police officers within 8 feet</a> BBC: Opponents of the law have said it violates the constitutional right to free speech and a free press. 
+ <p class="updated_time"> 02:25 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 01:44 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110493901/abe-assassination-gun-laws-violence-japan">Abe's assassination shocks Japan, where gun control is strict and shootings are rare</a> NPR: Japan, with famously strict laws, has among the world's lowest rates of gun ownership and gun violence. In 2018 there were just nine firearm deaths reported in Japan, compared with 39,740 in the U.S. 
- <p class="updated_time"> 01:18 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden calls for federal law to restore abortion rights</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: The US and Brazil lead worldwide mourning for Japan's murdered ex-prime minister. 
  <p class="updated_time"> 12:17 PM CT, Jul. 08 </p> 
@@ -59,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437">José Eduardo dos Santos, Autocrat Who Led Angola, Dies</a> WSJ: The former president, who brutally crushed dissent during his 38 years in power as those around him grew rich, died in a hospital in Barcelona following a long illness. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
- <p class="updated_time"> 03:40 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62090649?at_medium=RSS&at_campaign=KARANGA">James Caan: Hollywood pays tribute to late Godfather actor</a> BBC: Al Pacino, Francis Ford Coppola and Robert De Niro lead the tributes to the late Godfather actor. 
  <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
@@ -73,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088872?at_medium=RSS&at_campaign=KARANGA">US probes rare, intensive audits of Trump critics</a> BBC: Ex-FBI heads James Comey and Andrew McCabe were subjected to rigorous checks during Trump's presidency. 
  <p class="updated_time"> 07:00 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088862?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell appeals against sex trafficking conviction</a> BBC: Ghislaine Maxwell formally filed her appeal nine days after her conviction for child sex trafficking. 
- <p class="updated_time"> 06:22 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62001336?at_medium=RSS&at_campaign=KARANGA">The US army base training Ukrainian fighters</a> BBC: American style training at Fort Leavenworth stands in contrast to Soviet-style military education. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
  <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
@@ -91,18 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088103?at_medium=RSS&at_campaign=KARANGA">Derek Chauvin sentenced to 20 years for violating George Floyd's rights</a> BBC: The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338521/inside-the-courtroom-at-brittney-griners-trial-in-russia">Inside the courtroom at Brittney Griner's trial in Russia</a> NPR: WNBA star Brittney Griner plead guilty to drug charges in Russian court Thursday. 
- <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
- <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338493/brittney-griners-supporters-want-you-to-know-what-its-like-for-women-in-the-wnba">Brittney Griner's supporters want you to know what it's like for women in the WNBA</a> NPR: NPR's Juana Summers speaks with Nadine Domond, head of women's basketball at Virginia State University, about the work to bring attention to Brittney Griner's case. 
- <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rappler-plans-to-fight-government-s-shut-down-order">Filipino online news site Rappler plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
- <p class="updated_time"> 12:39 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: India reduces gap between second jab and booster dose</a> BBC: The gap between the second and third doses of the Covid vaccine has been reduced to six months. 
- <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
 
 
 </details>
