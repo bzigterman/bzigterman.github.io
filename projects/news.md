@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110493901/abe-assassination-gun-laws-violence-japan">Abe's assassination shocks Japan, where gun control is strict and shootings are rare</a> NPR: Japan, with famously strict laws, has among the world's lowest rates of gun ownership and gun violence. In 2018 there were just nine firearm deaths reported in Japan, compared with 39,740 in the U.S. 
  <p class="updated_time"> 01:18 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden calls for federal law to restore abortion rights</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
@@ -90,9 +92,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338493/brittney-griners-supporters-want-you-to-know-what-its-like-for-women-in-the-wnba">Brittney Griner's supporters want you to know what it's like for women in the WNBA</a> NPR: NPR's Juana Summers speaks with Nadine Domond, head of women's basketball at Virginia State University, about the work to bring attention to Brittney Griner's case. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
- <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are the possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
+ <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rappler-plans-to-fight-government-s-shut-down-order">Filipino online news site Rappler plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 12:39 AM CT, Jul. 07 </p> 
@@ -106,6 +106,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:55 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110502290/how-to-talk-to-kids-about-abortion-roe-scotus">How do you talk to kids about abortion? We want to hear from you</a> NPR: Following the Supreme Court's decision to overturn Roe v. Wade, we want to hear from parents about you are talking to your kids about abortion. Where do you start? What do you say? 
  <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
  <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
@@ -135,13 +137,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338500/bidens-picks-for-the-presidential-medal-of-freedom-largely-reflect-his-own-polit">Biden's picks for the Presidential Medal of Freedom largely reflect his own politics</a> NPR: President Biden gives the Presidential Medal of Freedom — the nation's highest civilian honor —  to a group of 17 people who in large part sum up his political brand. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
+ <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rappler-plans-to-fight-government-s-shut-down-order">Filipino online news site Rappler plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Gabby Giffords, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
- <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110222259/in-ohio-biden-addressed-a-friendly-crowd-of-labor-leaders-and-union-workers">In Ohio, Biden addressed a friendly crowd of labor leaders and union workers</a> NPR: President Biden flew to Cleveland to make the case for his economic agenda. Polls show Americans have grown pessimistic about his ability to rein in inflation amid growing fears of a recession. 
 
 
 </details>
