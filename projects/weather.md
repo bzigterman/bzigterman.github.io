@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 11:53 PM CT, July 07</p>
+<p class="updated_time"> Latest data: 12:06 AM CT, July 08</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -19,9 +19,9 @@ webappicon: /weather.png
 Currently:
 
 - 75°
-- overcast clouds
+- mist
 - 98% humidity
-- 1 mph wind
+- 6 mph wind
 
 ## Temperature History
 
@@ -34,7 +34,7 @@ Currently:
 <iframe src="/interactive/champaign_weather_year.html" width="100%" height="500"> 
 </iframe>
 
-## Almanac for July 07
+## Almanac for July 08
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_almanac.png"
