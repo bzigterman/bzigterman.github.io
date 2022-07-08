@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:00 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110453574/shinzo-abe-assassination-japan-photos">Japan's former Prime Minister Shinzo Abe was killed. Here's what the scene was like </a> NPR: Here are photos from the scene when Japan's former leader, Shinzo Abe, was assassinated while giving a campaign speech. 
  <p class="updated_time"> 09:37 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">US Abortion: Biden to sign executive order on safeguarding access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden to sign executive order on safeguarding access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:57 AM CT, Jul. 08 </p> 
@@ -31,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
- <p class="updated_time"> 05:04 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
  <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
@@ -48,7 +46,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:30 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602">Food Insecurity Hits Rich Countries as Inflation Makes Basics Unaffordable for Many</a> WSJ: Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations. 
+ <a href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602">Food Prices Squeeze Poorest in Rich Countries</a> WSJ: Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations. 
  <p class="updated_time"> 11:52 PM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/soft-opening-for-hong-kongs-new-runway-shows-citys-risk-of-hard-landing-11657270317">Hong Kong's Airport Expands Even as It Struggles to Keep Hub Status</a> WSJ: A much anticipated new runway opened for commercial flights on Friday, part of a yearslong infrastructure revamp that the government said would be vital to Hong Kong’s future as a global trade and finance hub. 
  <p class="updated_time"> 10:45 PM CT, Jul. 07 </p> 
@@ -106,6 +104,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order">A new executive order aims to preserve abortion access, but its reach is limited</a> NPR: The order will create a new task force on reproductive health care and to coordinate additional steps to help people access abortions. 
+ <p class="updated_time"> 10:06 AM CT, Jul. 08 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
  <p class="updated_time"> 07:41 AM CT, Jul. 08 </p> 
@@ -122,8 +124,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110239487/most-gun-owners-favor-modest-restrictions-but-deeply-distrust-government-poll-fi">Most gun owners favor modest restrictions but deeply distrust government, poll finds</a> NPR: Overwhelming majorities want to see universal background checks, raising the age to buy any kind of gun to 21 and red flag laws. But just a quarter trust the government to look out for them. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110289142/mississippi-abortion-clinic-shuts-down">Mississippi's last abortion clinic shuts down. The owner promises to continue working</a> NPR: The clinic is now headed to Las Cruces, New Mexico, about 40 miles north of El Paso, Texas. 
- <p class="updated_time"> 06:33 PM CT, Jul. 07 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html">Zelensky says Ukraine will not give up territory for peace with Russia: 'This is our land'</a> CNN: Ukrainian President Volodymyr Zelensky told CNN's Wolf Blitzer on Thursday that Ukraine is unwilling to cede any of its land to Russia, standing firm that a concession of Ukrainian territory won't be part of any diplomatic negotiations to end the war. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -140,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110222259/in-ohio-biden-addressed-a-friendly-crowd-of-labor-leaders-and-union-workers">In Ohio, Biden addressed a friendly crowd of labor leaders and union workers</a> NPR: President Biden flew to Cleveland to make the case for his economic agenda. Polls show Americans have grown pessimistic about his ability to rein in inflation amid growing fears of a recession. 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
- <p class="updated_time"> 04:00 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110165323/self-induced-abortions-can-raise-medical-and-legal-questions-for-doctors">Self-induced abortions can raise medical — and legal — questions for doctors</a> NPR: Doctors are thinking about how to help women who have questions or concerns after taking abortion pills at home — without putting themselves or their patients in jeopardy. 
 
 
 </details>
