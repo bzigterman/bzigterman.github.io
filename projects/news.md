@@ -15,10 +15,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
- <p class="updated_time"> 12:06 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Dies After Being Shot</a> WSJ: Former Japanese Prime Minister Shinzo Abe died after being shot during a speech on Friday, public broadcaster NHK reported, citing officials in the country’s ruling party. 
+ <p class="updated_time"> 12:32 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Dies After Being Shot</a> WSJ: Shinzo Abe, Japan’s longest serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former Japan PM Shinzo Abe hospitalized after shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
+ <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Ex-Japan leader Shinzo Abe fatally shot, public broadcaster reports</a> NPR: Former Japanese Prime Minister Shinzo Abe has died after being shot during a campaign speech Friday in western Japan, according to NHK public television. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
