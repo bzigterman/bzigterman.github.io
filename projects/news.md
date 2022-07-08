@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110453574/shinzo-abe-assassination-japan-photos">Japan's former Prime Minister Shinzo Abe was killed. Here's what the scene was like </a> NPR: Here are photos from the scene when Japan's former leader, Shinzo Abe, was assassinated while giving a campaign speech. 
+ <p class="updated_time"> 09:37 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62096252?at_medium=RSS&at_campaign=KARANGA">US Abortion: Biden to sign executive order on safeguarding access</a> BBC: The order comes amid pressure on the US president to take more action to safeguard abortion access. 
+ <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:57 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110457107/what-shinzo-abes-assassination-means-for-japans-political-landscape">What Shinzo Abe's assassination means for Japan's political landscape</a> NPR: Leila Fadel speaks with James D.J. Brown, associate professor of political science at Temple University's Japan Campus, about the death of former Japanese Prime Minister Shinzo Abe. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
@@ -78,11 +84,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-62085274?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Putin dares West as Zelensky pays tribute to Johnson</a> BBC: Russian forces push into the eastern Donetsk where one civilian died on Thursday after a missile strike. 
- <p class="updated_time"> 02:37 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110269611/boris-johnson-possible-contenders-successor-uk-conservative-party-prime-minister">Here are the possible contenders to replace Boris Johnson as U.K. prime minister</a> NPR: The search is on for the next Conservative Party leader — and ultimately a new prime minister. This is a look at several potential candidates for the job. 
- <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortions stopped at Mississippi's last clinic as trigger ban enacted</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
- <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
