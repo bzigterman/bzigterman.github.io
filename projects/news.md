@@ -29,10 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:57 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110457107/what-shinzo-abes-assassination-means-for-japans-political-landscape">What Shinzo Abe's assassination means for Japan's political landscape</a> NPR: Leila Fadel speaks with James D.J. Brown, associate professor of political science at Temple University's Japan Campus, about the death of former Japanese Prime Minister Shinzo Abe. 
+ <p class="updated_time"> 08:48 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/post-brexit-turmoil-inflation-energypose-challenges-for-successor-to-u-k-s-boris-johnson-11657299995">Post-Brexit Turmoil, Inflation, EnergyPose Tests for Johnson's Successor</a> WSJ: Brexit has been a chronic drag on British growth, compounding the pain of inflation that is the highest among the G-7 economies 
  <p class="updated_time"> 08:47 AM CT, Jul. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
+ <p class="updated_time"> 08:32 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-vetoes-u-n-measure-on-cross-border-aid-to-northern-syria-11657301536">Russia Vetoes U.N. Measure on Cross-Border Aid to Northern Syria</a> WSJ: Russia vetoed a Western measure to continue United Nations aid to more than four million people in a rebel held-area of northern Syria, prompting fears of a humanitarian crisis. 
  <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092196?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Moscow politician gets 7 years for denouncing war</a> BBC: Councillor Alexei Gorinov gets reportedly the first jail term under a law criminalising dissent. 
  <p class="updated_time"> 07:20 AM CT, Jul. 08 </p> 
