@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Japan ex-leader Shinzo Abe apparently shot, Japanese public broadcaster reports</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
+ <p class="updated_time"> 10:42 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM injured after reported gunshot attack</a> BBC: Shinzo Abe collapsed halfway during his speech, and appeared to be bleeding, media reports say. 
+ <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088872?at_medium=RSS&at_campaign=KARANGA">US probes rare, intensive audits of Trump critics</a> BBC: Ex-FBI heads James Comey and Andrew McCabe were subjected to rigorous checks during Trump's presidency. 
  <p class="updated_time"> 07:00 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62088862?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell appeals against sex trafficking conviction</a> BBC: Ghislaine Maxwell formally filed her appeal nine days after her conviction for child sex trafficking. 
+ <p class="updated_time"> 06:52 PM CT, Jul. 07 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Ex-Japanese Prime Minister, Collapses; Gunshots Heard at Scene</a> WSJ: Abe appeared to be bleeding after the incident and was transferred to a hospital, a report said. He appeared to be in a state of cardiopulmonary arrest, indicating his life may be in danger. 
  <p class="updated_time"> 06:22 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62001336?at_medium=RSS&at_campaign=KARANGA">The US army base training Ukrainian fighters</a> BBC: American style training at Fort Leavenworth stands in contrast to Soviet-style military education. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
@@ -55,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
  <p class="updated_time"> 11:50 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
- <p class="updated_time"> 11:33 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-62083036?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: What does the world make of UK PM's exit?</a> BBC: Our correspondents from around the globe share the view from foreign capitals. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
  <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
@@ -71,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
- <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/strikes-roll-across-europe-as-unions-push-for-higher-wages-to-offset-inflation-11657209750">Strikes Roll Across Europe as Unions Push for Higher Wages to Offset Inflation</a> WSJ: Workers are staging walkouts and demanding pay increases, some of double digits in percentage terms, as the cost of living rises. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
@@ -85,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110222238/morning-news-brief">News brief: Boris Johnson, review issued on Uvalde shooting, G-20 preview</a> NPR: British Prime Minister Boris Johnson will officially announce he's stepping down. A report says more could have been done to save the Uvalde massacre victims. G20 members are gathering in Bali. 
  <p class="updated_time"> 04:00 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110123695/abortion-roe-latin-america-green-wave">What the U.S. can learn from abortion rights wins in Latin America</a> NPR: In the last two years, Mexico, Argentina and Colombia have decriminalized or fully legalized abortion. Here's what Latin America's green wave can teach the movement in the U.S. 
- <p class="updated_time"> 01:15 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110219180/record-number-of-people-worldwide-are-moving-toward-starvation-u-n-warns">Record number of people worldwide are moving toward starvation, U.N. warns</a> NPR: The spike in food, fuel and fertilizer prices sparked by the war in Ukraine is threatening to push countries around the world into famine, a U.N. official warns. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
