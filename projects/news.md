@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:37 PM CT, Jul. 07 </p> 
+ <p class="updated_time"> 12:11 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM injured after reported gunshot attack</a> BBC: Shinzo Abe collapsed halfway during his speech, and appeared to be bleeding, media reports say. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former PM Shinzo Abe hospitalized after reported shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
