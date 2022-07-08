@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62088872?at_medium=RSS&at_campaign=KARANGA">US probes rare, intensive audits of Trump critics</a> BBC: Ex-FBI heads James Comey and Andrew McCabe were subjected to rigorous checks during Trump's presidency. 
+ <p class="updated_time"> 07:00 PM CT, Jul. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62088862?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell appeals against sex trafficking conviction</a> BBC: Ghislaine Maxwell formally filed her appeal nine days after her conviction for child sex trafficking. 
  <p class="updated_time"> 06:22 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62001336?at_medium=RSS&at_campaign=KARANGA">The US army base training Ukrainian fighters</a> BBC: American style training at Fort Leavenworth stands in contrast to Soviet-style military education. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
@@ -43,14 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62087285?at_medium=RSS&at_campaign=KARANGA">James Caan: Oscar-nominated actor and Godfather star dies at 82</a> BBC: The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film. 
  <p class="updated_time"> 01:03 PM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686">Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</a> WSJ: President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities. 
- <p class="updated_time"> 12:51 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/technology-62084952?at_medium=RSS&at_campaign=KARANGA">Elon Musk became father of twins last year, say reports</a> BBC: The Tesla chief executive says he is trying "to help the underpopulation crisis" in the world. 
  <p class="updated_time"> 12:47 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62082595?at_medium=RSS&at_campaign=KARANGA">Abortions stopped at Mississippi's last clinic as trigger ban enacted</a> BBC: A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut. 
  <p class="updated_time"> 12:31 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-52040194?at_medium=RSS&at_campaign=KARANGA">James Caan: 10 memorable roles</a> BBC: The late US actor, who has died aged 82, starred in films including The Godfather, Misery and Elf. 
- <p class="updated_time"> 12:13 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62077425?at_medium=RSS&at_campaign=KARANGA">Poland confirms scientist being detained in Iran</a> BBC: Iranian state TV reported that the man was arrested for taking soil samples in a restricted area. 
  <p class="updated_time"> 11:59 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62077691?at_medium=RSS&at_campaign=KARANGA">Boris Johnson: World reacts as UK PM resigns</a> BBC: President Putin's spokesman says "he doesn't like us and we don't like him either". 
  <p class="updated_time"> 11:50 AM CT, Jul. 07 </p> 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-south-asia-62083035?at_medium=RSS&at_campaign=KARANGA">Pakistan goat: Long-eared kid becomes star</a> BBC: Simba's ears measure 54cm (21in) each, a length his owner claims breaks global records. 
  <p class="updated_time"> 09:16 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
- <p class="updated_time"> 09:12 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62073675?at_medium=RSS&at_campaign=KARANGA">Georgia Guidestones: 'America's Stonehenge' demolished after blast</a> BBC: The granite monument in the US state of Georgia was seen as satanic by some people. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
@@ -79,10 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110061446/boris-johnson-resigns-uk-prime-minister">Boris Johnson resigns not over policies but deep concerns about his character</a> NPR: Britain's prime minister steps down as leader of the Conservative Party after a slew of members of his government said they could no longer serve under his scandal-tarred leadership. 
  <p class="updated_time"> 06:39 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110229049/brittney-griner-trial-hearing-russia">Brittney Griner pleads guilty to drug charges </a> NPR: The WNBA star admitted to bringing cannabis into Russia but said she had packed in a hurry and did not intend to break the law. If convicted, she could face up to 10 years in prison. 
- <p class="updated_time"> 06:29 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62076262?at_medium=RSS&at_campaign=KARANGA">Genoa bridge: Hopes for new Italy as disaster trial opens</a> BBC: Families of the 43 people killed look for justice four years after a Genoa highway bridge collapsed. 
- <p class="updated_time"> 06:06 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62077423?at_medium=RSS&at_campaign=KARANGA">Egypt arrests organisers of joke 'Helwan Real Batman Battle' event</a> BBC: Four people who set up a Facebook event to find "the real Batman" are charged with "planning a riot". 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
@@ -106,6 +100,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
+ <a href="https://www.npr.org/2022/07/07/1110289142/mississippi-abortion-clinic-shuts-down">Mississippi's last abortion clinic shuts down. The owner promises to continue working</a> NPR: The clinic is now headed to Las Cruces, New Mexico, about 40 miles north of El Paso, Texas. 
  <p class="updated_time"> 06:33 PM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
@@ -116,6 +112,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110338486/filipino-online-news-site-rapper-plans-to-fight-government-s-shut-down-order">Filipino online news site Rapper plans to fight government's shutdown order</a> NPR: The Filipino government has ordered the online news site Rappler to shut down, but the publication's founder, Nobel Prize winning journalist Maria Ressa, says she plans to fight the order in court. 
  <p class="updated_time"> 01:36 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110258885/biden-awards-medal-of-freedom-to-denzel-washington-simone-biles-john-mccain">Biden awards Medal of Freedom to Gabby Giffords, Simone Biles, John McCain </a> NPR: The 17 recipients include athletes, artists, and leaders of the civil rights and labor movements. 
+ <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
+ <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222259/in-ohio-biden-addressed-a-friendly-crowd-of-labor-leaders-and-union-workers">In Ohio, Biden addressed a friendly crowd of labor leaders and union workers</a> NPR: President Biden flew to Cleveland to make the case for his economic agenda. Polls show Americans have grown pessimistic about his ability to rein in inflation amid growing fears of a recession. 
  <p class="updated_time"> 06:03 AM CT, Jul. 07 </p> 
@@ -128,8 +126,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/06/politics/state-abortion-laws-legal-challenges/index.html">Where state abortion bans stand amid legal challenges</a> CNN: In more than a dozen states, legal fights are underway over abortion bans and other laws that greatly limit the procedure after the US Supreme Court ended a constitutional right to an abortion on June 24. 
  <p class="updated_time"> 08:51 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110210885/georgia-guidestones-monument-damaged-explosion">A Georgia monument, seen by some as satanic, was damaged from a predawn explosion</a> NPR: The roadside attraction was built in 1980 from local granite, commissioned by an unknown person or group under the pseudonym R.C. Christian. 
- <p class="updated_time"> 08:14 PM CT, Jul. 06 </p> 
- <a href="https://www.cnn.com/2022/07/06/politics/highland-park-shooting-background-checks/index.html">Federal background check system in spotlight after Highland Park shooting</a> CNN: America is grappling yet again with the devastating fallout from an episode of gun violence -- this time after a deadly July Fourth parade shooting that has renewed public outcry over firearm policy in the United States. 
  <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110147335/uvalde-shooting-victims-and-families-funds">Uvalde shooting victims are not getting funds fast enough, local officials say</a> NPR: Texas state Sen. Roland Gutierrez and Uvalde Mayor Don McLaughlin say they've received complaints about the Uvalde Together Resiliency Center. 
  <p class="updated_time"> 04:55 PM CT, Jul. 06 </p> 
@@ -140,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/06/1110024565/biden-letter-brittney-griner-wife">As calls grow to free Brittney Griner, Biden says he's spoken with her wife</a> NPR: The White House said President Biden and Vice President Harris spoke with Cherelle Griner on Wednesday, as more of the WNBA star's supporters publicly petition him to do more to secure her release. 
  <p class="updated_time"> 11:22 AM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110036950/cipollone-testify-jan-6-committee">Cipollone will testify behind closed doors to the Jan. 6 committee on Friday</a> NPR: Testimony in the panel's hearings so far has shown the former White House counsel present at key points in the lead-up to Jan. 6 and on the day of the attack. 
- <p class="updated_time"> 04:13 AM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1109965552/a-georgia-grand-jury-subpoenas-top-trump-allies-including-giuliani-and-graham">A Georgia grand jury subpoenas top Trump allies, including Giuliani and Graham</a> NPR: The grand jury investigating allegations of 2020 election interference has issued subpoenas for testimony from several Trump insiders, including Rudy Giuliani and Sen. Lindsey Graham. 
 
 
 </details>
