@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:40 AM CT, Jul. 08 </p> 
+ <p class="updated_time"> 06:33 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
+ <p class="updated_time"> 06:30 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Explosives found at shooting suspect's home - reports</a> BBC: The alleged gunman shot the former PM twice during a campaign event in the city of Nara. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/07/1110226702/boris-johnson-resignation-prime-minister-uk">Embattled UK Prime Minister Boris Johnson resigns </a> NPR: His resignation will trigger an internal election to pick a new leader of the Conservative Party, who will also be the next prime minister. He steps down after defections left him unable to govern. 
  <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110222315/g-20-foreign-ministers-which-includes-russia-china-and-the-u-s-gather-in-bali">G-20 foreign ministers, which includes Russia, China and the U.S., gather in Bali</a> NPR: Secretary of State Antony Blinken is leading the U.S. delegation at the G-20 ministerial meeting. It could be the scene of some awkward diplomatic encounters involving Russia's war in Ukraine. 
- <p class="updated_time"> 04:08 AM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110222238/morning-news-brief">News brief: Boris Johnson, review issued on Uvalde shooting, G-20 preview</a> NPR: British Prime Minister Boris Johnson will officially announce he's stepping down. A report says more could have been done to save the Uvalde massacre victims. G20 members are gathering in Bali. 
  <p class="updated_time"> 03:55 PM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
@@ -100,6 +100,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:25 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110435757/biden-is-expected-to-sign-an-executive-order-to-protect-abortion-rights">Biden is expected to sign an executive order to protect abortion rights</a> NPR: The White House says President Biden will try to answer the Supreme Court's reversal of Roe v. Wade, and preserve access to abortion services by signing an executive order on reproductive rights. 
+ <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110435785/critical-trump-era-figure-to-appear-before-the-house-jan-6-panel">Critical Trump-era figure to appear before the House Jan. 6 panel</a> NPR: Behind closed doors, former White House Counsel Pat Cipollone is expected to talk to the House Jan. 6 panel on Friday. He's considered a key witness to attempts to overturn the 2020 election. 
  <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110435750/morning-news-brief">News brief: Shinzo Abe, Pat Cipollone, New NPR-Ipsos gun survey</a> NPR: An-ex Japanese prime minister was fatally shot while campaigning. A critical figure in the last days of the Trump era will testify before the Jan. 6 panel. A poll delved into gun-control measures. 
  <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
@@ -132,8 +134,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/06/politics/state-abortion-laws-legal-challenges/index.html">Where state abortion bans stand amid legal challenges</a> CNN: In more than a dozen states, legal fights are underway over abortion bans and other laws that greatly limit the procedure after the US Supreme Court ended a constitutional right to an abortion on June 24. 
  <p class="updated_time"> 08:51 PM CT, Jul. 06 </p> 
  <a href="https://www.npr.org/2022/07/06/1110210885/georgia-guidestones-monument-damaged-explosion">A Georgia monument, seen by some as satanic, was damaged from a predawn explosion</a> NPR: The roadside attraction was built in 1980 from local granite, commissioned by an unknown person or group under the pseudonym R.C. Christian. 
- <p class="updated_time"> 06:01 PM CT, Jul. 06 </p> 
- <a href="https://www.npr.org/2022/07/06/1110147335/uvalde-shooting-victims-and-families-funds">Uvalde shooting victims are not getting funds fast enough, local officials say</a> NPR: Texas state Sen. Roland Gutierrez and Uvalde Mayor Don McLaughlin say they've received complaints about the Uvalde Together Resiliency Center. 
 
 
 </details>
