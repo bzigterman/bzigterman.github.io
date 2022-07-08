@@ -9,15 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM injured after reported gunshot attack</a> BBC: Shinzo Abe collapsed halfway through a speech, and appeared to be bleeding, media reports say. 
+ <p class="updated_time"> 02:20 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM 'in grave condition' after shooting</a> BBC: The 67-year-old is in hospital after he was attacked at a political campaign event. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former PM Shinzo Abe hospitalized after reported shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
- <p class="updated_time"> 09:39 PM CT, Jul. 07 </p> 
+ <p class="updated_time"> 10:11 PM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Shot</a> WSJ: Intensive efforts are under way to save the life of Shinzo Abe after he was shot during a speech in western Japan, Prime Minister Fumio Kishida said. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819">Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.'s Prime Minister Until Successor Is Found</a> WSJ: Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years. 
  <p class="updated_time"> 10:48 AM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110257719/haiti-assassination-president-jovenel-moise-anniversary-gangs-refugees">A year after the president's assassination, Haitians endure a broken nation or flee</a> NPR: With warring gangs and a powerless government since Jovenel Moïse was killed in his home, many are risking perilous voyages on rickety boats to start lives elsewhere. 
- <p class="updated_time"> 10:36 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62084185?at_medium=RSS&at_campaign=KARANGA">Brittney Griner pleads guilty to Russian drugs charge</a> BBC: The US basketball player admits the charges in a Russian court but denies any intent to break the law. 
  <p class="updated_time"> 10:10 AM CT, Jul. 07 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
