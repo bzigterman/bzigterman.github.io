@@ -10,15 +10,15 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-PM assassinated at campaign event</a> BBC: A gunman shot at him twice while he was delivering a speech in the southern city of Nara. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089486?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Killing of Japan's ex-PM described as 'barbaric'</a> BBC: A gunman shot Shinzo Abe twice during a campaign event in the city of Nara. 
  <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 12:34 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62088874?at_medium=RSS&at_campaign=KARANGA">Dinosaur finding hints at why T-rex had small arms</a> BBC: Scientists believe tiny limbs gave the giant predator - named Meraxes gigas - survival advantages. 
+ <p class="updated_time"> 12:06 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Dies After Being Shot</a> WSJ: Former Japanese Prime Minister Shinzo Abe died after being shot during a speech on Friday, public broadcaster NHK reported, citing officials in the country’s ruling party. 
  <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Former Japan PM Shinzo Abe hospitalized after shooting</a> NPR: Japan's former Prime Minister Shinzo Abe was in heart failure after apparently being shot during a campaign speech Friday in western Japan, NHK public television said. 
- <p class="updated_time"> 10:11 PM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Shinzo Abe, Former Japanese Prime Minister, Is Shot</a> WSJ: Intensive efforts are under way to save the life of Shinzo Abe after he was shot during a speech in western Japan, Prime Minister Fumio Kishida said. 
  <p class="updated_time"> 08:30 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62089116?at_medium=RSS&at_campaign=KARANGA">Gymnast Simone Biles given highest US civilian award</a> BBC: The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
@@ -73,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005">Afghanistan's Independent Media Is Fading Away, but a Few Hold Out</a> WSJ: Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.” 
  <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
- <p class="updated_time"> 09:16 AM CT, Jul. 07 </p> 
- <a href="https://www.wsj.com/articles/macron-tries-to-step-up-frances-inflation-fight-11657216307">Macron Seeks to Step Up France's Inflation Fight</a> WSJ: The French president is proposing $20 billion in new measures to blunt the impact of higher prices on households. 
  <p class="updated_time"> 07:57 AM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62076080?at_medium=RSS&at_campaign=KARANGA">Kazuki Takahashi: Yu-Gi-Oh! manga comic creator found dead in sea at 60</a> BBC: Kazuki Takahashi's comic series was turned into TV shows, films and a hugely successful card game. 
  <p class="updated_time"> 06:57 AM CT, Jul. 07 </p> 
