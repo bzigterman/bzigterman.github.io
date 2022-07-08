@@ -25,14 +25,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110440504/former-japan-prime-minister-shinzo-abe-killed">Former Japanese Prime Minister Shinzo Abe is assassinated at a campaign rally</a> NPR: Shinzo Abe had been Japan's longest-serving prime minister and remained a force in politics after stepping down in 2020. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
+ <p class="updated_time"> 05:04 AM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
  <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
  <p class="updated_time"> 03:40 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62090649?at_medium=RSS&at_campaign=KARANGA">James Caan: Hollywood pays tribute to late Godfather actor</a> BBC: Al Pacino, Francis Ford Coppola and Robert De Niro lead the tributes to the late Godfather actor. 
- <p class="updated_time"> 03:09 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/shinzo-abe-former-japanese-prime-minister-collapses-during-a-speech-11657250233">Japan's Shinzo Abe, Former Prime Minister, Is Assassinated</a> WSJ: Shinzo Abe, Japan’s longest-serving prime minister, died after being shot twice while giving a campaign speech, sending shock waves through the political establishment and a country unaccustomed to gun violence. 
+ <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
  <p class="updated_time"> 02:46 AM CT, Jul. 08 </p> 
  <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
  <p class="updated_time"> 02:05 AM CT, Jul. 08 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62069885?at_medium=RSS&at_campaign=KARANGA">Revelry and protests as Spanish bull festival returns</a> BBC: The annual event in Spain's Pamplona was cancelled in 2020 and 2021 due to coronavirus restrictions. 
  <p class="updated_time"> 11:05 AM CT, Jul. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62068539?at_medium=RSS&at_campaign=KARANGA">Former cameraman Peter Jouvenal speaks following release</a> BBC: Former cameraman Peter Jouvenal was held by the Taliban for six months. 
- <p class="updated_time"> 06:36 PM CT, Jul. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62044014?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russian woman rescued from a Kyiv bomb site</a> BBC: Russian-born Ekaterina Volkova was injured in an air strike on her apartment that killed her Ukrainian husband. 
 
 
 </details>
