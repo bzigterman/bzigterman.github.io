@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
  <p class="updated_time"> 01:28 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
  <p class="updated_time"> 05:34 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/08/1110368857/coronavirus-faq-i-took-a-trip-and-caught-covid-what-should-i-do-when-can-i-go-ho">Coronavirus FAQ: I took a trip and caught COVID. What should I do? When can I go home?</a> NPR: As summer travel surges, so does COVID. Experts share advice on how to prepare ahead of time in case you are infected on a vacation or visit — and what to do if you get that dreaded positive test. 
- <p class="updated_time"> 05:23 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed">Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier</a> NPR: The influential prime minister worked to revive the economy with his trademark "Abenomics" and rebuild Japan's role on the global stage. His assassination stunned a nation where gun violence is rare. 
  <p class="updated_time"> 05:18 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
