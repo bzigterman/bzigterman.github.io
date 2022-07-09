@@ -19,7 +19,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
- <p class="updated_time"> 11:58 AM CT, Jul. 09 </p> 
+ <p class="updated_time"> 01:28 PM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as  Protesters Storm Residence</a> WSJ: Mr. Wickremesinghe alsp says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 

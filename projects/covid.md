@@ -1878,17 +1878,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">635K</td>
+<td class="gt_row gt_right">648K</td>
 <td class="gt_row gt_right">864K</td>
-<td class="gt_row gt_right">+36%</td></tr>
+<td class="gt_row gt_right">+33%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">1K</td>
 <td class="gt_row gt_right gt_striped">2K</td>
-<td class="gt_row gt_right gt_striped">+16%</td></tr>
+<td class="gt_row gt_right gt_striped">+15%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">8M</td>
-<td class="gt_row gt_right">6M</td>
-<td class="gt_row gt_right">&minus;33%</td></tr>
+<td class="gt_row gt_right">9M</td>
+<td class="gt_row gt_right">5M</td>
+<td class="gt_row gt_right">&minus;38%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
