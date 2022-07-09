@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:28 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-womens-final-winner-elena-rybakina">Elena Rybakina wins the Wimbledon women's final for her first Grand Slam</a> NPR: The 23-year-old won the championship at the All England Club with a 3-6, 6-2, 6-2 victory over Ons Jabeur — the first singles trophy at a major tournament for Rybakina's adopted country of Kazakhstan. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
