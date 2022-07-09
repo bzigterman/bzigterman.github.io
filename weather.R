@@ -211,10 +211,6 @@ write_csv(x = willard_data_update,
 
 willard_data_updated <- willard_data_update %>%
   replace(is.na(.), 0) 
-ggplot(willard_data_updated,
-       aes(x = date,
-           y = precip_sum)) +
-  geom_line()
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
