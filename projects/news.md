@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-womens-final-winner-elena-rybakina">Elena Rybakina wins the Wimbledon women's final for her first Grand Slam</a> NPR: The 23-year-old won the championship at the All England Club with a 3-6, 6-2, 6-2 victory over Ons Jabeur — the first singles trophy at a major tournament for Rybakina's adopted country of Kazakhstan. 
+ <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62108829?at_medium=RSS&at_campaign=KARANGA">Politician Tajzadeh and two film directors arrested in Iran</a> BBC: Iranian authorities arrest reformist Mostafa Tajzadeh and two film directors over protests. 
+ <p class="updated_time"> 11:39 AM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
- <p class="updated_time"> 10:15 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 09:12 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62106446?at_medium=RSS&at_campaign=KARANGA">Ukraine reports heavy Russian missile strikes in east and south</a> BBC: Civilian areas are hit again in several cities and police say Russia is setting crops ablaze. 
  <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
@@ -40,7 +44,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka's prime minister plans to resign as protesters storm the president's home</a> NPR: Prime Minister Ranil Wickremesinghe said he will step down when all parties agree on a new government. Thousands demonstrated against the nation's worst economic crisis in recent memory. 
+ <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka protesters set the prime minister's home on fire after he agrees to resign</a> NPR: Prime Minister Ranil Wickremesinghe said he will step down when all parties agree on a new government. Thousands demonstrated against the nation's worst economic crisis in recent memory. 
  <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:48 AM CT, Jul. 09 </p> 
@@ -53,10 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62102821?at_medium=RSS&at_campaign=KARANGA">Elon Musk pulls out of $44bn deal to buy Twitter</a> BBC: Twitter says it is committed to the deal and will take legal action to enforce the agreement. 
  <p class="updated_time"> 08:28 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110645654/ukrainians-have-a-special-place-in-their-hearts-for-boris-johnson">Ukrainians have a special place in their hearts for Boris Johnson</a> NPR: While Britons might be happy to see their prime minister go, Ukrainians hold him in higher regard. 
- <p class="updated_time"> 08:00 PM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-office-workers-and-tradesmen-receive-training-from-u-k-for-war-11657342801">Ukrainian Recruits Get Training From U.K. for War</a> WSJ: The program, which takes Ukrainian workers and readies them for the battlefield, aims to give Kyiv more manpower along the eastern front with Russia. 
- <p class="updated_time"> 07:24 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Food aid to 3m people at risk after UN stalemate</a> BBC: A key cross-border aid route could close after Security Council fails to agree terms to keep it open. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100402?at_medium=RSS&at_campaign=KARANGA">Americans in the crosshairs of China's spy game</a> BBC: As the West warns of stepped-up spying efforts by China, Americans find themselves in Beijing's sights. 
  <p class="updated_time"> 06:35 PM CT, Jul. 08 </p> 
@@ -77,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed">Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier</a> NPR: The influential prime minister worked to revive the economy with his trademark "Abenomics" and rebuild Japan's role on the global stage. His assassination stunned a nation where gun violence is rare. 
  <p class="updated_time"> 05:18 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
- <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
  <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
