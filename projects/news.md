@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
- <p class="updated_time"> 01:28 PM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
