@@ -93,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
- <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62092196?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Moscow politician gets 7 years for denouncing war</a> BBC: Councillor Alexei Gorinov gets reportedly the first jail term under a law criminalising dissent. 
  <p class="updated_time"> 06:59 AM CT, Jul. 08 </p> 
  <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
