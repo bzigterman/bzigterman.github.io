@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Thousands of demonstrators have taken over President Gotabaya Rajapaksa's residence in Colombo. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo">PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom</a> NPR: Dubbed the "train of hope," the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
