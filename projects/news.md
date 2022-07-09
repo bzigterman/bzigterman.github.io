@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:01 PM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
+ <p class="updated_time"> 05:53 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 04:39 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
  <p class="updated_time"> 03:56 PM CT, Jul. 09 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110667073/brittney-griners-wife-demands-the-u-s-do-more-to-have-russia-release-her">Brittney Griner's wife demands the U.S. do more to have Russia release her</a> NPR: Scott Simon speaks with international security expert Danielle Gilbert about Brittney Griner's detention in Russia on drug charges. 
  <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110667052/mourners-visit-the-site-of-former-japanese-prime-minister-shinzo-abes-assassinat">Mourners visit the site of former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Japan is shocked and in mourning following the assassination of former Prime Minister Shinzo Abe on Friday. Police say a homemade gun was used. 
- <p class="updated_time"> 06:50 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
@@ -54,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka's president and prime minister will resign after tumultuous protests</a> NPR: Demonstrations have gone on for months during the nation's worst economic crisis in recent memory. Crowds stormed the homes of the president and prime minister, setting fire to one of the buildings. 
+ <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka's president and prime minister to resign after tumultuous protests</a> NPR: Demonstrations have gone on for months during the nation's worst economic crisis in recent memory. Crowds stormed the homes of the president and prime minister, setting fire to one of the buildings. 
  <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:48 AM CT, Jul. 09 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62103506?at_medium=RSS&at_campaign=KARANGA">Russia's McDonald's replacement runs low on fries</a> BBC: Some outlets of the new "Tasty and that's it" chain stop serving fries due to a potato shortage. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-62102821?at_medium=RSS&at_campaign=KARANGA">Elon Musk pulls out of $44bn deal to buy Twitter</a> BBC: Twitter says it is committed to the deal and will take legal action to enforce the agreement. 
- <p class="updated_time"> 08:28 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110645654/ukrainians-have-a-special-place-in-their-hearts-for-boris-johnson">Ukrainians have a special place in their hearts for Boris Johnson</a> NPR: While Britons might be happy to see their prime minister go, Ukrainians hold him in higher regard. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100402?at_medium=RSS&at_campaign=KARANGA">Americans in the crosshairs of China's spy game</a> BBC: As the West warns of stepped-up spying efforts by China, Americans find themselves in Beijing's sights. 
  <p class="updated_time"> 06:35 PM CT, Jul. 08 </p> 
