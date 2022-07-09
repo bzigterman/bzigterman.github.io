@@ -1496,7 +1496,7 @@ saveWidget(widget = fig, file = "interactive/il_employment.html",
            libdir = "interactive")
 
 ## flash index ----
-flash_index_archive <- read_html("https://igpa.uillinois.edu/page/flash-index-archive")
+flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/")
 flash_index <- flash_index_archive %>% html_node("table") %>% 
   html_table(header = TRUE) %>%
   rename(Year = 1) %>%
