@@ -855,6 +855,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
   ) %>%
   hc_xAxis(
     title = "",
+    showLastLabel = FALSE,
     labels = list(
       format = "{value:%b}"),
     plotLines = list(
