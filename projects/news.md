@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
  <p class="updated_time"> 01:28 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-womens-final-winner-elena-rybakina">Elena Rybakina wins the Wimbledon women's final for her first Grand Slam</a> NPR: The 23-year-old won the championship at the All England Club with a 3-6, 6-2, 6-2 victory over Ons Jabeur — the first singles trophy at a major tournament for Rybakina's adopted country of Kazakhstan. 
+ <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62108829?at_medium=RSS&at_campaign=KARANGA">Politician Tajzadeh and two film directors arrested in Iran</a> BBC: Iranian authorities arrest reformist Mostafa Tajzadeh and two film directors over protests. 
  <p class="updated_time"> 11:39 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
+ <p class="updated_time"> 10:19 AM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-russian-assault-on-city-where-it-defeated-2014-revolt-11657367079">Ukraine Prepares to Defend City It Retook After 2014 Revolt</a> WSJ: Ukrainian officials expect a new Russian push toward Slovyansk, a nearly empty city where separatists helped kick off the Moscow-backed uprising in Ukraine eight years ago. 
  <p class="updated_time"> 09:12 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62106446?at_medium=RSS&at_campaign=KARANGA">Ukraine reports heavy Russian missile strikes in east and south</a> BBC: Civilian areas are hit again in several cities and police say Russia is setting crops ablaze. 
  <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo">PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom</a> NPR: Dubbed the "train of hope," the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1108967278/canada-gun-control-us-guns-trafficking">As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
- <p class="updated_time"> 05:29 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-russian-assault-on-city-where-it-defeated-2014-revolt-11657367079">Ukraine Prepares to Defend City It Retook After 2014 Revolt</a> WSJ: Ukrainian officials expect a new Russian push toward Slovyansk, a nearly empty city where separatists helped kick off the Moscow-backed uprising in Ukraine eight years ago. 
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
- <p class="updated_time"> 05:34 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/08/1110368857/coronavirus-faq-i-took-a-trip-and-caught-covid-what-should-i-do-when-can-i-go-ho">Coronavirus FAQ: I took a trip and caught COVID. What should I do? When can I go home?</a> NPR: As summer travel surges, so does COVID. Experts share advice on how to prepare ahead of time in case you are infected on a vacation or visit — and what to do if you get that dreaded positive test. 
  <p class="updated_time"> 05:18 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
