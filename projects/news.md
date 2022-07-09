@@ -23,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110667052/mourners-visit-the-site-of-former-japanese-prime-minister-shinzo-abes-assassinat">Mourners visit the site of former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Japan is shocked and in mourning following the assassination of former Prime Minister Shinzo Abe on Friday. Police say a homemade gun was used. 
  <p class="updated_time"> 06:50 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
+ <p class="updated_time"> 06:40 AM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka Prime Minister Ranil Wickremesinghe Says He Will Resign Amid Protests</a> WSJ: Mr. Wickremesinghe says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
- <p class="updated_time"> 06:27 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka Prime Minister Ranil Wickremesinghe Says He Will Resign Amid Protests</a> WSJ: Mr. Wickremesinghe says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Thousands of demonstrators have taken over President Gotabaya Rajapaksa's residence in Colombo. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
