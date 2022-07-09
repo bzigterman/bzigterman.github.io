@@ -3,6 +3,8 @@ library(readr)
 library(lubridate)
 library(scales)
 library(httr)
+library(rvest)
+library(janitor)
 library(jsonlite)
 library(cowplot)
 library(sf)
@@ -171,6 +173,40 @@ nws_forecast_clean <- nws_forecast %>%
                                      minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
                                      second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
                                      sep = "")), tz = "America/Chicago")
+
+
+## nws scraping ----
+willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
+willard_html <- read_html(willard_url) %>%
+  html_table()
+willard <- willard_html[[4]] %>%
+  tail(-2) %>%
+  head(-3) %>%
+  clean_names() %>%
+  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
+                              month((today(tzone = "America/Chicago"))),"-",
+                              date,"-",
+                              time_cdt),
+                       tz = "America/Chicago")
+  ) %>%
+  mutate(visibility = as.numeric(vis_mi)) %>%
+  mutate(temp = as.numeric(temperature_o_f)) %>%
+  mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
+  mutate(precip_one_hour = as.numeric(precipitation_in))  %>%
+  mutate(precip_three_hour = as.numeric(precipitation_in_2))  %>%
+  mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
+  select(date,weather,temp, humidity, precip_one_hour)
+champaign_rain <- round(sum(head(willard$precip_one_hour,24), na.rm = TRUE),1)
+champaign_rain_text <- ifelse(champaign_rain > 0, paste0("- ",champaign_rain," inches of rain in the past 24 hours"),"")
+
+willard_data <- read_csv(file = "data/willard_weather.csv") 
+willard_data_update <- full_join(willard,willard_data) %>%
+  unique() %>%
+  arrange(date)
+
+write_csv(x = willard_data_update,
+          file = "data/willard_weather.csv")
+
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
@@ -1119,6 +1155,7 @@ Currently:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
+",champaign_rain_text,"
 
 ## Temperature History
 
