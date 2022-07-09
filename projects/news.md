@@ -23,10 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110667052/mourners-visit-the-site-of-former-japanese-prime-minister-shinzo-abes-assassinat">Mourners visit the site of former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Japan is shocked and in mourning following the assassination of former Prime Minister Shinzo Abe on Friday. Police say a homemade gun was used. 
  <p class="updated_time"> 06:50 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
+ <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
+ <p class="updated_time"> 06:27 AM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka Prime Minister Ranil Wickremesinghe Says He Will Resign Amid Protests</a> WSJ: Mr. Wickremesinghe says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Thousands of demonstrators have taken over President Gotabaya Rajapaksa's residence in Colombo. 
- <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka Prime Minister Ranil Wickremesinghe Says He Will Resign Amid Protests</a> WSJ: Mr. Wickremesinghe says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo">PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom</a> NPR: Dubbed the "train of hope," the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110661959/united-nationas-aid-syria">UN fails to extend aid deliveries to Syrian rebel-held area</a> NPR: The U.N. Security Council failed in two rival votes Friday to extend humanitarian aid deliveries from Turkey to 4.1 million Syrians in the rebel-held northwest. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
- <p class="updated_time"> 02:07 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62103506?at_medium=RSS&at_campaign=KARANGA">Russia's McDonald's replacement runs low on fries</a> BBC: Some outlets of the new "Tasty and that's it" chain stop serving fries due to a potato shortage. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
