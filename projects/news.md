@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 PM CT, Jul. 09 </p> 
+ <p class="updated_time"> 04:39 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
+ <p class="updated_time"> 03:56 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
+ <p class="updated_time"> 02:25 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62108832?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crowd breaks Rajapaksa grip on power</a> BBC: Sri Lanka's leaders flee from an angry crowd - extraordinary for a country tainted by political repression. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
+ <p class="updated_time"> 11:58 AM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as  Protesters Storm Residence</a> WSJ: Mr. Wickremesinghe alsp says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
@@ -37,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110667052/mourners-visit-the-site-of-former-japanese-prime-minister-shinzo-abes-assassinat">Mourners visit the site of former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Japan is shocked and in mourning following the assassination of former Prime Minister Shinzo Abe on Friday. Police say a homemade gun was used. 
  <p class="updated_time"> 06:50 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
- <p class="updated_time"> 06:40 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka Prime Minister Ranil Wickremesinghe Says He Will Resign Amid Protests</a> WSJ: Mr. Wickremesinghe says he will step down after just two months in office as protesters stormed and occupied the president’s residence and office amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
@@ -77,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
- <p class="updated_time"> 05:18 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
  <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
@@ -116,6 +118,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:11 PM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110698769/shinzo-abes-complicated-political-legacy">Shinzo Abe's complicated political legacy</a> NPR: Following the assassination of former Japanese Prime Minister Shinzo Abe, NPR's Miles Parks speaks with professor Jeff Kingston about Abe's long legacy in Japan. 
  <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110667073/brittney-griners-wife-demands-the-u-s-do-more-to-have-russia-release-her">Brittney Griner's wife demands the U.S. do more to have Russia release her</a> NPR: Scott Simon speaks with international security expert Danielle Gilbert about Brittney Griner's detention in Russia on drug charges. 
  <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
@@ -148,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110435750/morning-news-brief">News brief: Shinzo Abe, Pat Cipollone, New NPR-Ipsos gun survey</a> NPR: An-ex Japanese prime minister was fatally shot while campaigning. A critical figure in the last days of the Trump era will testify before the Jan. 6 panel. A poll delved into gun-control measures. 
  <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110299496/trigger-laws-13-states-two-groups-laid-groundwork">Who and what is behind abortion ban trigger law bills? Two groups laid the groundwork</a> NPR: Two national organizations have gained a reputation for taking the lead on model legislation to restrict and block abortions. Now, states are needing to grapple with the laws they passed. 
- <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110239487/most-gun-owners-favor-modest-restrictions-but-deeply-distrust-government-poll-fi">Most gun owners favor modest restrictions but deeply distrust government, poll finds</a> NPR: Overwhelming majorities want to see universal background checks, raising the age to buy any kind of gun to 21 and red flag laws. But just a quarter trust the government to look out for them. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
 
