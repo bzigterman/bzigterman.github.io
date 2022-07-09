@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
+ <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
  <p class="updated_time"> 10:15 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 09:12 AM CT, Jul. 09 </p> 
@@ -38,7 +40,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lankan demonstrators enter president's residence amid economic crisis protests</a> NPR: Thousands of people demonstrated in the capital against the island nation's worst economic crisis in recent memory and demanded President Gotabaya Rajapaksa resign. 
+ <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka's prime minister plans to resign as protesters storm the president's home</a> NPR: Prime Minister Ranil Wickremesinghe said he will step down when all parties agree on a new government. Thousands demonstrated against the nation's worst economic crisis in recent memory. 
  <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:48 AM CT, Jul. 09 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
- <p class="updated_time"> 03:35 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110577404/the-legacy-of-japans-longest-serving-prime-minister-shinzo-abe">The legacy of Japan's longest-serving prime minister, Shinzo Abe</a> NPR: The policies of Japan's longest-serving Prime Minister Shinzo Abe were highly controversial, both at home and throughout Asia. But that did not lesson the shock and mourning at his sudden death. 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
  <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
