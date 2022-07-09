@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62056687?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A welcome on two wheels for refugee children</a> BBC: Around 30,000 Ukrainian refugees have fled to Denmark, where a nationwide scheme is offering a unique, two-wheeled welcome. 
+ <p class="updated_time"> 06:06 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
  <p class="updated_time"> 06:01 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
  <p class="updated_time"> 05:53 PM CT, Jul. 09 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102019?at_medium=RSS&at_campaign=KARANGA">US border agents' horseback charge on Haiti migrants 'unnecessary'</a> BBC: The US border control agency said the actions of its agents potentially violated US immigration law. 
  <p class="updated_time"> 02:31 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100403?at_medium=RSS&at_campaign=KARANGA">Arizona to ban people filming police officers within 8 feet</a> BBC: Opponents of the law have said it violates the constitutional right to free speech and a free press. 
- <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
- <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
  <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
