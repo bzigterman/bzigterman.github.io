@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 1 * * *'
+  push:
+    paths:
+      - 'economy.R'
 
 jobs:
   run-autoecon:
