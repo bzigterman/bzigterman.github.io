@@ -192,8 +192,8 @@ willard <- willard_html[[4]] %>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
-  mutate(precip_one_hour = as.numeric(precipitation_in))  %>%
-  mutate(precip_three_hour = as.numeric(precipitation_in_2))  %>%
+  mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
+  mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
   select(date,weather,temp, humidity, precip_one_hour)
 champaign_rain <- round(sum(head(willard$precip_one_hour,24), na.rm = TRUE),1)
@@ -209,6 +209,12 @@ willard_data_update <- full_join(willard,willard_data) %>%
 write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
 
+willard_data_updated <- willard_data_update %>%
+  replace(is.na(.), 0) 
+ggplot(willard_data_updated,
+       aes(x = date,
+           y = precip_sum)) +
+  geom_line()
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
@@ -794,8 +800,31 @@ daily_mins <- temps_past_eleven_months %>%
 
 dailies <- full_join(daily_maxs,daily_mins)
 
+monthly_rain <- willard_data_updated %>%
+  select(date,year,month, precip_one_hour,precip_sum) %>%
+  mutate(year = year(date)) %>%
+  mutate(month = month(date)) %>%
+  mutate(day = day(date)) %>%
+  group_by(year, month, day) %>%
+  summarise(daily_precip_total = sum(precip_one_hour,na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(date = ymd(paste0(year,"-",month,"-",day))) %>%
+  select(date,year, month, daily_precip_total) %>%
+  group_by(year,month) %>%
+  mutate(month_precip_sum = cumsum(daily_precip_total)) %>%
+  ungroup() %>%
+  select(date,daily_precip_total,month_precip_sum) %>%
+  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month(date),"-",day(date))) %>%
+  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+  mutate(date = ymd(date)) %>%
+  select(date,daily_precip_total,month_precip_sum)
+
+  
+
+  
 year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
+  full_join(monthly_rain) %>%
   mutate(date = ymd(date)) 
 
 record_his <- year_weather_data %>%
@@ -845,7 +874,11 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 radius = 1),
               lineWidth = 0,
               fillOpacity = 1,
-              tooltip = list(valueSuffix = "°")) %>%
+              tooltip = list(valueSuffix = "°"),
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(5,1),
+                                 title = list(text = NULL)))%>%
   hc_add_series(
     data = today_weather_data_longer,
     hcaes(x = date,
@@ -861,7 +894,8 @@ fig <- hchart(year_weather_data_longer, "arearange",
       verticalAlign = "middle",
       allowOverlap = TRUE,
       format = "{series.name}: {point.y}°"
-    )
+    ),
+    yAxis = 0
   ) %>%
   hc_add_series(
     data = record_his,
@@ -873,7 +907,8 @@ fig <- hchart(year_weather_data_longer, "arearange",
       enabled = TRUE,
       fillColor = "goldenrod",
       radius = 3,
-      symbol = "triangle")
+      symbol = "triangle"),
+    yAxis = 0
   ) %>%
   hc_add_series(
     data = record_los,
@@ -885,12 +920,21 @@ fig <- hchart(year_weather_data_longer, "arearange",
       enabled = TRUE,
       fillColor = "goldenrod",
       radius = 3,
-      symbol = "triangle-down")
+      symbol = "triangle-down"),
+    yAxis = 0
   ) %>%
-  hc_yAxis(title = "",
-           labels = list(
-             format = "{value}°")
-  ) %>%
+  hc_add_series(data = year_weather_data,
+                hcaes(x = date,
+                      y = month_precip_sum),
+                type = "area",
+                name = "Precip.",
+                tooltip = list(valueSuffix = "″"),
+                color = "#b0dcf0",
+                yAxis = 1) %>%
+ # hc_yAxis(title = "",
+  #         labels = list(
+   #          format = "{value}°")
+#  ) %>%
   hc_xAxis(
     title = "",
     showLastLabel = FALSE,
@@ -1167,7 +1211,7 @@ Currently:
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"600\"> 
 </iframe>
 
 ## Almanac for ",today,"
