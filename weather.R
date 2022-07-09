@@ -797,7 +797,7 @@ daily_mins <- temps_past_eleven_months %>%
 dailies <- full_join(daily_maxs,daily_mins)
 
 monthly_rain <- willard_data_updated %>%
-  select(date,year,month, precip_one_hour,precip_sum) %>%
+  select(date, precip_one_hour) %>%
   mutate(year = year(date)) %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
