@@ -9,6 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:24 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Food aid to 3m people at risk after UN stalemate</a> BBC: A key cross-border aid route could close after Security Council fails to agree terms to keep it open. 
+ <p class="updated_time"> 07:12 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62102821?at_medium=RSS&at_campaign=KARANGA">Elon Musk ends $44bn bid to buy Twitter</a> BBC: The Tesla chief says he is backing out because of the high number of spam accounts on the platform. 
+ <p class="updated_time"> 06:57 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62098100?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader's alleged killer held grudge against group - police</a> BBC: The man suspected of killing Japan's ex-PM held a grudge against a group he thought Shinzo Abe was part of, police say. 
+ <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62100402?at_medium=RSS&at_campaign=KARANGA">Americans in the crosshairs of China's spy game</a> BBC: As the West warns of stepped-up spying efforts by China, Americans find themselves in Beijing's sights. 
+ <p class="updated_time"> 06:35 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62078900?at_medium=RSS&at_campaign=KARANGA">Madagascar’s Eid: Zebus, dumplings and samosas</a> BBC: How a Muslim community on the Indian Ocean island celebrates one of Islam's most important holidays. 
+ <p class="updated_time"> 06:25 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62083077?at_medium=RSS&at_campaign=KARANGA">Saudi artists confront change as kingdom shifts</a> BBC: The rise of a more modern culture presents new challenges to its once fettered artists. 
+ <p class="updated_time"> 06:23 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62103300?at_medium=RSS&at_campaign=KARANGA">Flash of light as meteor spotted over Chile</a> BBC: The asteroid, which lit up the night sky in Santiago, was caught on camera. 
+ <p class="updated_time"> 06:17 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62096162?at_medium=RSS&at_campaign=KARANGA">Italians wait for rain where longest river runs dry</a> BBC: Farmers in the north fear for the future as the River Po runs dry in the worst drought in 70 years. 
+ <p class="updated_time"> 06:11 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
+ <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
+ <p class="updated_time"> 05:34 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/07/08/1110368857/coronavirus-faq-i-took-a-trip-and-caught-covid-what-should-i-do-when-can-i-go-ho">Coronavirus FAQ: I took a trip and caught COVID. What should I do? When can I go home?</a> NPR: As summer travel surges, so does COVID. Experts share advice on how to prepare ahead of time in case you are infected on a vacation or visit — and what to do if you get that dreaded positive test. 
+ <p class="updated_time"> 05:23 PM CT, Jul. 08 </p> 
+ <a href="https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed">Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier</a> NPR: The influential prime minister worked to revive the economy with his trademark "Abenomics" and rebuild Japan's role on the global stage. His assassination stunned a nation where gun violence is rare. 
+ <p class="updated_time"> 05:18 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
  <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
  <p class="updated_time"> 03:35 PM CT, Jul. 08 </p> 
@@ -29,20 +55,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102019?at_medium=RSS&at_campaign=KARANGA">US border agents' horseback charge on Haiti migrants 'unnecessary'</a> BBC: The US border control agency said the actions of its agents potentially violated US immigration law. 
  <p class="updated_time"> 02:31 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100403?at_medium=RSS&at_campaign=KARANGA">Arizona to ban people filming police officers within 8 feet</a> BBC: Opponents of the law have said it violates the constitutional right to free speech and a free press. 
- <p class="updated_time"> 02:25 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102223?at_medium=RSS&at_campaign=KARANGA">Canada hit by massive mobile and internet outage</a> BBC: Emergency call hotlines, hospitals and government agencies are affected by the nationwide issue. 
- <p class="updated_time"> 02:05 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-62066506?at_medium=RSS&at_campaign=KARANGA">Syria: Russian UN veto blocks aid deliveries to 3m people</a> BBC: Russia blocks a Security Council resolution keeping open a key cross-border aid route. 
+ <p class="updated_time"> 02:07 PM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/high-food-prices-shrink-eid-al-adha-feasts-for-some-middle-eastern-families-11657290961">High Food Prices Shrink Eid al-Adha Feasts for Some Middle Eastern Families</a> WSJ: As the region prepares to celebrate one of Islam’s most important festivals, many say they can’t afford the livestock for the customary sacrifice ritual and are cutting back on the family meal. 
  <p class="updated_time"> 01:44 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110493901/abe-assassination-gun-laws-violence-japan">Abe's assassination shocks Japan, where gun control is strict and shootings are rare</a> NPR: Japan, with famously strict laws, has among the world's lowest rates of gun ownership and gun violence. In 2018 there were just nine firearm deaths reported in Japan, compared with 39,740 in the U.S. 
+ <p class="updated_time"> 12:43 PM CT, Jul. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-vetoes-u-n-measure-on-cross-border-aid-to-northern-syria-11657301536">Russia Vetoes U.N. Measure on Cross-Border Aid to Northern Syria</a> WSJ: Russia vetoed a Western measure to continue United Nations aid to more than four million people in a rebel held-area of northern Syria, prompting fears of a humanitarian crisis. 
  <p class="updated_time"> 12:32 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62099077?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: World leaders express shock over assassination</a> BBC: The US and Brazil lead worldwide mourning for Japan's murdered ex-prime minister. 
  <p class="updated_time"> 12:17 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110500480/rogers-canada-major-internet-outage">A major internet outage in Canada disrupts ATMs and 911 services</a> NPR: Rogers, a leading telecom provider, suffered an outage Friday, creating disruptions to internet, cellular and cable services throughout Canada. The company has millions of customers. 
  <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
- <p class="updated_time"> 11:42 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62098100?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japan ex-leader's alleged killer held grudge against group - police</a> BBC: The man suspected of killing Japan's ex-PM held a grudge against a group he thought Shinzo Abe was part of, police say. 
  <p class="updated_time"> 11:35 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110421878/itinerante-un-trio-que-revive-la-musica-andina-de-colombia">Itinerante, un trío que revive la música andina de Colombia</a> NPR: Tocada en tres instrumentos de cuerda, esta música fue la banda sonora del país desde principios del siglo XX hasta la década de 1940. 
  <p class="updated_time"> 10:00 AM CT, Jul. 08 </p> 
@@ -57,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324">Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</a> WSJ: Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.” 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
- <p class="updated_time"> 08:32 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-vetoes-u-n-measure-on-cross-border-aid-to-northern-syria-11657301536">Russia Vetoes U.N. Measure on Cross-Border Aid to Northern Syria</a> WSJ: Russia vetoed a Western measure to continue United Nations aid to more than four million people in a rebel held-area of northern Syria, prompting fears of a humanitarian crisis. 
  <p class="updated_time"> 08:19 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092196?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Moscow politician gets 7 years for denouncing war</a> BBC: Councillor Alexei Gorinov gets reportedly the first jail term under a law criminalising dissent. 
  <p class="updated_time"> 07:20 AM CT, Jul. 08 </p> 
@@ -83,16 +105,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
  <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
- <p class="updated_time"> 01:02 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110433048/muslim-pilgrims-pray-at-mount-arafat-as-hajj-reaches-apex">Muslim pilgrims pray at Mount Arafat as hajj reaches apex</a> NPR: Hundreds of thousands of Muslim pilgrims from around the world raised their hands to heaven and offered prayers of repentance on the sacred hill of Mount Arafat in Saudi Arabia on Friday. 
  <p class="updated_time"> 10:45 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083917?at_medium=RSS&at_campaign=KARANGA">Mumbai floods: India city on red alert for further rain</a> BBC: The city is expected to receive heavy to very heavy rainfall on Friday, leading to more floods. 
- <p class="updated_time"> 10:44 PM CT, Jul. 07 </p> 
- <a href="https://www.npr.org/2022/07/07/1110427582/japan-ex-leader-shinzo-abe-apparently-shot-japanese-public-broadcaster-reports">Ex-Japan leader Shinzo Abe fatally shot</a> NPR: Former Japanese Prime Minister Shinzo Abe has died after being shot during a campaign speech Friday in western Japan. 
- <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62088872?at_medium=RSS&at_campaign=KARANGA">US probes rare, intensive audits of Trump critics</a> BBC: Ex-FBI heads James Comey and Andrew McCabe were subjected to rigorous checks during Trump's presidency. 
- <p class="updated_time"> 07:00 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62088862?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell appeals against sex trafficking conviction</a> BBC: Ghislaine Maxwell formally filed her appeal nine days after her conviction for child sex trafficking. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
  <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
@@ -101,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The leader is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
  <p class="updated_time"> 04:56 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62030654?at_medium=RSS&at_campaign=KARANGA">Kiteboarders take to sky in southern Spain</a> BBC: The contenders battle it out in an annual world championship event. 
- <p class="updated_time"> 09:32 AM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-62081939?at_medium=RSS&at_campaign=KARANGA">Sea lion found in polluted Riachuelo River returned to sea</a> BBC: The animal is back in the wild after finding itself in one of Latin America's dirtiest rivers, the Riachuelo. 
 
 
 </details>
@@ -116,6 +128,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110577418/the-impact-that-president-bidens-executive-order-on-abortion-access-will-have">The impact that President Biden's executive order on abortion access will have</a> NPR: NPR's Ailsa Chang talks with Kim Mutcherson, dean and professor of law of Rutgers University, about the impact President Biden's executive order on abortion access will have. 
  <p class="updated_time"> 01:55 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110502290/how-to-talk-to-kids-about-abortion-roe-scotus">How do you talk to kids about abortion? We want to hear from you</a> NPR: Following the Supreme Court's decision to overturn Roe v. Wade, we want to hear from parents about you are talking to your kids about abortion. Where do you start? What do you say? 
+ <p class="updated_time"> 01:24 PM CT, Jul. 08 </p> 
+ <a href="https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html">Here's what's in Biden's executive order on abortion rights</a> CNN: President Joe Biden on Friday signed an executive order aimed at protecting access to reproductive health services in the wake of the Supreme Court overturning Roe v. Wade and eliminating the constitutional right to an abortion. 
  <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
  <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
@@ -138,8 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110239487/most-gun-owners-favor-modest-restrictions-but-deeply-distrust-government-poll-fi">Most gun owners favor modest restrictions but deeply distrust government, poll finds</a> NPR: Overwhelming majorities want to see universal background checks, raising the age to buy any kind of gun to 21 and red flag laws. But just a quarter trust the government to look out for them. 
  <p class="updated_time"> 07:38 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110289142/mississippi-abortion-clinic-shuts-down">Mississippi's last abortion clinic shuts down. The owner promises to continue working</a> NPR: The clinic is now headed to Las Cruces, New Mexico, about 40 miles north of El Paso, Texas. 
- <p class="updated_time"> 06:06 PM CT, Jul. 07 </p> 
- <a href="https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html">Zelensky says Ukraine will not give up territory for peace with Russia: 'This is our land'</a> CNN: Ukrainian President Volodymyr Zelensky told CNN's Wolf Blitzer on Thursday that Ukraine is unwilling to cede any of its land to Russia, standing firm that a concession of Ukrainian territory won't be part of any diplomatic negotiations to end the war. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
  <a href="https://www.npr.org/2022/07/07/1110338507/what-haiti-looks-like-a-year-after-its-president-was-assassinated">What Haiti looks like a year after its president was assassinated</a> NPR: Even after a year, much is still unknown about the figures behind the assassination of Haitian President Jovenel Moise. It has created a political vacuum filled by instability and gang violence. 
  <p class="updated_time"> 03:22 PM CT, Jul. 07 </p> 
