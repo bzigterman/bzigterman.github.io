@@ -197,7 +197,9 @@ willard <- willard_html[[4]] %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
   select(date,weather,temp, humidity, precip_one_hour)
 champaign_rain <- round(sum(head(willard$precip_one_hour,24), na.rm = TRUE),1)
-champaign_rain_text <- ifelse(champaign_rain > 0, paste0("- ",champaign_rain," inches of rain in the past 24 hours"),"")
+champaign_rain_text <- ifelse(champaign_rain > 0, 
+                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours"),
+                              "")
 
 willard_data <- read_csv(file = "data/willard_weather.csv") 
 willard_data_update <- full_join(willard,willard_data) %>%
