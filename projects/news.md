@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 14 dead in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 14 people and left three others in critical condition, according to police. 
  <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 01:44 AM CT, Jul. 10 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka opposition hopes to install new gov't amid turmoil</a> NPR: Sri Lanka's opposition political parties will meet Sunday to agree on a new government a day after the country's president and prime minister offered to resign following  protests in their homes. 
  <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
- <p class="updated_time"> 03:48 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110661959/united-nationas-aid-syria">UN fails to extend aid deliveries to Syrian rebel-held area</a> NPR: The U.N. Security Council failed in two rival votes Friday to extend humanitarian aid deliveries from Turkey to 4.1 million Syrians in the rebel-held northwest. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
@@ -128,6 +128,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police">First Amendment advocates respond to a new Arizona law limiting recording of police</a> NPR: Recently signed legislation in Arizona would bar people from recording video of police officers within 8 feet after being told not to. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110486735/when-a-first-term-democratic-president-struggles-people-talk-about-jimmy-carter">When a first-term Democratic president struggles, people talk about Jimmy Carter</a> NPR: Biden has been faulted for speeches that do not seem to meet the moment or lack the urgency to compel others to follow. His soothing approach to issues that prompt anger has often failed to soothe. 
  <p class="updated_time"> 04:11 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110698769/shinzo-abes-complicated-political-legacy">Shinzo Abe's complicated political legacy</a> NPR: Following the assassination of former Japanese Prime Minister Shinzo Abe, NPR's Miles Parks speaks with professor Jeff Kingston about Abe's long legacy in Japan. 
  <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
@@ -158,10 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110435757/biden-is-expected-to-sign-an-executive-order-to-protect-abortion-rights">Biden is expected to sign an executive order to protect abortion rights</a> NPR: The White House says President Biden will try to answer the Supreme Court's reversal of Roe v. Wade, and preserve access to abortion services by signing an executive order on reproductive rights. 
  <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110435785/critical-trump-era-figure-to-appear-before-the-house-jan-6-panel">Critical Trump-era figure to appear before the House Jan. 6 panel</a> NPR: Behind closed doors, former White House Counsel Pat Cipollone is expected to talk to the House Jan. 6 panel on Friday. He's considered a key witness to attempts to overturn the 2020 election. 
- <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110435750/morning-news-brief">News brief: Shinzo Abe, Pat Cipollone, New NPR-Ipsos gun survey</a> NPR: An-ex Japanese prime minister was fatally shot while campaigning. A critical figure in the last days of the Trump era will testify before the Jan. 6 panel. A poll delved into gun-control measures. 
- <p class="updated_time"> 04:01 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110299496/trigger-laws-13-states-two-groups-laid-groundwork">Who and what is behind abortion ban trigger law bills? Two groups laid the groundwork</a> NPR: Two national organizations have gained a reputation for taking the lead on model legislation to restrict and block abortions. Now, states are needing to grapple with the laws they passed. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
 
