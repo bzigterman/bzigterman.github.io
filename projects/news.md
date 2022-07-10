@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62093347?at_medium=RSS&at_campaign=KARANGA">Durban riots: South Africa still bears the scars one year on</a> BBC: More than 300 people died in what the president called an "insurrection", but what has changed? 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
  <p class="updated_time"> 03:10 PM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as Protesters Storm Residence</a> WSJ: Prime minister says he will also step down after just two months in office as hundreds of protesters stormed and occupied the president’s residence amid public anger over the country’s deepening sovereign debt crisis. 
+ <p class="updated_time"> 03:01 PM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277">Luis Echeverría, Former President of Mexico, Dies at 100</a> WSJ: Known for his leftist rhetoric, Mr. Echeverría presided over a regime during which hundreds disappeared. He would later face genocide accusations. 
  <p class="updated_time"> 02:25 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108832?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crowd breaks Rajapaksa grip on power</a> BBC: Sri Lanka's leaders flee from an angry crowd - extraordinary for a country tainted by political repression. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
@@ -93,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
  <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102019?at_medium=RSS&at_campaign=KARANGA">US border agents' horseback charge on Haiti migrants 'unnecessary'</a> BBC: The US border control agency said the actions of its agents potentially violated US immigration law. 
- <p class="updated_time"> 02:31 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62100403?at_medium=RSS&at_campaign=KARANGA">Arizona to ban people filming police officers within 8 feet</a> BBC: Opponents of the law have said it violates the constitutional right to free speech and a free press. 
  <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
