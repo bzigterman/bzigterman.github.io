@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with high temperatures set to intensify in the coming days. 
+ <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
+ <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
  <p class="updated_time"> 04:15 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
  <p class="updated_time"> 02:53 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
+ <p class="updated_time"> 02:12 PM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
  <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
@@ -33,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/bidens-middle-east-trip-is-a-high-risk-bid-to-reset-saudi-relations-11657481150">Biden's Middle East Trip Is a High-Risk Bid to Reset Saudi Relations</a> WSJ: The president is trying to balance human-rights concerns with Riyadh’s power over oil. 
  <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
- <p class="updated_time"> 09:39 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 09:29 AM CT, Jul. 10 </p> 
@@ -97,16 +103,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62078900?at_medium=RSS&at_campaign=KARANGA">Eid in Madagascar: Zebus, dumplings and samosas</a> BBC: How a Muslim community on the Indian Ocean island celebrates one of Islam's most important holidays. 
  <p class="updated_time"> 06:25 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62083077?at_medium=RSS&at_campaign=KARANGA">Saudi artists confront change as kingdom shifts</a> BBC: The rise of a more modern culture presents new challenges to its once fettered artists. 
- <p class="updated_time"> 06:23 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62103300?at_medium=RSS&at_campaign=KARANGA">Flash of light as meteor spotted over Chile</a> BBC: The asteroid, which lit up the night sky in Santiago, was caught on camera. 
  <p class="updated_time"> 06:11 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
- <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
- <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
@@ -117,12 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
- <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
- <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62077109?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Daily heartbreak of life in a country gone bankrupt</a> BBC: Living in Sri Lanka is a daily battle and people are broken after months of crisis, writes Andrew Fidel Fernando. 
- <p class="updated_time"> 06:13 PM CT, Jul. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62046521?at_medium=RSS&at_campaign=KARANGA">Zero Covid holds danger for China's Xi</a> BBC: The leader is seeking a historic third term amid an economic slump and growing fatigue over Covid. 
 
 
 </details>
