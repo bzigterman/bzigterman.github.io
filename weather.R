@@ -928,10 +928,6 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 tooltip = list(pointFormat = "Precipitation: {point.daily_precip_total}″"),
                 color = "#b0dcf0",
                 yAxis = 1) %>%
- # hc_yAxis(title = "",
-  #         labels = list(
-   #          format = "{value}°")
-#  ) %>%
   hc_xAxis(
     title = "",
     showLastLabel = FALSE,
