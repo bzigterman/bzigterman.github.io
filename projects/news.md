@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
  <p class="updated_time"> 01:02 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
- <p class="updated_time"> 12:29 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 12:15 PM CT, Jul. 10 </p> 
@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62116056?at_medium=RSS&at_campaign=KARANGA">Inside the presidential house now full of Sri Lankans</a> BBC: Sri Lankans have been touring the luxury presidential residence in Colombo after protesters stormed it. 
  <p class="updated_time"> 11:00 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
+ <p class="updated_time"> 10:25 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/bidens-middle-east-trip-is-a-high-risk-bid-to-reset-saudi-relations-11657481150">Biden's Middle East Trip Is a High-Risk Bid to Reset Saudi Relations</a> WSJ: The president is trying to balance human-rights concerns with Riyadh’s power over oil. 
  <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 09:39 AM CT, Jul. 10 </p> 
@@ -35,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
+ <p class="updated_time"> 08:14 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
- <p class="updated_time"> 05:39 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/egyptian-activist-is-litmus-test-for-the-west-as-biden-visits-middle-east-11657462857">Egyptian Activist Is Litmus Test for West as Biden Visits Middle East</a> WSJ: Egyptian activist who has been on a hunger strike for 100 days, Alaa Abdel-Fattah, rose to prominence in the 2011 revolution; his family is calling on Western leaders to help secure his release from prison. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election, early results show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
  <p class="updated_time"> 04:39 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
- <p class="updated_time"> 03:10 PM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as Protesters Storm Residence</a> WSJ: Prime minister says he will also step down after just two months in office as hundreds of protesters stormed and occupied the president’s residence amid public anger over the country’s deepening sovereign debt crisis. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
