@@ -45,6 +45,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
+ <p class="updated_time"> 06:21 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:39 AM CT, Jul. 10 </p> 
