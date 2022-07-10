@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
+ <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
  <p class="updated_time"> 02:53 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
@@ -83,10 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62108829?at_medium=RSS&at_campaign=KARANGA">Politician Tajzadeh and two film directors arrested in Iran</a> BBC: Iranian authorities arrest reformist Mostafa Tajzadeh and two film directors over protests. 
- <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
- <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine">U.S. tells China that its support for Russia in Ukraine complicates relations</a> NPR: China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
@@ -130,6 +130,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110778838/a-supreme-court-decision-could-radically-reshape-presidential-elections">A Supreme Court decision could radically reshape presidential elections</a> NPR: A new Supreme Court case could radically change congressional and presidential elections by giving broad, largely unchecked power to state legislators in deciding how those elections are run. 
+ <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110778810/the-jan-6-hearings-happening-this-week">The Jan. 6 hearings happening this week</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol is expected to hold two more hearings this week, including one in primetime. 
  <p class="updated_time"> 10:09 AM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
@@ -160,10 +164,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html">Here's what's in Biden's executive order on abortion rights</a> CNN: President Joe Biden on Friday signed an executive order aimed at protecting access to reproductive health services in the wake of the Supreme Court overturning Roe v. Wade and eliminating the constitutional right to an abortion. 
  <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
- <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order">A new executive order aims to preserve abortion access, but its reach is limited</a> NPR: The order will create a new task force on reproductive health care and to coordinate additional steps to help people access abortions. 
- <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
 
 
 </details>
