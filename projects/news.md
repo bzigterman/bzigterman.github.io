@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110720566/japan-votes-for-key-election-in-shadow-of-abe-assassination">Japan votes for key election in shadow of Abe assassination</a> NPR: Japanese went to the polls Sunday for an election to its upper house in the shadow of the assassination of former Prime Minister Shinzo Abe, who was gunned down while making a campaign speech. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719305/ukrainian-governor-russia-raising-true-hell-in-the-east">Ukrainian governor: Russia raising 'true hell' in the east</a> NPR: Russian forces are raising "true hell" in Ukraine's eastern industrial heartland, despite assessments they were taking an operational pause, a regional governor said Saturday. 
+ <a href="https://www.npr.org/2022/07/10/1110719305/ukrainian-governor-russia-raising-true-hell-in-the-east">Ukraine: 10 dead in rocket attack on apartment building</a> NPR: Russian rockets hit the eastern Ukraine town of Chasiv Yar, destroying a five-story apartment building and killing at least 10 people, officials said Sunday. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 14 dead in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 14 people and left three others in critical condition, according to police. 
+ <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 15 killed in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 15 people and left others in critical condition, according to police. 
  <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 01:44 AM CT, Jul. 10 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1108967278/canada-gun-control-us-guns-trafficking">As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
- <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka opposition hopes to install new gov't amid turmoil</a> NPR: Sri Lanka's opposition political parties will meet Sunday to agree on a new government a day after the country's president and prime minister offered to resign following  protests in their homes. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
