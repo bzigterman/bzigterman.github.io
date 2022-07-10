@@ -32,7 +32,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Abe's party is headed to take a major victory in Japan's election, exit polls show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of former Prime Minister Shinzo Abe's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719305/ukrainian-governor-russia-raising-true-hell-in-the-east">Ukraine: 10 dead in rocket attack on apartment building</a> NPR: Russian rockets hit the eastern Ukraine town of Chasiv Yar, destroying a five-story apartment building and killing at least 10 people, officials said Sunday. 
+ <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">20 people may be trapped after a rocket hit an apartment in Ukraine </a> NPR: Russian rockets hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">South Africa police are investigating reports a group of men opened fire at a bar</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
  <p class="updated_time"> 03:29 AM CT, Jul. 10 </p> 
