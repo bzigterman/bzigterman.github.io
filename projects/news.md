@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 09:29 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
- <p class="updated_time"> 09:07 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
  <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
+ <p class="updated_time"> 05:57 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Japan's Ruling Party Wins Election Two Days After Shinzo Abe Assassination</a> WSJ: Prime Minister Fumio Kishida said he wants to revise the constitution, a longstanding goal of slain former leader. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/companies-brace-for-nord-stream-repairs-fearing-pipeline-wont-reopen-11657450800">Manufacturers Brace for Nord Stream Repairs, Fearing Pipeline Won't Reopen</a> WSJ: Russia’s main natural-gas artery to Europe is about to close for maintenance. Governments on the continent worry the shutdown will be permanent, while manufacturers are preparing for possible gas rationing that would force them to shut production. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
- <p class="updated_time"> 07:47 PM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Japan Votes in Parliamentary Election Two Days After Abe's Killing</a> WSJ: Leaders of both the ruling and opposition camps said they didn’t want the assassination of former Prime Minister Shinzo Abe to change Japan’s political culture. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62093347?at_medium=RSS&at_campaign=KARANGA">Durban riots: South Africa still bears the scars one year on</a> BBC: More than 300 people died in what the president called an "insurrection", but what has changed? 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
@@ -130,6 +130,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:09 AM CT, Jul. 10 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723316/native-americans-tell-haaland-their-stories-of-being-forced-into-boarding-school">Native Americans tell Haaland their stories of being forced into boarding schools</a> NPR: Ayesha Rascoe speaks with Ramona Klein, a member of the Turtle Mountain Band of Chippewa, about a listening tour among Native Americans by U.S. Interior Secretary Deb Haaland. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
@@ -160,8 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
  <p class="updated_time"> 10:08 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order">A new executive order aims to preserve abortion access, but its reach is limited</a> NPR: The order will create a new task force on reproductive health care and to coordinate additional steps to help people access abortions. 
- <p class="updated_time"> 10:06 AM CT, Jul. 08 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
