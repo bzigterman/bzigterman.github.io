@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 11:56 PM CT, July 09</p>
+<p class="updated_time"> Latest data: 12:00 AM CT, July 10</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -35,7 +35,7 @@ Currently:
 <iframe src="/interactive/champaign_weather_year.html" width="100%" height="600"> 
 </iframe>
 
-## Almanac for July 09
+## Almanac for July 10
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_almanac.png"
