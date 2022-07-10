@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
+ <p class="updated_time"> 12:24 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
+ <p class="updated_time"> 12:15 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62115343?at_medium=RSS&at_campaign=KARANGA">Faroe Islands to limit dolphin hunt after outcry</a> BBC: The practice has been under scrutiny after more than 1,400 dolphins were killed in one day last year. 
+ <p class="updated_time"> 11:49 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62116056?at_medium=RSS&at_campaign=KARANGA">Inside the presidential house now full of Sri Lankans</a> BBC: Sri Lankans have been touring the luxury presidential residence in Colombo after protesters stormed it. 
+ <p class="updated_time"> 11:35 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
+ <p class="updated_time"> 11:00 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
  <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
@@ -23,28 +35,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
+ <p class="updated_time"> 07:32 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 07:29 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
+ <p class="updated_time"> 07:26 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-next-leader-faces-economic-political-challenges-unseen-since-thatcher-11657470391">U.K.'s Next Leader Faces Challenges Unseen Since Thatcher</a> WSJ: Trust in political institutions has ebbed among the British public, and the country is experiencing its largest drop in real incomes since the 1950s. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
  <p class="updated_time"> 06:21 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
- <p class="updated_time"> 05:57 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Japan's Ruling Party Wins Election Two Days After Shinzo Abe Assassination</a> WSJ: Prime Minister Fumio Kishida said he wants to revise the constitution, a longstanding goal of slain former leader. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:39 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/egyptian-activist-is-litmus-test-for-the-west-as-biden-visits-middle-east-11657462857">Egyptian Activist Is Litmus Test for West as Biden Visits Middle East</a> WSJ: Egyptian activist who has been on a hunger strike for 100 days, Alaa Abdel-Fattah, rose to prominence in the 2011 revolution; his family is calling on Western leaders to help secure his release from prison. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Abe's party is headed to take a major victory in Japan's election, exit polls show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of former Prime Minister Shinzo Abe's assassination. 
+ <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election, early results show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">Scores of people may be trapped after a rocket hit an apartment in Ukraine </a> NPR: A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">South Africa police are investigating reports a group of men opened fire at a bar</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
- <p class="updated_time"> 03:29 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraines-defense-minister-says-it-has-passed-test-on-new-u-s-guided-rockets-needs-more-11657455388">Ukraine's Defense Minister Says It Has 'Passed Test' on New U.S. Guided Rockets, Needs More</a> WSJ: Oleksii Reznikov stressed that the high attrition rate along Ukraine’s extensive front line has made the demand for additional supplies more urgent. 
+ <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">A group of people opened fire at a bar in South Africa, killing 15</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
  <p class="updated_time"> 02:48 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/companies-brace-for-nord-stream-repairs-fearing-pipeline-wont-reopen-11657450800">Manufacturers Brace for Nord Stream Repairs, Fearing Pipeline Won't Reopen</a> WSJ: Russia’s main natural-gas artery to Europe is about to close for maintenance. Governments on the continent worry the shutdown will be permanent, while manufacturers are preparing for possible gas rationing that would force them to shut production. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
@@ -63,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
  <p class="updated_time"> 03:10 PM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as Protesters Storm Residence</a> WSJ: Prime minister says he will also step down after just two months in office as hundreds of protesters stormed and occupied the president’s residence amid public anger over the country’s deepening sovereign debt crisis. 
- <p class="updated_time"> 02:25 PM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62108832?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crowd breaks Rajapaksa grip on power</a> BBC: Sri Lanka's leaders flee from an angry crowd - extraordinary for a country tainted by political repression. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
@@ -73,16 +83,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62108829?at_medium=RSS&at_campaign=KARANGA">Politician Tajzadeh and two film directors arrested in Iran</a> BBC: Iranian authorities arrest reformist Mostafa Tajzadeh and two film directors over protests. 
- <p class="updated_time"> 11:39 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
  <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine">U.S. tells China that its support for Russia in Ukraine complicates relations</a> NPR: China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
- <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62103506?at_medium=RSS&at_campaign=KARANGA">Russia's McDonald's replacement runs low on fries</a> BBC: Some outlets of the new "Tasty and that's it" chain stop serving fries due to a potato shortage. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-62102821?at_medium=RSS&at_campaign=KARANGA">Elon Musk pulls out of $44bn deal to buy Twitter</a> BBC: Twitter says it is committed to the deal and will take legal action to enforce the agreement. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
@@ -93,16 +99,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62083077?at_medium=RSS&at_campaign=KARANGA">Saudi artists confront change as kingdom shifts</a> BBC: The rise of a more modern culture presents new challenges to its once fettered artists. 
  <p class="updated_time"> 06:23 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62103300?at_medium=RSS&at_campaign=KARANGA">Flash of light as meteor spotted over Chile</a> BBC: The asteroid, which lit up the night sky in Santiago, was caught on camera. 
- <p class="updated_time"> 06:17 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62096162?at_medium=RSS&at_campaign=KARANGA">Italians wait for rain where longest river runs dry</a> BBC: Farmers in the north fear for the future as the River Po runs dry in the worst drought in 70 years. 
  <p class="updated_time"> 06:11 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
- <p class="updated_time"> 02:33 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102019?at_medium=RSS&at_campaign=KARANGA">US border agents' horseback charge on Haiti migrants 'unnecessary'</a> BBC: The US border control agency said the actions of its agents potentially violated US immigration law. 
  <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
@@ -115,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
  <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
- <p class="updated_time"> 03:16 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62090379?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: The moment a gunshot is heard</a> BBC: Japan's former PM Shinzo Abe has been shot at an event in Japan's western city of Nara. 
  <p class="updated_time"> 06:16 PM CT, Jul. 07 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62051317?at_medium=RSS&at_campaign=KARANGA">Jane Campion: Netflix may be more picky over projects after subscriber fall</a> BBC: Her Oscar-winning Power of the Dog was made by Netflix but she fears others may not get a chance. 
  <p class="updated_time"> 06:15 PM CT, Jul. 07 </p> 
@@ -164,8 +164,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order">A new executive order aims to preserve abortion access, but its reach is limited</a> NPR: The order will create a new task force on reproductive health care and to coordinate additional steps to help people access abortions. 
  <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
- <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
- <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
 
 
 </details>
