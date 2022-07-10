@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62117137?at_medium=RSS&at_campaign=KARANGA">Steve Bannon willing to testify at Capitol riot hearing</a> BBC: Steve Bannon had refused to cooperate until now but his apparent change of heart is supported by Trump. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with high temperatures set to intensify in the coming days. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
  <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 02:12 PM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
- <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
  <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 01:02 PM CT, Jul. 10 </p> 
@@ -103,20 +103,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62078900?at_medium=RSS&at_campaign=KARANGA">Eid in Madagascar: Zebus, dumplings and samosas</a> BBC: How a Muslim community on the Indian Ocean island celebrates one of Islam's most important holidays. 
  <p class="updated_time"> 06:25 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62083077?at_medium=RSS&at_campaign=KARANGA">Saudi artists confront change as kingdom shifts</a> BBC: The rise of a more modern culture presents new challenges to its once fettered artists. 
- <p class="updated_time"> 06:11 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62091090?at_medium=RSS&at_campaign=KARANGA">The record breaking 105-year-old 'Bolt granny'</a> BBC: Rambai, who has won over a dozen medals in running competitions, is an inspiration to younger generations. 
+ <p class="updated_time"> 06:23 PM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62103300?at_medium=RSS&at_campaign=KARANGA">Flash of light as meteor spotted over Chile</a> BBC: The asteroid, which lit up the night sky in Santiago, was caught on camera. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
- <p class="updated_time"> 09:26 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
- <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
- <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62074223?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe death: Shock killing that could change Japan forever</a> BBC: The killing of the former PM has raised questions in a country where people don't think about violent crime. 
- <p class="updated_time"> 04:00 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62090791?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Hidden tech war as Slovyansk battle looms</a> BBC: Ukrainian volunteers are taking part in a largely unseen battle to defend their territory with drones. 
 
 
 </details>
