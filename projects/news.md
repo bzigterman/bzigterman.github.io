@@ -29,10 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
+ <p class="updated_time"> 06:21 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:57 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Japan's Ruling Party Wins Election Two Days After Shinzo Abe Assassination</a> WSJ: Prime Minister Fumio Kishida said he wants to revise the constitution, a longstanding goal of slain former leader. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
+ <p class="updated_time"> 05:39 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/egyptian-activist-is-litmus-test-for-the-west-as-biden-visits-middle-east-11657462857">Egyptian Activist Is Litmus Test for West as Biden Visits Middle East</a> WSJ: Egyptian activist who has been on a hunger strike for 100 days, Alaa Abdel-Fattah, rose to prominence in the 2011 revolution; his family is calling on Western leaders to help secure his release from prison. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Abe's party is headed to take a major victory in Japan's election, exit polls show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of former Prime Minister Shinzo Abe's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
  <p class="updated_time"> 03:10 PM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-protesters-demand-presidents-resignation-storm-his-residence-11657360750">Sri Lanka President to Resign as Protesters Storm Residence</a> WSJ: Prime minister says he will also step down after just two months in office as hundreds of protesters stormed and occupied the president’s residence amid public anger over the country’s deepening sovereign debt crisis. 
- <p class="updated_time"> 03:01 PM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277">Luis Echeverría, Former President of Mexico, Dies at 100</a> WSJ: Known for his leftist rhetoric, Mr. Echeverría presided over a regime during which hundreds disappeared. He would later face genocide accusations. 
  <p class="updated_time"> 02:25 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108832?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crowd breaks Rajapaksa grip on power</a> BBC: Sri Lanka's leaders flee from an angry crowd - extraordinary for a country tainted by political repression. 
  <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine">U.S. tells China that its support for Russia in Ukraine complicates relations</a> NPR: China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
- <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62103506?at_medium=RSS&at_campaign=KARANGA">Russia's McDonald's replacement runs low on fries</a> BBC: Some outlets of the new "Tasty and that's it" chain stop serving fries due to a potato shortage. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
