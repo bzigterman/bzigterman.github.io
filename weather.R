@@ -798,6 +798,7 @@ dailies <- full_join(daily_maxs,daily_mins)
 
 monthly_rain <- willard_data_updated %>%
   select(date, precip_one_hour) %>%
+  filter(date > now(tzone = "America/Chicago")-weeks(48)) %>%
   mutate(year = year(date)) %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
