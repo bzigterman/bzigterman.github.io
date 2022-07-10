@@ -28,7 +28,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:30 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110722056/uk-defense-minister-rules-himself-out-of-leadership-race">UK defense minister rules himself out of leadership race</a> NPR: A British Cabinet minister tipped to be a frontrunner in the Conservative Party's leadership race ruled himself out of the contest Saturday as contenders tried to get ahead. 
+ <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Abe's party is headed to take a major victory in Japan's election, exit polls show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of former Prime Minister Shinzo Abe's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
