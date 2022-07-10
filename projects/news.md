@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 01:44 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
@@ -68,7 +70,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka's president and prime minister to resign after tumultuous protests</a> NPR: Demonstrations have gone on for months during the nation's worst economic crisis in recent memory. Crowds stormed the homes of the president and prime minister, setting fire to one of the buildings. 
+ <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka opposition hopes to install new gov't amid turmoil</a> NPR: Sri Lanka's opposition political parties will meet Sunday to agree on a new government a day after the country's president and prime minister offered to resign following  protests in their homes. 
  <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:48 AM CT, Jul. 09 </p> 
