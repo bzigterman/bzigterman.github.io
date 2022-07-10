@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
+ <p class="updated_time"> 08:12 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
+ <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
  <p class="updated_time"> 07:29 AM CT, Jul. 10 </p> 
@@ -24,15 +30,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-defense-minister-rules-himself-out-of-leadership-race">UK defense minister rules himself out of leadership race</a> NPR: A British Cabinet minister tipped to be a frontrunner in the Conservative Party's leadership race ruled himself out of the contest Saturday as contenders tried to get ahead. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110720566/japan-votes-for-key-election-in-shadow-of-abe-assassination">Japan votes for key election in shadow of Abe assassination</a> NPR: Japanese went to the polls Sunday for an election to its upper house in the shadow of the assassination of former Prime Minister Shinzo Abe, who was gunned down while making a campaign speech. 
+ <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Abe's party is headed to take a major victory in Japan's election, exit polls show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of former Prime Minister Shinzo Abe's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719305/ukrainian-governor-russia-raising-true-hell-in-the-east">Ukraine: 10 dead in rocket attack on apartment building</a> NPR: Russian rockets hit the eastern Ukraine town of Chasiv Yar, destroying a five-story apartment building and killing at least 10 people, officials said Sunday. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 15 killed in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 15 people and left others in critical condition, according to police. 
- <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
+ <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">South Africa police are investigating reports a group of men opened fire at a bar</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
+ <p class="updated_time"> 03:29 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-defense-minister-says-it-has-passed-test-on-new-u-s-guided-rockets-needs-more-11657455388">Ukraine's Defense Minister Says It Has 'Passed Test' on New U.S. Guided Rockets, Needs More</a> WSJ: Oleksii Reznikov stressed that the high attrition rate along Ukraine’s extensive front line has made the demand for additional supplies more urgent. 
+ <p class="updated_time"> 02:48 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/companies-brace-for-nord-stream-repairs-fearing-pipeline-wont-reopen-11657450800">Manufacturers Brace for Nord Stream Repairs, Fearing Pipeline Won't Reopen</a> WSJ: Russia’s main natural-gas artery to Europe is about to close for maintenance. Governments on the continent worry the shutdown will be permanent, while manufacturers are preparing for possible gas rationing that would force them to shut production. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
+ <p class="updated_time"> 07:47 PM CT, Jul. 09 </p> 
+ <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Japan Votes in Parliamentary Election Two Days After Abe's Killing</a> WSJ: Leaders of both the ruling and opposition camps said they didn’t want the assassination of former Prime Minister Shinzo Abe to change Japan’s political culture. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62093347?at_medium=RSS&at_campaign=KARANGA">Durban riots: South Africa still bears the scars one year on</a> BBC: More than 300 people died in what the president called an "insurrection", but what has changed? 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
@@ -63,16 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62105226?at_medium=RSS&at_campaign=KARANGA">Paul Kagame to seek fourth term as president of Rwanda</a> BBC: He says he will consider "running for another 20 years" after 22 years in office already. 
  <p class="updated_time"> 11:04 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
- <p class="updated_time"> 10:19 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-russian-assault-on-city-where-it-defeated-2014-revolt-11657367079">Ukraine Prepares to Defend City It Retook After 2014 Revolt</a> WSJ: Ukrainian officials expect a new Russian push toward Slovyansk, a nearly empty city where separatists helped kick off the Moscow-backed uprising in Ukraine eight years ago. 
  <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine">U.S. tells China that its support for Russia in Ukraine complicates relations</a> NPR: China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart. 
- <p class="updated_time"> 07:36 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110667115/ukraine-prepares-for-first-rape-case-connected-to-the-russian-invasion">Ukraine prepares for first rape case connected to the Russian invasion</a> NPR: Ukraine is preparing to try its first rape case related to the Russian invasion. Rape has been used a tactic of war by Russians before - against German women during World War II. 
- <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110667073/brittney-griners-wife-demands-the-u-s-do-more-to-have-russia-release-her">Brittney Griner's wife demands the U.S. do more to have Russia release her</a> NPR: Scott Simon speaks with international security expert Danielle Gilbert about Brittney Griner's detention in Russia on drug charges. 
- <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62094363?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: How the former Japan PM's assassination unfolded</a> BBC: How a gunman attacked and fatally shot the former Japanese PM during a campaign rally. 
  <p class="updated_time"> 08:36 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-53938094?at_medium=RSS&at_campaign=KARANGA">The legacy of Japan's longest serving PM</a> BBC: A contentious nationalist, he was known for his signature economic reforms and an assertive foreign policy. 
- <p class="updated_time"> 06:59 AM CT, Jul. 08 </p> 
- <a href="https://www.wsj.com/articles/race-to-succeed-boris-johnson-as-u-k-prime-minister-begins-11657280794">Race Begins to Succeed Boris Johnson as U.K. Prime Minister</a> WSJ: Conservative Party officials are now looking to quickly turn the page on the regicide and want to accelerate the convoluted internal process to find his successor. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
  <p class="updated_time"> 04:35 AM CT, Jul. 08 </p> 
