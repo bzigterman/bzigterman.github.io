@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-defense-minister-rules-himself-out-of-leadership-race">UK defense minister rules himself out of leadership race</a> NPR: A British Cabinet minister tipped to be a frontrunner in the Conservative Party's leadership race ruled himself out of the contest Saturday as contenders tried to get ahead. 
+ <p class="updated_time"> 05:45 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-votes-for-key-election-in-shadow-of-abe-assassination">Japan votes for key election in shadow of Abe assassination</a> NPR: Japanese went to the polls Sunday for an election to its upper house in the shadow of the assassination of former Prime Minister Shinzo Abe, who was gunned down while making a campaign speech. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know">What we know so far about former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. 
  <p class="updated_time"> 10:19 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-russian-assault-on-city-where-it-defeated-2014-revolt-11657367079">Ukraine Prepares to Defend City It Retook After 2014 Revolt</a> WSJ: Ukrainian officials expect a new Russian push toward Slovyansk, a nearly empty city where separatists helped kick off the Moscow-backed uprising in Ukraine eight years ago. 
- <p class="updated_time"> 09:12 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62106446?at_medium=RSS&at_campaign=KARANGA">Ukraine reports heavy Russian missile strikes in east and south</a> BBC: Civilian areas are hit again in several cities and police say Russia is setting crops ablaze. 
  <p class="updated_time"> 08:32 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine">U.S. tells China that its support for Russia in Ukraine complicates relations</a> NPR: China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart. 
  <p class="updated_time"> 07:36 AM CT, Jul. 09 </p> 
