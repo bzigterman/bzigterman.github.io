@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
+ <p class="updated_time"> 01:02 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
  <p class="updated_time"> 12:29 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
- <p class="updated_time"> 12:24 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
  <p class="updated_time"> 12:15 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62115343?at_medium=RSS&at_campaign=KARANGA">Faroe Islands to limit dolphin hunt after outcry</a> BBC: The practice has been under scrutiny after more than 1,400 dolphins were killed in one day last year. 
  <p class="updated_time"> 11:49 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62116056?at_medium=RSS&at_campaign=KARANGA">Inside the presidential house now full of Sri Lankans</a> BBC: Sri Lankans have been touring the luxury presidential residence in Colombo after protesters stormed it. 
- <p class="updated_time"> 11:35 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
  <p class="updated_time"> 11:00 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
  <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
+ <p class="updated_time"> 09:39 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 09:29 AM CT, Jul. 10 </p> 
@@ -37,16 +39,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
- <p class="updated_time"> 07:32 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 07:26 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-next-leader-faces-economic-political-challenges-unseen-since-thatcher-11657470391">U.K.'s Next Leader Faces Challenges Unseen Since Thatcher</a> WSJ: Trust in political institutions has ebbed among the British public, and the country is experiencing its largest drop in real incomes since the 1950s. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
- <p class="updated_time"> 06:21 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:39 AM CT, Jul. 10 </p> 
