@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62093347?at_medium=RSS&at_campaign=KARANGA">Durban riots: South Africa still bears the scars one year on</a> BBC: More than 300 people died in what the president called an "insurrection", but what has changed? 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
- <p class="updated_time"> 06:38 PM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62056687?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A welcome on two wheels for refugee children</a> BBC: Around 30,000 Ukrainian refugees have fled to Denmark, where a nationwide scheme is offering a unique, two-wheeled welcome. 
  <p class="updated_time"> 06:06 PM CT, Jul. 09 </p> 
