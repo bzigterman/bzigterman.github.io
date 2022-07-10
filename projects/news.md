@@ -17,6 +17,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 01:32 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/62110154?at_medium=RSS&at_campaign=KARANGA">Austrian Grand Prix: Formula 1 to investigate claims of abuse</a> BBC: Formula 1 will investigate claims that some spectators at the Austrian Grand Prix suffered discriminatory abuse. 
+ <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 01:02 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
- <p class="updated_time"> 08:14 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
