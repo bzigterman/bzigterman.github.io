@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
+ <p class="updated_time"> 09:29 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
+ <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
+ <p class="updated_time"> 09:07 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
- <p class="updated_time"> 08:12 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
@@ -23,10 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
- <p class="updated_time"> 06:32 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
- <p class="updated_time"> 06:30 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
