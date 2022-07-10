@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:29 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 12:24 PM CT, Jul. 10 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
  <p class="updated_time"> 07:32 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
- <p class="updated_time"> 07:29 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 07:26 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-next-leader-faces-economic-political-challenges-unseen-since-thatcher-11657470391">U.K.'s Next Leader Faces Challenges Unseen Since Thatcher</a> WSJ: Trust in political institutions has ebbed among the British public, and the country is experiencing its largest drop in real incomes since the 1950s. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
