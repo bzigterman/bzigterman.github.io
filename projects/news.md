@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110722056/uk-defense-minister-rules-himself-out-of-leadership-race">UK defense minister rules himself out of leadership race</a> NPR: A British Cabinet minister tipped to be a frontrunner in the Conservative Party's leadership race ruled himself out of the contest Saturday as contenders tried to get ahead. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-votes-for-key-election-in-shadow-of-abe-assassination">Japan votes for key election in shadow of Abe assassination</a> NPR: Japanese went to the polls Sunday for an election to its upper house in the shadow of the assassination of former Prime Minister Shinzo Abe, who was gunned down while making a campaign speech. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo">PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom</a> NPR: Dubbed the "train of hope," the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways. 
  <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1108967278/canada-gun-control-us-guns-trafficking">As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
- <p class="updated_time"> 04:30 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
