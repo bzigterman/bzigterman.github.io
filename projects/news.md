@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110719305/ukrainian-governor-russia-raising-true-hell-in-the-east">Ukrainian governor: Russia raising 'true hell' in the east</a> NPR: Russian forces are raising "true hell" in Ukraine's eastern industrial heartland, despite assessments they were taking an operational pause, a regional governor said Saturday. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 14 dead in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 14 people and left three others in critical condition, according to police. 
  <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage">This Eid al-Adha, the new rules for hajj have left many frustrated</a> NPR: The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival. 
  <p class="updated_time"> 04:25 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis">Sri Lanka opposition hopes to install new gov't amid turmoil</a> NPR: Sri Lanka's opposition political parties will meet Sunday to agree on a new government a day after the country's president and prime minister offered to resign following  protests in their homes. 
- <p class="updated_time"> 04:00 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
