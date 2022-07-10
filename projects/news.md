@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
+ <p class="updated_time"> 07:29 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
+ <p class="updated_time"> 06:32 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 06:30 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
@@ -21,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-police-say-14-dead-in-bar-shooting-in-soweto">South Africa police say 15 killed in bar shooting in Soweto</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed 15 people and left others in critical condition, according to police. 
  <p class="updated_time"> 03:42 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
- <p class="updated_time"> 01:44 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62108597?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa to resign after palace stormed</a> BBC: Thousands of protesters have been demanding the PM and president quit over the country's economic crisis. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
@@ -35,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
  <p class="updated_time"> 06:01 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
- <p class="updated_time"> 05:53 PM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 04:39 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62109971?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands march to White House for abortion rights</a> BBC: The US Supreme Court last month repealed Roe v Wade, ending the nationwide guarantee to an abortion. 
  <p class="updated_time"> 03:10 PM CT, Jul. 09 </p> 
@@ -65,16 +71,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110667115/ukraine-prepares-for-first-rape-case-connected-to-the-russian-invasion">Ukraine prepares for first rape case connected to the Russian invasion</a> NPR: Ukraine is preparing to try its first rape case related to the Russian invasion. Rape has been used a tactic of war by Russians before - against German women during World War II. 
  <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110667073/brittney-griners-wife-demands-the-u-s-do-more-to-have-russia-release-her">Brittney Griner's wife demands the U.S. do more to have Russia release her</a> NPR: Scott Simon speaks with international security expert Danielle Gilbert about Brittney Griner's detention in Russia on drug charges. 
- <p class="updated_time"> 07:00 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110667052/mourners-visit-the-site-of-former-japanese-prime-minister-shinzo-abes-assassinat">Mourners visit the site of former Japanese Prime Minister Shinzo Abe's assassination</a> NPR: Japan is shocked and in mourning following the assassination of former Prime Minister Shinzo Abe on Friday. Police say a homemade gun was used. 
  <p class="updated_time"> 06:29 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-chinese-top-diplomats-meet-in-bid-to-stabilize-ties-11657338305">Blinken Reproves China Counterpart Over Support for Russia</a> WSJ: The U.S. secretary of state’s comments in a meeting with China's foreign minister are a sign of how the invasion of Ukraine is complicating efforts to steady relations between the two superpowers. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
- <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo">PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom</a> NPR: Dubbed the "train of hope," the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways. 
- <p class="updated_time"> 06:00 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1108967278/canada-gun-control-us-guns-trafficking">As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts</a> NPR: A bill before Canada's Parliament aims to stop the spread of handguns — but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S. 
  <p class="updated_time"> 03:32 AM CT, Jul. 09 </p> 
  <a href="https://www.wsj.com/articles/assassination-of-japans-shinzo-abe-stuns-nation-11657342002">Suspect in Shooting of Japan's Abe Thought to Have Trained in Rifle Use</a> WSJ: The suspect in the fatal shooting of former Japan Prime Minister Shinzo Abe likely trained in rifle shooting and maintenance while in the navy, according to military records. 
  <p class="updated_time"> 11:45 PM CT, Jul. 08 </p> 
@@ -128,6 +128,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723316/native-americans-tell-haaland-their-stories-of-being-forced-into-boarding-school">Native Americans tell Haaland their stories of being forced into boarding schools</a> NPR: Ayesha Rascoe speaks with Ramona Klein, a member of the Turtle Mountain Band of Chippewa, about a listening tour among Native Americans by U.S. Interior Secretary Deb Haaland. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723295/texas-rep-henry-cuellar-is-one-democrat-who-opposes-abortion-rights">Texas Rep. Henry Cuellar is one Democrat who opposes abortion rights</a> NPR: Democratic leaders are hoping Rep. Henry Cuellar of Texas holds onto his seat in November's midterm elections, even though he opposes abortion rights, a position at odds with his party brethren. 
+ <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
+ <a href="https://www.npr.org/2022/07/10/1110723288/politics-chat-biden-to-saudi-next-jan-6-hearing-tues-gun-owners-support-control">Politics chat: Biden to Saudi; next Jan. 6 hearing Tues.; gun owners support control</a> NPR: The House Jan. 6 committee will hold another public hearing Tuesday. Also, an NPR/Ipsos poll found that gun owners overwhelmingly support some gun control measures. 
  <p class="updated_time"> 04:30 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police">First Amendment advocates respond to a new Arizona law limiting recording of police</a> NPR: Recently signed legislation in Arizona would bar people from recording video of police officers within 8 feet after being told not to. 
  <p class="updated_time"> 04:00 AM CT, Jul. 10 </p> 
@@ -156,12 +162,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:20 AM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110151655/latest-book-on-trumps-gop-casts-harsh-light-on-partys-shift-and-its-motives">'Thank You for Your Servitude' casts harsh light on GOP's shift and its motives</a> NPR: Although Donald Trump remains an eminence throughout, Mark Leibovich's true subject here is Trump's stable of enablers and the transformation they have wrought on their party and themselves. 
- <p class="updated_time"> 07:41 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110257412/jobs-hiring-unemployment-data-june">Hiring slipped only slightly in June, with no sign of a looming recession</a> NPR: U.S. employers added 372,000 jobs in June, while the unemployment rate held steady at 3.6%. Despite slightly slower job growth, the labor market remains an economic bright spot. 
- <p class="updated_time"> 06:25 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110435757/biden-is-expected-to-sign-an-executive-order-to-protect-abortion-rights">Biden is expected to sign an executive order to protect abortion rights</a> NPR: The White House says President Biden will try to answer the Supreme Court's reversal of Roe v. Wade, and preserve access to abortion services by signing an executive order on reproductive rights. 
- <p class="updated_time"> 04:08 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110435785/critical-trump-era-figure-to-appear-before-the-house-jan-6-panel">Critical Trump-era figure to appear before the House Jan. 6 panel</a> NPR: Behind closed doors, former White House Counsel Pat Cipollone is expected to talk to the House Jan. 6 panel on Friday. He's considered a key witness to attempts to overturn the 2020 election. 
  <p class="updated_time"> 11:38 AM CT, Jul. 07 </p> 
  <a href="https://www.cnn.com/2022/07/07/politics/liz-cheney-wyoming-republican-donald-trump/index.html">Why Liz Cheney is in a lot of trouble in Wyoming</a> CNN: Rep. Liz Cheney has become an unexpected hero for Democrats. She was one of the few Republicans to vote to impeach President Donald Trump last year, has served as one of his most vocal critics in the GOP and is the vice chair of the House select committee investigating the January 6, 2021, insurrection at the US Capitol. 
 
