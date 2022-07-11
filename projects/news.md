@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
  <p class="updated_time"> 12:12 PM CT, Jul. 11 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/omicron-strains-drive-new-covid-wave-in-europe-as-measures-fall-away-11657552364">Omicron Strains Drive Covid Wave in Europe as Measures Fall Away</a> WSJ: A Covid-19 infection wave driven by two hyper-infectious Omicron subvariants is moving rapidly across Europe, leading to an uptick in cases and hospitalizations in countries that have dropped the majority of preventive measures against the virus ahead of the summer months. 
  <p class="updated_time"> 04:58 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
- <p class="updated_time"> 02:46 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/probe-into-shinzo-abe-killing-suspect-looks-at-his-mothers-church-11657539962">Probe Into Abe Killing Suspect Looks at His Mother's Church</a> WSJ: The man suspected of killing Shinzo Abe may have targeted the former Japanese leader because he perceived a link between Mr. Abe and a church that received money from the suspect’s mother before she went bankrupt, a church leader said.​ 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
@@ -63,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
- <p class="updated_time"> 06:56 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/technology-62072480?at_medium=RSS&at_campaign=KARANGA">Who are the hackers who started a fire in Iran?</a> BBC: Experts are asking who is behind Predatory Sparrow, the group which says it started a fire in an Iranian factory. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
  <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
@@ -117,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62103300?at_medium=RSS&at_campaign=KARANGA">Flash of light as meteor spotted over Chile</a> BBC: The asteroid, which lit up the night sky in Santiago, was caught on camera. 
  <p class="updated_time"> 06:07 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
- <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
 
 
 </details>
@@ -126,6 +122,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
  <p class="updated_time"> 10:18 AM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jul. 11 </p> 
@@ -160,8 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas">Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East</a> NPR: Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. 
  <p class="updated_time"> 03:54 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
- <p class="updated_time"> 03:50 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110577418/the-impact-that-president-bidens-executive-order-on-abortion-access-will-have">The impact that President Biden's executive order on abortion access will have</a> NPR: NPR's Ailsa Chang talks with Kim Mutcherson, dean and professor of law of Rutgers University, about the impact President Biden's executive order on abortion access will have. 
 
 
 </details>
