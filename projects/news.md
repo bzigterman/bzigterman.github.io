@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery aggregator's bag. 
  <p class="updated_time"> 01:55 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa step down. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
@@ -24,7 +26,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
  <p class="updated_time"> 06:56 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/technology-62072480?at_medium=RSS&at_campaign=KARANGA">Predatory Sparrow: Who are the hackers who say they started a fire in Iran?</a> BBC: Experts are asking who is behind Predatory Sparrow, the group which says it started a fire in an Iranian factory. 
+ <a href="https://www.bbc.co.uk/news/technology-62072480?at_medium=RSS&at_campaign=KARANGA">Who are the hackers who started a fire in Iran?</a> BBC: Experts are asking who is behind Predatory Sparrow, the group which says it started a fire in an Iranian factory. 
  <p class="updated_time"> 06:32 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117137?at_medium=RSS&at_campaign=KARANGA">Steve Bannon willing to testify at Capitol riot hearing</a> BBC: Steve Bannon had refused to cooperate until now but his apparent change of heart is supported by Trump. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
  <p class="updated_time"> 10:25 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/bidens-middle-east-trip-is-a-high-risk-bid-to-reset-saudi-relations-11657481150">Biden's Middle East Trip Is a High-Risk Bid to Reset Saudi Relations</a> WSJ: The president is trying to balance human-rights concerns with Riyadh’s power over oil. 
- <p class="updated_time"> 09:50 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
