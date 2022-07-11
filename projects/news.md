@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery aggregator's bag. 
  <p class="updated_time"> 01:55 AM CT, Jul. 11 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 01:50 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
- <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
