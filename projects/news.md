@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
+ <p class="updated_time"> 09:25 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62125343?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 7,200 Ukrainian service personnel missing - ombudsman</a> BBC: Most of them are in Russian captivity, and "sooner or later" will be freed, Oleh Kotenko says. 
  <p class="updated_time"> 09:19 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">In first, US considers over-the-counter birth control pills</a> BBC: HDA Pharma says the move will remove unnecessary barriers for US women seeking contraception. 
  <p class="updated_time"> 09:09 AM CT, Jul. 11 </p> 
@@ -17,16 +21,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
- <p class="updated_time"> 08:34 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 08:29 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Relief and anxiety as limited fuel supplies resume</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
- <p class="updated_time"> 06:41 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to fight Russia, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
  <p class="updated_time"> 05:01 AM CT, Jul. 11 </p> 
