@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
  <p class="updated_time"> 10:28 AM CT, Jul. 11 </p> 
@@ -29,30 +31,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
+ <p class="updated_time"> 06:52 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: Death toll rises to 26 in missile strike on apartment building in Chasiv Yar; three dead in Kharkiv attack, regional official says. 
+ <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
+ <p class="updated_time"> 06:44 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">A Crowded Conservative Race for U.K. Prime Minister</a> WSJ: The race to replace British Prime Minister Boris Johnson has intensified, with 11 politicians from his party pitching themselves as candidates so far. 
+ <p class="updated_time"> 06:39 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/janet-yellen-begins-asia-trip-to-win-support-for-cap-on-russian-oil-price-11657553958">Yellen Seeks Support in Asia for Russian-Oil Price Cap</a> WSJ: Treasury Secretary Janet Yellen is on an international lobbying blitz for a proposal she says will stave off a global recession, but faces technical and diplomatic challenges can be overcome. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
  <p class="updated_time"> 06:12 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/omicron-strains-drive-new-covid-wave-in-europe-as-measures-fall-away-11657552364">Omicron Strains Drive New Covid Wave in Europe as Measures Fall Away</a> WSJ: A Covid-19 infection wave driven by two hyper-infectious Omicron subvariants is moving rapidly across Europe, leading to an uptick in cases and hospitalizations in countries that have dropped the majority of preventive measures against the virus ahead of the summer months. 
- <p class="updated_time"> 05:46 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; three dead in Kharkiv attack, regional official says. 
  <p class="updated_time"> 05:01 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62118301?at_medium=RSS&at_campaign=KARANGA">Henan: Violent clashes after hundreds show up for China bank protest</a> BBC: Clashes break out after depositors angry at banks freezing nearly $6bn in funds hold a rare protest. 
  <p class="updated_time"> 04:58 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
- <p class="updated_time"> 03:44 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/large-chinese-bank-protest-put-down-with-violence-11657543437">Large Chinese Bank Protest Put Down With Violence</a> WSJ: Video from a clash in a central Chinese city spread online despite censorship; officials had prevented earlier protest using Covid-19 health codes. 
- <p class="updated_time"> 03:09 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/covid-spreading-at-fastest-pace-since-shanghai-lockdown-sends-shivers-through-china-markets-11657541394">Covid Spreading at Fastest Pace Since Shanghai Lockdown Sends Shivers Through China Markets</a> WSJ: China’s Covid-19 cases are rising at the fastest pace since late May, stirring fears of a repeat of Shanghai’s two-month lockdown, which snarled supply chains and sank hopes the country will reach growth targets. 
- <p class="updated_time"> 03:00 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/u-s-seeks-to-fix-wtos-broken-trade-dispute-process-11657540800">U.S. Seeks to Fix WTO Dispute Process</a> WSJ: The U.S. has blocked new appointments to the seven-member Appellate Body, complaining of judicial overreach—effectively disabling the World Trade Organization’s high court. 
  <p class="updated_time"> 02:46 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/probe-into-shinzo-abe-killing-suspect-looks-at-his-mothers-church-11657539962">Probe Into Shinzo Abe Killing Suspect Looks at His Mother's Church</a> WSJ: The man suspected of killing Shinzo Abe may have targeted the former Japanese leader because he perceived a link between Mr. Abe and a church that received money from the suspect’s mother before she went bankrupt, a church leader said.​ 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
- <p class="updated_time"> 02:12 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
- <p class="updated_time"> 12:55 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/nord-stream-russian-gas-pipeline-to-europe-shut-down-for-maintenance-11657533340">Nord Stream Russian Gas Pipeline to Europe Shut Down for Maintenance</a> WSJ: The Nord Stream pipeline that channels Russian natural gas to Europe shut down for a scheduled maintenance on Monday, stoking fears across the continent that the Kremlin could end supplies in retaliation for sanctions against its invasion of Ukraine. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias, known as redwoods, are in danger as flames spread through Yosemite National Park. 
  <p class="updated_time"> 11:05 PM CT, Jul. 10 </p> 
@@ -107,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62056687?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A welcome on two wheels for refugee children</a> BBC: Around 30,000 Ukrainian refugees have fled to Denmark, where a nationwide scheme is offering a unique, two-wheeled welcome. 
  <p class="updated_time"> 06:06 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
- <p class="updated_time"> 06:01 PM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
