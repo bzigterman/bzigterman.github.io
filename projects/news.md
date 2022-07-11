@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope snaps 'deepest ever' view of cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
+ <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope takes super sharp view of early cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 PM CT, Jul. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -122,8 +124,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904511/blind-loyalty-is-helping-sustain-trumps-power-in-the-republican-party-new-book-s">Blind loyalty is helping sustain Trump's power in the Republican party, new book says</a> NPR: NPR's Juana Summers talks with journalist Mark Leibovich about his new book Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission. 
  <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
- <p class="updated_time"> 10:18 AM CT, Jul. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:26 AM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/2022/07/11/politics/biden-democratic-primary-challenge-2024/index.html">As worries about Biden in 2024 grow, other Democrats aren't stepping forward to challenge him</a> CNN: A challenge requires a challenger -- and all the Democrats being discussed as potential primary opponents to President Joe Biden tell CNN they're ruling out runs and warning others to follow suit. 
  <p class="updated_time"> 06:54 AM CT, Jul. 11 </p> 
