@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias are in danger as large flames spread over 1,500 acres in Yosemite National Park. 
+ <p class="updated_time"> 08:14 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62117317?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag to permanently fly on Sydney Harbour Bridge</a> BBC: It follows a long campaign to have the flag flown as a symbol of recognition for Aboriginal Australians. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 07:03 PM CT, Jul. 10 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62113185?at_medium=RSS&at_campaign=KARANGA">Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says</a> BBC: Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine. 
  <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
- <p class="updated_time"> 09:29 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62106442?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Security was flawed, Japan police say</a> BBC: Japan is in shock after former PM Shinzo Abe was assassinated during a campaign speech. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
@@ -72,7 +74,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election, early results show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
+ <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election</a> NPR: The victory may be propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">At least 15 were killed and others are trapped after a Russian strike in Ukraine</a> NPR: A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
- <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-62102821?at_medium=RSS&at_campaign=KARANGA">Elon Musk pulls out of $44bn deal to buy Twitter</a> BBC: Twitter says it is committed to the deal and will take legal action to enforce the agreement. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62100402?at_medium=RSS&at_campaign=KARANGA">Americans in the crosshairs of China's spy game</a> BBC: As the West warns of stepped-up spying efforts by China, Americans find themselves in Beijing's sights. 
  <p class="updated_time"> 06:35 PM CT, Jul. 08 </p> 
