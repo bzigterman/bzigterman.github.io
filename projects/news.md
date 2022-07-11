@@ -35,8 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
  <p class="updated_time"> 04:23 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</a> WSJ: Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued. 
- <p class="updated_time"> 03:50 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa leave office. 
+ <p class="updated_time"> 03:44 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/large-chinese-bank-protest-put-down-with-violence-11657543437">Large Chinese Bank Protest Put Down With Violence</a> WSJ: Video from clash in Central Chinese city spreads online despite censorship; officials had prevented earlier protest using Covid-19 health codes. 
  <p class="updated_time"> 03:00 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-seeks-to-fix-wtos-broken-trade-dispute-process-11657540800">U.S. Seeks to Fix WTO Dispute Process</a> WSJ: The U.S. has blocked new appointments to the seven-member Appellate Body, complaining of judicial overreach—effectively disabling the World Trade Organization’s high court. 
  <p class="updated_time"> 02:46 AM CT, Jul. 11 </p> 
@@ -71,6 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
+ <p class="updated_time"> 11:00 AM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
