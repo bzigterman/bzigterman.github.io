@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -23,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
  <p class="updated_time"> 02:36 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
+ <p class="updated_time"> 01:28 PM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 31 people. Three are dead in an attack in Kharkiv, a regional official said. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
  <p class="updated_time"> 12:22 PM CT, Jul. 11 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
- <p class="updated_time"> 06:52 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 30 people. Three are dead in an attack in Kharkiv, a regional official said. 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
  <p class="updated_time"> 06:39 AM CT, Jul. 11 </p> 
