@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 03:50 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa leave office. 
- <p class="updated_time"> 03:40 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 03:15 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
