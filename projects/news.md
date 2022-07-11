@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:21 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut as supplies halted</a> BBC: Russian pipeline operators say maintenance work is needed, but Germany suspects political motives. 
+ <p class="updated_time"> 05:02 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62119420?at_medium=RSS&at_campaign=KARANGA">Heathrow Airport warns more flight cancellations possible</a> BBC: The airport asks airlines to cut 61 flights on Monday, and warns of more disruption this summer. 
+ <p class="updated_time"> 04:58 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
  <p class="updated_time"> 04:41 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 03:50 AM CT, Jul. 11 </p> 
@@ -31,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
  <p class="updated_time"> 06:56 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-62072480?at_medium=RSS&at_campaign=KARANGA">Who are the hackers who started a fire in Iran?</a> BBC: Experts are asking who is behind Predatory Sparrow, the group which says it started a fire in an Iranian factory. 
- <p class="updated_time"> 06:32 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62117137?at_medium=RSS&at_campaign=KARANGA">Steve Bannon willing to testify at Capitol riot hearing</a> BBC: Steve Bannon had refused to cooperate until now but his apparent change of heart is supported by Trump. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
  <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62057321?at_medium=RSS&at_campaign=KARANGA">Uber Files: Massive leak reveals how top politicians secretly helped Uber</a> BBC: Emmanuel Macron is among leaders who helped the ride-hailing company disrupt new markets. 
  <p class="updated_time"> 10:25 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/bidens-middle-east-trip-is-a-high-risk-bid-to-reset-saudi-relations-11657481150">Biden's Middle East Trip Is a High-Risk Bid to Reset Saudi Relations</a> WSJ: The president is trying to balance human-rights concerns with Riyadh’s power over oil. 
- <p class="updated_time"> 09:32 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111893?at_medium=RSS&at_campaign=KARANGA">South Africa: Fifteen shot dead in Soweto township bar</a> BBC: The victims are believed to be between 19 and 35 years old, with several more in a critical condition. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
- <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
 
