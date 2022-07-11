@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
+ <p class="updated_time"> 07:03 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/62070665?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: The misinformation circulating over academic qualifications</a> BBC: Supporters of the leading candidates have been sharing misleading claims about their opponents. 
+ <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
+ <p class="updated_time"> 06:56 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-62072480?at_medium=RSS&at_campaign=KARANGA">Predatory Sparrow: Who are the hackers who say they started a fire in Iran?</a> BBC: Experts are asking who is behind Predatory Sparrow, the group which says it started a fire in an Iranian factory. 
  <p class="updated_time"> 06:32 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117137?at_medium=RSS&at_campaign=KARANGA">Steve Bannon willing to testify at Capitol riot hearing</a> BBC: Steve Bannon had refused to cooperate until now but his apparent change of heart is supported by Trump. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
@@ -17,6 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
+ <p class="updated_time"> 06:03 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62060542?at_medium=RSS&at_campaign=KARANGA">The video game prescribed by doctors to treat ADHD</a> BBC: A US game has got regulatory approval to help treat attention deficit hyperactivity disorder. 
  <p class="updated_time"> 04:15 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
@@ -27,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
- <p class="updated_time"> 01:02 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/62109725?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic beats Nick Kyrgios to win Wimbledon title</a> BBC: Novak Djokovic underlines his recent dominance at Wimbledon with a composed fightback against Nick Kyrgios to win a fourth straight title. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 12:15 PM CT, Jul. 10 </p> 
@@ -66,7 +74,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election, early results show</a> NPR: The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">More than 20 people may be trapped after a rocket hit an apartment in Ukraine </a> NPR: A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
+ <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">At least 15 were killed and others are trapped after a Russian strike in Ukraine</a> NPR: A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">A group of people opened fire at a bar in South Africa, killing 15</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
  <p class="updated_time"> 02:48 AM CT, Jul. 10 </p> 
@@ -91,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit">Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100</a> NPR: The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andrés Manuel López Obrador confirmed. 
  <p class="updated_time"> 11:56 AM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner">Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon</a> NPR: The 23-year-old is bringing her adopted country its first singles trophy at a major tournament. 
- <p class="updated_time"> 11:41 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62108829?at_medium=RSS&at_campaign=KARANGA">Politician Tajzadeh and two film directors arrested in Iran</a> BBC: Iranian authorities arrest reformist Mostafa Tajzadeh and two film directors over protests. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 08:40 PM CT, Jul. 08 </p> 
