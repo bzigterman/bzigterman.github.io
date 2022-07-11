@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">In first, US considers over-the-counter birth control pills</a> BBC: HDA Pharma says the move will remove unnecessary barriers for US women seeking contraception. 
+ <p class="updated_time"> 09:09 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
+ <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
  <p class="updated_time"> 08:34 AM CT, Jul. 11 </p> 
@@ -17,8 +23,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Relief and anxiety as limited fuel supplies resume</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
- <p class="updated_time"> 08:16 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:41 AM CT, Jul. 11 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 02:12 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
- <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery company's bag. 
  <p class="updated_time"> 12:55 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/nord-stream-russian-gas-pipeline-to-europe-shut-down-for-maintenance-11657533340">Nord Stream Russian Gas Pipeline to Europe Shut Down for Maintenance</a> WSJ: The Nord Stream pipeline that channels Russian natural gas to Europe shut down for a scheduled maintenance on Monday, stoking fears across the continent that the Kremlin could end supplies in retaliation for sanctions against its invasion of Ukraine. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
  <p class="updated_time"> 06:01 PM CT, Jul. 09 </p> 
  <a href="https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan">Shinzo Abe's policies take on renewed significance for Japan</a> NPR: The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished. 
- <p class="updated_time"> 02:11 PM CT, Jul. 09 </p> 
- <a href="https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies">Angola's José Eduardo dos Santos, once one of Africa's longest-serving rulers, dies</a> NPR: Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer — but the wealth didn't reach the people. 
  <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
  <p class="updated_time"> 06:47 PM CT, Jul. 08 </p> 
