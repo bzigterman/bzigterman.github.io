@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:42 AM CT, Jul. 11 </p> 
+ <p class="updated_time"> 03:50 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa leave office. 
  <p class="updated_time"> 03:40 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
@@ -128,6 +128,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110799378/the-jan-6-committee-will-focus-on-extremist-groups-in-its-next-hearing">The Jan. 6 committee will focus on extremist groups in its next hearing</a> NPR: The congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol is examining the role of extremist groups and their possible connections to advisers of Donald Trump. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110799371/these-lawmakers-are-gunning-for-boris-johnsons-prime-minister-role">These lawmakers are gunning for Boris Johnson's Prime Minister role</a> NPR: Nine British lawmakers are lining up to replace Boris Johnson, just days after his resignation as the leader of Britain's Conservative party. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778838/a-supreme-court-decision-could-radically-reshape-presidential-elections">A Supreme Court decision could radically reshape presidential elections</a> NPR: A new Supreme Court case could radically change congressional and presidential elections by giving broad, largely unchecked power to state legislators in deciding how those elections are run. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
@@ -156,12 +160,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par">Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties</a> NPR: President Zelenskyy has consolidated all TV platforms in Ukraine into one state broadcast and restricted political rivals. Political opposition fears such civil liberty constraints could continue. 
  <p class="updated_time"> 03:50 PM CT, Jul. 08 </p> 
  <a href="https://www.npr.org/2022/07/08/1110577418/the-impact-that-president-bidens-executive-order-on-abortion-access-will-have">The impact that President Biden's executive order on abortion access will have</a> NPR: NPR's Ailsa Chang talks with Kim Mutcherson, dean and professor of law of Rutgers University, about the impact President Biden's executive order on abortion access will have. 
- <p class="updated_time"> 01:55 PM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1110502290/how-to-talk-to-kids-about-abortion-roe-scotus">How do you talk to kids about abortion? We want to hear from you</a> NPR: Following the Supreme Court's decision to overturn Roe v. Wade, we want to hear from parents about you are talking to your kids about abortion. Where do you start? What do you say? 
  <p class="updated_time"> 01:24 PM CT, Jul. 08 </p> 
  <a href="https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html">Here's what's in Biden's executive order on abortion rights</a> CNN: President Joe Biden on Friday signed an executive order aimed at protecting access to reproductive health services in the wake of the Supreme Court overturning Roe v. Wade and eliminating the constitutional right to an abortion. 
- <p class="updated_time"> 11:49 AM CT, Jul. 08 </p> 
- <a href="https://www.npr.org/2022/07/08/1100696685/wisconsin-supreme-court-ballot-drop-boxes-disability-assistance">The Wisconsin Supreme Court says ballot drop boxes aren't allowed in the state</a> NPR: The decision lays out ground rules for absentee voting a month ahead of Wisconsin's statewide primary elections. 
 
 
 </details>
