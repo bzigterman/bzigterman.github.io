@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa step down. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias are in danger as large flames spread over 1,500 acres in Yosemite National Park. 
  <p class="updated_time"> 08:14 PM CT, Jul. 10 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
- <p class="updated_time"> 02:53 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62111900?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters 'will occupy palace until leaders go'</a> BBC: Sri Lankan President Gotabaya Rajapaksa promised to resign in a few days, but protesters are sceptical. 
  <p class="updated_time"> 02:12 PM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
  <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
