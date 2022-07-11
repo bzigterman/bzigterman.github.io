@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:42 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa leave office. 
+ <p class="updated_time"> 03:40 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 03:15 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery aggregator's bag. 
- <p class="updated_time"> 01:55 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa step down. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias, known as redwoods, are in danger as flames spread through Yosemite National Park. 
  <p class="updated_time"> 11:05 PM CT, Jul. 10 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
- <p class="updated_time"> 12:15 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62115343?at_medium=RSS&at_campaign=KARANGA">Faroe Islands to limit dolphin hunt after outcry</a> BBC: The practice has been under scrutiny after more than 1,400 dolphins were killed in one day last year. 
  <p class="updated_time"> 11:49 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62116056?at_medium=RSS&at_campaign=KARANGA">Inside the presidential house now full of Sri Lankans</a> BBC: Sri Lankans have been touring the luxury presidential residence in Colombo after protesters stormed it. 
  <p class="updated_time"> 11:00 AM CT, Jul. 10 </p> 
