@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
+ <p class="updated_time"> 12:22 PM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">Potential Boris Johnson Successors Crowd U.K. Prime Minister Race</a> WSJ: The competition to succeed the British leader has intensified, as lawmakers face the task of narrowing the field to two finalists. 
  <p class="updated_time"> 12:12 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62124366?at_medium=RSS&at_campaign=KARANGA">Texas woman argues unborn baby counts as passenger after fine</a> BBC: A woman fined for driving in a high-occupancy lane makes the argument following the reversal of Roe v Wade. 
  <p class="updated_time"> 11:57 AM CT, Jul. 11 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
  <p class="updated_time"> 08:29 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: First fuel in days trickles through to residents</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
- <p class="updated_time"> 08:27 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">Potential Boris Johnson Successors Crowd U.K. Prime Minister Race</a> WSJ: The competition to succeed the British leader has intensified, as lawmakers face the tesk of narrowing the field to two finalists. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
