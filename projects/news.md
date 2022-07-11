@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
  <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
- <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
  <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
@@ -104,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904553/the-sale-of-2-spanish-talk-radio-stations-may-counter-the-spread-of-disinformati">The sale of 2 Spanish talk radio stations may counter the spread of disinformation</a> NPR: Miami's Cuban-American community and some Republican officials are in turmoil over the proposed sale of two Spanish-language radio stations to a Latina-owned network backed by George Soros. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723288/politics-chat-biden-to-saudi-next-jan-6-hearing-tues-gun-owners-support-control">Politics chat: Biden to Saudi; next Jan. 6 hearing Tues.; gun owners support control</a> NPR: The House Jan. 6 committee will hold another public hearing Tuesday. Also, an NPR/Ipsos poll found that gun owners overwhelmingly support some gun control measures. 
  <p class="updated_time"> 04:30 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police">First Amendment advocates respond to a new Arizona law limiting recording of police</a> NPR: Recently signed legislation in Arizona would bar people from recording video of police officers within 8 feet after being told not to. 
- <p class="updated_time"> 04:00 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110486735/when-a-first-term-democratic-president-struggles-people-talk-about-jimmy-carter">When a first-term Democratic president struggles, people talk about Jimmy Carter</a> NPR: Biden has been faulted for speeches that do not seem to meet the moment or lack the urgency to compel others to follow. His soothing approach to issues that prompt anger has often failed to soothe. 
 
 
 </details>
