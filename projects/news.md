@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
+ <p class="updated_time"> 07:14 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 06:41 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
  <p class="updated_time"> 06:32 AM CT, Jul. 11 </p> 
@@ -23,16 +27,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
  <p class="updated_time"> 03:50 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa leave office. 
- <p class="updated_time"> 03:15 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
+ <p class="updated_time"> 02:44 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</a> WSJ: Death toll rises to 19 killed in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 02:12 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
  <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery company's bag. 
- <p class="updated_time"> 02:06 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</a> WSJ: Death toll rises to 19 killed in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued. 
  <p class="updated_time"> 12:55 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/nord-stream-russian-gas-pipeline-to-europe-shut-down-for-maintenance-11657533340">Nord Stream Russian Gas Pipeline to Europe Shut Down for Maintenance</a> WSJ: The Nord Stream pipeline that channels Russian natural gas to Europe shut down for a scheduled maintenance on Monday, stoking fears across the continent that the Kremlin could end supplies in retaliation for sanctions against its invasion of Ukraine. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
