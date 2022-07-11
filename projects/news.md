@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Jul. 11 </p> 
+ <p class="updated_time"> 06:41 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62118953?at_medium=RSS&at_campaign=KARANGA">Ukraine aims to amass 'million-strong army' to recapture south, says defence minister</a> BBC: The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities. 
- <p class="updated_time"> 05:21 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut as supplies halted</a> BBC: Russian pipeline operators say maintenance work is needed, but Germany suspects political motives. 
+ <p class="updated_time"> 06:32 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: Russian pipeline operators say maintenance work is needed, but Germany suspects political motives. 
+ <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
  <p class="updated_time"> 05:04 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62099061?at_medium=RSS&at_campaign=KARANGA">Uber Files: Tech firm lobbied top ministers at undeclared meetings</a> BBC: A documents leak reveals how the ride-hailing app courted senior Tories to help block new regulations. 
  <p class="updated_time"> 05:01 AM CT, Jul. 11 </p> 
@@ -25,14 +27,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
+ <p class="updated_time"> 02:12 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
  <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery aggregator's bag. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62117919?at_medium=RSS&at_campaign=KARANGA">Swiggy identifies 'mystery' horse-rider from viral video</a> BBC: A viral video had showed an unknown man on a horse carrying the food delivery company's bag. 
+ <p class="updated_time"> 02:06 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</a> WSJ: Death toll rises to 19 killed in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued. 
+ <p class="updated_time"> 12:55 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/nord-stream-russian-gas-pipeline-to-europe-shut-down-for-maintenance-11657533340">Nord Stream Russian Gas Pipeline to Europe Shut Down for Maintenance</a> WSJ: The Nord Stream pipeline that channels Russian natural gas to Europe shut down for a scheduled maintenance on Monday, stoking fears across the continent that the Kremlin could end supplies in retaliation for sanctions against its invasion of Ukraine. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias, known as redwoods, are in danger as flames spread through Yosemite National Park. 
  <p class="updated_time"> 11:05 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-62117391?at_medium=RSS&at_campaign=KARANGA">Macau shuts down casinos following Covid outbreak</a> BBC: The city has recorded around 1,500 coronavirus cases since mid-June, official figures show. 
- <p class="updated_time"> 08:14 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62117317?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag to permanently fly on Sydney Harbour Bridge</a> BBC: It follows a long campaign to have the flag flown as a symbol of recognition for Aboriginal Australians. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
@@ -53,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
  <p class="updated_time"> 02:12 PM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/japan-election-abe-kishida-parliament-july2022-11657428361">Shinzo Abe's Goal of Revising Japan's Constitution Moves Closer After LDP Election Victory</a> WSJ: Prime Minister Fumio Kishida’s ruling coalition won a majority of the seats at stake in voting two days after the ex-leader’s assassination. 
- <p class="updated_time"> 01:04 PM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-crisis-flashes-warning-for-other-indebted-economies-11657473277">Sri Lanka Crisis Flashes Warning for Other Indebted Economies</a> WSJ: Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 11:49 AM CT, Jul. 10 </p> 
@@ -69,24 +73,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 07:44 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723337/shinzo-abes-assassination-was-a-rare-act-of-violence-in-japan-what-happens-now">Shinzo Abe's assassination was a rare act of violence in Japan. What happens now?</a> NPR: Ayesha Rascoe talks with Pomona College politics professor Tom Le about the political and social implications of the assassination of former Japanese Prime Minister Shinzo Abe. 
- <p class="updated_time"> 07:26 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-next-leader-faces-economic-political-challenges-unseen-since-thatcher-11657470391">U.K.'s Next Leader Faces Challenges Unseen Since Thatcher</a> WSJ: Trust in political institutions has ebbed among the British public, and the country is experiencing its largest drop in real incomes since the 1950s. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election">Exit polls suggest victory for Japan's ruling party in parliamentary election</a> NPR: The ruling party in Japan, to which the slain former Prime Minister Shinzo Abe also belonged, is expected to dominate legislative elections there today. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen">Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash. 
  <p class="updated_time"> 06:21 AM CT, Jul. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470">Ukraine War Pushes Millions of the World's Poorest Toward Starvation</a> WSJ: Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 05:50 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-k-metric-imperial-measurement-system-11657463960">U.K. Weighs Saying Cheerio to Metric System. Opponent: 'This Is Insane.'</a> WSJ: Freed of an EU edict, government formally studies dumping meters and embracing old measurements. 
  <p class="updated_time"> 05:47 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace">The UK defense minister rules himself out of the race to succeed Boris Johnson</a> NPR: Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race — and to serve as the country's prime minister. 
  <p class="updated_time"> 05:10 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination">Shinzo Abe's party scores a major victory in Japan's election</a> NPR: The victory may be propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination. 
  <p class="updated_time"> 05:01 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building">At least 15 were killed and others are trapped after a Russian strike in Ukraine</a> NPR: A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people. 
+ <p class="updated_time"> 04:37 AM CT, Jul. 10 </p> 
+ <a href="https://www.wsj.com/articles/macau-shuts-casinos-as-city-enters-weeklong-lockdown-11657460218">Macau Shuts Casinos as City Enters Weeklong Lockdown</a> WSJ: Authorities are trying to contain a spiraling Covid-19 outbreak in the Chinese gambling hub, ordering all businesses aside from essential services to close and requiring residents to stay at home. 
  <p class="updated_time"> 03:58 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead">A group of people opened fire at a bar in South Africa, killing 15</a> NPR: A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition. 
- <p class="updated_time"> 02:48 AM CT, Jul. 10 </p> 
- <a href="https://www.wsj.com/articles/companies-brace-for-nord-stream-repairs-fearing-pipeline-wont-reopen-11657450800">Manufacturers Brace for Nord Stream Repairs, Fearing Pipeline Won't Reopen</a> WSJ: Russia’s main natural-gas artery to Europe is about to close for maintenance. Governments on the continent worry the shutdown will be permanent, while manufacturers are preparing for possible gas rationing that would force them to shut production. 
  <p class="updated_time"> 10:54 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62110358?at_medium=RSS&at_campaign=KARANGA">Canada's internet outage caused by 'maintenance'</a> BBC: Emergency services, banking and retail were all affected by the outage of a major internet supplier. 
  <p class="updated_time"> 06:44 PM CT, Jul. 09 </p> 
@@ -119,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
- <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
 
 
 </details>
