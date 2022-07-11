@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62126413?at_medium=RSS&at_campaign=KARANGA">World Population Day: India will overtake China in 2023, says the UN</a> BBC: New data suggest India will become the world's most populous country next year. 
  <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
@@ -29,14 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: First fuel in days trickles through to residents</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
+ <p class="updated_time"> 07:47 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">A Crowded Conservative Race for U.K. Prime Minister</a> WSJ: The race to replace British Prime Minister Boris Johnson has intensified, with 11 politicians from his party pitching themselves as candidates so far. 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:52 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: Death toll rises to 26 in missile strike on apartment building in Chasiv Yar; three dead in Kharkiv attack, regional official says. 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
- <p class="updated_time"> 06:44 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">A Crowded Conservative Race for U.K. Prime Minister</a> WSJ: The race to replace British Prime Minister Boris Johnson has intensified, with 11 politicians from his party pitching themselves as candidates so far. 
  <p class="updated_time"> 06:39 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/janet-yellen-begins-asia-trip-to-win-support-for-cap-on-russian-oil-price-11657553958">Yellen Seeks Support in Asia for Russian-Oil Price Cap</a> WSJ: Treasury Secretary Janet Yellen is on an international lobbying blitz for a proposal she says will stave off a global recession, but faces technical and diplomatic challenges can be overcome. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
