@@ -9,34 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
+ <p class="updated_time"> 10:28 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62125189?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: 'It's just so sad' - Mourners attend a vigil for Japan's ex-leader</a> BBC: Mourners streamed into Tokyo's Zojoji temple, three days after Shinzo Abe was shot at an election rally. 
+ <p class="updated_time"> 09:52 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62125343?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 7,200 Ukrainian service personnel missing - ombudsman</a> BBC: Most of them are in Russian captivity, and "sooner or later" will be freed, Oleh Kotenko says. 
  <p class="updated_time"> 09:32 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
- <p class="updated_time"> 09:25 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62125343?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 7,200 Ukrainian service personnel missing - ombudsman</a> BBC: Most of them are in Russian captivity, and "sooner or later" will be freed, Oleh Kotenko says. 
  <p class="updated_time"> 09:19 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">In first, US considers over-the-counter birth control pills</a> BBC: HDA Pharma says the move will remove unnecessary barriers for US women seeking contraception. 
- <p class="updated_time"> 09:09 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
  <p class="updated_time"> 08:29 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Relief and anxiety as limited fuel supplies resume</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: First fuel in days trickles through to residents</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
+ <p class="updated_time"> 06:12 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/omicron-strains-drive-new-covid-wave-in-europe-as-measures-fall-away-11657552364">Omicron Strains Drive New Covid Wave in Europe as Measures Fall Away</a> WSJ: A Covid-19 infection wave driven by two hyper-infectious Omicron subvariants is moving rapidly across Europe, leading to an uptick in cases and hospitalizations in countries that have dropped the majority of preventive measures against the virus ahead of the summer months. 
+ <p class="updated_time"> 05:46 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; three dead in Kharkiv attack, regional official says. 
  <p class="updated_time"> 05:01 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62118301?at_medium=RSS&at_campaign=KARANGA">Henan: Violent clashes after hundreds show up for China bank protest</a> BBC: Clashes break out after depositors angry at banks freezing nearly $6bn in funds hold a rare protest. 
  <p class="updated_time"> 04:58 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120054?at_medium=RSS&at_campaign=KARANGA">Iván Mordisco: Colombian dissident rebel camp bombed killing 10</a> BBC: Security forces were targeting the leader of a breakaway faction of the Farc known as Iván Mordisco. 
- <p class="updated_time"> 04:23 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</a> WSJ: Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued. 
  <p class="updated_time"> 03:44 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/large-chinese-bank-protest-put-down-with-violence-11657543437">Large Chinese Bank Protest Put Down With Violence</a> WSJ: Video from clash in Central Chinese city spreads online despite censorship; officials had prevented earlier protest using Covid-19 health codes. 
+ <a href="https://www.wsj.com/articles/large-chinese-bank-protest-put-down-with-violence-11657543437">Large Chinese Bank Protest Put Down With Violence</a> WSJ: Video from a clash in a central Chinese city spread online despite censorship; officials had prevented earlier protest using Covid-19 health codes. 
+ <p class="updated_time"> 03:09 AM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/covid-spreading-at-fastest-pace-since-shanghai-lockdown-sends-shivers-through-china-markets-11657541394">Covid Spreading at Fastest Pace Since Shanghai Lockdown Sends Shivers Through China Markets</a> WSJ: China’s Covid-19 cases are rising at the fastest pace since late May, stirring fears of a repeat of Shanghai’s two-month lockdown, which snarled supply chains and sank hopes the country will reach growth targets. 
  <p class="updated_time"> 03:00 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-seeks-to-fix-wtos-broken-trade-dispute-process-11657540800">U.S. Seeks to Fix WTO Dispute Process</a> WSJ: The U.S. has blocked new appointments to the seven-member Appellate Body, complaining of judicial overreach—effectively disabling the World Trade Organization’s high court. 
  <p class="updated_time"> 02:46 AM CT, Jul. 11 </p> 
@@ -124,6 +130,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:18 AM CT, Jul. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110799378/the-jan-6-committee-will-focus-on-extremist-groups-in-its-next-hearing">The Jan. 6 committee will focus on extremist groups in its next hearing</a> NPR: The congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol is examining the role of extremist groups and their possible connections to advisers of Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
@@ -132,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110778838/a-supreme-court-decision-could-radically-reshape-presidential-elections">A Supreme Court decision could radically reshape presidential elections</a> NPR: A new Supreme Court case could radically change congressional and presidential elections by giving broad, largely unchecked power to state legislators in deciding how those elections are run. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778810/the-jan-6-hearings-happening-this-week">The Jan. 6 hearings happening this week</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol is expected to hold two more hearings this week, including one in primetime. 
- <p class="updated_time"> 10:09 AM CT, Jul. 10 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723316/native-americans-tell-haaland-their-stories-of-being-forced-into-boarding-school">Native Americans tell Haaland their stories of being forced into boarding schools</a> NPR: Ayesha Rascoe speaks with Ramona Klein, a member of the Turtle Mountain Band of Chippewa, about a listening tour among Native Americans by U.S. Interior Secretary Deb Haaland. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
