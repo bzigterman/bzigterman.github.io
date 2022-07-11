@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:27 PM CT, Jul. 10 </p> 
+ <p class="updated_time"> 01:55 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62117763?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President confirms resignation, PM's office says</a> BBC: Protesters occupying the palace have refused to leave until they see Gotabaya Rajapaksa step down. 
  <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias are in danger as large flames spread over 1,500 acres in Yosemite National Park. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias, known as redwoods, are in danger as flames spread through Yosemite National Park. 
+ <p class="updated_time"> 11:05 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62117391?at_medium=RSS&at_campaign=KARANGA">Macau shuts down casinos following Covid outbreak</a> BBC: The city has recorded around 1,500 coronavirus cases since mid-June, official figures show. 
  <p class="updated_time"> 08:14 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62117317?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag to permanently fly on Sydney Harbour Bridge</a> BBC: It follows a long campaign to have the flag flown as a symbol of recognition for Aboriginal Australians. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
@@ -115,6 +117,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-62036533?at_medium=RSS&at_campaign=KARANGA">The Aids activists who took on big pharma in South Africa</a> BBC: The fight for affordable HIV/Aids treatment 
  <p class="updated_time"> 03:08 PM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102039?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Biden signs executive order on abortion access</a> BBC: It will not fully restore nationwide abortion rights - the president says a federal law is needed. 
+ <p class="updated_time"> 11:54 AM CT, Jul. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62101335?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Mourners gather on street where Japan's ex-leader was shot</a> BBC: Japan's former prime minister died in hospital after he was shot at a political campaign event. 
  <p class="updated_time"> 06:00 AM CT, Jul. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62093974?at_medium=RSS&at_campaign=KARANGA">Mohammed Zubair: The Indian fact-checker arrested for a tweet</a> BBC: Mohammed Zubair had spotlighted former BJP spokesperson Nupur Sharma's comments on the Prophet Muhammad. 
 
