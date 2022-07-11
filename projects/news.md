@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62119172?at_medium=RSS&at_campaign=KARANGA">José Eduardo dos Santos: Spain approves autopsy for ex-Angola leader</a> BBC: The family of 79-year-old José Eduardo dos Santos alleged there was a plot to kill him. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
  <p class="updated_time"> 02:10 AM CT, Jul. 11 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62117317?at_medium=RSS&at_campaign=KARANGA">Aboriginal flag to permanently fly on Sydney Harbour Bridge</a> BBC: It follows a long campaign to have the flag flown as a symbol of recognition for Aboriginal Australians. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
- <p class="updated_time"> 07:03 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/62070665?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: The misinformation circulating over academic qualifications</a> BBC: Supporters of the leading candidates have been sharing misleading claims about their opponents. 
  <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
  <p class="updated_time"> 06:56 PM CT, Jul. 10 </p> 
