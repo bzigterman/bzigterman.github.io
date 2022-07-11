@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope snaps 'deepest ever' view of cosmos</a> BBC: The new $10bn super space telescope delivers its first full-colour image of the Universe. 
+ <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope snaps 'deepest ever' view of cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
