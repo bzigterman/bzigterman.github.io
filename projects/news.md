@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
+ <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:16 PM CT, Jul. 12 </p> 
@@ -150,10 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904553/the-sale-of-2-spanish-talk-radio-stations-may-counter-the-spread-of-disinformati">The sale of 2 Spanish talk radio stations may counter the spread of disinformation</a> NPR: Miami's Cuban-American community and some Republican officials are in turmoil over the proposed sale of two Spanish-language radio stations to a Latina-owned network backed by George Soros. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk">Japan is examining its security and defense policy as Russia continues war in Ukraine</a> NPR: Shinzo Abe, former Japanese prime minister who was killed July 11, championed for more robust defense and security policies. With current world events, those ideas are increasingly important in Japan. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904518/president-biden-touts-gun-safety-legislation-but-many-say-hes-not-doing-enough">President Biden touts gun safety legislation, but critics say he's not doing enough</a> NPR: President Biden is under pressure from people in his own party who say he's not meeting the moment, saying he hasn't been forceful enough on gun legislation and the overturning of Roe v. Wade. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
