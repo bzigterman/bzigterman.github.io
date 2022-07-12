@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
+ <p class="updated_time"> 02:13 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa due to resign after protests</a> BBC: Gotabaya Rajapaksa has defied calls to leave for months as his country's economic crisis deepened. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
@@ -91,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
- <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
@@ -120,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
+ <p class="updated_time"> 02:16 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6">Inside the 'unhinged' West Wing meeting on Dec. 18 </a> NPR: The White House meeting took place four days afterelectors met to make Joe Biden the president-elect. A faction that pushed the former president to fight that outcome clashed with Trump's advisers. 
  <p class="updated_time"> 11:26 AM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
@@ -148,10 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904518/president-biden-touts-gun-safety-legislation-but-many-say-hes-not-doing-enough">President Biden touts gun safety legislation, but critics say he's not doing enough</a> NPR: President Biden is under pressure from people in his own party who say he's not meeting the moment, saying he hasn't been forceful enough on gun legislation and the overturning of Roe v. Wade. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904511/blind-loyalty-is-helping-sustain-trumps-power-in-the-republican-party-new-book-s">Blind loyalty is helping sustain Trump's power in the Republican party, new book says</a> NPR: NPR's Juana Summers talks with journalist Mark Leibovich about his new book Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission. 
- <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
