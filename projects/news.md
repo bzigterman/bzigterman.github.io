@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:09 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62136022?at_medium=RSS&at_campaign=KARANGA">Heathrow limits passenger numbers over summer</a> BBC: The UK's biggest airport has been struggling to cope with the rebound in demand for air travel. 
- <p class="updated_time"> 05:10 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
- <p class="updated_time"> 05:00 AM CT, Jul. 12 </p> 
+ <p class="updated_time"> 06:55 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62134804?at_medium=RSS&at_campaign=KARANGA">Ukraine to consider legalising same-sex marriage amid war</a> BBC: A petition calling for marriage equality has enough signatures to be considered by the president. 
+ <p class="updated_time"> 06:48 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
- <p class="updated_time"> 04:09 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
+ <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
+ <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for over-speeding, but police found 27 passengers inside. 
+ <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
  <p class="updated_time"> 03:53 AM CT, Jul. 12 </p> 
@@ -29,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: Ferocious lions' statue on new parliament raises eyebrows</a> BBC: PM Narendra Modi has unveiled a bronze cast of India's national emblem on top of the new parliament building. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
+ <p class="updated_time"> 01:50 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
- <p class="updated_time"> 01:28 PM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 31 people. Three are dead in an attack in Kharkiv, a regional official said. 
  <p class="updated_time"> 12:37 PM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/iran-set-to-provide-russia-with-armed-drones-white-house-says-11657574180">Iran Set to Provide Russia With Armed Drones, White House Says</a> WSJ: National security adviser Jake Sullivan says Iran is preparing to train Russian troops to use them, beginning as soon as early this month. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
