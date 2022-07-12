@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people of Jenin refugee camp, as fears grow of a further descent into violence. 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope takes super sharp view of early cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
+ <p class="updated_time"> 04:54 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-62083853?at_medium=RSS&at_campaign=KARANGA">'We have a zeal to protect our heritage through radio'</a> BBC: Jambo Radio broadcasts in multiple languages to cater for the growing African and Caribbean community in Scotland. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -29,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
  <p class="updated_time"> 01:28 PM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 31 people. Three are dead in an attack in Kharkiv, a regional official said. 
+ <p class="updated_time"> 12:37 PM CT, Jul. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-set-to-provide-russia-with-armed-drones-white-house-says-11657574180">Iran Set to Provide Russia With Armed Drones, White House Says</a> WSJ: National security adviser Jake Sullivan says Iran is preparing to train Russian troops to use them, beginning as soon as early this month. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
  <p class="updated_time"> 12:22 PM CT, Jul. 11 </p> 
@@ -59,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
- <p class="updated_time"> 06:39 AM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/janet-yellen-begins-asia-trip-to-win-support-for-cap-on-russian-oil-price-11657553958">Yellen Seeks Support in Asia for Russian-Oil Price Cap</a> WSJ: Treasury Secretary Janet Yellen is on an international lobbying blitz for a proposal she says will stave off a global recession, but faces technical and diplomatic challenges can be overcome. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
  <p class="updated_time"> 06:12 AM CT, Jul. 11 </p> 
@@ -108,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
+ <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">The next Jan. 6 committee hearing will focus on the role of QAnon and extremists</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
  <p class="updated_time"> 06:15 PM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
@@ -119,7 +125,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904518/president-biden-touts-gun-safety-legislation-but-many-say-hes-not-doing-enough">President Biden touts gun safety legislation, but many say he's not doing enough</a> NPR: President Biden is under pressure from people in his own party who say he's not meeting the moment. On Monday, he'll get a new chance to make his case on one of those issues: gun safety. 
+ <a href="https://www.npr.org/2022/07/11/1110904518/president-biden-touts-gun-safety-legislation-but-many-say-hes-not-doing-enough">President Biden touts gun safety legislation, but critics say he's not doing enough</a> NPR: President Biden is under pressure from people in his own party who say he's not meeting the moment, saying he hasn't been forceful enough on gun legislation and the overturning of Roe v. Wade. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904511/blind-loyalty-is-helping-sustain-trumps-power-in-the-republican-party-new-book-s">Blind loyalty is helping sustain Trump's power in the Republican party, new book says</a> NPR: NPR's Juana Summers talks with journalist Mark Leibovich about his new book Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission. 
  <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
@@ -142,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/10/1110723295/texas-rep-henry-cuellar-is-one-democrat-who-opposes-abortion-rights">Texas Rep. Henry Cuellar is one Democrat who opposes abortion rights</a> NPR: Democratic leaders are hoping Rep. Henry Cuellar of Texas holds onto his seat in November's midterm elections, even though he opposes abortion rights, a position at odds with his party brethren. 
  <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723288/politics-chat-biden-to-saudi-next-jan-6-hearing-tues-gun-owners-support-control">Politics chat: Biden to Saudi; next Jan. 6 hearing Tues.; gun owners support control</a> NPR: The House Jan. 6 committee will hold another public hearing Tuesday. Also, an NPR/Ipsos poll found that gun owners overwhelmingly support some gun control measures. 
- <p class="updated_time"> 04:30 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police">First Amendment advocates respond to a new Arizona law limiting recording of police</a> NPR: Recently signed legislation in Arizona would bar people from recording video of police officers within 8 feet after being told not to. 
 
 
 </details>
