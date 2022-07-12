@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:58 PM CT, Jul. 12 </p> 
+ <p class="updated_time"> 05:19 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn purchase deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 04:02 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa fled with relatives amid mass protests over the country's economic crisis. 
@@ -149,7 +149,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Jan. 6 rioter, former Oath Keepers spokesman testify in panel's seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
+ <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman testify in seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
