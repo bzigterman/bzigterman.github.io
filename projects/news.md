@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles blast civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
+ <p class="updated_time"> 07:30 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but it is not confirmed by Russian-backed officials. 
+ <p class="updated_time"> 07:23 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 06:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62134804?at_medium=RSS&at_campaign=KARANGA">Ukraine to consider legalising same-sex marriage amid war</a> BBC: A petition calling for marriage equality has enough signatures to be considered by the president. 
  <p class="updated_time"> 06:48 AM CT, Jul. 12 </p> 
@@ -17,12 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for over-speeding, but police found 27 passengers inside. 
- <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
  <p class="updated_time"> 03:53 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
+ <p class="updated_time"> 03:25 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan Airport Officials Thwart President's Brother From Leaving Country</a> WSJ: Staff at a VIP airport lounge walked off the job, leaving the former finance minister unable to clear immigration. 
  <p class="updated_time"> 02:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132267?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist with cancer jailed for Olympic protest attempt</a> BBC: The 75-year-old was arrested in February for planning a peaceful protest against the Beijing Olympics 
  <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
@@ -39,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS unit repeatedly killed Afghan detainees, BBC finds</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
- <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
  <p class="updated_time"> 08:50 PM CT, Jul. 11 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62060542?at_medium=RSS&at_campaign=KARANGA">The video game prescribed by doctors to treat ADHD</a> BBC: A US game has got regulatory approval to help treat attention deficit hyperactivity disorder. 
  <p class="updated_time"> 04:15 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
- <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110778817/biden-plans-to-tackle-oil-human-rights-on-trip-to-the-mideast">Biden plans to tackle oil, human rights on trip to the Mideast</a> NPR: President Biden will meet with nearly a dozen Mideast leaders on a trip this week that will cover issues from Yemen to oil to the Israeli-Palestinian conflict. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
@@ -148,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904511/blind-loyalty-is-helping-sustain-trumps-power-in-the-republican-party-new-book-s">Blind loyalty is helping sustain Trump's power in the Republican party, new book says</a> NPR: NPR's Juana Summers talks with journalist Mark Leibovich about his new book Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission. 
  <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
- <p class="updated_time"> 07:26 AM CT, Jul. 11 </p> 
- <a href="https://www.cnn.com/2022/07/11/politics/biden-democratic-primary-challenge-2024/index.html">As worries about Biden in 2024 grow, other Democrats aren't stepping forward to challenge him</a> CNN: A challenge requires a challenger -- and all the Democrats being discussed as potential primary opponents to President Joe Biden tell CNN they're ruling out runs and warning others to follow suit. 
  <p class="updated_time"> 06:54 AM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/2022/07/09/politics/senate-race-rankings-july-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: With more than half of this year's competitive Senate matchups set, the overall electoral environment remains consistent: President Joe Biden's poor approval numbers, combined with a pervasive sense that the country is headed in the wrong direction, are weighing down Democrats looking to maintain control of Congress. 
  <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
