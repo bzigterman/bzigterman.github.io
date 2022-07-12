@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:06 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with combat drones, US warns</a> BBC: The US suspects Russia will be using drones in Ukraine - Iran has neither confirmed nor denied this. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
  <p class="updated_time"> 08:34 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
+ <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
  <p class="updated_time"> 08:12 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
- <p class="updated_time"> 08:07 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 07:30 AM CT, Jul. 12 </p> 
@@ -29,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for speeding - police found 27 passengers inside. 
+ <p class="updated_time"> 05:03 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
  <p class="updated_time"> 03:25 AM CT, Jul. 12 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: Ferocious lions' statue on new parliament raises eyebrows</a> BBC: PM Narendra Modi has unveiled a bronze cast of India's national emblem on top of the new parliament building. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
- <p class="updated_time"> 01:50 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
@@ -114,6 +116,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk">Biden administration: Doctors must offer abortion if mom's life is at risk</a> NPR: HHS told hospitals that they "must" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception. 
  <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110998198/rep-stephanie-murphy-on-what-to-expect-during-todays-jan-6-hearing">Rep. Stephanie Murphy on what to expect during today's Jan. 6 hearing</a> NPR: NPR's Rachel Martin talks to Rep. Stephanie Murphy (D-FL) about today's Jan. 6 House committee hearing on links between former President Donald Trump's inner circle and extremist groups. 
  <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
@@ -146,8 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
  <p class="updated_time"> 06:54 AM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/2022/07/09/politics/senate-race-rankings-july-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: With more than half of this year's competitive Senate matchups set, the overall electoral environment remains consistent: President Joe Biden's poor approval numbers, combined with a pervasive sense that the country is headed in the wrong direction, are weighing down Democrats looking to maintain control of Congress. 
- <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110799378/the-jan-6-committee-will-focus-on-extremist-groups-in-its-next-hearing">The Jan. 6 committee will focus on extremist groups in its next hearing</a> NPR: The congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol is examining the role of extremist groups and their possible connections to advisers of Donald Trump. 
 
 
 </details>
