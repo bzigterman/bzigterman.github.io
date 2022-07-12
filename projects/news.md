@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa's brother 'leaves for US'</a> BBC: Basil Rajapaksa's reported departure comes just before the president is due to resign after mass unrest. 
+ <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131964/fake-cricket-league-dupes-some-online-bettors">Fake cricket league dupes some online bettors</a> NPR: A group of men in India were recently arrested for putting on bogus professional cricket matches and duping bettors in Russia. 
+ <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131957/ukrainian-rail-service-adds-a-special-train-to-get-people-out-of-donbas">Ukrainian rail service adds a special train to get people out of Donbas</a> NPR: Russia is pounding eastern Ukraine as it tries to consolidate its control of the entire Donbas region. To help get people the out, the Ukrainian rail service has added a special train from the Donbas. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
@@ -21,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
- <p class="updated_time"> 02:13 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa due to resign after protests</a> BBC: Gotabaya Rajapaksa has defied calls to leave for months as his country's economic crisis deepened. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
@@ -89,10 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904560/challenges-low-income-countries-are-facing">Challenges low income countries are facing</a> NPR: NPR's Ailsa Chang speaks with Dr. Atul Gawande of USAID about the challenges facing low-income countries as they tackle continued COVID surges, a lack of monkey pox vaccines and climate disasters. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk">Japan is examining its security and defense policy as Russia continues war in Ukraine</a> NPR: Shinzo Abe, former Japanese prime minister who was killed July 11, championed for more robust defense and security policies. With current world events, those ideas are increasingly important in Japan. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131950/jan-6-hearing-a-trump-supporter-testifies-about-why-he-and-others-stormed-capito">Jan. 6 hearing: A Trump supporter testifies about why he and others stormed Capitol</a> NPR: The Jan. 6 committee revealed how Trump supporters' anger built into the violence during the riot, and showed how Trump and some of his closest allies used conspiracy theories to stoke their rage. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
@@ -134,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:16 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6">Inside the 'unhinged' West Wing meeting on Dec. 18 </a> NPR: The White House meeting took place four days afterelectors met to make Joe Biden the president-elect. A faction that pushed the former president to fight that outcome clashed with Trump's advisers. 
- <p class="updated_time"> 11:26 AM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk">Biden administration: Doctors must offer abortion if mom's life is at risk</a> NPR: HHS told hospitals that they "must" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception. 
  <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
@@ -143,7 +145,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman sit for live testimony</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
+ <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Jan. 6 rioter, former Oath Keepers spokesman sit for live testimony</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110993511/las-mayoral-candidates-have-big-plans-to-fix-homelessness-can-they-follow-throug">LA's mayoral candidates have big plans to fix homelessness. Can they follow through?</a> NPR: The Los Angeles mayor's race is turning into a single-issue election: What to do about the city's enormous homeless population? It's not clear either candidate could solve the problem. 
  <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">Here's what we know about links between extremists and Trump allies</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
- <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
