@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
+ <p class="updated_time"> 10:17 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: Officials pledge to release funds after China bank protest</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
  <p class="updated_time"> 08:50 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">US considers over-the-counter birth control pills for first time</a> BBC: HDA Pharma says the move would remove unnecessary barriers for US women seeking contraception. 
  <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
- <p class="updated_time"> 06:47 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130593?at_medium=RSS&at_campaign=KARANGA">'Sit down!' Biden heckled at White House by bereaved father</a> BBC: President Joe Biden's speech is interrupted by the dad of a school shooting victim. 
  <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people of Jenin refugee camp, as fears grow of a further descent into violence. 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
- <p class="updated_time"> 08:29 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: First fuel in days trickles through to residents</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
@@ -73,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/omicron-strains-drive-new-covid-wave-in-europe-as-measures-fall-away-11657552364">Omicron Strains Drive Covid Wave in Europe as Measures Fall Away</a> WSJ: A Covid-19 infection wave driven by two hyper-infectious Omicron subvariants is moving rapidly across Europe, leading to an uptick in cases and hospitalizations in countries that have dropped the majority of preventive measures against the virus ahead of the summer months. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110797449/three-runners-gored-pamplona-bull-run">Three runners are gored in a tense 5th Pamplona bull run</a> NPR: It was the first run with gorings in the festival so far this year. Three more daily runs before it finishes Thursday. 
- <p class="updated_time"> 11:18 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62117139?at_medium=RSS&at_campaign=KARANGA">Yosemite's giant sequoias: Wildfire threatens world's largest trees</a> BBC: Giant sequoias, known as redwoods, are in danger as flames spread through Yosemite National Park. 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 07:01 PM CT, Jul. 10 </p> 
