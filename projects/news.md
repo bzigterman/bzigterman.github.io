@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 PM CT, Jul. 12 </p> 
+ <p class="updated_time"> 05:29 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn purchase deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 04:02 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa fled with relatives amid mass protests over the country's economic crisis. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lankas's economic crisis. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -122,6 +122,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript">Here's every word from the seventh Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the July 12 House select committee investigating the Jan. 6 Capitol attack hearing. 
  <p class="updated_time"> 04:25 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111135283/jan-6-trump-witness">Trump tried to call a Jan. 6 committee witness, Cheney says</a> NPR: Panel Vice Chair Liz Cheney said the witness has yet to appear in the hearings and didn't take the call from the former president but alerted their lawyer, who told the committee. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman testify in seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
- <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110993525/whats-on-bidens-agenda-for-his-first-middle-east-trip-as-president">What's on Biden's agenda for his first Middle East trip as president</a> NPR: NPR'S Steve Inskeep speaks with Giorgio Cafiero, CEO of Gulf State Analytics, about the president's goals on his upcoming trip to the Middle East. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
