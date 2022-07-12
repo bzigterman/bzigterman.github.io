@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:04 AM CT, Jul. 12 </p> 
+ <p class="updated_time"> 01:30 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS reports reveal troubling pattern of suspicious deaths in Afghanistan</a> BBC: Internal emails seen by the BBC show top Special Forces officers were aware of concerns over killings. 
+ <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS reports reveal troubling pattern of suspicious deaths in Afghanistan</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
  <p class="updated_time"> 11:31 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
@@ -30,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people of Jenin refugee camp, as fears grow of a further descent into violence. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people in Jenin, as fears grow of a further descent into violence. 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope takes super sharp view of early cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
@@ -50,7 +50,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
  <p class="updated_time"> 02:36 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown on critics</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
  <p class="updated_time"> 01:28 PM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 31 people. Three are dead in an attack in Kharkiv, a regional official said. 
  <p class="updated_time"> 12:37 PM CT, Jul. 11 </p> 
