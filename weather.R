@@ -865,11 +865,11 @@ fig <- hchart(year_weather_data_longer, "arearange",
                     high = round(max),
                     group = type),
               step = "center",
+              animation = FALSE,
               marker = list(
                 radius = 1),
               lineWidth = 0,
               fillOpacity = 1,
-              turboThreshold = 2000,
               tooltip = list(valueSuffix = "°"),
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, 
