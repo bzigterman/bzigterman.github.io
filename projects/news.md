@@ -9,8 +9,6 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:47 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-62138035?at_medium=RSS&at_campaign=KARANGA">Panorama: Any fresh SAS kill claims will be investigated, says minister</a> BBC: SAS operatives in Afghanistan repeatedly killed detainees and unarmed men, a BBC investigation finds. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
@@ -29,10 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
+ <p class="updated_time"> 09:25 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
+ <p class="updated_time"> 09:10 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
- <p class="updated_time"> 08:43 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:32 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62136062?at_medium=RSS&at_campaign=KARANGA">Europe swelters as heatwave spreads</a> BBC: Forest fires and droughts hit Spain and Portugal as authorities warn of exceptionally hot weather. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
@@ -48,9 +48,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for speeding - police found 27 passengers inside. 
  <p class="updated_time"> 06:14 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Six-Month Extension of Syria Aid, Yielding to Russian Demand</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
- <p class="updated_time"> 05:20 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
+ <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Extension of Syria Aid, Yielding to Russia</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
  <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and tradition of secrecy thwart efforts by Alpine financial haven to punish billionaire allies of Vladimir Putin. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
@@ -113,6 +111,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
  <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62056687?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A welcome on two wheels for refugee children</a> BBC: Around 30,000 Ukrainian refugees have fled to Denmark, where a nationwide scheme is offering a unique, two-wheeled welcome. 
+ <p class="updated_time"> 06:06 PM CT, Jul. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
 
 
 </details>
@@ -129,7 +129,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Today's Jan. 6 committee hearing will focus on extremist organizations</a> NPR: Tuesday's 1 p.m. ET hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
+ <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman sit for live testimony</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
