@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62136022?at_medium=RSS&at_campaign=KARANGA">Heathrow caps passenger numbers over summer</a> BBC: The UK's biggest airport has been struggling to cope with the rebound in demand for air travel. 
+ <p class="updated_time"> 05:57 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62136022?at_medium=RSS&at_campaign=KARANGA">Heathrow limits passenger numbers over summer</a> BBC: The UK's biggest airport has been struggling to cope with the rebound in demand for air travel. 
  <p class="updated_time"> 05:10 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 05:00 AM CT, Jul. 12 </p> 
@@ -71,6 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">Potential Boris Johnson Successors Crowd U.K. Prime Minister Race</a> WSJ: The competition to succeed the British leader has intensified, as lawmakers face the task of narrowing the field to two finalists. 
  <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
