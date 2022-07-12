@@ -839,8 +839,6 @@ record_los <- year_weather_data %>%
   filter(records == "Record low")%>%
   select(date,Record_min)
 
-
-
 year_weather_data_longer <- year_weather_data %>%
   pivot_longer(!date,
                names_to = c("type","min_max"),
@@ -871,6 +869,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 radius = 1),
               lineWidth = 0,
               fillOpacity = 1,
+              turboThreshold = 2000,
               tooltip = list(valueSuffix = "°"),
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, 
@@ -922,11 +921,22 @@ fig <- hchart(year_weather_data_longer, "arearange",
   ) %>%
   hc_add_series(data = year_weather_data,
                 hcaes(x = date,
+                      y = daily_precip_total),
+                type = "column",
+                name = "Daily Precip.",
+                tooltip = list(valueSuffix = "{value}″"),
+                color = "#9ec6d8",
+                yAxis = 1) %>%
+  hc_add_series(data = year_weather_data,
+                hcaes(x = date,
                       y = month_precip_sum),
                 type = "area",
-                name = "Precip.",
-                tooltip = list(pointFormat = "Precipitation: {point.daily_precip_total}″"),
+                marker = list(
+                  radius = 1),
+                name = "Monthly Precip.",
+                tooltip = list(valueSuffix = "{value}″"),
                 color = "#b0dcf0",
+                fillOpacity = .1,
                 yAxis = 1) %>%
   hc_xAxis(
     title = "",
