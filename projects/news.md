@@ -27,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
- <p class="updated_time"> 09:06 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with combat drones, US warns</a> BBC: The US suspects Russia will be using drones in Ukraine - Iran has neither confirmed nor denied this. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
  <p class="updated_time"> 08:32 AM CT, Jul. 12 </p> 
@@ -43,8 +41,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for speeding - police found 27 passengers inside. 
+ <p class="updated_time"> 06:14 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Six-Month Extension of Syria Aid, Yielding to Russian Demand</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
+ <p class="updated_time"> 05:20 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
  <p class="updated_time"> 05:03 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
+ <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and tradition of secrecy thwart efforts by Alpine financial haven to punish billionaire allies of Vladimir Putin. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
  <p class="updated_time"> 03:25 AM CT, Jul. 12 </p> 
@@ -79,12 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
- <p class="updated_time"> 12:37 PM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-set-to-provide-russia-with-armed-drones-white-house-says-11657574180">Iran Set to Provide Russia With Armed Drones, White House Says</a> WSJ: National security adviser Jake Sullivan says Iran is preparing to train Russian troops to use them, beginning as soon as early this month. 
  <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
- <p class="updated_time"> 12:22 PM CT, Jul. 11 </p> 
- <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">Potential Boris Johnson Successors Crowd U.K. Prime Minister Race</a> WSJ: The competition to succeed the British leader has intensified, as lawmakers face the task of narrowing the field to two finalists. 
  <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
