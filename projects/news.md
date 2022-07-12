@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
+ <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
+ <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS reports reveal troubling pattern of suspicious deaths in Afghanistan</a> BBC: Internal emails seen by the BBC show top Special Forces officers were aware of concerns over killings. 
+ <p class="updated_time"> 11:32 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
+ <p class="updated_time"> 11:31 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
  <p class="updated_time"> 10:17 PM CT, Jul. 11 </p> 
@@ -49,26 +59,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
  <p class="updated_time"> 12:22 PM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/a-crowded-conservative-race-for-u-k-prime-minister-11657554243">Potential Boris Johnson Successors Crowd U.K. Prime Minister Race</a> WSJ: The competition to succeed the British leader has intensified, as lawmakers face the task of narrowing the field to two finalists. 
- <p class="updated_time"> 12:12 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62124366?at_medium=RSS&at_campaign=KARANGA">Texas woman argues unborn baby counts as passenger after fine</a> BBC: A woman fined for driving in a high-occupancy lane makes the argument following the reversal of Roe v Wade. 
  <p class="updated_time"> 11:57 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62126413?at_medium=RSS&at_campaign=KARANGA">World Population Day: India will overtake China in 2023, says the UN</a> BBC: New data also suggest the planet will be home to 8 billion people by this November. 
  <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
- <p class="updated_time"> 09:52 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62125343?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 7,200 Ukrainian service personnel missing - ombudsman</a> BBC: Most of them are in Russian captivity, and "sooner or later" will be freed, Oleh Kotenko says. 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
- <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/business-62121226?at_medium=RSS&at_campaign=KARANGA">Twitter shares fall as Elon Musk backs out of deal</a> BBC: The social media site is threatening the multi-billionaire with legal action after his U-turn. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
- <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-62121650?at_medium=RSS&at_campaign=KARANGA">Game creator threatens action over Abe shooting hoax</a> BBC: Pictures falsely linking the Metal Gear creator to the killing in Japan were spread online. 
  <p class="updated_time"> 06:12 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/omicron-strains-drive-new-covid-wave-in-europe-as-measures-fall-away-11657552364">Omicron Strains Drive Covid Wave in Europe as Measures Fall Away</a> WSJ: A Covid-19 infection wave driven by two hyper-infectious Omicron subvariants is moving rapidly across Europe, leading to an uptick in cases and hospitalizations in countries that have dropped the majority of preventive measures against the virus ahead of the summer months. 
  <p class="updated_time"> 02:39 AM CT, Jul. 11 </p> 
