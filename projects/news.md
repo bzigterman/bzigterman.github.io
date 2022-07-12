@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral">Japanese say their final goodbyes to former leader Shinzo Abe at funeral</a> NPR: Japanese bid their final goodbye to former Prime Minister Shinzo Abe on Tuesday as a funeral was held at a temple days after his assassination that shocked the nation. 
+ <a href="https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral">Japanese people say their final goodbyes to former leader Shinzo Abe at his funeral</a> NPR: Japanese bid their final goodbye to former Prime Minister Shinzo Abe on Tuesday as a funeral was held at a temple days after his assassination that shocked the nation. 
  <p class="updated_time"> 02:23 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
