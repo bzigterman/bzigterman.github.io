@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
+ <p class="updated_time"> 10:39 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62140378?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Rajapaksa faces 'terrible, massive protests' unless he quits</a> BBC: Sri Lanka's leader must resign or face even bigger demonstrations, protest leaders say. 
  <p class="updated_time"> 10:36 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
- <p class="updated_time"> 10:01 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:06 AM CT, Jul. 12 </p> 
