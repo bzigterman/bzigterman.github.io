@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: Officials pledge to release funds after China bank protest</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 01:30 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
@@ -21,8 +23,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
- <p class="updated_time"> 10:17 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: Officials pledge to release funds after China bank protest</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
  <p class="updated_time"> 08:50 PM CT, Jul. 11 </p> 
@@ -30,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people in Jenin, as fears grow of a further descent into violence. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman meets the militants Israel is trying to stop with raids in the flashpoint camp of Jenin. 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope takes super sharp view of early cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 05:22 PM CT, Jul. 11 </p> 
@@ -39,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-scotland-62083853?at_medium=RSS&at_campaign=KARANGA">'We have a zeal to protect our heritage through radio'</a> BBC: Jambo Radio broadcasts in multiple languages to cater for the growing African and Caribbean community in Scotland. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
+ <p class="updated_time"> 04:01 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62126413?at_medium=RSS&at_campaign=KARANGA">World Population Day: India will overtake China in 2023, says the UN</a> BBC: New data also suggest the planet will be home to 8 billion people by this November. 
  <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
