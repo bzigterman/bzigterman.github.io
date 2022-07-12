@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
+ <p class="updated_time"> 05:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 04:09 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62130083?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian military equipment on show in Prague</a> BBC: The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
  <p class="updated_time"> 03:53 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
- <p class="updated_time"> 02:58 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 02:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132267?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Activist with cancer jailed for Olympic protest attempt</a> BBC: The 75-year-old was arrested in February for planning a peaceful protest against the Beijing Olympics 
  <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral">Japanese people say their final goodbyes to former leader Shinzo Abe at his funeral</a> NPR: Japanese bid their final goodbye to former Prime Minister Shinzo Abe on Tuesday as a funeral was held at a temple days after his assassination that shocked the nation. 
  <p class="updated_time"> 02:33 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: Ferocious lions' statue on new parliament raises eyebrows</a> BBC: PM Narendra Modi has unveiled a bronze cast of India's national emblem on top of the new parliament building. 
- <p class="updated_time"> 02:23 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
