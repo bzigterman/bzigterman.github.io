@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn purchase deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 04:02 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country</a> BBC: Gotabaya Rajapaksa's departure follows mass protests in his country amid the island's worsening economic crisis. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa fled with relatives amid mass protests over the country's economic crisis. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -59,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan Airport Officials Thwart President's Brother From Leaving Country</a> WSJ: Staff at a VIP airport lounge walked off the job, leaving the former finance minister unable to clear immigration. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
- <p class="updated_time"> 06:55 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62134804?at_medium=RSS&at_campaign=KARANGA">Ukraine to consider legalising same-sex marriage amid war</a> BBC: A petition calling for marriage equality has enough signatures to be considered by the president. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
