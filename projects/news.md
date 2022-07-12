@@ -122,14 +122,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:47 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript">Here's every word from the seventh Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the July 12 House select committee investigating the Jan. 6 Capitol attack hearing. 
  <p class="updated_time"> 04:25 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111135283/jan-6-trump-witness">Trump tried to call a Jan. 6 committee witness, Cheney says</a> NPR: Panel Vice Chair Liz Cheney said the witness has yet to appear in the hearings and didn't take the call from the former president but alerted their lawyer, who told the committee. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
- <p class="updated_time"> 03:47 PM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131950/jan-6-hearing-a-trump-supporter-testifies-about-why-he-and-others-stormed-capito">Jan. 6 hearing: A Trump supporter testifies about why he and others stormed Capitol</a> NPR: The Jan. 6 committee revealed how Trump supporters' anger built into the violence during the riot, and showed how Trump and some of his closest allies used conspiracy theories to stoke their rage. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
