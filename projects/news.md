@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
+ <p class="updated_time"> 08:50 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">US considers over-the-counter birth control pills for first time</a> BBC: HDA Pharma says the move would remove unnecessary barriers for US women seeking contraception. 
+ <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
+ <p class="updated_time"> 06:47 PM CT, Jul. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130593?at_medium=RSS&at_campaign=KARANGA">'Sit down!' Biden heckled at White House by bereaved father</a> BBC: President Joe Biden's speech is interrupted by the dad of a school shooting victim. 
  <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman spends time with people of Jenin refugee camp, as fears grow of a further descent into violence. 
  <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
@@ -47,12 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62121702?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany fears Russia gas cut may become permanent</a> BBC: The crucial Nord Stream 1 pipeline is shutting down for 10 days of annual maintenance work. 
- <p class="updated_time"> 10:28 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62125189?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: 'It's just so sad' - Mourners attend a vigil for Japan's ex-leader</a> BBC: Mourners streamed into Tokyo's Zojoji temple, three days after Shinzo Abe was shot at an election rally. 
  <p class="updated_time"> 09:52 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62125343?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 7,200 Ukrainian service personnel missing - ombudsman</a> BBC: Most of them are in Russian captivity, and "sooner or later" will be freed, Oleh Kotenko says. 
- <p class="updated_time"> 09:19 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62124365?at_medium=RSS&at_campaign=KARANGA">In first, US considers over-the-counter birth control pills</a> BBC: HDA Pharma says the move will remove unnecessary barriers for US women seeking contraception. 
  <p class="updated_time"> 09:06 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110812470/sri-lanka-protest-government-economic-crisis">Sri Lanka is in a political vacuum as angry protesters occupy leaders' homes</a> NPR: Opposition leaders have yet to agree on who should replace its current leaders, while protesters who are angry over acute shortages of fuel, food, medicine and other necessities vow to stay put. 
  <p class="updated_time"> 08:39 AM CT, Jul. 11 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62089766?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: First fuel in days trickles through to residents</a> BBC: Residents weary of crisis queue for fuel after huge crowds of protesters force the president to flee. 
  <p class="updated_time"> 08:17 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110808126/russian-attacks-kharkiv">3 people are killed, and scores injured, in Russian attacks on Kharkiv</a> NPR: A Ukrainian official says Russian shelling and missile strikes in Kharkiv hit only civilian buildings such as a shopping center, a a school and a shopping center, and are "absolute terrorism." 
- <p class="updated_time"> 07:25 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: Police rumble fake 'IPL' cricket league</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:48 AM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-presidents-silence-over-resignation-fuels-political-anxiety-11657537917">Sri Lankan President's Silence Over Resignation Fuels Political Anxiety</a> WSJ: The country’s opposition parties are negotiating over the formation of an interim government that will fill the breach once the president and prime minister formally step down. 
  <p class="updated_time"> 06:22 AM CT, Jul. 11 </p> 
@@ -112,10 +114,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:22 PM CT, Jul. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">The next Jan. 6 committee hearing will focus on the role of QAnon and extremists</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
- <p class="updated_time"> 06:15 PM CT, Jul. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
