@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:23 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
+ <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp: 'Precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
+ <p class="updated_time"> 01:55 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: Officials pledge to release funds after China bank protest</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
- <p class="updated_time"> 01:30 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-scotland-62083853?at_medium=RSS&at_campaign=KARANGA">'We have a zeal to protect our heritage through radio'</a> BBC: Jambo Radio broadcasts in multiple languages to cater for the growing African and Caribbean community in Scotland. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
- <p class="updated_time"> 04:01 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
- <p class="updated_time"> 02:36 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62128675?at_medium=RSS&at_campaign=KARANGA">Jafar Panahi: Acclaimed film maker held in Iran amid crackdown on critics</a> BBC: Jafar Panahi is detained after asking Tehran prosecutors about a fellow director arrested on Friday. 
  <p class="updated_time"> 01:28 PM CT, Jul. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606">Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</a> WSJ: The death toll from the Russian missile strike in the Donetsk region rose to 31 people. Three are dead in an attack in Kharkiv, a regional official said. 
  <p class="updated_time"> 12:37 PM CT, Jul. 11 </p> 
