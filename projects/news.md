@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
+ <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral">Japanese say their final goodbyes to former leader Shinzo Abe at funeral</a> NPR: Japanese bid their final goodbye to former Prime Minister Shinzo Abe on Tuesday as a funeral was held at a temple days after his assassination that shocked the nation. 
  <p class="updated_time"> 02:23 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp: 'Precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 01:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: Officials pledge to release funds after China bank protest</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
+ <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: China to repay customers after mass bank protests</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS reports reveal troubling pattern of suspicious deaths in Afghanistan</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
- <p class="updated_time"> 11:31 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
  <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
- <p class="updated_time"> 07:58 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723351/sri-lankan-president-and-prime-minister-agree-to-step-down-amidst-angry-protests">Sri Lankan president and prime minister agree to step down amidst angry protests</a> NPR: Ayesha Rascoe speaks with Menaka Indrakumar, a reporter based in Colombo, Sri Lanka, about the mass protests that prompted the prime minister and president to agree to step down. 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
  <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
