@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:57 AM CT, Jul. 12 </p> 
+ <p class="updated_time"> 06:09 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62136022?at_medium=RSS&at_campaign=KARANGA">Heathrow limits passenger numbers over summer</a> BBC: The UK's biggest airport has been struggling to cope with the rebound in demand for air travel. 
  <p class="updated_time"> 05:10 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
@@ -109,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62056687?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A welcome on two wheels for refugee children</a> BBC: Around 30,000 Ukrainian refugees have fled to Denmark, where a nationwide scheme is offering a unique, two-wheeled welcome. 
  <p class="updated_time"> 06:06 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62091093?at_medium=RSS&at_campaign=KARANGA">Tamil Nadu: The Indian man who makes art from sunlight</a> BBC: The artist has thousands of followers on Instagram who love his unique work. 
- <p class="updated_time"> 06:09 AM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62105700?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Demonstrators take over presidential residence</a> BBC: Demonstrators take over the president's residence in Colombo, and set the PM's house on fire. 
 
 
 </details>
@@ -118,6 +116,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110998198/rep-stephanie-murphy-on-what-to-expect-during-todays-jan-6-hearing">Rep. Stephanie Murphy on what to expect during today's Jan. 6 hearing</a> NPR: NPR's Rachel Martin talks to Rep. Stephanie Murphy (D-FL) about today's Jan. 6 House committee hearing on links between former President Donald Trump's inner circle and extremist groups. 
+ <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">The next Jan. 6 committee hearing will focus on extremist organizations </a> NPR: Tuesday's 1 p.m. ET hearing will look at the role of extremist organizations on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
@@ -150,10 +152,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/09/politics/senate-race-rankings-july-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: With more than half of this year's competitive Senate matchups set, the overall electoral environment remains consistent: President Joe Biden's poor approval numbers, combined with a pervasive sense that the country is headed in the wrong direction, are weighing down Democrats looking to maintain control of Congress. 
  <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110799378/the-jan-6-committee-will-focus-on-extremist-groups-in-its-next-hearing">The Jan. 6 committee will focus on extremist groups in its next hearing</a> NPR: The congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol is examining the role of extremist groups and their possible connections to advisers of Donald Trump. 
- <p class="updated_time"> 04:00 AM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110799371/these-lawmakers-are-gunning-for-boris-johnsons-prime-minister-role">These lawmakers are gunning for Boris Johnson's Prime Minister role</a> NPR: Nine British lawmakers are lining up to replace Boris Johnson, just days after his resignation as the leader of Britain's Conservative party. 
- <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110778838/a-supreme-court-decision-could-radically-reshape-presidential-elections">A Supreme Court decision could radically reshape presidential elections</a> NPR: A new Supreme Court case could radically change congressional and presidential elections by giving broad, largely unchecked power to state legislators in deciding how those elections are run. 
 
 
 </details>
