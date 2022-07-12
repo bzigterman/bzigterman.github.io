@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:35 AM CT, Jul. 12 </p> 
+ <p class="updated_time"> 10:01 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pull out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
+ <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:06 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with combat drones, US warns</a> BBC: The US suspects Russia will be using drones in Ukraine - Iran has neither confirmed nor denied this. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
- <p class="updated_time"> 08:12 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 07:30 AM CT, Jul. 12 </p> 
