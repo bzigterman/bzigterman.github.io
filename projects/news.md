@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-62138035?at_medium=RSS&at_campaign=KARANGA">Panorama: Any fresh SAS kill claims will be investigated, says minister</a> BBC: SAS operatives in Afghanistan repeatedly killed detainees and unarmed men, a BBC investigation finds. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
- <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-62138035?at_medium=RSS&at_campaign=KARANGA">Panorama: Any fresh SAS kill claims will be investigated, says minister</a> BBC: SAS operatives in Afghanistan repeatedly killed detainees and unarmed men, a BBC investigation finds. 
  <p class="updated_time"> 10:53 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
  <p class="updated_time"> 10:39 AM CT, Jul. 12 </p> 
@@ -31,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
+ <p class="updated_time"> 08:43 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:32 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62136062?at_medium=RSS&at_campaign=KARANGA">Europe swelters as heatwave spreads</a> BBC: Forest fires and droughts hit Spain and Portugal as authorities warn of exceptionally hot weather. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Six-Month Extension of Syria Aid, Yielding to Russian Demand</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
  <p class="updated_time"> 05:20 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
- <p class="updated_time"> 05:03 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and tradition of secrecy thwart efforts by Alpine financial haven to punish billionaire allies of Vladimir Putin. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
