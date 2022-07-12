@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
+ <p class="updated_time"> 06:15 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lankas's economic crisis. 
+ <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry.'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 06:01 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn purchase deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
- <p class="updated_time"> 04:02 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lankas's economic crisis. 
+ <p class="updated_time"> 05:31 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62140410?at_medium=RSS&at_campaign=KARANGA">Capitol riots: 'Wild' Trump tweet incited attack, says inquiry</a> BBC: Mr Trump sent a rallying call to supporters after "the craziest meeting" of his presidency, the inquiry hears. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -31,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
+ <p class="updated_time"> 01:07 PM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/funeral-for-shinzo-abe-is-held-in-tokyo-11657663628">Funeral for Shinzo Abe Is Held in Tokyo</a> WSJ: Crowds mourned slain former leader as car carrying Mr. Abe’s coffin was driven past the places where he spent his nearly 30-year career as a lawmaker. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
@@ -41,14 +49,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
  <p class="updated_time"> 10:39 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62140378?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Rajapaksa faces 'terrible, massive protests' unless he quits</a> BBC: Sri Lanka's leader must resign or face even bigger demonstrations, protest leaders say. 
- <p class="updated_time"> 10:36 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
  <p class="updated_time"> 10:31 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:25 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
+ <p class="updated_time"> 09:24 AM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-presses-for-israeli-arab-security-ties-to-come-out-from-the-shadows-11657650256">Biden Presses for Deeper, More Public Israeli-Arab Security Ties</a> WSJ: President Biden’s four-day trip to Israel and Saudi Arabia could test the limits of how openly Arab countries are willing to embrace Israel. 
  <p class="updated_time"> 09:10 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
@@ -77,40 +85,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: Ferocious lions' statue on new parliament raises eyebrows</a> BBC: PM Narendra Modi has unveiled a bronze cast of India's national emblem on top of the new parliament building. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
- <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
- <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
- <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
- <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman meets the militants Israel is trying to stop with raids in the flashpoint camp of Jenin. 
- <p class="updated_time"> 04:54 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-62083853?at_medium=RSS&at_campaign=KARANGA">'We have a zeal to protect our heritage through radio'</a> BBC: Jambo Radio broadcasts in multiple languages to cater for the growing African and Caribbean community in Scotland. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62083918?at_medium=RSS&at_campaign=KARANGA">Gujarat: The unusual lion sightings on India's beaches</a> BBC: Overcrowding and territory wars are causing a gradual change in lion habitats in Gujarat state. 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
  <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
- <p class="updated_time"> 06:03 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-62060542?at_medium=RSS&at_campaign=KARANGA">The video game prescribed by doctors to treat ADHD</a> BBC: A US game has got regulatory approval to help treat attention deficit hyperactivity disorder. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
- <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
- <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
 
 
 </details>
@@ -140,6 +128,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:16 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6">Inside the 'unhinged' West Wing meeting on Dec. 18 </a> NPR: The White House meeting took place four days afterelectors met to make Joe Biden the president-elect. A faction that pushed the former president to fight that outcome clashed with Trump's advisers. 
+ <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
  <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk">Biden administration: Doctors must offer abortion if mom's life is at risk</a> NPR: HHS told hospitals that they "must" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception. 
  <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
