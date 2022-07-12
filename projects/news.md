@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62136257?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah praised for discussing childhood trafficking trauma</a> BBC: The Olympian is widely praised for going public with his experiences of being trafficked into the UK. 
+ <p class="updated_time"> 11:19 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-62138035?at_medium=RSS&at_campaign=KARANGA">Panorama: Any fresh SAS kill claims will be investigated, says minister</a> BBC: SAS operatives in Afghanistan repeatedly killed detainees and unarmed men, a BBC investigation finds. 
  <p class="updated_time"> 10:53 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
  <p class="updated_time"> 10:39 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62140378?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Rajapaksa faces 'terrible, massive protests' unless he quits</a> BBC: Sri Lanka's leader must resign or face even bigger demonstrations, protest leaders say. 
  <p class="updated_time"> 10:36 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62072844?at_medium=RSS&at_campaign=KARANGA">Maine energy: How one hydropower project sparked a $100m 'hoohah'</a> BBC: A proposal to send hydropower from Canada to the US was cancelled after significant pushback. 
+ <p class="updated_time"> 10:31 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:06 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with combat drones, US warns</a> BBC: The US suspects Russia will be using drones in Ukraine - Iran has neither confirmed nor denied this. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
- <p class="updated_time"> 08:34 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 08:32 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62136062?at_medium=RSS&at_campaign=KARANGA">Europe swelters as heatwave spreads</a> BBC: Forest fires and droughts hit Spain and Portugal as authorities warn of exceptionally hot weather. 
- <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
- <p class="updated_time"> 07:30 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but it is not confirmed by Russian-backed officials. 
  <p class="updated_time"> 06:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62134804?at_medium=RSS&at_campaign=KARANGA">Ukraine to consider legalising same-sex marriage amid war</a> BBC: A petition calling for marriage equality has enough signatures to be considered by the president. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
- <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS unit repeatedly killed Afghan detainees, BBC finds</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61973510?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Abortion pills a new front in culture wars</a> BBC: Abortion pills - the most common way to end pregnancies in the US - are in activists' crosshairs. 
  <p class="updated_time"> 08:07 PM CT, Jul. 11 </p> 
@@ -118,6 +120,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 AM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk">Biden administration: Doctors must offer abortion if mom's life is at risk</a> NPR: HHS told hospitals that they "must" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception. 
  <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
@@ -132,8 +136,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110993525/whats-on-bidens-agenda-for-his-first-middle-east-trip-as-president">What's on Biden's agenda for his first Middle East trip as president</a> NPR: NPR'S Steve Inskeep speaks with Giorgio Cafiero, CEO of Gulf State Analytics, about the president's goals on his upcoming trip to the Middle East. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993511/las-mayoral-candidates-have-big-plans-to-fix-homelessness-can-they-follow-throug">LA's mayoral candidates have big plans to fix homelessness. Can they follow through?</a> NPR: The Los Angeles mayor's race is turning into a single-issue election: What to do about the city's enormous homeless population? It's not clear either candidate could solve the problem. 
- <p class="updated_time"> 09:22 PM CT, Jul. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">Here's what we know about links between extremists and Trump allies</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
@@ -150,8 +152,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904511/blind-loyalty-is-helping-sustain-trumps-power-in-the-republican-party-new-book-s">Blind loyalty is helping sustain Trump's power in the Republican party, new book says</a> NPR: NPR's Juana Summers talks with journalist Mark Leibovich about his new book Thank You for Your Servitude: Donald Trump's Washington and the Price of Submission. 
  <p class="updated_time"> 02:08 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110776772/census-political-interference-meddling-maloney-legislation">A new bill could help protect the census after Trump-era interference</a> NPR: After years of census meddling by former President Donald Trump's administration, Rep. Carolyn Maloney, D-N.Y., has introduced a bill that could help protect future counts from interference. 
- <p class="updated_time"> 06:54 AM CT, Jul. 11 </p> 
- <a href="https://www.cnn.com/2022/07/09/politics/senate-race-rankings-july-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: With more than half of this year's competitive Senate matchups set, the overall electoral environment remains consistent: President Joe Biden's poor approval numbers, combined with a pervasive sense that the country is headed in the wrong direction, are weighing down Democrats looking to maintain control of Congress. 
+ <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
+ <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
 
 </details>
