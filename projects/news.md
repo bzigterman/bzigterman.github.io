@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:43 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa's brother 'leaves for US'</a> BBC: Basil Rajapaksa's reported departure comes just before the president is due to resign after mass unrest. 
+ <p class="updated_time"> 04:02 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country</a> BBC: Gotabaya Rajapaksa's departure follows mass protests in his country amid the island's worsening economic crisis. 
+ <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131964/fake-cricket-league-dupes-some-online-bettors">Fake cricket league dupes some online bettors</a> NPR: A group of men in India were recently arrested for putting on bogus professional cricket matches and duping bettors in Russia. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904567/encore-climate-change-is-threatening-thousands-of-years-of-winemaking-in-turkey">Encore: Climate change is threatening thousands of years of winemaking in Turkey</a> NPR: Climate change is posing challenges to vineyards in Turkey, endangering the future of an ancient industry. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904560/challenges-low-income-countries-are-facing">Challenges low income countries are facing</a> NPR: NPR's Ailsa Chang speaks with Dr. Atul Gawande of USAID about the challenges facing low-income countries as they tackle continued COVID surges, a lack of monkey pox vaccines and climate disasters. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111135283/jan-6-trump-witness">Trump tried to call a Jan. 6 committee witness, Cheney says</a> NPR: Panel Vice Chair Liz Cheney said the witness has yet to appear in the hearings and didn't take the call from the former president but alerted their lawyer, who told the committee. 
+ <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:47 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -145,15 +149,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Jan. 6 rioter, former Oath Keepers spokesman sit for live testimony</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
+ <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Jan. 6 rioter, former Oath Keepers spokesman testify in panel's seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110993525/whats-on-bidens-agenda-for-his-first-middle-east-trip-as-president">What's on Biden's agenda for his first Middle East trip as president</a> NPR: NPR'S Steve Inskeep speaks with Giorgio Cafiero, CEO of Gulf State Analytics, about the president's goals on his upcoming trip to the Middle East. 
- <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110993511/las-mayoral-candidates-have-big-plans-to-fix-homelessness-can-they-follow-throug">LA's mayoral candidates have big plans to fix homelessness. Can they follow through?</a> NPR: The Los Angeles mayor's race is turning into a single-issue election: What to do about the city's enormous homeless population? It's not clear either candidate could solve the problem. 
- <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">Here's what we know about links between extremists and Trump allies</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
