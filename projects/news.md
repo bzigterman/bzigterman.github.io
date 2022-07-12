@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
+ <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
+ <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131922/as-wealthy-nations-push-4th-booster-shots-africa-is-being-left-behind">As wealthy nations push 4th booster shots, Africa is being left behind</a> NPR: NPR's Ari Shapiro speaks with Ayoade Alakija, co-chair of the Africa Vaccine Delivery Alliance, about the ongoing challenges of addressing COVID-19. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
@@ -87,12 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk">Japan is examining its security and defense policy as Russia continues war in Ukraine</a> NPR: Shinzo Abe, former Japanese prime minister who was killed July 11, championed for more robust defense and security policies. With current world events, those ideas are increasingly important in Japan. 
  <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/2022/07/11/1110904532/protesters-in-sri-lanka-say-they-wont-leave-the-presidents-palace-until-hes-oust">Protesters in Sri Lanka say they won't leave the president's palace until he's ousted</a> NPR: Sri Lanka is slipping further into crisis — first with bankruptcy and now a power vacuum. Thousands descended on the president's residence in protest of the government's economic mismanagement. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1109345102/a-new-reality-reverberates-through-russias-music-scene">A new reality reverberates through Russia's music scene</a> NPR: Canceled concerts, lawsuits, existential turmoil. As Russia has cracked down on anti-war speech, the country's music scene reaches a particularly high pitch. 
- <p class="updated_time"> 12:33 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110853580/legacy-of-violence-documents-the-dark-side-of-the-british-empire">'Legacy of Violence' documents the dark side of the British Empire</a> NPR: By by 1920, the British Empire covered 24% of the Earth's land mass. Historian Caroline Elkins says British rulers portrayed themselves as benevolent, but used systematic violence to maintain control. 
- <p class="updated_time"> 11:26 AM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110684941/russia-ukraine-war-recap-look-ahead-july-11">Russia-Ukraine war: A weekly recap and look ahead (July 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 07:08 PM CT, Jul. 10 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
+ <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
@@ -150,10 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110961285/the-next-jan-6-committee-hearing-will-focus-on-the-role-of-qanon-and-extremists">Here's what we know about links between extremists and Trump allies</a> NPR: Aides to the congressional committee investigating the Jan. 6, 2021 attack on the U.S. Capitol said the next hearing would focus on extremist groups and their possible links to Trump and his allies. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904553/the-sale-of-2-spanish-talk-radio-stations-may-counter-the-spread-of-disinformati">The sale of 2 Spanish talk radio stations may counter the spread of disinformation</a> NPR: Miami's Cuban-American community and some Republican officials are in turmoil over the proposed sale of two Spanish-language radio stations to a Latina-owned network backed by George Soros. 
- <p class="updated_time"> 03:18 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk">Japan is examining its security and defense policy as Russia continues war in Ukraine</a> NPR: Shinzo Abe, former Japanese prime minister who was killed July 11, championed for more robust defense and security policies. With current world events, those ideas are increasingly important in Japan. 
  <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
  <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
