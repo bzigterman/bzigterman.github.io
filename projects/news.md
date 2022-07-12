@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
+ <p class="updated_time"> 03:53 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 02:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
@@ -17,8 +21,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
- <p class="updated_time"> 01:55 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: China to repay customers after mass bank protests</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
@@ -26,7 +28,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS reports reveal troubling pattern of suspicious deaths in Afghanistan</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
+ <a href="https://www.bbc.co.uk/news/uk-62083196?at_medium=RSS&at_campaign=KARANGA">SAS unit repeatedly killed Afghan detainees, BBC finds</a> BBC: Internal emails seen by the BBC show top special forces officers were aware of concerns over killings. 
  <p class="updated_time"> 10:52 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62130595?at_medium=RSS&at_campaign=KARANGA">Jill Biden criticised for comparing Latinos to tacos</a> BBC: "We are not tacos," a Hispanic industry group responded after the US first lady's botched compliment. 
  <p class="updated_time"> 08:56 PM CT, Jul. 11 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62066885?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'The protests have changed thinking for the better'</a> BBC: Sri Lankan women tell the BBC of their hopes that the protests will have a positive impact on people's lives. 
- <p class="updated_time"> 08:15 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723381/former-minister-of-womens-affairs-outlines-the-historical-changes-in-afghanistan">Former Minister of Women's Affairs outlines the historical changes in Afghanistan</a> NPR: NPR's Ayesha Rascoe speaks to Sima Samar, Afghanistan's former Minister of Women's Affairs. She's among the voices featured in a four-part PBS documentary, "Afghanistan: The Wounded Land," 
  <p class="updated_time"> 06:42 PM CT, Jul. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61845304?at_medium=RSS&at_campaign=KARANGA">America's race gap between black and white homeowners</a> BBC: Black Americans are almost twice as likely to be denied a mortgage than their white counterparts. 
  <p class="updated_time"> 06:08 PM CT, Jul. 09 </p> 
@@ -114,6 +114,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">The next Jan. 6 committee hearing will focus on extremist organizations </a> NPR: Tuesday's 1 p.m. ET hearing will look at the role of extremist organizations on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110993525/whats-on-bidens-agenda-for-his-first-middle-east-trip-as-president">What's on Biden's agenda for his first Middle East trip as president</a> NPR: NPR'S Steve Inskeep speaks with Giorgio Cafiero, CEO of Gulf State Analytics, about the president's goals on his upcoming trip to the Middle East. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1110993511/las-mayoral-candidates-have-big-plans-to-fix-homelessness-can-they-follow-throug">LA's mayoral candidates have big plans to fix homelessness. Can they follow through?</a> NPR: The Los Angeles mayor's race is turning into a single-issue election: What to do about the city's enormous homeless population? It's not clear either candidate could solve the problem. 
  <p class="updated_time"> 09:22 PM CT, Jul. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:36 PM CT, Jul. 11 </p> 
@@ -142,14 +150,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/11/1110799371/these-lawmakers-are-gunning-for-boris-johnsons-prime-minister-role">These lawmakers are gunning for Boris Johnson's Prime Minister role</a> NPR: Nine British lawmakers are lining up to replace Boris Johnson, just days after his resignation as the leader of Britain's Conservative party. 
  <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
  <a href="https://www.npr.org/2022/07/10/1110778838/a-supreme-court-decision-could-radically-reshape-presidential-elections">A Supreme Court decision could radically reshape presidential elections</a> NPR: A new Supreme Court case could radically change congressional and presidential elections by giving broad, largely unchecked power to state legislators in deciding how those elections are run. 
- <p class="updated_time"> 04:06 PM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110778810/the-jan-6-hearings-happening-this-week">The Jan. 6 hearings happening this week</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol is expected to hold two more hearings this week, including one in primetime. 
- <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723316/native-americans-tell-haaland-their-stories-of-being-forced-into-boarding-school">Native Americans tell Haaland their stories of being forced into boarding schools</a> NPR: Ayesha Rascoe speaks with Ramona Klein, a member of the Turtle Mountain Band of Chippewa, about a listening tour among Native Americans by U.S. Interior Secretary Deb Haaland. 
- <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723295/texas-rep-henry-cuellar-is-one-democrat-who-opposes-abortion-rights">Texas Rep. Henry Cuellar is one Democrat who opposes abortion rights</a> NPR: Democratic leaders are hoping Rep. Henry Cuellar of Texas holds onto his seat in November's midterm elections, even though he opposes abortion rights, a position at odds with his party brethren. 
- <p class="updated_time"> 07:02 AM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110723288/politics-chat-biden-to-saudi-next-jan-6-hearing-tues-gun-owners-support-control">Politics chat: Biden to Saudi; next Jan. 6 hearing Tues.; gun owners support control</a> NPR: The House Jan. 6 committee will hold another public hearing Tuesday. Also, an NPR/Ipsos poll found that gun owners overwhelmingly support some gun control measures. 
 
 
 </details>
