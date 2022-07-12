@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:34 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
+ <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
+ <p class="updated_time"> 08:12 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
+ <p class="updated_time"> 08:07 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles blast civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 07:30 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but it is not confirmed by Russian-backed officials. 
- <p class="updated_time"> 07:23 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 06:55 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62134804?at_medium=RSS&at_campaign=KARANGA">Ukraine to consider legalising same-sex marriage amid war</a> BBC: A petition calling for marriage equality has enough signatures to be considered by the president. 
- <p class="updated_time"> 06:48 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62130725?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Iran plans to supply Russia with drones, US warns</a> BBC: A top US official says Iran is preparing to send weapons-capable drones to Russia for use in Ukraine. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for over-speeding, but police found 27 passengers inside. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for speeding - police found 27 passengers inside. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
- <p class="updated_time"> 03:53 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 03:25 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan Airport Officials Thwart President's Brother From Leaving Country</a> WSJ: Staff at a VIP airport lounge walked off the job, leaving the former finance minister unable to clear immigration. 
  <p class="updated_time"> 02:55 AM CT, Jul. 12 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62123966?at_medium=RSS&at_campaign=KARANGA">India: How a fake 'IPL' cricket league ran for Russian punters</a> BBC: Police say a gang set up a fake version of the Indian Premier League and fooled Russian gamblers. 
  <p class="updated_time"> 06:03 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62130143?at_medium=RSS&at_campaign=KARANGA">Jenin in the West Bank: Guns and grief on the rise</a> BBC: Tom Bateman meets the militants Israel is trying to stop with raids in the flashpoint camp of Jenin. 
- <p class="updated_time"> 05:30 PM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62122859?at_medium=RSS&at_campaign=KARANGA">Nasa telescope takes super sharp view of early cosmos</a> BBC: The new $10bn space telescope delivers its first full-colour image of the distant Universe. 
  <p class="updated_time"> 04:54 PM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-62083853?at_medium=RSS&at_campaign=KARANGA">'We have a zeal to protect our heritage through radio'</a> BBC: Jambo Radio broadcasts in multiple languages to cater for the growing African and Caribbean community in Scotland. 
  <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
@@ -101,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
  <p class="updated_time"> 06:03 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-62060542?at_medium=RSS&at_campaign=KARANGA">The video game prescribed by doctors to treat ADHD</a> BBC: A US game has got regulatory approval to help treat attention deficit hyperactivity disorder. 
- <p class="updated_time"> 04:15 PM CT, Jul. 10 </p> 
- <a href="https://www.npr.org/2022/07/10/1110778845/could-turkey-block-finland-and-sweden-nato-membership">Could Turkey block Finland and Sweden NATO membership?</a> NPR: It looks like commitments by Sweden and Finland to fight militant groups brought Turkey to drop objections to those countries joining NATO. But it's still not quite a closed issue in Turkey. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
  <p class="updated_time"> 09:22 AM CT, Jul. 10 </p> 
