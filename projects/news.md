@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 AM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62136022?at_medium=RSS&at_campaign=KARANGA">Heathrow caps passenger numbers over summer</a> BBC: The UK's biggest airport has been struggling to cope with the rebound in demand for air travel. 
  <p class="updated_time"> 05:10 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62123886?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah reveals he was trafficked to the UK as a child</a> BBC: The Olympic star says the name Mohamed Farah was given to him by a stranger who flew him to the UK. 
  <p class="updated_time"> 05:00 AM CT, Jul. 12 </p> 
@@ -27,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: Ferocious lions' statue on new parliament raises eyebrows</a> BBC: PM Narendra Modi has unveiled a bronze cast of India's national emblem on top of the new parliament building. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
- <p class="updated_time"> 01:38 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62130744?at_medium=RSS&at_campaign=KARANGA">Henan: China to repay customers after mass bank protests</a> BBC: Financial regulators in Henan said "advance payments" will be made in batches from this Friday. 
  <p class="updated_time"> 12:03 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62120782?at_medium=RSS&at_campaign=KARANGA">Champions League: Witnesses raise new questions about chaos of Paris final</a> BBC: A BBC probe into the issues at the Stade de France hears evidence that contradicts French authorities. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
