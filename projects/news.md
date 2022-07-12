@@ -11,14 +11,14 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
+ <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
  <p class="updated_time"> 02:13 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Gotabaya Rajapaksa due to resign after protests</a> BBC: Gotabaya Rajapaksa has defied calls to leave for months as his country's economic crisis deepened. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62136257?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah praised for discussing childhood trafficking trauma</a> BBC: The Olympian is widely praised for going public with his experiences of being trafficked into the UK. 
- <p class="updated_time"> 11:19 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
  <p class="updated_time"> 10:53 AM CT, Jul. 12 </p> 
