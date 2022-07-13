@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: String of errors in French handling, says report</a> BBC: A French Senate inquiry finds Liverpool fans were unfairly blamed for the failings at the stadium. 
+ <p class="updated_time"> 09:51 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
+ <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
  <p class="updated_time"> 08:31 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden arrives in Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will talk to Israeli and Palestinians leaders before flying to the Gulf kingdom. 
  <p class="updated_time"> 08:18 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
- <p class="updated_time"> 07:10 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62149898?at_medium=RSS&at_campaign=KARANGA">Hong Kong's 'Grandma Wong' jailed over 2019 protests</a> BBC: The prominent campaigner receives a 32-week prison sentence for unlawful assembly. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
+ <p class="updated_time"> 05:22 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 05:10 AM CT, Jul. 13 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history">How Russia's current war in Ukraine echoes its Crimean War of the 1850s</a> NPR: Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s. 
  <p class="updated_time"> 03:40 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/yellen-pitches-russian-oil-price-cap-to-chinese-counterpart-11657716052">Yellen Pitches Russian-Oil Price Cap to Chinese Counterpart</a> WSJ: The U.S. Treasury secretary discussed with China’s vice premier the possibility of placing a cap on the price of Russian oil, in one of the first signs of American efforts to pitch China on a plan to limit Russia’s revenue from oil sales. 
- <p class="updated_time"> 03:23 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel in High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 02:27 AM CT, Jul. 13 </p> 
