@@ -30,6 +30,7 @@ recent_data <- data %>%
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
+              animation = FALSE,
               name = "Claims") %>%
   hc_title(text = "Initial Unemployment Claims") %>%
   hc_credits(
