@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
@@ -28,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 01:43 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strike on Russian Air-Defense Unit Shows Impact of New Weapons</a> WSJ: The strike is the latest in a series that Ukraine has conducted against high-value targets such as ammunition depots since multiple-launch rocket systems known as Himars began arriving from the U.S. last month. 
+ <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 12:37 AM CT, Jul. 13 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
- <p class="updated_time"> 01:09 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62140086?at_medium=RSS&at_campaign=KARANGA">Emmys 2022: Succession leads US TV award nominations</a> BBC: The show leads the race for the US TV awards, with nominations for both Brian Cox and Jeremy Strong. 
  <p class="updated_time"> 01:07 PM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/funeral-for-shinzo-abe-is-held-in-tokyo-11657663628">Funeral for Shinzo Abe Is Held in Tokyo</a> WSJ: Crowds mourned slain former leader as car carrying Mr. Abe’s coffin was driven past the places where he spent his nearly 30-year career as a lawmaker. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
