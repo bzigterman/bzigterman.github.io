@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:20 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62146770?at_medium=RSS&at_campaign=KARANGA">Ukraine grain: Kyiv optimistic on Russia deal to reopen Black Sea</a> BBC: Tough talks are needed to reopen safe cargo routes for the grain that Russia has trapped in Ukraine. 
+ <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111246100/protesters-in-sri-lanka-brave-tear-gas-and-storm-prime-ministers-office">Protesters in Sri Lanka brave tear gas and storm prime minister's office</a> NPR: The move on the prime minister's office follows the country's president fleeing the country. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111087981/sri-lankan-protesters-partied-in-the-presidents-mansion-what-comes-next-is-uncle">Sri Lankan protesters partied in the president's mansion. What comes next is unclear</a> NPR: Protesters in Sri Lanka who spent the weekend occupying the president's palace have now entered and torched the prime minister's private mansion as well. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
@@ -16,13 +20,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:10 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas at protesters marching outside PM's office</a> BBC: Sri Lanka's PM Ranil Wickremesinghe has declared a state of emergency in the country. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: A statue of India's national emblem on top of the new parliament building has raised eyebrows. 
- <p class="updated_time"> 11:19 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62145247?at_medium=RSS&at_campaign=KARANGA">Rogers outage: Millions to get credits over internet and mobile blackout</a> BBC: The disruption - which lasted for over 15 hours - affected transport, banking and emergency services. 
  <p class="updated_time"> 10:11 PM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan President Gotabaya Rajapaksa Flees Country on Military Aircraft</a> WSJ: The president, who was due to formally resign on Wednesday, is headed for the Maldives, according to an immigration official. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
@@ -88,9 +90,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:14 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Extension of Syria Aid, Yielding to Russia</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
  <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and tradition of secrecy thwart efforts by Alpine financial haven to punish billionaire allies of Vladimir Putin. 
- <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
+ <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and a tradition of secrecy have thwarted efforts by the Alpine financial haven to punish billionaire allies of Russian President Vladimir Putin. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
