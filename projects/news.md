@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
+ <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: String of errors in French handling, says report</a> BBC: A French Senate inquiry finds Liverpool fans were unfairly blamed for the failings at the stadium. 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
- <p class="updated_time"> 08:17 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn takeover deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
