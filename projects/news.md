@@ -19,10 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
+ <p class="updated_time"> 08:17 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
- <p class="updated_time"> 07:20 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
@@ -30,7 +30,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at Heathrow: Huge Crowds, Lost Bags, Endless Cancellations</a> WSJ: A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
+ <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
@@ -101,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
- <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62116232?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Apartment block destroyed after Russian rocket strike</a> BBC: At least 15 people have been killed and about 20 more are feared buried under rubble in Chasiv Yar. 
 
 
 </details>
