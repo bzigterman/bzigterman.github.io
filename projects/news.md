@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 AM CT, Jul. 13 </p> 
+ <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas at protesters marching outside PM's office</a> BBC: Sri Lanka's PM Ranil Wickremesinghe has declared a state of emergency in the country. 
+ <p class="updated_time"> 02:27 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
+ <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: A statue of India's national emblem on top of the new parliament building has raised eyebrows. 
  <p class="updated_time"> 11:19 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62145247?at_medium=RSS&at_campaign=KARANGA">Rogers outage: Millions to get credits over internet and mobile blackout</a> BBC: The disruption - which lasted for over 15 hours - affected transport, banking and emergency services. 
  <p class="updated_time"> 10:11 PM CT, Jul. 12 </p> 
@@ -95,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
- <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
