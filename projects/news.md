@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 12:29 PM CT, Jul. 13 </p> 
@@ -23,8 +25,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
- <p class="updated_time"> 08:17 AM CT, Jul. 13 </p> 
+ <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
+ <p class="updated_time"> 09:04 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: Developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
@@ -33,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 06:26 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
+ <p class="updated_time"> 06:16 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Ukraine, Russia, Turkey and U.N. Hold Talks on Exporting Blockaded Grain</a> WSJ: Officials from Ukraine, Russia, Turkey and the United Nations held talks in Istanbul on a proposal to export millions of tons of grain that have been trapped in Ukraine due to Russia’s invasion. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
@@ -49,12 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111087981/sri-lankan-protesters-partied-in-the-presidents-mansion-what-comes-next-is-uncle">Sri Lankan protesters party in the president's mansion as he flees the country</a> NPR: Protesters in Sri Lanka who spent the weekend occupying the president's palace have now entered and torched the prime minister's private mansion as well. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history">How Russia's current war in Ukraine echoes its Crimean War of the 1850s</a> NPR: Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s. 
- <p class="updated_time"> 03:40 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/yellen-pitches-russian-oil-price-cap-to-chinese-counterpart-11657716052">Yellen Pitches Russian-Oil Price Cap to Chinese Counterpart</a> WSJ: The U.S. Treasury secretary discussed with China’s vice premier the possibility of placing a cap on the price of Russian oil, in one of the first signs of American efforts to pitch China on a plan to limit Russia’s revenue from oil sales. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
- <p class="updated_time"> 02:27 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655">Sri Lanka Imposes State of Emergency as President Flees</a> WSJ: Prime Minister Ranil Wickremesinghe, who has said he would resign, also ordered a curfew as angry protesters surrounded his office. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
- <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131950/jan-6-hearing-a-trump-supporter-testifies-about-why-he-and-others-stormed-capito">Jan. 6 hearing: A Trump supporter testifies about why he and others stormed Capitol</a> NPR: The Jan. 6 committee revealed how Trump supporters' anger built into the violence during the riot, and showed how Trump and some of his closest allies used conspiracy theories to stoke their rage. 
- <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
