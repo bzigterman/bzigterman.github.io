@@ -15,6 +15,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
  <p class="updated_time"> 11:19 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62145247?at_medium=RSS&at_campaign=KARANGA">Rogers outage: Millions to get credits over internet and mobile blackout</a> BBC: The disruption - which lasted for over 15 hours - affected transport, banking and emergency services. 
+ <p class="updated_time"> 10:11 PM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan President Gotabaya Rajapaksa Flees Country on Military Aircraft</a> WSJ: The president, who was due to formally resign on Wednesday, is headed for the Maldives, according to an immigration official. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
@@ -26,11 +28,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry.'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 05:31 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62140410?at_medium=RSS&at_campaign=KARANGA">Capitol riots: 'Wild' Trump tweet incited attack, says inquiry</a> BBC: Mr Trump sent a rallying call to supporters after "the craziest meeting" of his presidency, the inquiry hears. 
- <p class="updated_time"> 04:26 PM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan President Gotabaya Rajapaksa Flees Country on Military Aircraft</a> WSJ: The president, who was due to formally resign on Wednesday, is headed for the Maldives, according to an immigration official. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
