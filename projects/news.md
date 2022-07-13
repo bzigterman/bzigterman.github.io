@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 04:04 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed Prime Minister and Acting President Ranil Wickremesinghe's office. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed the office of Prime Minister Ranil Wickremesinghe. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
