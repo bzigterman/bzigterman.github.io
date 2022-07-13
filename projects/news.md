@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed Prime Minister and Acting President Ranil Wickremesinghe's office. 
+ <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388372/lessons-from-the-2015-paris-attacks-trial-that-ended-in-june">Lessons from the 2015 Paris attacks trial that ended in June</a> NPR: Victims who testified during the landmark Paris attacks trial — which wrapped up at the end of June — say the case holds lessons for the United States. 
  <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
@@ -21,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
  <p class="updated_time"> 02:31 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/13/1111135757/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clea">The visa hurdle: Why conference applicants from the global south can't always clear it</a> NPR: Global health meetings are often held in the West — and that's an obstacle for scientists, doctors and advocates from lower resource countries. Which means their voices aren't being heard. 
- <p class="updated_time"> 01:58 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed Prime Minister and Acting President Ranil Wickremesinghe's office. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131957/ukrainian-rail-service-adds-a-special-train-to-get-people-out-of-donbas">Ukrainian rail service adds a special train to get people out of Donbas</a> NPR: Russia is pounding eastern Ukraine as it tries to consolidate its control of the entire Donbas region. To help get people the out, the Ukrainian rail service has added a special train from the Donbas. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
- <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
@@ -112,12 +112,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388386/rep-jamie-raskin-discusses-the-7th-jan-6-hearing-held-yesterday">Rep. Jamie Raskin discusses the 7th Jan. 6 hearing, held yesterday</a> NPR: NPR's Juana Summers talks with Democratic Congressman Jamie Raskin, a member of the House committee investigating Jan. 6, about the hearing on Tuesday, July 12. 
  <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
  <p class="updated_time"> 02:42 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
+ <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild!' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
  <p class="updated_time"> 02:16 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york">Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling</a> NPR: The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111244760/a-record-number-of-abortion-related-questions-are-on-states-ballots-this-year">A record-number of abortion related questions are on states' ballots this year </a> NPR: This year, voters in a record number of states will weigh in on ballot measures related to abortion, with some proposals advanced by abortion-rights supporters and others advanced by opponents. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month">No retreat in the summer heat. Inflation blistering at 9.1% in June</a> NPR: Inflation hit a new, four-decade high of 9.1% last month, fueled in part by record high gasoline prices. Gas prices have since fallen, but overall inflation is still elevated. 
- <p class="updated_time"> 06:44 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys">Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies</a> NPR: The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
