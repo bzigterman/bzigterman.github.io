@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: String of errors in French handling, says report</a> BBC: A French Senate inquiry finds Liverpool fans were unfairly blamed for the failings at the stadium. 
  <p class="updated_time"> 08:31 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden arrives in Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will talk to Israeli and Palestinians leaders before flying to the Gulf kingdom. 
  <p class="updated_time"> 08:18 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
- <p class="updated_time"> 07:21 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: String of errors in French handling, says report</a> BBC: A French Senate inquiry finds Liverpool fans were unfairly blamed for the failings at the stadium. 
  <p class="updated_time"> 07:10 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149898?at_medium=RSS&at_campaign=KARANGA">Hong Kong's 'Grandma Wong' jailed over 2019 protests</a> BBC: The prominent campaigner receives a 32-week prison sentence for unlawful assembly. 
+ <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
- <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: A statue of India's national emblem on top of the new parliament building has raised eyebrows. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
