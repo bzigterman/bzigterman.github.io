@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue amid criticism</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
  <p class="updated_time"> 11:10 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
