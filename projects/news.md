@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:50 PM CT, Jul. 12 </p> 
+ <p class="updated_time"> 09:55 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
+ <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Why Shah Rukh Khan is still 'king of Bollywood'</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
+ <p class="updated_time"> 08:17 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn takeover deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 06:58 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133978?at_medium=RSS&at_campaign=KARANGA">Joe Biden heads to Middle East amid faltering US sway</a> BBC: The US president's visit to the turbulent region may highlight the limits of American power. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry.'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
- <p class="updated_time"> 06:01 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn takeover deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 05:31 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62140410?at_medium=RSS&at_campaign=KARANGA">Capitol riots: 'Wild' Trump tweet incited attack, says inquiry</a> BBC: Mr Trump sent a rallying call to supporters after "the craziest meeting" of his presidency, the inquiry hears. 
+ <p class="updated_time"> 04:26 PM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan President Gotabaya Rajapaksa Flees Country on Military Aircraft</a> WSJ: The president, who was due to formally resign on Wednesday, is headed for the Maldives, according to an immigration official. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -63,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62136062?at_medium=RSS&at_campaign=KARANGA">Europe swelters as heatwave spreads</a> BBC: Forest fires and droughts hit Spain and Portugal as authorities warn of exceptionally hot weather. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
- <p class="updated_time"> 08:25 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan Airport Officials Thwart President's Brother From Leaving Country</a> WSJ: Staff at a VIP airport lounge walked off the job, leaving the former finance minister unable to clear immigration. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
@@ -104,10 +106,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:44 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
+ <p class="updated_time"> 08:37 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys">Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies</a> NPR: The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election. 
- <p class="updated_time"> 06:42 PM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript">Here's every word from the seventh Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the July 12 House select committee investigating the Jan. 6 Capitol attack hearing. 
  <p class="updated_time"> 04:25 PM CT, Jul. 12 </p> 
@@ -120,8 +124,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
- <p class="updated_time"> 03:12 PM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
