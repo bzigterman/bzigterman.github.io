@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
  <p class="updated_time"> 11:19 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62145247?at_medium=RSS&at_campaign=KARANGA">Rogers outage: Millions to get credits over internet and mobile blackout</a> BBC: The disruption - which lasted for over 15 hours - affected transport, banking and emergency services. 
- <p class="updated_time"> 11:10 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
@@ -49,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
+ <p class="updated_time"> 01:37 PM CT, Jul. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depots in Russian-Controlled Cities</a> WSJ: Long-range rockets provided by the U.S. “have changed the rules of the game,” Ukrainian official says. 
  <p class="updated_time"> 01:09 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62140086?at_medium=RSS&at_campaign=KARANGA">Emmys 2022: Succession leads US TV award nominations</a> BBC: The show leads the race for the US TV awards, with nominations for both Brian Cox and Jeremy Strong. 
  <p class="updated_time"> 01:07 PM CT, Jul. 12 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
  <p class="updated_time"> 09:24 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/biden-presses-for-israeli-arab-security-ties-to-come-out-from-the-shadows-11657650256">Biden Presses for Deeper, More Public Israeli-Arab Security Ties</a> WSJ: President Biden’s four-day trip to Israel and Saudi Arabia could test the limits of how openly Arab countries are willing to embrace Israel. 
- <p class="updated_time"> 09:10 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
