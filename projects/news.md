@@ -19,6 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
+ <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 07:20 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 06:26 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
+ <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at Heathrow: Huge Crowds, Lost Bags, Endless Cancellations</a> WSJ: A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
@@ -73,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
- <p class="updated_time"> 01:07 PM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/funeral-for-shinzo-abe-is-held-in-tokyo-11657663628">Funeral for Shinzo Abe Is Held in Tokyo</a> WSJ: Crowds mourned slain former leader as car carrying Mr. Abe’s coffin was driven past the places where he spent his nearly 30-year career as a lawmaker. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
- <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and a tradition of secrecy have thwarted efforts by the Alpine financial haven to punish billionaire allies of Russian President Vladimir Putin. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
@@ -111,7 +111,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis is doing battle against "woke" public schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
+ <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
  <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:30 AM CT, Jul. 13 </p> 
