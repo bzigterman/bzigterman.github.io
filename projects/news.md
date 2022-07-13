@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: The president pledged to resign by Wednesday, but a letter has not yet been received. 
+ <p class="updated_time"> 10:41 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden arrives in Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will see Israeli and Palestinian leaders before an historic flight to the kingdom. 
+ <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 09:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
- <p class="updated_time"> 08:31 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden arrives in Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will talk to Israeli and Palestinians leaders before flying to the Gulf kingdom. 
- <p class="updated_time"> 08:18 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
+ <p class="updated_time"> 07:20 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
+ <p class="updated_time"> 06:26 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
- <p class="updated_time"> 05:22 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 05:10 AM CT, Jul. 13 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 02:27 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655">Sri Lanka Imposes State of Emergency as President Flees</a> WSJ: Prime Minister Ranil Wickremesinghe, who has said he would resign, also ordered a curfew as angry protesters surrounded his office. 
- <p class="updated_time"> 01:43 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
