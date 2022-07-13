@@ -462,6 +462,7 @@ standings_interactive <- function(division) {
   hchart(division, "line", hcaes(x = game_n,
                                  y = net_wins,
                                  group = team),
+         animation = FALSE,
          tooltip = list(
            pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
   ) %>%
@@ -1052,6 +1053,7 @@ hc_nl_games <- nl_games_plus %>%
 fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team),
+               animation = FALSE,
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
@@ -1075,6 +1077,7 @@ saveWidget(widget = fig1, file = "interactive/al_standings.html",
 fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team),
+               animation = FALSE,
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 )%>%
