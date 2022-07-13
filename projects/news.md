@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
+ <p class="updated_time"> 12:29 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
  <p class="updated_time"> 10:57 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: The president pledged to resign by Wednesday, but a letter has not yet been received. 
  <p class="updated_time"> 10:41 AM CT, Jul. 13 </p> 
@@ -83,10 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
- <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
- <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall">Russian missiles are blasting civilians in Ukraine</a> NPR: A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas. 
  <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
  <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131950/jan-6-hearing-a-trump-supporter-testifies-about-why-he-and-others-stormed-capito">Jan. 6 hearing: A Trump supporter testifies about why he and others stormed Capitol</a> NPR: The Jan. 6 committee revealed how Trump supporters' anger built into the violence during the riot, and showed how Trump and some of his closest allies used conspiracy theories to stoke their rage. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
- <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
