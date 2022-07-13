@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 09:55 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depot in Russian-Controlled City</a> WSJ: Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
- <p class="updated_time"> 08:32 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62136062?at_medium=RSS&at_campaign=KARANGA">Europe swelters as heatwave spreads</a> BBC: Forest fires and droughts hit Spain and Portugal as authorities warn of exceptionally hot weather. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely">Lean Out: Employees Are Accepting Lower Pay In Order To Work Remotely</a> NPR: A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation. 
  <p class="updated_time"> 07:54 AM CT, Jul. 12 </p> 
