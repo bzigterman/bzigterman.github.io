@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111388372/lessons-from-the-2015-paris-attacks-trial-that-ended-in-june">Lessons from the 2015 Paris attacks trial that ended in June</a> NPR: Victims who testified during the landmark Paris attacks trial — which wrapped up at the end of June — say the case holds lessons for the United States. 
  <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">Ukrainian maternity ward: The last specialist ward in the eastern Donbas region</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:52 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62155445?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Deportation claims and North Korea row</a> BBC: The US accuses Russia of removing civilians and Ukraine breaks off diplomatic ties with North Korea. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
@@ -27,8 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 12:29 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
- <p class="updated_time"> 10:57 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: The president pledged to resign by Wednesday, but a letter has not yet been received. 
+ <p class="updated_time"> 12:18 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62155364?at_medium=RSS&at_campaign=KARANGA">Mark Fleischman: Ex-Studio 54 club owner dies by assisted suicide at Dignitas</a> BBC: Mark Fleischman, who ran the legendary New York nightclub in the 1980s, dies by assisted suicide. 
  <p class="updated_time"> 10:41 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden visits Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will see Israeli and Palestinian leaders before an historic flight to the kingdom. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
@@ -45,6 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 09:04 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
+ <p class="updated_time"> 09:02 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62148662?at_medium=RSS&at_campaign=KARANGA">US prices rising at fastest rate for 40 years</a> BBC: Fuel and food prices are pushing up inflation in the US, which is at a record level. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
- <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131922/as-wealthy-nations-push-4th-booster-shots-africa-is-being-left-behind">As wealthy nations push 4th booster shots, Africa is being left behind</a> NPR: NPR's Ari Shapiro speaks with Ayoade Alakija, co-chair of the Africa Vaccine Delivery Alliance, about the ongoing challenges of addressing COVID-19. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
@@ -110,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111388386/rep-jamie-raskin-discusses-the-7th-jan-6-hearing-held-yesterday">Rep. Jamie Raskin discusses the 7th Jan. 6 hearing, held yesterday</a> NPR: NPR's Juana Summers talks with Democratic Congressman Jamie Raskin, a member of the House committee investigating Jan. 6, about the hearing on Tuesday, July 12. 
  <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
  <p class="updated_time"> 02:42 PM CT, Jul. 13 </p> 
@@ -142,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month">No retreat in the summer heat. Inflation blistering at 9.1% in June</a> NPR: Inflation hit a new, four-decade high of 9.1% last month, fueled in part by record high gasoline prices. Gas prices have since fallen, but overall inflation is still elevated. 
  <p class="updated_time"> 06:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys">Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies</a> NPR: The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election. 
- <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript">Here's every word from the seventh Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the July 12 House select committee investigating the Jan. 6 Capitol attack hearing. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
