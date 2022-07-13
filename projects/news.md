@@ -112,6 +112,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightening rod. Now a man has been arraigned for the rape. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111244788/whats-ahead-as-biden-arrives-in-israel-for-his-first-trip-as-president">What's ahead as Biden arrives in Israel for his first trip as President</a> NPR: President Biden lands in Israel today, a country he first visited as a young senator about 50 years ago. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111244760/a-record-number-of-abortion-related-questions-are-on-states-ballots-this-year">A record-number of abortion related questions are on states' ballots this year </a> NPR: This year, voters in a record number of states will weigh in on ballot measures related to abortion, with some proposals advanced by abortion-rights supporters and others advanced by opponents. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month">No retreat in the summer heat. Inflation blistering at 9.1% in June</a> NPR: Inflation hit a new, four-decade high of 9.1% last month, fueled in part by record high gasoline prices. Gas prices have since fallen, but overall inflation is still elevated. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
