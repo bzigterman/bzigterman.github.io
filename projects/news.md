@@ -13,6 +13,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: An avatar of India's national emblem on top of the new parliament building has raised many eyebrows. 
  <p class="updated_time"> 11:19 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62145247?at_medium=RSS&at_campaign=KARANGA">Rogers outage: Millions to get credits over internet and mobile blackout</a> BBC: The disruption - which lasted for over 15 hours - affected transport, banking and emergency services. 
+ <p class="updated_time"> 11:10 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
