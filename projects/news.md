@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:50 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 06:58 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133978?at_medium=RSS&at_campaign=KARANGA">Joe Biden heads to Middle East amid faltering US sway</a> BBC: The US president's visit to the turbulent region may highlight the limits of American power. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
- <p class="updated_time"> 06:15 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lankas's economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry.'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 06:01 PM CT, Jul. 12 </p> 
