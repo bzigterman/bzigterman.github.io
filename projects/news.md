@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 02:27 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655">Sri Lanka Imposes State of Emergency as President Flees</a> WSJ: Prime Minister Ranil Wickremesinghe, who is supposed to resign, also ordered a curfew as angry protesters surrounded his office. 
+ <a href="https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655">Sri Lanka Imposes State of Emergency as President Flees</a> WSJ: Prime Minister Ranil Wickremesinghe, who has said he would resign, also ordered a curfew as angry protesters surrounded his office. 
  <p class="updated_time"> 01:43 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
@@ -108,6 +108,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis is doing battle against "woke" public schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
+ <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:30 AM CT, Jul. 13 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
@@ -124,8 +128,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111244760/a-record-number-of-abortion-related-questions-are-on-states-ballots-this-year">A record-number of abortion related questions are on states' ballots this year </a> NPR: This year, voters in a record number of states will weigh in on ballot measures related to abortion, with some proposals advanced by abortion-rights supporters and others advanced by opponents. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month">No retreat in the summer heat. Inflation blistering at 9.1% in June</a> NPR: Inflation hit a new, four-decade high of 9.1% last month, fueled in part by record high gasoline prices. Gas prices have since fallen, but overall inflation is still elevated. 
- <p class="updated_time"> 08:37 PM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys">Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies</a> NPR: The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election. 
  <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
- <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
