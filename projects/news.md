@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed Prime Minister and Acting President Ranil Wickremesinghe's office. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
@@ -18,29 +20,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:57 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: The president pledged to resign by Wednesday, but a letter has not yet been received. 
  <p class="updated_time"> 10:41 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden arrives in Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will see Israeli and Palestinian leaders before an historic flight to the kingdom. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden visits Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will see Israeli and Palestinian leaders before an historic flight to the kingdom. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 09:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146769?at_medium=RSS&at_campaign=KARANGA">Uefa Liverpool final: Fans blamed unfairly for litany of errors, says report</a> BBC: A French Senate inquiry finds a litany of errors by authorities led to the Paris security fiasco. 
+ <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 09:04 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: Developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
+ <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
- <p class="updated_time"> 06:26 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 06:16 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Ukraine, Russia, Turkey and U.N. Hold Talks on Exporting Blockaded Grain</a> WSJ: Officials from Ukraine, Russia, Turkey and the United Nations held talks in Istanbul on a proposal to export millions of tons of grain that have been trapped in Ukraine due to Russia’s invasion. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
+ <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at London’s Heathrow Airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
