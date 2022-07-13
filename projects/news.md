@@ -113,7 +113,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightening rod. Now a man has been arraigned for the rape. 
+ <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
