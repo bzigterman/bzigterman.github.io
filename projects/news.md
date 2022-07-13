@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111087981/sri-lankan-protesters-partied-in-the-presidents-mansion-what-comes-next-is-uncle">Sri Lankan protesters partied in the president's mansion. What comes next is unclear</a> NPR: Protesters in Sri Lanka who spent the weekend occupying the president's palace have now entered and torched the prime minister's private mansion as well. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history">How Russia's current war in Ukraine echoes its Crimean War of the 1850s</a> NPR: Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s. 
  <p class="updated_time"> 03:10 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
@@ -87,14 +91,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and tradition of secrecy thwart efforts by Alpine financial haven to punish billionaire allies of Vladimir Putin. 
  <p class="updated_time"> 04:01 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases">The monkeypox outbreak was avoidable and warning signs were ignored, expert says</a> NPR: Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus. 
- <p class="updated_time"> 02:47 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral">Japanese people say their final goodbyes to former leader Shinzo Abe at his funeral</a> NPR: Japanese bid their final goodbye to former Prime Minister Shinzo Abe on Tuesday as a funeral was held at a temple days after his assassination that shocked the nation. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
- <p class="updated_time"> 04:40 PM CT, Jul. 11 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/11/1110848939/faced-with-covid-and-monkeypox-new-usaid-leader-draws-strength-from-african-prov">Faced with COVID and monkeypox, new USAID leader draws strength from African proverb</a> NPR: Dr Atul Gawande, the surgeon and bestselling health writer talks, to NPR about the problems he has inherited as the new head of USAID's global health office. 
  <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
@@ -110,6 +110,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111244802/how-floridas-gov-desantis-is-exerting-more-control-over-the-states-schools">How Florida's Gov. DeSantis is exerting more control over the state's schools</a> NPR: Florida Gov. Ron DeSantis has gained a national profile by focusing on "culture wars,"  including how race and gender are taught in schools. But his education agenda goes much further. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111244788/whats-ahead-as-biden-arrives-in-israel-for-his-first-trip-as-president">What's ahead as Biden arrives in Israel for his first trip as President</a> NPR: President Biden lands in Israel today, a country he first visited as a young senator about 50 years ago. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111244760/a-record-number-of-abortion-related-questions-are-on-states-ballots-this-year">A record-number of abortion related questions are on states' ballots this year </a> NPR: This year, voters in a record number of states will weigh in on ballot measures related to abortion, with some proposals advanced by abortion-rights supporters and others advanced by opponents. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month">No retreat in the summer heat. Prices likely topped 40 year high last month</a> NPR: Forecasters say inflation likely hit a new, four-decade high last month, fueled in part by record high gasoline prices. Gas prices have since fallen, but overall inflation is still elevated. 
  <p class="updated_time"> 09:44 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 08:37 PM CT, Jul. 12 </p> 
@@ -134,18 +144,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
  <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
- <p class="updated_time"> 02:16 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6">Inside the 'unhinged' West Wing meeting on Dec. 18 </a> NPR: The White House meeting took place four days afterelectors met to make Joe Biden the president-elect. A faction that pushed the former president to fight that outcome clashed with Trump's advisers. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
- <p class="updated_time"> 09:07 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk">Biden administration: Doctors must offer abortion if mom's life is at risk</a> NPR: HHS told hospitals that they "must" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception. 
- <p class="updated_time"> 06:07 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110998198/rep-stephanie-murphy-on-what-to-expect-during-todays-jan-6-hearing">Rep. Stephanie Murphy on what to expect during today's Jan. 6 hearing</a> NPR: NPR's Rachel Martin talks to Rep. Stephanie Murphy (D-FL) about today's Jan. 6 House committee hearing on links between former President Donald Trump's inner circle and extremist groups. 
- <p class="updated_time"> 06:05 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
- <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman testify in seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
 
 
 </details>
