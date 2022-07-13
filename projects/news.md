@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC is with the protesters who flooded into the office of Prime Minister Ranil Wickremesinghe. 
+ <p class="updated_time"> 05:10 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62140092?at_medium=RSS&at_campaign=KARANGA">The Eagles: Three men charged with plot to sell stolen Hotel California lyrics</a> BBC: The stolen manuscripts contained the lyrics to the US rock band's hit album Hotel California. 
  <p class="updated_time"> 04:20 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62146770?at_medium=RSS&at_campaign=KARANGA">Ukraine grain: Kyiv optimistic on Russia deal to reopen Black Sea</a> BBC: Tough talks are needed to reopen safe cargo routes for the grain that Russia has trapped in Ukraine. 
  <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
@@ -20,7 +24,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:10 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
@@ -69,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
- <p class="updated_time"> 10:31 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:25 AM CT, Jul. 12 </p> 
@@ -99,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
+ <p class="updated_time"> 06:07 PM CT, Jul. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62098527?at_medium=RSS&at_campaign=KARANGA">Pikku-Finlandia: Helsinki's new building held up by trees</a> BBC: Helsinki's Pikku-Finlandia is a reusable wooden building with load-bearing tree trunks and branches. 
  <p class="updated_time"> 06:06 PM CT, Jul. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62098529?at_medium=RSS&at_campaign=KARANGA">The Afghan refugee commanding Ukrainian troops</a> BBC: Jalal Noory was just a child when he escaped Afghanistan's civil wars following the Soviet invasion. 
  <p class="updated_time"> 12:28 PM CT, Jul. 10 </p> 
