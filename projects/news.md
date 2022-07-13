@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:58 PM CT, Jul. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62133978?at_medium=RSS&at_campaign=KARANGA">Joe Biden heads to Middle East amid faltering US sway</a> BBC: The US president's visit to the turbulent region may highlight the limits of American power. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:15 PM CT, Jul. 12 </p> 
@@ -16,7 +18,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry.'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 06:01 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn purchase deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
+ <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn takeover deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
  <p class="updated_time"> 05:31 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62140410?at_medium=RSS&at_campaign=KARANGA">Capitol riots: 'Wild' Trump tweet incited attack, says inquiry</a> BBC: Mr Trump sent a rallying call to supporters after "the craziest meeting" of his presidency, the inquiry hears. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
@@ -41,14 +43,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/funeral-for-shinzo-abe-is-held-in-tokyo-11657663628">Funeral for Shinzo Abe Is Held in Tokyo</a> WSJ: Crowds mourned slain former leader as car carrying Mr. Abe’s coffin was driven past the places where he spent his nearly 30-year career as a lawmaker. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
- <p class="updated_time"> 11:40 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62136257?at_medium=RSS&at_campaign=KARANGA">Sir Mo Farah praised for discussing childhood trafficking trauma</a> BBC: The Olympian is widely praised for going public with his experiences of being trafficked into the UK. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
  <p class="updated_time"> 10:53 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62139668?at_medium=RSS&at_campaign=KARANGA">Lego pulls out of Russia 'indefinitely'</a> BBC: The Danish toymaker says it will end its partnership with a company which runs its 81 shops. 
- <p class="updated_time"> 10:39 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62140378?at_medium=RSS&at_campaign=KARANGA">Sri Lanka President Rajapaksa faces 'terrible, massive protests' unless he quits</a> BBC: Sri Lanka's leader must resign or face even bigger demonstrations, protest leaders say. 
  <p class="updated_time"> 10:31 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62140044?at_medium=RSS&at_campaign=KARANGA">James Webb: Nasa space telescope delivers spectacular pictures</a> BBC: A "stellar nursery" and a "cosmic dance" are among James Webb's first batch of colour images. 
  <p class="updated_time"> 09:58 AM CT, Jul. 12 </p> 
@@ -106,7 +104,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:47 PM CT, Jul. 12 </p> 
+ <p class="updated_time"> 06:44 PM CT, Jul. 12 </p> 
+ <a href="https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys">Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies</a> NPR: The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election. 
+ <p class="updated_time"> 06:42 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:32 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript">Here's every word from the seventh Jan. 6 committee hearing on its investigation</a> NPR: Read the full transcript from the July 12 House select committee investigating the Jan. 6 Capitol attack hearing. 
@@ -120,6 +120,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131929/biden-heads-to-the-middle-east-for-meetings">Biden heads to the Middle East for meetings</a> NPR: President Biden is heading to Israel and Saudi Arabia Tuesday in his first visit to the Middle East as president for meetings that he says he hopes will help advance regional security and stability. 
  <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
+ <p class="updated_time"> 03:12 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
@@ -138,10 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1110998127/the-jan-6-committee-will-look-at-the-role-far-right-groups-played-during-the-rio">The Jan. 6 committee will look at the role far-right groups played during the riot</a> NPR: The seventh public hearing on the Jan. 6 attack on the Capitol takes place today, and the subject of far-right extremism is center stage. 
  <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates">Live updates: Jan. 6 rioter, former Oath Keepers spokesman testify in seventh hearing</a> NPR: Tuesday's hearing looks at the role of groups like the Oath Keepers and Proud Boys on the Jan. 6 Capitol attack — and the groups'  possible connection to former President Donald Trump. 
- <p class="updated_time"> 04:00 AM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110993553/mexicos-andres-manuel-lopez-obrador-will-meet-with-joe-biden-today">Mexico's Andres Manuel Lopez Obrador will meet with Joe Biden today</a> NPR: Mexico's President Andres Manuel Lopez Obrador is traveling to Washington, D.C. to meet with President Joe Biden at a low point in US-Mexico relations. 
- <p class="updated_time"> 01:19 PM CT, Jul. 10 </p> 
- <a href="https://www.cnn.com/2022/07/10/politics/jan-6-us-capitol-riot-timeline/index.html">The January 6 insurrection: Minute-by-minute</a> CNN: One and a half years later, the minute-by-minute horrors of the January 6 insurrection, and then-President Donald Trump's role in fomenting the violence, are still coming into focus, thanks in large part to recent public hearings from the House committee investigating the attack. 
 
 
 </details>
