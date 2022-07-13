@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62120057?at_medium=RSS&at_campaign=KARANGA">Mexico to spend $1.5bn on modernising US border</a> BBC: A "bold programme" is needed to deal with the migrants crossing the border, Mexico's president says. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC is with the protesters who flooded into the office of Prime Minister Ranil Wickremesinghe. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 05:10 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62140092?at_medium=RSS&at_campaign=KARANGA">The Eagles: Three men charged with plot to sell stolen Hotel California lyrics</a> BBC: The stolen manuscripts contained the lyrics to the US rock band's hit album Hotel California. 
  <p class="updated_time"> 04:20 AM CT, Jul. 13 </p> 
@@ -25,20 +27,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62132271?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet</a> BBC: Gotabaya Rajapaksa has arrived in the Maldives amid mass protests over Sri Lanka's economic crisis. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Crowds tear down gates and climb walls in Sri Lanka</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
+ <p class="updated_time"> 01:43 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strike on Russian Air-Defense Unit Shows Impact of New Weapons</a> WSJ: The strike is the latest in a series that Ukraine has conducted against high-value targets such as ammunition depots since multiple-launch rocket systems known as Himars began arriving from the U.S. last month. 
  <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
+ <p class="updated_time"> 12:37 AM CT, Jul. 13 </p> 
+ <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Heads to Middle East in High-Stakes Trip</a> WSJ: The president arrives in Israel to kick off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 11:48 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131457?at_medium=RSS&at_campaign=KARANGA">National emblem: India rejects criticism over ‘snarling’ lion statue</a> BBC: A statue of India's national emblem on top of the new parliament building has raised eyebrows. 
- <p class="updated_time"> 10:11 PM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-airport-officials-thwart-presidents-brother-from-leaving-country-11657628702">Sri Lankan President Gotabaya Rajapaksa Flees Country on Military Aircraft</a> WSJ: The president, who was due to formally resign on Wednesday, is headed for the Maldives, according to an immigration official. 
  <p class="updated_time"> 10:08 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62145154?at_medium=RSS&at_campaign=KARANGA">Australia probes retail giants Bunnings and Kmart over customer 'faceprints'</a> BBC: The use of facial recognition technology by two retail giants is unethical, an advocacy group says. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
  <p class="updated_time"> 08:17 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-62144776?at_medium=RSS&at_campaign=KARANGA">Twitter sues Elon Musk over $44bn takeover deal</a> BBC: The social media firm is trying to force Elon Musk to buy it after he walked away from the deal. 
- <p class="updated_time"> 06:58 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133978?at_medium=RSS&at_campaign=KARANGA">Joe Biden heads to Middle East amid faltering US sway</a> BBC: The US president's visit to the turbulent region may highlight the limits of American power. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:18 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62132441?at_medium=RSS&at_campaign=KARANGA">Ukraine claims arms depot attack in occupied Kherson with Himars rockets</a> BBC: Kyiv hails another strike by the Himars system, but Russian-backed officials say civilians were involved. 
- <p class="updated_time"> 01:37 PM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010">Ukraine Hits Military Depots in Russian-Controlled Cities</a> WSJ: Long-range rockets provided by the U.S. “have changed the rules of the game,” Ukrainian official says. 
  <p class="updated_time"> 01:09 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62140086?at_medium=RSS&at_campaign=KARANGA">Emmys 2022: Succession leads US TV award nominations</a> BBC: The show leads the race for the US TV awards, with nominations for both Brian Cox and Jeremy Strong. 
  <p class="updated_time"> 01:07 PM CT, Jul. 12 </p> 
@@ -77,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62130794?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe: Japanese mourners pay last respects to ex-PM at funeral</a> BBC: Thousands showed up to pay their last respects to Japan's longest-serving prime minister. 
  <p class="updated_time"> 09:25 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/u-k-leadership-front-runner-rishi-sunak-gains-key-backers-11657635601">U.K. Leadership Front-Runner Rishi Sunak Gains Key Backers</a> WSJ: The former Treasury chief, whose resignation spurred Boris Johnson’s ouster as prime minister, gained early momentum in the race to become the next leader, as the Conservatives begin to whittle down the list of contenders. 
- <p class="updated_time"> 09:24 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-presses-for-israeli-arab-security-ties-to-come-out-from-the-shadows-11657650256">Biden Presses for Deeper, More Public Israeli-Arab Security Ties</a> WSJ: President Biden’s four-day trip to Israel and Saudi Arabia could test the limits of how openly Arab countries are willing to embrace Israel. 
  <p class="updated_time"> 08:50 AM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor">Mo Farah says he was trafficked to the U.K. and forced into child labor</a> NPR: "Most people know me as Mo Farah, but it's not my name — or, it's not the reality," Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary. 
  <p class="updated_time"> 08:28 AM CT, Jul. 12 </p> 
@@ -89,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
  <p class="updated_time"> 06:44 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62131725?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh auto: India tuk-tuk crammed with 27 passengers seized</a> BBC: An autorickshaw in Uttar Pradesh was stopped for speeding - police found 27 passengers inside. 
- <p class="updated_time"> 06:14 AM CT, Jul. 12 </p> 
- <a href="https://www.wsj.com/articles/u-n-approves-shortened-six-month-extension-of-syria-aid-yielding-to-russian-demand-11657638517">U.N. Approves Shortened Extension of Syria Aid, Yielding to Russia</a> WSJ: The U.S. and its allies on the U.N. Security Council yielded to Moscow’s demand that cross-border aid to rebel-held areas in northern Syria be continued for six months rather than the 12 months the West had been seeking. 
  <p class="updated_time"> 04:58 AM CT, Jul. 12 </p> 
  <a href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783">Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</a> WSJ: Ownership shuffles and a tradition of secrecy have thwarted efforts by the Alpine financial haven to punish billionaire allies of Russian President Vladimir Putin. 
  <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
@@ -114,6 +110,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111244739/what-we-learned-from-the-jan-6-committee-hearing-on-extremism">What we learned from the Jan 6. committee hearing on extremism</a> NPR: NPR's Rachel Martin speaks with Kimberly Wehle, a law professor and author of "How to Read the Constitution and Why," about the key takeaways from the seventh House Jan. 6 committee hearing. 
+ <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
+ <a href="https://www.npr.org/2022/07/13/1111244732/tuesdays-jan-6-hearing-focused-on-how-trump-galvanized-far-right-supporters">Tuesday's Jan. 6 hearing focused on how Trump galvanized far-right supporters</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol covered heated meetings inside the White House. NPR Justice Correspondent Ryan Lucas reports. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
@@ -144,10 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131901/today-s-jan-6-hearing-examined-the-role-of-q-anon-proud-boys-and-oath-keepers">Today's Jan. 6 hearing looked at the role of Q-Anon, Proud Boys and Oath Keepers</a> NPR: The committee investigating the Jan. 6 attack on the Capitol held a hearing on Tuesday focused on the role of the conspiracy theory QAnon and extremist groups like the Proud Boys and Oath Keepers. 
  <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows">Senate confirms Dettelbach to head firearms agency as gun violence grows</a> NPR: This is the first time in seven years that the Senate has confirmed a director for the ATF. 
- <p class="updated_time"> 02:44 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia">Biden's Middle East trip aims to shore up a relatively calm moment in the region</a> NPR: In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts. 
- <p class="updated_time"> 02:20 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador">Biden gets an earful in the Oval from Mexican President López Obrador</a> NPR: President Biden met with Mexico's Andrés Manuel López Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. López Obrador — not so much. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
