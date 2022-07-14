@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
  <p class="updated_time"> 03:36 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
@@ -35,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
+ <p class="updated_time"> 11:46 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
  <p class="updated_time"> 10:34 AM CT, Jul. 14 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Resigns Over Email After Fleeing Country</a> WSJ: President Gotabaya Rajapaksa, who fled the country this week and traveled to Singapore on Thursday, has sent a letter via email to the parliamentary speaker to resign from office, the speaker’s office said. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
- <p class="updated_time"> 06:55 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
- <p class="updated_time"> 02:31 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/13/1111135757/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clea">The visa hurdle: Why conference applicants from the global south can't always clear it</a> NPR: Global health meetings are often held in the West — and that's an obstacle for scientists, doctors and advocates from lower resource countries. Which means their voices aren't being heard. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
@@ -108,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577564/some-who-think-2020s-election-was-stolen-are-going-door-to-door-to-audit-the-res">Some who think 2020's election was stolen are going door-to-door to audit the results</a> NPR: People who falsely believe the 2020 election was stolen are knocking on doors around the country to determine whether people actually voted. The effort is raising concerns about voter intimidation. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
@@ -140,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
- <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
