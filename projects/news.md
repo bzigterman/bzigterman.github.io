@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: One dead and 84 injured, say hospital officials</a> BBC: A 26-year-old man died of breathing difficulties after police forces fired tear gas to disperse the crowd. 
  <p class="updated_time"> 12:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
@@ -33,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
  <p class="updated_time"> 06:24 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61836078?at_medium=RSS&at_campaign=KARANGA">Bernard Collaery: The spy case that ignited an Australian secrecy row</a> BBC: Bernard Collaery is a hero in East Timor, but faced prosecution in Australia for revealing a spy mission. 
- <p class="updated_time"> 04:04 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed the office of Prime Minister Ranil Wickremesinghe. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
@@ -49,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
  <p class="updated_time"> 02:31 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/13/1111135757/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clea">The visa hurdle: Why conference applicants from the global south can't always clear it</a> NPR: Global health meetings are often held in the West — and that's an obstacle for scientists, doctors and advocates from lower resource countries. Which means their voices aren't being heard. 
- <p class="updated_time"> 01:14 PM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988">Ukraine Strikes Show Impact of New Weapons</a> WSJ: Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
@@ -62,7 +60,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 10:03 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Russia, Ukraine and Turkey Approach a Deal on Ukraine Grain Exports, Officials Say</a> WSJ: Officials said the talks concluded with an agreement on broad parameters of how grain can again be exported through Ukraine’s Black Sea ports, but any deal still needs to be signed off by Russian President Vladimir Putin. 
+ <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Russia, Ukraine and Turkey Near Deal on Grain Exports, Officials Say</a> WSJ: Officials said the talks concluded with an agreement on broad parameters of how grain can again be exported through Ukraine’s Black Sea ports, but any deal still needs to be signed off by Russian President Vladimir Putin. 
  <p class="updated_time"> 09:51 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62145143?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Families express anger at leaked video of school attack</a> BBC: Footage from the shooting, published by a local newspaper, shows police waiting to confront the gunman. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
