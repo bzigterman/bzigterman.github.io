@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
+ <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
+ <p class="updated_time"> 03:45 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives a day earlier amid mass protests in Sri Lanka. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
- <p class="updated_time"> 01:47 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: One dead and 84 injured, say hospital officials</a> BBC: A 26-year-old man died of breathing difficulties after police forces fired tear gas to disperse the crowd. 
  <p class="updated_time"> 12:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
@@ -91,10 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131964/fake-cricket-league-dupes-some-online-bettors">Fake cricket league dupes some online bettors</a> NPR: A group of men in India were recently arrested for putting on bogus professional cricket matches and duping bettors in Russia. 
- <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131957/ukrainian-rail-service-adds-a-special-train-to-get-people-out-of-donbas">Ukrainian rail service adds a special train to get people out of Donbas</a> NPR: Russia is pounding eastern Ukraine as it tries to consolidate its control of the entire Donbas region. To help get people the out, the Ukrainian rail service has added a special train from the Donbas. 
- <p class="updated_time"> 03:29 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
 
@@ -104,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: U.S. Tax Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
  <p class="updated_time"> 06:15 PM CT, Jul. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
@@ -136,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111244802/how-floridas-gov-desantis-is-exerting-more-control-over-the-states-schools">How Florida's Gov. DeSantis is exerting more control over the state's schools</a> NPR: Florida Gov. Ron DeSantis has gained a national profile by focusing on "culture wars,"  including how race and gender are taught in schools. But his education agenda goes much further. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111244788/whats-ahead-as-biden-arrives-in-israel-for-his-first-trip-as-president">What's ahead as Biden arrives in Israel for his first trip as President</a> NPR: President Biden lands in Israel today, a country he first visited as a young senator about 50 years ago. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111244760/a-record-number-of-abortion-related-questions-are-on-states-ballots-this-year">A record-number of abortion related questions are on states' ballots this year </a> NPR: This year, voters in a record number of states will weigh in on ballot measures related to abortion, with some proposals advanced by abortion-rights supporters and others advanced by opponents. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
