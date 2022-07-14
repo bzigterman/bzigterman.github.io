@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62162390?at_medium=RSS&at_campaign=KARANGA">Haiti violence: Scores killed as gangs fight for control</a> BBC: People are running out of food, water and fuel after parts of Port-au-Prince became a battlefield. 
+ <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 05:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives amid mass protests over the island's economic crisis. 
+ <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
@@ -19,7 +25,9 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
- <p class="updated_time"> 01:26 AM CT, Jul. 14 </p> 
+ <p class="updated_time"> 02:35 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62158936?at_medium=RSS&at_campaign=KARANGA">Netflix and Microsoft team up for cheaper plan with adverts</a> BBC: In April, the firm said subscriber numbers had fallen for the first time in more than a decade. 
+ <p class="updated_time"> 02:16 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden Meets Israel's Leaders With Focus on Iran's Nuclear Ambitions</a> WSJ: President Biden is meeting with top Israeli officials to discuss regional security amid efforts to contain an increasingly assertive Iran, as his first presidential trip to the Middle East gets under way. 
  <p class="updated_time"> 01:14 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
@@ -39,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62158358?at_medium=RSS&at_campaign=KARANGA">Ukraine: US crypto investor reported held by separatists</a> BBC: Suedi Murekezi, a US Air Force veteran, is reportedly being held by pro-Russian separatists. 
  <p class="updated_time"> 09:02 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62159298?at_medium=RSS&at_campaign=KARANGA">Virginia floods: Dozens of people may be missing, says sheriff</a> BBC: Drone footage shows the devastation in Virginia from a deluge that has sparked a state of emergency. 
- <p class="updated_time"> 08:31 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62158799?at_medium=RSS&at_campaign=KARANGA">Joshua Schulte: Former CIA hacker convicted of 'brazen' data leak</a> BBC: Prosecutors said Joshua Schulte leaked advanced hacking tools to WikiLeaks in a "devastating" move. 
  <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
  <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
- <p class="updated_time"> 02:52 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62155445?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Deportation claims and North Korea row</a> BBC: The US accuses Russia of removing civilians and Ukraine breaks off diplomatic ties with North Korea. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
  <p class="updated_time"> 02:31 PM CT, Jul. 13 </p> 
@@ -69,16 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 12:29 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
- <p class="updated_time"> 12:18 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62155364?at_medium=RSS&at_campaign=KARANGA">Mark Fleischman: Ex-Studio 54 club owner dies by assisted suicide at Dignitas</a> BBC: Mark Fleischman, who ran the legendary New York nightclub in the 1980s, dies by assisted suicide. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
- <p class="updated_time"> 10:03 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Russia, Ukraine and Turkey Near Deal on Grain Exports, Officials Say</a> WSJ: Officials said the talks concluded with an agreement on broad parameters of how grain can again be exported through Ukraine’s Black Sea ports, but any deal still needs to be signed off by Russian President Vladimir Putin. 
- <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
- <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at London’s Heathrow Airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
