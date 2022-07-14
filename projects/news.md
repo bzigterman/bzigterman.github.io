@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italy's PM Draghi on brink as crisis vote looms</a> BBC: His government nears collapse after a populist coalition party plans to pull out of a confidence vote. 
+ <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
  <p class="updated_time"> 06:20 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62162390?at_medium=RSS&at_campaign=KARANGA">Haiti violence: Scores killed as gangs fight for control</a> BBC: People are running out of food, water and fuel after parts of Port-au-Prince became a battlefield. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
@@ -35,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: The parliamentary speaker had said the president would resign on July 13, but President Gotabaya Rajapaksa left the country in the early hours of that day. 
  <p class="updated_time"> 12:41 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Ukraine War Threatens Global Economy This Year and Next, IMF Warns</a> WSJ: The IMF said it would downgrade its forecast for global economic growth in 2022 and 2023 later this month, in part because of the worsening fallout from the war. 
- <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
  <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62158819?at_medium=RSS&at_campaign=KARANGA">Cardinal George Pell sued by father of Australian choirboy</a> BBC: An Australian court quashed the cleric's sexual abuse convictions, but he now faces a civil lawsuit. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
  <p class="updated_time"> 09:35 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62158358?at_medium=RSS&at_campaign=KARANGA">Ukraine: US crypto investor reported held by separatists</a> BBC: Suedi Murekezi, a US Air Force veteran, is reportedly being held by pro-Russian separatists. 
- <p class="updated_time"> 09:02 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62159298?at_medium=RSS&at_campaign=KARANGA">Virginia floods: Dozens of people may be missing, says sheriff</a> BBC: Drone footage shows the devastation in Virginia from a deluge that has sparked a state of emergency. 
  <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
  <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
