@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:02 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
+ <p class="updated_time"> 02:20 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
  <p class="updated_time"> 01:38 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
- <p class="updated_time"> 01:24 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 12:30 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Gotabaya Rajapaksa resigns after fleeing Sri Lanka</a> BBC: Protesters celebrate in Colombo after Gotabaya Rajapaksa stands down, having fled to Singapore. 
  <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italian Prime Minister Mario Draghi says he will resign</a> NPR: Italian Premier Mario Draghi has told his Cabinet he will offer his resignation on Thursday evening to the president, following the refusal of a coalition ally to support a government bill. 
+ <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
  <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
+ <p class="updated_time"> 10:34 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi said he would resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
+ <p class="updated_time"> 10:21 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 23</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
  <p class="updated_time"> 09:44 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-meltdown-hints-at-troubles-in-developing-world-11657817654">Sri Lanka Meltdown Hints at Troubles in Developing World</a> WSJ: From Pakistan to Tunisia, governments are struggling to keep public finances stable even as people grow angry about rising prices. 
  <p class="updated_time"> 09:42 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62167606?at_medium=RSS&at_campaign=KARANGA">Girl, 14, killed in Cobra rollercoaster ride accident in Denmark</a> BBC: The accident happened when part of the ride's rear carriage broke off, the park's director said. 
- <p class="updated_time"> 09:41 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
- <p class="updated_time"> 09:13 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi will resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
  <p class="updated_time"> 08:59 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62162655?at_medium=RSS&at_campaign=KARANGA">Europe wildfires: Heatwave fuels blazes across the continent</a> BBC: Blazes have broken out in Portugal, France, Spain and Turkey as a heatwave spreads across Europe. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
@@ -47,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
- <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
@@ -108,7 +108,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:21 PM CT, Jul. 14 </p> 
+ <p class="updated_time"> 03:04 PM CT, Jul. 14 </p> 
  <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 
