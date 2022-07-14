@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Russia, Ukraine and Turkey Near Deal on Grain Exports, Officials Say</a> WSJ: Officials said the talks concluded with an agreement on broad parameters of how grain can again be exported through Ukraine’s Black Sea ports, but any deal still needs to be signed off by Russian President Vladimir Putin. 
  <p class="updated_time"> 09:45 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
- <p class="updated_time"> 09:04 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
