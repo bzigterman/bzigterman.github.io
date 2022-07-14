@@ -743,13 +743,23 @@ seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
 records_range <- tibble(period = "Record (since 1888)",
                         temp = seq)
 
-normal_precip <- read_csv("data/normal_precip.csv") %>%
+normal_daily_precip <- read_csv("data/normal_precip.csv") %>%
   clean_names() %>%
   select(date,mly_prcp_normal) %>%
   mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
                            "-",date,"-01"))) %>%
   mutate(normal_monthly_precip = mly_prcp_normal) %>%
   select(date, normal_monthly_precip)
+
+normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
+  clean_names() %>%
+  select(date,mtd_prcp_normal) %>%
+  filter(date != "02-29") %>%
+  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                           "-",date))) %>%
+  mutate(normal_monthly_precip = mtd_prcp_normal) %>%
+  select(date, normal_monthly_precip)
+
 
 normals_w_precip <- read_csv("data/normals.csv") %>%
   filter(date != "02-29") %>%
@@ -936,6 +946,20 @@ fig <- hchart(year_weather_data_longer, "arearange",
       symbol = "triangle-down"),
     yAxis = 0
   ) %>%
+  hc_add_series(data = normal_monthly_precip,
+                hcaes(x = date,
+                      y = normal_monthly_precip),
+                type = "area",
+                lineWidth = 1,
+                marker = list(
+                  radius = 1,
+                  symbol = "circle"),
+                name = "Normal MTD Precip.",
+                animation = FALSE,
+                tooltip = list(valueSuffix = "{value}″"),
+                step = "center",
+                color = "#698490",
+                yAxis = 1) %>%
   hc_add_series(data = year_weather_data,
                 hcaes(x = date,
                       y = month_precip_sum),
@@ -945,6 +969,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                   symbol = "circle"),
                 animation = FALSE,
                 lineWidth = 1,
+                step = "center",
                 name = "Monthly Precip.",
                 tooltip = list(valueSuffix = "{value}″"),
                 color = "#b0dcf0",
@@ -956,19 +981,6 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 name = "Daily Precip.",
                 animation = FALSE,
                 tooltip = list(valueSuffix = "{value}″"),
-                color = "#698490",
-                yAxis = 1) %>%
-  hc_add_series(data = normals_precip,
-                hcaes(x = date,
-                      y = normal_monthly_precip),
-                type = "line",
-                marker = list(
-                  radius = 1,
-                  symbol = "circle"),
-                name = "Normal Monthly Precip.",
-                animation = FALSE,
-                tooltip = list(valueSuffix = "{value}″"),
-                step = "center",
                 color = "#698490",
                 yAxis = 1) %>%
   hc_xAxis(
