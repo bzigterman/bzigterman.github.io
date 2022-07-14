@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
  <p class="updated_time"> 09:42 AM CT, Jul. 14 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Fleeing president lands in Singapore</a> BBC: Gotabaya Rajapaksa pledged to resign by Wednesday after mass protests, but has failed to do so yet. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
- <p class="updated_time"> 07:13 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Brittney Griner returns to Russian court a week after pleading guilty to drug charges</a> NPR: The WNBA star's defense team is expected to argue her case at Thursday's hearing, the third in her trial on drug charges. She could face up to 10 years in prison if convicted. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
