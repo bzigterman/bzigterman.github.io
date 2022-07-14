@@ -9,14 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:02 PM CT, Jul. 14 </p> 
+ <p class="updated_time"> 03:36 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577529/brittney-griners-russian-teammates-testified-at-her-drug-trial-thursday">Brittney Griner's Russian teammates testified at her drug trial Thursday</a> NPR: Brittney Griner's defense argued her case and defended her character in a Russian court on Thursday, one week after the WNBA star pleaded guilty to drug charges. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577522/many-soldiers-in-ukraine-will-long-be-left-with-the-mental-toll-of-trench-warfar">Many soldiers in Ukraine will long be left with the mental toll of trench warfare</a> NPR: The brutal trench warfare-style fighting happening in eastern Ukraine is traumatizing soldiers. There are concerns in Ukraine about the psychological legacy it will leave behind. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 02:20 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
- <p class="updated_time"> 01:38 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
+ <p class="updated_time"> 01:46 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62166848?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Deadly attack 'act of terrorism' - Zelensky</a> BBC: An attack on a city far from the front line kills more than 20 people, and a Russian mother's anger over her missing son. 
+ <p class="updated_time"> 01:26 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62170259?at_medium=RSS&at_campaign=KARANGA">Alex Murdaugh: High-profile lawyer charged with murder of wife and son</a> BBC: The charges are the latest in a long-running crime saga involving the disgraced lawyer Alex Murdaugh. 
  <p class="updated_time"> 12:30 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Gotabaya Rajapaksa resigns after fleeing Sri Lanka</a> BBC: Protesters celebrate in Colombo after Gotabaya Rajapaksa stands down, having fled to Singapore. 
  <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
@@ -51,16 +63,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
- <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges">Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men </a> NPR: Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
- <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
  <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
@@ -83,18 +91,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
  <p class="updated_time"> 02:31 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/13/1111135757/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clea">The visa hurdle: Why conference applicants from the global south can't always clear it</a> NPR: Global health meetings are often held in the West — and that's an obstacle for scientists, doctors and advocates from lower resource countries. Which means their voices aren't being heard. 
- <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
- <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
- <p class="updated_time"> 12:29 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
- <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111246100/protesters-in-sri-lanka-brave-tear-gas-and-storm-prime-ministers-office">Protesters in Sri Lanka brave tear gas and storm prime minister's office</a> NPR: The move on the prime minister's office follows the country's president fleeing the country. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
@@ -108,6 +108,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
+ <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
+ <p class="updated_time"> 03:23 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary">Ivana Trump, first wife of Donald Trump, is dead at 73</a> NPR: Ivana Trump, the first wife of former President Donald Trump, has died at the age of 73, the Trump family confirmed in a statement. 
  <p class="updated_time"> 03:04 PM CT, Jul. 14 </p> 
  <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
@@ -136,12 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
- <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111244739/what-we-learned-from-the-jan-6-committee-hearing-on-extremism">What we learned from the Jan 6. committee hearing on extremism</a> NPR: NPR's Rachel Martin speaks with Kimberly Wehle, a law professor and author of "How to Read the Constitution and Why," about the key takeaways from the seventh House Jan. 6 committee hearing. 
- <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111244732/tuesdays-jan-6-hearing-focused-on-how-trump-galvanized-far-right-supporters">Tuesday's Jan. 6 hearing focused on how Trump galvanized far-right supporters</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol covered heated meetings inside the White House. NPR Justice Correspondent Ryan Lucas reports. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
