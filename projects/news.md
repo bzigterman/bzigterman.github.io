@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:54 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian rocket attack kills 20 in Vinnytsia</a> BBC: Ukrainian officials say three children were among those killed in the central city of Vinnytsia. 
+ <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Brittney Griner returns to Russian court a week after pleading guilty to drug charges</a> NPR: The WNBA star's defense team is expected to argue her case at Thursday's hearing, the third in her trial on drug charges. She could face up to 10 years in prison if convicted. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italy's PM Draghi on brink as crisis vote looms</a> BBC: His government nears collapse after a populist coalition party plans to pull out of a confidence vote. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
@@ -45,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
  <p class="updated_time"> 09:36 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
- <p class="updated_time"> 09:35 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62158358?at_medium=RSS&at_campaign=KARANGA">Ukraine: US crypto investor reported held by separatists</a> BBC: Suedi Murekezi, a US Air Force veteran, is reportedly being held by pro-Russian separatists. 
  <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
  <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
- <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131964/fake-cricket-league-dupes-some-online-bettors">Fake cricket league dupes some online bettors</a> NPR: A group of men in India were recently arrested for putting on bogus professional cricket matches and duping bettors in Russia. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
 
