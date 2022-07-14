@@ -743,15 +743,29 @@ seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
 records_range <- tibble(period = "Record (since 1888)",
                         temp = seq)
 
+normal_precip <- read_csv("data/normal_precip.csv") %>%
+  clean_names() %>%
+  select(date,mly_prcp_normal) %>%
+  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                           "-",date,"-01"))) %>%
+  mutate(normal_monthly_precip = mly_prcp_normal) %>%
+  select(date, normal_monthly_precip)
 
-normals <- read_csv("data/normals.csv") %>%
-  mutate(date = parse_date_time(date, "md")) %>%
+normals_w_precip <- read_csv("data/normals.csv") %>%
+  filter(date != "02-29") %>%
+  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                           "-",date))) %>%
   select(date, min, max) %>%
   mutate(Normal_min = min) %>%
   mutate(Normal_max = max) %>%
   select(date,Normal_min,Normal_max) %>%
-  filter(date != ymd("0000-02-29"))
-year(normals$date) = year(today(tzone = "America/Chicago"))
+  full_join(normal_precip) %>%
+  fill(normal_monthly_precip, .direction = "down") 
+normals <- normals_w_precip %>%
+  select(date,Normal_min,Normal_max)
+normals_precip <- normals_w_precip %>%
+  select(date,normal_monthly_precip)
+
 normals_today <- normals %>%
   filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
   filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
@@ -874,7 +888,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, 
                                  heights = c(5,1),
-                                 title = list(text = NULL)))%>%
+                                 title = list(text = NULL))) %>%
   hc_add_series(
     data = today_weather_data_longer,
     hcaes(x = date,
@@ -942,6 +956,19 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 name = "Daily Precip.",
                 animation = FALSE,
                 tooltip = list(valueSuffix = "{value}″"),
+                color = "#698490",
+                yAxis = 1) %>%
+  hc_add_series(data = normals_precip,
+                hcaes(x = date,
+                      y = normal_monthly_precip),
+                type = "line",
+                marker = list(
+                  radius = 1,
+                  symbol = "circle"),
+                name = "Normal Monthly Precip.",
+                animation = FALSE,
+                tooltip = list(valueSuffix = "{value}″"),
+                step = "center",
                 color = "#698490",
                 yAxis = 1) %>%
   hc_xAxis(
