@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:16 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi resigns as coalition collapses</a> BBC: Mario Draghi announces his resignation after a populist coalition partner withdraws its support. 
  <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
  <p class="updated_time"> 11:37 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Gotabaya Rajapaksa resigns after fleeing Sri Lanka</a> BBC: Protesters celebrate in Colombo after Gotabaya Rajapaksa stands down, having fled to Singapore. 
- <p class="updated_time"> 11:31 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italian PM Draghi's government in crisis over confidence vote</a> BBC: PM Mario Draghi's government nears collapse after a populist coalition party withdraws support. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
@@ -27,22 +27,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
+ <p class="updated_time"> 08:01 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Resigns Over Email After Fleeing Country</a> WSJ: President Gotabaya Rajapaksa, who fled the country this week and traveled to Singapore on Thursday, has sent a letter via email to the parliamentary speaker to resign from office, the speaker’s office said. 
  <p class="updated_time"> 06:55 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t ‘wait forever’ for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
+ <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Brittney Griner returns to Russian court a week after pleading guilty to drug charges</a> NPR: The WNBA star's defense team is expected to argue her case at Thursday's hearing, the third in her trial on drug charges. She could face up to 10 years in prison if convicted. 
+ <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
  <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
- <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/abe-killing-spotlights-japanese-politicians-links-to-religious-groups-11657799912">Abe Killing Spotlights Japanese Politicians' Links to Religious Groups</a> WSJ: The assassination earlier this month of Japan’s former prime minister, Shinzo Abe, offers a glimpse of ties between politicians and religious organizations in Japan. 
+ <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 05:12 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
- <p class="updated_time"> 05:11 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: President Gotabaya Rajapaksa fled the country without resigning, leaving political parties working to form a transitional government at an impasse. 
  <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
@@ -130,8 +130,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild!' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
  <p class="updated_time"> 02:16 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york">Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling</a> NPR: The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country. 
- <p class="updated_time"> 01:23 PM CT, Jul. 13 </p> 
- <a href="https://www.cnn.com/2022/07/13/politics/biden-student-loan-debt-interest/index.html">Student loan interest accumulation could change under a proposed rule. Here's what it means for you</a> CNN: The Biden administration has a plan to slow interest from adding to borrowers' federal student loan debt balances. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
@@ -144,6 +142,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111244732/tuesdays-jan-6-hearing-focused-on-how-trump-galvanized-far-right-supporters">Tuesday's Jan. 6 hearing focused on how Trump galvanized far-right supporters</a> NPR: The House committee investigating the Jan. 6 attack on the Capitol covered heated meetings inside the White House. NPR Justice Correspondent Ryan Lucas reports. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
+ <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
+ <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
 
 </details>
