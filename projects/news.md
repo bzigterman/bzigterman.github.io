@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:46 PM CT, Jul. 14 </p> 
+ <p class="updated_time"> 05:09 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
