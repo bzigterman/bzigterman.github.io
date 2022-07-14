@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:30 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
+ <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
  <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62158819?at_medium=RSS&at_campaign=KARANGA">Cardinal George Pell sued by father of Australian choirboy</a> BBC: An Australian court quashed the cleric's sexual abuse convictions, but he now faces a civil lawsuit. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
- <p class="updated_time"> 09:37 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
  <p class="updated_time"> 09:36 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
  <p class="updated_time"> 09:35 PM CT, Jul. 13 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
- <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at London’s Heathrow Airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
