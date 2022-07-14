@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:54 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian rocket attack kills 20 in Vinnytsia</a> BBC: Ukrainian officials say three children were among those killed in the central city of Vinnytsia. 
+ <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
+ <p class="updated_time"> 08:51 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italian PM Draghi's government in crisis over confidence vote</a> BBC: PM Mario Draghi's government nears collapse after a populist coalition party withdraws support. 
+ <p class="updated_time"> 08:46 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Fleeing president lands in Singapore</a> BBC: Gotabaya Rajapaksa had pledged to resign by Wednesday after mass protests, but has failed to do so yet. 
+ <p class="updated_time"> 08:24 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 20 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
+ <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
+ <p class="updated_time"> 07:57 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
+ <p class="updated_time"> 07:13 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Brittney Griner returns to Russian court a week after pleading guilty to drug charges</a> NPR: The WNBA star's defense team is expected to argue her case at Thursday's hearing, the third in her trial on drug charges. She could face up to 10 years in prison if convicted. 
- <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italy's PM Draghi on brink as crisis vote looms</a> BBC: His government nears collapse after a populist coalition party plans to pull out of a confidence vote. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
  <p class="updated_time"> 06:20 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62162390?at_medium=RSS&at_campaign=KARANGA">Haiti violence: Scores killed as gangs fight for control</a> BBC: People are running out of food, water and fuel after parts of Port-au-Prince became a battlefield. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
- <p class="updated_time"> 05:23 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives amid mass protests over the island's economic crisis. 
  <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
+ <p class="updated_time"> 04:20 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
+ <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges">Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men </a> NPR: Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp. 
+ <p class="updated_time"> 03:32 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden Meets Israel's Leaders With Focus on Iran's Nuclear Ambitions</a> WSJ: President Biden is meeting with top Israeli officials to discuss regional security amid efforts to contain an increasingly assertive Iran, as his first presidential trip to the Middle East gets under way. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
- <p class="updated_time"> 02:35 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-62158936?at_medium=RSS&at_campaign=KARANGA">Netflix and Microsoft team up for cheaper plan with adverts</a> BBC: In April, the firm said subscriber numbers had fallen for the first time in more than a decade. 
- <p class="updated_time"> 02:16 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden Meets Israel's Leaders With Focus on Iran's Nuclear Ambitions</a> WSJ: President Biden is meeting with top Israeli officials to discuss regional security amid efforts to contain an increasingly assertive Iran, as his first presidential trip to the Middle East gets under way. 
  <p class="updated_time"> 01:14 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
  <p class="updated_time"> 12:55 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: The parliamentary speaker had said the president would resign on July 13, but President Gotabaya Rajapaksa left the country in the early hours of that day. 
- <p class="updated_time"> 12:41 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Ukraine War Threatens Global Economy This Year and Next, IMF Warns</a> WSJ: The IMF said it would downgrade its forecast for global economic growth in 2022 and 2023 later this month, in part because of the worsening fallout from the war. 
- <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62158819?at_medium=RSS&at_campaign=KARANGA">Cardinal George Pell sued by father of Australian choirboy</a> BBC: An Australian court quashed the cleric's sexual abuse convictions, but he now faces a civil lawsuit. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
  <p class="updated_time"> 09:36 PM CT, Jul. 13 </p> 
@@ -95,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
- <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
 
@@ -106,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: U.S. Tax Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
  <p class="updated_time"> 06:15 PM CT, Jul. 13 </p> 
@@ -138,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111244802/how-floridas-gov-desantis-is-exerting-more-control-over-the-states-schools">How Florida's Gov. DeSantis is exerting more control over the state's schools</a> NPR: Florida Gov. Ron DeSantis has gained a national profile by focusing on "culture wars,"  including how race and gender are taught in schools. But his education agenda goes much further. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111244788/whats-ahead-as-biden-arrives-in-israel-for-his-first-trip-as-president">What's ahead as Biden arrives in Israel for his first trip as President</a> NPR: President Biden lands in Israel today, a country he first visited as a young senator about 50 years ago. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
