@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:16 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi resigns as coalition collapses</a> BBC: Mario Draghi announces his resignation after a populist coalition partner withdraws its support. 
+ <p class="updated_time"> 01:24 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
+ <p class="updated_time"> 12:30 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Gotabaya Rajapaksa resigns after fleeing Sri Lanka</a> BBC: Protesters celebrate in Colombo after Gotabaya Rajapaksa stands down, having fled to Singapore. 
+ <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
+ <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italian Prime Minister Mario Draghi says he will resign</a> NPR: Italian Premier Mario Draghi has told his Cabinet he will offer his resignation on Thursday evening to the president, following the refusal of a coalition ally to support a government bill. 
  <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
- <p class="updated_time"> 11:37 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Gotabaya Rajapaksa resigns after fleeing Sri Lanka</a> BBC: Protesters celebrate in Colombo after Gotabaya Rajapaksa stands down, having fled to Singapore. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
@@ -25,10 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 22 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
+ <p class="updated_time"> 08:17 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Resigns Over Email After Fleeing Country</a> WSJ: President Gotabaya Rajapaksa, who fled the country this week and traveled to Singapore on Thursday, has sent a letter via email to the parliamentary speaker to resign from office, the speaker’s office said. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
- <p class="updated_time"> 08:01 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Resigns Over Email After Fleeing Country</a> WSJ: President Gotabaya Rajapaksa, who fled the country this week and traveled to Singapore on Thursday, has sent a letter via email to the parliamentary speaker to resign from office, the speaker’s office said. 
  <p class="updated_time"> 06:55 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
@@ -36,9 +40,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
  <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/abe-killing-spotlights-japanese-politicians-links-to-religious-groups-11657799912">Abe Killing Spotlights Japanese Politicians' Links to Religious Groups</a> WSJ: The assassination earlier this month of Japan’s former prime minister, Shinzo Abe, offers a glimpse of ties between politicians and religious organizations in Japan. 
+ <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen to Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
  <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
+ <a href="https://www.wsj.com/articles/abe-killing-spotlights-japanese-politicians-links-to-religious-groups-11657799912">Abe Killing Spotlights Japanese Politicians' Links to Religious Groups</a> WSJ: The assassination earlier this month of Japan’s former prime minister, Shinzo Abe, offers a glimpse of ties between politicians and religious organizations in Japan. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 05:12 AM CT, Jul. 14 </p> 
@@ -89,14 +93,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111246100/protesters-in-sri-lanka-brave-tear-gas-and-storm-prime-ministers-office">Protesters in Sri Lanka brave tear gas and storm prime minister's office</a> NPR: The move on the prime minister's office follows the country's president fleeing the country. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111087981/sri-lankan-protesters-partied-in-the-presidents-mansion-what-comes-next-is-uncle">Sri Lankan protesters party in the president's mansion as he flees the country</a> NPR: Protesters in Sri Lanka who spent the weekend occupying the president's palace have now entered and torched the prime minister's private mansion as well. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history">How Russia's current war in Ukraine echoes its Crimean War of the 1850s</a> NPR: Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
- <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
- <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
@@ -108,7 +108,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:39 AM CT, Jul. 14 </p> 
+ <p class="updated_time"> 01:21 PM CT, Jul. 14 </p> 
  <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 

@@ -436,21 +436,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">73</td>
-<td class="gt_row gt_right">106</td>
-<td class="gt_row gt_right">+45%</td></tr>
+<td class="gt_row gt_right">76</td>
+<td class="gt_row gt_right">109</td>
+<td class="gt_row gt_right">+43%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">20</td>
 <td class="gt_row gt_right gt_striped">29</td>
 <td class="gt_row gt_right gt_striped">+45%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">1</td>
-<td class="gt_row gt_right">3</td>
-<td class="gt_row gt_right">+200%</td></tr>
+<td class="gt_row gt_right">4</td>
+<td class="gt_row gt_right">+300%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">221</td>
-<td class="gt_row gt_right gt_striped">165</td>
-<td class="gt_row gt_right gt_striped">&minus;25%</td></tr>
+<td class="gt_row gt_right gt_striped">216</td>
+<td class="gt_row gt_right gt_striped">174</td>
+<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">135,000</td>
 <td class="gt_row gt_right">135,000</td>
@@ -462,12 +462,12 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 292  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 293  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -1911,7 +1911,7 @@ html {
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- 46% in Champaign County
+- 44% in Champaign County
 - 25% in Illinois
 - 14% in the United States
 - 36% worldwide
