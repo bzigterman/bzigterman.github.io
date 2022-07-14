@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
+ <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
+ <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
- <p class="updated_time"> 03:36 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577529/brittney-griners-russian-teammates-testified-at-her-drug-trial-thursday">Brittney Griner's Russian teammates testified at her drug trial Thursday</a> NPR: Brittney Griner's defense argued her case and defended her character in a Russian court on Thursday, one week after the WNBA star pleaded guilty to drug charges. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
@@ -21,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 02:20 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
@@ -37,20 +39,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
+ <p class="updated_time"> 12:25 PM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi said he would resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
+ <p class="updated_time"> 12:20 PM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 23</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
+ <p class="updated_time"> 12:15 PM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-made-rare-visit-to-xinjiang-11657827803">China's Xi Made Rare Visit to Xinjiang</a> WSJ: President aimed to demonstrate unity in visit to region where Beijing has been accused of genocide against Uyghur ethnic group. 
  <p class="updated_time"> 11:46 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
- <p class="updated_time"> 10:34 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi said he would resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
- <p class="updated_time"> 10:21 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 23</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
- <p class="updated_time"> 09:44 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-meltdown-hints-at-troubles-in-developing-world-11657817654">Sri Lanka Meltdown Hints at Troubles in Developing World</a> WSJ: From Pakistan to Tunisia, governments are struggling to keep public finances stable even as people grow angry about rising prices. 
  <p class="updated_time"> 09:42 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62167606?at_medium=RSS&at_campaign=KARANGA">Girl, 14, killed in Cobra rollercoaster ride accident in Denmark</a> BBC: The accident happened when part of the ride's rear carriage broke off, the park's director said. 
  <p class="updated_time"> 08:59 AM CT, Jul. 14 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388372/lessons-from-the-2015-paris-attacks-trial-that-ended-in-june">Lessons from the 2015 Paris attacks trial that ended in June</a> NPR: Victims who testified during the landmark Paris attacks trial — which wrapped up at the end of June — say the case holds lessons for the United States. 
- <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
