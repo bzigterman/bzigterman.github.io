@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
  <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117924?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: The India-Pakistan trauma at the heart of the show</a> BBC: As the Disney+ series comes to an end, its treatment of the India-Pakistan partition deserves a closer look. 
  <p class="updated_time"> 06:31 PM CT, Jul. 13 </p> 
