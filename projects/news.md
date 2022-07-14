@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:37 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62144217?at_medium=RSS&at_campaign=KARANGA">Why Biden's Saudi trip has proved so thorny</a> BBC: On this Middle East tour, the president must walk a foreign policy tightrope. 
  <p class="updated_time"> 06:27 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62163915?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 8-14 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:23 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62157480?at_medium=RSS&at_campaign=KARANGA">What comes next for US gun control?</a> BBC: Here's a look at some solutions to gun violence proposed by both sides of the gun-control debate. 
  <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukraine politicians face torture in Russian detention</a> BBC: Civilians in occupied regions of Ukraine say they were tortured during detention by Russia. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukraine politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why is it so hot (in under 60 seconds)?</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
  <p class="updated_time"> 05:38 PM CT, Jul. 14 </p> 
