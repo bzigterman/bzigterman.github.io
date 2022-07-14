@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 20 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:51 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161019?at_medium=RSS&at_campaign=KARANGA">Italian PM Draghi's government in crisis over confidence vote</a> BBC: PM Mario Draghi's government nears collapse after a populist coalition party withdraws support. 
  <p class="updated_time"> 08:46 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Fleeing president lands in Singapore</a> BBC: Gotabaya Rajapaksa had pledged to resign by Wednesday after mass protests, but has failed to do so yet. 
- <p class="updated_time"> 08:24 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 20 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 07:57 AM CT, Jul. 14 </p> 
@@ -31,10 +31,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62162390?at_medium=RSS&at_campaign=KARANGA">Haiti violence: Scores killed as gangs fight for control</a> BBC: People are running out of food, water and fuel after parts of Port-au-Prince became a battlefield. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
+ <p class="updated_time"> 05:12 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
+ <p class="updated_time"> 05:11 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: President Gotabaya Rajapaksa fled the country without resigning, leaving political parties working to form a transitional government at an impasse. 
  <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
- <p class="updated_time"> 04:53 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
  <p class="updated_time"> 01:14 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
- <p class="updated_time"> 12:55 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: The parliamentary speaker had said the president would resign on July 13, but President Gotabaya Rajapaksa left the country in the early hours of that day. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
  <p class="updated_time"> 09:36 PM CT, Jul. 13 </p> 
