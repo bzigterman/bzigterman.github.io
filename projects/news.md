@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
+ <p class="updated_time"> 01:38 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 01:24 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 12:30 PM CT, Jul. 14 </p> 
@@ -23,10 +27,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
+ <p class="updated_time"> 09:44 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/sri-lanka-meltdown-hints-at-troubles-in-developing-world-11657817654">Sri Lanka Meltdown Hints at Troubles in Developing World</a> WSJ: From Pakistan to Tunisia, governments are struggling to keep public finances stable even as people grow angry about rising prices. 
  <p class="updated_time"> 09:42 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62167606?at_medium=RSS&at_campaign=KARANGA">Girl, 14, killed in Cobra rollercoaster ride accident in Denmark</a> BBC: The accident happened when part of the ride's rear carriage broke off, the park's director said. 
- <p class="updated_time"> 09:23 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 22 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
+ <p class="updated_time"> 09:41 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
+ <p class="updated_time"> 09:13 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi will resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
+ <p class="updated_time"> 08:59 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62162655?at_medium=RSS&at_campaign=KARANGA">Europe wildfires: Heatwave fuels blazes across the continent</a> BBC: Blazes have broken out in Portugal, France, Spain and Turkey as a heatwave spreads across Europe. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:17 AM CT, Jul. 14 </p> 
@@ -39,22 +49,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
  <p class="updated_time"> 06:30 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62155165?at_medium=RSS&at_campaign=KARANGA">Biden: US prepared to use force to stop Iran getting nuclear arms</a> BBC: The US president makes the declaration in Israel, with both countries taking a firm stance on Iran. 
- <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen to Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
- <p class="updated_time"> 06:15 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/abe-killing-spotlights-japanese-politicians-links-to-religious-groups-11657799912">Abe Killing Spotlights Japanese Politicians' Links to Religious Groups</a> WSJ: The assassination earlier this month of Japan’s former prime minister, Shinzo Abe, offers a glimpse of ties between politicians and religious organizations in Japan. 
  <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
- <p class="updated_time"> 05:12 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
- <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges">Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men </a> NPR: Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp. 
+ <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
@@ -91,16 +95,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111246100/protesters-in-sri-lanka-brave-tear-gas-and-storm-prime-ministers-office">Protesters in Sri Lanka brave tear gas and storm prime minister's office</a> NPR: The move on the prime minister's office follows the country's president fleeing the country. 
- <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111087981/sri-lankan-protesters-partied-in-the-presidents-mansion-what-comes-next-is-uncle">Sri Lankan protesters party in the president's mansion as he flees the country</a> NPR: Protesters in Sri Lanka who spent the weekend occupying the president's palace have now entered and torched the prime minister's private mansion as well. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
- <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
 
 
 </details>
