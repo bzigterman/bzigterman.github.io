@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:27 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62163915?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 8-14 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 06:23 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62157480?at_medium=RSS&at_campaign=KARANGA">What comes next for US gun control?</a> BBC: Here's a look at some solutions to gun violence proposed by both sides of the gun-control debate. 
+ <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukraine politicians face torture in Russian detention</a> BBC: Civilians in occupied regions of Ukraine say they were tortured during detention by Russia. 
+ <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why is it so hot (in under 60 seconds)?</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
  <p class="updated_time"> 05:38 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
@@ -47,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/chinas-xi-made-rare-visit-to-xinjiang-11657827803">China's Xi Made Rare Visit to Xinjiang</a> WSJ: President aimed to demonstrate unity in visit to region where Beijing has been accused of genocide against Uyghur ethnic group. 
  <p class="updated_time"> 11:46 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
- <p class="updated_time"> 11:44 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62161350?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Central banker warns country faces shutdown without stable government</a> BBC: Nandalal Weerasinghe says everyone will suffer if no stable government is formed soon. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
  <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
@@ -65,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
- <p class="updated_time"> 05:40 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
