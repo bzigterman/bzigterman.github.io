@@ -761,20 +761,14 @@ normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
   select(date, normal_monthly_precip)
 
 
-normals_w_precip <- read_csv("data/normals.csv") %>%
+normals <- read_csv("data/normals.csv") %>%
   filter(date != "02-29") %>%
   mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
                            "-",date))) %>%
   select(date, min, max) %>%
   mutate(Normal_min = min) %>%
   mutate(Normal_max = max) %>%
-  select(date,Normal_min,Normal_max) %>%
-  full_join(normal_precip) %>%
-  fill(normal_monthly_precip, .direction = "down") 
-normals <- normals_w_precip %>%
-  select(date,Normal_min,Normal_max)
-normals_precip <- normals_w_precip %>%
-  select(date,normal_monthly_precip)
+  select(date,Normal_min,Normal_max) 
 
 normals_today <- normals %>%
   filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
@@ -958,6 +952,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 animation = FALSE,
                 tooltip = list(valueSuffix = "{value}″"),
                 step = "center",
+                fillOpacity = .1,
                 color = "#698490",
                 yAxis = 1) %>%
   hc_add_series(data = year_weather_data,
