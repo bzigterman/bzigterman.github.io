@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives a day earlier amid mass protests in Sri Lanka. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
- <p class="updated_time"> 03:45 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives a day earlier amid mass protests in Sri Lanka. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
  <p class="updated_time"> 12:30 AM CT, Jul. 14 </p> 
