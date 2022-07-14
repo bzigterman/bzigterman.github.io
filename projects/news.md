@@ -33,16 +33,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62163070?at_medium=RSS&at_campaign=KARANGA">Wildfires rage as Europe battles heatwave</a> BBC: Around 3,500 firefighters in Portugal are battling blazes as temperatures continue to rise in Europe. 
  <p class="updated_time"> 04:56 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62162300?at_medium=RSS&at_campaign=KARANGA">Bill Gates vows to drop off world's rich list</a> BBC: The Microsoft co-founder says he will move a further $20bn into his philanthropic foundation. 
+ <p class="updated_time"> 04:53 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
- <p class="updated_time"> 04:20 AM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 20</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges">Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men </a> NPR: Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp. 
  <p class="updated_time"> 03:32 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden Meets Israel's Leaders With Focus on Iran's Nuclear Ambitions</a> WSJ: President Biden is meeting with top Israeli officials to discuss regional security amid efforts to contain an increasingly assertive Iran, as his first presidential trip to the Middle East gets under way. 
+ <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/abe-killing-spotlights-japanese-politicians-links-to-religious-groups-11657799912">Abe Killing Spotlights Japanese Politicians' Links to Religious Groups</a> WSJ: The assassination earlier this month of Japan’s former prime minister, Shinzo Abe, offers a glimpse of ties between politicians and religious organizations in Japan. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
  <p class="updated_time"> 01:14 AM CT, Jul. 14 </p> 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
- <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
- <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at London’s Heathrow Airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
@@ -108,10 +108,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:20 AM CT, Jul. 14 </p> 
+ <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: U.S. Tax Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
+ <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: IRS Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
  <p class="updated_time"> 06:15 PM CT, Jul. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
@@ -126,14 +128,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild!' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
  <p class="updated_time"> 02:16 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york">Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling</a> NPR: The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country. 
+ <p class="updated_time"> 01:23 PM CT, Jul. 13 </p> 
+ <a href="https://www.cnn.com/2022/07/13/politics/biden-student-loan-debt-interest/index.html">Student loan interest accumulation could change under a proposed rule. Here's what it means for you</a> CNN: The Biden administration has a plan to slow interest from adding to borrowers' federal student loan debt balances. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
- <p class="updated_time"> 08:30 AM CT, Jul. 13 </p> 
- <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111244739/what-we-learned-from-the-jan-6-committee-hearing-on-extremism">What we learned from the Jan 6. committee hearing on extremism</a> NPR: NPR's Rachel Martin speaks with Kimberly Wehle, a law professor and author of "How to Read the Constitution and Why," about the key takeaways from the seventh House Jan. 6 committee hearing. 
  <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
@@ -142,8 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys">The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing</a> NPR: Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111244802/how-floridas-gov-desantis-is-exerting-more-control-over-the-states-schools">How Florida's Gov. DeSantis is exerting more control over the state's schools</a> NPR: Florida Gov. Ron DeSantis has gained a national profile by focusing on "culture wars,"  including how race and gender are taught in schools. But his education agenda goes much further. 
- <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
- <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
 
 </details>
