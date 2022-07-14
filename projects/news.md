@@ -9,12 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62158819?at_medium=RSS&at_campaign=KARANGA">Cardinal George Pell sued by father of Australian choirboy</a> BBC: An Australian court quashed the cleric's sexual abuse convictions, but he now faces a civil lawsuit. 
+ <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
+ <p class="updated_time"> 09:37 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
+ <p class="updated_time"> 09:36 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
+ <p class="updated_time"> 09:35 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62158358?at_medium=RSS&at_campaign=KARANGA">Ukraine: US crypto investor reported held by separatists</a> BBC: Suedi Murekezi, a US Air Force veteran, is reportedly being held by pro-Russian separatists. 
+ <p class="updated_time"> 09:02 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62159298?at_medium=RSS&at_campaign=KARANGA">Virginia floods: Dozens of people may be missing, says sheriff</a> BBC: Drone footage shows the devastation in Virginia from a deluge that has sparked a state of emergency. 
+ <p class="updated_time"> 08:31 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62158799?at_medium=RSS&at_campaign=KARANGA">Joshua Schulte: Former CIA hacker convicted of 'brazen' data leak</a> BBC: Prosecutors said Joshua Schulte leaked advanced hacking tools to WikiLeaks in a "devastating" move. 
  <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
  <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117924?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: The India-Pakistan trauma at the heart of the show</a> BBC: As the Disney+ series comes to an end, its treatment of the India-Pakistan partition deserves a closer look. 
- <p class="updated_time"> 06:31 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
  <p class="updated_time"> 06:29 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
  <p class="updated_time"> 06:24 PM CT, Jul. 13 </p> 
@@ -45,10 +57,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis">What's happening in Sri Lanka and what comes next</a> NPR: The double whammy of government and economic instability is further complicating recovery, and the country is hurtling toward bankruptcy. 
  <p class="updated_time"> 12:18 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62155364?at_medium=RSS&at_campaign=KARANGA">Mark Fleischman: Ex-Studio 54 club owner dies by assisted suicide at Dignitas</a> BBC: Mark Fleischman, who ran the legendary New York nightclub in the 1980s, dies by assisted suicide. 
- <p class="updated_time"> 10:41 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133982?at_medium=RSS&at_campaign=KARANGA">Biden visits Israel ahead of thorny Saudi Arabia trip</a> BBC: The US president will see Israeli and Palestinian leaders before an historic flight to the kingdom. 
  <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 10:03 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-turkey-and-u-n-hold-talks-on-exporting-grain-blockaded-by-war-11657721132">Russia, Ukraine and Turkey Approach a Deal on Ukraine Grain Exports, Officials Say</a> WSJ: Officials said the talks concluded with an agreement on broad parameters of how grain can again be exported through Ukraine’s Black Sea ports, but any deal still needs to be signed off by Russian President Vladimir Putin. 
  <p class="updated_time"> 09:51 AM CT, Jul. 13 </p> 
@@ -59,22 +69,14 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103">Biden Arrives in Israel on High-Stakes Mideast Trip</a> WSJ: The president kicked off a trip to the Middle East that his administration hopes will bolster U.S. ties in the region, but could yield limited progress on American priorities. 
  <p class="updated_time"> 09:04 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179">Sri Lanka's Debt Crisis Tests China's Role as Financier to Poor Countries</a> WSJ: The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues. 
- <p class="updated_time"> 09:02 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-62148662?at_medium=RSS&at_campaign=KARANGA">US prices rising at fastest rate for 40 years</a> BBC: Fuel and food prices are pushing up inflation in the US, which is at a record level. 
  <p class="updated_time"> 07:50 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-prime-minister-race-is-shaken-up-by-dark-horse-candidate-penny-mordaunt-11657731037">Dark Horse Shakes Up Race for U.K. Prime Minister</a> WSJ: Onetime Defense Secretary Penny Mordaunt, is emerging as the biggest threat to former Chancellor of the Exchequer Rishi Sunak’s campaign to lead the Conservative Party. 
  <p class="updated_time"> 06:34 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62150323?at_medium=RSS&at_campaign=KARANGA">Enyobeni Tavern: South African arrests made over mystery teen deaths</a> BBC: Police detain three suspects, including the owner of the tavern where the victims were having a party. 
- <p class="updated_time"> 06:33 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62148618?at_medium=RSS&at_campaign=KARANGA">Battle of Waterloo skeletons uncovered in Belgium</a> BBC: The remains of humans and horses from the crucial 1815 battle are found in Belgium. 
  <p class="updated_time"> 05:52 AM CT, Jul. 13 </p> 
  <a href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958">12 Hours of Misery at One of the World's Busiest Airports</a> WSJ: A recent day at London’s Heathrow Airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.” 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
- <p class="updated_time"> 05:10 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62140092?at_medium=RSS&at_campaign=KARANGA">The Eagles: Three men charged with plot to sell stolen Hotel California lyrics</a> BBC: The stolen manuscripts contained the lyrics to the US rock band's hit album Hotel California. 
- <p class="updated_time"> 04:20 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62146770?at_medium=RSS&at_campaign=KARANGA">Ukraine grain: Kyiv optimistic on Russia deal to reopen Black Sea</a> BBC: Tough talks are needed to reopen safe cargo routes for the grain that Russia has trapped in Ukraine. 
  <p class="updated_time"> 04:11 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111246100/protesters-in-sri-lanka-brave-tear-gas-and-storm-prime-ministers-office">Protesters in Sri Lanka brave tear gas and storm prime minister's office</a> NPR: The move on the prime minister's office follows the country's president fleeing the country. 
  <p class="updated_time"> 04:00 AM CT, Jul. 13 </p> 
@@ -99,10 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/12/1111131936/encore-garbage-collectors-in-kharkiv-dodge-mortars-to-pick-up-the-trash">Encore: Garbage collectors in Kharkiv dodge mortars to pick up the trash</a> NPR: Neither snow, nor rain, nor heat, nor gloom of night — nor even threats of Russian missiles shall keep the garbage haulers of Kharkiv from their appointed rounds. We hit the streets with one crew. 
  <p class="updated_time"> 12:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
- <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
- <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
 
 
 </details>
