@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62117924?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: The India-Pakistan trauma at the heart of the show</a> BBC: As the Disney+ series comes to an end, its treatment of the India-Pakistan partition deserves a closer look. 
+ <p class="updated_time"> 06:31 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62158357?at_medium=RSS&at_campaign=KARANGA">Man charged with raping Ohio girl, 10, who was denied abortion</a> BBC: The 10-year-old was legally barred from terminating her pregnancy in her home state. 
+ <p class="updated_time"> 06:29 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
+ <p class="updated_time"> 06:24 PM CT, Jul. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61836078?at_medium=RSS&at_campaign=KARANGA">Bernard Collaery: The spy case that ignited an Australian secrecy row</a> BBC: Bernard Collaery is a hero in East Timor, but faced prosecution in Australia for revealing a spy mission. 
  <p class="updated_time"> 04:04 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62156711?at_medium=RSS&at_campaign=KARANGA">Sri Lanka PM tells military to do whatever necessary to restore order</a> BBC: Thousands of protesters stormed the office of Prime Minister Ranil Wickremesinghe. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
@@ -73,16 +81,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history">How Russia's current war in Ukraine echoes its Crimean War of the 1850s</a> NPR: Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
- <p class="updated_time"> 01:32 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61864383?at_medium=RSS&at_campaign=KARANGA">Gambia after Yahya Jammeh: 'I'll never get justice'</a> BBC: Years after the notorious leader's election defeat, his alleged victims are still searching for justice. 
  <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
  <p class="updated_time"> 06:31 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests">Sri Lanka's president flees the country</a> NPR: President Gotabaya Rajapaksa had already agreed to resign. Protesters had stormed his home and office and the official residence of his prime minister amid a three-month economic crisis. 
  <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
- <p class="updated_time"> 05:31 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62140410?at_medium=RSS&at_campaign=KARANGA">Capitol riots: 'Wild' Trump tweet incited attack, says inquiry</a> BBC: Mr Trump sent a rallying call to supporters after "the craziest meeting" of his presidency, the inquiry hears. 
  <p class="updated_time"> 03:54 PM CT, Jul. 12 </p> 
  <a href="https://www.npr.org/2022/07/12/1111131978/witnessing-sri-lankas-protests-firsthand">Witnessing Sri Lanka's protests firsthand</a> NPR: NPR's Ari Shapiro speaks with Sri Lankan journalist Marlon Ariyasinghe about the country's protest movement. 
  <p class="updated_time"> 03:42 PM CT, Jul. 12 </p> 
@@ -95,16 +99,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62141070?at_medium=RSS&at_campaign=KARANGA">Australia floods: Kangaroo rescued from deep water</a> BBC: Rescuers said the kangaroo was trying to escape a fox. 
  <p class="updated_time"> 11:13 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62133968?at_medium=RSS&at_campaign=KARANGA">Syria war: UN extends aid lifeline to rebel-held Idlib by six months</a> BBC: It comes after tensions with Russia at the UN put millions at risk of having crucial deliveries cut. 
- <p class="updated_time"> 06:45 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62119498?at_medium=RSS&at_campaign=KARANGA">What did Shinzo Abe mean to Japan?</a> BBC: The former PM is known for his signature "Abenomics" economic policy, but his legacy lies in national security. 
- <p class="updated_time"> 02:20 AM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62092195?at_medium=RSS&at_campaign=KARANGA">French Fécamp 'precious blood' relics recovered after abbey theft</a> BBC: Catholics were shocked when an artefact said to contain drops of Jesus's blood was stolen in France. 
  <p class="updated_time"> 12:00 AM CT, Jul. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62083197?at_medium=RSS&at_campaign=KARANGA">SAS killings: How a scandal was uncovered</a> BBC: Panorama brought a series of suspicious killings of civilians to light, after four years of detective work. 
- <p class="updated_time"> 10:27 AM CT, Jul. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62076401?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Why did Elon Musk drop his Twitter buyout?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 06:16 PM CT, Jul. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62117287?at_medium=RSS&at_campaign=KARANGA">Wildfires break out across parts of Portugal</a> BBC: Thousands of firefighters are tackling the blazes, with temperatures expected to rise in the coming days. 
 
 
 </details>
@@ -112,6 +108,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 PM CT, Jul. 13 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
@@ -130,8 +128,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 09:27 AM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools">Florida Gov. DeSantis takes aim at what he sees as indoctrination in schools</a> NPR: Gov. Ron DeSantis has signed bills that limit how race and sexual orientation can be taught. He says students have been getting a "distorted" view of history. 
- <p class="updated_time"> 09:13 AM CT, Jul. 13 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:30 AM CT, Jul. 13 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html">Takeaways from the January 6 hearing day 7</a> CNN: The latest hearing from the House select committee investigating the January 6, 2021, insurrection fleshed out the links between former President Donald Trump and the far-right extremist groups that were at the vanguard of the violent effort to stop the transition of power and keep him in office, despite his election loss. 
  <p class="updated_time"> 05:57 AM CT, Jul. 13 </p> 
