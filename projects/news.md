@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 04:11 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives a day earlier amid mass protests in Sri Lanka. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
@@ -17,8 +19,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
- <p class="updated_time"> 12:30 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
  <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
  <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
