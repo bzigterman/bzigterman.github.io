@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 AM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives amid mass protests over the island's economic crisis. 
  <p class="updated_time"> 04:41 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62159804?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deal in sight to end Ukrainian grain blockade - Turkey</a> BBC: Russia's blockade has seen exports collapse and raised fears of food shortages in developing nations. 
- <p class="updated_time"> 04:11 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: President Rajapaksa leaves Maldives for Singapore</a> BBC: The president had fled to the Maldives a day earlier amid mass protests in Sri Lanka. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
  <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-faces-british-court-hearing-on-sex-assault-charges">Kevin Spacey faces British court hearing on sex assault charges</a> NPR: The hearing is the two-time Oscar winner's first chance to formally answer charges relating to offenses against three men. His lawyer previously said that Spacey "strenuously denies the allegations. 
  <p class="updated_time"> 02:49 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62161018?at_medium=RSS&at_campaign=KARANGA">Nazi Soldau: Ashes of 8,000 victims found in mass grave in Poland</a> BBC: A mass grave containing 17.5 tonnes of ashes is unearthed in Poland, close to a former Nazi camp. 
+ <p class="updated_time"> 01:26 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden Meets Israel's Leaders With Focus on Iran's Nuclear Ambitions</a> WSJ: President Biden is meeting with top Israeli officials to discuss regional security amid efforts to contain an increasingly assertive Iran, as his first presidential trip to the Middle East gets under way. 
+ <p class="updated_time"> 01:14 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/yellen-says-she-will-push-china-to-restructure-debts-of-developing-countries-11657793674">Yellen Says She Will Push China to Restructure Debts of Developing Countries</a> WSJ: Beijing’s role as a creditor to many countries around the world has come under fresh scrutiny following an uprising in Sri Lanka. 
+ <p class="updated_time"> 12:55 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519">Sri Lanka's President Misses Resignation Deadline</a> WSJ: The parliamentary speaker had said the president would resign on July 13, but President Gotabaya Rajapaksa left the country in the early hours of that day. 
+ <p class="updated_time"> 12:41 AM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Ukraine War Threatens Global Economy This Year and Next, IMF Warns</a> WSJ: The IMF said it would downgrade its forecast for global economic growth in 2022 and 2023 later this month, in part because of the worsening fallout from the war. 
  <p class="updated_time"> 12:13 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62158976?at_medium=RSS&at_campaign=KARANGA">Uber sued by 550 women over sexual assault claims</a> BBC: The ride-hailing giant said last month that it received 998 reports of sexual assault incidents in 2020. 
  <p class="updated_time"> 10:43 PM CT, Jul. 13 </p> 
