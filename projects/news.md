@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
- <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
