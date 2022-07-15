@@ -196,7 +196,7 @@ willard <- willard_html[[4]] %>%
   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
   select(date,weather,temp, humidity, precip_one_hour)
-champaign_rain <- round(sum(head(willard$precip_one_hour,24), na.rm = TRUE),1)
+champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
 champaign_rain_text <- ifelse(champaign_rain > 0, 
                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours"),
                               "")
@@ -834,9 +834,14 @@ monthly_rain <- willard_data_updated %>%
   mutate(date = ymd(date)) %>%
   select(date,daily_precip_total,month_precip_sum)
 
-  
+today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
+  filter(date == today(tzone = "America/Chicago")) %>%
+  mutate("Normal MTD Precip." = normal_monthly_precip) %>%
+  mutate("Actual MTD Precip." = month_precip_sum) %>%
+  mutate("Daily Precip." = daily_precip_total) %>%
+  select(date, "Normal MTD Precip.","Actual MTD Precip.","Daily Precip.") %>%
+  pivot_longer(!date)
 
-  
 year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
   full_join(monthly_rain) %>%
@@ -911,6 +916,25 @@ fig <- hchart(year_weather_data_longer, "arearange",
       format = "{point.y}°: {series.name}"
     ),
     yAxis = 0
+  ) %>%
+  hc_add_series(
+    data = today_rain,
+    hcaes(x = date,
+          y = value,
+          group = name),
+    type = "scatter",
+    animation = FALSE,
+    enableMouseTracking = FALSE,
+    marker = list(
+      enabled = FALSE),
+    dataLabels = list(
+      enabled = TRUE,
+      align = "left",
+      verticalAlign = "bottom",
+      allowOverlap = TRUE,
+      format = "{point.y}″: {series.name}"
+    ),
+    yAxis = 1
   ) %>%
   hc_add_series(
     data = record_his,
@@ -1256,14 +1280,6 @@ Currently:
 
 <iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"600\"> 
 </iframe>
-
-## Almanac for ",today,"
-
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/champaign_almanac.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/champaign_almanac_mobile.png\" alt=\"\" />
-</picture>
 
 ## Severe Thunderstorm Outlook
 
