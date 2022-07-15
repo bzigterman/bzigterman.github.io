@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
+ <p class="updated_time"> 02:09 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden meets crown prince amid criticism</a> BBC: The president once vowed to isolate Saudi Arabia after its agents murdered a US-based journalist. 
  <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
  <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
@@ -16,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden gives Saudi Crown Prince a fist bump as meetings begin in Jeddah</a> NPR: Side-stepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
+ <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62182848?at_medium=RSS&at_campaign=KARANGA">No new probe into UK troops' Afghanistan killings</a> BBC: The head of the UK's armed forces says two investigations found unlawful killings "did not happen". 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
@@ -27,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: Trains could be disrupted and schools are closing early as temperatures could hit 40C (104F). 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
- <p class="updated_time"> 11:25 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden meets crown prince amid criticism</a> BBC: The president once vowed to isolate Saudi Arabia after its agents murdered a US-based journalist. 
  <p class="updated_time"> 10:43 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
@@ -66,7 +68,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
  <p class="updated_time"> 03:45 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141">China's Economic Comeback From Covid-19 Shutdowns Likely to Be Slow and Bumpy</a> WSJ: Economists expect drawn-out rebound as weakness in real-estate market, business confidence and exports drags on growth. 
+ <a href="https://www.wsj.com/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141">China's Economic Comeback From Covid-19 Shutdowns Likely to Be Slow and Bumpy</a> WSJ: Economists expect a drawn-out rebound as weakness in the real-estate market, business confidence and exports drags on growth. 
  <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
  <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
- <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
@@ -123,7 +123,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden gives Saudi Crown Prince a fist bump as meetings begin in Jeddah</a> NPR: Side-stepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
+ <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
