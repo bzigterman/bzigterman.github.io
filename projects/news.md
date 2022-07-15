@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:59 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62149522?at_medium=RSS&at_campaign=KARANGA">Satellites give clues about the coming global harvest</a> BBC: With wheat at record high prices, importing countries hoping for increased supply may be disappointed. 
  <p class="updated_time"> 06:37 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62144217?at_medium=RSS&at_campaign=KARANGA">Why Biden's Saudi trip has proved so thorny</a> BBC: On this Middle East tour, the president must walk a foreign policy tightrope. 
  <p class="updated_time"> 06:27 PM CT, Jul. 14 </p> 
@@ -81,14 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
- <p class="updated_time"> 07:55 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62143252?at_medium=RSS&at_campaign=KARANGA">George Wajackoyah spices up Kenya election with marijuana and snake venom</a> BBC: Roots Party candidate George Wajackoyah is causing a social media sensation with some original policies. 
- <p class="updated_time"> 07:03 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62117924?at_medium=RSS&at_campaign=KARANGA">Ms Marvel: The India-Pakistan trauma at the heart of the show</a> BBC: As the Disney+ series comes to an end, its treatment of the India-Pakistan partition deserves a closer look. 
  <p class="updated_time"> 06:29 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
- <p class="updated_time"> 06:24 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61836078?at_medium=RSS&at_campaign=KARANGA">Bernard Collaery: The spy case that ignited an Australian secrecy row</a> BBC: Bernard Collaery is a hero in East Timor, but faced prosecution in Australia for revealing a spy mission. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
@@ -97,16 +93,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
- <p class="updated_time"> 10:36 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62154311?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: How a dramatic day unfolded at the PM's office</a> BBC: Protesters broke into the prime minister's office after President Gotabaya Rajapaksa fled the country. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
  <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
- <p class="updated_time"> 08:25 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62117921?at_medium=RSS&at_campaign=KARANGA">Shah Rukh Khan: Why the actor's charm has endured the test of time</a> BBC: Thirty years after he began his career, the actor remains among the world's biggest film icons. 
- <p class="updated_time"> 06:05 PM CT, Jul. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62137767?at_medium=RSS&at_campaign=KARANGA">Ukraine's rock warrior Slava Vakarchuk: 'We need to be angry'</a> BBC: Slava Vakarchuk is the lead singer of Okean Elzy, Ukraine's most popular rock band. 
 
 
 </details>
@@ -114,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111625169/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says">Secret Service erased Jan. 6 texts after officials requested them, watchdog says</a> NPR: The U.S. Secret Service deleted many text messages sent over two days about the Jan. 6 attack after they were requested, according to the inspector general for the Department of Homeland Security. 
  <p class="updated_time"> 04:07 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577564/some-who-think-2020s-election-was-stolen-are-going-door-to-door-to-audit-the-res">Some who think 2020's election was stolen are going door-to-door to audit the results</a> NPR: People who falsely believe the 2020 election was stolen are knocking on doors around the country to determine whether people actually voted. The effort is raising concerns about voter intimidation. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
@@ -146,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york">Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling</a> NPR: The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country. 
  <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
- <p class="updated_time"> 12:41 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111274698/how-the-american-right-became-aligned-with-hungary-and-its-authoritarian-leader">How the American right became aligned with Hungary and its authoritarian leader</a> NPR: New Yorker journalist Andrew Marantz says Prime Minister Viktor Orbán's administration has rewritten Hungary's constitution to consolidate his power. U.S. conservatives are taking note. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
