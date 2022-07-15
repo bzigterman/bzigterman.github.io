@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
- <p class="updated_time"> 04:42 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/in-prolonged-war-against-covid-chinas-economy-is-a-victim-11657892540">In Prolonged War Against Covid, China's Economy Is a Victim</a> WSJ: Sudden and erratic Covid-19 outbreaks across China combined with the government’s policy of zero tolerance toward the coronavirus are exacting a heavy toll on both the economic and mental health of the nation. 
  <p class="updated_time"> 04:11 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
@@ -63,22 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
  <p class="updated_time"> 03:45 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141">China's Economic Comeback From Covid-19 Shutdowns Likely to Be Slow and Bumpy</a> WSJ: Economists expect drawn-out rebound as weakness in real-estate market, business confidence and exports drags on growth. 
- <p class="updated_time"> 03:22 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-jails-protesters-caught-fleeing-by-speedboat-11657887717">Hong Kong Jails Protesters Caught Fleeing by Speedboat</a> WSJ: The seven defendants received 10-month jail sentences on Friday. They were among a dozen fugitives—dubbed the “Hong Kong 12”—captured in an attempt to cross hundreds of miles of open water to escape to Taiwan after Beijing imposed a new national security law on Hong Kong. 
- <p class="updated_time"> 03:14 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/a-frozen-document-in-china-unleashes-a-furor-over-privacy-11657887259">A Frozen Document in China Unleashes a Furor Over Privacy</a> WSJ: A 25-year-old writer had been working on her urban romance novel for months when she found she was locked out of it by the software program where it was stored, sparking an outpouring of frustration by Chinese internet users. 
  <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
- <p class="updated_time"> 02:44 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/china-close-to-forming-state-owned-group-to-control-iron-ore-imports-11657885483">China Moves to Control Iron-Ore Imports With New State Firm</a> WSJ: Beijing is close to forming a new enterprise to manage imports of steelmaking ingredients, to be led by the Chinalco chairman, in a push to secure resources for country’s growth. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
- <p class="updated_time"> 01:01 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/yellen-rebukes-russian-officials-over-ukraine-invasion-11657879303">Yellen Rebukes Russian Officials Over Ukraine Invasion</a> WSJ: The U.S. treasury secretary’s comments came at the start of a gathering of finance ministers of G-20 global economies focused on inflation and food insecurity. 
- <p class="updated_time"> 12:30 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403">Chinese Firms Are Selling Russia Goods Its Military Needs to Keep Fighting in Ukraine</a> WSJ: Rising exports of microchips, aluminum oxide and other dual-use items undermine the Western push to stall the Russian war effort. 
- <p class="updated_time"> 09:30 PM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/china-set-to-post-the-slowest-growth-in-two-years-on-zero-covid-policy-11657808309">China's Economy Records 0.4% Growth, Weakest Since Wuhan Lockdown</a> WSJ: The Chinese economy narrowly avoided a contraction in the second quarter as Beijing’s zero-Covid approach took a toll. 
  <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
  <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
@@ -115,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
- <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
@@ -139,7 +125,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Manchin's vote is key in the evenly divided Senate, and he already rejected President Joe Biden's larger spending package in December. 
+ <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
