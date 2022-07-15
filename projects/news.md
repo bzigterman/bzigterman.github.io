@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 AM CT, Jul. 15 </p> 
+ <p class="updated_time"> 02:44 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka political dynasty ends as Rajapaksa quits</a> BBC: Parliament has accepted Gotabaya Rajapaksa's resignation, ending the family's nearly 20 years of rule. 
+ <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
  <p class="updated_time"> 01:05 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Prince Mohammed bin Salman despite criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 11:53 PM CT, Jul. 14 </p> 
@@ -62,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
  <p class="updated_time"> 12:25 PM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister Mario Draghi to Resign</a> WSJ: Italian Prime Minister Mario Draghi said he would resign after his coalition fell apart over disagreements on whether to send arms to Ukraine. 
+ <a href="https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964">Italian Prime Minister's Resignation Is Rejected</a> WSJ: Prime Minister Mario Draghi tendered his resignation after his coalition collapsed due to differences over how to respond to the fallout of the war in Ukraine, leaving the eurozone’s third-largest economy in political crisis. 
  <p class="updated_time"> 12:20 PM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 23</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 11:46 AM CT, Jul. 14 </p> 
