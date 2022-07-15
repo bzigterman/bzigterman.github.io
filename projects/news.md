@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: Met Office issues highest extreme heat warning</a> BBC: The highest alert for parts of England means there is a danger to life amid exceptional heat. 
+ <p class="updated_time"> 04:27 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka swears in Ranil Wickremesinghe as acting leader after mass protests</a> BBC: Ranil Wickremesinghe takes office after weeks of protests over fuel and food shortages. 
  <p class="updated_time"> 04:01 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62175291?at_medium=RSS&at_campaign=KARANGA">Man acquitted of bombing 1985 Air India flight shot dead in Canada</a> BBC: Ripudaman Singh Malik was accused of involvement in Canada's worst terror attack that killed 329. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
@@ -17,14 +21,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Crown Prince amid criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
- <p class="updated_time"> 02:44 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka political dynasty ends as Rajapaksa quits</a> BBC: Parliament has accepted Gotabaya Rajapaksa's resignation, ending the family's nearly 20 years of rule. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
- <p class="updated_time"> 11:53 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62173939?at_medium=RSS&at_campaign=KARANGA">Malcolm X: Man exonerated in Malcolm X murder sues New York for $40m</a> BBC: Muhammad Aziz wants millions in compensation after he was wrongly convicted and jailed for 20 years. 
  <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62159610?at_medium=RSS&at_campaign=KARANGA">UN insists it is tackling sexism 'head on' amid new allegations</a> BBC: One senior official tells the BBC she was ostracised for making complaints. 
  <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
