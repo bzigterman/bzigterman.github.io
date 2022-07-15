@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:38 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: Met Office issues highest extreme heat warning</a> BBC: The highest alert for parts of England means there is a danger to life amid exceptional heat. 
+ <p class="updated_time"> 05:29 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: Met Office issues red extreme heat warning</a> BBC: The highest alert for parts of England means there is a danger to life as temperatures could hit 40C. 
+ <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
+ <p class="updated_time"> 04:46 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
+ <p class="updated_time"> 04:37 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
  <p class="updated_time"> 04:27 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka swears in Ranil Wickremesinghe as acting leader after mass protests</a> BBC: Ranil Wickremesinghe takes office after weeks of protests over fuel and food shortages. 
  <p class="updated_time"> 04:01 AM CT, Jul. 15 </p> 
@@ -23,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
- <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62159610?at_medium=RSS&at_campaign=KARANGA">UN insists it is tackling sexism 'head on' amid new allegations</a> BBC: One senior official tells the BBC she was ostracised for making complaints. 
  <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
@@ -63,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
- <p class="updated_time"> 01:26 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62170259?at_medium=RSS&at_campaign=KARANGA">Alex Murdaugh: High-profile lawyer charged with murder of wife and son</a> BBC: The charges are the latest in a long-running crime saga involving the disgraced lawyer Alex Murdaugh. 
  <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676">Russia Strikes Residential, Business District in Central Ukraine, Killing 23</a> WSJ: The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes. 
  <p class="updated_time"> 11:46 AM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
- <p class="updated_time"> 08:59 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62162655?at_medium=RSS&at_campaign=KARANGA">Europe wildfires: Heatwave fuels blazes across the continent</a> BBC: Blazes have broken out in Portugal, France, Spain and Turkey as a heatwave spreads across Europe. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:17 AM CT, Jul. 14 </p> 
