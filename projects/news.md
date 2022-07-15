@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:20 AM CT, Jul. 15 </p> 
+ <p class="updated_time"> 06:31 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
+ <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
+ <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 06:14 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: Met Office issues red extreme heat warning</a> BBC: It is the first time this highest warning has been issued and comes as temperatures could hit 40C (104F). 
  <p class="updated_time"> 05:30 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
- <p class="updated_time"> 04:46 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 04:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
  <p class="updated_time"> 04:27 AM CT, Jul. 15 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
  <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
- <p class="updated_time"> 02:44 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62147363?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Police fire tear gas as protesters storm PM's office in Colombo</a> BBC: President Gotabaya Rajapaksa has fled the country, while a state of emergency has been declared. 
 
 
 </details>
@@ -121,7 +121,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111658454/texas-attorney-general-ken-paxton-sues-biden-administration-over-abortion-guidan">Texas Attorney General Ken Paxton sues Biden administration over abortion guidance</a> NPR: NPR speaks with Elizabeth Sepper, a professor at The University of Texas School of Law, about a Texas lawsuit against President Joe Biden's over emergency abortions. 
  <p class="updated_time"> 04:00 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off the 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
+ <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
  <p class="updated_time"> 11:43 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
  <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
