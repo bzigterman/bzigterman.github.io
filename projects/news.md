@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:16 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Crown Prince amid criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
- <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388372/lessons-from-the-2015-paris-attacks-trial-that-ended-in-june">Lessons from the 2015 Paris attacks trial that ended in June</a> NPR: Victims who testified during the landmark Paris attacks trial — which wrapped up at the end of June — say the case holds lessons for the United States. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
@@ -110,6 +110,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111658489/how-the-white-house-is-responding-to-roe-v-wade">How the White House is responding to Roe v. Wade</a> NPR: White House Gender Policy Coordinator Jennifer Klein talks about the administration's plan to assist women now that abortion laws are being decided by states following the overturn of Roe v. Wade. 
+ <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111658454/texas-attorney-general-ken-paxton-sues-biden-administration-over-abortion-guidan">Texas Attorney General Ken Paxton sues Biden administration over abortion guidance</a> NPR: NPR speaks with Elizabeth Sepper, a professor at The University of Texas School of Law, about a Texas lawsuit against President Joe Biden's over emergency abortions. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off the 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
  <p class="updated_time"> 11:43 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
  <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
@@ -138,12 +144,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
- <p class="updated_time"> 03:35 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388386/rep-jamie-raskin-discusses-the-7th-jan-6-hearing-held-yesterday">Rep. Jamie Raskin discusses the 7th Jan. 6 hearing, held yesterday</a> NPR: NPR's Juana Summers talks with Democratic Congressman Jamie Raskin, a member of the House committee investigating Jan. 6, about the hearing on Tuesday, July 12. 
- <p class="updated_time"> 03:22 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388344/a-state-of-emergency-has-been-declared-in-sri-lanka-as-leaders-try-to-restore-or">A state of emergency has been declared in Sri Lanka as leaders try to 'restore order'</a> NPR: A state of emergency has been declared in Sri Lanka as protestors call for the removal of the man who has replaced the President — who fled  to the Maldives in a military jet overnight. 
- <p class="updated_time"> 02:42 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild!' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
