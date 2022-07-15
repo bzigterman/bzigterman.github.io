@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:16 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Crown Prince amid criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 02:44 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka political dynasty ends as Rajapaksa quits</a> BBC: Parliament has accepted Gotabaya Rajapaksa's resignation, ending the family's nearly 20 years of rule. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
- <p class="updated_time"> 01:05 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Prince Mohammed bin Salman despite criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 11:53 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173939?at_medium=RSS&at_campaign=KARANGA">Malcolm X: Man exonerated in Malcolm X murder sues New York for $40m</a> BBC: Muhammad Aziz wants millions in compensation after he was wrongly convicted and jailed for 20 years. 
  <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
