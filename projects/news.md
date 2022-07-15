@@ -124,6 +124,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden gives Saudi Crown Prince a fist bump as meetings begin in Jeddah</a> NPR: Side-stepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
+ <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
+ <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
  <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
@@ -152,8 +154,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
  <p class="updated_time"> 03:23 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary">Ivana Trump, first wife of Donald Trump, is dead at 73</a> NPR: Ivana Trump, the first wife of former President Donald Trump, has died at the age of 73, the Trump family confirmed in a statement. 
- <p class="updated_time"> 11:08 AM CT, Jul. 14 </p> 
- <a href="https://www.cnn.com/2022/07/14/politics/republicans-abortion-politics-supreme-court-2022/index.html">After Supreme Court abortion decision, 2022 Republicans look to keep the focus on the economy</a> CNN: In the new post-Roe landscape, Pennsylvania Republican Doug Mastriano seems to have strayed from what he once described as his "number one" focus. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 
 
