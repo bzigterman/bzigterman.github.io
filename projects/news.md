@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111771255/chechen-soldiers-join-ukraines-fight-against-russia">Chechen soldiers join Ukraine's fight against Russia</a> NPR: Soldiers from Chechnya, a Muslim territory, are part of the foreign fight against Russia in Ukraine. Russia brutally suppressed them in two wars, and their presence echoes old hatreds in Ukraine. 
+ <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 02:11 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
  <p class="updated_time"> 02:09 PM CT, Jul. 15 </p> 
@@ -31,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: Trains could be disrupted and schools are closing early as temperatures could hit 40C (104F). 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
+ <p class="updated_time"> 11:12 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck Mykolaiv on Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on a civilian areas in Ukraine. 
  <p class="updated_time"> 10:43 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
@@ -53,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Tom Hanks learned Saving Private Ryan lines from helmet on Irish beach</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
- <p class="updated_time"> 07:44 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
  <p class="updated_time"> 06:55 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535">Draghi Resignation Puts Italy's Leadership in Flux</a> WSJ: The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
- <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
- <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111771240/why-is-steve-bannon-reversing-course-and-now-willing-to-testify-in-jan-6-hearing">Why is Steve Bannon reversing course and now willing to testify in Jan. 6 hearings?</a> NPR: NPR's Ari Shapiro speaks with Bloomberg Businessweek correspondent Joshua Green on Steve Bannon's new willingness to testify before the House select committee investigating Jan. 6. 
+ <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
@@ -154,10 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
- <p class="updated_time"> 03:23 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary">Ivana Trump, first wife of Donald Trump, is dead at 73</a> NPR: Ivana Trump, the first wife of former President Donald Trump, has died at the age of 73, the Trump family confirmed in a statement. 
- <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 
 
 
 </details>
