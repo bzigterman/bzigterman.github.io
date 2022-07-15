@@ -9,24 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
+ <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden gives Saudi Crown Prince a fist bump as meetings begin in Jeddah</a> NPR: Side-stepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
+ <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62182848?at_medium=RSS&at_campaign=KARANGA">No new probe into UK troops' Afghanistan killings</a> BBC: The head of the UK's armed forces says two investigations found unlawful killings "did not happen". 
+ <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
+ <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
+ <p class="updated_time"> 11:38 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: Trains could be disrupted and schools are closing early as temperatures could hit 40C (104F). 
+ <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
+ <p class="updated_time"> 11:25 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden meets crown prince amid criticism</a> BBC: The president once vowed to isolate Saudi Arabia after its agents murdered a US-based journalist. 
  <p class="updated_time"> 10:43 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 10:24 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: There could be a risk to life with temperatures potentially climbing as high as 40C (104F). 
  <p class="updated_time"> 10:22 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62182910?at_medium=RSS&at_campaign=KARANGA">German officer who posed as Syrian refugee jailed in terror trial</a> BBC: Prosecutors say he posed as a refugee hoping immigrants would be blamed for his planned killings. 
- <p class="updated_time"> 10:21 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Crown Prince amid criticism</a> BBC: The president once vowed to isolate Saudi Arabia after its agents murdered a US-based journalist. 
  <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
  <p class="updated_time"> 09:18 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62177419?at_medium=RSS&at_campaign=KARANGA">Morocco wildfires: Toxic smoke and raging blazes</a> BBC: Scorching temperatures and drought feed fires in the north of the country. 
- <p class="updated_time"> 08:51 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
  <p class="updated_time"> 08:34 AM CT, Jul. 15 </p> 
@@ -35,20 +45,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Tom Hanks learned Saving Private Ryan lines from helmet on Irish beach</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
+ <p class="updated_time"> 07:44 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
+ <p class="updated_time"> 06:56 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Meets With Saudi Crown Prince as U.S. Looks to Reset Ties With Riyadh</a> WSJ: President Biden met Saudi Crown Prince Mohammed bin Salman with a fist bump, as he aims to reset relations with a leader he once shunned and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
- <p class="updated_time"> 06:12 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Arrives in Saudi Arabia for Meeting With Crown Prince</a> WSJ: President Biden took a rare flight from Israel to Saudi Arabia to meet Saudi Crown Prince Mohammed bin Salman and prod the kingdom to help control oil prices and deepen its ties with Israel. 
- <p class="updated_time"> 06:07 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
- <p class="updated_time"> 05:30 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
  <p class="updated_time"> 04:42 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/in-prolonged-war-against-covid-chinas-economy-is-a-victim-11657892540">In Prolonged War Against Covid, China's Economy Is a Victim</a> WSJ: Sudden and erratic Covid-19 outbreaks across China combined with the government’s policy of zero tolerance toward the coronavirus are exacting a heavy toll on both the economic and mental health of the nation. 
- <p class="updated_time"> 04:37 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
  <p class="updated_time"> 04:11 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
@@ -73,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403">Chinese Firms Are Selling Russia Goods Its Military Needs to Keep Fighting in Ukraine</a> WSJ: Rising exports of microchips, aluminum oxide and other dual-use items undermine the Western push to stall the Russian war effort. 
  <p class="updated_time"> 09:30 PM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/china-set-to-post-the-slowest-growth-in-two-years-on-zero-covid-policy-11657808309">China's Economy Records 0.4% Growth, Weakest Since Wuhan Lockdown</a> WSJ: The Chinese economy narrowly avoided a contraction in the second quarter as Beijing’s zero-Covid approach took a toll. 
- <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
  <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
@@ -88,7 +92,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukrainian politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why is it so hot (in under 60 seconds)?</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
+ <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why it is so hot - in under 60 seconds</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
@@ -113,10 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 06:50 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea">Members of Brittney Griner's Russian team defend her character, on and off the court</a> NPR: Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test. 
- <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris">Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris' </a> NPR: A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel. 
- <p class="updated_time"> 03:55 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges">Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men </a> NPR: Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
@@ -134,6 +134,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden gives Saudi Crown Prince a fist bump as meetings begin in Jeddah</a> NPR: Side-stepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
+ <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Manchin's vote is key in the evenly divided Senate, and he already rejected President Joe Biden's larger spending package in December. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
@@ -166,10 +170,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/14/politics/republicans-abortion-politics-supreme-court-2022/index.html">After Supreme Court abortion decision, 2022 Republicans look to keep the focus on the economy</a> CNN: In the new post-Roe landscape, Pennsylvania Republican Doug Mastriano seems to have strayed from what he once described as his "number one" focus. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 
- <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
- <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: IRS Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
 
 
 </details>
