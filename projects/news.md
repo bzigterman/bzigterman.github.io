@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62175291?at_medium=RSS&at_campaign=KARANGA">Man acquitted of bombing 1985 Air India flight shot dead in Canada</a> BBC: Ripudaman Singh Malik was accused of involvement in Canada's worst terror attack that killed 329. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:16 AM CT, Jul. 15 </p> 
@@ -19,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62160227?at_medium=RSS&at_campaign=KARANGA">Sri Lanka political dynasty ends as Rajapaksa quits</a> BBC: Parliament has accepted Gotabaya Rajapaksa's resignation, ending the family's nearly 20 years of rule. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
+ <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 11:53 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173939?at_medium=RSS&at_campaign=KARANGA">Malcolm X: Man exonerated in Malcolm X murder sues New York for $40m</a> BBC: Muhammad Aziz wants millions in compensation after he was wrongly convicted and jailed for 20 years. 
  <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
@@ -37,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62144217?at_medium=RSS&at_campaign=KARANGA">Why Biden's Saudi trip has proved so thorny</a> BBC: On this Middle East tour, the president must walk a foreign policy tightrope. 
  <p class="updated_time"> 06:27 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62163915?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 8-14 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 06:23 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62157480?at_medium=RSS&at_campaign=KARANGA">What comes next for US gun control?</a> BBC: Here's a look at some solutions to gun violence proposed by both sides of the gun-control debate. 
  <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukrainian politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
