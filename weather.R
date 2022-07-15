@@ -965,7 +965,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 animation = FALSE,
                 lineWidth = 1,
                 step = "center",
-                name = "Monthly Precip.",
+                name = "Actual MTD Precip.",
                 tooltip = list(valueSuffix = "{value}″"),
                 color = "#b0dcf0",
                 yAxis = 1) %>%
