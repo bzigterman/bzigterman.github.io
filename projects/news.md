@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
  <p class="updated_time"> 04:27 PM CT, Jul. 15 </p> 
@@ -30,7 +32,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 12:26 PM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Confronts Saudi Crown Prince over Khashoggi Killing</a> WSJ: The president said he told Prince Mohammed bin Salman that he believed he was responsible for the journalist’s death. 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Confronts Saudi Crown Prince Over Khashoggi Killing</a> WSJ: The president said he told Prince Mohammed bin Salman that he believed he was responsible for the journalist’s death. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577529/brittney-griners-russian-teammates-testified-at-her-drug-trial-thursday">Brittney Griner's Russian teammates testified at her drug trial Thursday</a> NPR: Brittney Griner's defense argued her case and defended her character in a Russian court on Thursday, one week after the WNBA star pleaded guilty to drug charges. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577522/many-soldiers-in-ukraine-will-long-be-left-with-the-mental-toll-of-trench-warfar">Many soldiers in Ukraine will long be left with the mental toll of trench warfare</a> NPR: The brutal trench warfare-style fighting happening in eastern Ukraine is traumatizing soldiers. There are concerns in Ukraine about the psychological legacy it will leave behind. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
