@@ -120,6 +120,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
+ <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
  <p class="updated_time"> 03:49 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771318/sen-joe-manchin-pulled-the-plug-on-major-spending-to-address-climate-change">Sen. Joe Manchin pulled the plug on major spending to address climate change</a> NPR: Sen. Joe Manchin, D-W.Va., dashed Democrats' hopes of major climate spending in the budget reconciliation. Here's what that means for the country's ability to bring down carbon emissions. 
  <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
@@ -146,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
  <p class="updated_time"> 11:43 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
- <p class="updated_time"> 10:09 PM CT, Jul. 14 </p> 
- <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
  <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s">Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says</a> NPR: A Secret Service spokesman disputes the Department of Homeland Security inspector general's account, saying its request came after a mobile phone migration had started, but no messages were lost. 
  <p class="updated_time"> 08:07 PM CT, Jul. 14 </p> 
