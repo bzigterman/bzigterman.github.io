@@ -51,6 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
  <p class="updated_time"> 06:56 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Meets With Saudi Crown Prince as U.S. Looks to Reset Ties With Riyadh</a> WSJ: President Biden met Saudi Crown Prince Mohammed bin Salman with a fist bump, as he aims to reset relations with a leader he once shunned and prod the kingdom to help control oil prices and deepen its ties with Israel. 
+ <p class="updated_time"> 06:55 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535">Draghi Resignation Puts Italy's Leadership in Flux</a> WSJ: The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
