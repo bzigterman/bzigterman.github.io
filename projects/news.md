@@ -9,14 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Pi Hanks learned Saving Private Ryan lines from helmet</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
- <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
+ <p class="updated_time"> 09:00 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: There could be a risk to life with temperatures potentially climbing as high as 40C (104F). 
+ <p class="updated_time"> 08:51 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
+ <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
+ <p class="updated_time"> 08:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
+ <p class="updated_time"> 08:34 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175760?at_medium=RSS&at_campaign=KARANGA">French Bastille Day firework blast kills boy and sister</a> BBC: A seven-year-old boy and his elder sister were hit by a firework that blew up in a crowd in France. 
+ <p class="updated_time"> 07:59 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Tom Hanks learned Saving Private Ryan lines from helmet on Irish beach</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
+ <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
- <p class="updated_time"> 06:14 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: Met Office issues red extreme heat warning</a> BBC: It is the first time this highest warning has been issued and comes as temperatures could hit 40C (104F). 
  <p class="updated_time"> 05:30 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
@@ -25,28 +33,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
  <p class="updated_time"> 04:27 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka swears in Ranil Wickremesinghe as acting leader after mass protests</a> BBC: Ranil Wickremesinghe takes office after weeks of protests over fuel and food shortages. 
+ <p class="updated_time"> 04:11 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
+ <p class="updated_time"> 04:08 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Departs for Saudi Arabia for Meeting With Crown Prince</a> WSJ: President Biden took a rare flight from Israel to Saudi Arabia to meet Saudi Crown Prince Mohammed bin Salman and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 04:01 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62175291?at_medium=RSS&at_campaign=KARANGA">Man acquitted of bombing 1985 Air India flight shot dead in Canada</a> BBC: Ripudaman Singh Malik was accused of involvement in Canada's worst terror attack that killed 329. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
+ <p class="updated_time"> 03:53 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
  <p class="updated_time"> 03:16 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden set to meet Crown Prince amid criticism</a> BBC: The US leader will head to Saudi Arabia after meeting Palestinian leaders in the occupied West Bank. 
  <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
  <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
- <p class="updated_time"> 01:20 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
- <p class="updated_time"> 01:01 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/yellen-rebukes-russian-officials-over-ukraine-invasion-11657879303">Yellen Rebukes Russian Officials Over Ukraine Invasion</a> WSJ: The U.S. treasury secretary’s comments came at the start of a gathering of finance ministers of G-20 global economies focused on inflation and food insecurity. 
- <p class="updated_time"> 12:50 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Saudi Arabia Fully Opens Airspace to Israel Ahead of Biden Visit</a> WSJ: The U.S. president is expected to meet with Saudi Crown Prince Mohammed bin Salman at his Jeddah palace, but is unlikely to secure many concessions 
  <p class="updated_time"> 12:30 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403">Chinese Firms Are Selling Russia Goods Its Military Needs to Keep Fighting in Ukraine</a> WSJ: Rising exports of microchips, aluminum oxide and other dual-use items undermine the Western push to stall the Russian war effort. 
- <p class="updated_time"> 10:19 PM CT, Jul. 14 </p> 
- <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
  <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62159610?at_medium=RSS&at_campaign=KARANGA">UN insists it is tackling sexism 'head on' amid new allegations</a> BBC: One senior official tells the BBC she was ostracised for making complaints. 
+ <p class="updated_time"> 09:30 PM CT, Jul. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-set-to-post-the-slowest-growth-in-two-years-on-zero-covid-policy-11657808309">China's Economy Records 0.4% Growth, Weakest Since Wuhan Lockdown</a> WSJ: The Chinese economy narrowly avoided a contraction in the second quarter as Beijing’s zero-Covid approach took a toll. 
  <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
@@ -77,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
- <p class="updated_time"> 02:20 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62171284?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi offers resignation after coalition falls apart</a> BBC: Mario Draghi resigns after his coalition falls apart, but the president refuses to accept it. 
  <p class="updated_time"> 01:47 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi">How do you move 250 elephants to their new home? Very carefully</a> NPR: One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north. 
  <p class="updated_time"> 12:28 PM CT, Jul. 14 </p> 
@@ -99,10 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
  <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
- <p class="updated_time"> 06:29 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62149521?at_medium=RSS&at_campaign=KARANGA">'Why I invented Non-binary Day'</a> BBC: Katje van Loon had the idea for International Non-Binary day - half way between International Women's Day and International Men's Day. 
- <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
@@ -116,6 +118,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Manchin's vote is key in the evenly divided Senate, and he already rejected President Joe Biden's larger spending package in December. 
+ <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
+ <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
+ <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111658489/how-the-white-house-is-responding-to-roe-v-wade">How the White House is responding to Roe v. Wade</a> NPR: White House Gender Policy Coordinator Jennifer Klein talks about the administration's plan to assist women now that abortion laws are being decided by states following the overturn of Roe v. Wade. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
@@ -138,18 +146,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
  <p class="updated_time"> 03:23 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary">Ivana Trump, first wife of Donald Trump, is dead at 73</a> NPR: Ivana Trump, the first wife of former President Donald Trump, has died at the age of 73, the Trump family confirmed in a statement. 
- <p class="updated_time"> 03:04 PM CT, Jul. 14 </p> 
- <a href="https://www.cnn.com/2022/07/13/politics/gallery/biden-middle-east-trip/index.html">Biden's trip to the Middle East</a> CNN: President Joe Biden arrived in Israel on Wednesday for the start of his four-day visit to the Middle East. 
  <p class="updated_time"> 11:01 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111383285/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities">Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities</a> NPR: The honorary lecture series is deemed the highest honor the federal government gives for intellectual achievement in the humanities. 
  <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: IRS Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
- <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape. 
- <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111388400/some-of-the-issues-that-president-biden-and-israeli-leaders-will-meet-about">Some of the issues that President Biden and Israeli leaders will meet about</a> NPR: President Biden started on a series of deals in Israel meant to show the ties between the two countries. The subject of a Palestinian-American journalist killed in the West Bank may be on the agenda. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
