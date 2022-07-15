@@ -9,20 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
+ <p class="updated_time"> 04:27 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested - reports</a> BBC: The US has been offering $20m for any information leading to Rafael Caro Quintero's capture. 
+ <p class="updated_time"> 04:20 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
+ <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy">Lofi Girl disappeared, reigniting debate on YouTube's copyright policy</a> NPR: The internet-famous Lofi Girl music stream went down last weekend. The takedown reignited concerns over copyright protections for artists. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771255/chechen-soldiers-join-ukraines-fight-against-russia">Chechen soldiers join Ukraine's fight against Russia</a> NPR: Soldiers from Chechnya, a Muslim territory, are part of the foreign fight against Russia in Ukraine. Russia brutally suppressed them in two wars, and their presence echoes old hatreds in Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 02:11 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
- <p class="updated_time"> 02:09 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62173934?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden meets crown prince amid criticism</a> BBC: The president once vowed to isolate Saudi Arabia after its agents murdered a US-based journalist. 
  <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
  <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
+ <p class="updated_time"> 12:26 PM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Confronts Saudi Crown Prince over Khashoggi Killing</a> WSJ: The president said he told Prince Mohammed bin Salman that he believed he was responsible for the journalist’s death. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
@@ -31,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
- <p class="updated_time"> 11:38 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: Trains could be disrupted and schools are closing early as temperatures could hit 40C (104F). 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
  <p class="updated_time"> 11:12 AM CT, Jul. 15 </p> 
@@ -41,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 10:30 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Meets With Saudi Crown Prince as U.S. Looks to Reset Ties With Riyadh</a> WSJ: President Biden met Saudi Crown Prince Mohammed bin Salman with a fist bump, as he aims to reset relations with a leader he once shunned and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 10:22 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62182910?at_medium=RSS&at_campaign=KARANGA">German officer who posed as Syrian refugee jailed in terror trial</a> BBC: Prosecutors say he posed as a refugee hoping immigrants would be blamed for his planned killings. 
  <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577529/brittney-griners-russian-teammates-testified-at-her-drug-trial-thursday">Brittney Griner's Russian teammates testified at her drug trial Thursday</a> NPR: Brittney Griner's defense argued her case and defended her character in a Russian court on Thursday, one week after the WNBA star pleaded guilty to drug charges. 
  <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577522/many-soldiers-in-ukraine-will-long-be-left-with-the-mental-toll-of-trench-warfar">Many soldiers in Ukraine will long be left with the mental toll of trench warfare</a> NPR: The brutal trench warfare-style fighting happening in eastern Ukraine is traumatizing soldiers. There are concerns in Ukraine about the psychological legacy it will leave behind. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
@@ -122,6 +122,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111771318/sen-joe-manchin-pulled-the-plug-on-major-spending-to-address-climate-change">Sen. Joe Manchin pulled the plug on major spending to address climate change</a> NPR: Sen. Joe Manchin, D-W.Va., dashed Democrats' hopes of major climate spending in the budget reconciliation. Here's what that means for the country's ability to bring down carbon emissions. 
+ <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/2022/07/15/1111771290/john-fettermans-back-on-the-senate-campaign-trail-the-end-of-roe-has-changed-thi">John Fetterman's back on the Senate campaign trail. The end of Roe has changed things</a> NPR: Pennsylvania's Senate race has changed on the Democratic side. John Fetterman was sidelined after a stroke, the Supreme Court overturned Roe and the Jan. 6 hearings affected voters' perceptions. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771240/why-is-steve-bannon-reversing-course-and-now-willing-to-testify-in-jan-6-hearing">Why is Steve Bannon reversing course and now willing to testify in Jan. 6 hearings?</a> NPR: NPR's Ari Shapiro speaks with Bloomberg Businessweek correspondent Joshua Green on Steve Bannon's new willingness to testify before the House select committee investigating Jan. 6. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
@@ -133,7 +137,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
  <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Manchin rejects climate and tax provisions in Democrats' spending package</a> NPR: Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
+ <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Biden urges Democrats to pass slim health care bill after Manchin nixes climate action</a> NPR: West Virginia Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
@@ -154,10 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111625169/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says">Secret Service erased Jan. 6 texts after officials requested them, watchdog says</a> NPR: The U.S. Secret Service deleted many text messages sent over two days about the Jan. 6 attack after they were requested, according to the inspector general for the Department of Homeland Security. 
  <p class="updated_time"> 04:07 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577564/some-who-think-2020s-election-was-stolen-are-going-door-to-door-to-audit-the-res">Some who think 2020's election was stolen are going door-to-door to audit the results</a> NPR: People who falsely believe the 2020 election was stolen are knocking on doors around the country to determine whether people actually voted. The effort is raising concerns about voter intimidation. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577508/the-significance-of-president-bidens-plan-to-visit-a-palestinian-hospital-tomorr">The significance of President Biden's plan to visit a Palestinian hospital tomorrow </a> NPR: At the Palestinian hospital where President Joe Biden plans to visit Friday, medical care is complicated by the unresolved Israeli-Palestinian conflict. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577501/in-jerusalem-president-biden-reassured-israel-that-hes-a-trustworthy-partner">In Jerusalem, President Biden reassured Israel that he's a trustworthy partner</a> NPR: President Biden spent the day trying to reassure Israel that his administration is invested in its security. On Friday, he faces a politically fraught face-to-face meeting with Saudi leaders. 
 
 
 </details>
