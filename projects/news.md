@@ -22,7 +22,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
  <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62047569?at_medium=RSS&at_campaign=KARANGA">She treated Myanmar's resistance and paid with her life</a> BBC: Zarli Naing's decision to help Myanmar's underground resistance cost the brave young woman her life. 
+ <a href="https://www.bbc.co.uk/news/world-asia-62047569?at_medium=RSS&at_campaign=KARANGA">She treated Myanmar's resistance and paid with her life</a> BBC: Zarli Naing's decision to help Myanmar's underground resistance cost the young nurse her life. 
  <p class="updated_time"> 07:56 PM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-made-rare-visit-to-xinjiang-11657827803">China's Xi Made Rare Visit to Xinjiang</a> WSJ: President aimed to demonstrate unity in visit to region where Beijing has been accused of genocide against Uyghur ethnic group. 
  <p class="updated_time"> 06:59 PM CT, Jul. 14 </p> 
