@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
+ <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
  <p class="updated_time"> 09:00 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: There could be a risk to life with temperatures potentially climbing as high as 40C (104F). 
  <p class="updated_time"> 08:51 AM CT, Jul. 15 </p> 
@@ -31,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
  <p class="updated_time"> 04:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
- <p class="updated_time"> 04:27 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka swears in Ranil Wickremesinghe as acting leader after mass protests</a> BBC: Ranil Wickremesinghe takes office after weeks of protests over fuel and food shortages. 
  <p class="updated_time"> 04:11 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
  <p class="updated_time"> 04:08 AM CT, Jul. 15 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukrainian politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why is it so hot (in under 60 seconds)?</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
- <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
