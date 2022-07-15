@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
  <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait">A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far</a> NPR: As it prepared for an exhibit, the National Galleries of Scotland found a previously unknown self-portrait by Vincent Van Gogh, covered by glue and cardboard, on the back of another of his paintings. 
  <p class="updated_time"> 12:27 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation">Italy's president rejects Prime Minister Mario Draghi's offer to resign</a> NPR: The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him. 
- <p class="updated_time"> 08:58 AM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
