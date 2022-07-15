@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
+ <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
+ <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62047569?at_medium=RSS&at_campaign=KARANGA">She treated Myanmar's resistance and paid with her life</a> BBC: Zarli Naing's decision to help Myanmar's underground resistance cost the brave young woman her life. 
  <p class="updated_time"> 06:59 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62149522?at_medium=RSS&at_campaign=KARANGA">Satellites give clues about the coming global harvest</a> BBC: With wheat at record high prices, importing countries hoping for increased supply may be disappointed. 
  <p class="updated_time"> 06:37 PM CT, Jul. 14 </p> 
@@ -21,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukraine politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why is it so hot (in under 60 seconds)?</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
- <p class="updated_time"> 05:38 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62172028?at_medium=RSS&at_campaign=KARANGA">Ivana Trump, Donald Trump's first wife, dies at 73</a> BBC: The former US president described his ex-wife as a "wonderful, beautiful and amazing woman". 
  <p class="updated_time"> 04:34 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62163071?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 23 killed in Russian rocket attack on Vinnytsia</a> BBC: Three children were among those killed by Russian missiles in the central city of Vinnytsia, Ukraine says. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/biden-meets-israels-leaders-with-focus-on-iran-11657794385">Biden in Israel Warns Iran on Nuclear Ambitions</a> WSJ: President Biden said that the U.S. wouldn’t “wait forever” for Iran to agree to revive the 2015 nuclear deal, and didn’t commit to raising the murder of journalist Jamal Khashoggi during a coming visit to Saudi Arabia. 
  <p class="updated_time"> 10:23 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-62163254?at_medium=RSS&at_campaign=KARANGA">Emirates refuses Heathrow's demand to cut flights</a> BBC: The airline accuses the airport of "incompetence" and of having a "blatant disregard" for customers. 
- <p class="updated_time"> 10:00 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62162676?at_medium=RSS&at_campaign=KARANGA">Swedish court convicts Iranian ex-official over 1988 executions</a> BBC: Former prison official Hamid Nouri is found guilty of war crimes and sentenced to life in prison. 
  <p class="updated_time"> 09:42 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62167606?at_medium=RSS&at_campaign=KARANGA">Girl, 14, killed in Cobra rollercoaster ride accident in Denmark</a> BBC: The accident happened when part of the ride's rear carriage broke off, the park's director said. 
  <p class="updated_time"> 08:59 AM CT, Jul. 14 </p> 
@@ -104,6 +106,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
+ <a href="https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s">Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says</a> NPR: A Secret Service spokesman disputes the Department of Homeland Security inspector general's account, saying its request came after a mobile phone migration had started, but no messages were lost. 
+ <p class="updated_time"> 08:07 PM CT, Jul. 14 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:04 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111625169/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says">Secret Service erased Jan. 6 texts after officials requested them, watchdog says</a> NPR: The U.S. Secret Service deleted many text messages sent over two days about the Jan. 6 attack after they were requested, according to the inspector general for the Department of Homeland Security. 
  <p class="updated_time"> 04:07 PM CT, Jul. 14 </p> 
@@ -122,8 +128,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia">Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia</a> NPR: President Biden said "I always bring up human rights" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders. 
  <p class="updated_time"> 04:00 AM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi">IRS head is getting questioned by lawmakers after former FBI officials were audited</a> NPR: IRS Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month. 
- <p class="updated_time"> 06:15 PM CT, Jul. 13 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:32 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio">A rape, an abortion, and a one-source story: a child's ordeal becomes national news</a> NPR: The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape. 
  <p class="updated_time"> 03:50 PM CT, Jul. 13 </p> 
@@ -136,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/13/1111341161/how-trumps-will-be-wild-tweet-drew-rioters-to-the-capitol-on-jan-6">How Trump's 'will be wild!' tweet drew rioters to the Capitol on Jan. 6</a> NPR: In the cases against the hundreds of Capitol riot defendants, attorneys repeatedly reference how Trump's tweet motivated rioters to come to Washington, D.C. — sometimes with weapons and armor in tow. 
  <p class="updated_time"> 02:16 PM CT, Jul. 13 </p> 
  <a href="https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york">Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling</a> NPR: The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country. 
- <p class="updated_time"> 12:59 PM CT, Jul. 13 </p> 
- <a href="https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip">Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting</a> NPR: The White House says Biden is trying to limit physical contact during his trip to the Middle East because of COVID risks. But it's a decision that comes conveniently ahead of an awkward meeting. 
  <p class="updated_time"> 02:14 PM CT, Jul. 12 </p> 
  <a href="https://www.cnn.com/2022/07/12/politics/trump-oval-office-meeting-december-2020/index.html">What we know about infamous Oval Office meeting held by Trump's inner circle in December 2020</a> CNN: A heated Oval Office meeting convened by then-President Donald Trump on December 18, 2020 -- in which lawyer Sidney Powell and her client, former national security adviser Michael Flynn, floated outrageous suggestions about overturning the election -- was a central focus of Tuesday's hearing held by the House select committee investigating the Capitol riot. 
 
