@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: There could be a risk to life with temperatures potentially climbing as high as 40C (104F). 
+ <p class="updated_time"> 09:40 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
- <p class="updated_time"> 09:00 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62177458?at_medium=RSS&at_campaign=KARANGA">Heatwave: National emergency declared after UK's first red extreme heat warning</a> BBC: There could be a risk to life with temperatures potentially climbing as high as 40C (104F). 
+ <p class="updated_time"> 09:18 AM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62177419?at_medium=RSS&at_campaign=KARANGA">Morocco wildfires: Toxic smoke and raging blazes</a> BBC: Scorching temperatures and drought feed fires in the north of the country. 
  <p class="updated_time"> 08:51 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
- <p class="updated_time"> 08:37 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 08:34 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175760?at_medium=RSS&at_campaign=KARANGA">French Bastille Day firework blast kills boy and sister</a> BBC: A seven-year-old boy and his elder sister were hit by a firework that blew up in a crowd in France. 
  <p class="updated_time"> 07:59 AM CT, Jul. 15 </p> 
@@ -31,14 +33,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 05:30 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
+ <p class="updated_time"> 05:27 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Departs for Saudi Arabia for Meeting With Crown Prince</a> WSJ: President Biden took a rare flight from Israel to Saudi Arabia to meet Saudi Crown Prince Mohammed bin Salman and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
  <p class="updated_time"> 04:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62175188?at_medium=RSS&at_campaign=KARANGA">Constance Wu says she tried to kill herself after tweets backlash</a> BBC: The US actress says she attempted suicide due to "internet shaming" following her "careless tweets". 
  <p class="updated_time"> 04:11 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/sri-lankas-parliamentary-speaker-accepts-presidents-resignation-11657863504">Sri Lanka President's Resignation Accepted</a> WSJ: Sri Lanka’s prime minister will oversee the election of an interim president following President Gotabaya Rajapaksa’s resignation, the country’s parliamentary speaker said. 
- <p class="updated_time"> 04:08 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Departs for Saudi Arabia for Meeting With Crown Prince</a> WSJ: President Biden took a rare flight from Israel to Saudi Arabia to meet Saudi Crown Prince Mohammed bin Salman and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 04:01 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62175291?at_medium=RSS&at_campaign=KARANGA">Man acquitted of bombing 1985 Air India flight shot dead in Canada</a> BBC: Ripudaman Singh Malik was accused of involvement in Canada's worst terror attack that killed 329. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
  <p class="updated_time"> 12:30 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403">Chinese Firms Are Selling Russia Goods Its Military Needs to Keep Fighting in Ukraine</a> WSJ: Rising exports of microchips, aluminum oxide and other dual-use items undermine the Western push to stall the Russian war effort. 
- <p class="updated_time"> 09:35 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62159610?at_medium=RSS&at_campaign=KARANGA">UN insists it is tackling sexism 'head on' amid new allegations</a> BBC: One senior official tells the BBC she was ostracised for making complaints. 
  <p class="updated_time"> 09:30 PM CT, Jul. 14 </p> 
  <a href="https://www.wsj.com/articles/china-set-to-post-the-slowest-growth-in-two-years-on-zero-covid-policy-11657808309">China's Economy Records 0.4% Growth, Weakest Since Wuhan Lockdown</a> WSJ: The Chinese economy narrowly avoided a contraction in the second quarter as Beijing’s zero-Covid approach took a toll. 
  <p class="updated_time"> 08:27 PM CT, Jul. 14 </p> 
