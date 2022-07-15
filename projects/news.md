@@ -35,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
+ <p class="updated_time"> 10:30 AM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Meets With Saudi Crown Prince as U.S. Looks to Reset Ties With Riyadh</a> WSJ: President Biden met Saudi Crown Prince Mohammed bin Salman with a fist bump, as he aims to reset relations with a leader he once shunned and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 10:22 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62182910?at_medium=RSS&at_campaign=KARANGA">German officer who posed as Syrian refugee jailed in terror trial</a> BBC: Prosecutors say he posed as a refugee hoping immigrants would be blamed for his planned killings. 
  <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 07:44 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992">Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</a> WSJ: At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country. 
- <p class="updated_time"> 06:56 AM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Meets With Saudi Crown Prince as U.S. Looks to Reset Ties With Riyadh</a> WSJ: President Biden met Saudi Crown Prince Mohammed bin Salman with a fist bump, as he aims to reset relations with a leader he once shunned and prod the kingdom to help control oil prices and deepen its ties with Israel. 
  <p class="updated_time"> 06:55 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535">Draghi Resignation Puts Italy's Leadership in Flux</a> WSJ: The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
