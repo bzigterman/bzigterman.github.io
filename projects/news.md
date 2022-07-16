@@ -89,10 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
- <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
- <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
 
 
 </details>
@@ -108,6 +104,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868423/week-in-politics-biden-in-saudi-jan-6-committee-subpoenas-secret-service-texts">Week in politics: Biden in Saudi; Jan. 6 committee subpoenas Secret Service texts</a> NPR: President Biden's middle east diplomacy, and the January 6 committee issues new subpoenas as it continues to build a case against former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
+ <p class="updated_time"> 12:31 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111857502/jan-6-panel-subpoenas-secret-service-erased-texts">What the subpoena for the Secret Service's erased texts means for the Jan. 6 probe</a> NPR: The House committee subpoenaed the Secret Service for text messages agents reportedly deleted, as the panel probes President Donald Trump's actions at the time of the deadly Capitol attack. 
  <p class="updated_time"> 07:31 PM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
@@ -134,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111658489/how-the-white-house-is-responding-to-roe-v-wade">How the White House is responding to Roe v. Wade</a> NPR: White House Gender Policy Coordinator Jennifer Klein talks about the administration's plan to assist women now that abortion laws are being decided by states following the overturn of Roe v. Wade. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111658454/texas-attorney-general-ken-paxton-sues-biden-administration-over-abortion-guidan">Texas Attorney General Ken Paxton sues Biden administration over abortion guidance</a> NPR: NPR speaks with Elizabeth Sepper, a professor at The University of Texas School of Law, about a Texas lawsuit against President Joe Biden's over emergency abortions. 
- <p class="updated_time"> 04:00 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
 
 
 </details>
