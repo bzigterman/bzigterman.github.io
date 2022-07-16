@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:38 PM CT, Jul. 15 </p> 
+ <p class="updated_time"> 10:18 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
+ <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
  <p class="updated_time"> 08:15 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62160024?at_medium=RSS&at_campaign=KARANGA">Adam Harry: India transgender pilot's long fight to fly</a> BBC: A young Indian transgender man's fight to become a pilot has hit several roadblocks, he says. 
@@ -21,14 +23,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62037314?at_medium=RSS&at_campaign=KARANGA">Nigeria's big push to grow its own coconuts</a> BBC: Most of Nigeria has the perfect climate for growing coconuts and yet it imports 70% of the popular fruit. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
+ <p class="updated_time"> 06:32 PM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the cartel boss’s extradition, Attorney General Merrick Garland said. Rafael Caro Quintero evaded authorities for nearly a decade after a Mexican appeals court freed him. 
  <p class="updated_time"> 06:12 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/health-62155509?at_medium=RSS&at_campaign=KARANGA">‘I thought being black meant I couldn’t get skin cancer’</a> BBC: One woman warns others to learn from her mistakes and use sunscreen. 
  <p class="updated_time"> 05:52 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
  <p class="updated_time"> 05:16 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102201?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Gunman's partner describes night of terror</a> BBC: Lisa Banfield, who was with the gunman for 19 years, said she was "so scared I didn't want to move". 
- <p class="updated_time"> 05:07 PM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the extradition of Rafael Caro Quintero, Attorney General Merrick Garland said. The cartel boss evaded authorities for nearly a decade after a Mexican appeals court freed him. 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 10:22 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62182910?at_medium=RSS&at_campaign=KARANGA">German officer who posed as Syrian refugee jailed in terror trial</a> BBC: Prosecutors say he posed as a refugee hoping immigrants would be blamed for his planned killings. 
  <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
