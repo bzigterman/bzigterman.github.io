@@ -886,11 +886,12 @@ record_los <- year_weather_data %>%
   select(date,Record_min)
 
 year_weather_data_longer <- year_weather_data %>%
-  pivot_longer(!date,
+  pivot_longer(!c(date,daily_precip_total,month_precip_sum),
                names_to = c("type","min_max"),
                names_sep = "_") %>%
   pivot_wider(names_from = min_max,
-              values_from = value) 
+              values_from = value) %>%
+  select(date,type, max, min)
 year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
 today_weather_data <- year_weather_data %>%
   mutate("Record high" = Record_max) %>%
