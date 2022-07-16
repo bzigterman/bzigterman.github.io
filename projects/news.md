@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111870491/drones-russia-iran-ukraine-white-house">The White House says Russian officials visited Iran to view drones for use in Ukraine</a> NPR: White House national security adviser Jake Sullivan said the administration has "information that the Iranian government is preparing to provide Russia with several hundred" drones. 
+ <p class="updated_time"> 07:18 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868479/president-biden-tackles-chinese-and-russian-relations-with-middle-eastern-leader">President Biden tackles Chinese and Russian relations with Middle Eastern leaders</a> NPR: President Biden is meeting with 9 leaders from the Middle East in Jeddah, Saudi Arabia — seeking to reassert U.S. leadership in the region, and stave off Chinese and Russian influence. 
+ <p class="updated_time"> 07:09 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868458/a-water-crisis-restricts-usage-to-6-hours-a-day-in-one-of-mexicos-largest-cities">A water crisis restricts usage to 6 hours a day in one of Mexico's largest cities</a> NPR: Scott Simon talks with Associated Press reporter Marcos Martinez Chacon about the water crisis affecting the residents of Monterrey, one of Mexico's largest cities. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
@@ -65,12 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
  <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
- <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
- <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
- <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
@@ -104,6 +104,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868500/midterm-elections-will-only-go-so-far-in-ensuring-policy-gains-for-abortion-righ">Midterm elections will only go so far in ensuring policy gains for abortion rights</a> NPR: Wisconsin's statewide races this year highlight a tough truth for Democrats about abortion rights: even if they score some hard-fought wins, actual policy gains still may not come. 
+ <p class="updated_time"> 07:18 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868479/president-biden-tackles-chinese-and-russian-relations-with-middle-eastern-leader">President Biden tackles Chinese and Russian relations with Middle Eastern leaders</a> NPR: President Biden is meeting with 9 leaders from the Middle East in Jeddah, Saudi Arabia — seeking to reassert U.S. leadership in the region, and stave off Chinese and Russian influence. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868423/week-in-politics-biden-in-saudi-jan-6-committee-subpoenas-secret-service-texts">Week in politics: Biden in Saudi; Jan. 6 committee subpoenas Secret Service texts</a> NPR: President Biden's middle east diplomacy, and the January 6 committee issues new subpoenas as it continues to build a case against former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 16 </p> 
@@ -136,10 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111658454/texas-attorney-general-ken-paxton-sues-biden-administration-over-abortion-guidan">Texas Attorney General Ken Paxton sues Biden administration over abortion guidance</a> NPR: NPR speaks with Elizabeth Sepper, a professor at The University of Texas School of Law, about a Texas lawsuit against President Joe Biden's over emergency abortions. 
  <p class="updated_time"> 04:00 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley">North Carolina's Green Party says Democrats are working to keep it off 2022 ballot</a> NPR: The North Carolina Board of Elections, which is controlled by Democrats, has — so far — refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition. 
- <p class="updated_time"> 11:43 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
- <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s">Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says</a> NPR: A Secret Service spokesman disputes the Department of Homeland Security inspector general's account, saying its request came after a mobile phone migration had started, but no messages were lost. 
 
 
 </details>
