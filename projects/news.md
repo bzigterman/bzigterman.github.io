@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:06 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russian cruise missiles hit a space rocket plant in Dnipro and the city of Nikopol is also hit. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out US strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-62186344?at_medium=RSS&at_campaign=KARANGA">China heatwave: Shanghai workers swelter in 40C heat</a> BBC: Shanghai is one of dozens of cities across the country to issue extreme weather warnings. 
  <p class="updated_time"> 05:52 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
- <p class="updated_time"> 05:16 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62102201?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Gunman's partner describes night of terror</a> BBC: Lisa Banfield, who was with the gunman for 19 years, said she was "so scared I didn't want to move". 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
@@ -63,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
- <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62182848?at_medium=RSS&at_campaign=KARANGA">No new probe into UK troops' Afghanistan killings</a> BBC: The head of the UK's armed forces says two investigations found unlawful killings "did not happen". 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
