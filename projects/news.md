@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
+ <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
  <p class="updated_time"> 06:20 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russian cruise missiles hit a space rocket plant in Dnipro and the city of Nikopol is also hit. 
  <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
@@ -16,7 +20,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">British government to hold emergency meeting ahead of expected record temperatures</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out U.S. strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
+ <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden says the U.S. 'will not walk away' from the Middle East</a> NPR: Biden's remarks, delivered at the Gulf Cooperation Council as he closes out the final leg of a four-day trip, come as the region braces for a potential confrontation with Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
@@ -79,14 +83,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
- <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 06:55 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535">Draghi Resignation Puts Italy's Leadership in Flux</a> WSJ: The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
- <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
@@ -104,6 +104,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868423/week-in-politics-biden-in-saudi-jan-6-committee-subpoenas-secret-service-texts">Week in politics: Biden in Saudi; Jan. 6 committee subpoenas Secret Service texts</a> NPR: President Biden's middle east diplomacy, and the January 6 committee issues new subpoenas as it continues to build a case against former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
  <p class="updated_time"> 07:31 PM CT, Jul. 15 </p> 
@@ -138,8 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
  <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s">Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says</a> NPR: A Secret Service spokesman disputes the Department of Homeland Security inspector general's account, saying its request came after a mobile phone migration had started, but no messages were lost. 
- <p class="updated_time"> 07:04 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111625169/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says">Secret Service erased Jan. 6 texts after officials requested them, watchdog says</a> NPR: The U.S. Secret Service deleted many text messages sent over two days about the Jan. 6 attack after they were requested, according to the inspector general for the Department of Homeland Security. 
 
 
 </details>
