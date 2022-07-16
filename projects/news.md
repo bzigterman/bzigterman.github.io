@@ -96,6 +96,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 PM CT, Jul. 16 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111894449/the-relationships-between-polarization-and-democracy-in-the-u-s">The relationships between polarization and democracy in the U.S.</a> NPR: NPR's Michel Martin speaks with Didi Kuo of Stanford University's Center on Democracy, Development and the Rule of Law about how political polarization is threatening democracy. 
  <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
@@ -108,8 +110,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
  <p class="updated_time"> 12:31 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111857502/jan-6-panel-subpoenas-secret-service-erased-texts">What the subpoena for the Secret Service's erased texts means for the Jan. 6 probe</a> NPR: The House committee subpoenaed the Secret Service for text messages agents reportedly deleted, as the panel probes President Donald Trump's actions at the time of the deadly Capitol attack. 
- <p class="updated_time"> 07:31 PM CT, Jul. 15 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
  <p class="updated_time"> 03:49 PM CT, Jul. 15 </p> 
