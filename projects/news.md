@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:17 AM CT, Jul. 16 </p> 
+ <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
+ <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
  <p class="updated_time"> 10:18 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
- <p class="updated_time"> 03:35 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577529/brittney-griners-russian-teammates-testified-at-her-drug-trial-thursday">Brittney Griner's Russian teammates testified at her drug trial Thursday</a> NPR: Brittney Griner's defense argued her case and defended her character in a Russian court on Thursday, one week after the WNBA star pleaded guilty to drug charges. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
