@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
  <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62191077?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I've spent 10 days in line for petrol'</a> BBC: Drivers in the crisis-hit nation tell of their mammoth waits amid a worsening fuel emergency. 
  <p class="updated_time"> 10:45 AM CT, Jul. 16 </p> 
