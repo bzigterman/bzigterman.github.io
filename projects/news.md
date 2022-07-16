@@ -96,6 +96,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111894449/the-relationships-between-polarization-and-democracy-in-the-u-s">The relationships between polarization and democracy in the U.S.</a> NPR: NPR's Michel Martin speaks with Didi Kuo of Stanford University's Center on Democracy, Development and the Rule of Law about how political polarization is threatening democracy. 
  <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868500/midterm-elections-will-only-go-so-far-in-ensuring-policy-gains-for-abortion-righ">Midterm elections will only go so far in ensuring policy gains for abortion rights</a> NPR: Wisconsin's statewide races this year highlight a tough truth for Democrats about abortion rights: even if they score some hard-fought wins, actual policy gains still may not come. 
  <p class="updated_time"> 07:18 AM CT, Jul. 16 </p> 
@@ -130,8 +132,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111658489/how-the-white-house-is-responding-to-roe-v-wade">How the White House is responding to Roe v. Wade</a> NPR: White House Gender Policy Coordinator Jennifer Klein talks about the administration's plan to assist women now that abortion laws are being decided by states following the overturn of Roe v. Wade. 
- <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111658454/texas-attorney-general-ken-paxton-sues-biden-administration-over-abortion-guidan">Texas Attorney General Ken Paxton sues Biden administration over abortion guidance</a> NPR: NPR speaks with Elizabeth Sepper, a professor at The University of Texas School of Law, about a Texas lawsuit against President Joe Biden's over emergency abortions. 
 
 
 </details>
