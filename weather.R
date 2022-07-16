@@ -843,10 +843,10 @@ monthly_rain <- willard_data_updated %>%
 
 today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
   filter(date == today(tzone = "America/Chicago")) %>%
-  mutate("Normal MTD Precip." = normal_monthly_precip) %>%
-  mutate("Actual MTD Precip." = month_precip_sum) %>%
-  mutate("Daily Precip." = daily_precip_total) %>%
-  select(date, "Normal MTD Precip.","Actual MTD Precip.","Daily Precip.") %>%
+  mutate("Normal MTD" = normal_monthly_precip) %>%
+  mutate("Actual MTD" = month_precip_sum) %>%
+  mutate("Daily" = daily_precip_total) %>%
+  select(date, "Normal MTD","Actual MTD","Daily") %>%
   pivot_longer(!date)
 
 current_temp <- temps_past_hour %>%
