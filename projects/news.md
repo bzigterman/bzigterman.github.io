@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62191077?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I've spent 10 days in line for petrol'</a> BBC: Drivers in the crisis-hit nation tell of their mammoth waits amid a worsening fuel emergency. 
  <p class="updated_time"> 10:45 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russia says the famous space rocket and satellite factory was used to produce parts for missiles. 
  <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111771255/chechen-soldiers-join-ukraines-fight-against-russia">Chechen soldiers join Ukraine's fight against Russia</a> NPR: Soldiers from Chechnya, a Muslim territory, are part of the foreign fight against Russia in Ukraine. Russia brutally suppressed them in two wars, and their presence echoes old hatreds in Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
- <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
  <p class="updated_time"> 10:43 AM CT, Jul. 15 </p> 
