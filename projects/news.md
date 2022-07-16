@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:34 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62188005?at_medium=RSS&at_campaign=KARANGA">US monkeypox outbreak: Demand for vaccines outstrips supply</a> BBC: The slow roll-out is a blow to chances of containing the outbreak, health experts warn. 
+ <p class="updated_time"> 07:29 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62037314?at_medium=RSS&at_campaign=KARANGA">Nigeria's big push to grow its own coconuts</a> BBC: Most of Nigeria has the perfect climate for growing coconuts and yet it imports 70% of the popular fruit. 
+ <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
+ <p class="updated_time"> 06:12 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/health-62155509?at_medium=RSS&at_campaign=KARANGA">‘I thought being black meant I couldn’t get skin cancer’</a> BBC: One woman warns others to learn from her mistakes and use sunscreen. 
  <p class="updated_time"> 05:52 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
+ <p class="updated_time"> 05:16 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62102201?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Gunman's partner describes night of terror</a> BBC: Lisa Banfield, who was with the gunman for 19 years, said she was "so scared I didn't want to move". 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
@@ -57,12 +67,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
- <p class="updated_time"> 09:18 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62177419?at_medium=RSS&at_campaign=KARANGA">Morocco wildfires: Toxic smoke and raging blazes</a> BBC: Scorching temperatures and drought feed fires in the north of the country. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
- <p class="updated_time"> 08:34 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175760?at_medium=RSS&at_campaign=KARANGA">French Bastille Day firework blast kills boy and sister</a> BBC: A seven-year-old boy and his elder sister were hit by a firework that blew up in a crowd in France. 
  <p class="updated_time"> 07:59 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Tom Hanks learned Saving Private Ryan lines from helmet on Irish beach</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
@@ -71,30 +77,18 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535">Draghi Resignation Puts Italy's Leadership in Flux</a> WSJ: The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
- <p class="updated_time"> 05:15 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62177386?at_medium=RSS&at_campaign=KARANGA">Haiti fuel terminal reopens but gang war persists</a> BBC: The terminal shut down because of battles between rival gangs and its closure caused petrol shortages. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
- <p class="updated_time"> 03:07 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62167454?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The fake ‘invasions’ of a broadcaster and Central Bank</a> BBC: After protesters breached official buildings this past week, misleading claims of other break-ins spiralled on social media. 
- <p class="updated_time"> 02:15 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62122889?at_medium=RSS&at_campaign=KARANGA">Kenya election: TikTok and disinformation</a> BBC: How TikTok is being used by supporters of various political factions in the upcoming Kenyan elections. 
  <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
  <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62047569?at_medium=RSS&at_campaign=KARANGA">She treated Myanmar's resistance and paid with her life</a> BBC: Zarli Naing's decision to help Myanmar's underground resistance cost the young nurse her life. 
- <p class="updated_time"> 06:59 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-62149522?at_medium=RSS&at_campaign=KARANGA">Satellites give clues about the coming global harvest</a> BBC: With wheat at record high prices, importing countries hoping for increased supply may be disappointed. 
  <p class="updated_time"> 06:37 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62144217?at_medium=RSS&at_campaign=KARANGA">Why Biden's Saudi trip has proved so thorny</a> BBC: On this Middle East tour, the president must walk a foreign policy tightrope. 
- <p class="updated_time"> 06:27 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62163915?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 8-14 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukrainian politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
- <p class="updated_time"> 06:08 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62166766?at_medium=RSS&at_campaign=KARANGA">Why it is so hot - in under 60 seconds</a> BBC: A heatwave is sweeping across Europe and scorching temperatures are expected in the UK next week. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
@@ -105,14 +99,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
- <p class="updated_time"> 10:20 PM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62149895?at_medium=RSS&at_campaign=KARANGA">Stop fighting in Ukraine: Russian soldier's mum speaks out</a> BBC: A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine. 
  <p class="updated_time"> 03:14 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62157659?at_medium=RSS&at_campaign=KARANGA">'We hope for the best, son' - War nears Ukraine maternity ward</a> BBC: Pokrovsk Perinatal Centre is around 40km (25 miles) from the nearest front line. 
  <p class="updated_time"> 02:39 PM CT, Jul. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62157909?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Four key moments from storming of PM's office</a> BBC: Protesters were met with tear gas and water cannon by authorities. 
- <p class="updated_time"> 05:14 AM CT, Jul. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62149999?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Inside the prime minister's office stormed by protesters</a> BBC: The BBC's Rajini Vaidyanathan is with the protesters who flooded into the PM's office in Colombo. 
 
 
 </details>
@@ -120,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:31 PM CT, Jul. 15 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
  <p class="updated_time"> 03:49 PM CT, Jul. 15 </p> 
@@ -150,8 +142,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows">Doctor told the state she performed abortion on 10-year-old girl, document shows</a> NPR: The Indiana health department's document obtained by NPR shows the physician reported the procedure to the state. 
  <p class="updated_time"> 08:14 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s">Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says</a> NPR: A Secret Service spokesman disputes the Department of Homeland Security inspector general's account, saying its request came after a mobile phone migration had started, but no messages were lost. 
- <p class="updated_time"> 08:07 PM CT, Jul. 14 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:04 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111625169/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says">Secret Service erased Jan. 6 texts after officials requested them, watchdog says</a> NPR: The U.S. Secret Service deleted many text messages sent over two days about the Jan. 6 attack after they were requested, according to the inspector general for the Department of Homeland Security. 
  <p class="updated_time"> 04:07 PM CT, Jul. 14 </p> 
