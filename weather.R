@@ -843,10 +843,10 @@ monthly_rain <- willard_data_updated %>%
 
 today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
   filter(date == today(tzone = "America/Chicago")) %>%
-  mutate("Normal MTD" = normal_monthly_precip) %>%
-  mutate("Actual MTD" = month_precip_sum) %>%
+  mutate("MTD Normal" = normal_monthly_precip) %>%
+  mutate("MTD Actual" = month_precip_sum) %>%
   mutate("Daily" = daily_precip_total) %>%
-  select(date, "Normal MTD","Actual MTD","Daily") %>%
+  select(date, "MTD Normal","MTD Actual","Daily") %>%
   pivot_longer(!date)
 
 current_temp <- temps_past_hour %>%
@@ -996,7 +996,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 marker = list(
                   radius = 1,
                   symbol = "circle"),
-                name = "Normal MTD",
+                name = "MTD Normal",
                 animation = FALSE,
                 tooltip = list(valueSuffix = "{value}″"),
                 step = "center",
@@ -1013,7 +1013,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 animation = FALSE,
                 lineWidth = 1,
                 step = "center",
-                name = "Actual MTD",
+                name = "MTD Actual",
                 tooltip = list(valueSuffix = "{value}″"),
                 color = "#b0dcf0",
                 yAxis = 1) %>%
