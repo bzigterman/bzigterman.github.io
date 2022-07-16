@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111870491/drones-russia-iran-ukraine-white-house">The White House says Russian officials visited Iran to view drones for use in Ukraine</a> NPR: White House national security adviser Jake Sullivan said the administration has "information that the Iranian government is preparing to provide Russia with several hundred" drones. 
  <p class="updated_time"> 07:18 AM CT, Jul. 16 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 02:11 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
- <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
  <p class="updated_time"> 11:40 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62180659?at_medium=RSS&at_campaign=KARANGA">Yulia Tsvetkova: Russian LGBT activist acquitted of 'porn' charges</a> BBC: Yulia Tsvetkova was facing six years in prison for her body-positive drawings of the female anatomy. 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
