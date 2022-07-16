@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out US strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
@@ -29,10 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62037314?at_medium=RSS&at_campaign=KARANGA">Nigeria's big push to grow its own coconuts</a> BBC: Most of Nigeria has the perfect climate for growing coconuts and yet it imports 70% of the popular fruit. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
+ <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
  <p class="updated_time"> 06:32 PM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the cartel boss’s extradition, Attorney General Merrick Garland said. Rafael Caro Quintero evaded authorities for nearly a decade after a Mexican appeals court freed him. 
  <p class="updated_time"> 06:12 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/health-62155509?at_medium=RSS&at_campaign=KARANGA">‘I thought being black meant I couldn’t get skin cancer’</a> BBC: One woman warns others to learn from her mistakes and use sunscreen. 
+ <p class="updated_time"> 06:10 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62186344?at_medium=RSS&at_campaign=KARANGA">China heatwave: Shanghai workers swelter in 40C heat</a> BBC: Shanghai is one of dozens of cities across the country to issue extreme weather warnings. 
  <p class="updated_time"> 05:52 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
  <p class="updated_time"> 05:16 PM CT, Jul. 15 </p> 
@@ -71,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
- <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack">A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say</a> NPR: More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
