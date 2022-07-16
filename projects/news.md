@@ -14,7 +14,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62189543?at_medium=RSS&at_campaign=KARANGA">The striking photo that will define a visit</a> BBC: A photograph of Joe Biden and Mohammed bin Salman fist-bumping has gone viral - will their meeting be remembered for more? 
  <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">British government will hold an emergency meeting ahead of expected record temps</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
+ <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">British government to hold emergency meeting ahead of expected record temperatures</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out U.S. strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
