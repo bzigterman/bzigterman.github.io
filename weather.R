@@ -759,8 +759,7 @@ normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
                            "-",date))) %>%
   mutate(normal_monthly_precip = mtd_prcp_normal) %>%
   select(date, normal_monthly_precip) %>%
-  mutate(month = month(date)) %>%
-  group_by(month)
+  mutate(month = month(date))
 df_new <- as.data.frame(lapply(normal_monthly_precip, as.character), stringsAsFactors = FALSE)
 df_newer <- head(do.call(rbind, by(df_new, normal_monthly_precip$month, rbind, "")), -1 ) %>%
   mutate(date = ymd(date)) %>%
@@ -857,8 +856,7 @@ year_weather_data <- full_join(records, normals) %>%
 
 year_precip <- year_weather_data %>%
   select(date, daily_precip_total,month_precip_sum) %>%
-  mutate(month = month(date)) %>%
-  group_by(month)
+  mutate(month = month(date))
 df_new <- as.data.frame(lapply(year_precip, as.character), stringsAsFactors = FALSE)
 df_new_precip <- head(do.call(rbind, by(df_new, year_precip$month, rbind, "")), -1 ) %>%
   mutate(date = ymd(date)) %>%
