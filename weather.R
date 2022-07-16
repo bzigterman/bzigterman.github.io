@@ -758,7 +758,15 @@ normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
   mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
                            "-",date))) %>%
   mutate(normal_monthly_precip = mtd_prcp_normal) %>%
-  select(date, normal_monthly_precip)
+  select(date, normal_monthly_precip) %>%
+  mutate(month = month(date)) %>%
+  group_by(month)
+df_new <- as.data.frame(lapply(normal_monthly_precip, as.character), stringsAsFactors = FALSE)
+df_newer <- head(do.call(rbind, by(df_new, normal_monthly_precip$month, rbind, "")), -1 ) %>%
+  mutate(date = ymd(date)) %>%
+  mutate(normal_monthly_precip = as.numeric(normal_monthly_precip)) %>%
+  select(date,normal_monthly_precip)
+
 
 
 normals <- read_csv("data/normals.csv") %>%
@@ -846,6 +854,18 @@ year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
   full_join(monthly_rain) %>%
   mutate(date = ymd(date)) 
+
+year_precip <- year_weather_data %>%
+  select(date, daily_precip_total,month_precip_sum) %>%
+  mutate(month = month(date)) %>%
+  group_by(month)
+df_new <- as.data.frame(lapply(year_precip, as.character), stringsAsFactors = FALSE)
+df_new_precip <- head(do.call(rbind, by(df_new, year_precip$month, rbind, "")), -1 ) %>%
+  mutate(date = ymd(date)) %>%
+  mutate(daily_precip_total = as.numeric(daily_precip_total)) %>%
+  mutate(month_precip_sum = as.numeric(month_precip_sum)) %>%
+  select(date,daily_precip_total,month_precip_sum)
+
 
 record_his <- year_weather_data %>%
   mutate(records = case_when(
@@ -964,7 +984,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
       symbol = "triangle-down"),
     yAxis = 0
   ) %>%
-  hc_add_series(data = normal_monthly_precip,
+  hc_add_series(data = df_newer,
                 hcaes(x = date,
                       y = normal_monthly_precip),
                 type = "area",
@@ -979,7 +999,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 fillOpacity = .1,
                 color = "#698490",
                 yAxis = 1) %>%
-  hc_add_series(data = year_weather_data,
+  hc_add_series(data = df_new_precip,
                 hcaes(x = date,
                       y = month_precip_sum),
                 type = "area",
@@ -993,7 +1013,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
                 tooltip = list(valueSuffix = "{value}″"),
                 color = "#b0dcf0",
                 yAxis = 1) %>%
-  hc_add_series(data = year_weather_data,
+  hc_add_series(data = df_new_precip,
                 hcaes(x = date,
                       y = daily_precip_total),
                 type = "column",
