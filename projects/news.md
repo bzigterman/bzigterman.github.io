@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:17 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 10:18 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
  <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
- <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
  <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
