@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
+ <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">British government will hold an emergency meeting ahead of expected record temps</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
  <p class="updated_time"> 05:06 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russian cruise missiles hit a space rocket plant in Dnipro and the city of Nikopol is also hit. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
- <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
- <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
  <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
