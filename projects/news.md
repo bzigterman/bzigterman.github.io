@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:38 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
+ <p class="updated_time"> 08:15 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62160024?at_medium=RSS&at_campaign=KARANGA">Adam Harry: India transgender pilot's long fight to fly</a> BBC: A young Indian transgender man's fight to become a pilot has hit several roadblocks, he says. 
+ <p class="updated_time"> 08:11 PM CT, Jul. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62173864?at_medium=RSS&at_campaign=KARANGA">Pacific Islands urge unity in face of China ambition</a> BBC: Climate change and the economic fallout of the pandemic are testing ties in the region. 
  <p class="updated_time"> 07:34 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62188005?at_medium=RSS&at_campaign=KARANGA">US monkeypox outbreak: Demand for vaccines outstrips supply</a> BBC: The slow roll-out is a blow to chances of containing the outbreak, health experts warn. 
  <p class="updated_time"> 07:29 PM CT, Jul. 15 </p> 
@@ -21,12 +27,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62186332?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: Biden raised Khashoggi murder with crown prince</a> BBC: The US president is attempting to rebuild ties having promised to make Saudi Arabia a "pariah". 
  <p class="updated_time"> 05:16 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62102201?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: Gunman's partner describes night of terror</a> BBC: Lisa Banfield, who was with the gunman for 19 years, said she was "so scared I didn't want to move". 
+ <p class="updated_time"> 05:07 PM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the extradition of Rafael Caro Quintero, Attorney General Merrick Garland said. The cartel boss evaded authorities for nearly a decade after a Mexican appeals court freed him. 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
- <p class="updated_time"> 04:27 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested - reports</a> BBC: The US has been offering $20m for any information leading to Rafael Caro Quintero's capture. 
+ <p class="updated_time"> 04:01 PM CT, Jul. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden, Saudi Crown Prince Meet in Bid to Reset Soured Relations</a> WSJ: The president said he confronted Prince Mohammed bin Salman about the killing of journalist Jamal Khashoggi. 
  <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy">Lofi Girl disappeared, reigniting debate on YouTube's copyright policy</a> NPR: The internet-famous Lofi Girl music stream went down last weekend. The takedown reignited concerns over copyright protections for artists. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
@@ -37,16 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111746507/france-bordeaux-europe-wildfires-heat-wave">Fires ravage French forests and other parts of Europe in the middle of a heat wave</a> NPR: Challenged by high temperatures and strong winds, 1,000 firefighters and 10 water-dumping planes struggled Friday to contain wildfires in the Bordeaux region of southwestern France. 
  <p class="updated_time"> 02:03 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation">We asked, you answered: NPR readers share how they handled COVID on vacation</a> NPR: Nearly 5,000 NPR readers told us how they dealt with COVID on a trip. Did they respect the CDC guidance to wait 10 days before flying? Or did they travel anyway? What lessons do they have to share? 
- <p class="updated_time"> 01:56 PM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-allows-commercial-flights-from-israel-over-kingdom-ahead-of-biden-visit-11657854620">Biden Confronts Saudi Crown Prince Over Khashoggi Killing</a> WSJ: The president said he told Prince Mohammed bin Salman that he believed he was responsible for the journalist’s death. 
  <p class="updated_time"> 12:57 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial">Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court</a> NPR: A lawyer for the WNBA star at her drug possession trial in Russia gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain. Medical marijuana is not legal in Russia. 
  <p class="updated_time"> 12:47 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62175758?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Thousands escape wildfires in France, Spain and Greece</a> BBC: Residents and visitors flee towns and villages in France, Spain and Greece as high winds fan fires. 
  <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
- <p class="updated_time"> 12:10 PM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: Rafael Caro Quintero helped create Mexico’s most powerful drug cartel decades ago and had been convicted of kidnapping, torturing and killing a DEA agent. 
  <p class="updated_time"> 12:00 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62182848?at_medium=RSS&at_campaign=KARANGA">No new probe into UK troops' Afghanistan killings</a> BBC: The head of the UK's armed forces says two investigations found unlawful killings "did not happen". 
  <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
@@ -69,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
- <p class="updated_time"> 07:59 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62175123?at_medium=RSS&at_campaign=KARANGA">Tom Hanks learned Saving Private Ryan lines from helmet on Irish beach</a> BBC: Tom Hanks and Steven Spielberg set up camp on an Irish beach 25 years ago. 
  <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
  <p class="updated_time"> 06:55 AM CT, Jul. 15 </p> 
@@ -81,14 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan">The naming of an interim president puts an end to a political dynasty in Sri Lanka</a> NPR: Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office. 
  <p class="updated_time"> 03:57 AM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680">Europeans Are Working Even Less, and Not by Choice</a> WSJ: Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs. 
- <p class="updated_time"> 08:24 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62173165?at_medium=RSS&at_campaign=KARANGA">Ivana Trump: Glamorous immigrant who became a US institution</a> BBC: She was a competitive skier, fashion model, socialite, hard-driving businesswoman and author. 
- <p class="updated_time"> 08:06 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62047569?at_medium=RSS&at_campaign=KARANGA">She treated Myanmar's resistance and paid with her life</a> BBC: Zarli Naing's decision to help Myanmar's underground resistance cost the young nurse her life. 
- <p class="updated_time"> 06:37 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62144217?at_medium=RSS&at_campaign=KARANGA">Why Biden's Saudi trip has proved so thorny</a> BBC: On this Middle East tour, the president must walk a foreign policy tightrope. 
- <p class="updated_time"> 06:17 PM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62022450?at_medium=RSS&at_campaign=KARANGA">Ukrainian politicians face torture in Russian detention</a> BBC: Local politicians in occupied regions of Ukraine say they were abducted, beaten and tortured. 
  <p class="updated_time"> 04:30 PM CT, Jul. 14 </p> 
  <a href="https://www.npr.org/2022/07/14/1111577595/a-look-at-a-major-part-of-chinas-aggressive-zero-covid-strategy-testing">A look at a major part of China's aggressive 'zero-COVID' strategy: Testing</a> NPR: Testing is the cornerstone of China's aggressive efforts to eradicate Covid-19, and it's become ubiquitous. People are more afraid of being carted off to quarantine than getting sick from the virus. 
  <p class="updated_time"> 03:44 PM CT, Jul. 14 </p> 
