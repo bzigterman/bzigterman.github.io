@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 09:25 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 09:24 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62181726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Four-year-old Liza killed by Russian attack on Vinnytsia</a> BBC: Liza was one of three children killed in the attack on Vinnytsia, far from the front line. 
  <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
