@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 08:35 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
- <p class="updated_time"> 10:18 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
  <p class="updated_time"> 08:15 PM CT, Jul. 15 </p> 
