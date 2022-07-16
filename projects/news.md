@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:35 AM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
@@ -31,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden says the U.S. 'will not walk away' from the Middle East</a> NPR: Biden's remarks, delivered at the Gulf Cooperation Council as he closes out the final leg of a four-day trip, come as the region braces for a potential confrontation with Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
- <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
  <p class="updated_time"> 10:18 PM CT, Jul. 15 </p> 
