@@ -14,7 +14,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:06 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russian cruise missiles hit a space rocket plant in Dnipro and the city of Nikopol is also hit. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out US strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
+ <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden meets with Middle East leaders to lay out U.S. strategy for the region</a> NPR: Biden will meet with leaders from six Arab Gulf countries, plus Egypt, Jordan and Iraq. It's the final leg of his trip meant to bolster U.S. positioning and knit the region together against Iran. 
  <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:49 AM CT, Jul. 16 </p> 
