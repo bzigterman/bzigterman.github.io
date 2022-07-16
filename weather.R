@@ -902,8 +902,7 @@ today_weather_data <- year_weather_data %>%
   mutate("Actual low"  = Actual_min) %>%
   select(date,"Record high","Record low","Normal high",
          "Normal low","Actual high","Actual low") %>%
-  filter(date == today(tzone = "America/Chicago")) %>%
-  full_join(current_temp)
+  filter(date == today(tzone = "America/Chicago"))
 today_weather_data_longer <- today_weather_data %>%
   pivot_longer(!date)
 
