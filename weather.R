@@ -849,6 +849,11 @@ today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
   select(date, "Normal MTD Precip.","Actual MTD Precip.","Daily Precip.") %>%
   pivot_longer(!date)
 
+current_temp <- temps_past_hour %>%
+  mutate(date = date(central_time)) %>%
+  mutate(Now = temp) %>%
+  select(date,Now)
+
 year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
   full_join(monthly_rain) %>%
@@ -896,7 +901,8 @@ today_weather_data <- year_weather_data %>%
   mutate("Actual low"  = Actual_min) %>%
   select(date,"Record high","Record low","Normal high",
          "Normal low","Actual high","Actual low") %>%
-  filter(date == today(tzone = "America/Chicago"))
+  filter(date == today(tzone = "America/Chicago")) %>%
+  full_join(current_temp)
 today_weather_data_longer <- today_weather_data %>%
   pivot_longer(!date)
 
@@ -1042,7 +1048,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
   hc_credits(
     enabled = TRUE,
     text = "Source: OpenWeather, MRCC, NWS",
-    href = "https://mrcc.purdue.edu") %>%
+    href = "https://bzigterman.com/interactive/champaign_weather_year.html") %>%
   hc_add_theme(
     hc_theme_bloom()
   )
@@ -1290,14 +1296,14 @@ Currently:
 
 ## Temperature History
 
+<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"600\"> 
+</iframe>
+
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
           media=\"(min-width: 750px)\">
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
-
-<iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"600\"> 
-</iframe>
 
 ## Severe Thunderstorm Outlook
 
