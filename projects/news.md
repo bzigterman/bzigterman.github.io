@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
+ <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62199184?at_medium=RSS&at_campaign=KARANGA">Several arrests at protest over dying Iranian lake</a> BBC: Once the world's second largest salt lake, farming and drought have reduced Lake Urmia to a trickle. 
  <p class="updated_time"> 08:13 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
  <p class="updated_time"> 07:28 AM CT, Jul. 17 </p> 
@@ -19,8 +23,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
  <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
- <p class="updated_time"> 06:18 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
- <p class="updated_time"> 08:11 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62173864?at_medium=RSS&at_campaign=KARANGA">Pacific Islands urge unity in face of China ambition</a> BBC: Climate change and the economic fallout of the pandemic are testing ties in the region. 
  <p class="updated_time"> 07:34 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62188005?at_medium=RSS&at_campaign=KARANGA">US monkeypox outbreak: Demand for vaccines outstrips supply</a> BBC: The slow roll-out is a blow to chances of containing the outbreak, health experts warn. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
@@ -88,6 +88,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Jul. 17 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111912948/this-library-director-resigned-after-continuous-dramatics-over-featured-books">This library director resigned after continuous dramatics over featured books</a> NPR: Ayesha Rascoe speaks with Janette McMahon about why she resigned from her position as director of a public library in Vinton, Iowa. 
  <p class="updated_time"> 07:47 AM CT, Jul. 17 </p> 
@@ -98,8 +100,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races">Democrats face hard truths on abortion rights in Wisconsin midterm races</a> NPR: Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111715068/in-all-trump-s-legal-wars-and-woes-one-lawyer-s-influence-still-holds-sway">Through all Trump's legal wars and woes, one lawyer's influence still holds sway</a> NPR: Roy Cohn always told clients to fight all charges, countersue when sued and never concede. Trump has followed his formula for half a century, and it has come to matter a great deal to the nation. 
- <p class="updated_time"> 05:00 PM CT, Jul. 16 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111894449/the-relationships-between-polarization-and-democracy-in-the-u-s">The relationships between polarization and democracy in the U.S.</a> NPR: NPR's Michel Martin speaks with Didi Kuo of Stanford University's Center on Democracy, Development and the Rule of Law about how political polarization is threatening democracy. 
  <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
