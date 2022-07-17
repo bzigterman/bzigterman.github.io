@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:07 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece aircraft crash: Footage shows cargo plane on fire before hitting ground</a> BBC: Greek officials are treating the Antonov-12 plane's cargo as potentially dangerous, reports say. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Cargo plane operated by Ukraine carrier crashes in Greece</a> NPR: A cargo plane operated by a Ukrainian airline crashed near the city of Kavala in northern Greece, as residents reported seeing a fireball and hearing explosions for two hours after the crash. 
  <p class="updated_time"> 11:56 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
- <p class="updated_time"> 07:22 PM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece aircraft crash: Footage shows cargo plane on fire before hitting ground</a> BBC: Greek officials are treating the Antonov-12 plane's cargo as potentially dangerous, reports say. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
  <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
