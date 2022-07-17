@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
+ <p class="updated_time"> 10:52 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62195043?at_medium=RSS&at_campaign=KARANGA">British rugby player found dead in Italy hotel</a> BBC: The former rugby league player is named in Italian media as the Briton found dead in Florence on Saturday. 
  <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
@@ -27,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</a> WSJ: Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
+ <p class="updated_time"> 05:18 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/weather/features/62192941?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Extreme temperatures grip region</a> BBC: BBC weather forecaster Ben Rich explains what is driving the ferocious heat across many parts of Europe. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/economic-war-of-attrition-takes-toll-on-russia-west-11658050201">Economic War of Attrition Takes Toll on Russia, West</a> WSJ: Costs are mounting on both sides of the conflict as the invasion of Ukraine, sanctions and Moscow’s tactics drive up inflation and interest rates. 
  <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
@@ -47,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
  <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62191077?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I've spent 10 days in line for petrol'</a> BBC: Drivers in the crisis-hit nation tell of their mammoth waits amid a worsening fuel emergency. 
- <p class="updated_time"> 10:45 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russia says the famous space rocket and satellite factory was used to produce parts for missiles. 
  <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
@@ -69,12 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">The U.K. gets ready for travel disruptions as temperatures may hit 104 F</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden says the U.S. 'will not walk away' from the Middle East</a> NPR: Biden's remarks, delivered at the Gulf Cooperation Council as he closes out the final leg of a four-day trip, come as the region braces for a potential confrontation with Iran. 
- <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
- <p class="updated_time"> 07:34 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62188005?at_medium=RSS&at_campaign=KARANGA">US monkeypox outbreak: Demand for vaccines outstrips supply</a> BBC: The slow roll-out is a blow to chances of containing the outbreak, health experts warn. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
