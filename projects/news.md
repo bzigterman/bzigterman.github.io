@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
  <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
+ <p class="updated_time"> 06:37 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</a> WSJ: Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
@@ -31,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
- <p class="updated_time"> 03:50 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</a> WSJ: Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
