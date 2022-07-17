@@ -571,10 +571,11 @@ fig <- hchart(wastewater_plus_cases,
                    buttons = list(
                      list(type = 'month', count = 1, text = '1m'),
                      list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
                      #list(type = 'year', count = 1, text = '1y'),
                      #list(type = 'year', count = 2, text = '2y'),
                      list(type = 'all', text = 'All')),
-                   selected = 1)
+                   selected = 3)
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_wastewater.html",
