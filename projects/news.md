@@ -41,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
@@ -90,6 +92,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111923413/cherokee-tribe-rename-smoky-mountains-national-park-clingmans-dome">Cherokee tribe supports renaming Clingmans Dome in Smoky Mountains National Park</a> NPR: The Cherokee Indians referred to the mountain as Kuwahi for hundreds of years, long before it was dubbed Clingmans Dome in 1859. 
  <p class="updated_time"> 09:33 AM CT, Jul. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:04 AM CT, Jul. 17 </p> 
@@ -122,8 +126,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111771290/john-fettermans-back-on-the-senate-campaign-trail-the-end-of-roe-has-changed-thi">John Fetterman's back on the Senate campaign trail. The end of Roe has changed things</a> NPR: Pennsylvania's Senate race has changed on the Democratic side. John Fetterman was sidelined after a stroke, the Supreme Court overturned Roe and the Jan. 6 hearings affected voters' perceptions. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771240/why-is-steve-bannon-reversing-course-and-now-willing-to-testify-in-jan-6-hearing">Why is Steve Bannon reversing course and now willing to testify in Jan. 6 hearings?</a> NPR: NPR's Ari Shapiro speaks with Bloomberg Businessweek correspondent Joshua Green on Steve Bannon's new willingness to testify before the House select committee investigating Jan. 6. 
- <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
 
