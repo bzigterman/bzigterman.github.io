@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:42 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Authorities have been heavily criticised for how they handled the attack that killed 19 children. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
  <p class="updated_time"> 10:52 AM CT, Jul. 17 </p> 
