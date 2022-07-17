@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62158670?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: 'My brother's certain he won't come out of Egypt prison alive'</a> BBC: British-Egyptian activist Alaa Abdel Fattah has been on hunger strike in an Egyptian jail for more than 100 days. 
  <p class="updated_time"> 05:55 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
