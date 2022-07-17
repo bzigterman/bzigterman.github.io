@@ -19,6 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
  <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
+ <p class="updated_time"> 06:18 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
- <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
 
