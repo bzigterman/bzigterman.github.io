@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:07 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece aircraft crash: Footage shows cargo plane on fire before hitting ground</a> BBC: Greek officials are treating the Antonov-12 plane's cargo as potentially dangerous, reports say. 
+ <p class="updated_time"> 03:29 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Cargo plane operated by Ukraine carrier crashes in Greece</a> NPR: A cargo plane operated by a Ukrainian airline crashed near the city of Kavala in northern Greece, as residents reported seeing a fireball and hearing explosions for two hours after the crash. 
  <p class="updated_time"> 11:56 PM CT, Jul. 16 </p> 
