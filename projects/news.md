@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:13 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
+ <p class="updated_time"> 07:28 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62196765?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man extradited to Malawi over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111912899/india-just-unveiled-a-giant-statue-of-its-national-emblem-some-think-its-too-muc">India just unveiled a giant statue of its national emblem. Some think it's too much</a> NPR: Too large? Too aggressive? The lions in a new, giant bronze sculpture of India's national emblem are prompting both praise and criticism. The statue was unveiled this week in New Delhi. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
@@ -21,8 +25,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
- <p class="updated_time"> 03:29 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
+ <p class="updated_time"> 03:50 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</a> WSJ: Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 12:30 AM CT, Jul. 17 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russia says the famous space rocket and satellite factory was used to produce parts for missiles. 
  <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
- <p class="updated_time"> 08:24 AM CT, Jul. 16 </p> 
- <a href="https://www.wsj.com/articles/biden-rebuilds-ties-with-saudi-visit-but-lacks-commitment-on-oil-production-11657992248">Biden Places Bet on 'Long Game' in Bid to Reset Relations With Saudi Arabia</a> WSJ: Saudi officials tempered expectations after the high-profile summit between the crown prince and U.S. president in Jeddah, Saudi Arabia. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
@@ -59,18 +61,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
  <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62189543?at_medium=RSS&at_campaign=KARANGA">The striking photo that will define a visit</a> BBC: A photograph of Joe Biden and Mohammed bin Salman fist-bumping has gone viral - will their meeting be remembered for more? 
- <p class="updated_time"> 05:59 AM CT, Jul. 16 </p> 
- <a href="https://www.wsj.com/articles/sri-lanka-economy-to-contract-by-more-than-6-in-2022-central-bank-governor-says-11657978849">Sri Lanka Economy to Contract by More Than 6% in 2022, Central-Bank Governor Says</a> WSJ: Nandalal Weerasinghe urged the government to resolve ongoing political instability as key discussions on financial relief with the IMF and bilateral creditors are stalling. 
  <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">The U.K. gets ready for travel disruptions as temperatures may hit 104 F</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
  <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden says the U.S. 'will not walk away' from the Middle East</a> NPR: Biden's remarks, delivered at the Gulf Cooperation Council as he closes out the final leg of a four-day trip, come as the region braces for a potential confrontation with Iran. 
- <p class="updated_time"> 03:28 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62176758?at_medium=RSS&at_campaign=KARANGA">Sri Lanka seeks way forward after president quits</a> BBC: The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters. 
  <p class="updated_time"> 02:41 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111861228/sri-lanka-begins-to-choose-a-leader-to-replace-the-ex-president">Sri Lanka begins to choose a leader to replace the ex-president</a> NPR: Sri Lankan lawmakers met Saturday to begin choosing a new leader to serve the rest of the term abandoned by the president who fled and resigned after mass protests over the country's economic crisis. 
- <p class="updated_time"> 12:30 AM CT, Jul. 16 </p> 
- <a href="https://www.wsj.com/articles/to-escape-the-war-in-ukraine-first-they-had-to-cross-russia-11657963805">To Escape the War in Ukraine, First They Had to Cross Russia</a> WSJ: A Ukrainian family fleeing the war are part of a growing exodus from the country’s east, whose only escape route from the conflict is through Russia. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
  <p class="updated_time"> 08:11 PM CT, Jul. 15 </p> 
@@ -85,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
- <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
 
 
 </details>
@@ -94,6 +88,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:04 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111912948/this-library-director-resigned-after-continuous-dramatics-over-featured-books">This library director resigned after continuous dramatics over featured books</a> NPR: Ayesha Rascoe speaks with Janette McMahon about why she resigned from her position as director of a public library in Vinton, Iowa. 
+ <p class="updated_time"> 07:47 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111912920/politics-chat-the-ghost-of-the-build-back-better-bill-dems-likely-to-lose-seats">Politics chat: The ghost of the Build Back Better Bill; Dems likely to lose seats</a> NPR: Democrats in Congress will try to pass a few modest health care measures now that one of the party's own members has rejected climate spending. Also, the latest on midterm elections. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111912906/religious-groups-came-together-in-oregon-to-get-gun-control-on-the-next-ballot">Religious groups came together in Oregon to get gun control on the next ballot</a> NPR: An interfaith group in Oregon has been working for years advocating for gun control in that state. Recent shootings have galvanized support among voters for their latest efforts. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
@@ -124,10 +122,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111771240/why-is-steve-bannon-reversing-course-and-now-willing-to-testify-in-jan-6-hearing">Why is Steve Bannon reversing course and now willing to testify in Jan. 6 hearings?</a> NPR: NPR's Ari Shapiro speaks with Bloomberg Businessweek correspondent Joshua Green on Steve Bannon's new willingness to testify before the House select committee investigating Jan. 6. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
- <p class="updated_time"> 12:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah">Biden avoids a handshake with Saudi crown prince, but fist bump doesn't go over well</a> NPR: Sidestepping the bad optics of a handshake with the crown prince deemed to have approved the operation that led to the death of Jamal Khashoggi, President Biden opted for a fist bump. 
- <p class="updated_time"> 11:54 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
 
