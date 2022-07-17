@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Cargo plane operated by Ukraine carrier crashes in Greece</a> NPR: A cargo plane operated by a Ukrainian airline crashed near the city of Kavala in northern Greece, as residents reported seeing a fireball and hearing explosions for two hours after the crash. 
  <p class="updated_time"> 11:56 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 07:22 PM CT, Jul. 16 </p> 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy">Lofi Girl disappeared, reigniting debate on YouTube's copyright policy</a> NPR: The internet-famous Lofi Girl music stream went down last weekend. The takedown reignited concerns over copyright protections for artists. 
  <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771255/chechen-soldiers-join-ukraines-fight-against-russia">Chechen soldiers join Ukraine's fight against Russia</a> NPR: Soldiers from Chechnya, a Muslim territory, are part of the foreign fight against Russia in Ukraine. Russia brutally suppressed them in two wars, and their presence echoes old hatreds in Ukraine. 
- <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
