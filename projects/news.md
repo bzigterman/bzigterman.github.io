@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
  <p class="updated_time"> 03:29 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
@@ -81,10 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
  <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy">Lofi Girl disappeared, reigniting debate on YouTube's copyright policy</a> NPR: The internet-famous Lofi Girl music stream went down last weekend. The takedown reignited concerns over copyright protections for artists. 
- <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111771255/chechen-soldiers-join-ukraines-fight-against-russia">Chechen soldiers join Ukraine's fight against Russia</a> NPR: Soldiers from Chechnya, a Muslim territory, are part of the foreign fight against Russia in Ukraine. Russia brutally suppressed them in two wars, and their presence echoes old hatreds in Ukraine. 
- <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
@@ -98,6 +98,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races">Democrats face hard truths on abortion rights in Wisconsin midterm races</a> NPR: Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111715068/in-all-trump-s-legal-wars-and-woes-one-lawyer-s-influence-still-holds-sway">Through all Trump's legal wars and woes, one lawyer's influence still holds sway</a> NPR: Roy Cohn always told clients to fight all charges, countersue when sued and never concede. Trump has followed his formula for half a century, and it has come to matter a great deal to the nation. 
  <p class="updated_time"> 05:00 PM CT, Jul. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
@@ -130,10 +134,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
  <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Biden urges Democrats to pass slim health care bill after Manchin nixes climate action</a> NPR: West Virginia Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
- <p class="updated_time"> 07:48 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111656472/biden-saudi-arabia-middle-east-visit-trip-israel-palestinians">Biden says the U.S. will work to improve Palestinians' lives</a> NPR: President Biden says that he's committed to the two-state solution for Israel and an independent Palestinian state. But with that goal out of reach, he said, the U.S. will look to help Palestinians. 
- <p class="updated_time"> 04:03 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111658489/how-the-white-house-is-responding-to-roe-v-wade">How the White House is responding to Roe v. Wade</a> NPR: White House Gender Policy Coordinator Jennifer Klein talks about the administration's plan to assist women now that abortion laws are being decided by states following the overturn of Roe v. Wade. 
 
 
 </details>
