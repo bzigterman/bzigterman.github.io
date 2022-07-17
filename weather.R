@@ -146,6 +146,25 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
                                      sep = "")), tz = "America/Chicago")
 
 
+
+# isws scraping ----
+download_month <- function(month_number,year_number) {
+  url <- paste0("https://www.isws.illinois.edu/statecli/urbana/urbana-monthly-",year_number,"_files/sheet0",
+                month_number,".htm")
+  isws_html <- read_html(url)%>%
+    html_table()
+  data <- isws_html[[1]] %>%
+    tail(-8) %>%
+    row_to_names(row_number = 1) %>%
+    clean_names() %>%
+    mutate(day = as.numeric(day)) %>%
+    filter(!is.na(day)) %>%
+    mutate(precip_one_hour = as.numeric(precipitation)) %>%
+    mutate(date = ymd(paste0(year_number,"-",month_number,"-",day))) %>%
+    select(date,precip_one_hour) %>%
+    replace(is.na(.), 0)
+}
+isws <- read_csv(file = "data/isws_precip.csv") 
 # nws api ----
 ## forecast ----
 url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
@@ -210,7 +229,9 @@ write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
 
 willard_data_updated <- willard_data_update %>%
-  replace(is.na(.), 0) 
+  replace(is.na(.), 0) %>%
+  full_join(isws) %>%
+  arrange(date)
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
@@ -794,7 +815,6 @@ temps_past_eleven_months <- temps_past_year %>%
   mutate(period = "Past 11 Months") %>%
   select(temp, period, central_time)
 
-
 daily_maxs <- temps_past_eleven_months %>%
   mutate(date = date(central_time)) %>%
   mutate(month = month(date)) %>%
@@ -821,9 +841,11 @@ daily_mins <- temps_past_eleven_months %>%
 
 dailies <- full_join(daily_maxs,daily_mins)
 
+eleven_months_ago <- ceiling_date(now(tzone = "America/Chicago")-weeks(48),"month")
+
 monthly_rain <- willard_data_updated %>%
   select(date, precip_one_hour) %>%
-  filter(date > now(tzone = "America/Chicago")-weeks(48)) %>%
+  filter(date > eleven_months_ago) %>%
   mutate(year = year(date)) %>%
   mutate(month = month(date)) %>%
   mutate(day = day(date)) %>%
