@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111933482/the-ukraine-war-means-a-potato-chip-company-has-to-rethink-its-formula">The Ukraine war means a potato chip company has to rethink its formula</a> NPR: Sarah Cohen, CEO of Route 11 Potato Chips, speaks with NPR's Michel Martin about the company's sunflower seed oil deficit because of the Russian conflict in Ukraine and how the business is coping. 
+ <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111933475/the-russian-invasion-of-ukraine-has-brought-up-an-old-question">The Russian invasion of Ukraine has brought up an old question</a> NPR: Is aggressive war legal? Calls are growing now to set up an international tribunal to charge Russia with the same crime. 
  <p class="updated_time"> 02:42 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Authorities have been heavily criticised for how they handled the attack that killed 19 children. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
@@ -73,10 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
  <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62189543?at_medium=RSS&at_campaign=KARANGA">The striking photo that will define a visit</a> BBC: A photograph of Joe Biden and Mohammed bin Salman fist-bumping has gone viral - will their meeting be remembered for more? 
- <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111866383/british-government-emergency-meeting-forecast-record-temperatures">The U.K. gets ready for travel disruptions as temperatures may hit 104 F</a> NPR: Authorities issued their first ever "red" warning for extreme heat early next week. The alert covers large parts of England on Monday and Tuesday when temperatures may reach 104 F for the first time. 
- <p class="updated_time"> 04:03 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111863983/biden-meets-gulf-leaders-strategy">Biden says the U.S. 'will not walk away' from the Middle East</a> NPR: Biden's remarks, delivered at the Gulf Cooperation Council as he closes out the final leg of a four-day trip, come as the region braces for a potential confrontation with Iran. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
