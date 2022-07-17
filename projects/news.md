@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece aircraft crash: Footage shows cargo plane on fire before hitting ground</a> BBC: Greek officials are treating the Antonov-12 plane's cargo as potentially dangerous, reports say. 
+ <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
+ <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62151553?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Priest detained for criticising Putin</a> BBC: Father Ioann has been held under new laws for criticising the war. 
+ <p class="updated_time"> 06:23 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61982532?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: The beauty queen who risked her life to reach the UK</a> BBC: Selamawit Teklay fled conflict in Ethiopia, but advises others not to risk crossing the English Channel. 
+ <p class="updated_time"> 06:22 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62179136?at_medium=RSS&at_campaign=KARANGA">Ukraine War: The Donbas body collector who has lost count</a> BBC: For those on the front line of Russia's war in Ukraine, the personal toll is unbearable. 
  <p class="updated_time"> 06:00 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
  <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
@@ -17,8 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russia says the famous space rocket and satellite factory was used to produce parts for missiles. 
  <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
+ <p class="updated_time"> 09:24 AM CT, Jul. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-denounces-russian-strikes-across-country-11657967469">Ukraine's Zelensky Denounces Russian Strikes Across Country</a> WSJ: President Zelensky called for a heightened state of alert after three days of Russian missile strikes across Ukraine left at least 34 people dead. 
  <p class="updated_time"> 08:35 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
+ <p class="updated_time"> 08:24 AM CT, Jul. 16 </p> 
+ <a href="https://www.wsj.com/articles/biden-rebuilds-ties-with-saudi-visit-but-lacks-commitment-on-oil-production-11657992248">Biden Places Bet on 'Long Game' in Bid to Reset Relations With Saudi Arabia</a> WSJ: Saudi officials tempered expectations after the high-profile summit between the crown prince and U.S. president in Jeddah, Saudi Arabia. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
@@ -49,24 +63,16 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/to-escape-the-war-in-ukraine-first-they-had-to-cross-russia-11657963805">To Escape the War in Ukraine, First They Had to Cross Russia</a> WSJ: A Ukrainian family fleeing the war are part of a growing exodus from the country’s east, whose only escape route from the conflict is through Russia. 
  <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
- <p class="updated_time"> 08:15 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62160024?at_medium=RSS&at_campaign=KARANGA">Adam Harry: India transgender pilot's long fight to fly</a> BBC: A young Indian transgender man's fight to become a pilot has hit several roadblocks, he says. 
  <p class="updated_time"> 08:11 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62173864?at_medium=RSS&at_campaign=KARANGA">Pacific Islands urge unity in face of China ambition</a> BBC: Climate change and the economic fallout of the pandemic are testing ties in the region. 
  <p class="updated_time"> 07:34 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62188005?at_medium=RSS&at_campaign=KARANGA">US monkeypox outbreak: Demand for vaccines outstrips supply</a> BBC: The slow roll-out is a blow to chances of containing the outbreak, health experts warn. 
- <p class="updated_time"> 07:29 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62037314?at_medium=RSS&at_campaign=KARANGA">Nigeria's big push to grow its own coconuts</a> BBC: Most of Nigeria has the perfect climate for growing coconuts and yet it imports 70% of the popular fruit. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
  <p class="updated_time"> 06:32 PM CT, Jul. 15 </p> 
  <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the cartel boss’s extradition, Attorney General Merrick Garland said. Rafael Caro Quintero evaded authorities for nearly a decade after a Mexican appeals court freed him. 
- <p class="updated_time"> 06:12 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/health-62155509?at_medium=RSS&at_campaign=KARANGA">‘I thought being black meant I couldn’t get skin cancer’</a> BBC: One woman warns others to learn from her mistakes and use sunscreen. 
- <p class="updated_time"> 06:10 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62186344?at_medium=RSS&at_campaign=KARANGA">China heatwave: Shanghai workers swelter in 40C heat</a> BBC: Shanghai is one of dozens of cities across the country to issue extreme weather warnings. 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
@@ -79,12 +85,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 11:37 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62184202?at_medium=RSS&at_campaign=KARANGA">Jayland Walker: Autopsy shows black man 'shot or grazed' 46 times</a> BBC: Officials in the city of Akron are bracing for more protests amid calls for a federal investigation. 
- <p class="updated_time"> 10:43 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-62180259?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Students forced to flee Portugal wildfire</a> BBC: The Oxford graduates say the wildfire was following cars as they fled their villa in Portugal. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
- <p class="updated_time"> 08:48 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62178566?at_medium=RSS&at_campaign=KARANGA">Biden offers Palestinians warm words but deep rift remains</a> BBC: The US president brings words of support to the West Bank, but scant sign of political progress. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
