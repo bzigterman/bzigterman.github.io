@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111912899/india-just-unveiled-a-giant-statue-of-its-national-emblem-some-think-its-too-muc">India just unveiled a giant statue of its national emblem. Some think it's too much</a> NPR: Too large? Too aggressive? The lions in a new, giant bronze sculpture of India's national emblem are prompting both praise and criticism. The statue was unveiled this week in New Delhi. 
+ <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
+ <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
- <p class="updated_time"> 05:03 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62189844?at_medium=RSS&at_campaign=KARANGA">Missile strike on Ukraine space plant in Dnipro kills three</a> BBC: Russia says the famous space rocket and satellite factory was used to produce parts for missiles. 
  <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
- <p class="updated_time"> 09:24 AM CT, Jul. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-denounces-russian-strikes-across-country-11657967469">Ukraine's Zelensky Denounces Russian Strikes Across Country</a> WSJ: President Zelensky called for a heightened state of alert after three days of Russian missile strikes across Ukraine left at least 34 people dead. 
  <p class="updated_time"> 08:24 AM CT, Jul. 16 </p> 
  <a href="https://www.wsj.com/articles/biden-rebuilds-ties-with-saudi-visit-but-lacks-commitment-on-oil-production-11657992248">Biden Places Bet on 'Long Game' in Bid to Reset Relations With Saudi Arabia</a> WSJ: Saudi officials tempered expectations after the high-profile summit between the crown prince and U.S. president in Jeddah, Saudi Arabia. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
  <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62189543?at_medium=RSS&at_campaign=KARANGA">The striking photo that will define a visit</a> BBC: A photograph of Joe Biden and Mohammed bin Salman fist-bumping has gone viral - will their meeting be remembered for more? 
- <p class="updated_time"> 06:12 AM CT, Jul. 16 </p> 
- <a href="https://www.wsj.com/articles/biden-to-define-u-s-middle-east-vision-heavy-on-diplomacy-11657959946">Biden Lays Out a U.S. Middle East Vision Heavy on Diplomacy</a> WSJ: President Biden laid out his vision for the U.S. role in the Middle East, pledging to stay engaged in the region and strengthen relationships with Arab nations to counter the influence of China, Russia and Iran. 
  <p class="updated_time"> 05:59 AM CT, Jul. 16 </p> 
  <a href="https://www.wsj.com/articles/sri-lanka-economy-to-contract-by-more-than-6-in-2022-central-bank-governor-says-11657978849">Sri Lanka Economy to Contract by More Than 6% in 2022, Central-Bank Governor Says</a> WSJ: Nandalal Weerasinghe urged the government to resolve ongoing political instability as key discussions on financial relief with the IMF and bilateral creditors are stalling. 
  <p class="updated_time"> 05:36 AM CT, Jul. 16 </p> 
@@ -81,10 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
- <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
- <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
@@ -98,6 +94,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111912906/religious-groups-came-together-in-oregon-to-get-gun-control-on-the-next-ballot">Religious groups came together in Oregon to get gun control on the next ballot</a> NPR: An interfaith group in Oregon has been working for years advocating for gun control in that state. Recent shootings have galvanized support among voters for their latest efforts. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races">Democrats face hard truths on abortion rights in Wisconsin midterm races</a> NPR: Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
@@ -132,8 +130,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/15/1111704157/biden-handshake-mbs-israeli-singer">Will he or won't he? Watchful eyes are on Biden's handshakes on his Middle East trip</a> NPR: On Friday, the president shared a fist-bump with Saudi Crown Prince Mohammad bin Salman. One day earlier, an Israeli singer declined President Biden's hand. 
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
- <p class="updated_time"> 08:18 AM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package">Biden urges Democrats to pass slim health care bill after Manchin nixes climate action</a> NPR: West Virginia Sen. Joe Manchin's vote is key in the evenly divided Senate, and he already rejected President Biden's larger spending package in December. 
 
 
 </details>
