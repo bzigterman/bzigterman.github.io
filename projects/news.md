@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Officers showed a lack of leadership and urgency in their response to the shooting, a report finds. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111933482/the-ukraine-war-means-a-potato-chip-company-has-to-rethink-its-formula">The Ukraine war means a potato chip company has to rethink its formula</a> NPR: Sarah Cohen, CEO of Route 11 Potato Chips, speaks with NPR's Michel Martin about the company's sunflower seed oil deficit because of the Russian conflict in Ukraine and how the business is coping. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111933475/the-russian-invasion-of-ukraine-has-brought-up-an-old-question">The Russian invasion of Ukraine has brought up an old question</a> NPR: Is aggressive war legal? Calls are growing now to set up an international tribunal to charge Russia with the same crime. 
- <p class="updated_time"> 02:42 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Authorities have been heavily criticised for how they handled the attack that killed 19 children. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
  <p class="updated_time"> 10:52 AM CT, Jul. 17 </p> 
@@ -47,6 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
+ <p class="updated_time"> 02:02 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/putin-seeks-to-cement-ties-with-iran-turkey-in-rare-trip-abroad-11658055769">Putin Seeks to Cement Ties With Iran, Turkey in Rare Trip Abroad</a> WSJ: The Russian president’s trip comes just days after President Biden’s own tour of the Middle East, where he sought to rally Israel and Arab countries to counter Russia, China and Iran. 
+ <p class="updated_time"> 02:00 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/eu-shipowners-race-to-move-russian-oil-before-sanctions-kick-in-11658055600">EU Shipowners Race to Move Russian Oil Before Sanctions Kick In</a> WSJ: The looming European Union sanctions on Russian oil have raised fears among processors and shippers of being blacklisted for handling the fuel. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
