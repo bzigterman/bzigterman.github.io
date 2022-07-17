@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:55 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Officers showed a lack of leadership and urgency in their response to the shooting, a report finds. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
@@ -17,6 +19,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111933475/the-russian-invasion-of-ukraine-has-brought-up-an-old-question">The Russian invasion of Ukraine has brought up an old question</a> NPR: Is aggressive war legal? Calls are growing now to set up an international tribunal to charge Russia with the same crime. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
+ <p class="updated_time"> 01:41 PM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Zelensky Removes Ukraine's General Prosecutor, Head of Secret Service</a> WSJ: Dismissals come amid allegations that employees in the two offices were collaborating with Russia. 
  <p class="updated_time"> 10:52 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62195043?at_medium=RSS&at_campaign=KARANGA">British rugby player found dead in Italy hotel</a> BBC: The former rugby league player is named in Italian media as the Briton found dead in Florence on Saturday. 
  <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
@@ -33,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
  <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
- <p class="updated_time"> 06:37 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</a> WSJ: Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 05:18 AM CT, Jul. 17 </p> 
@@ -47,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
+ <p class="updated_time"> 03:39 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588">Afghan Economy Crumbles Since Taliban Takeover</a> WSJ: Businesses are struggling to import supplies or find customers who can pay amid crushing inflation and banking dysfunction, as the isolated government has driven away both foreign aid and investors. 
  <p class="updated_time"> 02:02 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/putin-seeks-to-cement-ties-with-iran-turkey-in-rare-trip-abroad-11658055769">Putin Seeks to Cement Ties With Iran, Turkey in Rare Trip Abroad</a> WSJ: The Russian president’s trip comes just days after President Biden’s own tour of the Middle East, where he sought to rally Israel and Arab countries to counter Russia, China and Iran. 
  <p class="updated_time"> 02:00 AM CT, Jul. 17 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
  <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62191077?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I've spent 10 days in line for petrol'</a> BBC: Drivers in the crisis-hit nation tell of their mammoth waits amid a worsening fuel emergency. 
- <p class="updated_time"> 09:58 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
  <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
- <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
 
