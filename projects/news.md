@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:56 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 07:22 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece aircraft crash: Footage shows cargo plane on fire before hitting ground</a> BBC: Greek officials are treating the Antonov-12 plane's cargo as potentially dangerous, reports say. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
@@ -29,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62187717?at_medium=RSS&at_campaign=KARANGA">Haiti gang violence: UN votes to ban small arms sales</a> BBC: A security council resolution also imposes sanctions against gang leaders. 
  <p class="updated_time"> 09:24 AM CT, Jul. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-denounces-russian-strikes-across-country-11657967469">Ukraine's Zelensky Denounces Russian Strikes Across Country</a> WSJ: President Zelensky called for a heightened state of alert after three days of Russian missile strikes across Ukraine left at least 34 people dead. 
- <p class="updated_time"> 08:35 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62189272?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Deadly wildfires spread in Mediterranean</a> BBC: A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol. 
  <p class="updated_time"> 08:24 AM CT, Jul. 16 </p> 
  <a href="https://www.wsj.com/articles/biden-rebuilds-ties-with-saudi-visit-but-lacks-commitment-on-oil-production-11657992248">Biden Places Bet on 'Long Game' in Bid to Reset Relations With Saudi Arabia</a> WSJ: Saudi officials tempered expectations after the high-profile summit between the crown prince and U.S. president in Jeddah, Saudi Arabia. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
