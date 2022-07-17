@@ -928,6 +928,7 @@ today_weather_data <- year_weather_data %>%
 today_weather_data_longer <- today_weather_data %>%
   pivot_longer(!date)
 
+## weather year plot ----
 fig <- hchart(year_weather_data_longer, "arearange", 
               hcaes(x = date,
                     low = round(min),
