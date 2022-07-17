@@ -18,7 +18,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:29 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
- <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Cargo plane operated by Ukraine carrier crashes in Greece</a> NPR: A cargo plane operated by a Ukrainian airline crashed near the city of Kavala in northern Greece, as residents reported seeing a fireball and hearing explosions for two hours after the crash. 
+ <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
  <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
