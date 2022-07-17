@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
+ <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 05:03 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
@@ -19,6 +21,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
+ <p class="updated_time"> 12:30 AM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/economic-war-of-attrition-takes-toll-on-russia-west-11658050201">Economic War of Attrition Takes Toll on Russia, West</a> WSJ: Costs are mounting on both sides of the conflict as the invasion of Ukraine, sanctions and Moscow’s tactics drive up inflation and interest rates. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
  <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
@@ -77,14 +81,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 07:09 PM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62187716?at_medium=RSS&at_campaign=KARANGA">Ivana Trump died of blunt impact injuries to torso - NYC medical examiner</a> BBC: The death of Donald Trump's first wife is ruled accidental amid reports that she fell down stairs. 
- <p class="updated_time"> 06:32 PM CT, Jul. 15 </p> 
- <a href="https://www.wsj.com/articles/mexico-captures-drug-lord-rafael-caro-quintero-convicted-in-killing-of-dea-agent-11657919154">Mexico's Navy Captures Drug Lord Convicted in Killing of DEA Agent</a> WSJ: The U.S. plans to seek the cartel boss’s extradition, Attorney General Merrick Garland said. Rafael Caro Quintero evaded authorities for nearly a decade after a Mexican appeals court freed him. 
  <p class="updated_time"> 04:33 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/2022/07/15/1111801532/mexico-captures-drug-lord-rafael-caro-quintero">Mexico captures an infamous drug lord who killed a DEA agent</a> NPR: Rafael Caro Quintero has been captured by Mexican forces nearly a decade after walking out of a prison and returning to drug trafficking, an official confirmed. 
  <p class="updated_time"> 04:28 PM CT, Jul. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/07/15/1111762813/global-vaccination-coverage-continued-to-plunge-in-2021-according-to-a-new-repor">Global vaccination coverage continued to plunge in 2021, according to a new report</a> NPR: A report from WHO and UNICEF states that last year, 25 million children missed out on one or more "lifesaving vaccines" — for diseases like tuberculosis, diphtheria, tetanus, polio and yellow fever. 
- <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy">Lofi Girl disappeared, reigniting debate on YouTube's copyright policy</a> NPR: The internet-famous Lofi Girl music stream went down last weekend. The takedown reignited concerns over copyright protections for artists. 
  <p class="updated_time"> 10:33 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62178505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: British man Paul Urey held by separatists dies</a> BBC: British man Paul Urey, captured by Russian-backed separatists, has died in detention, reports say. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
