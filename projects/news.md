@@ -91,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
  <p class="updated_time"> 08:08 AM CT, Jul. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-62167134?at_medium=RSS&at_campaign=KARANGA">Trapped baby elephant and mum rescued in Thailand</a> BBC: The elephant and her calf fell into a deep pit in a national park in Thailand. 
- <p class="updated_time"> 02:58 AM CT, Jul. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62147761?at_medium=RSS&at_campaign=KARANGA">New exhibition explores African fantasy and race through art</a> BBC: In the Black Fantastic is a new exhibition bringing together black artists whose works explore fantasy and race. 
 
 
 </details>
