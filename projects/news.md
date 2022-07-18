@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
- <p class="updated_time"> 11:35 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
