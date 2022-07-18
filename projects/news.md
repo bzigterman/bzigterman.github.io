@@ -9,32 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach a record levels in areas of the southwest as a heatwave engulfs much of Europe. 
+ <p class="updated_time"> 07:03 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan stuns rivals with Punjab by-election upset</a> BBC: The ousted former PM calls for early elections after his party wins a stunning victory. 
+ <p class="updated_time"> 06:50 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Shelling kills six in eastern town</a> BBC: The attack on Toretsk comes as heavy fighting continues in the east, with Russia slowly advancing. 
  <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
  <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
- <p class="updated_time"> 05:48 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach a record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 05:26 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Plane flips over after crash-landing in Somalia</a> BBC: There are no fatalities among the 30 people on board despite dramatic scenes at Mogadishu airport. 
- <p class="updated_time"> 04:53 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan urges election after stunning Punjab poll win</a> BBC: The ousted ex-PM calls for early elections after his party wins a majority in the Punjab assembly. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
  <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
+ <p class="updated_time"> 02:39 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111984482/india-president-winner-tribal-woman">Indian lawmakers are voting for president, and the winner may be a tribal woman</a> NPR: If elected, Draupadi Murmu will become the first tribal president and the second-ever female president of India. 
  <p class="updated_time"> 02:33 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202956?at_medium=RSS&at_campaign=KARANGA">US woman arrested for faking her kidnapping in India</a> BBC: Police say the woman staged her own kidnapping to get money from her parents. 
+ <p class="updated_time"> 02:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/housing-boom-fades-world-wide-as-interest-rates-climb-11658142000">Housing Boom Fades World-Wide as Interest Rates Climb</a> WSJ: Rising interest rates are slamming the brakes on a global housing boom, heaping extra pressure on central banks as they try to tame inflation without triggering deep downturns in their economies. 
+ <p class="updated_time"> 02:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/recession-fears-trade-shifts-whipsaw-global-grain-markets-11658142001">Recession Fears, Trade Shifts Whipsaw Global Grain Markets</a> WSJ: Wheat prices tumble, but they remain elevated as the war in Ukraine poses a continuing threat to global food supplies. 
  <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 12:33 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
+ <p class="updated_time"> 12:30 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/afghanistan-maternity-care-is-faltering-11658136601">Maternity Care Is Faltering Under the Taliban</a> WSJ: Decades of progress in maternal and neonatal healthcare in Afghanistan are eroding due to hunger, fleeing hospital staff and curbs on women’s freedom, doctors and international organizations say. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
  <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
@@ -59,14 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111933482/the-ukraine-war-means-a-potato-chip-company-has-to-rethink-its-formula">The Ukraine war means a potato chip company has to rethink its formula</a> NPR: Sarah Cohen, CEO of Route 11 Potato Chips, speaks with NPR's Michel Martin about the company's sunflower seed oil deficit because of the Russian conflict in Ukraine and how the business is coping. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111933475/the-russian-invasion-of-ukraine-has-brought-up-an-old-question">The Russian invasion of Ukraine has brought up an old question</a> NPR: Is aggressive war legal? Calls are growing now to set up an international tribunal to charge Russia with the same crime. 
- <p class="updated_time"> 03:17 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/extreme-heat-scorches-europe-fueling-wildfires-drought-11658087293">Extreme Heat Scorches Europe, Fueling Wildfires, Drought</a> WSJ: With unseasonably high temperatures that have reached as far north as London, the continent has become a tinderbox. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
- <p class="updated_time"> 01:41 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Zelensky Removes Ukraine's General Prosecutor, Head of Secret Service</a> WSJ: Dismissals come amid allegations that employees in the two offices were collaborating with Russia. 
- <p class="updated_time"> 01:02 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/pakistan-government-loses-key-elections-after-raising-gasoline-prices-11658092371">Pakistan Government Loses Key Elections After Raising Gasoline Prices</a> WSJ: Prime Minister Shehbaz Sharif’s party conceded defeat in the crucial Punjab province following the country’s moves to gain a $4 billion IMF bailout. 
  <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62199184?at_medium=RSS&at_campaign=KARANGA">Several arrests at protest over dying Iranian lake</a> BBC: Once the world's second largest salt lake, farming and drought have reduced Lake Urmia to a trickle. 
  <p class="updated_time"> 08:13 AM CT, Jul. 17 </p> 
