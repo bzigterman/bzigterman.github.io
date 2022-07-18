@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:14 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 10:44 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62213247?at_medium=RSS&at_campaign=KARANGA">Spain heatwave: Moment of shock as train is surrounded by wildfires</a> BBC: Fires could be seen raging on both sides of the track in the Spanish province of Zamora. 
  <p class="updated_time"> 10:33 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 10:24 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1110911561/russia-ukraine-war-a-weekly-recap-and-look-ahead-july-18">Russia-Ukraine war: A weekly recap and look ahead (July 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 10:11 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 09:22 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Six die in shelling as new assault looms</a> BBC: The attack on Toretsk comes as Russia eyes the symbolically important eastern city of Sloviansk. 
  <p class="updated_time"> 09:13 AM CT, Jul. 18 </p> 
