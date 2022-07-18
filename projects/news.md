@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
