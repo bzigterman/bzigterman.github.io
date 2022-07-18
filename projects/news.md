@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-62200929?at_medium=RSS&at_campaign=KARANGA">Heatwave: Are wildfires happening more often?</a> BBC: Wildfires have been burning from Alaska to Greece this month - are they becoming more common? 
  <p class="updated_time"> 07:02 PM CT, Jul. 17 </p> 
@@ -25,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62202068?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Speak to us! Cowards! - Families yell over report</a> BBC: People react at the end of a press conference about a report into the 24 May shooting which left 21 dead. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62158670?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: 'My brother's certain he won't come out of Egypt prison alive'</a> BBC: British-Egyptian activist Alaa Abdel Fattah has been on hunger strike in an Egyptian jail for more than 100 days. 
+ <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
  <p class="updated_time"> 05:55 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111912899/india-just-unveiled-a-giant-statue-of-its-national-emblem-some-think-its-too-muc">India just unveiled a giant statue of its national emblem. Some think it's too much</a> NPR: Too large? Too aggressive? The lions in a new, giant bronze sculpture of India's national emblem are prompting both praise and criticism. The statue was unveiled this week in New Delhi. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
- <p class="updated_time"> 06:52 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
- <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
  <p class="updated_time"> 03:39 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588">Afghan Economy Crumbles Since Taliban Takeover</a> WSJ: Businesses are struggling to import supplies or find customers who can pay amid crushing inflation and banking dysfunction, as the isolated government has driven away both foreign aid and investors. 
  <p class="updated_time"> 02:02 AM CT, Jul. 17 </p> 
