@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62209155?at_medium=RSS&at_campaign=KARANGA">Parkland school shooting: Gunman faces death penalty as trial opens</a> BBC: He pleaded guilty to 17 counts of first-degree murder last year over the attack at a Florida school. 
+ <p class="updated_time"> 11:23 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1112010330/uk-heat-wave-extreme-weather-warning-high-temperatures">The heat in London on Monday and Tuesday will rival parts of the Sahara</a> NPR: "I think it's the Devil's armpits outside already," a Manchester resident reported around 1 p.m. local time on Monday. The heat wave in Europe that has resulted in deaths and fueled massive wildfires. 
  <p class="updated_time"> 11:14 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 10:44 AM CT, Jul. 18 </p> 
@@ -25,14 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Somalia plane crash: Plane flips over at Mogadishu airport</a> BBC: There are no fatalities among the 36 people on board despite dramatic scenes at Mogadishu airport. 
  <p class="updated_time"> 08:58 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan stuns rivals with Punjab by-election upset</a> BBC: The ousted former PM calls for early elections after his party wins a stunning victory. 
+ <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
+ <p class="updated_time"> 06:59 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62203816?at_medium=RSS&at_campaign=KARANGA">H&M to sell off stock before leaving Russia</a> BBC: The world's second-biggest retailer says it is impossible to do business due to the war in Ukraine. 
  <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
- <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 05:42 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
- <p class="updated_time"> 05:38 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
  <p class="updated_time"> 04:47 AM CT, Jul. 18 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202956?at_medium=RSS&at_campaign=KARANGA">US woman arrested for faking her kidnapping in India</a> BBC: Police say the woman staged her own kidnapping to get money from her parents. 
  <p class="updated_time"> 02:00 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/housing-boom-fades-world-wide-as-interest-rates-climb-11658142000">Housing Boom Fades World-Wide as Interest Rates Climb</a> WSJ: Rising interest rates are slamming the brakes on a global housing boom, heaping extra pressure on central banks as they try to tame inflation without triggering deep downturns in their economies. 
- <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:30 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/afghanistan-maternity-care-is-faltering-11658136601">Maternity Care Is Faltering Under the Taliban</a> WSJ: Decades of progress in maternal and neonatal healthcare in Afghanistan are eroding due to hunger, fleeing hospital staff and curbs on women’s freedom, doctors and international organizations say. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
@@ -103,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111870491/drones-russia-iran-ukraine-white-house">The White House says Russian officials visited Iran to view drones for use in Ukraine</a> NPR: White House national security adviser Jake Sullivan said the administration has "information that the Iranian government is preparing to provide Russia with several hundred" drones. 
  <p class="updated_time"> 07:18 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868479/president-biden-tackles-chinese-and-russian-relations-with-middle-eastern-leader">President Biden tackles Chinese and Russian relations with Middle Eastern leaders</a> NPR: President Biden is meeting with 9 leaders from the Middle East in Jeddah, Saudi Arabia — seeking to reassert U.S. leadership in the region, and stave off Chinese and Russian influence. 
- <p class="updated_time"> 07:09 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111868458/a-water-crisis-restricts-usage-to-6-hours-a-day-in-one-of-mexicos-largest-cities">A water crisis restricts usage to 6 hours a day in one of Mexico's largest cities</a> NPR: Scott Simon talks with Associated Press reporter Marcos Martinez Chacon about the water crisis affecting the residents of Monterrey, one of Mexico's largest cities. 
 
 
 </details>
@@ -138,8 +138,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races">Democrats face hard truths on abortion rights in Wisconsin midterm races</a> NPR: Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111715068/in-all-trump-s-legal-wars-and-woes-one-lawyer-s-influence-still-holds-sway">Through all Trump's legal wars and woes, one lawyer's influence still holds sway</a> NPR: Roy Cohn always told clients to fight all charges, countersue when sued and never concede. Trump has followed his formula for half a century, and it has come to matter a great deal to the nation. 
- <p class="updated_time"> 08:45 PM CT, Jul. 16 </p> 
- <a href="https://www.cnn.com/2022/07/16/politics/biden-middle-east-trip-takeaways/index.html">5 takeaways from Biden's first presidential trip to the Middle East</a> CNN: President Joe Biden on Saturday capped a four-day trip to Israel and Saudi Arabia, his first trip to the Middle East since taking office. 
  <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111894449/the-relationships-between-polarization-and-democracy-in-the-u-s">The relationships between polarization and democracy in the U.S.</a> NPR: NPR's Michel Martin speaks with Didi Kuo of Stanford University's Center on Democracy, Development and the Rule of Law about how political polarization is threatening democracy. 
  <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
