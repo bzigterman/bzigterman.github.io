@@ -520,7 +520,7 @@ fig <- hchart(wastewater_plus_cases,
           y = signif(smaller_conc, digits = 3)),
     label = list(
       enabled = TRUE),
-    name = "Normalized SARS-CoV-2 Concentration",
+    name = "Normalized Concentration",
     color = "black",
     type = "line",
     yAxis = 1) %>%
