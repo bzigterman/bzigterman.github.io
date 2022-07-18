@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
+ <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 05:48 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach a record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 05:26 AM CT, Jul. 18 </p> 
@@ -21,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
- <p class="updated_time"> 03:52 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111984482/india-president-winner-tribal-woman">Indian lawmakers are voting for president, and the winner may be a tribal woman</a> NPR: If elected, Draupadi Murmu will become the first tribal president and the second-ever female president of India. 
  <p class="updated_time"> 02:33 AM CT, Jul. 18 </p> 
@@ -32,7 +34,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 12:33 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Widespread Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
+ <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
  <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868458/a-water-crisis-restricts-usage-to-6-hours-a-day-in-one-of-mexicos-largest-cities">A water crisis restricts usage to 6 hours a day in one of Mexico's largest cities</a> NPR: Scott Simon talks with Associated Press reporter Marcos Martinez Chacon about the water crisis affecting the residents of Monterrey, one of Mexico's largest cities. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
- <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
 
 
 </details>
