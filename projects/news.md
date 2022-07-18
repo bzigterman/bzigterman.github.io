@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach a record levels in areas of the southwest as a heatwave engulfs much of Europe. 
- <p class="updated_time"> 07:03 AM CT, Jul. 18 </p> 
+ <p class="updated_time"> 09:08 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Somalia plane crash: Plane flips over at Mogadishu airport</a> BBC: There are no fatalities among the 36 people on board despite dramatic scenes at Mogadishu airport. 
+ <p class="updated_time"> 08:58 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan stuns rivals with Punjab by-election upset</a> BBC: The ousted former PM calls for early elections after his party wins a stunning victory. 
+ <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 06:50 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Shelling kills six in eastern town</a> BBC: The attack on Toretsk comes as heavy fighting continues in the east, with Russia slowly advancing. 
  <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
  <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
- <p class="updated_time"> 05:26 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Plane flips over after crash-landing in Somalia</a> BBC: There are no fatalities among the 30 people on board despite dramatic scenes at Mogadishu airport. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
+ <p class="updated_time"> 04:38 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
+ <p class="updated_time"> 02:44 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62201888?at_medium=RSS&at_campaign=KARANGA">Bennifer: Ben Affleck and Jennifer Lopez marry in Las Vegas</a> BBC: Ben Affleck and Jennifer Lopez marry in Las Vegas, just over 18 years after ending first engagement. 
  <p class="updated_time"> 02:39 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
@@ -47,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/afghanistan-maternity-care-is-faltering-11658136601">Maternity Care Is Faltering Under the Taliban</a> WSJ: Decades of progress in maternal and neonatal healthcare in Afghanistan are eroding due to hunger, fleeing hospital staff and curbs on women’s freedom, doctors and international organizations say. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
- <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-62200929?at_medium=RSS&at_campaign=KARANGA">Heatwave: Are wildfires happening more often?</a> BBC: Wildfires have been burning from Alaska to Greece this month - are they becoming more common? 
  <p class="updated_time"> 07:02 PM CT, Jul. 17 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 07:32 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62191735?at_medium=RSS&at_campaign=KARANGA">The hard choices Sri Lankans must make now</a> BBC: They have chased out their reviled president. Now the country faces some difficult decisions. 
- <p class="updated_time"> 06:22 PM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62179136?at_medium=RSS&at_campaign=KARANGA">Ukraine War: The Donbas body collector who has lost count</a> BBC: For those on the front line of Russia's war in Ukraine, the personal toll is unbearable. 
  <p class="updated_time"> 06:00 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
@@ -118,6 +118,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/07/18/1111766924/conservative-bloc-litigation">Conservative blocs unleash wave of litigation to curb public health powers</a> NPR: A coalition of religious groups, conservative think tanks, and Republican attorneys general have chipped away at local and state authority, altering how the nation can respond during health crises. 
  <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1110699297/betterhelp-talkspace-privacy-data-tips-online-therapy">How to protect your privacy when using mental health care apps</a> NPR: Some online therapy companies are facing scrutiny for how they handle user data. Experts weigh in on what patients can do to keep their data safer when using these types of services. 
+ <p class="updated_time"> 04:57 PM CT, Jul. 17 </p> 
+ <a href="https://www.cnn.com/2022/07/17/politics/state-legislation-lgbtq-rights/index.html">2022 is already a record year for state bills seeking to curtail LGBTQ rights, ACLU data shows</a> CNN: State lawmakers across the US have introduced at least 162 bills targeting LGBTQ Americans this year through July 1, according to a CNN analysis of data compiled by the American Civil Liberties Union, already marking a record-breaking year for such legislation. 
  <p class="updated_time"> 09:33 AM CT, Jul. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:04 AM CT, Jul. 17 </p> 
@@ -130,6 +132,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races">Democrats face hard truths on abortion rights in Wisconsin midterm races</a> NPR: Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111715068/in-all-trump-s-legal-wars-and-woes-one-lawyer-s-influence-still-holds-sway">Through all Trump's legal wars and woes, one lawyer's influence still holds sway</a> NPR: Roy Cohn always told clients to fight all charges, countersue when sued and never concede. Trump has followed his formula for half a century, and it has come to matter a great deal to the nation. 
+ <p class="updated_time"> 08:45 PM CT, Jul. 16 </p> 
+ <a href="https://www.cnn.com/2022/07/16/politics/biden-middle-east-trip-takeaways/index.html">5 takeaways from Biden's first presidential trip to the Middle East</a> CNN: President Joe Biden on Saturday capped a four-day trip to Israel and Saudi Arabia, his first trip to the Middle East since taking office. 
  <p class="updated_time"> 04:15 PM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111894449/the-relationships-between-polarization-and-democracy-in-the-u-s">The relationships between polarization and democracy in the U.S.</a> NPR: NPR's Michel Martin speaks with Didi Kuo of Stanford University's Center on Democracy, Development and the Rule of Law about how political polarization is threatening democracy. 
  <p class="updated_time"> 07:59 AM CT, Jul. 16 </p> 
@@ -142,10 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
  <p class="updated_time"> 12:31 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111857502/jan-6-panel-subpoenas-secret-service-erased-texts">What the subpoena for the Secret Service's erased texts means for the Jan. 6 probe</a> NPR: The House committee subpoenaed the Secret Service for text messages agents reportedly deleted, as the panel probes President Donald Trump's actions at the time of the deadly Capitol attack. 
- <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
- <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
- <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
- <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
 
 
 </details>
