@@ -583,12 +583,11 @@ fig <- hchart(wastewater_plus_cases,
     buttons = list(
       contextButton = list(
         enabled = TRUE,
-        menuItems = list("downloadPNG","viewData"),
+        menuItems = list("downloadPNG"),
         theme = list(
           fill = "white")
       )
     ),
-    showTable = TRUE,
     chartOptions = list(
       rangeSelector = list(
         enabled = FALSE))
