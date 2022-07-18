@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 PM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
+ <p class="updated_time"> 12:15 PM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62212987?at_medium=RSS&at_campaign=KARANGA">Somalia plane crash: Firefighters tackle blaze by flipped-over plane</a> BBC: There were no fatalities after a plane carrying 36 passengers crash-landed in Somalia's capital. 
  <p class="updated_time"> 11:25 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62209155?at_medium=RSS&at_campaign=KARANGA">Parkland school shooting: Gunman faces death penalty as trial opens</a> BBC: He pleaded guilty to 17 counts of first-degree murder last year over the attack at a Florida school. 
  <p class="updated_time"> 11:23 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1112010330/uk-heat-wave-extreme-weather-warning-high-temperatures">The heat in London on Monday and Tuesday will rival parts of the Sahara</a> NPR: "I think it's the Devil's armpits outside already," a Manchester resident reported around 1 p.m. local time on Monday. The heat wave in Europe that has resulted in deaths and fueled massive wildfires. 
- <p class="updated_time"> 11:14 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 10:44 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62213247?at_medium=RSS&at_campaign=KARANGA">Spain heatwave: Moment of shock as train is surrounded by wildfires</a> BBC: Fires could be seen raging on both sides of the track in the Spanish province of Zamora. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62213247?at_medium=RSS&at_campaign=KARANGA">Spain heatwave: Passengers alarmed as train surrounded by flames</a> BBC: Fires could be seen raging on both sides of the track in the Spanish province of Zamora. 
  <p class="updated_time"> 10:33 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 10:24 AM CT, Jul. 18 </p> 
@@ -29,8 +31,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Somalia plane crash: Plane flips over at Mogadishu airport</a> BBC: There are no fatalities among the 36 people on board despite dramatic scenes at Mogadishu airport. 
  <p class="updated_time"> 08:58 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan stuns rivals with Punjab by-election upset</a> BBC: The ousted former PM calls for early elections after his party wins a stunning victory. 
+ <p class="updated_time"> 07:56 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/heat-wave-in-u-k-to-send-temperatures-to-record-highs-11658157723">Heat Wave in U.K. to Send Temperatures to Record Highs</a> WSJ: With temperatures forecast to exceed 100 degrees Fahrenheit, the country issued its first-ever “red extreme heat warning,” as schools shut, train companies canceled services and health authorities prepared for a surge in calls. 
  <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
+ <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Long-Range Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 06:59 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-62203816?at_medium=RSS&at_campaign=KARANGA">H&M to sell off stock before leaving Russia</a> BBC: The world's second-biggest retailer says it is impossible to do business due to the war in Ukraine. 
  <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
@@ -39,10 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
- <p class="updated_time"> 04:47 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/air-travel-is-broken-heres-why-11658152047">Air Travel Is Broken. Here's Why.</a> WSJ: Cutbacks in 2020 mean there aren’t enough baggage handlers, pilots and many others. So when something goes wrong, it ripples through to long lines, flight delays, cancellations and lost luggage. 
- <p class="updated_time"> 04:38 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
  <p class="updated_time"> 02:44 AM CT, Jul. 18 </p> 
