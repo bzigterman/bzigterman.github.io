@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:28 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
+ <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns 
+ <p class="updated_time"> 03:52 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111984482/india-president-winner-tribal-woman">Indian lawmakers are voting for president, and the winner may be a tribal woman</a> NPR: If elected, Draupadi Murmu will become the first tribal president and the second-ever female president of India. 
  <p class="updated_time"> 02:33 AM CT, Jul. 18 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868458/a-water-crisis-restricts-usage-to-6-hours-a-day-in-one-of-mexicos-largest-cities">A water crisis restricts usage to 6 hours a day in one of Mexico's largest cities</a> NPR: Scott Simon talks with Associated Press reporter Marcos Martinez Chacon about the water crisis affecting the residents of Monterrey, one of Mexico's largest cities. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
- <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
 
@@ -106,6 +106,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1111768365/immigration-bill-food-prices-farmers-h-2a-visas-republicans">The Senate is nearing a deal on immigration that could also lower food prices</a> NPR: Two Senators are closer then ever before on an immigration-related bill that would provide a much-needed workforce for agriculture. But can they get the Farm Bureau on board the final sticking point? 
+ <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1111692082/steve-bannon-goes-on-trial-for-defying-jan-6-panel-subpoena">Steve Bannon goes on trial for defying Jan. 6 panel subpoena</a> NPR: The former Trump adviser faces two counts of contempt for refusing to comply with a subpoena from the House committee investigating the Jan. 6 Capitol attack. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/07/18/1111766924/conservative-bloc-litigation">Conservative blocs unleash wave of litigation to curb public health powers</a> NPR: A coalition of religious groups, conservative think tanks, and Republican attorneys general have chipped away at local and state authority, altering how the nation can respond during health crises. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1110699297/betterhelp-talkspace-privacy-data-tips-online-therapy">How to protect your privacy when using mental health care apps</a> NPR: Some online therapy companies are facing scrutiny for how they handle user data. Experts weigh in on what patients can do to keep their data safer when using these types of services. 
  <p class="updated_time"> 09:33 AM CT, Jul. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:04 AM CT, Jul. 17 </p> 
@@ -132,14 +140,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111857502/jan-6-panel-subpoenas-secret-service-erased-texts">What the subpoena for the Secret Service's erased texts means for the Jan. 6 probe</a> NPR: The House committee subpoenaed the Secret Service for text messages agents reportedly deleted, as the panel probes President Donald Trump's actions at the time of the deadly Capitol attack. 
  <p class="updated_time"> 06:39 PM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/trump-secret-service-january-6-metropolitan-police-officer/index.html">DC police officer in Trump Jan. 6  motorcade corroborates details of heated Secret Service exchange to committee</a> CNN: A Washington, DC, police officer has corroborated to the House select committee investigating January 6, 2021, details regarding a heated exchange former President Donald Trump had with his Secret Service detail when he was told he could not go to the US Capitol after his rally, a source familiar with the matter tells CNN. 
- <p class="updated_time"> 03:49 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111771318/sen-joe-manchin-pulled-the-plug-on-major-spending-to-address-climate-change">Sen. Joe Manchin pulled the plug on major spending to address climate change</a> NPR: Sen. Joe Manchin, D-W.Va., dashed Democrats' hopes of major climate spending in the budget reconciliation. Here's what that means for the country's ability to bring down carbon emissions. 
- <p class="updated_time"> 03:42 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111771290/john-fettermans-back-on-the-senate-campaign-trail-the-end-of-roe-has-changed-thi">John Fetterman's back on the Senate campaign trail. The end of Roe has changed things</a> NPR: Pennsylvania's Senate race has changed on the Democratic side. John Fetterman was sidelined after a stroke, the Supreme Court overturned Roe and the Jan. 6 hearings affected voters' perceptions. 
- <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111771240/why-is-steve-bannon-reversing-course-and-now-willing-to-testify-in-jan-6-hearing">Why is Steve Bannon reversing course and now willing to testify in Jan. 6 hearings?</a> NPR: NPR's Ari Shapiro speaks with Bloomberg Businessweek correspondent Joshua Green on Steve Bannon's new willingness to testify before the House select committee investigating Jan. 6. 
- <p class="updated_time"> 03:20 PM CT, Jul. 15 </p> 
- <a href="https://www.npr.org/2022/07/15/1111727834/she-was-married-to-khashoggi-she-wants-accountability-as-biden-lands-in-saudi-ar">She was married to Khashoggi. She wants accountability as Biden lands in Saudi Arabia</a> NPR: NPR's Ailsa Chang speaks with Hanan Elatr, who was married to slain Saudi journalist Jamal Khashoggi, about President Biden's meeting with Saudi Crown Prince Muhammad bin Salman. 
  <p class="updated_time"> 10:12 AM CT, Jul. 15 </p> 
  <a href="https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-erased/index.html">Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says</a> CNN: The US Secret Service erased text messages from January 5 and 6, 2021, shortly after they were requested by oversight officials investigating the agency's response to the US Capitol riot, according to a letter given to the House select committee investigating the insurrection and first obtained by CNN. 
 
