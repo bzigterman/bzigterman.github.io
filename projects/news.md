@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:52 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
@@ -24,7 +26,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:59 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61976928?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis is a warning to other Asian nations</a> BBC: Rising interest rates are making debt repayment costlier, putting Asian emerging markets at risk of default. 
  <p class="updated_time"> 06:53 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62145780?at_medium=RSS&at_campaign=KARANGA">Why Bollywood is struggling to beat pandemic blues</a> BBC: Several big-ticket films in 2022 have failed at the box office, leaving producers confused. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62145780?at_medium=RSS&at_campaign=KARANGA">83, Samrat Prithviraj: Why Bollywood's big films are flopping at the box office</a> BBC: Several big-ticket films in 2022 have failed at the box office, leaving producers confused. 
  <p class="updated_time"> 06:51 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62178794?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The fight to rescue our adopted children</a> BBC: A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite. 
  <p class="updated_time"> 06:26 PM CT, Jul. 17 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-62158670?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: 'My brother's certain he won't come out of Egypt prison alive'</a> BBC: British-Egyptian activist Alaa Abdel Fattah has been on hunger strike in an Egyptian jail for more than 100 days. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
- <p class="updated_time"> 05:55 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Officers showed a lack of leadership and urgency in their response to the shooting, a report finds. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
