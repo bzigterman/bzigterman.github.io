@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach a record levels in areas of the southwest as a heatwave engulfs much of Europe. 
+ <p class="updated_time"> 05:26 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Plane flips over after crash-landing in Somalia</a> BBC: There are no fatalities among the 30 people on board despite dramatic scenes at Mogadishu airport. 
+ <p class="updated_time"> 04:53 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan urges election after stunning Punjab poll win</a> BBC: The ousted ex-PM calls for early elections after his party wins a majority in the Punjab assembly. 
+ <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
  <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
@@ -23,12 +31,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
+ <p class="updated_time"> 12:33 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Widespread Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
  <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
- <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-62200929?at_medium=RSS&at_campaign=KARANGA">Heatwave: Are wildfires happening more often?</a> BBC: Wildfires have been burning from Alaska to Greece this month - are they becoming more common? 
  <p class="updated_time"> 07:02 PM CT, Jul. 17 </p> 
@@ -57,28 +65,20 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Zelensky Removes Ukraine's General Prosecutor, Head of Secret Service</a> WSJ: Dismissals come amid allegations that employees in the two offices were collaborating with Russia. 
  <p class="updated_time"> 01:02 PM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/pakistan-government-loses-key-elections-after-raising-gasoline-prices-11658092371">Pakistan Government Loses Key Elections After Raising Gasoline Prices</a> WSJ: Prime Minister Shehbaz Sharif’s party conceded defeat in the crucial Punjab province following the country’s moves to gain a $4 billion IMF bailout. 
- <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62199184?at_medium=RSS&at_campaign=KARANGA">Several arrests at protest over dying Iranian lake</a> BBC: Once the world's second largest salt lake, farming and drought have reduced Lake Urmia to a trickle. 
  <p class="updated_time"> 08:13 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62195005?at_medium=RSS&at_campaign=KARANGA">Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister</a> BBC: People within a two kilometre radius of the scene of the plane crash are warned to stay indoors. 
- <p class="updated_time"> 07:28 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62196765?at_medium=RSS&at_campaign=KARANGA">BBC Africa Eye expose: Chinese man extradited to Malawi over racist videos</a> BBC: He was filmed using Malawian children to make videos, some of which included racist content. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111912899/india-just-unveiled-a-giant-statue-of-its-national-emblem-some-think-its-too-muc">India just unveiled a giant statue of its national emblem. Some think it's too much</a> NPR: Too large? Too aggressive? The lions in a new, giant bronze sculpture of India's national emblem are prompting both praise and criticism. The statue was unveiled this week in New Delhi. 
  <p class="updated_time"> 07:04 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike">Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair</a> NPR: Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
- <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/economic-war-of-attrition-takes-toll-on-russia-west-11658050201">Economic War of Attrition Takes Toll on Russia, West</a> WSJ: Costs are mounting on both sides of the conflict as the invasion of Ukraine, sanctions and Moscow’s tactics drive up inflation and interest rates. 
  <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196040?at_medium=RSS&at_campaign=KARANGA">German Documenta art fair chief quits in anti-Semitism row</a> BBC: An Indonesian mural showing anti-Semitic figures caused a scandal at a modern art show in Kassel. 
  <p class="updated_time"> 04:00 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
- <p class="updated_time"> 03:39 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588">Afghan Economy Crumbles Since Taliban Takeover</a> WSJ: Businesses are struggling to import supplies or find customers who can pay amid crushing inflation and banking dysfunction, as the isolated government has driven away both foreign aid and investors. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 07:32 PM CT, Jul. 16 </p> 
