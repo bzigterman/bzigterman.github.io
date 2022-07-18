@@ -9,6 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62200929?at_medium=RSS&at_campaign=KARANGA">Heatwave: Are wildfires happening more often?</a> BBC: Wildfires have been burning from Alaska to Greece this month - are they becoming more common? 
+ <p class="updated_time"> 07:02 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61801282?at_medium=RSS&at_campaign=KARANGA">Kenya election: Taking on the sexist bullies to stand</a> BBC: Wavinya Ndeti says some voters "see women as the weaker sex", as she campaigns to become a governor. 
+ <p class="updated_time"> 06:59 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61976928?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis is a warning to other Asian nations</a> BBC: Rising interest rates are making debt repayment costlier, putting Asian emerging markets at risk of default. 
+ <p class="updated_time"> 06:53 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62145780?at_medium=RSS&at_campaign=KARANGA">Why Bollywood is struggling to beat pandemic blues</a> BBC: Several big-ticket films in 2022 have failed at the box office, leaving producers confused. 
+ <p class="updated_time"> 06:51 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62178794?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The fight to rescue our adopted children</a> BBC: A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite. 
+ <p class="updated_time"> 06:26 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
+ <p class="updated_time"> 06:09 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62202068?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Speak to us! Cowards! - Families yell over report</a> BBC: People react at the end of a press conference about a report into the 24 May shooting which left 21 dead. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62158670?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: 'My brother's certain he won't come out of Egypt prison alive'</a> BBC: British-Egyptian activist Alaa Abdel Fattah has been on hunger strike in an Egyptian jail for more than 100 days. 
  <p class="updated_time"> 05:55 PM CT, Jul. 17 </p> 
@@ -41,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 05:49 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111911343/russia-strikes-south-ukraine-city-presses-attacks-in-east">Russia strikes south Ukraine city, presses attacks in east</a> NPR: Russian missiles hit industrial facilities at a strategic city in southern Ukraine Sunday as Moscow continued efforts to expand its gains in the country's east. 
- <p class="updated_time"> 05:18 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/weather/features/62192941?at_medium=RSS&at_campaign=KARANGA">Europe heatwave: Extreme temperatures grip region</a> BBC: BBC weather forecaster Ben Rich explains what is driving the ferocious heat across many parts of Europe. 
  <p class="updated_time"> 04:22 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/economic-war-of-attrition-takes-toll-on-russia-west-11658050201">Economic War of Attrition Takes Toll on Russia, West</a> WSJ: Costs are mounting on both sides of the conflict as the invasion of Ukraine, sanctions and Moscow’s tactics drive up inflation and interest rates. 
  <p class="updated_time"> 04:04 AM CT, Jul. 17 </p> 
@@ -59,6 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/eu-shipowners-race-to-move-russian-oil-before-sanctions-kick-in-11658055600">EU Shipowners Race to Move Russian Oil Before Sanctions Kick In</a> WSJ: The looming European Union sanctions on Russian oil have raised fears among processors and shippers of being blacklisted for handling the fuel. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
+ <p class="updated_time"> 07:32 PM CT, Jul. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62191735?at_medium=RSS&at_campaign=KARANGA">The hard choices Sri Lankans must make now</a> BBC: They have chased out their reviled president. Now the country faces some difficult decisions. 
  <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
  <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
@@ -69,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-62179136?at_medium=RSS&at_campaign=KARANGA">Ukraine War: The Donbas body collector who has lost count</a> BBC: For those on the front line of Russia's war in Ukraine, the personal toll is unbearable. 
  <p class="updated_time"> 06:00 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62184948?at_medium=RSS&at_campaign=KARANGA">How did a captain survive? - The mysterious death of 21 men on a Spanish fishing boat</a> BBC: Only three people survived, including the captain and his nephew, when a Galician fishing boat sank. 
- <p class="updated_time"> 11:14 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62191077?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'I've spent 10 days in line for petrol'</a> BBC: Drivers in the crisis-hit nation tell of their mammoth waits amid a worsening fuel emergency. 
  <p class="updated_time"> 08:21 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868514/russian-missile-attack-in-ukraine-leaves-at-least-24-dead-including-4-year-old">Russian missile attack in Ukraine leaves at least 24 dead, including 4-year-old</a> NPR: This week's violence produced another tragic symbol of Ukraine's resistance to Russia. Images of a young girl who died in a missile strike have galvanized anger and strengthened resolve. 
  <p class="updated_time"> 07:47 AM CT, Jul. 16 </p> 
