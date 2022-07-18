@@ -26,7 +26,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
  <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Shanghai, Tianjin Order New Round of Mass Covid-19 Tests</a> WSJ: Two of China’s biggest cities ordered residents to undergo mass Covid-19 tests this week, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
+ <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
