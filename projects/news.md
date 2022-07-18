@@ -10,7 +10,7 @@ webappicon: /plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
- <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns 
+ <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
  <p class="updated_time"> 03:52 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
@@ -23,6 +23,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
+ <p class="updated_time"> 10:31 PM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Shanghai, Tianjin Order New Round of Mass Covid-19 Tests</a> WSJ: Two of China’s biggest cities ordered residents to undergo mass Covid-19 tests this week, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
@@ -41,18 +43,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-62202068?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Speak to us! Cowards! - Families yell over report</a> BBC: People react at the end of a press conference about a report into the 24 May shooting which left 21 dead. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62158670?at_medium=RSS&at_campaign=KARANGA">Alaa Abdel Fattah: 'My brother's certain he won't come out of Egypt prison alive'</a> BBC: British-Egyptian activist Alaa Abdel Fattah has been on hunger strike in an Egyptian jail for more than 100 days. 
- <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/sanctions-exemption-for-turbine-aims-to-restart-russian-gas-flows-to-europe-11658062800">Sanctions Exemption Aims to Restart Gas Flows to Europe</a> WSJ: Europe is on tenterhooks over whether Canada’s decision to bend its own sanctions, repairing and returning turbines that power Russia’s Nord Stream pipeline, is enough to prod Moscow to restore the flow of natural gas. 
  <p class="updated_time"> 04:32 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62200507?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde report finds 'systemic failures' by authorities</a> BBC: Officers showed a lack of leadership and urgency in their response to the shooting, a report finds. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111933482/the-ukraine-war-means-a-potato-chip-company-has-to-rethink-its-formula">The Ukraine war means a potato chip company has to rethink its formula</a> NPR: Sarah Cohen, CEO of Route 11 Potato Chips, speaks with NPR's Michel Martin about the company's sunflower seed oil deficit because of the Russian conflict in Ukraine and how the business is coping. 
  <p class="updated_time"> 04:25 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111933475/the-russian-invasion-of-ukraine-has-brought-up-an-old-question">The Russian invasion of Ukraine has brought up an old question</a> NPR: Is aggressive war legal? Calls are growing now to set up an international tribunal to charge Russia with the same crime. 
+ <p class="updated_time"> 03:17 PM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/extreme-heat-scorches-europe-fueling-wildfires-drought-11658087293">Extreme Heat Scorches Europe, Fueling Wildfires, Drought</a> WSJ: With unseasonably high temperatures that have reached as far north as London, the continent has become a tinderbox. 
  <p class="updated_time"> 02:03 PM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
  <p class="updated_time"> 01:41 PM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Zelensky Removes Ukraine's General Prosecutor, Head of Secret Service</a> WSJ: Dismissals come amid allegations that employees in the two offices were collaborating with Russia. 
+ <p class="updated_time"> 01:02 PM CT, Jul. 17 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-government-loses-key-elections-after-raising-gasoline-prices-11658092371">Pakistan Government Loses Key Elections After Raising Gasoline Prices</a> WSJ: Prime Minister Shehbaz Sharif’s party conceded defeat in the crucial Punjab province following the country’s moves to gain a $4 billion IMF bailout. 
  <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
@@ -75,10 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health">Africa is being left behind as wealthy nations push 4th COVID booster shots</a> NPR: Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert. 
  <p class="updated_time"> 03:39 AM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588">Afghan Economy Crumbles Since Taliban Takeover</a> WSJ: Businesses are struggling to import supplies or find customers who can pay amid crushing inflation and banking dysfunction, as the isolated government has driven away both foreign aid and investors. 
- <p class="updated_time"> 02:02 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/putin-seeks-to-cement-ties-with-iran-turkey-in-rare-trip-abroad-11658055769">Putin Seeks to Cement Ties With Iran, Turkey in Rare Trip Abroad</a> WSJ: The Russian president’s trip comes just days after President Biden’s own tour of the Middle East, where he sought to rally Israel and Arab countries to counter Russia, China and Iran. 
- <p class="updated_time"> 02:00 AM CT, Jul. 17 </p> 
- <a href="https://www.wsj.com/articles/eu-shipowners-race-to-move-russian-oil-before-sanctions-kick-in-11658055600">EU Shipowners Race to Move Russian Oil Before Sanctions Kick In</a> WSJ: The looming European Union sanctions on Russian oil have raised fears among processors and shippers of being blacklisted for handling the fuel. 
  <p class="updated_time"> 01:59 AM CT, Jul. 17 </p> 
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 07:32 PM CT, Jul. 16 </p> 
