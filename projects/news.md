@@ -23,6 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
  <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
+ <p class="updated_time"> 05:42 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
+ <p class="updated_time"> 05:38 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
  <p class="updated_time"> 04:47 AM CT, Jul. 18 </p> 
@@ -35,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
  <p class="updated_time"> 02:44 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62201888?at_medium=RSS&at_campaign=KARANGA">Bennifer: Ben Affleck and Jennifer Lopez marry in Las Vegas</a> BBC: Ben Affleck and Jennifer Lopez marry in Las Vegas, just over 18 years after ending first engagement. 
- <p class="updated_time"> 02:39 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358">Russia Orders Troops to Target Ukraine's Western-Supplied Weapons</a> WSJ: A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111984482/india-president-winner-tribal-woman">Indian lawmakers are voting for president, and the winner may be a tribal woman</a> NPR: If elected, Draupadi Murmu will become the first tribal president and the second-ever female president of India. 
  <p class="updated_time"> 02:33 AM CT, Jul. 18 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/housing-boom-fades-world-wide-as-interest-rates-climb-11658142000">Housing Boom Fades World-Wide as Interest Rates Climb</a> WSJ: Rising interest rates are slamming the brakes on a global housing boom, heaping extra pressure on central banks as they try to tame inflation without triggering deep downturns in their economies. 
  <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
- <p class="updated_time"> 12:33 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
  <p class="updated_time"> 12:30 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/afghanistan-maternity-care-is-faltering-11658136601">Maternity Care Is Faltering Under the Taliban</a> WSJ: Decades of progress in maternal and neonatal healthcare in Afghanistan are eroding due to hunger, fleeing hospital staff and curbs on women’s freedom, doctors and international organizations say. 
  <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
@@ -110,6 +110,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1111985660/uvalde-shooting-texas-house-report-systemic-failures">The Uvalde shooting shows that gun laws do matter, says official who worked on report</a> NPR: NPR's Steve Inskeep talks to Texas State Rep. Joe Moody about the report he helped write on the Uvalde elementary school shooting, and what he hopes will come of it. 
  <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111768365/immigration-bill-food-prices-farmers-h-2a-visas-republicans">The Senate is nearing a deal on immigration that could also lower food prices</a> NPR: Two Senators are closer then ever before on an immigration-related bill that would provide a much-needed workforce for agriculture. But can they get the Farm Bureau on board the final sticking point? 
  <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
@@ -144,8 +146,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868423/week-in-politics-biden-in-saudi-jan-6-committee-subpoenas-secret-service-texts">Week in politics: Biden in Saudi; Jan. 6 committee subpoenas Secret Service texts</a> NPR: President Biden's middle east diplomacy, and the January 6 committee issues new subpoenas as it continues to build a case against former President Donald Trump. 
  <p class="updated_time"> 04:00 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
- <p class="updated_time"> 12:31 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111857502/jan-6-panel-subpoenas-secret-service-erased-texts">What the subpoena for the Secret Service's erased texts means for the Jan. 6 probe</a> NPR: The House committee subpoenaed the Secret Service for text messages agents reportedly deleted, as the panel probes President Donald Trump's actions at the time of the deadly Capitol attack. 
 
 
 </details>
