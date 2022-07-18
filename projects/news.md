@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62196045?at_medium=RSS&at_campaign=KARANGA">Heatwave: More evacuations as Mediterranean wildfires spread</a> BBC: Wildfires force France to evacuate some 16,000 people, as Spain, Croatia and Greece are also hit. 
  <p class="updated_time"> 07:08 PM CT, Jul. 17 </p> 
@@ -73,12 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111907057/cargo-plane-operated-by-ukraine-carrier-crashes-in-greece">Experts to comb site of plane crash in northern Greece</a> NPR: Experts were poised to investigate the site of a plane crash in northern Greece Sunday to determine whether any dangerous chemicals or explosive cargo remains. 
  <p class="updated_time"> 07:32 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62191735?at_medium=RSS&at_campaign=KARANGA">The hard choices Sri Lankans must make now</a> BBC: They have chased out their reviled president. Now the country faces some difficult decisions. 
- <p class="updated_time"> 06:40 PM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62129337?at_medium=RSS&at_campaign=KARANGA">Why an accused Liberian warlord was killed in Canada</a> BBC: An accused Liberian warlord was shot in Canada, and a police officer and his son ended up in court. 
- <p class="updated_time"> 06:27 PM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-62151553?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Priest detained for criticising Putin</a> BBC: Father Ioann has been held under new laws for criticising the war. 
- <p class="updated_time"> 06:23 PM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61982532?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: The beauty queen who risked her life to reach the UK</a> BBC: Selamawit Teklay fled conflict in Ethiopia, but advises others not to risk crossing the English Channel. 
  <p class="updated_time"> 06:22 PM CT, Jul. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62179136?at_medium=RSS&at_campaign=KARANGA">Ukraine War: The Donbas body collector who has lost count</a> BBC: For those on the front line of Russia's war in Ukraine, the personal toll is unbearable. 
  <p class="updated_time"> 06:00 PM CT, Jul. 16 </p> 
@@ -95,12 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868437/ukrainians-from-war-torn-cities-wonder-if-theyll-ever-be-able-to-return-home">Ukrainians from war-torn cities wonder if they'll ever be able to return home</a> NPR: Ukrainian officials promise to rebuild and revitalize Mariupol - which Russian forces have destroyed and now occupy. Some who fled the city doubt they will ever return. 
- <p class="updated_time"> 06:14 AM CT, Jul. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62189543?at_medium=RSS&at_campaign=KARANGA">The striking photo that will define a visit</a> BBC: A photograph of Joe Biden and Mohammed bin Salman fist-bumping has gone viral - will their meeting be remembered for more? 
- <p class="updated_time"> 10:02 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62187714?at_medium=RSS&at_campaign=KARANGA">Mexican drugs lord Rafael Caro Quintero arrested</a> BBC: Rafael Caro Quintero is accused of torturing and murdering a US drug enforcement agent in 1985. 
- <p class="updated_time"> 07:21 PM CT, Jul. 15 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-62149554?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Is a push for organic behind the country's unrest?</a> BBC: Social-media users are blaming the political crisis on "elitist green policies". What is the truth? 
  <p class="updated_time"> 06:29 AM CT, Jul. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-62175659?at_medium=RSS&at_campaign=KARANGA">Palestinian people deserve a state of their own - Biden</a> BBC: The US president reiterates the United States' commitment to a two-state solution for Israel and the Palestinians. 
 
