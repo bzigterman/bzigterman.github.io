@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 PM CT, Jul. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62202902?at_medium=RSS&at_campaign=KARANGA">Dozens of sea turtles found stabbed off Japanese island</a> BBC: More than 30 of the animals were found motionless in a low tide with stab marks at their necks. 
  <p class="updated_time"> 11:35 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 10:20 PM CT, Jul. 17 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y">Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet</a> NPR: Parts of the Great Plains are forecast to hit record-breaking temperatures this week, while in Europe, extreme heat has fueled wildfires and contributed to hundreds of deaths in recent days. 
  <p class="updated_time"> 01:41 PM CT, Jul. 17 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249">Zelensky Removes Ukraine's General Prosecutor, Head of Secret Service</a> WSJ: Dismissals come amid allegations that employees in the two offices were collaborating with Russia. 
- <p class="updated_time"> 10:52 AM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-62195043?at_medium=RSS&at_campaign=KARANGA">British rugby player found dead in Italy hotel</a> BBC: The former rugby league player is named in Italian media as the Briton found dead in Florence on Saturday. 
  <p class="updated_time"> 10:20 AM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-62195183?at_medium=RSS&at_campaign=KARANGA">Captured Briton John Harding appears in video in Ukraine</a> BBC: John Harding, in his fifties and from Sunderland, says he was told he could face the death penalty. 
  <p class="updated_time"> 10:17 AM CT, Jul. 17 </p> 
