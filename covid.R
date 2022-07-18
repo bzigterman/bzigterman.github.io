@@ -575,7 +575,24 @@ fig <- hchart(wastewater_plus_cases,
                      #list(type = 'year', count = 1, text = '1y'),
                      #list(type = 'year', count = 2, text = '2y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)
+                   selected = 3) %>%
+  hc_exporting(
+    enabled = TRUE,
+    sourceWidth = 400,
+    sourceHeight = 400,
+    buttons = list(
+      contextButton = list(
+        enabled = TRUE,
+        menuItems = list("downloadPNG"),
+        theme = list(
+          fill = "white")
+      )
+    ),
+    showTable = TRUE,
+    chartOptions = list(
+      rangeSelector = list(
+        enabled = FALSE))
+  )
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_wastewater.html",
