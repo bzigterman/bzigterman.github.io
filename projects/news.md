@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 02:38 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111984482/india-president-winner-tribal-woman">Indian lawmakers are voting for president, and the winner may be a tribal woman</a> NPR: If elected, Draupadi Murmu will become the first tribal president and the second-ever female president of India. 
  <p class="updated_time"> 02:33 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202956?at_medium=RSS&at_campaign=KARANGA">US woman arrested for faking her kidnapping in India</a> BBC: Police say the woman staged her own kidnapping to get money from her parents. 
- <p class="updated_time"> 01:52 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fires security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
  <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
