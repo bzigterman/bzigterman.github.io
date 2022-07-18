@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
+ <p class="updated_time"> 09:22 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Six die in shelling as new assault looms</a> BBC: The attack on Toretsk comes as Russia eyes the symbolically important eastern city of Sloviansk. 
+ <p class="updated_time"> 09:13 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62210116?at_medium=RSS&at_campaign=KARANGA">Heatwave: Wildfires spread across Europe</a> BBC: Our correspondents in Spain, Portugal and France report on the wildfires ablaze across the continent. 
  <p class="updated_time"> 09:08 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62206497?at_medium=RSS&at_campaign=KARANGA">Somalia plane crash: Plane flips over at Mogadishu airport</a> BBC: There are no fatalities among the 36 people on board despite dramatic scenes at Mogadishu airport. 
  <p class="updated_time"> 08:58 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62206374?at_medium=RSS&at_campaign=KARANGA">Pakistan: Former PM Imran Khan stuns rivals with Punjab by-election upset</a> BBC: The ousted former PM calls for early elections after his party wins a stunning victory. 
- <p class="updated_time"> 07:42 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
- <p class="updated_time"> 06:50 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Shelling kills six in eastern town</a> BBC: The attack on Toretsk comes as heavy fighting continues in the east, with Russia slowly advancing. 
  <p class="updated_time"> 06:15 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62205976?at_medium=RSS&at_campaign=KARANGA">Mexico mourns marines who crashed after drug lord's capture</a> BBC: Fourteen marines died in a helicopter crash after a mission to capture drug lord Rafael Caro Quintero. 
  <p class="updated_time"> 05:57 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62202078?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky suspends security chief and top prosecutor</a> BBC: The Ukrainian president says there have been cases of treason in the two powerful agencies. 
  <p class="updated_time"> 04:49 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202891?at_medium=RSS&at_campaign=KARANGA">Sushmita Sen: Why 'gold digger' jibe caused outrage</a> BBC: One of India's most-loved beauty queens has been in the eye of a social media storm recently. 
+ <p class="updated_time"> 04:47 AM CT, Jul. 18 </p> 
+ <a href="https://www.wsj.com/articles/air-travel-is-broken-heres-why-11658152047">Air Travel Is Broken. Here's Why.</a> WSJ: Cutbacks in 2020 mean there aren’t enough baggage handlers, pilots and many others. So when something goes wrong, it ripples through to long lines, flight delays, cancellations and lost luggage. 
  <p class="updated_time"> 04:38 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
  <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
@@ -39,12 +43,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62202956?at_medium=RSS&at_campaign=KARANGA">US woman arrested for faking her kidnapping in India</a> BBC: Police say the woman staged her own kidnapping to get money from her parents. 
  <p class="updated_time"> 02:00 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/housing-boom-fades-world-wide-as-interest-rates-climb-11658142000">Housing Boom Fades World-Wide as Interest Rates Climb</a> WSJ: Rising interest rates are slamming the brakes on a global housing boom, heaping extra pressure on central banks as they try to tame inflation without triggering deep downturns in their economies. 
- <p class="updated_time"> 02:00 AM CT, Jul. 18 </p> 
- <a href="https://www.wsj.com/articles/recession-fears-trade-shifts-whipsaw-global-grain-markets-11658142001">Recession Fears, Trade Shifts Whipsaw Global Grain Markets</a> WSJ: Wheat prices tumble, but they remain elevated as the war in Ukraine poses a continuing threat to global food supplies. 
  <p class="updated_time"> 01:10 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62203717?at_medium=RSS&at_campaign=KARANGA">Heatwave: Forest fires continue in France</a> BBC: French firefighters are working to keep wildfires in the south-west of the country under control. 
- <p class="updated_time"> 12:48 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62173775?at_medium=RSS&at_campaign=KARANGA">Yusuf Zahab: Australian teen feared killed in Syrian jail</a> BBC: Yusuf Zahab was taken to Syria as a child and recently pleaded with Australia for help. 
  <p class="updated_time"> 12:33 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/europe-fears-widespread-economic-fallout-if-russian-gas-outage-drags-on-11658136780">Europe Fears Economic Fallout if Russian Gas Outage Drags On</a> WSJ: European officials and executives are in suspense this week about whether Russia will resume the flow of natural gas through the Nord Stream pipeline, as worries about potential shortages and rationing rise. 
  <p class="updated_time"> 12:30 AM CT, Jul. 18 </p> 
@@ -60,7 +60,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:53 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-62145780?at_medium=RSS&at_campaign=KARANGA">83, Samrat Prithviraj: Why Bollywood's big films are flopping at the box office</a> BBC: Several big-ticket films in 2022 have failed at the box office, leaving producers confused. 
  <p class="updated_time"> 06:51 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62178794?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The fight to rescue our adopted children</a> BBC: A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite. 
+ <a href="https://www.bbc.co.uk/news/world-europe-62178794?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Why I never gave up trying to find my children</a> BBC: A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite. 
  <p class="updated_time"> 06:09 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62202068?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Speak to us! Cowards! - Families yell over report</a> BBC: People react at the end of a press conference about a report into the 24 May shooting which left 21 dead. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
