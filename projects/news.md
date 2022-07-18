@@ -9,7 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:25 AM CT, Jul. 18 </p> 
+ <p class="updated_time"> 10:44 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62213247?at_medium=RSS&at_campaign=KARANGA">Spain heatwave: Moment of shock as train is surrounded by wildfires</a> BBC: Fires could be seen raging on both sides of the track in the Spanish province of Zamora. 
+ <p class="updated_time"> 10:33 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
+ <p class="updated_time"> 10:24 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1110911561/russia-ukraine-war-a-weekly-recap-and-look-ahead-july-18">Russia-Ukraine war: A weekly recap and look ahead (July 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 10:11 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62206006?at_medium=RSS&at_campaign=KARANGA">Heatwave: Warnings of 'heat apocalypse' in France</a> BBC: Temperatures could reach record levels in areas of the southwest as a heatwave engulfs much of Europe. 
  <p class="updated_time"> 09:22 AM CT, Jul. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62207922?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Six die in shelling as new assault looms</a> BBC: The attack on Toretsk comes as Russia eyes the symbolically important eastern city of Sloviansk. 
@@ -33,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/air-travel-is-broken-heres-why-11658152047">Air Travel Is Broken. Here's Why.</a> WSJ: Cutbacks in 2020 mean there aren’t enough baggage handlers, pilots and many others. So when something goes wrong, it ripples through to long lines, flight delays, cancellations and lost luggage. 
  <p class="updated_time"> 04:38 AM CT, Jul. 18 </p> 
  <a href="https://www.wsj.com/articles/shanghai-tianjin-order-new-round-of-mass-covid-19-tests-11658129499">Chinese Export Hubs Order Mass Covid-19 Testing, Raising Risk of Lockdowns</a> WSJ: Shanghai and Tianjin ordered residents to undergo mass Covid-19 testing, highlighting the risk that fresh outbreaks could trigger new and economically costly lockdowns. 
- <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
  <p class="updated_time"> 02:44 AM CT, Jul. 18 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868479/president-biden-tackles-chinese-and-russian-relations-with-middle-eastern-leader">President Biden tackles Chinese and Russian relations with Middle Eastern leaders</a> NPR: President Biden is meeting with 9 leaders from the Middle East in Jeddah, Saudi Arabia — seeking to reassert U.S. leadership in the region, and stave off Chinese and Russian influence. 
  <p class="updated_time"> 07:09 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868458/a-water-crisis-restricts-usage-to-6-hours-a-day-in-one-of-mexicos-largest-cities">A water crisis restricts usage to 6 hours a day in one of Mexico's largest cities</a> NPR: Scott Simon talks with Associated Press reporter Marcos Martinez Chacon about the water crisis affecting the residents of Monterrey, one of Mexico's largest cities. 
- <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111868451/the-viral-song-mi-bebito-fiu-fiu-narrates-a-salacious-presidential-scandal-in-pe">The viral song 'Mi Bebito Fiu Fiu' narrates a salacious presidential scandal in Peru</a> NPR: There's a Peruvian political scandal behind the viral "Mi Bebito Fiu Fiu" song and meme on TikTok. Journalist Diego Salazar explains. 
 
 
 </details>
@@ -110,8 +112,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Jul. 18 </p> 
+ <a href="https://www.npr.org/2022/07/18/1110911561/russia-ukraine-war-a-weekly-recap-and-look-ahead-july-18">Russia-Ukraine war: A weekly recap and look ahead (July 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 06:20 AM CT, Jul. 18 </p> 
- <a href="https://www.npr.org/2022/07/18/1111985660/uvalde-shooting-texas-house-report-systemic-failures">The Uvalde shooting shows that gun laws do matter, says official who worked on report</a> NPR: NPR's Steve Inskeep talks to Texas State Rep. Joe Moody about the report he helped write on the Uvalde elementary school shooting, and what he hopes will come of it. 
+ <a href="https://www.npr.org/2022/07/18/1111985660/uvalde-shooting-texas-house-report-systemic-failures">The Uvalde shooting shows that gun laws do matter, says official who worked on report</a> NPR: Texas State Rep. Joe Moody, who helped write the report on the shooting, says he hopes the investigation helps lawmakers improve policy going forward — particularly when it comes to gun control. 
  <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111768365/immigration-bill-food-prices-farmers-h-2a-visas-republicans">The Senate is nearing a deal on immigration that could also lower food prices</a> NPR: Two Senators are closer then ever before on an immigration-related bill that would provide a much-needed workforce for agriculture. But can they get the Farm Bureau on board the final sticking point? 
  <p class="updated_time"> 04:00 AM CT, Jul. 18 </p> 
@@ -144,8 +148,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/16/1111868479/president-biden-tackles-chinese-and-russian-relations-with-middle-eastern-leader">President Biden tackles Chinese and Russian relations with Middle Eastern leaders</a> NPR: President Biden is meeting with 9 leaders from the Middle East in Jeddah, Saudi Arabia — seeking to reassert U.S. leadership in the region, and stave off Chinese and Russian influence. 
  <p class="updated_time"> 07:04 AM CT, Jul. 16 </p> 
  <a href="https://www.npr.org/2022/07/16/1111868423/week-in-politics-biden-in-saudi-jan-6-committee-subpoenas-secret-service-texts">Week in politics: Biden in Saudi; Jan. 6 committee subpoenas Secret Service texts</a> NPR: President Biden's middle east diplomacy, and the January 6 committee issues new subpoenas as it continues to build a case against former President Donald Trump. 
- <p class="updated_time"> 04:00 AM CT, Jul. 16 </p> 
- <a href="https://www.npr.org/2022/07/16/1111738129/john-fetterman-pennsylvania-democrat-senate-stroke-abortion-guns">Sidelined by a health scare, Fetterman readies a return to the Senate campaign trail</a> NPR: Pennsylvania Democrat John Fetterman's expected return to the campaign trail comes as issues such as abortion rights and gun violence have taken on a new intensity. 
 
 
 </details>
