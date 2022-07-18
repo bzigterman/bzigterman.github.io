@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Jul. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 03:57 AM CT, Jul. 18 </p> 
  <a href="https://www.npr.org/2022/07/18/1111996473/france-wildfires-heat-wave-europe">France fights spreading wildfires as heat wave fries Europe</a> NPR: Authorities in southwestern France announced plans to evacuate more towns. 
  <p class="updated_time"> 03:52 AM CT, Jul. 18 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-62145780?at_medium=RSS&at_campaign=KARANGA">83, Samrat Prithviraj: Why Bollywood's big films are flopping at the box office</a> BBC: Several big-ticket films in 2022 have failed at the box office, leaving producers confused. 
  <p class="updated_time"> 06:51 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62178794?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The fight to rescue our adopted children</a> BBC: A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite. 
- <p class="updated_time"> 06:26 PM CT, Jul. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62202240?at_medium=RSS&at_campaign=KARANGA">Ghana confirms first cases of deadly Marburg virus</a> BBC: Two patients in the West African nation have died recently of the Ebola-like virus, officials say. 
  <p class="updated_time"> 06:09 PM CT, Jul. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-62202068?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Speak to us! Cowards! - Families yell over report</a> BBC: People react at the end of a press conference about a report into the 24 May shooting which left 21 dead. 
  <p class="updated_time"> 06:04 PM CT, Jul. 17 </p> 
