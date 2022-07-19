@@ -74,7 +74,7 @@ npr_politics <- tidyfeed("feeds.npr.org/1014/rss.xml") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") #%>%
+nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(feed = "NYT") %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
