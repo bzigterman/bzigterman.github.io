@@ -74,23 +74,23 @@ npr_politics <- tidyfeed("feeds.npr.org/1014/rss.xml") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-# nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") #%>%
+nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") #%>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "NYT") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time,
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+# cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
 #   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "NYT") %>%
+#   mutate(feed = "CNN") %>%
 #   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
 #   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
 #   mutate(clean_time = strftime(x = central_time, 
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
-
-cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "CNN") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
 
 # bloomberg_politics <- tidyfeed("https://feeds.bloomberg.com/politics/news.rss") %>%
 #   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
@@ -110,7 +110,7 @@ cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
 #                                tz = "US/Central",
 #                                format = "%I:%M% %p CT, %b. %d"))
 
-politics_news <- full_join(cnn_politics, npr_politics) %>%
+politics_news <- full_join(nyt_politics, npr_politics) %>%
   #full_join(politico_playbook) %>%
   #full_join(politico_huddle) %>%
   #full_join(politico_congress) %>%
@@ -199,7 +199,7 @@ npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
 world_news <- full_join(bbc, wsj) %>%
   #full_join(bbc) %>%
   #full_join(wsj_world) %>%
-  full_join(npr_world) %>%
+  #full_join(npr_world) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
   filter(central_time > past_week) %>%

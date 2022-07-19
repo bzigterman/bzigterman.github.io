@@ -14,8 +14,6 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Basketball Standings]({{ site.baseurl }}/projects/basketball)
 
-## [News Rivers]({{ site.baseurl }}/projects/news)
-
 ## [Weather]({{ site.baseurl }}/projects/weather)
 
 <details>
@@ -27,7 +25,6 @@ I like to make stuff with the R programming language, and here is where I collec
 <p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/econ.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/econ.yml/badge.svg" alt="autoecon"></a></p>
 <p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/baseball.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/baseball.yml/badge.svg" alt="autobaseball"></a></p>
 <p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/basketball.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/basketball.yml/badge.svg" alt="autobasketball"></a></p>
-<p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/news.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/news.yml/badge.svg" alt="autonews"></a></p>
 <p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/weather.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/weather.yml/badge.svg" alt="autoweather"></a></p>
 <p><a href="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/websiteupdater.yml"><img src="https://github.com/bzigterman/bzigterman.github.io/actions/workflows/websiteupdater.yml/badge.svg" alt="websiteupdater"></a></p>
 
