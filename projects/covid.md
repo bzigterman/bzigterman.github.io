@@ -1878,21 +1878,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">782K</td>
-<td class="gt_row gt_right">976K</td>
+<td class="gt_row gt_right">818K</td>
+<td class="gt_row gt_right">1M</td>
 <td class="gt_row gt_right">+25%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">1K</td>
 <td class="gt_row gt_right gt_striped">2K</td>
-<td class="gt_row gt_right gt_striped">+49%</td></tr>
+<td class="gt_row gt_right gt_striped">+53%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">6M</td>
 <td class="gt_row gt_right">4M</td>
-<td class="gt_row gt_right">&minus;31%</td></tr>
+<td class="gt_row gt_right">&minus;29%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
-<td class="gt_row gt_right gt_striped">+1%</td></tr>
+<td class="gt_row gt_right gt_striped">+0%</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">61</td>
 <td class="gt_row gt_right">61</td>
@@ -1900,7 +1900,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -1909,11 +1909,11 @@ html {
 
 ## Case Acceleration
 
-As of Monday, the 14-day percent change in average new cases was:
+As of Tuesday, the 14-day percent change in average new cases was:
   
 - 20% in Champaign County
 - 77% in Illinois
-- 23% in the United States
+- 17% in the United States
 - 25% worldwide
 
 <picture>
@@ -1926,11 +1926,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Monday, the 14-day percent change in average new deaths was:
+As of Tuesday, the 14-day percent change in average new deaths was:
   
 - 33% in Illinois
-- 12% in the United States
-- 49% worldwide
+- 9% in the United States
+- 53% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
