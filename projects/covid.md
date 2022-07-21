@@ -1880,7 +1880,7 @@ html {
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">861K</td>
 <td class="gt_row gt_right">1M</td>
-<td class="gt_row gt_right">+21%</td></tr>
+<td class="gt_row gt_right">+22%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">2K</td>
 <td class="gt_row gt_right gt_striped">3K</td>
