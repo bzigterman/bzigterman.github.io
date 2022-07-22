@@ -9,20 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:50 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62241953?at_medium=RSS&at_campaign=KARANGA">Ivana Trump's funeral held in New York City</a> BBC: The funeral of Donald Trump's first wife brings the family together for a rare public reunion. 
- <p class="updated_time"> 07:42 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62231936?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's Lavrov says ready to expand war aims</a> BBC: Foreign Minister Sergei Lavrov says Western long-range weapons have changed the geography of the war. 
- <p class="updated_time"> 07:42 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62217398?at_medium=RSS&at_campaign=KARANGA">Is China really open to improving ties with Australia?</a> BBC: There is hope the breakdown in diplomatic relations between the two countries could be ending. 
- <p class="updated_time"> 07:21 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62241954?at_medium=RSS&at_campaign=KARANGA">Biden unveils $2.3bn plan to fight climate change</a> BBC: But he stops short of formally declaring a climate emergency, despite pressure from fellow Democrats. 
- <p class="updated_time"> 06:54 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62246911?at_medium=RSS&at_campaign=KARANGA">Iraq accuses Turkey of attack that killed nine in Kurdistan</a> BBC: Most fatalities in the attack near the two countries' border were Iraqi tourists and some were children. 
- <p class="updated_time"> 06:46 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62227694?at_medium=RSS&at_campaign=KARANGA">How India can save pilgrimages and fragile Himalayas</a> BBC: Experts say regulation is essential to protect people's lives as well as the fragile Himalayan region. 
- <p class="updated_time"> 06:31 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62215613?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Why the ethnic factor may be losing its power</a> BBC: Ethnic rivalries have often led to horrific violence at election time, but this might be changing. 
+ <p class="updated_time"> 07:03 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62249895?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 06:56 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62259383?at_medium=RSS&at_campaign=KARANGA">On the ground as security forces push back protesters in Sri Lanka</a> BBC: Security forces raid the main anti-government protest camp in Colombo in the early hours of Friday. 
+ <p class="updated_time"> 06:52 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-62250407?at_medium=RSS&at_campaign=KARANGA">Reena Varma: India woman who visited her Pakistan home after 75 years</a> BBC: Reena Varma and her family left their home in 1947, weeks before the India-Pakistan partition. 
+ <p class="updated_time"> 06:39 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62244845?at_medium=RSS&at_campaign=KARANGA">What UK aid cut means for one South Sudan hospital</a> BBC: One of the few doctors serving 1.3 million people may have to leave because he would lose his salary. 
+ <p class="updated_time"> 06:31 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62260948?at_medium=RSS&at_campaign=KARANGA">Brazil violence: At least 18 killed in police raid on Rio favela</a> BBC: Police say victims in the huge raid included a police officer and a bystander. 
+ <p class="updated_time"> 06:24 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62189546?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Family given sight back settle into Polish life</a> BBC: Five-year-old twins who were blinded by a missile attack update us on life in Poland after surgery. 
+ <p class="updated_time"> 06:04 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62260678?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Forces raid anti-government protest camp</a> BBC: Troops descended on the camp less than a day after Ranil Wickremesinghe was sworn in as president. 
+ <p class="updated_time"> 06:03 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62229956?at_medium=RSS&at_campaign=KARANGA">Comic-Con returns in-person to San Diego after pandemic</a> BBC: More than 100,000 fans are gathering in San Diego for Comic-Con. 
+ <p class="updated_time"> 06:01 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62252704?at_medium=RSS&at_campaign=KARANGA">Russia 'looting' steel bound for Europe and UK, says Metinvest boss</a> BBC: A Ukrainian steel boss accuses Russia of stealing metal that had been meant for Europe. 
+ <p class="updated_time"> 05:02 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62254597?at_medium=RSS&at_campaign=KARANGA">Food crisis: Ukraine grain export deal reached with Russia, says Turkey</a> BBC: Turkey says a deal has been reached with Russia to let Ukraine ship grain through the Black Sea. 
+ <p class="updated_time"> 04:47 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62260454?at_medium=RSS&at_campaign=KARANGA">Polio: New York reports first US case in nearly a decade</a> BBC: An unvaccinated young adult in New York is experiencing paralysis after contracting the virus. 
+ <p class="updated_time"> 04:25 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62256544?at_medium=RSS&at_campaign=KARANGA">US President Joe Biden 'doing great' after testing positive for Covid</a> BBC: The 79-year-old is experiencing mild symptoms and will continue to work, the White House says. 
+ <p class="updated_time"> 02:03 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/58159451?at_medium=RSS&at_campaign=KARANGA">Europe wildfires: Are they linked to climate change?</a> BBC: A series of wildfires across the Europe has caused alarm - how do they compare with previous years? 
+ <p class="updated_time"> 01:45 PM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/ecb-raises-rates-by-half-a-percentage-point-11658406446">ECB Lifts Rates by Half a Point in First Hike Since 2011</a> WSJ: The European Central Bank announced a larger-than-expected rate increase and unveiled a plan to buy the debt of Europe’s most vulnerable economies, taking bold action to protect the currency union. 
+ <p class="updated_time"> 01:35 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62249051?at_medium=RSS&at_campaign=KARANGA">What next for Italy after fall of Draghi?</a> BBC: Italy is heading for new elections and months of political instability, after its government collapsed. 
+ <p class="updated_time"> 12:37 PM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62259179?at_medium=RSS&at_campaign=KARANGA">Russia about to run out of steam in Ukraine - MI6 chief</a> BBC: In a rare public appearance, the UK secret intelligence service chief says Ukraine could hit back. 
+ <p class="updated_time"> 11:39 AM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-face-thorny-issues-to-complete-implement-grain-deal-11658408580">Turkey, U.N. Officials Say Deal Reached With Russia, Ukraine on Grain Exports</a> WSJ: Officials plan to sign a deal Friday to resume exports of Ukrainian grain via the Black Sea, raising hopes of freeing food supplies trapped by the Russian invasion. 
+ <p class="updated_time"> 11:31 AM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/russias-donbas-offensive-slows-as-ukraine-takes-advantage-of-western-arms-11658401361">Russia's Donbas Offensive Slows as Ukraine Takes Advantage of Western Arms</a> WSJ: Western weapons deliveries and Ukrainian strikes on Russian arms depots are forcing Russia to largely halt its advance in eastern parts of Ukraine where Moscow seized swaths of territory but is now facing logistical and resupply issues. 
+ <p class="updated_time"> 11:26 AM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62240730?at_medium=RSS&at_campaign=KARANGA">Eurozone raises interest rates for first time in 11 years</a> BBC: The European Central Bank has raised rates as it tries to tackle soaring eurozone inflation. 
+ <p class="updated_time"> 10:27 AM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62253293?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: How did Boris Johnson sign off from PMQs?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
+ <p class="updated_time"> 10:17 AM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61892776?at_medium=RSS&at_campaign=KARANGA">Droupadi Murmu: The woman who is India's first tribal president</a> BBC: Droupadi Murmu registered a comfortable win against her rival candidate Yashwant Sinha. 
+ <p class="updated_time"> 09:18 AM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62248625?at_medium=RSS&at_campaign=KARANGA">Lynne O'Donnell: Taliban detained, abused and threatened me</a> BBC: Australian Lynne O'Donnell says she was forced to post tweets that publicly retracted her articles. 
+ <p class="updated_time"> 08:56 AM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/mario-draghi-resigns-as-italy-prime-minister-11658391889">Italy's Prime Minister Mario Draghi Resigns as Support Crumbles</a> WSJ: The prime minister’s announcement came a day after three large parties in his national unity coalition government didn’t back the prime minister in a Senate confidence vote. 
+ <p class="updated_time"> 07:28 AM CT, Jul. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62251547?at_medium=RSS&at_campaign=KARANGA">Mexican woman who had reported threats dies after being set on fire</a> BBC: Luz Raquel Padilla, who had reported threats against her, was doused with alcohol and set alight. 
+ <p class="updated_time"> 04:39 AM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-has-a-problem-with-data-leaks-one-reason-is-its-surveillance-state-11658410752">China Has a Problem With Data Leaks. One Reason Is Its Surveillance State.</a> WSJ: Cybersecurity researchers say the Chinese government’s mass collection of personal information aids in social control but undermines national security. 
+ <p class="updated_time"> 03:57 AM CT, Jul. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-resumes-nord-stream-natural-gas-supply-to-europe-11658380074">Russia Resumes Nord Stream Natural-Gas Supply to Europe</a> WSJ: The restart of the pipeline buys time for governments to decouple from the Kremlin’s exports amid what they expect will be an increasingly unreliable supply of energy heading into the winter. 
  <p class="updated_time"> 06:22 PM CT, Jul. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-62120058?at_medium=RSS&at_campaign=KARANGA">Pesticide made us sterile, banana workers say</a> BBC: US companies are accused of having used a pesticide in Latin America even though its health risks were known. 
  <p class="updated_time"> 06:18 PM CT, Jul. 20 </p> 
@@ -31,50 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-62214936?at_medium=RSS&at_campaign=KARANGA">Somalia drought: ‘I remember at least five children died’</a> BBC: Fardhosa is just 13 years old but has lived through three droughts in her life and never had a proper meal. 
  <p class="updated_time"> 06:02 PM CT, Jul. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-62243068?at_medium=RSS&at_campaign=KARANGA">Killed for blasphemy in Nigeria: 'It felt like a spear pierced my heart'</a> BBC: Twelve states in Nigeria's north have Islamic courts that view blasphemy as an offence punishable by death. 
- <p class="updated_time"> 05:41 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-62244874?at_medium=RSS&at_campaign=KARANGA">Ukraine's First Lady asks US Congress for weapons</a> BBC: In a passionate speech, Olena Zelenska asks for more help in fighting the war against Russia. 
- <p class="updated_time"> 03:11 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62240407?at_medium=RSS&at_campaign=KARANGA">Slovak village votes to keep sign honouring fascist leader</a> BBC: Only one councillor votes to change the sign, which honours fascist leader Monsignor Jozef Tiso. 
- <p class="updated_time"> 02:18 PM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958">Ukraine Targets Key Bridge, Prepares Counteroffensive in South</a> WSJ: Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive. 
- <p class="updated_time"> 01:43 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62219401?at_medium=RSS&at_campaign=KARANGA">Italian PM Mario Draghi fails in bid to revive government</a> BBC: Mario Draghi called for a new pact to save his unity coalition, but three parties refuse to back him. 
- <p class="updated_time"> 01:09 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62239811?at_medium=RSS&at_campaign=KARANGA">Cheetahs to prowl India for first time in 70 years</a> BBC: The mammals are coming from Namibia in a deal that has been in negotiations since 2020. 
- <p class="updated_time"> 12:51 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62235561?at_medium=RSS&at_campaign=KARANGA">Wildfires rage in Greece, Spain and Italy as heatwave moves across Europe</a> BBC: Though temperatures in the south-west have cooled, fires continue to burn in Greece, Spain and Italy. 
- <p class="updated_time"> 12:33 PM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62237082?at_medium=RSS&at_campaign=KARANGA">Ukraine war round-up: Russia expands its aims and Putin's tricky Tehran moment</a> BBC: Russia aims for territory beyond Ukraine's east, and Putin's warm welcome - and awkward moment - in Iran. 
- <p class="updated_time"> 12:06 PM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/italian-prime-minister-mario-draghi-says-he-wont-resign-if-he-wins-a-confidence-vote-11658306984">Mario Draghi Likely to Resign</a> WSJ: Mass abstentions by three large Italian political parties indicated the prime minister no longer has the support of a majority of parliament. 
- <p class="updated_time"> 11:28 AM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/u-s-initiates-trade-fight-with-mexico-over-energy-policy-11658322032">U.S. Initiates Trade Fight With Mexico Over Energy Policy</a> WSJ: Washington accused President Andrés Manuel López Obrador’s government of favoring its state-owned utility and oil company at the expense of U.S. businesses. “Ooooh, I’m so scared,” Mr. López Obrador said in response. 
- <p class="updated_time"> 11:14 AM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/iraq-accuses-turkey-of-attack-on-tourist-area-killing-eight-people-11658342600">Iraq Accuses Turkey of Attack on Tourist Area, Killing Eight People</a> WSJ: At least four shells struck the vacation area in Iraq’s semiautonomous Kurdistan region, also wounding at least 20 people. 
- <p class="updated_time"> 09:43 AM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putin-says-russia-will-honor-gas-commitments-but-warns-of-new-nord-stream-curbs-11658308388">Putin Says Russia Will Honor Europe Gas Commitments but Warns of New Curbs</a> WSJ: Russian President Vladimir Putin said flows via the Nord Stream pipeline could be cut soon if sanctions prevent additional maintenance on its components. 
- <p class="updated_time"> 09:37 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-62230201?at_medium=RSS&at_campaign=KARANGA">EU told to prepare for Russian gas shut-off</a> BBC: Countries urged to cut use by 15% until March, with the target becoming mandatory if Russia halts supplies. 
- <p class="updated_time"> 08:37 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62239808?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: 'If we want change we need new faces'</a> BBC: As Ranil Wickremesinghe officially takes over, the BBC's Secunder Kermani looks at Sri Lanka's challenges. 
- <p class="updated_time"> 06:55 AM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109">Putin's Gas Game: Toy With Europe's Supply and Make Its Leaders Squirm</a> WSJ: The Kremlin is weaponizing energy over Ukraine sanctions, a gambit that carries huge risks for both sides as customers race to lock in alternative sources. 
- <p class="updated_time"> 05:45 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-62205981?at_medium=RSS&at_campaign=KARANGA">El Salvador gangs: State of emergency extended again</a> BBC: The controversial measures introduced to combat gangs have led to more than 46,000 arrests. 
- <p class="updated_time"> 05:19 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61429791?at_medium=RSS&at_campaign=KARANGA">Ranil Wickremesinghe: Can Sri Lanka's new president bring unity?</a> BBC: Ranil Wickremesinghe has the top job he's dreamed of all his life - the challenges he faces are huge. 
- <p class="updated_time"> 05:01 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62202901?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Ranil Wickremesinghe elected president by MPs</a> BBC: Ranil Wickremesinghe is allied with the former leaders and so deeply unpopular with the public. 
- <p class="updated_time"> 04:24 AM CT, Jul. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62235573?at_medium=RSS&at_campaign=KARANGA">Greek wildfire: High winds fuel fire raging through outskirts of Athens</a> BBC: The Greek fire service says nearly 500 firefighters have been deployed to tackle the blaze. 
- <p class="updated_time"> 01:23 AM CT, Jul. 20 </p> 
- <a href="https://www.wsj.com/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621">Record-Breaking Heat Scorches Europe</a> WSJ: Extreme heat has swept through Europe over the past week, with thousands of people evacuated from their homes as wildfires broke out in swaths of the region’s south. 
- <p class="updated_time"> 06:32 PM CT, Jul. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62228550?at_medium=RSS&at_campaign=KARANGA">Kyiv apartment residents hope to repair Russian rocket damage</a> BBC: They are raising funds to repair their block, which was one of the first civilian targets hit by a Russian rocket. 
- <p class="updated_time"> 06:09 PM CT, Jul. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62215620?at_medium=RSS&at_campaign=KARANGA">Islamic veil: Why fewer women in North Africa are wearing it</a> BBC: The hijab has become a symbol of the battle between secular and Islamist groups. 
- <p class="updated_time"> 06:06 PM CT, Jul. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62224790?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid lockdown: The struggle of blind massage therapists</a> BBC: Blind massage therapists say the lockdown and lack of government support are making life difficult. 
 
 
 </details>
@@ -82,76 +76,82 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:58 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/electoral-count-act-senate.html">Bipartisan Senate Group Strikes Deal to Rewrite Electoral Count Act</a> NYT: The changes outlined by the senators are intended to prevent a repeat of the effort on Jan. 6, 2021, to overturn the presidential election in Congress. 
- <p class="updated_time"> 06:59 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/fetterman-stroke-campaign-trail.html">Fetterman Hopes to Return to Senate Campaign Trail Soon, He Says in New Interview</a> NYT: After a stroke in May, Lt. Gov. John Fetterman of Pennsylvania, the state’s Democratic Senate nominee, is slowly re-emerging in public. His first interview since then was with a Pittsburgh paper. 
- <p class="updated_time"> 06:42 PM CT, Jul. 20 </p> 
+ <p class="updated_time"> 07:05 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/jan-6-hearing-trump.html">Jan. 6 Committee Delves Into Trump’s Willful Inaction During the Riot</a> NYT: In the last in a series of public sessions to lay out its findings so far, the House panel is set to hear from two officials who resigned in disgust after witnessing the former president’s inaction. 
+ <p class="updated_time"> 07:02 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/18/us/politics/jan-6-hearing-today-trump-dereliction-of-duty.html">The Jan. 6 panel begins to sum up its case against Trump.</a> NYT: In a hearing aimed at putting a capstone on the public sessions thus far, two military veterans will make the case that Mr. Trump neglected his presidential duties when he refused to call off the mob. 
+ <p class="updated_time"> 07:01 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/secret-service-criminal-inquiry-missing-texts.html">Service Service Asked to Stop Investigating Jan. 6 Texts Amid Criminal Inquiry</a> NYT: The Homeland Security Department’s inspector general told the Secret Service to halt its internal investigation into how phone records from around Jan. 6 were purged. 
+ <p class="updated_time"> 06:26 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/biden-covid-positive.html">Biden Is Experiencing Mild Symptoms After Testing Positive</a> NYT: The president tested positive for the coronavirus on Thursday and is expected to isolate for at least five days before resuming normal activities. 
+ <p class="updated_time"> 06:14 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/supreme-court-biden-immigration.html">Supreme Court Refuses for Now to Restore Biden Plan on Immigration Enforcement</a> NYT: A federal judge in Texas has blocked guidelines setting priorities for Immigrations and Customs Enforcement agents, saying they were at odds with the immigrations laws. 
+ <p class="updated_time"> 06:00 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/american-politics-middle-ground.html">The Hole in the Center of American Politics</a> NYT: Disaffected Republicans have taken wildly divergent paths to opposing Donald Trump. We will soon get new tests of whose strategy is working better. 
+ <p class="updated_time"> 05:18 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/national-guard-january-6-riot.html">Why Did It Take So Long to Deploy the National Guard on Jan. 6?</a> NYT: The House committee’s hearing on Thursday could shed light on what steps were and were not taken by the Trump White House to send troops to help quell the violence at the Capitol. 
+ <p class="updated_time"> 05:16 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/business/economy/port-oakland-truckers-protest.html">Truckers’ Protests Over Labor Law Block Access to Oakland’s Port</a> NYT: The truckers say they’re concerned that a law classifying many freelance workers as employees could hurt their ability to operate independently. 
+ <p class="updated_time"> 04:40 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/us/politics/midterms-abortion-access.html">Where Abortion Is on the Ballot</a> NYT: The outcome of November’s elections will affect abortion access for millions of Americans. Activists on both sides are focused on races up and down the ballot. 
+ <p class="updated_time"> 04:34 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/jill-biden-covid-potus.html">Jill Biden Keeps Schedule Despite Close Contact With President</a> NYT: The C.D.C. says people who are up to date with vaccinations don’t need to quarantine after exposure, but should take precautions like wearing a mask around other people. 
+ <p class="updated_time"> 04:32 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/covid-biden-congress-senate.html">Lawmakers Who Traveled With Biden Are at Capitol But Testing and Masking</a> NYT: Any absences as a result of positive tests, particularly in the Democratic caucuses, could delay votes on Mr. Biden’s agenda. 
+ <p class="updated_time"> 04:18 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/biden-paxlovid-antiviral.html">Biden Has Begun Taking Paxlovid, an Antiviral Medication</a> NYT: Researchers are still working to answer key questions about the drug, including how effective it is in vaccinated people and whether cases of “rebounding” in people who receive it are common. 
+ <p class="updated_time"> 04:09 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777726/the-impact-of-the-jan-6-hearings-on-american-voters">The impact of the Jan. 6 hearings on American voters</a> NPR: Nearly six in 10 Americans say they are paying at least some attention to the Jan. 6 hearings, according to a NPR-PBS NewsHour Marist poll. But a poll can't fully capture how people are reacting. 
+ <p class="updated_time"> 04:04 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777716/heres-what-weve-learned-since-the-1st-jan-6-hearing">Here's what we've learned since the 1st Jan. 6 hearing</a> NPR: The Jan. 6 committee is wrapping up its summer series of made-for-TV hearings Thursday night. Here's a look back at all the bombshell details and the major revelations it's shared so far. 
+ <p class="updated_time"> 04:02 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777709/the-alleged-assassin-of-shinzo-abe-may-have-been-driven-by-a-grudge-against-moon">The alleged assassin of Shinzo Abe may have been driven by a grudge against 'Moonies'</a> NPR: Japan's Unification Church is under the spotlight after the murder of former Prime Minister Shinzo Abe. Known as the "Moonies," the group was apparently the target of the alleged assassin's hatred. 
+ <p class="updated_time"> 04:02 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/house-contraception.html">House Passes Bill to Ensure Contraception Rights After Dobbs</a> NYT: The vote was mostly along party lines, with all but eight Republicans in opposition to a bill that aims to protect a right seen as newly at risk after the overturning of Roe v. Wade. 
+ <p class="updated_time"> 03:40 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777688/rep-adam-schiff-on-what-to-expect-in-the-final-jan-6-hearing">Rep. Adam Schiff on what to expect in the final Jan. 6 hearing</a> NPR: NPR's Juana Summers speaks with Rep. Adam Schiff, D-Calif., about the eighth and final Jan. 6 hearing. 
+ <p class="updated_time"> 03:40 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777681/italian-prime-minister-mario-draghi-resigns-despite-surviving-a-no-confidence-vo">Italian Prime Minister Mario Draghi resigns despite surviving a no confidence vote</a> NPR: Despite surviving a no confidence vote, Italian Prime Minister Mario Draghi has resigned. He said he won't govern without 100% support in his coalition, after some parties abstained from voting. 
+ <p class="updated_time"> 03:25 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777646/president-biden-has-tested-positive-for-covid-19">President Biden has tested positive for COVID-19</a> NPR: President Biden is experiencing mild symptoms after testing positive for COVID-19. 
+ <p class="updated_time"> 03:25 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112777639/tonights-jan-6-hearing-to-focus-on-what-trump-was-doing-for-3-hours-during-the-r">Tonight's Jan. 6 hearing to focus on what Trump was doing for 3 hours during the riot</a> NPR: The House Jan. 6 committee will hold its eighth hearing Thursday night, focused on former President Trump's activities when he was out of public view for three hours during the attack on the Capitol. 
+ <p class="updated_time"> 03:15 PM CT, Jul. 21 </p> 
  <a href="https://www.nytimes.com/2022/07/20/us/politics/same-sex-marriage-bill-senate.html">Same-Sex Marriage Bill, Considered Dead on Arrival, Gains New Life</a> NYT: The larger-than-expected G.O.P. vote in the House in support of legislation to codify marriage equality caught both parties off guard, suggesting there could be a narrow path to enactment. 
- <p class="updated_time"> 06:37 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/political-violence-survey-united-states.html">Survey Looks at Acceptance of Political Violence in U.S.</a> NYT: Nearly 12 percent of respondents said it was at least “sometimes justified” to use violence if it meant returning Donald J. Trump to the presidency. 
- <p class="updated_time"> 06:23 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/steve-bannon-trial-lawyer-jan-6.html">Prosecutors Rest in Contempt Case Against Steve Bannon</a> NYT: The government, seeking to hold Mr. Bannon to account for defying a subpoena from Congress, wrapped up its case after calling just two witnesses. 
- <p class="updated_time"> 06:08 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/trump-wisconsin-election-call.html">Trump Recently Urged a Powerful Legislator to Overturn His 2020 Defeat in Wisconsin</a> NYT: Donald J. Trump called Robin Vos, the speaker of the Wisconsin Assembly, on July 9 and pushed him to support a resolution to retract the state’s 10 electoral votes for President Biden. 
- <p class="updated_time"> 06:00 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/democrats-biden-manchin-climate.html">Democrats’ Dilemma on Manchin: Bash Him, or Bash Big Oil Instead?</a> NYT: With his climate agenda in ruins, President Biden faces a stark political choice, liberal pundits say. 
- <p class="updated_time"> 05:29 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/pence-trump-midterm-election.html">Pence Backs Trump Loyalists and Skeptics in House Elections</a> NYT: Mike Pence has quietly helped Republican candidates despite their loyalty to Donald J. Trump and support for his election lies, which placed Mr. Pence’s life at risk. 
- <p class="updated_time"> 05:08 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/biden-climate-emergency.html">Biden Announces Plans to Deal With Climate ‘Emergency’</a> NYT: The president stopped short of declaring a national emergency and instead announced several steps aimed at dealing with the effects of climate change. 
- <p class="updated_time"> 04:55 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/19/us/politics/secretary-of-state-races-trump.html">The Midterm Races That Give Democrats Nightmares</a> NYT: A new poll offers fodder for both parties to claim that voters are on their side in crucial secretary of state elections. Who’s right? 
- <p class="updated_time"> 04:43 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/maryland-governor-dan-cox.html">How Dan Cox Won the Republican Race for Maryland Governor</a> NYT: Dan Cox, the new Republican nominee for governor, won by playing up his right-wing credentials — which Democrats eagerly emphasized in television advertising. 
- <p class="updated_time"> 04:26 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112608680/ivana-trump-funeral">On the day of Ivana Trump's funeral, Donald Trump remembers her 'beautiful life'</a> NPR: The former president joined all his children, an array of other relatives and friends at a Manhattan church for Ivana Trump's funeral Mass on Wednesday. 
- <p class="updated_time"> 04:22 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/business/us-china-semiconductor-compete.html">Senate Advances Bill to Bolster U.S. Competitiveness With China</a> NYT: A bipartisan group of senators supported a $52 billion package of subsidies for semiconductor makers, lending momentum to an effort to enact a major industrial policy bill. 
- <p class="updated_time"> 04:20 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579637/the-ethiopian-government-has-jailed-tens-of-thousands-in-a-countrywide-crackdown">The Ethiopian government has jailed tens of thousands in a countrywide crackdown</a> NPR: Conflict and fear have taken its toll on freedom of speech in Ethiopia, a country that was once heralded as an African powerhouse with a bright future. 
- <p class="updated_time"> 04:08 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/climate-change-republicans-delay.html">Delay as the New Denial: The Latest Republican Tactic to Block Climate Action</a> NYT: The party has largely moved beyond denying the existence of climate change but continues to oppose dramatic action to halt it, worried about the short-term economic consequences. 
- <p class="updated_time"> 03:52 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/world/europe/ukraine-first-lady-congress.html">Ukraine’s first lady tells the U.S. Congress that ‘Russia is destroying our people.’</a> NYT: In a rare appearance by a foreign first spouse before Congress, Olena Zelenska asked for more weapons to defend against Russian aggression. 
- <p class="updated_time"> 03:48 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112561779/bannon-prosecutors-object-that-defense-tried-to-turn-trial-into-a-political-circ">Prosecution rests its case in Steve Bannon trial</a> NPR: The outlines of Bannon's defense, including whether he will testify, remain somewhat murky. In opening statements, Bannon attorney Evan Corcoran cast the case as infused with politics. 
- <p class="updated_time"> 03:47 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579623/former-white-house-chiefs-of-staff-weigh-in-on-how-biden-can-avoid-a-midterm-dis">Former White House chiefs of staff weigh in on how Biden can avoid a midterm disaster</a> NPR: President Biden's agenda is stuck and his standing with the public is at historic lows. Former White House chiefs of staff offer insights on what's going wrong and what could turn things around. 
- <p class="updated_time"> 03:47 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579616/president-biden-announced-climate-actions-but-didnt-declare-a-climate-emergency">President Biden announced climate actions, but didn't declare a climate emergency</a> NPR: President Biden traveled to a factory supporting offshore wind energy in Massachusetts to announce climate actions, but he did not declare a climate emergency as climate advocates had hoped for. 
- <p class="updated_time"> 03:39 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/us/politics/american-bridge-trump-federal-election-commission.html">Democratic Group Sues the Federal Election Commission Over Trump’s 2024 Hinting</a> NYT: American Bridge claims in a lawsuit that the F.E.C.’s inaction has given Donald J. Trump an unlawful advantage over any Democratic opponent in 2024. 
- <p class="updated_time"> 03:37 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112558286/marines-first-black-four-star-general">The Marines are set to have the first Black 4-star general in their 246-year history</a> NPR: Lt. Gen. Michael Langley's nomination hearing to be general and commander of the United States Africa Command for the U.S. Marine Corps is set for Thursday. 
- <p class="updated_time"> 03:36 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579591/italian-prime-minister-mario-draghis-government-could-collapse-as-early-as-thurs">Italian Prime Minister Mario Draghi's government could collapse as early as Thursday</a> NPR: Despite comfortably winning a confidence motion in the upper house of the Italian parliament, Prime Minister Mario Draghi's government appears doomed. 
- <p class="updated_time"> 03:36 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579584/britains-conservative-party-has-chosen-2-candidates-to-replace-boris-johnson">Britain's Conservative party has chosen 2 candidates to replace Boris Johnson</a> NPR: After several rounds of voting, lawmakers in Britain's Conservative party have chosen the final two candidates to replace Boris Johnson as the United Kingdom's Prime Minister 
- <p class="updated_time"> 03:26 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112579556/the-next-steps-for-the-jan-6-committee-as-hearings-come-to-a-close">The next steps for the Jan. 6 committee as hearings come to a close</a> NPR: With the Jan. 6 committee wrapping up its summer hearings this week, here's a look at the next steps in its investigation. 
- <p class="updated_time"> 03:18 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/sports/quidditch-quadball-name-jk-rowling.html">Quidditch Becomes ‘Quadball,’ Leaving J.K. Rowling Behind</a> NYT: Citing trademark concerns and objections to the author’s views on transgender issues, the sport’s leading groups officially distanced themselves from their “Harry Potter” roots. 
- <p class="updated_time"> 02:54 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/19/us/politics/dan-cox-maryland-governors-race.html">Dan Cox, a Trump Loyalist, Wins Maryland G.O.P. Primary for Governor</a> NYT: Mr. Cox, who wrote on Twitter during the Capitol riot that Mike Pence was a “traitor,” defeated Kelly Schulz, who had been backed by Gov. Larry Hogan. The Democratic primary was too close to call. 
- <p class="updated_time"> 01:59 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/nyregion/albert-vann-dead.html">Albert Vann, Who Built a Black Power Base in Brooklyn, Dies at 87</a> NYT: As a legislator for four decades, he led voter registration drives and challenges to redistricting that rattled the political establishment. 
- <p class="updated_time"> 01:48 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112485228/biden-climate-initiatives">Facing legislative failure, Biden announces incremental climate initiatives</a> NPR: The president touted investments in extreme heat resilience and offshore wind at the site of a converted coal plant in Massachusetts, but stopped short of declaring a "climate emergency." 
- <p class="updated_time"> 01:28 PM CT, Jul. 20 </p> 
- <a href="https://www.nytimes.com/2022/07/20/business/economy/trade-adjustment-assistance-jobs.html">America’s Safety Net for Workers Hurt by Globalization Is Falling Apart</a> NYT: A 60-year-old program that provides retraining to workers whose jobs are eliminated because of foreign competition has expired, leaving many at risk. 
- <p class="updated_time"> 12:23 PM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1105843501/electoral-count-act-changes-pence-january-6th">A bipartisan Senate group announces a deal on reforming the Electoral Count Act</a> NPR: The 1887 law governs the process of counting Electoral College votes and came under fresh scrutiny following attempts to invalidate the presidential election results on Jan. 6, 2021. 
- <p class="updated_time"> 10:59 AM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112297499/biden-approval-hits-another-new-low-as-more-democrats-sour-on-him-poll-finds">Biden approval hits another new low as more Democrats sour on him, poll finds</a> NPR: Democrats' approval of President Biden has dropped 9 points, pushing him to just a 36% approval rating in the latest NPR/PBS NewsHour/Marist poll. 
- <p class="updated_time"> 07:32 AM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1044944618/census-citzenship-question-history-oversight-committee">Documents detail the secret strategy behind Trump's census citizenship question push</a> NPR: Newly released documents confirm the Trump administration's push for a citizenship question was part of a bid to alter the census numbers used to divide up seats in Congress and the Electoral College. 
- <p class="updated_time"> 06:15 AM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112411634/biden-order-promises-more-help-for-americans-detained-or-held-hostage-abroad">Biden order promises more help for Americans detained or held hostage abroad</a> NPR: NPR's Steve Inskeep talks to Diane Foley, mother of journalist James Foley, who was kidnapped and killed by ISIS in 2012, about an executive order meant to help wrongfully detained Americans abroad. 
- <p class="updated_time"> 04:04 AM CT, Jul. 20 </p> 
- <a href="https://www.npr.org/2022/07/20/1112411648/a-bipartisan-group-of-senators-blocks-trump-era-plan-to-realign-the-va">A bipartisan group of senators blocks a Trump-era plan to realign the VA</a> NPR: The plan would have shut many of the Department of Veterans Affairs less-used clinics and aging hospitals. The senators say they're working on a way to rebuild the VA' infrastructure. 
- <p class="updated_time"> 07:06 PM CT, Jul. 19 </p> 
- <a href="https://www.nytimes.com/2022/07/19/us/politics/herschel-walker-campaign.html">Amid Campaign Revamp, Herschel Walker Stumps Without a Stumble</a> NYT: After a string of damaging reports, and briefly shunning publicity, the Republican Senate candidate was out on the trail again in rural Georgia. 
+ <p class="updated_time"> 02:36 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/harris-biden-covid.html">Vice President Kamala Harris Tests Negative</a> NYT: Ms. Harris last saw President Biden two days before he tested positive for the coronavirus. 
+ <p class="updated_time"> 02:08 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/white-house-biden-covid-positive-protection.html">White House Covid Measures Have Varied Over Biden’s Term</a> NYT: At the start of Mr. Biden’s term, the White House went to great lengths to avoid infection and did most business virtually. But face-to-face contacts have grown more common over time. 
+ <p class="updated_time"> 02:02 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112740916/paxlovid-president-biden-covid-antiviral-treatment">What to know about Paxlovid, the COVID drug President Biden is using to speed recovery</a> NPR: Paxlovid has been highly effective at reducing the risks of hospitalization and death, but some patients report a "Paxlovid rebound" in which the disease returns. 
+ <p class="updated_time"> 12:49 PM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112699295/how-the-cpi-became-the-most-powerful-messaging-force-in-the-maga-universe">How the CPI became the most powerful messaging force in the MAGA universe</a> NPR: Journalist Maggie Severns explains how the Conservative Partnership Institute helped push the Republican party further to the right and became what she calls a "clubhouse" for insurrectionists. 
+ <p class="updated_time"> 12:46 PM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/trump-covid-positive-2020.html">Unlike Biden, Trump Got Severely Ill When He Caught Covid in 2020</a> NYT: Mr. Trump’s infection, which came before vaccines were available, was kept secret for days, until he became severely ill and had to be hospitalized. 
+ <p class="updated_time"> 11:52 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/covid-aid-congress.html">Why Getting More Covid Aid Passed Has Stalled in Congress</a> NYT: It remains unclear whether lawmakers will reach agreement on another round of coronavirus aid, even as President Biden tests positive for the virus. 
+ <p class="updated_time"> 11:32 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/mallory-mcmorrow-fundraising-michigan.html">Mallory McMorrow, Who Lashed out at G.O.P., Becomes a Democratic Money Machine</a> NYT: In an interview, State Senator Mallory McMorrow said her aim was to help flip the Michigan State Senate, which Republicans have controlled since 1984. 
+ <p class="updated_time"> 11:27 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/books/michelle-obama-new-book.html">Michelle Obama Will Publish a New Book, ‘The Light We Carry,’ This Fall</a> NYT: In “The Light We Carry,” the former first lady will share her approaches to dealing with challenging times. Her 2018 memoir, “Becoming,” was one of the best-selling books of all time. 
+ <p class="updated_time"> 10:44 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112721118/president-biden-tests-positive-for-covid-19-and-is-experiencing-mild-symptoms">President Biden tests positive for COVID-19 and is experiencing mild symptoms</a> NPR: President Biden has tested positive for COVID-19 and is experiencing mild symptoms, the White House said Thursday. 
+ <p class="updated_time"> 09:54 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/20/us/politics/hhs-aspr-biden.html">Biden Administration Is Elevating an H.H.S. Division to Oversee Pandemic Responses</a> NYT: The move effectively creates a new federal agency — on par with the Centers for Disease Control and Prevention and the Food and Drug Administration. 
+ <p class="updated_time"> 09:53 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/stacey-abrams-georgia-abortion.html">Stacey Abrams Aims to Put Abortion at Center of Georgia Governor Race</a> NYT: After a court ruling put the state’s six-week abortion ban back into effect, Ms. Abrams said that while economic struggles would come and go, “this law is permanent.” 
+ <p class="updated_time"> 09:30 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1061864203/biden-test-positive-covid-19">Biden tests positive for COVID and shows mild symptoms, White House says</a> NPR: The 79-year-old president "will isolate at the White House and will continue to carry out all of his duties fully during that time," a White House statement said. 
+ <p class="updated_time"> 07:00 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112609958/even-before-the-dobbs-ruling-more-americans-were-traveling-for-abortions">Even before the Dobbs ruling, more Americans were traveling for abortions</a> NPR: A report from the Guttmacher Institute finds that state abortion restrictions do not necessarily correlate to a lower abortion rate, as more patients travel out of state. 
+ <p class="updated_time"> 06:21 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112662945/have-hearings-convinced-americans-that-trump-was-singularly-responsible-for-jan">Have hearings convinced Americans that Trump was singularly responsible for Jan. 6?</a> NPR: NPR's Leila Fadel talks to Democratic Rep. Pete Aguilar of California, a member of the House committee investigating the Jan. 6 attack on the Capital, for a preview Thursday's primetime hearing. 
+ <p class="updated_time"> 06:17 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112662938/house-committee-prepares-to-hold-its-8th-public-hearing-on-the-events-of-jan-6">House committee prepares to hold its 8th public hearing on the events of Jan. 6</a> NPR: Members of the panel will focus on former President Donald Trump's inaction to stop the riot at the U.S. Capitol. This hearing is framed as a sort of summer capstone to the series of public hearings. 
+ <p class="updated_time"> 04:07 AM CT, Jul. 21 </p> 
+ <a href="https://www.npr.org/2022/07/21/1112663022/why-did-u-k-s-tories-pull-the-plug-on-johnson-but-republicans-still-support-trum">Why did U.K.'s Tories pull the plug on Johnson but Republicans still support Trump?</a> NPR: Why did Conservative party lawmakers in Britain force out Prime Minister Johnson for a series of scandals and lies, while in the U.S., many GOP lawmakers continue to support former President Trump? 
+ <p class="updated_time"> 02:00 AM CT, Jul. 21 </p> 
+ <a href="https://www.nytimes.com/2022/07/21/us/politics/liz-cheney-jan-6-hearing.html">Liz Cheney, Front and Center in the Jan. 6 Hearings, Pursues a Mission</a> NYT: “I believe this is the most important thing I’ve ever done professionally,” she said, “and maybe the most important thing I ever do.” 
 
 
 </details>
