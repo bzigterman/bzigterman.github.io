@@ -10,20 +10,6 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
+    Written on {{ page.date | date: "%B %e, %Y" }}
   </div> 
-  
-  <div>
-  <div class="post-nav-newer">
-    {% if page.next.url %}
-    <a href="{{page.next.url}}">&laquo;&nbsp;Newer</a>
-    {% endif %}
-  </div>
-  <div class="post-nav-older">
-    {% if page.previous.url %}
-    <a href="{{page.previous.url}}">Older&nbsp;&raquo;</a>
-    {% endif %}
-  </div>
-  </div>
- 
 </article>
