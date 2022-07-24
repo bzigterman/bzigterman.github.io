@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 12:01 PM CT, July 24</p>
+<p class="updated_time"> Latest data: 12:10 PM CT, July 24</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -18,18 +18,18 @@ webappicon: /weather.png
 
 Currently:
 
-- 77°
-- scattered clouds
-- 56% humidity
-- 17 mph wind
-- 0.04 inches of precipitation in the past 24 hours
+- 80°
+- broken clouds
+- 83% humidity
+- 12 mph wind
+- 0.05 inches of precipitation in the past 24 hours
 
 ## Temperature History
 
 <iframe src="/interactive/champaign_weather_year.html" width="100%" height="600"> 
 </iframe>
 
-This is my attempt at recreating the classic [New York Times weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
+The chart above is my attempt at recreating the classic [New York Times weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/temp_history.png"
