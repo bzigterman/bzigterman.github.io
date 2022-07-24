@@ -1,14 +1,8 @@
 ---
 layout: post
-title:  Weather Year Chart
+title:  Plant Sciences Laboratory
 ---
 
-Recently saw some neat flowers yesterday at the Plant Sciences Laboratory at UIUC.
+Recently saw some neat flowers at the Plant Sciences Laboratory at UIUC.
 
-![](/photos/IMG_1646.jpeg)
-![](/photos/IMG_1626.jpeg)
-![](/photos/IMG_1618.jpeg)
-![](/photos/IMG_1607.jpeg)
-![](/photos/IMG_1601.jpeg)
-![](/photos/IMG_1598.jpeg)
-![](/photos/IMG_1595.jpeg)
+{% include image-gallery.html folder="/photos/PSL" %}
