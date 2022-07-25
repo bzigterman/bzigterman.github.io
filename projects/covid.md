@@ -441,8 +441,8 @@ html {
 <td class="gt_row gt_right">+35%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">29</td>
-<td class="gt_row gt_right gt_striped">40</td>
-<td class="gt_row gt_right gt_striped">+38%</td></tr>
+<td class="gt_row gt_right gt_striped">42</td>
+<td class="gt_row gt_right gt_striped">+45%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">2</td>
 <td class="gt_row gt_right">5</td>
