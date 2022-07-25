@@ -9,82 +9,92 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:03 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62287568?at_medium=RSS&at_campaign=KARANGA">Comic-Con: Five things we learned</a> BBC: Fans have been given an exclusive glimpse of footage from a host of new blockbusters. 
+ <p class="updated_time"> 06:59 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62244846?at_medium=RSS&at_campaign=KARANGA">Kenya election: Why health care is such a key issue</a> BBC: The lack of health cover in Kenya means Herima Mwakima used all her savings to keep her brother alive. 
+ <p class="updated_time"> 06:50 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62194995?at_medium=RSS&at_campaign=KARANGA">The secret mission to save LGBT Afghans</a> BBC: Bella, Ali and Ahmed are trying to make the best of life in the UK after escaping the Taliban. 
+ <p class="updated_time"> 06:46 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61986389?at_medium=RSS&at_campaign=KARANGA">Abortion in US: How misinformation has fuelled the debate</a> BBC: Claims about health concerns and legal rights are intensifying the strength of feeling. 
+ <p class="updated_time"> 06:44 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62225830?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: How are are drones being used?</a> BBC: Thousands of military and civilian drones are being used by both sides in the Russia-Ukraine war. 
+ <p class="updated_time"> 06:44 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-62229602?at_medium=RSS&at_campaign=KARANGA">Lawyer Dan Nguyen travels the world with his three cats</a> BBC: Dan Nguyen's cats have ridden Venice's gondolas and climbed trees in New York's Central Park. 
+ <p class="updated_time"> 06:39 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62287335?at_medium=RSS&at_campaign=KARANGA">Tunisia vote marks a death of a dream for some Arab Spring protesters</a> BBC: On Monday Tunisians will vote on a new constitution that has been internationally criticised. 
+ <p class="updated_time"> 06:34 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-pacific-62260748?at_medium=RSS&at_campaign=KARANGA">Meeting the Thai cave rescue boys four years on</a> BBC: One of the 12 boys talks about his life following the dramatic rescue that made headlines in 2018. 
+ <p class="updated_time"> 06:25 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62270540?at_medium=RSS&at_campaign=KARANGA">Face to face with the bandit warlords of Nigeria</a> BBC: BBC Africa Eye has tracked down the ultra-violent bandit warlords who are raiding villages and abducting schoolchildren across north-western Nigeria. 
+ <p class="updated_time"> 06:15 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-62235741?at_medium=RSS&at_campaign=KARANGA">The tech helping to bring you your morning coffee</a> BBC: How Brazil, the world's largest grower of coffee, is turning to technology to boost production. 
+ <p class="updated_time"> 06:14 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-62219752?at_medium=RSS&at_campaign=KARANGA">Afghan trans woman finds new home in Brighton</a> BBC: Bella escaped the Taliban in a secret UK mission and is now settling into Brighton's LGBT+ community. 
+ <p class="updated_time"> 06:14 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62287497?at_medium=RSS&at_campaign=KARANGA">Haiti migrants: At least 17 Haitians die after boat capsizes in Bahamas</a> BBC: A child is among the dead, while one woman survived in an air pocket of the boat's hull. 
+ <p class="updated_time"> 02:28 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62286924?at_medium=RSS&at_campaign=KARANGA">France energy: Air-conditioned shops will be told to shut doors to cut waste</a> BBC: New rules will force shops to keep doors shut when air conditioning is on and limit use of neon signs. 
+ <p class="updated_time"> 02:11 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62286884?at_medium=RSS&at_campaign=KARANGA">Brazil election: Bolsonaro launches campaign</a> BBC: He pledges to continue a cash welfare programme if he is returned to office in October. 
+ <p class="updated_time"> 12:34 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-62284377?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia denies causing global food crisis</a> BBC: Its foreign minister, who is in Egypt, says the West is distorting the truth as the Ukraine war rages. 
+ <p class="updated_time"> 12:24 PM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62216559?at_medium=RSS&at_campaign=KARANGA">Pope Francis: The pontiff's 'pilgrimage of penance' to Canada</a> BBC: Pope Francis will meet with indigenous communities to apologise for the church's role in residential schools. 
+ <p class="updated_time"> 11:28 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62283196?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's forces moving towards occupied Kherson - Zelensky</a> BBC: Kherson city has been in the hands of Russian troops since the early days of the war. 
+ <p class="updated_time"> 11:26 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-travels-to-canada-seeks-reconciliation-with-indigenous-peoples-11658646727">Pope Arrives in Canada Seeking Reconciliation With Indigenous Peoples</a> WSJ: The pontiff has been asked to expand on his apology for the Catholic role in a historical residential-school system that has been called cultural genocide. 
+ <p class="updated_time"> 10:21 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62286017?at_medium=RSS&at_campaign=KARANGA">Chess robot breaks seven-year-old boy's finger during Moscow Open</a> BBC: The child was trying to make his next move at the Moscow Open when the robot grabbed him. 
+ <p class="updated_time"> 09:41 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62285090?at_medium=RSS&at_campaign=KARANGA">In pictures: From Tenerife to Greece, wildfires rage in Europe</a> BBC: Blazes have broke out across the country, leaving charred ruins and forcing thousands to evacuate. 
+ <p class="updated_time"> 09:18 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62283202?at_medium=RSS&at_campaign=KARANGA">Italy migrants: Nearly 1,200 arrive by boat in 24 hours</a> BBC: Officials warn that immigration centres are being overwhelmed by the pace of new arrivals. 
+ <p class="updated_time"> 08:57 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-62285110?at_medium=RSS&at_campaign=KARANGA">Philippines shooting: Ex-mayor among three dead</a> BBC: A gunman was arrested after an apparent targeted shooting during a graduation ceremony. 
+ <p class="updated_time"> 08:37 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-62282862?at_medium=RSS&at_campaign=KARANGA">China launches second module for its space station Heavenly Palace</a> BBC: Tiangong or Heavenly Palace is scheduled to be operational by the end of 2022. 
+ <p class="updated_time"> 08:34 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62284378?at_medium=RSS&at_campaign=KARANGA">Biden could declare climate emergency - Kerry</a> BBC: The move would allow the president to push his renewable energy agenda, which is stalled in Congress. 
+ <p class="updated_time"> 06:56 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-kazakhstan-central-asia-11658439761">Putin's Unexpected Challenge: Snubs From His Central Asian Allies</a> WSJ: Russia’s invasion of Ukraine has Kazakhstan and its neighbors rethinking their alliances. That’s given the U.S. a window to try to regain influence in a region it had stepped back from in recent years. 
+ <p class="updated_time"> 06:27 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-take-toll-on-civilians-as-ukraine-gears-up-for-counteroffensive-11658660986">Russian Strikes Take Toll on Civilians as Ukraine Gears Up for Counteroffensive</a> WSJ: Exactly five months into the war, artillery and missile attacks have become a daily part of life in much of Ukraine. 
+ <p class="updated_time"> 03:02 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-62280905?at_medium=RSS&at_campaign=KARANGA">Oak Fire: Emergency declared as wildfire rages near Yosemite National Park</a> BBC: More than 3,000 people have been evacuated as the wildfire rages near Yosemite National Park. 
+ <p class="updated_time"> 02:04 AM CT, Jul. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-62282858?at_medium=RSS&at_campaign=KARANGA">Climate protesters dragged away after attempting glue stunt with Botticelli masterpiece</a> BBC: The incident follows a spate of action where environmental activists have targeted famous artworks. 
+ <p class="updated_time"> 01:00 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-struggles-to-identify-russians-suspected-of-war-crimes-11658656800">Ukraine Struggles to Identify Russians Suspected of War Crimes</a> WSJ: Ukraine has opened investigations into more than 16,000 suspected war crimes, but despite evidence has indicted only a small number of Russians. 
+ <p class="updated_time"> 12:39 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/gen-mark-milley-says-chinese-military-aggression-has-worsened-11658655575">Gen. Mark Milley Says Chinese Military Aggression Has Worsened</a> WSJ: The top U.S. military officer visited Indonesia on Sunday as the U.S. seeks to strengthen relationships with Indo-Pacific nations. 
+ <p class="updated_time"> 12:31 AM CT, Jul. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-for-more-help-for-drought-stricken-eastern-africa-11658655058">U.S. Pushes for More Help for Drought-Stricken Eastern Africa</a> WSJ: USAID Administrator Samantha Power called on China, the Gulf states and Europe to boost donations to the United Nations and other agencies to feed the millions left hungry after four rainy seasons in a row failed to materialize. 
+ <p class="updated_time"> 11:09 PM CT, Jul. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-62281395?at_medium=RSS&at_campaign=KARANGA">Marvel at Comic-Con: Wakanda Forever trailer unveiled, and more Avengers films</a> BBC: The studio announced a bumper crop of superhero films at Comic-Con - including Wakanda Forever. 
+ <p class="updated_time"> 09:05 PM CT, Jul. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62281245?at_medium=RSS&at_campaign=KARANGA">Kenya: Life on the front-line of severe food shortages</a> BBC: The BBC's Anne Soy reports from the Horn of Africa, where US officials warn of a "hunger catastrophe". 
  <p class="updated_time"> 06:48 PM CT, Jul. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62281353?at_medium=RSS&at_campaign=KARANGA">House of the Dragon: What we know about the Games of Thrones spin-off</a> BBC: The series is set 200 years before Game of Thrones - but the dragons, death and feuds are all there. 
- <p class="updated_time"> 06:12 PM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62216559?at_medium=RSS&at_campaign=KARANGA">Pope Francis: The pontiff's 'pilgrimage of penance' to Canada</a> BBC: Pope Francis will meet with indigenous communities to apologise for the church's role in residential schools. 
+ <p class="updated_time"> 06:18 PM CT, Jul. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-62244847?at_medium=RSS&at_campaign=KARANGA">Tunisia referendum: President Kais Saied seeks mandate to extend powers</a> BBC: The North African country is set to vote on a constitution that seeks to extend President Kais Saied's powers. 
+ <p class="updated_time"> 06:16 PM CT, Jul. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-62205984?at_medium=RSS&at_campaign=KARANGA">'I'd Defend Myself, Too': Chileans back abuse survivors</a> BBC: Activists in Chile are rallying behind survivors of domestic violence who killed their abusers in self-defence. 
+ <p class="updated_time"> 06:14 PM CT, Jul. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/blogs-trending-61844299?at_medium=RSS&at_campaign=KARANGA">Climate change: How to talk to a denier</a> BBC: Tips about how to engage with people who think climate change is a "hoax". 
  <p class="updated_time"> 06:09 PM CT, Jul. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62279839?at_medium=RSS&at_campaign=KARANGA">Keanu Reeves' comic book makes history</a> BBC: BRZRKR becomes the first comic book to feature in Comic-Con's prestigious Hall H. 
- <p class="updated_time"> 06:01 PM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62278010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Missile strike puts grain deal in doubt</a> BBC: The deal hangs in the balance after missiles hit the port of Odesa in a widely condemned attack. 
- <p class="updated_time"> 03:08 PM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62280905?at_medium=RSS&at_campaign=KARANGA">Wildfire rages near Yosemite National Park</a> BBC: Thousands of homes are under threat as "explosive fire behaviour" challenges firefighters. 
- <p class="updated_time"> 02:36 PM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62279377?at_medium=RSS&at_campaign=KARANGA">Covid in China: Xi Jinping and other leaders given domestic vaccine</a> BBC: The president and other top politicians have received domestically produced vaccines, say officials. 
- <p class="updated_time"> 01:48 PM CT, Jul. 23 </p> 
- <a href="https://www.wsj.com/articles/who-declares-monkeypox-a-global-health-emergency-11658586983">WHO Declares Monkeypox a Global Health Emergency</a> WSJ: The World Health Organization’s move came despite the majority of experts on an advisory committee recommending against a declaration. 
- <p class="updated_time"> 11:41 AM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62279276?at_medium=RSS&at_campaign=KARANGA">Iran floods: At least 21 killed in southern Fars province</a> BBC: Flash floods in the southern Fars province were made worse by drought-ridden soil. 
- <p class="updated_time"> 10:29 AM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-62279373?at_medium=RSS&at_campaign=KARANGA">Teresa Xu: Chinese woman loses court case over bid to freeze eggs</a> BBC: Teresa Xu took legal action after a Beijing hospital refused to freeze her eggs as she is not married. 
- <p class="updated_time"> 10:23 AM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/health-62279436?at_medium=RSS&at_campaign=KARANGA">Monkeypox: WHO declares highest alert over outbreak</a> BBC: More than 16,000 cases have been reported from 75 countries, the organisation says. 
  <p class="updated_time"> 10:22 AM CT, Jul. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-62276842?at_medium=RSS&at_campaign=KARANGA">The Rings of Power: Lord of the Rings TV show wows fans at Comic-Con</a> BBC: The Rings of Power, Amazon Prime's Lord of the Rings spin-off, is the costliest TV show to date. 
  <p class="updated_time"> 10:15 AM CT, Jul. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-62279834?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Key Ukrainian port hit by explosions after grain deal</a> BBC: The explosions happened a day after a landmark deal was agreed to allow the resumption of grain exports. 
- <p class="updated_time"> 07:17 AM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62278002?at_medium=RSS&at_campaign=KARANGA">Trump and Pence host rival rallies in Arizona</a> BBC: They back competing candidates in the race to be the Republican nominee for the state governorship. 
- <p class="updated_time"> 06:48 AM CT, Jul. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-hits-military-airport-and-railway-station-in-fresh-ukraine-attack-11658571374">Russia Strikes Odessa Port After Deal to Unblock Ukrainian Grain Exports</a> WSJ: The strike appeared to violate the terms of the agreement signed by Russia and Ukraine in Istanbul on Friday, which stipulated that both countries would refrain from attacking port facilities or civilian ships used for grain transport. 
  <p class="updated_time"> 04:02 AM CT, Jul. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-62276831?at_medium=RSS&at_campaign=KARANGA">Texas wind turbine catches fire after lightning strike</a> BBC: Footage of a wind turbine in Crowell, Texas shows the aftermath of a lightning strike. 
- <p class="updated_time"> 04:00 AM CT, Jul. 23 </p> 
- <a href="https://www.wsj.com/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201">Inside Saudi Arabia's Plan to Build a Skyscraper That Stretches for 75 Miles</a> WSJ: Saudi Crown Prince Mohammed bin Salman demanded something as ambitious as Egypt’s pyramids. What urban planners came up with in response are plans for the world’s largest structure. 
- <p class="updated_time"> 03:37 AM CT, Jul. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62276389?at_medium=RSS&at_campaign=KARANGA">WWE chief McMahon retires amid sexual misconduct allegations</a> BBC: Vince McMahon led the wrestling firm for decades but this year faced sexual misconduct allegations. 
- <p class="updated_time"> 06:49 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62274474?at_medium=RSS&at_campaign=KARANGA">Kaliningrad row: Lithuania lifts rail restrictions for Russian exclave</a> BBC: Russia threatened to respond after Lithuania announced a ban on certain goods under EU sanctions. 
- <p class="updated_time"> 06:28 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-62274464?at_medium=RSS&at_campaign=KARANGA">Huge jellyfish swarm surrounds boat in Israel</a> BBC: Aerial footage shows the swarm of jellyfish in the waters of Haifa Bay during the annual migration. 
- <p class="updated_time"> 06:15 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62206594?at_medium=RSS&at_campaign=KARANGA">Kerala: Meet the Indian woman who flaunts her moustache</a> BBC: Shyja's moustache is an object of fascination and derision for many people, but she says she doesn't care. 
- <p class="updated_time"> 06:14 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62175714?at_medium=RSS&at_campaign=KARANGA">Hausas in Sudan: The pilgrims' descendants fighting for acceptance</a> BBC: Why a demand by Sudan's Hausa community to have more land rights led to the death of 100 people. 
- <p class="updated_time"> 06:12 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-62213778?at_medium=RSS&at_campaign=KARANGA">Thirteen Lives: Thai cave rescue actor Tom Bateman relives diving fears</a> BBC: Actor Tom Bateman recalls how he overcame his claustrophobia in Ron Howard's film Thirteen Lives. 
  <p class="updated_time"> 06:11 PM CT, Jul. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-62173865?at_medium=RSS&at_campaign=KARANGA">Shinzo Abe killing: Why a religious group has been put in the spotlight</a> BBC: The shooter was said to have targeted Shinzo Abe for allegedly having ties to a controversial group. 
- <p class="updated_time"> 05:00 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62274354?at_medium=RSS&at_campaign=KARANGA">Pizza delivery man saves children from burning house</a> BBC: Nicholas Bostic saved five people from the home, and was hailed as a hero by the police chief. 
- <p class="updated_time"> 01:10 PM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62269048?at_medium=RSS&at_campaign=KARANGA">Tunisia divided ahead of referendum</a> BBC: President Kais Saied may succeed in tightening his grip through a constitutional referendum on 25 July. 
  <p class="updated_time"> 11:18 AM CT, Jul. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61759692?at_medium=RSS&at_campaign=KARANGA">Why does the world need grain to be shipped from Ukraine?</a> BBC: Turkey says a deal has been reached to let grain be shipped from Ukraine's Black Sea ports. 
- <p class="updated_time"> 09:42 AM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-62270700?at_medium=RSS&at_campaign=KARANGA">The moment Ukraine grain deal is signed</a> BBC: The agreement was signed in Istanbul on Friday by Ukraine, Russia, Turkey and the UN secretary general. 
- <p class="updated_time"> 08:13 AM CT, Jul. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-says-a-cease-fire-with-russia-without-reclaiming-lost-lands-will-only-prolong-war-11658510019">Zelensky Says No Cease-Fire Until Russia Returns Land</a> WSJ: Ukrainian President Volodymyr Zelensky in an interview acknowledged the cost exacted by Russia’s invasion on Western businesses and consumers, and he praised the country’s allies for continuing to enable Ukrainian resistance against a much more powerful foe. 
- <p class="updated_time"> 07:19 AM CT, Jul. 22 </p> 
- <a href="https://www.wsj.com/articles/europe-is-tested-anew-this-time-by-energy-inflation-and-putin-11658506756">Europe Is Tested Anew, This Time by Energy, Inflation and Putin</a> WSJ: Russia’s threat to the gas supply combines with rising interest rates to endanger the EU’s economies, with German industry especially in the cross hairs. Political turmoil in Italy adds to risks. 
- <p class="updated_time"> 05:34 AM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-62263279?at_medium=RSS&at_campaign=KARANGA">Capitol riot hearings: Eight key moments</a> BBC: Throughout the eight hearings, members have sought a window into Donald Trump's state of mind. 
- <p class="updated_time"> 02:16 AM CT, Jul. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-62262678?at_medium=RSS&at_campaign=KARANGA">Splendour in the Grass: Rain causes chaos at Australian music festival</a> BBC: Festival-goers at Splendour in the Grass endure muddy campsites, hours-long queues, and cancellations. 
- <p class="updated_time"> 07:03 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62249895?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 July 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 06:56 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-62259383?at_medium=RSS&at_campaign=KARANGA">On the ground as security forces push back protesters in Sri Lanka</a> BBC: Security forces raid the main anti-government protest camp in Colombo in the early hours of Friday. 
- <p class="updated_time"> 06:52 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-62250407?at_medium=RSS&at_campaign=KARANGA">Reena Varma: Teary-eyed Indian welcomed in Pakistan after 75 years</a> BBC: Reena Varma and her family left their home in 1947, weeks before the India-Pakistan partition. 
- <p class="updated_time"> 06:39 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-62244845?at_medium=RSS&at_campaign=KARANGA">What UK aid cut means for one South Sudan hospital</a> BBC: One of the few doctors serving 1.3 million people may have to leave because he would lose his salary. 
- <p class="updated_time"> 06:24 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-62189546?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Family given sight back settle into Polish life</a> BBC: Five-year-old twins who were blinded by a missile attack update us on life in Poland after surgery. 
- <p class="updated_time"> 02:03 PM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/58159451?at_medium=RSS&at_campaign=KARANGA">Europe wildfires: Are they linked to climate change?</a> BBC: A series of wildfires across the Europe has caused alarm - how do they compare with previous years? 
- <p class="updated_time"> 10:27 AM CT, Jul. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-62253293?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: How did Boris Johnson sign off from PMQs?</a> BBC: How closely have you been paying attention to what's been going on over the past seven days? 
 
 
 </details>
@@ -92,8 +102,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:43 PM CT, Jul. 23 </p> 
+ <p class="updated_time"> 05:04 PM CT, Jul. 24 </p> 
+ <a href="https://www.nytimes.com/2022/07/23/us/politics/turkey-nato-ukraine-russia.html">Erdogan Remains a Headache for Biden, Even After Ukraine Deal Help</a> NYT: President Recep Tayyip Erdogan of Turkey assisted in brokering an agreement to unblock Ukrainian grain but has alarmed U.S. officials on other fronts. 
+ <p class="updated_time"> 03:26 PM CT, Jul. 24 </p> 
+ <a href="https://www.nytimes.com/2022/07/24/us/politics/biden-covid.html">Biden’s Covid Symptoms Continue to Improve, Doctor Says</a> NYT: Public health officials have pointed to his case — which an adviser said was caused by BA.5 — as a reminder of the risk posed by the highly transmissible subvariant. 
+ <p class="updated_time"> 12:29 PM CT, Jul. 24 </p> 
  <a href="https://www.nytimes.com/2022/07/23/us/politics/jan-6-hearings-women-witnesses-committee.html">In Jan. 6 Hearings, Gender Divide Has Been Strong Undercurrent</a> NYT: An investigation that has revealed grave threats to democracy, plotted and carried out mostly by men, has a heavily female cast of narrators who have paid a public price for speaking out. 
+ <p class="updated_time"> 11:13 AM CT, Jul. 24 </p> 
+ <a href="https://www.npr.org/2022/07/24/1113263372/biden-coronavirus-symptoms-update">President Biden's COVID symptoms are improving, his doctor says</a> NPR: Biden's physician says the president's symptoms "continue to improve significantly" and that he is now mainly dealing with a sore throat. 
+ <p class="updated_time"> 11:01 AM CT, Jul. 24 </p> 
+ <a href="https://www.nytimes.com/2022/07/24/us/politics/biden-trump-foreign-policy.html">On U.S. Foreign Policy, the New Boss Acts a Lot Like the Old One</a> NYT: The Biden administration has charted the same course as the Trump administration on strategic priorities like China, the Middle East and U.S. military deployments. 
+ <p class="updated_time"> 07:21 AM CT, Jul. 24 </p> 
+ <a href="https://www.npr.org/2022/07/24/1113257906/politics-chat-jan-6-committee-break-trump-pence-at-dueling-rallies-biden-health">Politics chat: Jan. 6 committee break; Trump, Pence at dueling rallies; Biden health</a> NPR: This Sunday's politics chat covers some of the many questions in Washington right now — including those surrounding the Jan. 6 investigation and its consequences for former President  Donald Trump. 
+ <p class="updated_time"> 04:00 AM CT, Jul. 24 </p> 
+ <a href="https://www.npr.org/2022/07/24/1113026626/donald-trump-midterms-2024-elving">As Jan. 6 panel pauses, the U.S. faces a fourth fall of Trump (with a fifth in view)</a> NPR: Even if the January 6 investigation had wrapped this week, the former president would still be looming over the fall landscape like a rising harvest moon. 
  <p class="updated_time"> 05:17 PM CT, Jul. 23 </p> 
  <a href="https://www.nytimes.com/2022/07/23/us/politics/trump-georgia-election-interference.html">On the Docket: Atlanta v. Trumpworld</a> NYT: Eighteen months into a criminal investigation of election interference by Donald J. Trump and his allies, a Georgia prosecutor is beginning to show the broad contours of her inquiry. 
  <p class="updated_time"> 04:24 PM CT, Jul. 23 </p> 
@@ -104,8 +126,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/23/1113206628/what-could-be-next-after-the-jan-6-hearings">What could be next after the Jan. 6 hearings</a> NPR: There's debate about what, if anything, the Justice Department might do. Lawfare's Ben Wittes and Quinta Jurecic talk about this with NPR's Michel Martin. 
  <p class="updated_time"> 12:37 PM CT, Jul. 23 </p> 
  <a href="https://www.nytimes.com/2022/07/23/us/politics/beagles-airport-security.html">Meet the Canine Officers Guarding American Agriculture</a> NYT: With international travel returning to prepandemic levels, these floppy-eared hounds are sniffing out deadly diseases and pests at border crossings one mango or sausage at a time. 
- <p class="updated_time"> 12:31 PM CT, Jul. 23 </p> 
- <a href="https://www.nytimes.com/2022/07/23/us/politics/turkey-nato-ukraine-russia.html">Turkey’s Leader Remains a Headache for Biden Despite Aiding in Ukraine Deal</a> NYT: President Recep Tayyip Erdogan of Turkey assisted in brokering an agreement to unblock Ukrainian grain but has alarmed U.S. officials on other fronts. 
  <p class="updated_time"> 12:02 PM CT, Jul. 23 </p> 
  <a href="https://www.nytimes.com/2022/07/22/us/politics/jan-6-hearings-trump-patriotism.html">Jan. 6 Hearings Invoke Patriotism to Urge Voters to Break With Trump</a> NYT: On Thursday, the Jan. 6 committee made the case that Donald J. Trump’s conduct had been a violation of his Oath of Office. 
  <p class="updated_time"> 11:33 AM CT, Jul. 23 </p> 
@@ -138,12 +158,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/07/22/1112965839/npr-politics-special-what-we-learned-from-the-jan-6-hearings">NPR Politics Special: What We Learned From The Jan. 6 Hearings</a> NPR: How did the attack on the U.S. Capitol come together? What did President Trump know and why did he take so long to respond? And who will be held accountable? 
  <p class="updated_time"> 04:46 PM CT, Jul. 22 </p> 
  <a href="https://www.nytimes.com/2022/07/22/us/politics/houston-environmental-racism.html">Justice Dept. Will Investigate Environmental Racism in Houston</a> NYT: The inquiry, part of an administration-wide racial justice initiative, came amid claims that the city has ignored illegal dumping in Black and Latino areas. 
- <p class="updated_time"> 03:57 PM CT, Jul. 22 </p> 
- <a href="https://www.npr.org/2022/07/22/1113069518/could-the-jan-6-committees-findings-lead-to-criminal-charges-for-trump">Could the Jan. 6 committee's findings lead to criminal charges for Trump?</a> NPR: Former federal prosecutor Andrew Weissmann talks with NPR's Ailsa Chang about the evidence presented by the Jan. 6 committee and the difficulties in prosecuting a former president. 
- <p class="updated_time"> 03:51 PM CT, Jul. 22 </p> 
- <a href="https://www.npr.org/2022/07/22/1113088546/biden-works-virtually-covid-19">Biden holds a gas prices event virtually as he isolates with COVID-19</a> NPR: The president will isolate through Tuesday, and if he tests negative, at that point he could resume a normal schedule on Wednesday. He has continued to work since testing positive on Thursday. 
- <p class="updated_time"> 03:46 PM CT, Jul. 22 </p> 
- <a href="https://www.npr.org/2022/07/22/1113069497/the-white-house-has-a-new-public-engagement-advisor-heres-her-plan">The White House has a new public engagement advisor. Here's her plan</a> NPR: Keisha Lance Bottoms is the new White House senior advisor for public engagement. The former Atlanta mayor begins her job at a time when President Biden's approval ratings are at an all-time low. 
  <p class="updated_time"> 03:11 PM CT, Jul. 22 </p> 
  <a href="https://www.nytimes.com/2022/07/22/us/politics/jeffrey-clark-dc-bar-justice.html">D.C. Bar Moves to Penalize Jeffrey Clark, Who Aided Trump in Election Plot</a> NYT: A D.C. Bar office filed a complaint against Jeffrey Clark, the former Justice Department official who worked to undo the results of the 2020 election. 
  <p class="updated_time"> 02:51 PM CT, Jul. 22 </p> 
@@ -158,10 +172,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/07/22/us/politics/jan-6-committee.html">The Jan. 6 Panel After 8 Hearings: Where Will the Evidence Lead?</a> NYT: The House committee has set out a comprehensive narrative of the effort to overturn the 2020 election. But it’s unclear if that will be enough to achieve its legal and political goals. 
  <p class="updated_time"> 08:24 AM CT, Jul. 22 </p> 
  <a href="https://www.nytimes.com/2022/07/21/us/politics/trump-jan-6.html">Jan. 6 Panel Presents Evidence of Trump’s Refusal to Stop the Riot</a> NYT: The House panel painted a detailed picture of how, as officials rushed to respond to an attack on the United States government, the commander in chief chose for hours to do nothing. 
- <p class="updated_time"> 10:51 PM CT, Jul. 21 </p> 
- <a href="https://www.nytimes.com/2022/07/21/us/politics/american-politics-middle-ground.html">The Hole in the Center of American Politics</a> NYT: Disaffected Republicans have taken wildly divergent paths to opposing Donald Trump. We will soon get new tests of whose strategy is working better. 
- <p class="updated_time"> 07:01 PM CT, Jul. 21 </p> 
- <a href="https://www.nytimes.com/2022/07/21/us/politics/secret-service-criminal-inquiry-missing-texts.html">Service Service Asked to Stop Investigating Jan. 6 Texts Amid Criminal Inquiry</a> NYT: The Homeland Security Department’s inspector general told the Secret Service to halt its internal investigation into how phone records from around Jan. 6 were purged. 
 
 
 </details>
