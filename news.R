@@ -2,12 +2,19 @@ library(tidyRSS)
 library(tidyverse)
 library(lubridate)
 library(httr)
+library(rvest)
 
 past_week <- ymd_hms(now()) - days(3)
 
 # gather news ----
 
 ## politics ----
+# memeorandum_html <- tidyfeed("https://www.memeorandum.com/feed.xml", clean_tags = FALSE) %>%
+#   mutate(url = str_extract(item_description, "<A HREF=\"(.*?)\""))
+# memeorandum_html$url
+# memeorandum_html$item_description <- memeorandum_html$item_description %>%
+#   read_html()
+
 memeorandum <- tidyfeed("https://www.memeorandum.com/feed.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
@@ -19,117 +26,37 @@ memeorandum <- tidyfeed("https://www.memeorandum.com/feed.xml") %>%
   mutate(outlet2 = str_replace(outlet1, ".*(?=/)","")) %>%
   mutate(feed = str_trim(str_extract(outlet2, "[^/].[^:]*"))) %>%
   #select(feed_title, item_pub_date,item_title, item_link, item_description, feed) %>%
-  filter(feed == "CNN" | feed == "Washington Post" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press")
-
-# npr_politics <- tidyfeed("feeds.npr.org/1014/rss.xml") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "NPR") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# politico_congress <- tidyfeed("http://rss.politico.com/congress.xml")# %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "Politico") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# politico_politics_status <- GET("https://www.politico.com/rss/politicopicks.xml")$status
-# if (politico_politics_status != 200L) {
-#   politico_politics <- tibble() %>%
-#     mutate(feed_title = as.character(NA)) %>%
-#     mutate(item_pub_date= as.POSIXct(NA)) %>%
-#     mutate(item_title= as.character(NA)) %>%
-#     mutate(item_link= as.character(NA)) %>%
-#     mutate(item_description= as.character(NA)) %>%
-#     mutate(feed= as.character(NA)) %>%
-#     mutate(utc_time= as.POSIXct(NA)) %>%
-#     mutate(central_time= as.POSIXct(NA)) %>%
-#     mutate(clean_time= as.character(NA))
-# } else {
-#   politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") %>%
-#     select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#     filter(!grepl("magazine",item_link)) %>%
-#     filter(!grepl("politico.eu",item_link)) %>%
-#     mutate(feed = "Politico") %>%
-#     mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-#     mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#     mutate(clean_time = strftime(x = central_time, 
-#                                  tz = "US/Central",
-#                                  format = "%I:%M% %p CT, %b. %d"))
-#}
-
-# politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(item_title = gsub("POLITICO Playbook:","",item_title,
-#                             ignore.case = FALSE)) %>%
-#   mutate(feed = "Politico Playbook") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-
-# politico_huddle <- tidyfeed("http://rss.politico.com/huddle.xml") %>%
-#   mutate(item_description = feed_description) %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "Politico Huddle") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "NYT") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time,
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# cnn_politics <- tidyfeed("http://rss.cnn.com/rss/cnn_allpolitics.rss") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "CNN") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# bloomberg_politics <- tidyfeed("https://feeds.bloomberg.com/politics/news.rss") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "Bloomberg") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-# wapo_politics <- tidyfeed("http://feeds.washingtonpost.com/rss/politics") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "WaPo") %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "US/Eastern")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
+  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC")
 
 politics_news <- memeorandum %>%
-  #full_join(politico_playbook) %>%
-  #full_join(politico_huddle) %>%
-  #full_join(politico_congress) %>%
-  #full_join(npr_politics) %>%
-  #full_join(cnn_politics) %>%
-  #full_join(bloomberg_politics) %>%
-  #full_join(wapo_politics) %>%
+  filter(!is.na(item_description)) %>%
+  filter(!grepl("Opinion",item_title)) %>%
+  filter(central_time > past_week) %>%
+  arrange(desc(central_time)) %>%
+  distinct(item_link, .keep_all = TRUE) %>%
+  mutate(item_md_link = paste("[",item_title,"](",item_link,")",
+                              sep = "")) %>%
+  mutate(item_html_link = paste("<a href=\"",
+                                item_link,"\">",
+                                item_title,"</a>",
+                                sep = "")) %>%
+  mutate(feed_plus_description = paste(feed,": ",item_description,
+                                       sep = ""))
+
+techmeme <- tidyfeed("https://www.techmeme.com/feed.xml") %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d")) %>%
+  mutate(outlet1 = str_extract(item_description, "(.*?):")) %>%
+  mutate(outlet2 = str_replace(outlet1, ".*(?=/)","")) %>%
+  mutate(feed = str_trim(str_extract(outlet2, "[^/].[^:]*"))) %>%
+  #select(feed_title, item_pub_date,item_title, item_link, item_description, feed) %>%
+  filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC")
+
+tech_news <- techmeme %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
   filter(central_time > past_week) %>%
@@ -152,100 +79,32 @@ for (x in 1:nrow(politics_news)) {
              "</p>",
              "\n",
              politics_news$item_html_link[[x]], 
-             politics_news$feed_plus_description[[x]],
+             politics_news$item_description[[x]],
              "\n")
   politics_news_lines = paste(politics_news_lines, line)
 }
 politics_news_lines 
 
-## world ----
-
-# nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/World.xml") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   mutate(feed = "NYT") %>%
-#   filter(!grepl("briefing",item_link)) %>%
-#   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-  mutate(feed = "WSJ") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
-
-# wsj_world <- tidyfeed("https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.wsj.com%2Fnews%2Fworld&in_id_or_class=WSJTheme--headline--unZqjb45&max=5&order=document&guid=0") %>%
-#   mutate(item_description = item_title) %>%
-#   select(feed_title,item_title, item_link, item_description)%>%
-#   mutate(feed = "WSJ") %>%
-#   mutate(item_pub_date = now(tzone = "America/Chicago")-hours(1:5)) %>%
-#   mutate(central_time = item_pub_date) %>%
-#   mutate(clean_time = strftime(x = central_time, 
-#                                tz = "US/Central",
-#                                format = "%I:%M% %p CT, %b. %d"))
-
-bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-  mutate(feed = "BBC") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
-
-npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "NPR") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time,
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
-
-
-world_news <- full_join(bbc, wsj) %>%
-  #full_join(bbc) %>%
-  #full_join(wsj_world) %>%
-  #full_join(npr_world) %>%
-  filter(!is.na(item_description)) %>%
-  filter(!grepl("Opinion",item_title)) %>%
-  filter(central_time > past_week) %>%
-  arrange(desc(central_time)) %>%
-  distinct(item_link, .keep_all = TRUE) %>%
-  mutate(item_md_link = paste("[",item_title,"](",item_link,")",
-                              sep = "")) %>%
-  mutate(item_html_link = paste("<a href=\"",
-                                item_link,"\">",
-                                item_title,"</a>",
-                                sep = "")) %>%
-  mutate(feed_plus_description = paste(feed,": ",item_description,
-                                       sep = "")) 
-
 ### create list ----
-world_news_lines <- c()
-for (x in 1:nrow(world_news)) {
+tech_news_lines <- c()
+for (x in 1:nrow(tech_news)) {
   line=paste("<p class=\"updated_time\">",
-             world_news$clean_time[[x]],
+             tech_news$clean_time[[x]],
              "</p>",
              "\n",
-             world_news$item_html_link[[x]], 
-             world_news$feed_plus_description[[x]],
+             tech_news$item_html_link[[x]], 
+             tech_news$feed_plus_description[[x]],
              "\n")
-  world_news_lines = paste(world_news_lines, line)
+  tech_news_lines = paste(tech_news_lines, line)
 }
-world_news_lines 
+tech_news_lines 
 
 # create frequency plot ----
 
-world_news <- world_news %>%
+politics_news <- politics_news %>%
   mutate(length = nchar(item_title))
 
-ggplot(data = world_news,
+ggplot(data = politics_news,
        aes(x = central_time,
            y = length)) +
   geom_smooth(fill = "blue4",
@@ -268,18 +127,19 @@ webappicon: /plots/news.png
 ---
 
 <details open>
-<summary>World News</summary>
-
-",world_news_lines,"
-
-</details>
-
-<details open>
 <summary>Politics</summary>
 
 ",politics_news_lines,"
 
 </details>
+
+<details open>
+<summary>Tech</summary>
+
+",tech_news_lines,"
+
+</details>
+
 
 ",
 sep = ""
