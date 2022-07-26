@@ -20,6 +20,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/inflation.html" width="100%" height="300"> 
 </iframe>
 
+## [Prices]({{ site.baseurl }}/projects/economy/usa/prices)
+
 <iframe src="/interactive/retail_sales.html" width="100%" height="300"> 
 </iframe>
 
