@@ -1898,3 +1898,4 @@ sep = ""
 write_lines(web_text,"projects/economy/usa/prices.md")
 
 
+
