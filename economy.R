@@ -1826,7 +1826,7 @@ web_text <- paste(
   "---
 layout: page
 title: United States Economic Indicators
-permalink: /projects/economy/usa
+permalink: /projects/economy/usa/
 imageurl: https://bzigterman.com/plots/unemployment_rate.png
 ---
 
