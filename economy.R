@@ -864,7 +864,108 @@ cpi <- ggplot(data = data,
 cpi
 ggsave("plots/consumer_price_index.png", plot = cpi,
        width = 8, height = 8*(628/1200), dpi = 320)
+### prices ----
+#### gas ----
+data <- fredr(series_id = "GASREGW") %>%
+  drop_na()
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = TRUE),
+                            day(date)))
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Index") %>%
+  hc_title(text = "Average U.S. Gas Price") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Energy Information Administration. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/GASREGW") %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/us_gas.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+#### milk ----
+data <- fredr(series_id = "APU0000709112") %>%
+  drop_na()
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Index") %>%
+  hc_title(text = "Average Price for a Gallon of Milk") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/APU0000709112") %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/milk.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+#### eggs ----
+data <- fredr(series_id = "APU0000708111") %>%
+  drop_na()
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Index") %>%
+  hc_title(text = "Average Price for a Dozen Eggs") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/APU0000708111") %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/eggs.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ## population ----
 data <-fredr(series_id = "POPTHM")
@@ -1744,6 +1845,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/inflation.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
+## [Prices]({{ site.baseurl }}/projects/economy/usa/prices)
+
 <iframe src=\"/interactive/retail_sales.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
@@ -1768,4 +1871,30 @@ Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouis
 sep = ""
 )
 write_lines(web_text,"projects/economy/usa.md")
+
+## US ----
+web_text <- paste(
+  "---
+layout: page
+title: United States Prices
+permalink: /projects/economy/usa/prices
+imageurl: https://bzigterman.com/plots/unemployment_rate.png
+---
+
+<iframe src=\"/interactive/us_gas.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+<iframe src=\"/interactive/milk.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+<iframe src=\"/interactive/eggs.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
+
+",
+sep = ""
+)
+write_lines(web_text,"projects/economy/usa/prices.md")
+
 
