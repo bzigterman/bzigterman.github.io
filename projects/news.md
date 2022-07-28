@@ -69,7 +69,8 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <summary>Tech</summary>
 
  <p class="updated_time"> 04:50 AM CT, Jul. 28 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a>  Saritha Rai / Bloomberg:
+ <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a> 
+ Saritha Rai / Bloomberg:
 An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more  —  Paytm was the poster boy for India's tech startups, only to lose two-thirds of its value since its IPO and become a symbol of the industry's crash.
  
  <p class="updated_time"> 12:50 AM CT, Jul. 28 </p> 
