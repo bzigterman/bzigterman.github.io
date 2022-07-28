@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 PM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/nyregion/third-parties-governor-ny.html">For First Time Since 1946, New Yorkers Have Just 2 Choices for Governor</a> 
+ Jay Root / New York Times:
+For First Time Since 1946, New Yorkers Have Just 2 Choices for Governor  —  Changes in election law have frozen out third parties in New York State, and even Rep. Lee Zeldin couldn't secure the Independence Party line.  —  ALBANY, N.Y. — New York voters who dislike the Democrat … 
+ 
  <p class="updated_time"> 06:10 PM CT, Jul. 28 </p> 
  <a href="https://www.cnn.com/2022/07/28/politics/klukowski-justice/">First on CNN: Trump DOJ official cooperating with Justice Department's criminal Jan. 6 probe</a> 
  Katelyn Polantz / CNN:
@@ -323,6 +328,11 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 06:25 PM CT, Jul. 28 </p> 
+ <a href="https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business">An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and customer debt</a> 
+ Bloomberg:
+An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and customer debt  —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
+ 
  <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
  <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
  Kif Leswing / CNBC:
