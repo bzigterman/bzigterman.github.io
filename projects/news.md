@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:01 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/world/2022/07/01/viktor-bout-griner-whelan/">Who is Viktor Bout, Russian arms dealer eyed in rumored prisoner swap?</a> 
+ Adam Taylor / Washington Post:
+Who is Viktor Bout, Russian arms dealer eyed in rumored prisoner swap?  —  The fate of two Americans detained in Russia could depend on what the U.S. government decides to do with an imprisoned Russian arms dealer nicknamed the “Merchant of Death,” whose wild exploits once inspired a Hollywood film starring Nicolas Cage.
+ 
+ <p class="updated_time"> 12:45 AM CT, Jul. 28 </p> 
+ <a href="https://www.cnn.com/2022/07/27/us/tou-thao-kueng-george-floyd-sentence/">Two ex-officers who restrained George Floyd sentenced to 3 years and 3.5 years in federal prison</a> 
+ CNN:
+Two ex-officers who restrained George Floyd sentenced to 3 years and 3.5 years in federal prison  —  (CNN)J. Alexander Kueng and Tou Thao, two of the former Minneapolis Police officers convicted of federal charges in the fatal arrest of George Floyd, were sentenced to 3 years and 3.5 years in prison, respectively, on Wednesday.
+ 
  <p class="updated_time"> 12:05 AM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/27/health/deadly-bacteria-us-soil-water.html">Potentially Deadly Bacteria Detected in U.S. Soil for First Time</a> 
  McKenna Oxenden / New York Times:
