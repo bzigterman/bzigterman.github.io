@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:05 AM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/27/health/deadly-bacteria-us-soil-water.html">Potentially Deadly Bacteria Detected in U.S. Soil for First Time</a> 
+ McKenna Oxenden / New York Times:
+Potentially Deadly Bacteria Detected in U.S. Soil for First Time  —  The bacteria, Burkholderia pseudomallei, was found along the Gulf Coast region of Southern Mississippi.  Previously, it had been detected in parts of Asia and Australia.  —  A potentially deadly bacteria was found … 
+ 
  <p class="updated_time"> 11:15 PM CT, Jul. 27 </p> 
  <a href="https://www.nytimes.com/2022/07/27/us/politics/doug-mastriano-gab.html">Doug Mastriano Faces Criticism Over His Backing From Antisemitic Ally</a> 
  Trip Gabriel / New York Times:
@@ -49,7 +54,9 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 </details>
 
 <details open>
-<br>
+
+---
+
 <summary>Tech</summary>
 
  <p class="updated_time"> 10:50 PM CT, Jul. 27 </p> 
