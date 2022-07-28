@@ -9,6 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/scoop-schiff-makes-moves-race-replace-pelosi/">SCOOP — Schiff makes moves in race to replace Pelosi</a> 
+ Washington Post:
+SCOOP — Schiff makes moves in race to replace Pelosi  —  Good morning, Early Birds.  Tonight is the Congressional Baseball Game.  Will the climate activists still protest now that Sen. Joe Manchin (D-W.Va.) has agreed to add climate to their reconciliation bill?  Thanks for waking up with us.
+ 
+ <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/adam-schiff-democratic-leadership/">Adam Schiff is jockeying to lead House Democrats.  It won't be easy.</a> 
+ Washington Post:
+Adam Schiff is jockeying to lead House Democrats.  It won't be easy.  —  If he can amass enough interest in his candidacy, the Democrat from California would upend a race that was considered largely set, challenging a variety of Democrats gunning for the top spot.
+ 
+ <p class="updated_time"> 08:10 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/media/2022/07/28/ohio-abortion-journalism/">How local journalists proved a 10-year-old's abortion wasn't a hoax</a> 
+ Elahe Izadi / Washington Post:
+How local journalists proved a 10-year-old's abortion wasn't a hoax  —  Many doubted the story of a young rape victim who had to cross state lines for an abortion.  But journalists on the ground kept reporting.  —  It felt like half the country doubted the case existed.
+ 
+ <p class="updated_time"> 07:55 AM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/27/fed-chair-jerome-powell-said-he-does-not-think-the-us-is-currently-in-a-recession.html">Fed Chair Jerome Powell said he does not think the U.S. is currently in a recession</a> 
+ Carmen Reinicke / CNBC:
+Fed Chair Jerome Powell said he does not think the U.S. is currently in a recession  — “I do not think the U.S. is currently in a recession and the reason is there are too many areas of the economy that are performing too well,” Powell said.  — Wednesday's rate hike marks the latest move … 
+ 
+ <p class="updated_time"> 07:45 AM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/mcmorrow-theis-michigan-senate-00048330">It's official: The attack on McMorrow backfired.</a> 
+ Adam Wren / Politico:
+It's official: The attack on McMorrow backfired.  —  The numbers are in and it's official: The attack on Democratic Michigan state Sen. Mallory McMorrow backfired.  —  The Michigan Republican state senator who falsely described McMorrow as a “groomer” in an April fundraising email raised less … 
+ 
+ <p class="updated_time"> 07:45 AM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/falling-gas-prices-democrats-00048000">Gas prices are falling.  Is it too late to save the Dems?</a> 
+ Ben Lefebvre / Politico:
+Gas prices are falling.  Is it too late to save the Dems?  —  The Republicans blaming President Joe Biden for sky-high gasoline prices are running into a problem: There may not be enough fuel left in that tank to reach November.  —  With just over 100 days to go until an election … 
+ 
+ <p class="updated_time"> 07:45 AM CT, Jul. 28 </p> 
+ <a href="https://www.cbsnews.com/news/mick-mulvaney-january-6-committee-testimony/">Mick Mulvaney will testify Thursday before House Jan. 6 committee</a> 
+ CBS News:
+Mick Mulvaney will testify Thursday before House Jan. 6 committee  —  Former Trump White House chief of staff Mick Mulvaney is scheduled to testify Thursday before the House committee investigating the Jan. 6 assault on the Capitol.  —  Mulvaney, who joined CBS News as a contributor earlier this year … 
+ 
+ <p class="updated_time"> 07:40 AM CT, Jul. 28 </p> 
+ <a href="https://www.axios.com/2022/07/27/clarence-thomas-george-washington-university">Justice Thomas backs out of teaching fall seminar at GW law school</a> 
+ Shawna Chen / Axios:
+Justice Thomas backs out of teaching fall seminar at GW law school  —  Supreme Court Justice Clarence Thomas has backed out of teaching a seminar at George Washington University's law school after calls to remove him from his position as adjunct professor.  —  Why it matters … 
+ 
  <p class="updated_time"> 07:10 AM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/07/28/manchin-breathes-new-life-into-biden-agenda-00048415">POLITICO Playbook: Manchin breathes new life into Biden agenda</a> 
  Politico:
