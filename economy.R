@@ -875,7 +875,7 @@ recent_data <- data %>%
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
-              name = "Index") %>%
+              name = "Price") %>%
   hc_title(text = "Average U.S. Gas Price") %>%
   hc_credits(
     enabled = TRUE,
@@ -908,7 +908,7 @@ recent_data <- data %>%
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
-              name = "Index") %>%
+              name = "Price") %>%
   hc_title(text = "Average Price for a Gallon of Milk") %>%
   hc_credits(
     enabled = TRUE,
@@ -942,7 +942,7 @@ recent_data <- data %>%
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
-              name = "Index") %>%
+              name = "Price") %>%
   hc_title(text = "Average Price for a Dozen Eggs") %>%
   hc_credits(
     enabled = TRUE,
