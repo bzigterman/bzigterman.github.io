@@ -67,7 +67,7 @@ memeorandum_feed <- politics_news_update %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Eastern",
+                               tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d")) %>%
   filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Washington Post" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
   filter(!grepl("opinion",item_link))
