@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnn.com/2022/07/28/politics/klukowski-justice/">First on CNN: Trump DOJ official cooperating with Justice Department's criminal Jan. 6 probe</a> 
+ Katelyn Polantz / CNN:
+First on CNN: Trump DOJ official cooperating with Justice Department's criminal Jan. 6 probe  —  (CNN)Former Justice Department staffer Ken Klukowski, who worked with Jeffrey Clark at the agency, is cooperating in the DOJ's January 6 criminal investigation, after investigators searched … 
+ 
+ <p class="updated_time"> 05:45 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/cancel-student-loans-education-department-00048365">The Education Department has a plan for canceling student debt — if Biden gives the word</a> 
+ Michael Stratford / Politico:
+The Education Department has a plan for canceling student debt — if Biden gives the word  —  Senior department officials are preparing the mechanics of how the agency would operate a mass loan forgiveness program.  —  Top Education Department officials have developed detailed plans to carry … 
+ 
  <p class="updated_time"> 05:40 PM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/news/2022/07/28/biden-enters-the-always-be-closing-phase-of-his-first-term-00048600">Biden enters the Always Be Closing phase of his first term</a> 
  Politico:
@@ -397,11 +407,6 @@ Meta reports its first-ever YoY quarterly revenue decline and issues a lowered Q
  <a href="https://www.cnbc.com/2022/07/27/qualcomm-qcom-earnings-q3-2022.html">Qualcomm reports Q3 revenue up 37% YoY to $10.93B, vs. $10.88B est., net income up 53% YoY to $3.36B, and chip segment revenue up 45% YoY to $9.38B</a> 
  Kif Leswing / CNBC:
 Qualcomm reports Q3 revenue up 37% YoY to $10.93B, vs. $10.88B est., net income up 53% YoY to $3.36B, and chip segment revenue up 45% YoY to $9.38B  —  - Qualcomm reported third-quarter earnings after the bell on Wednesday, slightly beating Wall Street expectations, but guidance … 
- 
- <p class="updated_time"> 01:10 PM CT, Jul. 27 </p> 
- <a href="https://www.nytimes.com/2022/07/27/technology/ftc-files-to-block-metas-virtual-reality-deal.html">The FTC files to block Meta's acquisition of VR company Within, saying Meta “chose to buy” instead of compete, the first antitrust lawsuit filed under Lina Khan</a> 
- New York Times:
-The FTC files to block Meta's acquisition of VR company Within, saying Meta “chose to buy” instead of compete, the first antitrust lawsuit filed under Lina Khan  —  The move is a blow to Meta's metaverse efforts and signals a shift in how the Federal Trade Commission is approaching tech deals.
  
 
 
