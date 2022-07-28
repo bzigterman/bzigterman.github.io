@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:01 AM CT, Jul. 28 </p> 
+ <a href="https://abcnews.go.com/US/jan-committee-deepens-probe-trump-cabinet-sources/story?id=87547851">Jan. 6 committee deepens probe into Trump cabinet: Sources</a> 
+ ABC News:
+Jan. 6 committee deepens probe into Trump cabinet: Sources  —  Ex-Treasury Secretary Steven Mnuchin recently sat an interview, sources said.  —  The House select committee investigating the Jan. 6 attack on the U.S. Capitol is working to secure testimony from a growing number of officials … 
+ 
  <p class="updated_time"> 09:30 AM CT, Jul. 28 </p> 
  <a href="https://apnews.com/article/united-states-economy-economic-growth-government-and-politics-4ffd93331422cb131a974223dad5825f">US economy shrank 0.9% last quarter, its 2nd straight drop</a> 
  Paul Wiseman / Associated Press:
