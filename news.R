@@ -56,6 +56,7 @@ memeorandum <- data.frame(
 politics_data <- read_csv(file = "data/politics_news.csv") 
 politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_title,.keep_all = TRUE) %>%
+  distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
   filter(item_pub_date > past_week)
 
@@ -149,6 +150,7 @@ memeorandum <- data.frame(
 politics_data <- read_csv(file = "data/tech_news.csv") 
 politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_title,.keep_all = TRUE) %>%
+  distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
   filter(item_pub_date > past_week)
 
