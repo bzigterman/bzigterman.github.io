@@ -9,6 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/abortion-west-virginia-girl-addison-gardner/">Girl, 12, challenges W.Va. lawmakers on abortion: ‘What about my life?’</a> 
+ Timothy Bella / Washington Post:
+Girl, 12, challenges W.Va. lawmakers on abortion: ‘What about my life?’  —  In a public hearing for a West Virginia abortion bill that would ban the procedure in almost all cases, a 12-year-old girl supporting abortion rights took to the podium on Wednesday and asked Republican lawmakers … 
+ 
+ <p class="updated_time"> 11:25 AM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/world/viktor-bout-merchant-of-death-prisoner.html">Viktor Bout Could Be Swapped for Brittney Griner.  Who Is He?</a> 
+ New York Times:
+Viktor Bout Could Be Swapped for Brittney Griner.  Who Is He?  —  Shortly after his conviction in 2011 on charges including conspiring to kill American citizens, the Russian arms dealer Viktor Bout relayed a defiant message through his lawyer, even though he faced the prospect of decades in prison.
+ 
+ <p class="updated_time"> 11:15 AM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-saboteurs/">How Russia spread a secret web of agents across Ukraine</a> 
+ Reuters:
+How Russia spread a secret web of agents across Ukraine  —  Deck TK  —  The first armoured vehicles of Russia's invading army reached the heart of Chornobyl.  They encountered a Ukrainian unit charged with defending the notorious nuclear plant.  —  and without a fight
+ 
+ <p class="updated_time"> 11:05 AM CT, Jul. 28 </p> 
+ <a href="https://abcnews.go.com/Politics/paul-whelans-twin-brother-speaks-us-proposal-secure/story?id=87543974">Paul Whelan's twin brother speaks out on US proposal to secure his release with Brittney Griner</a> 
+ Morgan Winsor / ABC News:
+Paul Whelan's twin brother speaks out on US proposal to secure his release with Brittney Griner  —  “I think we were all taken by surprise,” David Whelan told ABC News.  —  The family of former U.S. Marine Paul Whelan, who has been detained in Russia for more than three years, said they now have … 
+ 
  <p class="updated_time"> 10:40 AM CT, Jul. 28 </p> 
  <a href="https://www.ajc.com/politics/ajc-poll-most-voters-oppose-restrictions-on-abortion-georgias-new-ban/T3NZRD6HEVEE7PLGHKKQ4Y7H4Y/">AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban</a> 
  Maya T. Prabhu / Atlanta Journal-Constitution:
