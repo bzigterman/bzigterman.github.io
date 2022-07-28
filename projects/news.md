@@ -68,6 +68,11 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Jul. 28 </p> 
+ <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
+ Wall Street Journal:
+Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change  —  The shift, long under consideration to reduce governance risks, comes as the Chinese fintech giant seeks to move on from a tough year
+ 
  <p class="updated_time"> 04:50 AM CT, Jul. 28 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a> 
  Saritha Rai / Bloomberg:
