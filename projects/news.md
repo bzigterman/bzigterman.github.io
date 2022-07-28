@@ -68,6 +68,10 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 04:50 AM CT, Jul. 28 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a>  Saritha Rai / Bloomberg:
+An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more  —  Paytm was the poster boy for India's tech startups, only to lose two-thirds of its value since its IPO and become a symbol of the industry's crash.
+ 
  <p class="updated_time"> 12:50 AM CT, Jul. 28 </p> 
  <a href="https://www.theverge.com/2022/7/27/23281237/google-gmail-redesign-ui-opt-out-chat-meet-spaces?scrolla=5eb6d68b7fedc32c19ef33b4">Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022</a> 
  Richard Lawler / The Verge:
