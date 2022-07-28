@@ -38,6 +38,7 @@ jobs:
           Rscript economy.R
           Rscript covid.R
           Rscript basketball.R
+          Rscript news.R
           Rscript baseball.R
         
       # Add new files in folder, commit along with other modified files, push
