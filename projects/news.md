@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/07/28/manchin-breathes-new-life-into-biden-agenda-00048415">POLITICO Playbook: Manchin breathes new life into Biden agenda</a> 
+ Politico:
+POLITICO Playbook: Manchin breathes new life into Biden agenda  —  With help from Eli Okun and Garrett Ross  —  DRIVING THE DAY  —  Last summer, Sen. JOE MANCHIN and Senate Majority Leader CHUCK SCHUMER signed a one-page agreement outlining the West Virginia Democrat's red lines for a reconciliation bill.
+ 
  <p class="updated_time"> 06:50 AM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/27/us/politics/fake-electors-explained-trump-jan-6.html">The Fake Electors Scheme, Explained</a> 
  New York Times:
