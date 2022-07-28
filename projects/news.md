@@ -148,11 +148,6 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
- <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/2022/7/28/23281984/sony-playstation-5-1440p-resolution-support?scrolla=5eb6d68b7fedc32c19ef33b4">Sony begins testing support for 1440p games on the PlayStation 5, a widely requested feature, alongside a curated gamelists and new social tools</a> 
- Tom Warren / The Verge:
-Sony begins testing support for 1440p games on the PlayStation 5, a widely requested feature, alongside a curated gamelists and new social tools  —  Beta testers get access today  —  Sony is starting to test 1440p resolution support for its PlayStation 5 console, a highly-requested addition.
- 
  <p class="updated_time"> 05:10 AM CT, Jul. 28 </p> 
  <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
  Wall Street Journal:
@@ -182,11 +177,6 @@ Former US national security officials form the Open Source Intelligence Foundati
  <a href="https://www.wsj.com/articles/fantasy-sports-app-underdog-valued-at-485-million-in-fundraising-round-11658840401?mod=djemalertNEWS">Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023</a> 
  Katherine Sayre / Wall Street Journal:
 Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023  —  Startup is expanding into growing U.S. sports-betting industry  —  Fantasy-sports app Underdog said it has completed … 
- 
- <p class="updated_time"> 09:05 PM CT, Jul. 27 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-27/crypto-exchange-ftx-us-expands-stock-trading-plans-options-next">Crypto exchange FTX US expands its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next</a> 
- Bloomberg:
-Crypto exchange FTX US expands its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next  —  Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors … 
  
  <p class="updated_time"> 05:35 PM CT, Jul. 27 </p> 
  <a href="https://www.cnbc.com/2022/07/27/meta-ceo-mark-zuckerberg-we-seem-to-have-entered-economic-downturn.html">Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to “steadily reduce headcount growth over the next year”</a> 
