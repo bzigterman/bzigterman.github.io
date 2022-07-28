@@ -168,6 +168,10 @@ memeorandum_feed <- politics_news_update %>%
 politics_news <- memeorandum_feed %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
+  filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("game",item_description, ignore.case = TRUE)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
   distinct(item_link, .keep_all = TRUE) %>%
