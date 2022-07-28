@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:50 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/business/2022/07/28/gdp-q2-2022-economy-recession/">U.S. economy shrinks again in second quarter, reviving recession fears</a> 
+ Abha Bhattarai / Washington Post:
+U.S. economy shrinks again in second quarter, reviving recession fears  —  The latest GDP reading comes at a time of mounting worries about the economy's resilience  —  The U.S. economy shrank again for a second straight quarter, at a 0.9 percent annualized rate, which has often signaled a recession.
+ 
+ <p class="updated_time"> 08:40 AM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/britney-griner-us-russia-deal-b2147efcc6567eeb6ceb82f8a374bd94">In rare contact, US offers Russia deal for Griner, Whelan</a> 
+ Associated Press:
+In rare contact, US offers Russia deal for Griner, Whelan  —  WASHINGTON (AP) — The U.S. has offered a deal to Russia aimed at bringing home WNBA star Brittney Griner and another jailed American, Paul Whelan, Secretary of State Antony Blinken said Wednesday.
+ 
  <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/politics/2022/07/28/scoop-schiff-makes-moves-race-replace-pelosi/">SCOOP — Schiff makes moves in race to replace Pelosi</a> 
  Washington Post:
