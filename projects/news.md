@@ -9,6 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/interactives/2022/california-ballot-measures-propositions-guide-2022/">California Ballot Tracker: Interest groups prepare for expensive 2022 fights</a> 
+ Politico:
+California Ballot Tracker: Interest groups prepare for expensive 2022 fights  —  We're tracking spending on 7 ballot measures that could break records this fall. … Californians were inundated with campaign ads in 2020 as businesses, unions and other wealthy interests shelled out record-shattering sums on ballot measures.
+ 
+ <p class="updated_time"> 04:50 PM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/house-vote-semiconductor-chips-bill/">House passes bill to subsidize U.S.-made semiconductor chips in win for Biden</a> 
+ Washington Post:
+House passes bill to subsidize U.S.-made semiconductor chips in win for Biden  —  The House on Thursday voted to pass the $280 billion Chips and Science Act, a bill that would subsidize domestic semiconductor manufacturing and invest billions in science and technology innovation … 
+ 
+ <p class="updated_time"> 04:45 PM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/wisconsin-voter-fraud/">Wisconsin anti-voting-fraud activist commits voter fraud to make a point</a> 
+ Patrick Marley / Washington Post:
+Wisconsin anti-voting-fraud activist commits voter fraud to make a point  —  MADISON, Wis. — A Wisconsin man this week ordered absentee ballots for himself in the names of a mayor and top state lawmaker in what he says was an attempt to expose vulnerabilities in the state's voting system.
+ 
+ <p class="updated_time"> 04:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/legal/government/us-supreme-court-justice-alito-mocks-foreign-critics-abortion-ruling-2022-07-28/">U.S. Supreme Court Justice Alito mocks foreign critics of abortion ruling</a> 
+ Lawrence Hurley / Reuters:
+U.S. Supreme Court Justice Alito mocks foreign critics of abortion ruling  —  Conservative U.S. Supreme Court Justice Samuel Alito has brushed off criticism from prominent figures around the world of last month's blockbuster ruling he authored that overturned Roe v. Wade, the landmark 1973 abortion rights decision.
+ 
+ <p class="updated_time"> 04:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/mccarthy-mcconnell-bill-votes-00048565">Splitsville: McConnell and McCarthy break on big votes</a> 
+ Politico:
+Splitsville: McConnell and McCarthy break on big votes  —  Kevin McCarthy and Mitch McConnell regularly meet to coordinate their management of Republicans in the House and Senate.  You wouldn't know it from their voting records.  —  Congress' two GOP leaders split yet again this week … 
+ 
+ <p class="updated_time"> 04:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnn.com/2022/07/28/politics/doj-court-trump-january-6-executive-privilege/">EXCLUSIVE: Prosecutors prepare for court battle to force former White House officials to testify about Trump's January 6 conversations</a> 
+ CNN:
+EXCLUSIVE: Prosecutors prepare for court battle to force former White House officials to testify about Trump's January 6 conversations  —  Justice Department prosecutors are preparing to fight in court to force former White House officials to testify about then-President Donald Trump's conversations … 
+ 
  <p class="updated_time"> 03:40 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/world/biden-looks-tamp-down-taiwan-tension-during-china-xi-call-2022-07-28/">In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan</a> 
  Reuters:
@@ -274,14 +304,14 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <summary>Tech</summary>
 
  <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and it has 816M paying subscribers globally across all its services, down from 825M in Q2 2022</a> 
+ <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
  Kif Leswing / CNBC:
-Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and it has 816M paying subscribers globally across all its services, down from 825M in Q2 2022  —  - Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
+Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022  —  KEY POINTS  — Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
  
  <p class="updated_time"> 03:35 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/intel-intc-earnings-q2-2022.html">Intel Q2: $15.3B revenue, down 22% YoY vs. $17.92B est., Datacenter and AI Group revenue of $4.6B, down 16% YoY, and $0.5B net loss; stock down 10%+ after hours</a> 
+ <a href="https://www.cnbc.com/2022/07/28/intel-intc-earnings-q2-2022.html">Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+</a> 
  Jordan Novet / CNBC:
-Intel Q2: $15.3B revenue, down 22% YoY vs. $17.92B est., Datacenter and AI Group revenue of $4.6B, down 16% YoY, and $0.5B net loss; stock down 10%+ after hours  —  - Intel slashed its full-year guidance and turned in worse-than expected quarterly results.  — The company launched new chips … 
+Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+  —  - Intel slashed its full-year guidance and turned in worse-than expected quarterly results.  — The company launched new chips … 
  
  <p class="updated_time"> 03:18 PM CT, Jul. 28 </p> 
  <a href="https://www.cnbc.com/2022/07/28/amazon-amzn-q2-2022-earnings.html">Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B</a> 
