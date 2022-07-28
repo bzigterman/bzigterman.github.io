@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:50 AM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/27/us/politics/fake-electors-explained-trump-jan-6.html">The Fake Electors Scheme, Explained</a> 
+ New York Times:
+The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of the 2020 election by creating slates of electors pledged to Donald Trump in states he had lost was expansive, long-running and often confusing.  —  The brazen plan to create false slates of electors pledged … 
+ 
  <p class="updated_time"> 01:01 AM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/world/2022/07/01/viktor-bout-griner-whelan/">Who is Viktor Bout, Russian arms dealer eyed in rumored prisoner swap?</a> 
  Adam Taylor / Washington Post:
