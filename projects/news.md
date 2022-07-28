@@ -9,6 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/politics/2022-election/tim-ryans-gop-friendly-campaign-unsettles-republicans-ohio-rcna40106">Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio</a> 
+ Henry J. Gomez / NBC News:
+Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio  —  AKRON, Ohio — A once largely unimaginable scenario has been rattling around Ohio's political scene all summer.  —  Can Rep. Tim Ryan pull off an upset in the state's U.S. Senate race?  —  The Democrat is airing ads on Fox News … 
+ 
+ <p class="updated_time"> 01:45 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/politics/2022-election/bidens-soft-power-not-enough-stop-rivals-grabbing-2024-spotlight-rcna40365">Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight</a> 
+ NBC News:
+Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight  —  The president has so far deployed a keep-frenemies-close approach to his ambitious Democratic colleagues.  Some close to the White House say what Biden needs is a traditional enforcer.
+ 
+ <p class="updated_time"> 01:40 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/justice-department-data-breach-federal-court-system-00048485">Justice Department investigating data breach of federal court system</a> 
+ Maggie Miller / Politico:
+Justice Department investigating data breach of federal court system  —  The Justice Department is investigating a data breach of the U.S. federal courts system dating to early 2020, a top official testified on Capitol Hill Thursday.  —  Scary scenario for the judicial branch … 
+ 
+ <p class="updated_time"> 01:30 PM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/2022-midterm-elections-wisconsin-lawsuits-presidential-16d90c311d35d28b9b5a4024e6fb880c">Judge: Wisconsin probe found ‘absolutely no’ election fraud</a> 
+ Scott Bauer / Associated Press:
+Judge: Wisconsin probe found ‘absolutely no’ election fraud  —  MADISON, Wis. (AP) — A Wisconsin judge said Thursday that a Republican-ordered, taxpayer-funded investigation into the 2020 election found “absolutely no evidence of election fraud,” but did reveal contempt for the state's open records law … 
+ 
+ <p class="updated_time"> 01:15 PM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/gop-pa-governor-nominee-under-fire-ties-with-white-nationalist-site/">GOP Pa. governor nominee under fire for ties to white nationalist site</a> 
+ Colby Itkowitz / Washington Post:
+GOP Pa. governor nominee under fire for ties to white nationalist site  —  CEO of Gab praised Doug Mastriano for leading “an explicitly Christian movement” in antisemitic screeds posted online this week  —  Doug Mastriano, the Republican nominee for Pennsylvania governor … 
+ 
  <p class="updated_time"> 12:15 PM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/business/interactive/2022/what-causes-a-recession/">What causes a recession?</a> 
  Washington Post:
