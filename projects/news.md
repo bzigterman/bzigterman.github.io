@@ -9,6 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/united-states-economy-economic-growth-government-and-politics-4ffd93331422cb131a974223dad5825f">US economy shrank 0.9% last quarter, its 2nd straight drop</a> 
+ Paul Wiseman / Associated Press:
+US economy shrank 0.9% last quarter, its 2nd straight drop  —  WASHINGTON (AP) — The U.S. economy shrank from April through June for a second straight quarter, contracting at a 0.9% annual pace and raising fears that the nation may be approaching a recession.
+ 
+ <p class="updated_time"> 09:20 AM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/gdp-q2-.html">GDP fell 0.9% in the second quarter, the second straight decline and a strong recession signal</a> 
+ Jeff Cox / CNBC:
+GDP fell 0.9% in the second quarter, the second straight decline and a strong recession signal  —  U.S. economy shrank for second straight quarter at 0.9% in second quarter  —  The U.S. economy contracted for the second straight quarter from April to June, hitting a widely accepted rule … 
+ 
+ <p class="updated_time"> 09:15 AM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/covid-health-seoul-south-korea-nuclear-weapons-e285be60ef404092fe3324748fa60707">Kim threatens to use nukes amid tensions with US, S. Korea</a> 
+ Hyung-Jin Kim / Associated Press:
+Kim threatens to use nukes amid tensions with US, S. Korea  —  SEOUL, South Korea (AP) — North Korean leader Kim Jong Un warned he's ready to use his nuclear weapons in potential military conflicts with the United States and South Korea, state media said Thursday, as he unleashed fiery rhetoric … 
+ 
  <p class="updated_time"> 08:50 AM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/business/2022/07/28/gdp-q2-2022-economy-recession/">U.S. economy shrinks again in second quarter, reviving recession fears</a> 
  Abha Bhattarai / Washington Post:
@@ -128,6 +143,11 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/28/23281984/sony-playstation-5-1440p-resolution-support?scrolla=5eb6d68b7fedc32c19ef33b4">Sony begins testing support for 1440p games on the PlayStation 5, a widely requested feature, alongside a curated gamelists and new social tools</a> 
+ Tom Warren / The Verge:
+Sony begins testing support for 1440p games on the PlayStation 5, a widely requested feature, alongside a curated gamelists and new social tools  —  Beta testers get access today  —  Sony is starting to test 1440p resolution support for its PlayStation 5 console, a highly-requested addition.
+ 
  <p class="updated_time"> 05:10 AM CT, Jul. 28 </p> 
  <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
  Wall Street Journal:
