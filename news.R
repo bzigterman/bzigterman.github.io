@@ -42,6 +42,7 @@ publication
 description <- memeorandum_html %>%
   html_elements("description") %>%
   html_text() %>%
+  str_replace("]]>","") %>%
   tail(-1)
 description
 memeorandum <- data.frame(
@@ -134,6 +135,7 @@ publication
 description <- memeorandum_html %>%
   html_elements("description") %>%
   html_text() %>%
+  str_replace("]]>","") %>%
   tail(-1)
 description
 memeorandum <- data.frame(
