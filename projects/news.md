@@ -53,10 +53,9 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 
 </details>
 
-<details open>
-
 ---
 
+<details open>
 <summary>Tech</summary>
 
  <p class="updated_time"> 10:50 PM CT, Jul. 27 </p> 
