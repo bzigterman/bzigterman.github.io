@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/27/schumer-manchin-reconciliation-bill-climate-change-provisions.html">Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details</a> 
+ Emma Newburger / CNBC:
+Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details  — Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Joe Manchin, D-W.Va., on Wednesday unveiled a long-anticipated reconciliation package that would invest hundreds of billions … 
+ 
  <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/politics/2022/07/28/biden-economy-house-chips-xi/">Biden rejects claims that U.S. is in a recession</a> 
  Washington Post:
@@ -253,6 +258,16 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 02:27 PM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/28/23282494/semiconductors-chips-and-science-act-joe-biden-congress-nvidia?scrolla=5eb6d68b7fedc32c19ef33b4">The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to spur investment; it is unclear when Biden will sign it</a> 
+ Makena Kelly / The Verge:
+The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to spur investment; it is unclear when Biden will sign it  —  All that's left is Biden's signature  —  It might get cheaper and easier to buy popular tech products, like gaming consoles and graphics cards … 
+ 
+ <p class="updated_time"> 02:20 PM CT, Jul. 28 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-28/advertisers-are-struggling-with-instagram-s-tiktok-clone-reels">As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their ads on TikTok first</a> 
+ Bloomberg:
+As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their ads on TikTok first  —  Reels — the short videos that Facebook and Instagram are pushing — are getting more popular, parent company Meta Platforms Inc. says.
+ 
  <p class="updated_time"> 12:20 PM CT, Jul. 28 </p> 
  <a href="https://www.theverge.com/23281445/google-pixel-buds-pro-noise-canceling-earbuds-review?scrolla=5eb6d68b7fedc32c19ef33b4">Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work</a> 
  Chris Welch / The Verge:
