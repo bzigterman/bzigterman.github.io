@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/politics/2022/07/28/biden-economy-house-chips-xi/">Biden rejects claims that U.S. is in a recession</a> 
+ Washington Post:
+Biden rejects claims that U.S. is in a recession … Today, President Biden rejected claims that the United States is in a recession following the release of a government report that showed the economy shrank for a second straight quarter.  Speaking from the White House … 
+ 
+ <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/politics/white-house/biden-host-obamas-white-house-portrait-ceremony-trump-shunned-rcna40493">Biden to host Obamas in September for White House portrait ceremony Trump shunned</a> 
+ Carol E. Lee / NBC News:
+Biden to host Obamas in September for White House portrait ceremony Trump shunned  —  President Joe Biden will host former President Barack Obama and first lady Michelle Obama at the White House in early September for the unveiling of their official White House portraits, according to an Obama spokesperson.
+ 
  <p class="updated_time"> 01:50 PM CT, Jul. 28 </p> 
  <a href="https://www.nbcnews.com/politics/2022-election/tim-ryans-gop-friendly-campaign-unsettles-republicans-ohio-rcna40106">Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio</a> 
  Henry J. Gomez / NBC News:
