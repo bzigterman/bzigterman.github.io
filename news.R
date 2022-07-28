@@ -226,10 +226,9 @@ webappicon: /plots/news.png
 
 </details>
 
-<details open>
-
 ---
 
+<details open>
 <summary>Tech</summary>
 
 ",tech_news_lines,"
