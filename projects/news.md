@@ -49,8 +49,14 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 </details>
 
 <details open>
+<br>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 10:50 PM CT, Jul. 27 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-27/apple-nabs-key-lamborghini-executive-to-work-on-its-electric-car">Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car</a> 
+ Mark Gurman / Bloomberg:
+Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car  —  Apple Inc. has enlisted one of Lamborghini's top car-development managers in a sign that it's stepping up work … 
+ 
  <p class="updated_time"> 10:30 PM CT, Jul. 27 </p> 
  <a href="https://www.wsj.com/articles/new-group-to-promote-open-source-intelligence-seen-as-vital-in-ukraine-war-11658926800?mod=djemalertNEWS">Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering</a> 
  Dustin Volz / Wall Street Journal:
