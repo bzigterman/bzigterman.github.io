@@ -4,7 +4,7 @@ library(lubridate)
 library(httr)
 library(rvest)
 
-past_week <- ymd_hms(now()) - days(3)
+past_week <- ymd_hms(now()) - days(1)
 
 # gather news ----
 
