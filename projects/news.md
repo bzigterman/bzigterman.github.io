@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/biden-enters-the-always-be-closing-phase-of-his-first-term-00048600">Biden enters the Always Be Closing phase of his first term</a> 
+ Politico:
+Biden enters the Always Be Closing phase of his first term  —  Somehow, someway, Joe Biden is back in the game.  —  After enduring a brutal year dominated by economic angst, legislative setbacks and sinking approval ratings, the president is suddenly on the verge of a turnaround that … 
+ 
+ <p class="updated_time"> 05:30 PM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/sports/golf/donald-trump-liv-saudi-pga.html">Trump Criticizes PGA Tour and Praises Saudis for Backing LIV Golf</a> 
+ David Waldstein / New York Times:
+Trump Criticizes PGA Tour and Praises Saudis for Backing LIV Golf  —  The former president, who is hosting two LIV Golf events, including one this week at his course in Bedminster, N.J., made the remarks before teeing off in the pro am.  —  BEDMINSTER, N.J. — Donald J. Trump praised … 
+ 
  <p class="updated_time"> 05:05 PM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/interactives/2022/california-ballot-measures-propositions-guide-2022/">California Ballot Tracker: Interest groups prepare for expensive 2022 fights</a> 
  Politico:
@@ -393,11 +403,6 @@ Qualcomm reports Q3 revenue up 37% YoY to $10.93B, vs. $10.88B est., net income 
  New York Times:
 The FTC files to block Meta's acquisition of VR company Within, saying Meta “chose to buy” instead of compete, the first antitrust lawsuit filed under Lina Khan  —  The move is a blow to Meta's metaverse efforts and signals a shift in how the Federal Trade Commission is approaching tech deals.
  
- <p class="updated_time"> 12:20 PM CT, Jul. 27 </p> 
- <a href="https://www.cnbc.com/2022/07/27/china-competitiveness-computer-chip-bill-passes-senate-goes-to-house.html">The US Senate passes the Chips and Science Act, including $52B+ for US chipmakers plus tax credits to encourage investment; the bill now heads to the House</a> 
- Kevin Breuninger / CNBC:
-The US Senate passes the Chips and Science Act, including $52B+ for US chipmakers plus tax credits to encourage investment; the bill now heads to the House  —  - The Senate passed bipartisan legislation aimed to help the U.S. compete with China by injecting tens of billions of dollars into the domestic production of semiconductors.
-]]> 
 
 
 </details>
