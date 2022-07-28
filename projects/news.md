@@ -9,6 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:40 AM CT, Jul. 28 </p> 
+ <a href="https://www.ajc.com/politics/ajc-poll-most-voters-oppose-restrictions-on-abortion-georgias-new-ban/T3NZRD6HEVEE7PLGHKKQ4Y7H4Y/">AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban</a> 
+ Maya T. Prabhu / Atlanta Journal-Constitution:
+AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban  —  Most Georgia voters oppose a new restrictive abortion law that took effect last week, and many say a candidate's support or opposition to the procedure will have an impact on who gets their vote, according to a new Atlanta Journal-Constitution poll.
+ 
+ <p class="updated_time"> 10:30 AM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/doj-00048457">Jan. 6 committee has a formal path to share investigative material with DOJ, its chair says</a> 
+ Kyle Cheney / Politico:
+Jan. 6 committee has a formal path to share investigative material with DOJ, its chair says  —  Agreement on evidence-sharing would mark a significant milestone as the DOJ inquiry into efforts by Donald Trump and others to overturn the 2020 election enters a more public-facing phase.
+ 
+ <p class="updated_time"> 10:25 AM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/u-s-economy-biden-recession-inflation-data-00048425">Biden faces new headwind as economy shrinks again</a> 
+ Ben White / Politico:
+Biden faces new headwind as economy shrinks again  —  The White House faces a fresh political nightmare as a report Thursday showed the economy contracted 0.9 percent in the second quarter of the year, offering Republicans a tantalizing opportunity to declare that the economy under President Joe Biden is now in a recession.
+ 
+ <p class="updated_time"> 10:25 AM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/meet-the-press/meetthepressblog/manchin-makes-deal-will-kyrsten-sinema-rcna40369">Manchin makes his deal but what will Kyrsten Sinema do?</a> 
+ Sahil Kapur / NBC News:
+Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona centrist has voiced opposition of the carried interest provision in the past.  —  Senate Maj. Leader Chuck Schumer and Sen. Joe Manchin, D-W.Va., threw a legitimate curveball at their Senate colleagues Wednesday … 
+ 
+ <p class="updated_time"> 10:05 AM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/lifestyle/2022/07/28/marc-fogel-teacher-russia-prison/">This American teacher also sits in a Russian jail, worried nobody cares</a> 
+ Manuel Roig-Franzia / Washington Post:
+This American teacher also sits in a Russian jail, worried nobody cares  —  Arrested last summer after arriving in Moscow with medical marijuana in his luggage, Marc Fogel has a case that parallels the ordeal of WNBA star Brittney Griner.  But his plight has mostly gone unnoticed.
+ 
+ <p class="updated_time"> 09:45 AM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/upshot/abortion-bans-states-social-services.html">States With Abortion Bans Are Among Least Supportive for Mothers and Children</a> 
+ New York Times:
+States With Abortion Bans Are Among Least Supportive for Mothers and Children  —  They tend to have the weakest social services and the worst results in several categories of health and well-being.  —  In Mississippi, which brought the abortion case that ended Roe v. Wade before the Supreme Court … 
+ 
  <p class="updated_time"> 09:01 AM CT, Jul. 28 </p> 
  <a href="https://abcnews.go.com/US/jan-committee-deepens-probe-trump-cabinet-sources/story?id=87547851">Jan. 6 committee deepens probe into Trump cabinet: Sources</a> 
  ABC News:
