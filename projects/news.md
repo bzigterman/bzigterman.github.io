@@ -219,9 +219,9 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <summary>Tech</summary>
 
  <p class="updated_time"> 12:20 PM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/23281445/google-pixel-buds-pro-noise-canceling-earbuds-review?scrolla=5eb6d68b7fedc32c19ef33b4">Google Pixel Buds Pro review: good ANC and battery, improved sound, and no frequent audio dropouts but transparency mode, audio fidelity, and mic need work</a> 
+ <a href="https://www.theverge.com/23281445/google-pixel-buds-pro-noise-canceling-earbuds-review?scrolla=5eb6d68b7fedc32c19ef33b4">Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work</a> 
  Chris Welch / The Verge:
-Google Pixel Buds Pro review: good ANC and battery, improved sound, and no frequent audio dropouts but transparency mode, audio fidelity, and mic need work  —  Google's premium buds have more features — without deal-breaking flaws  —  It wasn't a sure thing that the Pixel Buds Pro would turn out to be good.
+Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work  —  Google's premium buds have more features — without deal-breaking flaws  —  It wasn't a sure thing that the Pixel Buds Pro would turn out to be good.
  
  <p class="updated_time"> 05:10 AM CT, Jul. 28 </p> 
  <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
