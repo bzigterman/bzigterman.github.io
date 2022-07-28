@@ -9,6 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:15 PM CT, Jul. 28 </p> 
+ <a href="https://www.washingtonpost.com/business/interactive/2022/what-causes-a-recession/">What causes a recession?</a> 
+ Washington Post:
+What causes a recession?  —  The economic domino effect has begun, but there is still time to stop it  —  Everyone is wondering whether the economy is going into a recession — or if we are already in one.  —  But what causes a recession?  —  A recession is caused when a chain of events … 
+ 
+ <p class="updated_time"> 12:10 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/markets/europe/us-house-democrats-propose-ban-stock-trading-august-punchbowl-news-2022-07-28/">U.S. House Democrats to propose ban on stock trading in August - Punchbowl News</a> 
+ Akriti Sharma / Reuters:
+U.S. House Democrats to propose ban on stock trading in August - Punchbowl News  —  U.S. House Democrats plan to announce a proposal next month to ban lawmakers, their spouses and senior staff from trading stocks, Punchbowl news outlet reported on Thursday, citing multiple sources close to the issue.
+ 
+ <p class="updated_time"> 12:10 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/politics/immigration/ice-finds-73-migrants-living-smuggler-stash-houses-northwest-dc-intern-rcna40357">ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., internal documents reveal</a> 
+ Julia Ainsley / NBC News:
+ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., internal documents reveal  —  Immigration agents found 73 migrants living in houses operated by human smugglers in the Northwest area of Washington, D.C., on Wednesday, according to internal documents reviewed by NBC News.
+ 
+ <p class="updated_time"> 11:55 AM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/washington-commanders-nfl-sports-football-dan-snyder-3fe9dcad56ba44ba4e7ff352b905b63c?taid=62e2a91e31e1120001548ad8">Commanders owner Dan Snyder testifies before House committee</a> 
+ Stephen Whyno / Associated Press:
+Commanders owner Dan Snyder testifies before House committee  —  ASHBURN, Va. (AP) — Washington Commanders owner Dan Snyder has begun testifying before a congressional committee investigating the NFL team's history of workplace misconduct.  —  A spokesperson for the U.S. House Committee … 
+ 
  <p class="updated_time"> 11:35 AM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/politics/2022/07/28/abortion-west-virginia-girl-addison-gardner/">Girl, 12, challenges W.Va. lawmakers on abortion: ‘What about my life?’</a> 
  Timothy Bella / Washington Post:
