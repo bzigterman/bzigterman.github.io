@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/world/biden-looks-tamp-down-taiwan-tension-during-china-xi-call-2022-07-28/">In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan</a> 
+ Reuters:
+In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan  —  Chinese President Xi Jinping on Thursday warned U.S. President Joe Biden against “playing with fire” over Taiwan, as concerns mounted over a possible visit to the Chinese-claimed island by U.S. House Speaker Nancy Pelosi.
+ 
+ <p class="updated_time"> 03:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/trump-garland-investigation.html">2016 Campaign Looms Large as Justice Dept. Pursues Jan. 6 Inquiry</a> 
+ New York Times:
+2016 Campaign Looms Large as Justice Dept. Pursues Jan. 6 Inquiry  —  Top officials at the department and the F.B.I. appear intent on avoiding any errors that could taint the current investigation or provide ammunition for a backlash.  —  As the Justice Department investigation into the attack … 
+ 
  <p class="updated_time"> 03:20 PM CT, Jul. 28 </p> 
  <a href="https://www.washingtonpost.com/politics/2022/07/28/what-what-out-manchin-surprise-climate-deal/">What's in and what's out of Manchin's surprise climate deal</a> 
  Washington Post:
@@ -263,10 +273,20 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and it has 816M paying subscribers globally across all its services, down from 825M in Q2 2022</a> 
+ Kif Leswing / CNBC:
+Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and it has 816M paying subscribers globally across all its services, down from 825M in Q2 2022  —  - Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
+ 
+ <p class="updated_time"> 03:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/intel-intc-earnings-q2-2022.html">Intel Q2: $15.3B revenue, down 22% YoY vs. $17.92B est., Datacenter and AI Group revenue of $4.6B, down 16% YoY, and $0.5B net loss; stock down 10%+ after hours</a> 
+ Jordan Novet / CNBC:
+Intel Q2: $15.3B revenue, down 22% YoY vs. $17.92B est., Datacenter and AI Group revenue of $4.6B, down 16% YoY, and $0.5B net loss; stock down 10%+ after hours  —  - Intel slashed its full-year guidance and turned in worse-than expected quarterly results.  — The company launched new chips … 
+ 
  <p class="updated_time"> 03:18 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/amazon-amzn-q2-2022-earnings.html">Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.7B</a> 
+ <a href="https://www.cnbc.com/2022/07/28/amazon-amzn-q2-2022-earnings.html">Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B</a> 
  Annie Palmer / CNBC:
-Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.7B  —  - Amazon reported second-quarter results on Thursday that beat on the top line.  — It also gave upbeat guidance for the third quarter.
+Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B  —  - Amazon reported second-quarter results on Thursday that beat on the top line.  — It also gave upbeat guidance for the third quarter.
  
  <p class="updated_time"> 02:27 PM CT, Jul. 28 </p> 
  <a href="https://www.theverge.com/2022/7/28/23282494/semiconductors-chips-and-science-act-joe-biden-congress-nvidia?scrolla=5eb6d68b7fedc32c19ef33b4">The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to encourage investment; Biden now must sign it into law</a> 
