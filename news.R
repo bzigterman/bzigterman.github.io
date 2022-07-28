@@ -34,7 +34,7 @@ pubdate <- memeorandum_html %>%
   tail(-1)
 pubdate
 publication <- memeorandum_html %>%
-  html_elements("p") %>%
+  html_elements("description") %>%
   html_elements("a") %>%
   html_text() 
 publication <- publication[ c( FALSE, TRUE, FALSE ) ]
