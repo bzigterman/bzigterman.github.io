@@ -68,25 +68,30 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 12:50 AM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/27/23281237/google-gmail-redesign-ui-opt-out-chat-meet-spaces?scrolla=5eb6d68b7fedc32c19ef33b4">Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022</a> 
+ Richard Lawler / The Verge:
+Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022  —  It's not that different  —  We've been tracking the progress of Google's interface refresh for Gmail since February, and as promised … 
+ 
  <p class="updated_time"> 10:50 PM CT, Jul. 27 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-27/apple-nabs-key-lamborghini-executive-to-work-on-its-electric-car">Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car</a> 
  Mark Gurman / Bloomberg:
 Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car  —  Apple Inc. has enlisted one of Lamborghini's top car-development managers in a sign that it's stepping up work … 
  
  <p class="updated_time"> 10:30 PM CT, Jul. 27 </p> 
- <a href="https://www.wsj.com/articles/new-group-to-promote-open-source-intelligence-seen-as-vital-in-ukraine-war-11658926800?mod=djemalertNEWS">Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering</a> 
+ <a href="https://www.wsj.com/articles/new-group-to-promote-open-source-intelligence-seen-as-vital-in-ukraine-war-11658926800?mod=djemalertNEWS">Former US national security officials form the Open Source Intelligence Foundation to promote analyzing public data like social media posts for intel-gathering</a> 
  Dustin Volz / Wall Street Journal:
-Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering  —  Social media, satellite images, mobile-phone data can yield as much insight as traditional espionage, but few rules exist
+Former US national security officials form the Open Source Intelligence Foundation to promote analyzing public data like social media posts for intel-gathering  —  Social media, satellite images, mobile-phone data can yield as much insight as traditional espionage, but few rules exist
  
  <p class="updated_time"> 09:30 PM CT, Jul. 27 </p> 
- <a href="https://www.wsj.com/articles/fantasy-sports-app-underdog-valued-at-485-million-in-fundraising-round-11658840401?mod=djemalertNEWS">Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year</a> 
+ <a href="https://www.wsj.com/articles/fantasy-sports-app-underdog-valued-at-485-million-in-fundraising-round-11658840401?mod=djemalertNEWS">Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023</a> 
  Katherine Sayre / Wall Street Journal:
-Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year  —  Startup is expanding into growing U.S. sports-betting industry  —  Fantasy-sports app Underdog said it has completed a second fundraising round … 
+Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023  —  Startup is expanding into growing U.S. sports-betting industry  —  Fantasy-sports app Underdog said it has completed … 
  
  <p class="updated_time"> 09:05 PM CT, Jul. 27 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-27/crypto-exchange-ftx-us-expands-stock-trading-plans-options-next">Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next</a> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-27/crypto-exchange-ftx-us-expands-stock-trading-plans-options-next">Crypto exchange FTX US expands its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next</a> 
  Bloomberg:
-Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next  —  Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors … 
+Crypto exchange FTX US expands its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next  —  Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors … 
  
  <p class="updated_time"> 05:35 PM CT, Jul. 27 </p> 
  <a href="https://www.cnbc.com/2022/07/27/meta-ceo-mark-zuckerberg-we-seem-to-have-entered-economic-downturn.html">Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to “steadily reduce headcount growth over the next year”</a> 
