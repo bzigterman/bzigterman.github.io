@@ -428,11 +428,6 @@ As advertisers struggle with Reels, Meta tries to ease them into the format, inc
  Chris Welch / The Verge:
 Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work  —  Google's premium buds have more features — without deal-breaking flaws  —  It wasn't a sure thing that the Pixel Buds Pro would turn out to be good.
  
- <p class="updated_time"> 05:10 AM CT, Jul. 28 </p> 
- <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
- Wall Street Journal:
-Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change  —  The shift, long under consideration to reduce governance risks, comes as the Chinese fintech giant seeks to move on from a tough year
- 
 
 
 </details>

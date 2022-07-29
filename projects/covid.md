@@ -1879,7 +1879,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">947K</td>
-<td class="gt_row gt_right">984K</td>
+<td class="gt_row gt_right">986K</td>
 <td class="gt_row gt_right">+4%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">2K</td>
@@ -1930,7 +1930,7 @@ As of Thursday, the 14-day percent change in average new deaths was:
   
 - -20% in Illinois
 - -3% in the United States
-- 25% worldwide
+- 26% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
