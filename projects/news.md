@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:55 AM CT, Jul. 29 </p> 
+ <a href="https://www.theguardian.com/books/2022/jul/29/paul-manafort-indirectly-advising-trump-2020-secret-pardon-book-political-prisoner">Paul Manafort admits indirectly advising Trump in 2020 but keeping it secret in wait for pardon</a> 
+ Martin Pengelly / The Guardian:
+  —  In new book, obtained by Guardian, 2016 campaign manager convicted of tax fraud says he was ‘very careful’ to hide advice  —  Paul Manafort indirectly advised Donald Trump's 2020 campaign … 
+ 
+ <p class="updated_time"> 06:40 AM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/07/29/white-house-to-gop-why-you-trippin-00048684">POLITICO Playbook: White House to GOP: Why you trippin'?</a> 
+ Politico:
+?  —  With help from Eli Okun and Garrett Ross  —  DRIVING THE DAY  —  MANCHIN GIVETH AND MANCHIN... — Sen. JOE MANCHIN (D-W.Va.) may have just resurrected Biden's domestic agenda, but he told CHRIS CUOMO in an interview that aired Thursday … 
+ 
  <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
  <a href="https://www.nbcnews.com/politics/justice-department/jan-6-probe-expands-officials-worry-doj-resources-are-breaking-point-rcna40208">As Jan. 6 probe expands, officials worry DOJ resources are at a breaking point</a> 
  Ryan J. Reilly / NBC News:
