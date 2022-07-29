@@ -9,36 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Jul. 29 </p> 
+ <a href="https://www.latimes.com/politics/story/2022-07-29/california-donors-fuel-gop-liz-cheney-campaign">'I don't agree with her on anything,' California Democrats say of Liz Cheney — as they donate to her race</a> Los Angeles Times:  — Californians have contributed more to Republican Rep. Liz Cheney than donors from any other state, including her Wyoming home, as the outspoken Trump critic faces an increasingly perilous reelection bid. 
  <p class="updated_time"> 03:10 PM CT, Jul. 29 </p> 
- <a href="https://www.nytimes.com/2022/07/29/us/politics/biden-judges-democrats-senate.html">Despite Biden's Success on Judges, Progressives Demand a Faster Pace</a> 
- Carl Hulse / New York Times:
-  —  Democrats may leave dozens of federal judicial vacancies unfilled this year, prompting concern among liberal groups about a blockade should Republicans win the Senate.  —  WASHINGTON — With an extended summer recess looming … 
- 
+ <a href="https://www.nytimes.com/2022/07/29/us/politics/biden-judges-democrats-senate.html">Despite Biden's Success on Judges, Progressives Demand a Faster Pace</a> Carl Hulse / New York Times:  — Democrats may leave dozens of federal judicial vacancies unfilled this year, prompting concern among liberal groups about a blockade should Republicans win the Senate. — WASHINGTON — With an extended summer recess looming … 
  <p class="updated_time"> 02:35 PM CT, Jul. 29 </p> 
- <a href="https://www.politico.com/newsletters/prescription-pulse/2022/07/29/prescription-pulse-monkeypox-vaccines-cdc-covid-00048594">More than 780,000 monkeypox vaccines for the U.S.</a> 
- Katherine Ellen Foley / Politico:
-  — The first cosmetic regulation in nearly a century could be lost in an ongoing user fee spat.  — FDA's chief tobacco scientist to leave for Philip Morris International.  —  It's Friday.  Welcome to Prescription Pulse.
- 
+ <a href="https://www.politico.com/newsletters/prescription-pulse/2022/07/29/prescription-pulse-monkeypox-vaccines-cdc-covid-00048594">More than 780,000 monkeypox vaccines for the U.S.</a> Katherine Ellen Foley / Politico:  — The first cosmetic regulation in nearly a century could be lost in an ongoing user fee spat. — FDA's chief tobacco scientist to leave for Philip Morris International. — It's Friday. Welcome to Prescription Pulse. 
  <p class="updated_time"> 02:35 PM CT, Jul. 29 </p> 
- <a href="https://www.cnn.com/2022/07/29/politics/griner-whelan-russia-murderer-request/">CNN Exclusive: Russian officials requested adding convicted murderer to Griner/Whelan prisoner swap</a> 
- CNN:
-  —  (CNN)Russian government officials requested that a former colonel from the country's domestic spy agency who was convicted of murder in Germany last year be added to the US' proposed swap … 
- 
+ <a href="https://www.cnn.com/2022/07/29/politics/griner-whelan-russia-murderer-request/">CNN Exclusive: Russian officials requested adding convicted murderer to Griner/Whelan prisoner swap</a> CNN:  — (CNN)Russian government officials requested that a former colonel from the country's domestic spy agency who was convicted of murder in Germany last year be added to the US' proposed swap … 
  <p class="updated_time"> 02:20 PM CT, Jul. 29 </p> 
- <a href="https://www.reuters.com/world/us/biden-nominates-abortion-rights-lawyer-us-supreme-court-case-federal-judgeship-2022-07-29/">Biden nominates abortion rights lawyer in U.S. Supreme Court case to federal judgeship</a> 
- Nate Raymond / Reuters:
-  —  President Joe Biden on Friday nominated a lawyer who represented the Mississippi clinic at the heart of the U.S. Supreme Court's decision to overturn its landmark 1973 Roe v. Wade abortion rights decision to become a federal appeals court judge.
- 
+ <a href="https://www.reuters.com/world/us/biden-nominates-abortion-rights-lawyer-us-supreme-court-case-federal-judgeship-2022-07-29/">Biden nominates abortion rights lawyer in U.S. Supreme Court case to federal judgeship</a> Nate Raymond / Reuters:  — President Joe Biden on Friday nominated a lawyer who represented the Mississippi clinic at the heart of the U.S. Supreme Court's decision to overturn its landmark 1973 Roe v. Wade abortion rights decision to become a federal appeals court judge. 
  <p class="updated_time"> 02:10 PM CT, Jul. 29 </p> 
- <a href="https://www.cbsnews.com/news/us-admits-100000-ukrainians-in-5-months-fulfilling-biden-pledge/">U.S. admits 100,000 Ukrainians in 5 months, fulfilling Biden pledge</a> 
- Camilo Montoya-Galvez / CBS News:
-  —  The U.S. received more than 100,000 Ukrainians in roughly five months following Russia's invasion of Ukraine, fulfilling President Biden's pledge of providing a temporary safe haven to those displaced as part … 
- 
+ <a href="https://www.cbsnews.com/news/us-admits-100000-ukrainians-in-5-months-fulfilling-biden-pledge/">U.S. admits 100,000 Ukrainians in 5 months, fulfilling Biden pledge</a> Camilo Montoya-Galvez / CBS News:  — The U.S. received more than 100,000 Ukrainians in roughly five months following Russia's invasion of Ukraine, fulfilling President Biden's pledge of providing a temporary safe haven to those displaced as part … 
  <p class="updated_time"> 02:05 PM CT, Jul. 29 </p> 
- <a href="https://www.politico.com/news/2022/07/29/pelosi-taiwan-china-00048749">Pelosi to leave for Asia amid Chinese threats over Taiwan stop</a> 
- Politico:
-  —  Speaker Nancy Pelosi is set to leave this weekend on a trip that includes Singapore, Japan and South Korea — and possibly Taiwan — even as a Chinese state media commentator suggested Friday that Beijing could shoot down any U.S. military plane she takes to Taipei.
- 
+ <a href="https://www.politico.com/news/2022/07/29/pelosi-taiwan-china-00048749">Pelosi to leave for Asia amid Chinese threats over Taiwan stop</a> Politico:  — Speaker Nancy Pelosi is set to leave this weekend on a trip that includes Singapore, Japan and South Korea — and possibly Taiwan — even as a Chinese state media commentator suggested Friday that Beijing could shoot down any U.S. military plane she takes to Taipei. 
  <p class="updated_time"> 01:45 PM CT, Jul. 29 </p> 
  <a href="https://www.nytimes.com/2022/07/29/business/exxon-chevron-profit.html">Exxon and Chevron Report Record Profits on High Oil and Gas Prices</a> 
  Isabella Simonetti / New York Times:
@@ -339,16 +323,6 @@ AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban  — 
  Kyle Cheney / Politico:
 Jan. 6 committee has a formal path to share investigative material with DOJ, its chair says  —  Agreement on evidence-sharing would mark a significant milestone as the DOJ inquiry into efforts by Donald Trump and others to overturn the 2020 election enters a more public-facing phase.
  
- <p class="updated_time"> 10:25 AM CT, Jul. 28 </p> 
- <a href="https://www.politico.com/news/2022/07/28/u-s-economy-biden-recession-inflation-data-00048425">Biden faces new headwind as economy shrinks again</a> 
- Ben White / Politico:
-Biden faces new headwind as economy shrinks again  —  The White House faces a fresh political nightmare as a report Thursday showed the economy contracted 0.9 percent in the second quarter of the year, offering Republicans a tantalizing opportunity to declare that the economy under President Joe Biden is now in a recession.
- 
- <p class="updated_time"> 10:25 AM CT, Jul. 28 </p> 
- <a href="https://www.nbcnews.com/meet-the-press/meetthepressblog/manchin-makes-deal-will-kyrsten-sinema-rcna40369">Manchin makes his deal but what will Kyrsten Sinema do?</a> 
- Sahil Kapur / NBC News:
-Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona centrist has voiced opposition of the carried interest provision in the past.  —  Senate Maj. Leader Chuck Schumer and Sen. Joe Manchin, D-W.Va., threw a legitimate curveball at their Senate colleagues Wednesday … 
- 
 
 
 </details>
@@ -359,55 +333,25 @@ Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona cent
 <summary>Tech</summary>
 
  <p class="updated_time"> 02:50 PM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-28/robinhood-ceo-plots-turnaround-after-rocky-first-year-since-ipo">An interview with Robinhood CEO Vlad Tenev on the company's post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more</a> 
- Annie Massa / Bloomberg:
-  —  A relaxed vibe envelops Robinhood Markets Inc.'s California headquarters, where employees stroll in pairs around a lush courtyard of cacti … 
- 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-28/robinhood-ceo-plots-turnaround-after-rocky-first-year-since-ipo">An interview with Robinhood CEO Vlad Tenev on the company's post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more</a> Annie Massa / Bloomberg:  — A relaxed vibe envelops Robinhood Markets Inc.'s California headquarters, where employees stroll in pairs around a lush courtyard of cacti … 
  <p class="updated_time"> 01:35 PM CT, Jul. 29 </p> 
- <a href="https://9to5mac.com/2022/07/29/app-store-ads-expanding/">Apple expands App Store ads from the Search tab and Search results to the App Store's Today homepage and individual app pages</a> 
- Chance Miller / 9to5Mac:
-  —  Apple is expanding its advertising business and adding two new ad slots to the App Store.  Currently, the App Store has two ad slots: one on the main ‘Search’ tab and one in the Search results.
- 
+ <a href="https://9to5mac.com/2022/07/29/app-store-ads-expanding/">Apple expands App Store ads from the Search tab and Search results to the App Store's Today homepage and individual app pages</a> Chance Miller / 9to5Mac:  — Apple is expanding its advertising business and adding two new ad slots to the App Store. Currently, the App Store has two ad slots: one on the main ‘Search’ tab and one in the Search results. 
  <p class="updated_time"> 01:20 PM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">The SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they don't comply with US auditing standards; Alibaba's stock is down 9%+</a> 
- Bloomberg:
-+  —  Alibaba Group Holding Ltd. has moved a step closer toward getting booted off US stock exchanges for American inspectors not being able to access to financial audits.
- 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">The SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they don't comply with US auditing standards; Alibaba's stock is down 9%+</a> Bloomberg: + — Alibaba Group Holding Ltd. has moved a step closer toward getting booted off US stock exchanges for American inspectors not being able to access to financial audits. 
  <p class="updated_time"> 11:01 AM CT, Jul. 29 </p> 
- <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC</a> 
- David E. Sanger / New York Times:
-As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC  —  While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead.
- 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC</a> David E. Sanger / New York Times: As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC — While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead. 
  <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; the FTC didn't take sworn interviews of company execs in the nine-month inquiry</a> 
- Leah Nylen / Bloomberg:
-  —  Federal Trade Commission Chair Lina Khan led her fellow Democrats in the agency's majority vote to sue Meta Platforms Inc. this week … 
- 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; the FTC didn't take sworn interviews of company execs in the nine-month inquiry</a> Leah Nylen / Bloomberg:  — Federal Trade Commission Chair Lina Khan led her fellow Democrats in the agency's majority vote to sue Meta Platforms Inc. this week … 
  <p class="updated_time"> 08:40 AM CT, Jul. 29 </p> 
- <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022</a> 
- Richard Lawler / The Verge:
-A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022  —  Everybody's going to the Court of Chancery  —  We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit … 
- 
+ <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022</a> Richard Lawler / The Verge: A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022 — Everybody's going to the Court of Chancery — We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit … 
  <p class="updated_time"> 08:00 AM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> 
- Bloomberg:
-  —  Jack Ma is taking a weeks-long tour in Europe after largely disappearing from public view for almost two years … 
- 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> Bloomberg:  — Jack Ma is taking a weeks-long tour in Europe after largely disappearing from public view for almost two years … 
  <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
- <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">FTC chair Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and may shift how DC enforces competition in nascent tech</a> 
- Cecilia Kang / New York Times:
-  —  Lina Khan may set off a shift in how Washington regulates competition by filing cases in tech areas before they mature.
- 
+ <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">FTC chair Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and may shift how DC enforces competition in nascent tech</a> Cecilia Kang / New York Times:  — Lina Khan may set off a shift in how Washington regulates competition by filing cases in tech areas before they mature. 
  <p class="updated_time"> 05:45 AM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR unit asked for a stealth TikTok account targeting Western audiences with propaganda; TikTok declined the “sensitive” request</a> 
- Olivia Solon / Bloomberg:
-  —  A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
- 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR unit asked for a stealth TikTok account targeting Western audiences with propaganda; TikTok declined the “sensitive” request</a> Olivia Solon / Bloomberg:  — A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
  <p class="updated_time"> 05:05 AM CT, Jul. 29 </p> 
- <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: the EC is considering creating a unit headed by two top antitrust officials, amid concerns the EU competition watchdog may struggle to enforce the DMA</a> 
- Foo Yun Chee / Reuters:
-  —  The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
- 
+ <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: the EC is considering creating a unit headed by two top antitrust officials, amid concerns the EU competition watchdog may struggle to enforce the DMA</a> Foo Yun Chee / Reuters:  — The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
  <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
  <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
  Richard Lawler / The Verge:
