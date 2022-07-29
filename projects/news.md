@@ -279,11 +279,6 @@ Two ex-officers who restrained George Floyd sentenced to 3 years and 3.5 years i
  McKenna Oxenden / New York Times:
 Potentially Deadly Bacteria Detected in U.S. Soil for First Time  —  The bacteria, Burkholderia pseudomallei, was found along the Gulf Coast region of Southern Mississippi.  Previously, it had been detected in parts of Asia and Australia.  —  A potentially deadly bacteria was found … 
  
- <p class="updated_time"> 10:15 PM CT, Jul. 27 </p> 
- <a href="https://www.nytimes.com/2022/07/27/us/politics/doug-mastriano-gab.html">Doug Mastriano Faces Criticism Over His Backing From Antisemitic Ally</a> 
- Trip Gabriel / New York Times:
-Doug Mastriano Faces Criticism Over His Backing From Antisemitic Ally  —  The founder of Gab, a far-right social media network, recently made bigoted remarks defending his ties with Mr. Mastriano, the Republican nominee for governor of Pennsylvania.  —  Doug Mastriano, the Republican nominee … 
- 
 
 
 </details>
@@ -357,11 +352,6 @@ Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons
  <a href="https://www.bloomberg.com/news/articles/2022-07-27/apple-nabs-key-lamborghini-executive-to-work-on-its-electric-car">Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car</a> 
  Mark Gurman / Bloomberg:
 Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car  —  Apple Inc. has enlisted one of Lamborghini's top car-development managers in a sign that it's stepping up work … 
- 
- <p class="updated_time"> 10:30 PM CT, Jul. 27 </p> 
- <a href="https://www.wsj.com/articles/new-group-to-promote-open-source-intelligence-seen-as-vital-in-ukraine-war-11658926800?mod=djemalertNEWS">Former US national security officials form the Open Source Intelligence Foundation to promote analyzing public data like social media posts for intel-gathering</a> 
- Dustin Volz / Wall Street Journal:
-Former US national security officials form the Open Source Intelligence Foundation to promote analyzing public data like social media posts for intel-gathering  —  Social media, satellite images, mobile-phone data can yield as much insight as traditional espionage, but few rules exist
  
 
 
