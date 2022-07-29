@@ -363,11 +363,6 @@ Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's
  Dustin Volz / Wall Street Journal:
 Former US national security officials form the Open Source Intelligence Foundation to promote analyzing public data like social media posts for intel-gathering  —  Social media, satellite images, mobile-phone data can yield as much insight as traditional espionage, but few rules exist
  
- <p class="updated_time"> 09:30 PM CT, Jul. 27 </p> 
- <a href="https://www.wsj.com/articles/fantasy-sports-app-underdog-valued-at-485-million-in-fundraising-round-11658840401?mod=djemalertNEWS">Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023</a> 
- Katherine Sayre / Wall Street Journal:
-Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023  —  Startup is expanding into growing U.S. sports-betting industry  —  Fantasy-sports app Underdog said it has completed … 
- 
 
 
 </details>
