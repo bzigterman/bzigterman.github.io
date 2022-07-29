@@ -51,7 +51,8 @@ memeorandum <- data.frame(
   item_pub_date = dmy_hms( pubdate, tz = "America/New_York"),
   item_link = links,
   feed = publication
-)
+) %>%
+  mutate(item_description = str_replace(item_description,item_title,""))
 
 politics_data <- read_csv(file = "data/politics_news.csv") 
 politics_news_update <- full_join(memeorandum,politics_data) %>%
@@ -70,7 +71,7 @@ memeorandum_feed <- politics_news_update %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d")) %>%
-  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Washington Post" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
+  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
   filter(!grepl("opinion",item_link))
 
 politics_news <- memeorandum_feed %>%
@@ -145,7 +146,8 @@ memeorandum <- data.frame(
   item_pub_date = dmy_hms( pubdate, tz = "America/New_York"),
   item_link = links,
   feed = publication
-)
+) %>%
+  mutate(item_description = str_replace(item_description,item_title,""))
 
 politics_data <- read_csv(file = "data/tech_news.csv") 
 politics_news_update <- full_join(memeorandum,politics_data) %>%
