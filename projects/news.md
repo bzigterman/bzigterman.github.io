@@ -9,6 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/investigates/special-report/usa-elections-michigan-investigation/">Inside one far-right sheriff's crusade to prove Trump's bogus voter-fraud claims</a> 
+ Reuters:
+  —  In rural Michigan, county Sheriff Dar Leaf has teamed with a Trump-camp lawyer to chase the former president's outlandish rigged-election theories.  A member of a radical group of “constitutional sheriffs,” he's now under investigation himself.
+ 
+ <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/politics/supreme-court-kagan-sotomayor-barrett-roberts-thomas/">Justices worry about the future of the Supreme Court — and point fingers as to who's to blame</a> 
+ Ariane de Vogue / CNN:
+  —  Limping away from one of the most significant terms in decades, justices are sending out flares expressing concern not only for the future of the Supreme Court but the country as a whole … 
+ 
+ <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
+ <a href="https://abcnews.go.com/US/boy-partially-paralyzed-highland-park-shooting-mom-hell/story?id=87543886">Boy partially paralyzed in Highland Park shooting is asking mom if he'll walk again</a> 
+ ABC News:
+  —  Cooper, 8, is in the hospital recovering from multiple surgeries and infections.  —  By Emily ShapiroVideo by Nicolas Rothenberg  —  A police officer walks down Central Avenue in Highland Park, July 4 … 
+ 
+ <p class="updated_time"> 08:10 AM CT, Jul. 29 </p> 
+ <a href="https://www.nbcnews.com/politics/2022-election/democrat-dropped-wisconsin-senate-race-giving-party-600000-surprise-gi-rcna40407">A Democrat who dropped out of the Wisconsin Senate race is giving the party a $600,000 surprise gift</a> 
+ NBC News:
+A Democrat who dropped out of the Wisconsin Senate race is giving the party a $600,000 surprise gift  —  The Milwaukee Bucks executive who dropped out of the Wisconsin Senate race this week is in a giving mood.  —  After he immediately threw his support behind fellow Democrat Mandela Barnes … 
+ 
  <p class="updated_time"> 06:55 AM CT, Jul. 29 </p> 
  <a href="https://www.theguardian.com/books/2022/jul/29/paul-manafort-indirectly-advising-trump-2020-secret-pardon-book-political-prisoner">Paul Manafort admits indirectly advising Trump in 2020 but keeping it secret in wait for pardon</a> 
  Martin Pengelly / The Guardian:
@@ -308,6 +328,16 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; FTC didn't take sworn interviews of company execs during the nine-month inquiry</a> 
+ Leah Nylen / Bloomberg:
+  —  Federal Trade Commission Chair Lina Khan led her fellow Democrats in the agency's majority vote to sue Meta Platforms Inc. this week … 
+ 
+ <p class="updated_time"> 08:40 AM CT, Jul. 29 </p> 
+ <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk over the failed $44B takeover will go to trial from October 17 to October 21</a> 
+ Richard Lawler / The Verge:
+A Delaware judge rules that Twitter's case against Elon Musk over the failed $44B takeover will go to trial from October 17 to October 21  —  Everybody's going to the Court of Chancery  —  We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit against Elon Musk … 
+ 
  <p class="updated_time"> 08:00 AM CT, Jul. 29 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> 
  Bloomberg:
