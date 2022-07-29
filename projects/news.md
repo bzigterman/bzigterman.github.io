@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:25 AM CT, Jul. 29 </p> 
+ <a href="https://www.nbcnews.com/politics/immigration/biden-administration-fill-border-wall-gaps-yuma-arizona-rcna40567">Biden administration to fill border wall gaps near Yuma, Arizona</a> 
+ Associated Press:
+  —  PHOENIX — The Biden administration on Thursday authorized completion of the Trump-funded U.S.-Mexico border wall in an open area of southern Arizona near Yuma, where four wide gaps make it among the busiest corridors for illegal crossings.
+ 
  <p class="updated_time"> 09:55 AM CT, Jul. 29 </p> 
  <a href="https://www.cbsnews.com/news/un-nuclear-conference-ukraine-zaporizhzhya-plant/">U.N. nuclear conference to start Monday as Ukraine's Zaporizhzhya plant in “alarming” state, watchdog says</a> 
  Pamela Falk / CBS News:
