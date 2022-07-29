@@ -319,9 +319,9 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <summary>Tech</summary>
 
  <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it's raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month</a> 
+ <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it's increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
  Richard Lawler / The Verge:
-In an email to Twitter Blue subscribers, Twitter says it's raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
+In an email to Twitter Blue subscribers, Twitter says it's increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
  
  <p class="updated_time"> 07:30 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> 
@@ -329,7 +329,7 @@ In an email to Twitter Blue subscribers, Twitter says it's raising the price of 
   —  Apple Inc (AAPL.O) on Thursday said parts shortages are easing and that demand for iPhones is unceasing despite consumers tightening … 
  
  <p class="updated_time"> 06:25 PM CT, Jul. 28 </p> 
- <a href="https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business">An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and customer debt</a> 
+ <a href="https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business">An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and consumer debt</a> 
  Bloomberg:
   —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
  
