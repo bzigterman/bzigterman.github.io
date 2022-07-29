@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:15 AM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/politics/jared-kushner-steve-bannon-west-wing/">First on CNN: Jared Kushner details West Wing ‘war’ with ‘toxic’ Steve Bannon in new book</a> 
+ Kaitlan Collins / CNN:
+  —  (CNN)Jared Kushner details his clashes with Steve Bannon in his new book, describing a “toxic” West Wing presence who accused him of “undermining the President's agenda” and threatened to break him “in half” if Kushner turned on him.
+ 
  <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
  <a href="https://www.reuters.com/investigates/special-report/usa-elections-michigan-investigation/">Inside one far-right sheriff's crusade to prove Trump's bogus voter-fraud claims</a> 
  Reuters:
