@@ -318,11 +318,6 @@ Paul Whelan's twin brother speaks out on US proposal to secure his release with 
  Maya T. Prabhu / Atlanta Journal-Constitution:
 AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban  —  Most Georgia voters oppose a new restrictive abortion law that took effect last week, and many say a candidate's support or opposition to the procedure will have an impact on who gets their vote, according to a new Atlanta Journal-Constitution poll.
  
- <p class="updated_time"> 10:30 AM CT, Jul. 28 </p> 
- <a href="https://www.politico.com/news/2022/07/28/doj-00048457">Jan. 6 committee has a formal path to share investigative material with DOJ, its chair says</a> 
- Kyle Cheney / Politico:
-Jan. 6 committee has a formal path to share investigative material with DOJ, its chair says  —  Agreement on evidence-sharing would mark a significant milestone as the DOJ inquiry into efforts by Donald Trump and others to overturn the 2020 election enters a more public-facing phase.
- 
 
 
 </details>
