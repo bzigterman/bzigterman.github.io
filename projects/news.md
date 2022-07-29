@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Jul. 29 </p> 
+ <a href="https://apnews.com/article/brittney-griner-sports-basketball-antony-blinken-moscow-17f8c95a23169f22b0efc1fe3a4e997c">Russia's Lavrov says he will discuss US prisoner swap offer</a> 
+ Vladimir Isachenkov / Associated Press:
+  —  MOSCOW (AP) — Russian Foreign Minister Sergey Lavrov said Friday that he's open to a call with U.S. Secretary of State Antony Blinken to discuss a possible prisoner swap involving American basketball star Brittney Griner.
+ 
+ <p class="updated_time"> 09:25 AM CT, Jul. 29 </p> 
+ <a href="https://apnews.com/article/inflation-economy-consumer-spending-prices-1c912833f8e24c6ca151f0d5d89332f7?taid=62e3d5f2d179020001dbdfb2">A key US inflation gauge reaches 6.8% as prices keep surging</a> 
+ Christopher Rugaber / Associated Press:
+  —  WASHINGTON (AP) — An inflation gauge that is closely tracked by the Federal Reserve jumped 6.8% in June from a year ago, the biggest increase in four decades, and leaving Americans with no relief from surging costs.
+ 
  <p class="updated_time"> 09:15 AM CT, Jul. 29 </p> 
  <a href="https://www.cnn.com/2022/07/29/politics/jared-kushner-steve-bannon-west-wing/">First on CNN: Jared Kushner details West Wing ‘war’ with ‘toxic’ Steve Bannon in new book</a> 
  Kaitlan Collins / CNN:
