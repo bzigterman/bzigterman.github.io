@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:50 PM CT, Jul. 28 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/covid-booster-shots.html">Biden Administration Plans to Offer Updated Booster Shots in September</a> 
+ New York Times:
+  —  With reformulated shots from Pfizer and Moderna on the horizon, the F.D.A. has decided that Americans under 50 should wait to receive second boosters.  —  WASHINGTON — The Biden administration now expects to begin … 
+ 
+ <p class="updated_time"> 07:45 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/news/weather/least-1-dead-one-worst-flooding-events-kentuckys-history-officials-say-rcna40436">‘Double-digit deaths’ expected in Kentucky floods that have already killed 8, governor says</a> 
+ NBC News:
+  —  Drone video shows historic flash flooding in Kentucky  —  At least eight people are dead and officials fear that number will increase after rain battered the eastern part of Kentucky … 
+ 
  <p class="updated_time"> 07:15 PM CT, Jul. 28 </p> 
  <a href="https://www.cnn.com/2022/07/28/politics/doug-mastriano-gab-pennsylvania-republican/">Doug Mastriano under fire for relationship with antisemitic website and its founder</a> 
  Dan Merica / CNN:
