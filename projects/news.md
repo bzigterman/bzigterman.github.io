@@ -344,11 +344,6 @@ Justice Thomas backs out of teaching fall seminar at GW law school  —  Supre
  Politico:
 POLITICO Playbook: Manchin breathes new life into Biden agenda  —  With help from Eli Okun and Garrett Ross  —  DRIVING THE DAY  —  Last summer, Sen. JOE MANCHIN and Senate Majority Leader CHUCK SCHUMER signed a one-page agreement outlining the West Virginia Democrat's red lines for a reconciliation bill.
  
- <p class="updated_time"> 05:50 AM CT, Jul. 28 </p> 
- <a href="https://www.nytimes.com/2022/07/27/us/politics/fake-electors-explained-trump-jan-6.html">The Fake Electors Scheme, Explained</a> 
- New York Times:
-The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of the 2020 election by creating slates of electors pledged to Donald Trump in states he had lost was expansive, long-running and often confusing.  —  The brazen plan to create false slates of electors pledged … 
- 
 
 
 </details>
