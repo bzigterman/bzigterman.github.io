@@ -278,6 +278,11 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 05:05 AM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA</a> 
+ Foo Yun Chee / Reuters:
+  —  The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
+ 
  <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
  <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it's increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
  Richard Lawler / The Verge:
