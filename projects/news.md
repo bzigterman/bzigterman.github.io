@@ -9,10 +9,35 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:10 PM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/29/us/politics/biden-judges-democrats-senate.html">Despite Biden's Success on Judges, Progressives Demand a Faster Pace</a> 
+ Carl Hulse / New York Times:
+  —  Democrats may leave dozens of federal judicial vacancies unfilled this year, prompting concern among liberal groups about a blockade should Republicans win the Senate.  —  WASHINGTON — With an extended summer recess looming … 
+ 
+ <p class="updated_time"> 02:35 PM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/newsletters/prescription-pulse/2022/07/29/prescription-pulse-monkeypox-vaccines-cdc-covid-00048594">More than 780,000 monkeypox vaccines for the U.S.</a> 
+ Katherine Ellen Foley / Politico:
+  — The first cosmetic regulation in nearly a century could be lost in an ongoing user fee spat.  — FDA's chief tobacco scientist to leave for Philip Morris International.  —  It's Friday.  Welcome to Prescription Pulse.
+ 
+ <p class="updated_time"> 02:35 PM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/politics/griner-whelan-russia-murderer-request/">CNN Exclusive: Russian officials requested adding convicted murderer to Griner/Whelan prisoner swap</a> 
+ CNN:
+  —  (CNN)Russian government officials requested that a former colonel from the country's domestic spy agency who was convicted of murder in Germany last year be added to the US' proposed swap … 
+ 
+ <p class="updated_time"> 02:20 PM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/world/us/biden-nominates-abortion-rights-lawyer-us-supreme-court-case-federal-judgeship-2022-07-29/">Biden nominates abortion rights lawyer in U.S. Supreme Court case to federal judgeship</a> 
+ Nate Raymond / Reuters:
+  —  President Joe Biden on Friday nominated a lawyer who represented the Mississippi clinic at the heart of the U.S. Supreme Court's decision to overturn its landmark 1973 Roe v. Wade abortion rights decision to become a federal appeals court judge.
+ 
+ <p class="updated_time"> 02:10 PM CT, Jul. 29 </p> 
+ <a href="https://www.cbsnews.com/news/us-admits-100000-ukrainians-in-5-months-fulfilling-biden-pledge/">U.S. admits 100,000 Ukrainians in 5 months, fulfilling Biden pledge</a> 
+ Camilo Montoya-Galvez / CBS News:
+  —  The U.S. received more than 100,000 Ukrainians in roughly five months following Russia's invasion of Ukraine, fulfilling President Biden's pledge of providing a temporary safe haven to those displaced as part … 
+ 
  <p class="updated_time"> 02:05 PM CT, Jul. 29 </p> 
  <a href="https://www.politico.com/news/2022/07/29/pelosi-taiwan-china-00048749">Pelosi to leave for Asia amid Chinese threats over Taiwan stop</a> 
  Politico:
-  —  Visit to the island still possible as U.S. military preparations get underway.  —  Speaker Nancy Pelosi is set to leave this weekend on a trip that includes Singapore, Japan and South Korea — and possibly Taiwan … 
+  —  Speaker Nancy Pelosi is set to leave this weekend on a trip that includes Singapore, Japan and South Korea — and possibly Taiwan — even as a Chinese state media commentator suggested Friday that Beijing could shoot down any U.S. military plane she takes to Taipei.
  
  <p class="updated_time"> 01:45 PM CT, Jul. 29 </p> 
  <a href="https://www.nytimes.com/2022/07/29/business/exxon-chevron-profit.html">Exxon and Chevron Report Record Profits on High Oil and Gas Prices</a> 
@@ -324,11 +349,6 @@ Biden faces new headwind as economy shrinks again  —  The White House faces 
  Sahil Kapur / NBC News:
 Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona centrist has voiced opposition of the carried interest provision in the past.  —  Senate Maj. Leader Chuck Schumer and Sen. Joe Manchin, D-W.Va., threw a legitimate curveball at their Senate colleagues Wednesday … 
  
- <p class="updated_time"> 09:45 AM CT, Jul. 28 </p> 
- <a href="https://www.nytimes.com/2022/07/28/upshot/abortion-bans-states-social-services.html">States With Abortion Bans Are Among Least Supportive for Mothers and Children</a> 
- New York Times:
-States With Abortion Bans Are Among Least Supportive for Mothers and Children  —  They tend to have the weakest social services and the worst results in several categories of health and well-being.  —  In Mississippi, which brought the abortion case that ended Roe v. Wade before the Supreme Court … 
- 
 
 
 </details>
@@ -338,13 +358,18 @@ States With Abortion Bans Are Among Least Supportive for Mothers and Children  
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-28/robinhood-ceo-plots-turnaround-after-rocky-first-year-since-ipo">An interview with Robinhood CEO Vlad Tenev on the company's post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more</a> 
+ Annie Massa / Bloomberg:
+  —  A relaxed vibe envelops Robinhood Markets Inc.'s California headquarters, where employees stroll in pairs around a lush courtyard of cacti … 
+ 
  <p class="updated_time"> 01:35 PM CT, Jul. 29 </p> 
  <a href="https://9to5mac.com/2022/07/29/app-store-ads-expanding/">Apple expands App Store ads from the Search tab and Search results to the App Store's Today homepage and individual app pages</a> 
  Chance Miller / 9to5Mac:
   —  Apple is expanding its advertising business and adding two new ad slots to the App Store.  Currently, the App Store has two ad slots: one on the main ‘Search’ tab and one in the Search results.
  
  <p class="updated_time"> 01:20 PM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they fail to comply with US auditing standards; Alibaba stock is down 9%+</a> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">The SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they don't comply with US auditing standards; Alibaba's stock is down 9%+</a> 
  Bloomberg:
 +  —  Alibaba Group Holding Ltd. has moved a step closer toward getting booted off US stock exchanges for American inspectors not being able to access to financial audits.
  
@@ -379,7 +404,7 @@ A Delaware judge rules that Twitter's case against Elon Musk for attempting to e
   —  A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
  
  <p class="updated_time"> 05:05 AM CT, Jul. 29 </p> 
- <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA</a> 
+ <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: the EC is considering creating a unit headed by two top antitrust officials, amid concerns the EU competition watchdog may struggle to enforce the DMA</a> 
  Foo Yun Chee / Reuters:
   —  The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
  
