@@ -308,6 +308,11 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> 
+ Bloomberg:
+  —  Jack Ma is taking a weeks-long tour in Europe after largely disappearing from public view for almost two years … 
+ 
  <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
  <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and could shift how DC regulates competition in nascent industries</a> 
  Cecilia Kang / New York Times:
