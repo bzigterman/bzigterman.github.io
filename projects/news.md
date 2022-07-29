@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/news/magazine/2022/07/29/is-biden-better-president-than-people-thought-00048654">Wait, Is Biden a Better President Than People Thought?</a> 
+ John F. Harris / Politico:
+?  —  Biden is making a comeback with his breakthrough on climate legislation — but limitations to his leadership still shadow his presidency.  —  Altitude is a column by POLITICO founding editor John Harris, offering weekly perspective … 
+ 
  <p class="updated_time"> 05:55 AM CT, Jul. 29 </p> 
  <a href="https://www.cnn.com/2022/07/28/politics/cnn-poll-abortion-roe-v-wade/">CNN Poll: About two-thirds of Americans disapprove of overturning Roe v. Wade, see negative effect for the nation ahead</a> 
  CNN:
@@ -294,9 +299,9 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
   —  The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
  
  <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it's increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
+ <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
  Richard Lawler / The Verge:
-In an email to Twitter Blue subscribers, Twitter says it's increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
+In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
  
  <p class="updated_time"> 07:30 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> 
