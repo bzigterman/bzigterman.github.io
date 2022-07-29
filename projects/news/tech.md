@@ -6,6 +6,8 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+ <p class="updated_time"> 06:10 PM CT, Jul. 29 </p> 
+ <a href="https://www.cnbc.com/2022/07/29/elon-musk-countersues-twitter-over-merger-filing-confidential.html">Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court</a> Lora Kolodny / CNBC:  — - Elon Musk counter sued Twitter on Friday, intensifying the conflict between the social networking company and centi-billionaire but keeping details hidden from the public. 
  <p class="updated_time"> 04:50 PM CT, Jul. 29 </p> 
  <a href="https://www.reuters.com/world/americas/brazil-prosecutors-ask-whatsapp-delay-launch-new-tool-until-january-2022-07-29/">Brazilian prosecutors ask WhatsApp to delay its Communities feature launch in Brazil until January to avoid spreading misinformation around the October election</a> Anthony Boadle / Reuters:  — Brazilian prosecutors on Friday called on messaging platform WhatsApp to delay the launch in Brazil of its new feature called … 
  <p class="updated_time"> 02:50 PM CT, Jul. 29 </p> 

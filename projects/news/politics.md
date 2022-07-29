@@ -280,16 +280,6 @@ Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio  —  AKRON, Oh
  NBC News:
 Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight  —  The president has so far deployed a keep-frenemies-close approach to his ambitious Democratic colleagues.  Some close to the White House say what Biden needs is a traditional enforcer.
  
- <p class="updated_time"> 01:40 PM CT, Jul. 28 </p> 
- <a href="https://www.politico.com/news/2022/07/28/justice-department-data-breach-federal-court-system-00048485">Justice Department investigating data breach of federal court system</a> 
- Maggie Miller / Politico:
-Justice Department investigating data breach of federal court system  —  The Justice Department is investigating a data breach of the U.S. federal courts system dating to early 2020, a top official testified on Capitol Hill Thursday.  —  Scary scenario for the judicial branch … 
- 
- <p class="updated_time"> 01:30 PM CT, Jul. 28 </p> 
- <a href="https://apnews.com/article/2022-midterm-elections-wisconsin-lawsuits-presidential-16d90c311d35d28b9b5a4024e6fb880c">Judge: Wisconsin probe found ‘absolutely no’ election fraud</a> 
- Scott Bauer / Associated Press:
-Judge: Wisconsin probe found ‘absolutely no’ election fraud  —  MADISON, Wis. (AP) — A Wisconsin judge said Thursday that a Republican-ordered, taxpayer-funded investigation into the 2020 election found “absolutely no evidence of election fraud,” but did reveal contempt for the state's open records law … 
- 
 
 
 
