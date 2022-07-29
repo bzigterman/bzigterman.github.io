@@ -1,3 +1,73 @@
+---
+layout: page
+title: Tech
+permalink: /projects/news/tech
+imageurl: https://bzigterman.com/plots/news.png
+webappicon: /plots/news.png
+---
+
+ <p class="updated_time"> 04:50 PM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/world/americas/brazil-prosecutors-ask-whatsapp-delay-launch-new-tool-until-january-2022-07-29/">Brazilian prosecutors ask WhatsApp to delay its Communities feature launch in Brazil until January to avoid spreading misinformation around the October election</a> Anthony Boadle / Reuters:  — Brazilian prosecutors on Friday called on messaging platform WhatsApp to delay the launch in Brazil of its new feature called … 
+ <p class="updated_time"> 02:50 PM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-28/robinhood-ceo-plots-turnaround-after-rocky-first-year-since-ipo">An interview with Robinhood CEO Vlad Tenev on the company's post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more</a> Annie Massa / Bloomberg:  — A relaxed vibe envelops Robinhood Markets Inc.'s California headquarters, where employees stroll in pairs around a lush courtyard of cacti … 
+ <p class="updated_time"> 01:35 PM CT, Jul. 29 </p> 
+ <a href="https://9to5mac.com/2022/07/29/app-store-ads-expanding/">Apple expands App Store ads from the Search tab and Search results to the App Store's Today homepage and individual app pages</a> Chance Miller / 9to5Mac:  — Apple is expanding its advertising business and adding two new ad slots to the App Store. Currently, the App Store has two ad slots: one on the main ‘Search’ tab and one in the Search results. 
+ <p class="updated_time"> 01:20 PM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">The SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they don't comply with US auditing standards; Alibaba's stock is down 9%+</a> Bloomberg: + — Alibaba Group Holding Ltd. has moved a step closer toward getting booted off US stock exchanges for American inspectors not being able to access to financial audits. 
+ <p class="updated_time"> 11:01 AM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC</a> David E. Sanger / New York Times: As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC — While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead. 
+ <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; the FTC didn't take sworn interviews of company execs in the nine-month inquiry</a> Leah Nylen / Bloomberg:  — Federal Trade Commission Chair Lina Khan led her fellow Democrats in the agency's majority vote to sue Meta Platforms Inc. this week … 
+ <p class="updated_time"> 08:40 AM CT, Jul. 29 </p> 
+ <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022</a> Richard Lawler / The Verge: A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022 — Everybody's going to the Court of Chancery — We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit … 
+ <p class="updated_time"> 08:00 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> Bloomberg:  — Jack Ma is taking a weeks-long tour in Europe after largely disappearing from public view for almost two years … 
+ <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">FTC chair Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and may shift how DC enforces competition in nascent tech</a> Cecilia Kang / New York Times:  — Lina Khan may set off a shift in how Washington regulates competition by filing cases in tech areas before they mature. 
+ <p class="updated_time"> 05:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR unit asked for a stealth TikTok account targeting Western audiences with propaganda; TikTok declined the “sensitive” request</a> Olivia Solon / Bloomberg:  — A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
+ <p class="updated_time"> 05:05 AM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: the EC is considering creating a unit headed by two top antitrust officials, amid concerns the EU competition watchdog may struggle to enforce the DMA</a> Foo Yun Chee / Reuters:  — The European Commission is considering creating a new directorate that may be headed by two top antitrust officials to enforce tough … 
+ <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month</a> 
+ Richard Lawler / The Verge:
+In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
+ 
+ <p class="updated_time"> 07:30 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> 
+ Reuters:
+  —  Apple Inc (AAPL.O) on Thursday said parts shortages are easing and that demand for iPhones is unceasing despite consumers tightening … 
+ 
+ <p class="updated_time"> 06:25 PM CT, Jul. 28 </p> 
+ <a href="https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business">An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and consumer debt</a> 
+ Bloomberg:
+  —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
+ 
+ <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
+ Kif Leswing / CNBC:
+Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022  —  KEY POINTS  — Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
+ 
+ <p class="updated_time"> 03:35 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/intel-intc-earnings-q2-2022.html">Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+</a> 
+ Jordan Novet / CNBC:
+Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+  —  - Intel slashed its full-year guidance and turned in worse-than expected quarterly results.  — The company launched new chips … 
+ 
+ <p class="updated_time"> 03:18 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnbc.com/2022/07/28/amazon-amzn-q2-2022-earnings.html">Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B</a> 
+ Annie Palmer / CNBC:
+Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B  —  - Amazon reported second-quarter results on Thursday that beat on the top line.  — It also gave upbeat guidance for the third quarter.
+ 
+ <p class="updated_time"> 02:27 PM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/28/23282494/semiconductors-chips-and-science-act-joe-biden-congress-nvidia?scrolla=5eb6d68b7fedc32c19ef33b4">The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to encourage investment; Biden now must sign it into law</a> 
+ Makena Kelly / The Verge:
+The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to encourage investment; Biden now must sign it into law  —  All that's left is Biden's signature  —  It might get cheaper and easier to buy popular tech products, like gaming consoles and graphics cards … 
+ 
+ <p class="updated_time"> 02:20 PM CT, Jul. 28 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-28/advertisers-are-struggling-with-instagram-s-tiktok-clone-reels">As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first</a> 
+ Bloomberg:
+As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first  —  Reels — the short videos that Facebook and Instagram are pushing — are getting more popular, parent company Meta Platforms Inc. says.
+ 
 
 
 
