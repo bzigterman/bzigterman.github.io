@@ -20,6 +20,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/inflation.html" width="100%" height="300"> 
 </iframe>
 
+The [Consumer Price Index](https://en.wikipedia.org/wiki/United_States_Consumer_Price_Index) is the more common measure of inflation. The [Personal Consumption Expenditures Index](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index) is the Federal Reserve's preferred measure.
+
 ## [Prices »]({{ site.baseurl }}/projects/economy/usa/prices)
 
 <iframe src="/interactive/retail_sales.html" width="100%" height="300"> 
