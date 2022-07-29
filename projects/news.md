@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Jul. 29 </p> 
+ <a href="https://www.cbsnews.com/news/un-nuclear-conference-ukraine-zaporizhzhya-plant/">U.N. nuclear conference to start Monday as Ukraine's Zaporizhzhya plant in “alarming” state, watchdog says</a> 
+ Pamela Falk / CBS News:
+  —  United Nations — On Monday, International Atomic Energy Agency (IAEA) chief Rafael Grossi, U.S. Secretary of State Antony Blinken and U.N. Secretary General Antonio Guterres … 
+ 
+ <p class="updated_time"> 09:50 AM CT, Jul. 29 </p> 
+ <a href="https://www.cnbc.com/2022/07/29/white-house-goes-on-offense-to-argue-that-the-us-is-not-in-a-recession-.html">White House goes on offense to argue that the U.S. is not in a recession</a> 
+ Christina Wilkie / CNBC:
+  — The White House responded to Thursday's second quarter negative GDP growth with a coordinated message: the U.S. economy is not in a recession.  — On Thursday, the Commerce Department's Bureau of Economic Analysis reported … 
+ 
  <p class="updated_time"> 09:30 AM CT, Jul. 29 </p> 
  <a href="https://apnews.com/article/brittney-griner-sports-basketball-antony-blinken-moscow-17f8c95a23169f22b0efc1fe3a4e997c">Russia's Lavrov says he will discuss US prisoner swap offer</a> 
  Vladimir Isachenkov / Associated Press:
@@ -422,11 +432,6 @@ Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, an
  <a href="https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=djemalertNEWS">Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change</a> 
  Wall Street Journal:
 Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially pushing back Ant's IPO for a year or more; regulators approve of the change  —  The shift, long under consideration to reduce governance risks, comes as the Chinese fintech giant seeks to move on from a tough year
- 
- <p class="updated_time"> 04:50 AM CT, Jul. 28 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a> 
- Saritha Rai / Bloomberg:
-An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more  —  Paytm was the poster boy for India's tech startups, only to lose two-thirds of its value since its IPO and become a symbol of the industry's crash.
  
 
 
