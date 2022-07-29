@@ -274,11 +274,6 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
  CNN:
 Two ex-officers who restrained George Floyd sentenced to 3 years and 3.5 years in federal prison  —  (CNN)J. Alexander Kueng and Tou Thao, two of the former Minneapolis Police officers convicted of federal charges in the fatal arrest of George Floyd, were sentenced to 3 years and 3.5 years in prison, respectively, on Wednesday.
  
- <p class="updated_time"> 11:05 PM CT, Jul. 27 </p> 
- <a href="https://www.nytimes.com/2022/07/27/health/deadly-bacteria-us-soil-water.html">Potentially Deadly Bacteria Detected in U.S. Soil for First Time</a> 
- McKenna Oxenden / New York Times:
-Potentially Deadly Bacteria Detected in U.S. Soil for First Time  —  The bacteria, Burkholderia pseudomallei, was found along the Gulf Coast region of Southern Mississippi.  Previously, it had been detected in parts of Asia and Australia.  —  A potentially deadly bacteria was found … 
- 
 
 
 </details>
@@ -347,11 +342,6 @@ An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual rev
  <a href="https://www.theverge.com/2022/7/27/23281237/google-gmail-redesign-ui-opt-out-chat-meet-spaces?scrolla=5eb6d68b7fedc32c19ef33b4">Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022</a> 
  Richard Lawler / The Verge:
 Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022  —  It's not that different  —  We've been tracking the progress of Google's interface refresh for Gmail since February, and as promised … 
- 
- <p class="updated_time"> 10:50 PM CT, Jul. 27 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-27/apple-nabs-key-lamborghini-executive-to-work-on-its-electric-car">Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car</a> 
- Mark Gurman / Bloomberg:
-Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini's head of chassis and vehicle dynamics, to work on its self-driving electric car  —  Apple Inc. has enlisted one of Lamborghini's top car-development managers in a sign that it's stepping up work … 
  
 
 
