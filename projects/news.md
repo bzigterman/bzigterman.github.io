@@ -293,21 +293,6 @@ Justice Department investigating data breach of federal court system  —  The
  Scott Bauer / Associated Press:
 Judge: Wisconsin probe found ‘absolutely no’ election fraud  —  MADISON, Wis. (AP) — A Wisconsin judge said Thursday that a Republican-ordered, taxpayer-funded investigation into the 2020 election found “absolutely no evidence of election fraud,” but did reveal contempt for the state's open records law … 
  
- <p class="updated_time"> 12:10 PM CT, Jul. 28 </p> 
- <a href="https://www.reuters.com/markets/europe/us-house-democrats-propose-ban-stock-trading-august-punchbowl-news-2022-07-28/">U.S. House Democrats to propose ban on stock trading in August - Punchbowl News</a> 
- Akriti Sharma / Reuters:
-U.S. House Democrats to propose ban on stock trading in August - Punchbowl News  —  U.S. House Democrats plan to announce a proposal next month to ban lawmakers, their spouses and senior staff from trading stocks, Punchbowl news outlet reported on Thursday, citing multiple sources close to the issue.
- 
- <p class="updated_time"> 12:10 PM CT, Jul. 28 </p> 
- <a href="https://www.nbcnews.com/politics/immigration/ice-finds-73-migrants-living-smuggler-stash-houses-northwest-dc-intern-rcna40357">ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., internal documents reveal</a> 
- Julia Ainsley / NBC News:
-ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., internal documents reveal  —  Immigration agents found 73 migrants living in houses operated by human smugglers in the Northwest area of Washington, D.C., on Wednesday, according to internal documents reviewed by NBC News.
- 
- <p class="updated_time"> 11:55 AM CT, Jul. 28 </p> 
- <a href="https://apnews.com/article/washington-commanders-nfl-sports-football-dan-snyder-3fe9dcad56ba44ba4e7ff352b905b63c?taid=62e2a91e31e1120001548ad8">Commanders owner Dan Snyder testifies before House committee</a> 
- Stephen Whyno / Associated Press:
-Commanders owner Dan Snyder testifies before House committee  —  ASHBURN, Va. (AP) — Washington Commanders owner Dan Snyder has begun testifying before a congressional committee investigating the NFL team's history of workplace misconduct.  —  A spokesperson for the U.S. House Committee … 
- 
 
 
 </details>
@@ -317,6 +302,8 @@ Commanders owner Dan Snyder testifies before House committee  —  ASHBURN, Va
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/world/americas/brazil-prosecutors-ask-whatsapp-delay-launch-new-tool-until-january-2022-07-29/">Brazilian prosecutors ask WhatsApp to delay its Communities feature launch in Brazil until January to avoid spreading misinformation around the October election</a> Anthony Boadle / Reuters:  — Brazilian prosecutors on Friday called on messaging platform WhatsApp to delay the launch in Brazil of its new feature called … 
  <p class="updated_time"> 02:50 PM CT, Jul. 29 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-28/robinhood-ceo-plots-turnaround-after-rocky-first-year-since-ipo">An interview with Robinhood CEO Vlad Tenev on the company's post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more</a> Annie Massa / Bloomberg:  — A relaxed vibe envelops Robinhood Markets Inc.'s California headquarters, where employees stroll in pairs around a lush courtyard of cacti … 
  <p class="updated_time"> 01:35 PM CT, Jul. 29 </p> 
@@ -376,11 +363,6 @@ The US House passes the Chips and Science Act, which includes $52B+ for US chipm
  <a href="https://www.bloomberg.com/news/articles/2022-07-28/advertisers-are-struggling-with-instagram-s-tiktok-clone-reels">As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first</a> 
  Bloomberg:
 As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first  —  Reels — the short videos that Facebook and Instagram are pushing — are getting more popular, parent company Meta Platforms Inc. says.
- 
- <p class="updated_time"> 12:20 PM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/23281445/google-pixel-buds-pro-noise-canceling-earbuds-review?scrolla=5eb6d68b7fedc32c19ef33b4">Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work</a> 
- Chris Welch / The Verge:
-Google Pixel Buds Pro review: good ANC, improved sound, lengthy battery life, and no frequent dropouts, but transparency mode, audio fidelity, and mic need work  —  Google's premium buds have more features — without deal-breaking flaws  —  It wasn't a sure thing that the Pixel Buds Pro would turn out to be good.
  
 
 
