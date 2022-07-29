@@ -221,33 +221,38 @@ ggsave("plots/news.png", bg = "white",
 web_text <- paste(
   "---
 layout: page
-title: News Rivers
-permalink: /projects/news
+title: Politics
+permalink: /projects/news/politics
 imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
-<details open>
-<summary>Politics</summary>
-
 ",politics_news_lines,"
-
-</details>
-
----
-
-<details open>
-<summary>Tech</summary>
-
-",tech_news_lines,"
-
-</details>
-
 
 ",
 sep = ""
 )
 
-write_lines(web_text,"projects/news.md")
+write_lines(web_text,"projects/news/politics.md")
+
+web_text <- paste(
+  "---
+layout: page
+title: Tech
+permalink: /projects/news/tech
+imageurl: https://bzigterman.com/plots/news.png
+webappicon: /plots/news.png
+---
+
+",tech_news_lines,"
+
+",
+sep = ""
+)
+
+write_lines(web_text,"projects/news/tech.md")
+
+
+
 
 
