@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:10 AM CT, Jul. 29 </p> 
+ <a href="https://www.nbcnews.com/politics/justice-department/-trump-influencer-upset-documents-detailing-substantial-cooperation-fb-rcna40576">Pro-Trump influencer upset after documents detailing ‘substantial’ cooperation with FBI are released</a> 
+ Ryan J. Reilly / NBC News:
+  —  WASHINGTON — A pro-Trump social media influencer who was convicted of disorderly and disruptive conduct on Capitol grounds for his actions on Jan. 6 is upset over the release of court filings … 
+ 
+ <p class="updated_time"> 11:01 AM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/weather/kentucky-appalachia-flooding-friday/">At least 16 people are dead after Kentucky's catastrophic flooding, and the death toll is expected to rise</a> 
+ CNN:
+  —  Flood threat persists in Kentucky while sweltering temperatures target the Northwest  —  (CNN)At least 16 people are dead following catastrophic flooding in Kentucky, Gov. Andy Beshear said Friday.
+ 
  <p class="updated_time"> 10:25 AM CT, Jul. 29 </p> 
  <a href="https://www.nbcnews.com/politics/immigration/biden-administration-fill-border-wall-gaps-yuma-arizona-rcna40567">Biden administration to fill border wall gaps near Yuma, Arizona</a> 
  Associated Press:
@@ -339,11 +349,6 @@ Mick Mulvaney will testify Thursday before House Jan. 6 committee  —  Former
  Shawna Chen / Axios:
 Justice Thomas backs out of teaching fall seminar at GW law school  —  Supreme Court Justice Clarence Thomas has backed out of teaching a seminar at George Washington University's law school after calls to remove him from his position as adjunct professor.  —  Why it matters … 
  
- <p class="updated_time"> 06:10 AM CT, Jul. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/07/28/manchin-breathes-new-life-into-biden-agenda-00048415">POLITICO Playbook: Manchin breathes new life into Biden agenda</a> 
- Politico:
-POLITICO Playbook: Manchin breathes new life into Biden agenda  —  With help from Eli Okun and Garrett Ross  —  DRIVING THE DAY  —  Last summer, Sen. JOE MANCHIN and Senate Majority Leader CHUCK SCHUMER signed a one-page agreement outlining the West Virginia Democrat's red lines for a reconciliation bill.
- 
 
 
 </details>
@@ -353,6 +358,11 @@ POLITICO Playbook: Manchin breathes new life into Biden agenda  —  With help
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 11:01 AM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan</a> 
+ David E. Sanger / New York Times:
+As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan  —  While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead.
+ 
  <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; FTC didn't take sworn interviews of company execs during the nine-month inquiry</a> 
  Leah Nylen / Bloomberg:
