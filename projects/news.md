@@ -9,45 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:15 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnn.com/2022/07/28/politics/doug-mastriano-gab-pennsylvania-republican/">Doug Mastriano under fire for relationship with antisemitic website and its founder</a> 
+ Dan Merica / CNN:
+  —  (CNN)Doug Mastriano, the Republican gubernatorial nominee in Pennsylvania, is facing bipartisan criticism for his ties to Gab, a far-right social media platform, and its founder Andrew Torba … 
+ 
+ <p class="updated_time"> 07:01 PM CT, Jul. 28 </p> 
+ <a href="https://apnews.com/article/russia-ukraine-kyiv-e85d2709f3f6be7eff1b8d278e4d2be9">Russia attacks Kyiv area for the first time in weeks</a> 
+ Susie Blann / Associated Press:
+  —  KYIV, Ukraine (AP) — Russian forces launched a missile attack on the Kyiv area for the first time in weeks Thursday and pounded the northern Chernihiv region as well, in what Ukraine said was revenge for standing up to the Kremlin.
+ 
  <p class="updated_time"> 06:20 PM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/28/nyregion/third-parties-governor-ny.html">For First Time Since 1946, New Yorkers Have Just 2 Choices for Governor</a> 
  Jay Root / New York Times:
-For First Time Since 1946, New Yorkers Have Just 2 Choices for Governor  —  Changes in election law have frozen out third parties in New York State, and even Rep. Lee Zeldin couldn't secure the Independence Party line.  —  ALBANY, N.Y. — New York voters who dislike the Democrat … 
+  —  Changes in election law have frozen out third parties in New York State, and even Rep. Lee Zeldin couldn't secure the Independence Party line.  —  ALBANY, N.Y. — New York voters who dislike the Democrat … 
  
  <p class="updated_time"> 06:10 PM CT, Jul. 28 </p> 
  <a href="https://www.cnn.com/2022/07/28/politics/klukowski-justice/">First on CNN: Trump DOJ official cooperating with Justice Department's criminal Jan. 6 probe</a> 
  Katelyn Polantz / CNN:
-First on CNN: Trump DOJ official cooperating with Justice Department's criminal Jan. 6 probe  —  (CNN)Former Justice Department staffer Ken Klukowski, who worked with Jeffrey Clark at the agency, is cooperating in the DOJ's January 6 criminal investigation, after investigators searched … 
+  —  (CNN)Former Justice Department staffer Ken Klukowski, who worked with Jeffrey Clark at the agency, is cooperating in the DOJ's January 6 criminal investigation, after investigators searched … 
  
  <p class="updated_time"> 05:45 PM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/news/2022/07/28/cancel-student-loans-education-department-00048365">The Education Department has a plan for canceling student debt — if Biden gives the word</a> 
  Michael Stratford / Politico:
-The Education Department has a plan for canceling student debt — if Biden gives the word  —  Senior department officials are preparing the mechanics of how the agency would operate a mass loan forgiveness program.  —  Top Education Department officials have developed detailed plans to carry … 
+  —  Senior department officials are preparing the mechanics of how the agency would operate a mass loan forgiveness program.  —  Top Education Department officials have developed detailed plans to carry … 
  
  <p class="updated_time"> 05:40 PM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/news/2022/07/28/biden-enters-the-always-be-closing-phase-of-his-first-term-00048600">Biden enters the Always Be Closing phase of his first term</a> 
  Politico:
-Biden enters the Always Be Closing phase of his first term  —  Somehow, someway, Joe Biden is back in the game.  —  After enduring a brutal year dominated by economic angst, legislative setbacks and sinking approval ratings, the president is suddenly on the verge of a turnaround that … 
+  —  Somehow, someway, Joe Biden is back in the game.  —  After enduring a brutal year dominated by economic angst, legislative setbacks and sinking approval ratings, the president is suddenly on the verge of a turnaround that … 
  
  <p class="updated_time"> 05:30 PM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/28/sports/golf/donald-trump-liv-saudi-pga.html">Trump Criticizes PGA Tour and Praises Saudis for Backing LIV Golf</a> 
  David Waldstein / New York Times:
-Trump Criticizes PGA Tour and Praises Saudis for Backing LIV Golf  —  The former president, who is hosting two LIV Golf events, including one this week at his course in Bedminster, N.J., made the remarks before teeing off in the pro am.  —  BEDMINSTER, N.J. — Donald J. Trump praised … 
+  —  The former president, who is hosting two LIV Golf events, including one this week at his course in Bedminster, N.J., made the remarks before teeing off in the pro am.  —  BEDMINSTER, N.J. — Donald J. Trump praised … 
  
  <p class="updated_time"> 05:05 PM CT, Jul. 28 </p> 
  <a href="https://www.politico.com/interactives/2022/california-ballot-measures-propositions-guide-2022/">California Ballot Tracker: Interest groups prepare for expensive 2022 fights</a> 
  Politico:
 California Ballot Tracker: Interest groups prepare for expensive 2022 fights  —  We're tracking spending on 7 ballot measures that could break records this fall. … Californians were inundated with campaign ads in 2020 as businesses, unions and other wealthy interests shelled out record-shattering sums on ballot measures.
- 
- <p class="updated_time"> 04:50 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/house-vote-semiconductor-chips-bill/">House passes bill to subsidize U.S.-made semiconductor chips in win for Biden</a> 
- Washington Post:
-House passes bill to subsidize U.S.-made semiconductor chips in win for Biden  —  The House on Thursday voted to pass the $280 billion Chips and Science Act, a bill that would subsidize domestic semiconductor manufacturing and invest billions in science and technology innovation … 
- 
- <p class="updated_time"> 04:45 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/wisconsin-voter-fraud/">Wisconsin anti-voting-fraud activist commits voter fraud to make a point</a> 
- Patrick Marley / Washington Post:
-Wisconsin anti-voting-fraud activist commits voter fraud to make a point  —  MADISON, Wis. — A Wisconsin man this week ordered absentee ballots for himself in the names of a mayor and top state lawmaker in what he says was an attempt to expose vulnerabilities in the state's voting system.
  
  <p class="updated_time"> 04:35 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/legal/government/us-supreme-court-justice-alito-mocks-foreign-critics-abortion-ruling-2022-07-28/">U.S. Supreme Court Justice Alito mocks foreign critics of abortion ruling</a> 
@@ -74,20 +74,10 @@ In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan
  New York Times:
 2016 Campaign Looms Large as Justice Dept. Pursues Jan. 6 Inquiry  —  Top officials at the department and the F.B.I. appear intent on avoiding any errors that could taint the current investigation or provide ammunition for a backlash.  —  As the Justice Department investigation into the attack … 
  
- <p class="updated_time"> 03:20 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/what-what-out-manchin-surprise-climate-deal/">What's in and what's out of Manchin's surprise climate deal</a> 
- Washington Post:
-What's in and what's out of Manchin's surprise climate deal  —  Good morning and welcome to The Climate 202!  Congrats to Shannon Osaka, who is joining The Washington Post as the Climate Zeitgeist Reporter, a.k.a. the coolest title ever.  🎉 But first:  —  Sen. Manchin announced a surprise climate deal.
- 
  <p class="updated_time"> 02:10 PM CT, Jul. 28 </p> 
  <a href="https://www.cnbc.com/2022/07/27/schumer-manchin-reconciliation-bill-climate-change-provisions.html">Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details</a> 
  Emma Newburger / CNBC:
 Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details  — Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Joe Manchin, D-W.Va., on Wednesday unveiled a long-anticipated reconciliation package that would invest hundreds of billions … 
- 
- <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/biden-economy-house-chips-xi/">Biden rejects claims that U.S. is in a recession</a> 
- Washington Post:
-Biden rejects claims that U.S. is in a recession … Today, President Biden rejected claims that the United States is in a recession following the release of a government report that showed the economy shrank for a second straight quarter.  Speaking from the White House … 
  
  <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
  <a href="https://www.nbcnews.com/politics/white-house/biden-host-obamas-white-house-portrait-ceremony-trump-shunned-rcna40493">Biden to host Obamas in September for White House portrait ceremony Trump shunned</a> 
@@ -114,16 +104,6 @@ Justice Department investigating data breach of federal court system  —  The
  Scott Bauer / Associated Press:
 Judge: Wisconsin probe found ‘absolutely no’ election fraud  —  MADISON, Wis. (AP) — A Wisconsin judge said Thursday that a Republican-ordered, taxpayer-funded investigation into the 2020 election found “absolutely no evidence of election fraud,” but did reveal contempt for the state's open records law … 
  
- <p class="updated_time"> 01:15 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/gop-pa-governor-nominee-under-fire-ties-with-white-nationalist-site/">GOP Pa. governor nominee under fire for ties to white nationalist site</a> 
- Colby Itkowitz / Washington Post:
-GOP Pa. governor nominee under fire for ties to white nationalist site  —  CEO of Gab praised Doug Mastriano for leading “an explicitly Christian movement” in antisemitic screeds posted online this week  —  Doug Mastriano, the Republican nominee for Pennsylvania governor … 
- 
- <p class="updated_time"> 12:15 PM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/business/interactive/2022/what-causes-a-recession/">What causes a recession?</a> 
- Washington Post:
-What causes a recession?  —  The economic domino effect has begun, but there is still time to stop it  —  Everyone is wondering whether the economy is going into a recession — or if we are already in one.  —  But what causes a recession?  —  A recession is caused when a chain of events … 
- 
  <p class="updated_time"> 12:10 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/markets/europe/us-house-democrats-propose-ban-stock-trading-august-punchbowl-news-2022-07-28/">U.S. House Democrats to propose ban on stock trading in August - Punchbowl News</a> 
  Akriti Sharma / Reuters:
@@ -138,11 +118,6 @@ ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., inter
  <a href="https://apnews.com/article/washington-commanders-nfl-sports-football-dan-snyder-3fe9dcad56ba44ba4e7ff352b905b63c?taid=62e2a91e31e1120001548ad8">Commanders owner Dan Snyder testifies before House committee</a> 
  Stephen Whyno / Associated Press:
 Commanders owner Dan Snyder testifies before House committee  —  ASHBURN, Va. (AP) — Washington Commanders owner Dan Snyder has begun testifying before a congressional committee investigating the NFL team's history of workplace misconduct.  —  A spokesperson for the U.S. House Committee … 
- 
- <p class="updated_time"> 11:35 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/abortion-west-virginia-girl-addison-gardner/">Girl, 12, challenges W.Va. lawmakers on abortion: ‘What about my life?’</a> 
- Timothy Bella / Washington Post:
-Girl, 12, challenges W.Va. lawmakers on abortion: ‘What about my life?’  —  In a public hearing for a West Virginia abortion bill that would ban the procedure in almost all cases, a 12-year-old girl supporting abortion rights took to the podium on Wednesday and asked Republican lawmakers … 
  
  <p class="updated_time"> 11:25 AM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/28/world/viktor-bout-merchant-of-death-prisoner.html">Viktor Bout Could Be Swapped for Brittney Griner.  Who Is He?</a> 
@@ -179,11 +154,6 @@ Biden faces new headwind as economy shrinks again  —  The White House faces 
  Sahil Kapur / NBC News:
 Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona centrist has voiced opposition of the carried interest provision in the past.  —  Senate Maj. Leader Chuck Schumer and Sen. Joe Manchin, D-W.Va., threw a legitimate curveball at their Senate colleagues Wednesday … 
  
- <p class="updated_time"> 10:05 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/lifestyle/2022/07/28/marc-fogel-teacher-russia-prison/">This American teacher also sits in a Russian jail, worried nobody cares</a> 
- Manuel Roig-Franzia / Washington Post:
-This American teacher also sits in a Russian jail, worried nobody cares  —  Arrested last summer after arriving in Moscow with medical marijuana in his luggage, Marc Fogel has a case that parallels the ordeal of WNBA star Brittney Griner.  But his plight has mostly gone unnoticed.
- 
  <p class="updated_time"> 09:45 AM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/28/upshot/abortion-bans-states-social-services.html">States With Abortion Bans Are Among Least Supportive for Mothers and Children</a> 
  New York Times:
@@ -209,30 +179,10 @@ GDP fell 0.9% in the second quarter, the second straight decline and a strong re
  Hyung-Jin Kim / Associated Press:
 Kim threatens to use nukes amid tensions with US, S. Korea  —  SEOUL, South Korea (AP) — North Korean leader Kim Jong Un warned he's ready to use his nuclear weapons in potential military conflicts with the United States and South Korea, state media said Thursday, as he unleashed fiery rhetoric … 
  
- <p class="updated_time"> 07:50 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/business/2022/07/28/gdp-q2-2022-economy-recession/">U.S. economy shrinks again in second quarter, reviving recession fears</a> 
- Abha Bhattarai / Washington Post:
-U.S. economy shrinks again in second quarter, reviving recession fears  —  The latest GDP reading comes at a time of mounting worries about the economy's resilience  —  The U.S. economy shrank again for a second straight quarter, at a 0.9 percent annualized rate, which has often signaled a recession.
- 
  <p class="updated_time"> 07:40 AM CT, Jul. 28 </p> 
  <a href="https://apnews.com/article/britney-griner-us-russia-deal-b2147efcc6567eeb6ceb82f8a374bd94">In rare contact, US offers Russia deal for Griner, Whelan</a> 
  Associated Press:
 In rare contact, US offers Russia deal for Griner, Whelan  —  WASHINGTON (AP) — The U.S. has offered a deal to Russia aimed at bringing home WNBA star Brittney Griner and another jailed American, Paul Whelan, Secretary of State Antony Blinken said Wednesday.
- 
- <p class="updated_time"> 07:20 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/scoop-schiff-makes-moves-race-replace-pelosi/">SCOOP — Schiff makes moves in race to replace Pelosi</a> 
- Washington Post:
-SCOOP — Schiff makes moves in race to replace Pelosi  —  Good morning, Early Birds.  Tonight is the Congressional Baseball Game.  Will the climate activists still protest now that Sen. Joe Manchin (D-W.Va.) has agreed to add climate to their reconciliation bill?  Thanks for waking up with us.
- 
- <p class="updated_time"> 07:20 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/politics/2022/07/28/adam-schiff-democratic-leadership/">Adam Schiff is jockeying to lead House Democrats.  It won't be easy.</a> 
- Washington Post:
-Adam Schiff is jockeying to lead House Democrats.  It won't be easy.  —  If he can amass enough interest in his candidacy, the Democrat from California would upend a race that was considered largely set, challenging a variety of Democrats gunning for the top spot.
- 
- <p class="updated_time"> 07:10 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/media/2022/07/28/ohio-abortion-journalism/">How local journalists proved a 10-year-old's abortion wasn't a hoax</a> 
- Elahe Izadi / Washington Post:
-How local journalists proved a 10-year-old's abortion wasn't a hoax  —  Many doubted the story of a young rape victim who had to cross state lines for an abortion.  But journalists on the ground kept reporting.  —  It felt like half the country doubted the case existed.
  
  <p class="updated_time"> 06:55 AM CT, Jul. 28 </p> 
  <a href="https://www.cnbc.com/2022/07/27/fed-chair-jerome-powell-said-he-does-not-think-the-us-is-currently-in-a-recession.html">Fed Chair Jerome Powell said he does not think the U.S. is currently in a recession</a> 
@@ -268,11 +218,6 @@ POLITICO Playbook: Manchin breathes new life into Biden agenda  —  With help
  <a href="https://www.nytimes.com/2022/07/27/us/politics/fake-electors-explained-trump-jan-6.html">The Fake Electors Scheme, Explained</a> 
  New York Times:
 The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of the 2020 election by creating slates of electors pledged to Donald Trump in states he had lost was expansive, long-running and often confusing.  —  The brazen plan to create false slates of electors pledged … 
- 
- <p class="updated_time"> 12:01 AM CT, Jul. 28 </p> 
- <a href="https://www.washingtonpost.com/world/2022/07/01/viktor-bout-griner-whelan/">Who is Viktor Bout, Russian arms dealer eyed in rumored prisoner swap?</a> 
- Adam Taylor / Washington Post:
-Who is Viktor Bout, Russian arms dealer eyed in rumored prisoner swap?  —  The fate of two Americans detained in Russia could depend on what the U.S. government decides to do with an imprisoned Russian arms dealer nicknamed the “Merchant of Death,” whose wild exploits once inspired a Hollywood film starring Nicolas Cage.
  
  <p class="updated_time"> 11:45 PM CT, Jul. 27 </p> 
  <a href="https://www.cnn.com/2022/07/27/us/tou-thao-kueng-george-floyd-sentence/">Two ex-officers who restrained George Floyd sentenced to 3 years and 3.5 years in federal prison</a> 
@@ -328,10 +273,15 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 07:30 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> 
+ Reuters:
+  —  Apple Inc (AAPL.O) on Thursday said parts shortages are easing and that demand for iPhones is unceasing despite consumers tightening … 
+ 
  <p class="updated_time"> 06:25 PM CT, Jul. 28 </p> 
  <a href="https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business">An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and customer debt</a> 
  Bloomberg:
-An in-depth look at the issues facing Afterpay, Klarna, Affirm, and other BNPL players, such as economic uncertainty, competition, regulators, and customer debt  —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
+  —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
  
  <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
  <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
