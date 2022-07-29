@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:55 AM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/28/politics/cnn-poll-abortion-roe-v-wade/">CNN Poll: About two-thirds of Americans disapprove of overturning Roe v. Wade, see negative effect for the nation ahead</a> 
+ CNN:
+  —  Indiana holds special session attempting to pass new laws restricting abortion  —  (CNN)Nearly two-thirds of Americans disapprove of the US Supreme Court decision … 
+ 
  <p class="updated_time"> 01:10 AM CT, Jul. 29 </p> 
  <a href="https://www.politico.com/news/2022/07/28/jan-6-witness-transcripts-doj-00048668">Jan. 6 committee tees up 20 witness transcripts for DOJ</a> 
  Kyle Cheney / Politico:
@@ -278,6 +283,11 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 05:45 AM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR division asked to open a stealth account on TikTok, targeting Western audiences; TikTok declined the “sensitive” request</a> 
+ Olivia Solon / Bloomberg:
+  —  A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
+ 
  <p class="updated_time"> 05:05 AM CT, Jul. 29 </p> 
  <a href="https://www.reuters.com/technology/exclusive-eu-mulls-new-unit-with-antitrust-veterans-enforce-tech-rules-sources-2022-07-28/">Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA</a> 
  Foo Yun Chee / Reuters:
@@ -337,11 +347,6 @@ Sources: Jack Ma plans to relinquish control of Alibaba's Ant Group, potentially
  <a href="https://www.bloomberg.com/news/articles/2022-07-27/fintech-pioneer-chases-1-billion-goal-unfazed-by-ipo-fiasco">An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more</a> 
  Saritha Rai / Bloomberg:
 An interview with Paytm CEO Vijay Shekhar Sharma on the company's $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more  —  Paytm was the poster boy for India's tech startups, only to lose two-thirds of its value since its IPO and become a symbol of the industry's crash.
- 
- <p class="updated_time"> 12:50 AM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/2022/7/27/23281237/google-gmail-redesign-ui-opt-out-chat-meet-spaces?scrolla=5eb6d68b7fedc32c19ef33b4">Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022</a> 
- Richard Lawler / The Verge:
-Google rolls out a new Gmail UI, moving the Mail, Meet, Spaces, and Chat buttons onto a rail in the top left, and teases a tablet update for later in 2022  —  It's not that different  —  We've been tracking the progress of Google's interface refresh for Gmail since February, and as promised … 
  
 
 
