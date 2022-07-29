@@ -9,6 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:50 PM CT, Jul. 28 </p> 
+ <a href="https://www.reuters.com/world/us/comedian-jon-stewart-erupts-after-republicans-vote-against-military-burn-pits-2022-07-28/">Comedian Jon Stewart erupts after Republicans vote against military burn pits bill</a> 
+ Reuters:
+  —  Comedian Jon Stewart, an outspoken advocate for military veterans, erupted in anger on Thursday after U.S. Senate Republicans blocked a bill to provide healthcare for veterans exposed to toxic burn pits while serving abroad.
+ 
+ <p class="updated_time"> 10:15 PM CT, Jul. 28 </p> 
+ <a href="https://www.cnn.com/2022/07/28/politics/mitch-mcconnell-kevin-mccarthy-republican-divisions/">Internal GOP tension rises as McConnell's deal-making puts him at odds with McCarthy</a> 
+ CNN:
+  —  (CNN)Senate GOP Leader Mitch McConnell had such a reputation for stopping Democratic legislation and keeping his conference together that he earned the nickname “the grim reaper.”
+ 
+ <p class="updated_time"> 10:10 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/manchin-oil-gas-biden-schumer-climate-bill-00048514">‘Easter eggs’ in climate bill delight oil and gas industry</a> 
+ Ben Lefebvre / Politico:
+  —  The oil and gas industry doesn't hate the climate bill.  —  The industry as a whole isn't yet embracing the $700 billion-plus reconciliation deal, which would penalize some forms of fossil fuel pollution while making … 
+ 
+ <p class="updated_time"> 09:25 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/charges-of-fake-trump-endorsement-roil-gop-primary-00048482">Charges of fake Trump endorsement roil a GOP primary in New York</a> 
+ Meridith McGraw / Politico:
+  —  This summer, the New York State Conservative Party sent out a mailer to in-state voters supporting Republican congressional candidate Nick Langworthy that included the phrase “CHOSEN BY PRESIDENT TRUMP,” along with a photo of Langworthy with Trump in the Oval Office.
+ 
+ <p class="updated_time"> 09:25 PM CT, Jul. 28 </p> 
+ <a href="https://www.nbcnews.com/politics/2022-election/mastriano-fire-payment-christian-nationalist-platform-rcna40541">Mastriano under fire for payment to ‘Christian nationalist’ platform</a> 
+ Allan Smith / NBC News:
+  —  Doug Mastriano, the Republican nominee for governor in Pennsylvania, has come under fire from critics for ties to a right-wing social media platform whose founder has said there's no room for Jews, atheists and others in the conservative movement.
+ 
+ <p class="updated_time"> 08:25 PM CT, Jul. 28 </p> 
+ <a href="https://www.axios.com/2022/07/29/new-york-10-congressional-district-primary">New York's hottest club</a> 
+ Andrew Solender / Axios:
+  —  New York's hottest club has it all: a former congresswoman who served during the Nixon administration, an incumbent who is actually from another region of the state, and roughly a dozen other Democratic candidates no less colorful.
+ 
+ <p class="updated_time"> 08:20 PM CT, Jul. 28 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/alito-mocks-foreign-critics-of-ruling-00048607">Alito mocks foreign critics of Supreme Court abortion ruling</a> 
+ Josh Gerstein / Politico:
+  —  Justice Samuel Alito, the author of the Supreme Court's earth-shaking decision last month overturning Roe v. Wade, is mocking foreign leaders who lamented his opinion doing away with a half-century of federal constitutional protection for abortion rights in the U.S.
+ 
  <p class="updated_time"> 07:50 PM CT, Jul. 28 </p> 
  <a href="https://www.nytimes.com/2022/07/28/us/politics/covid-booster-shots.html">Biden Administration Plans to Offer Updated Booster Shots in September</a> 
  New York Times:
@@ -283,6 +318,11 @@ Manchin announces support for climate, tax, health care deal  —  Sen. Joe Ma
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Jul. 28 </p> 
+ <a href="https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99?scrolla=5eb6d68b7fedc32c19ef33b4">In an email to Twitter Blue subscribers, Twitter says it's raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month</a> 
+ Richard Lawler / The Verge:
+In an email to Twitter Blue subscribers, Twitter says it's raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
+ 
  <p class="updated_time"> 07:30 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> 
  Reuters:
@@ -352,31 +392,6 @@ Former US national security officials form the Open Source Intelligence Foundati
  <a href="https://www.wsj.com/articles/fantasy-sports-app-underdog-valued-at-485-million-in-fundraising-round-11658840401?mod=djemalertNEWS">Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023</a> 
  Katherine Sayre / Wall Street Journal:
 Brooklyn-based fantasy sports app Underdog raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado in 2023  —  Startup is expanding into growing U.S. sports-betting industry  —  Fantasy-sports app Underdog said it has completed … 
- 
- <p class="updated_time"> 05:35 PM CT, Jul. 27 </p> 
- <a href="https://www.cnbc.com/2022/07/27/meta-ceo-mark-zuckerberg-we-seem-to-have-entered-economic-downturn.html">Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to “steadily reduce headcount growth over the next year”</a> 
- Jordan Novet / CNBC:
-Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to “steadily reduce headcount growth over the next year”  —  - It appears the economy has begun a downturn, said Mark Zuckerberg, CEO of Meta Platforms, on the company's Q2 earnings call.
- 
- <p class="updated_time"> 05:05 PM CT, Jul. 27 </p> 
- <a href="https://www.cnbc.com/2022/07/27/etsy-earnings-q2-2022-shares-soar-as-company-beats.html">Etsy reports Q2 revenue up 10.6% YoY to $585M, vs. $556M est., and net income down 25.6% YoY to $73.1M; stock up 5%+ after hours</a> 
- Ashley Capoot / CNBC:
-Etsy reports Q2 revenue up 10.6% YoY to $585M, vs. $556M est., and net income down 25.6% YoY to $73.1M; stock up 5%+ after hours  —  - Etsy shares jumped more than 15% in after-hours trading on Wednesday after the company's second quarter earnings beat on top and bottom lines.  —  Josh Silverman, CEO of Etsy
- 
- <p class="updated_time"> 04:20 PM CT, Jul. 27 </p> 
- <a href="https://www.cnbc.com/2022/07/27/meta-gets-new-cfo-as-david-wehner-moves-to-chief-strategy-officer-role.html">Meta CFO David Wehner will take on a new role as Meta's first chief strategy officer, starting on November 1; VP of Finance Susan Li will take over as CFO</a> 
- Ashley Capoot / CNBC:
-Meta CFO David Wehner will take on a new role as Meta's first chief strategy officer, starting on November 1; VP of Finance Susan Li will take over as CFO  —  - Meta CFO David Wehner will take on a new role as the company's first chief strategy officer, starting Nov. 1
- 
- <p class="updated_time"> 03:50 PM CT, Jul. 27 </p> 
- <a href="https://www.wsj.com/articles/meta-facebook-q2-earnings-report-2022-11658883684?mod=djemalertNEWS">Meta reports its first-ever YoY quarterly revenue decline and issues a lowered Q3 forecast, citing a weak ad demand environment and macroeconomic uncertainty</a> 
- Salvador Rodriguez / Wall Street Journal:
-Meta reports its first-ever YoY quarterly revenue decline and issues a lowered Q3 forecast, citing a weak ad demand environment and macroeconomic uncertainty  —  Facebook parent Meta Platforms Inc. META 6.55%▲ posted its first decline in revenue and issued a muted outlook … 
- 
- <p class="updated_time"> 03:20 PM CT, Jul. 27 </p> 
- <a href="https://www.cnbc.com/2022/07/27/qualcomm-qcom-earnings-q3-2022.html">Qualcomm reports Q3 revenue up 37% YoY to $10.93B, vs. $10.88B est., net income up 53% YoY to $3.36B, and chip segment revenue up 45% YoY to $9.38B</a> 
- Kif Leswing / CNBC:
-Qualcomm reports Q3 revenue up 37% YoY to $10.93B, vs. $10.88B est., net income up 53% YoY to $3.36B, and chip segment revenue up 45% YoY to $9.38B  —  - Qualcomm reported third-quarter earnings after the bell on Wednesday, slightly beating Wall Street expectations, but guidance … 
  
 
 
