@@ -59,7 +59,11 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_title,.keep_all = TRUE) %>%
   distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
-  filter(item_pub_date > past_week)
+  filter(item_pub_date > past_week) %>%
+  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
+  filter(!grepl("opinion",item_link)) %>%
+  filter(!is.na(item_description)) %>%
+  filter(!grepl("Opinion",item_title)) 
 
 write_csv(x = politics_news_update,
           file = "data/politics_news.csv")
@@ -70,16 +74,11 @@ memeorandum_feed <- politics_news_update %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d")) %>%
-  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
-  filter(!grepl("opinion",item_link))
+                               format = "%I:%M% %p CT, %b. %d")) 
 
 politics_news <- memeorandum_feed %>%
-  filter(!is.na(item_description)) %>%
-  filter(!grepl("Opinion",item_title)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
-  distinct(item_link, .keep_all = TRUE) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
@@ -154,7 +153,15 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_title,.keep_all = TRUE) %>%
   distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
-  filter(item_pub_date > past_week)
+  filter(item_pub_date > past_week) %>%
+  filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC") %>%
+  filter(!grepl("opinion",item_link)) %>%
+  filter(!is.na(item_description)) %>%
+  filter(!grepl("Opinion",item_title)) %>%
+  filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("game",item_description, ignore.case = TRUE)) 
 
 write_csv(x = politics_news_update,
           file = "data/tech_news.csv")
@@ -165,20 +172,11 @@ memeorandum_feed <- politics_news_update %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d")) %>%
-  filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC") %>%
-  filter(!grepl("opinion",item_link))
+                               format = "%I:%M% %p CT, %b. %d")) 
 
 politics_news <- memeorandum_feed %>%
-  filter(!is.na(item_description)) %>%
-  filter(!grepl("Opinion",item_title)) %>%
-  filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
-  filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
-  filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
-  filter(!grepl("game",item_description, ignore.case = TRUE)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
-  distinct(item_link, .keep_all = TRUE) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
