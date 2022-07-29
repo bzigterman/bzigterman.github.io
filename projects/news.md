@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:20 PM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/07/29/us/kentucky-flooding-west-virginia">'It's unreal how strong the current was.'</a> New York Times:  — Kentucky's governor said the death toll from the flooding included children. — The death toll in the devastating flash floods that hit Kentucky this week climbed to 16 on Friday and was expected to rise as rescue efforts continued in the eastern region of the state. 
+ <p class="updated_time"> 04:10 PM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/world/europe/spanish-prosecutor-asks-8-year-jail-term-shakira-el-pais-reports-2022-07-29/">Spanish prosecutor asks for eight-year jail term for Shakira</a> Reuters:  — A Spanish prosecutor is seeking a prison term of eight years for Colombian superstar Shakira over a 14.5 million-euro tax fraud case, a prosecutor's office document showed on Friday. — The singer, who has sold … 
+ <p class="updated_time"> 04:10 PM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/politics/secret-service-missing-texts-january-6-dhs-inspector-general/">Exclusive: DHS inspector general knew of missing Secret Service texts months earlier than previously known</a> CNN:  — Washington (CNN)The embattled inspector general for the Department of Homeland Security first learned of missing Secret Service text messages in May 2021 — months earlier … 
  <p class="updated_time"> 03:15 PM CT, Jul. 29 </p> 
  <a href="https://www.latimes.com/politics/story/2022-07-29/california-donors-fuel-gop-liz-cheney-campaign">'I don't agree with her on anything,' California Democrats say of Liz Cheney — as they donate to her race</a> Los Angeles Times:  — Californians have contributed more to Republican Rep. Liz Cheney than donors from any other state, including her Wyoming home, as the outspoken Trump critic faces an increasingly perilous reelection bid. 
  <p class="updated_time"> 03:10 PM CT, Jul. 29 </p> 
@@ -297,21 +303,6 @@ ICE finds 73 migrants living in smugglers' stash houses in Northwest D.C., inter
  <a href="https://apnews.com/article/washington-commanders-nfl-sports-football-dan-snyder-3fe9dcad56ba44ba4e7ff352b905b63c?taid=62e2a91e31e1120001548ad8">Commanders owner Dan Snyder testifies before House committee</a> 
  Stephen Whyno / Associated Press:
 Commanders owner Dan Snyder testifies before House committee  —  ASHBURN, Va. (AP) — Washington Commanders owner Dan Snyder has begun testifying before a congressional committee investigating the NFL team's history of workplace misconduct.  —  A spokesperson for the U.S. House Committee … 
- 
- <p class="updated_time"> 11:25 AM CT, Jul. 28 </p> 
- <a href="https://www.nytimes.com/2022/07/28/world/viktor-bout-merchant-of-death-prisoner.html">Viktor Bout Could Be Swapped for Brittney Griner.  Who Is He?</a> 
- New York Times:
-Viktor Bout Could Be Swapped for Brittney Griner.  Who Is He?  —  Shortly after his conviction in 2011 on charges including conspiring to kill American citizens, the Russian arms dealer Viktor Bout relayed a defiant message through his lawyer, even though he faced the prospect of decades in prison.
- 
- <p class="updated_time"> 11:15 AM CT, Jul. 28 </p> 
- <a href="https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-saboteurs/">How Russia spread a secret web of agents across Ukraine</a> 
- Reuters:
-How Russia spread a secret web of agents across Ukraine  —  Deck TK  —  The first armoured vehicles of Russia's invading army reached the heart of Chornobyl.  They encountered a Ukrainian unit charged with defending the notorious nuclear plant.  —  and without a fight
- 
- <p class="updated_time"> 11:05 AM CT, Jul. 28 </p> 
- <a href="https://abcnews.go.com/Politics/paul-whelans-twin-brother-speaks-us-proposal-secure/story?id=87543974">Paul Whelan's twin brother speaks out on US proposal to secure his release with Brittney Griner</a> 
- Morgan Winsor / ABC News:
-Paul Whelan's twin brother speaks out on US proposal to secure his release with Brittney Griner  —  “I think we were all taken by surprise,” David Whelan told ABC News.  —  The family of former U.S. Marine Paul Whelan, who has been detained in Russia for more than three years, said they now have … 
  
 
 
