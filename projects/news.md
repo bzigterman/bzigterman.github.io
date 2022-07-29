@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Jul. 29 </p> 
+ <a href="https://www.ajc.com/news/atlanta-group-implicated-in-russian-influence-scheme/H4H75JMCI5EYNFZKBFSKHNO2DI/">Atlanta group implicated in Russian influence scheme</a> Chris Joyner / Atlanta Journal-Constitution:  — The U.S. Department of Justice has connected the Black Hammer Party, a Black-led radical group based in Atlanta, to an alleged Russian plot to sow discord in the United States, according to a newly unsealed federal indictment. 
+ <p class="updated_time"> 04:30 PM CT, Jul. 29 </p> 
+ <a href="https://www.cnn.com/2022/07/29/politics/nancy-pelosi-asia-trip-taiwan/">Pelosi departing for Asia on Friday, but Taiwan stop still uncertain</a> CNN:  — Washington (CNN)House Speaker Nancy Pelosi plans to depart Friday for a tour of Asia, though whether she stops in Taiwan remains uncertain, a person familiar with the plans said. — Pelosi's trip includes stops in Japan … 
  <p class="updated_time"> 04:20 PM CT, Jul. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/07/29/us/kentucky-flooding-west-virginia">'It's unreal how strong the current was.'</a> New York Times:  — Kentucky's governor said the death toll from the flooding included children. — The death toll in the devastating flash floods that hit Kentucky this week climbed to 16 on Friday and was expected to rise as rescue efforts continued in the eastern region of the state. 
  <p class="updated_time"> 04:10 PM CT, Jul. 29 </p> 
