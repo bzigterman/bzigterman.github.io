@@ -9,6 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:05 PM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/news/2022/07/29/pelosi-taiwan-china-00048749">Pelosi to leave for Asia amid Chinese threats over Taiwan stop</a> 
+ Politico:
+  —  Visit to the island still possible as U.S. military preparations get underway.  —  Speaker Nancy Pelosi is set to leave this weekend on a trip that includes Singapore, Japan and South Korea — and possibly Taiwan … 
+ 
+ <p class="updated_time"> 01:45 PM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/29/business/exxon-chevron-profit.html">Exxon and Chevron Report Record Profits on High Oil and Gas Prices</a> 
+ Isabella Simonetti / New York Times:
+  —  The energy industry's windfall has followed a spike in prices, resulting mostly from Russia's invasion of Ukraine, and a global economy rebounding from the coronavirus pandemic.  —  Exxon Mobil and Chevron … 
+ 
+ <p class="updated_time"> 01:25 PM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/news/2022/07/29/alarm-bell-gop-donors-oz-00048747">‘Alarm bell’: Oz's struggles have GOP pitching alternate path to Senate takeover</a> 
+ Politico:
+  —  PHILADELPHIA — The GOP establishment is feeling down on Dr. Oz.  —  The Senate Republicans' campaign arm is privately sounding the alarm about physician Mehmet Oz's bid for the Senate in the critical battleground … 
+ 
+ <p class="updated_time"> 01:15 PM CT, Jul. 29 </p> 
+ <a href="https://news.yahoo.com/passenger-rail-return-vermont-city-121129557.html">Passenger rail return to Vermont city took vision, decades</a> 
+ Wilson Ring / Associated Press:
+  —  Amtrak-Expansion-Vermont  —  BURLINGTON, Vt. (AP) — After a nearly 70-year absence, a passenger train running from Vermont's revitalized Burlington train station to New York City headed south Friday as part of a nationwide renewal of interest in rail travel.
+ 
  <p class="updated_time"> 11:40 AM CT, Jul. 29 </p> 
  <a href="https://apnews.com/article/inflation-biden-sports-congress-e499871130fa9881beb0618ebddfe88c">Basement talk, virtual handshake led to Manchin-Schumer deal</a> 
  Lisa Mascaro / Associated Press:
@@ -309,31 +329,6 @@ Manchin makes his deal but what will Kyrsten Sinema do?  —  The Arizona cent
  New York Times:
 States With Abortion Bans Are Among Least Supportive for Mothers and Children  —  They tend to have the weakest social services and the worst results in several categories of health and well-being.  —  In Mississippi, which brought the abortion case that ended Roe v. Wade before the Supreme Court … 
  
- <p class="updated_time"> 09:01 AM CT, Jul. 28 </p> 
- <a href="https://abcnews.go.com/US/jan-committee-deepens-probe-trump-cabinet-sources/story?id=87547851">Jan. 6 committee deepens probe into Trump cabinet: Sources</a> 
- ABC News:
-Jan. 6 committee deepens probe into Trump cabinet: Sources  —  Ex-Treasury Secretary Steven Mnuchin recently sat an interview, sources said.  —  The House select committee investigating the Jan. 6 attack on the U.S. Capitol is working to secure testimony from a growing number of officials … 
- 
- <p class="updated_time"> 08:30 AM CT, Jul. 28 </p> 
- <a href="https://apnews.com/article/united-states-economy-economic-growth-government-and-politics-4ffd93331422cb131a974223dad5825f">US economy shrank 0.9% last quarter, its 2nd straight drop</a> 
- Paul Wiseman / Associated Press:
-US economy shrank 0.9% last quarter, its 2nd straight drop  —  WASHINGTON (AP) — The U.S. economy shrank from April through June for a second straight quarter, contracting at a 0.9% annual pace and raising fears that the nation may be approaching a recession.
- 
- <p class="updated_time"> 08:20 AM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/gdp-q2-.html">GDP fell 0.9% in the second quarter, the second straight decline and a strong recession signal</a> 
- Jeff Cox / CNBC:
-GDP fell 0.9% in the second quarter, the second straight decline and a strong recession signal  —  U.S. economy shrank for second straight quarter at 0.9% in second quarter  —  The U.S. economy contracted for the second straight quarter from April to June, hitting a widely accepted rule … 
- 
- <p class="updated_time"> 08:15 AM CT, Jul. 28 </p> 
- <a href="https://apnews.com/article/covid-health-seoul-south-korea-nuclear-weapons-e285be60ef404092fe3324748fa60707">Kim threatens to use nukes amid tensions with US, S. Korea</a> 
- Hyung-Jin Kim / Associated Press:
-Kim threatens to use nukes amid tensions with US, S. Korea  —  SEOUL, South Korea (AP) — North Korean leader Kim Jong Un warned he's ready to use his nuclear weapons in potential military conflicts with the United States and South Korea, state media said Thursday, as he unleashed fiery rhetoric … 
- 
- <p class="updated_time"> 07:40 AM CT, Jul. 28 </p> 
- <a href="https://apnews.com/article/britney-griner-us-russia-deal-b2147efcc6567eeb6ceb82f8a374bd94">In rare contact, US offers Russia deal for Griner, Whelan</a> 
- Associated Press:
-In rare contact, US offers Russia deal for Griner, Whelan  —  WASHINGTON (AP) — The U.S. has offered a deal to Russia aimed at bringing home WNBA star Brittney Griner and another jailed American, Paul Whelan, Secretary of State Antony Blinken said Wednesday.
- 
 
 
 </details>
@@ -343,20 +338,30 @@ In rare contact, US offers Russia deal for Griner, Whelan  —  WASHINGTON (AP
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Jul. 29 </p> 
+ <a href="https://9to5mac.com/2022/07/29/app-store-ads-expanding/">Apple expands App Store ads from the Search tab and Search results to the App Store's Today homepage and individual app pages</a> 
+ Chance Miller / 9to5Mac:
+  —  Apple is expanding its advertising business and adding two new ad slots to the App Store.  Currently, the App Store has two ad slots: one on the main ‘Search’ tab and one in the Search results.
+ 
+ <p class="updated_time"> 01:20 PM CT, Jul. 29 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/alibaba-added-to-sec-s-list-of-chinese-firms-facing-delisting">SEC adds Alibaba to a list of Chinese companies facing delisting in three years if they fail to comply with US auditing standards; Alibaba stock is down 9%+</a> 
+ Bloomberg:
++  —  Alibaba Group Holding Ltd. has moved a step closer toward getting booted off US stock exchanges for American inspectors not being able to access to financial audits.
+ 
  <p class="updated_time"> 11:01 AM CT, Jul. 29 </p> 
- <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan</a> 
+ <a href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html">As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC</a> 
  David E. Sanger / New York Times:
-As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan  —  While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead.
+As Congress debated the $280B CHIPS Act for 13 months, China's semiconductor industry surged ahead, making a 7nm chip that may be based on, or stolen from, TSMC  —  While Congress argued over whether and how to support American chip makers and research in other technologies China was surging ahead.
  
  <p class="updated_time"> 08:45 AM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; FTC didn't take sworn interviews of company execs during the nine-month inquiry</a> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/ftc-s-khan-overruled-staff-to-sue-meta-over-virtual-reality-deal">Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; the FTC didn't take sworn interviews of company execs in the nine-month inquiry</a> 
  Leah Nylen / Bloomberg:
   —  Federal Trade Commission Chair Lina Khan led her fellow Democrats in the agency's majority vote to sue Meta Platforms Inc. this week … 
  
  <p class="updated_time"> 08:40 AM CT, Jul. 29 </p> 
- <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk over the failed $44B takeover will go to trial from October 17 to October 21</a> 
+ <a href="https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware?scrolla=5eb6d68b7fedc32c19ef33b4">A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022</a> 
  Richard Lawler / The Verge:
-A Delaware judge rules that Twitter's case against Elon Musk over the failed $44B takeover will go to trial from October 17 to October 21  —  Everybody's going to the Court of Chancery  —  We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit against Elon Musk … 
+A Delaware judge rules that Twitter's case against Elon Musk for attempting to exit his $44B takeover will go to trial from October 17 to October 21, 2022  —  Everybody's going to the Court of Chancery  —  We have a schedule for the Delaware Court of Chancery trial over T witter's lawsuit … 
  
  <p class="updated_time"> 08:00 AM CT, Jul. 29 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-29/jack-ma-escapes-beijing-s-crosshairs-by-giving-up-his-power">By stepping away from Ant Group, Jack Ma escapes Beijing's scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years</a> 
@@ -364,12 +369,12 @@ A Delaware judge rules that Twitter's case against Elon Musk over the failed $44
   —  Jack Ma is taking a weeks-long tour in Europe after largely disappearing from public view for almost two years … 
  
  <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
- <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and could shift how DC regulates competition in nascent industries</a> 
+ <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">FTC chair Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and may shift how DC enforces competition in nascent tech</a> 
  Cecilia Kang / New York Times:
   —  Lina Khan may set off a shift in how Washington regulates competition by filing cases in tech areas before they mature.
  
  <p class="updated_time"> 05:45 AM CT, Jul. 29 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR division asked to open a stealth account on TikTok, targeting Western audiences; TikTok declined the “sensitive” request</a> 
+ <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR unit asked for a stealth TikTok account targeting Western audiences with propaganda; TikTok declined the “sensitive” request</a> 
  Olivia Solon / Bloomberg:
   —  A Chinese government entity responsible for public relations attempted to open a stealth account on TikTok targeting Western audiences … 
  
