@@ -313,11 +313,6 @@ How Russia spread a secret web of agents across Ukraine  —  Deck TK  —  
  Morgan Winsor / ABC News:
 Paul Whelan's twin brother speaks out on US proposal to secure his release with Brittney Griner  —  “I think we were all taken by surprise,” David Whelan told ABC News.  —  The family of former U.S. Marine Paul Whelan, who has been detained in Russia for more than three years, said they now have … 
  
- <p class="updated_time"> 10:40 AM CT, Jul. 28 </p> 
- <a href="https://www.ajc.com/politics/ajc-poll-most-voters-oppose-restrictions-on-abortion-georgias-new-ban/T3NZRD6HEVEE7PLGHKKQ4Y7H4Y/">AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban</a> 
- Maya T. Prabhu / Atlanta Journal-Constitution:
-AJC poll: Most voters oppose restrictions on abortion, Georgia's new ban  —  Most Georgia voters oppose a new restrictive abortion law that took effect last week, and many say a candidate's support or opposition to the procedure will have an impact on who gets their vote, according to a new Atlanta Journal-Constitution poll.
- 
 
 
 </details>
