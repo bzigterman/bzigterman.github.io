@@ -795,7 +795,19 @@ core <- fredr(series_id = "CPILFENS") %>%
   mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
   mutate(series_id = "Core CPI") %>%
   drop_na()
+
+pce <- fredr(series_id = "PCEPI") %>%
+  mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
+  mutate(series_id = "PCE") %>%
+  drop_na()
+
+core_pce <- fredr(series_id = "PCEPILFE") %>%
+  mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
+  mutate(series_id = "Core PCE") %>%
+  drop_na()
+
 data2 <- full_join(data,core) %>%
+  full_join(pce) %>% full_join(core_pce) %>%
   select(date,series_id,change) %>%
   pivot_longer(cols = c(change)) %>%
   select(date, series_id, value)
@@ -804,11 +816,11 @@ fig <- hchart(data2, "line", hcaes(x = date,
                                    y = round(value*100, digits = 1),
                                    group = series_id),
               tooltip = list(valueSuffix = "%")) %>%
-  hc_title(text = "Inflation: Consumer Price Index") %>%
-  hc_colors(c("#a6cee3","#1f78b4")) %>%
+  hc_title(text = "Inflation") %>%
+  hc_colors(c("#a6cee3","#d99c9e","#1f78b4","#A0090D")) %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
+    text = paste("Source: U.S. Bureaus of Labor Statistics and Economic Analysis. Latest data:",
                  tail(recent_data$short_date,1)),
     href = "https://fred.stlouisfed.org/series/CPIAUCNS") %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -822,12 +834,12 @@ fig <- hchart(data2, "line", hcaes(x = date,
   )%>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'year', count = 50, text = '50y'),
                      list(type = 'all', text = 'All')),
-                   selected = 2)
+                   selected = 1)
 fig
 saveWidget(widget = fig, file = "interactive/inflation.html",
            selfcontained = FALSE,
@@ -1872,7 +1884,7 @@ sep = ""
 )
 write_lines(web_text,"projects/economy/usa.md")
 
-## US ----
+### US Prices ----
 web_text <- paste(
   "---
 layout: page
