@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
+ <a href="https://www.nbcnews.com/politics/justice-department/jan-6-probe-expands-officials-worry-doj-resources-are-breaking-point-rcna40208">As Jan. 6 probe expands, officials worry DOJ resources are at a breaking point</a> 
+ Ryan J. Reilly / NBC News:
+  —  WASHINGTON — It's the “most wide-ranging investigation” in Justice Department history: the unprecedented manhunt for hundreds of rioters who stormed the U.S. Capitol on Donald Trump's behalf on Jan. 6, 2021 … 
+ 
+ <p class="updated_time"> 06:25 AM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/world/middleeast/iran-drone-exports.html">Iran Ramps Up Drone Exports, Signaling Global Ambitions</a> 
+ New York Times:
+  —  Tehran has quietly stepped up the sale of drone technology to countries outside the Middle East as it seeks to become a player in the international market.  —  Iran has made steady advances in the design and production of military drones … 
+ 
  <p class="updated_time"> 06:20 AM CT, Jul. 29 </p> 
  <a href="https://www.politico.com/news/magazine/2022/07/29/is-biden-better-president-than-people-thought-00048654">Wait, Is Biden a Better President Than People Thought?</a> 
  John F. Harris / Politico:
@@ -288,6 +298,11 @@ The Fake Electors Scheme, Explained  —  The plan to reverse the outcome of t
 <details open>
 <summary>Tech</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html">Lina Khan's attempt to block Meta's Within acquisition upends decades of antitrust standards and could shift how DC regulates competition in nascent industries</a> 
+ Cecilia Kang / New York Times:
+  —  Lina Khan may set off a shift in how Washington regulates competition by filing cases in tech areas before they mature.
+ 
  <p class="updated_time"> 05:45 AM CT, Jul. 29 </p> 
  <a href="https://www.bloomberg.com/news/articles/2022-07-29/chinese-government-asked-tiktok-for-stealth-propaganda-account">Sources: a Chinese government PR division asked to open a stealth account on TikTok, targeting Western audiences; TikTok declined the “sensitive” request</a> 
  Olivia Solon / Bloomberg:
