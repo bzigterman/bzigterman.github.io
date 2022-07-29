@@ -820,9 +820,10 @@ data2 <- full_join(data,core) %>%
 fig <- hchart(data2, "line", hcaes(x = date,
                                    y = round(value*100, digits = 1),
                                    group = series_id),
+              animation = FALSE,
               tooltip = list(valueSuffix = "%")) %>%
   hc_title(text = "Inflation") %>%
-  hc_colors(c("#a6cee3","#d99c9e","#1f78b4","#A0090D")) %>%
+  hc_colors(c("#1f78b4","#a6cee3","#A0090D","#d99c9e")) %>%
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureaus of Labor Statistics and Economic Analysis. Latest data:",
