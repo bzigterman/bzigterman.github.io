@@ -294,21 +294,6 @@ Manchin strikes major deal with Schumer on climate, taxes and health care  —�
  Ben White / Politico:
 Bracing for the big reveal  —  HEY SIRI, DEFINE RECESSION — Set multiple alarms on your phone tonight.  Load your coffee maker with the strongest brew you've got.  And prepare at least six browser windows to feverishly refresh this Bureau of Economic Affairs website at precisely 8:30 … 
  
- <p class="updated_time"> 07:50 PM CT, Jul. 27 </p> 
- <a href="https://www.politico.com/news/2022/07/27/alex-lasry-dropping-out-of-wisconsin-senate-race-to-unseat-ron-johnson-00048186">Mandela Barnes gets open path to take on Wisconsin Sen. Ron Johnson</a> 
- Politico:
-Mandela Barnes gets open path to take on Wisconsin Sen. Ron Johnson  —  Democrats hoping to flip Wisconsin's Senate seat got a boost Wednesday when one of the party's leading candidates bowed out and endorsed a rival, virtually clearing the field ahead of an expensive, hotly contested general election.
-]]> 
- <p class="updated_time"> 07:30 PM CT, Jul. 27 </p> 
- <a href="https://abcnews.go.com/Politics/manchin-announces-agreement-schumer-spending-bill-includes-climate/story?id=87516559">Manchin announces agreement with Schumer on spending bill that includes climate</a> 
- ABC News:
-Manchin announces agreement with Schumer on spending bill that includes climate  —  The West Virginia Senator said he supports clean energy tax credits.  —  Senate Majority Leader Chuck Schumer and West Virginia Sen. Joe Manchin said Wednesday they have reached a deal on a spending bill … 
-]]> 
- <p class="updated_time"> 07:25 PM CT, Jul. 27 </p> 
- <a href="https://www.axios.com/2022/07/27/manchin-reconciliation-climate-inflation">Manchin announces support for climate, tax, health care deal</a> 
- Hans Nichols / Axios:
-Manchin announces support for climate, tax, health care deal  —  Sen. Joe Manchin (D-W.Va.) announced Wednesday he planned to support a deficit reduction package that addressed both climate change and prescription drug reform, a stark reversal for the one senator who has been blocking key planks of President Biden's agenda.
-]]> 
 
 
 </details>
