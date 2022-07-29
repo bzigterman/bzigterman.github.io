@@ -43,6 +43,7 @@ description <- memeorandum_html %>%
   html_elements("description") %>%
   html_text() %>%
   str_replace("]]>","") %>%
+  str_squish() %>%
   tail(-1)
 description
 memeorandum <- data.frame(
@@ -137,6 +138,7 @@ description <- memeorandum_html %>%
   html_elements("description") %>%
   html_text() %>%
   str_replace("]]>","") %>%
+  str_squish() %>%
   tail(-1)
 description
 memeorandum <- data.frame(
