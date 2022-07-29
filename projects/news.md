@@ -9,6 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:10 AM CT, Jul. 29 </p> 
+ <a href="https://www.politico.com/news/2022/07/28/jan-6-witness-transcripts-doj-00048668">Jan. 6 committee tees up 20 witness transcripts for DOJ</a> 
+ Kyle Cheney / Politico:
+  —  The Jan. 6 select committee is preparing to produce 20 witness interview transcripts to the Justice Department amid prosecutors' increasingly public investigation of efforts by former President Donald Trump and his allies to overturn the 2020 election.
+ 
  <p class="updated_time"> 10:50 PM CT, Jul. 28 </p> 
  <a href="https://www.reuters.com/world/us/comedian-jon-stewart-erupts-after-republicans-vote-against-military-burn-pits-2022-07-28/">Comedian Jon Stewart erupts after Republicans vote against military burn pits bill</a> 
  Reuters:
@@ -278,21 +283,6 @@ Potentially Deadly Bacteria Detected in U.S. Soil for First Time  —  The bac
  <a href="https://www.nytimes.com/2022/07/27/us/politics/doug-mastriano-gab.html">Doug Mastriano Faces Criticism Over His Backing From Antisemitic Ally</a> 
  Trip Gabriel / New York Times:
 Doug Mastriano Faces Criticism Over His Backing From Antisemitic Ally  —  The founder of Gab, a far-right social media network, recently made bigoted remarks defending his ties with Mr. Mastriano, the Republican nominee for governor of Pennsylvania.  —  Doug Mastriano, the Republican nominee … 
- 
- <p class="updated_time"> 08:25 PM CT, Jul. 27 </p> 
- <a href="https://www.cnn.com/2022/07/27/politics/mike-pompeo-january-6-committee-deposition/">January 6 committee engaging with Pompeo and deposition could happen as soon as this week</a> 
- CNN:
-January 6 committee engaging with Pompeo and deposition could happen as soon as this week  —  (CNN)The House select committee investigating January 6, 2021, has been engaging with former Secretary of State Mike Pompeo, and he could sit for a closed-door deposition with the panel as soon as this week … 
- 
- <p class="updated_time"> 08:20 PM CT, Jul. 27 </p> 
- <a href="https://www.nbcnews.com/politics/congress/manchin-strikes-major-deal-schumer-climate-tax-health-care-rcna40350">Manchin strikes major deal with Schumer on climate, taxes and health care</a> 
- NBC News:
-Manchin strikes major deal with Schumer on climate, taxes and health care  —  Sen. Manchin reaches deal with Schumer on reconciliation bill  —  In an unexpected breakthrough, Sen. Joe Manchin, D-W.Va., reversed his opposition to quickly moving a broad filibuster-proof bill Wednesday … 
- 
- <p class="updated_time"> 08:10 PM CT, Jul. 27 </p> 
- <a href="https://www.politico.com/newsletters/politico-nightly/2022/07/27/bracing-for-the-big-reveal-00048335">Bracing for the big reveal</a> 
- Ben White / Politico:
-Bracing for the big reveal  —  HEY SIRI, DEFINE RECESSION — Set multiple alarms on your phone tonight.  Load your coffee maker with the strongest brew you've got.  And prepare at least six browser windows to feverishly refresh this Bureau of Economic Affairs website at precisely 8:30 … 
  
 
 
