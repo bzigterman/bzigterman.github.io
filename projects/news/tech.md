@@ -31,10 +31,6 @@ webappicon: /plots/news.png
  Richard Lawler / The Verge:
 In an email to Twitter Blue subscribers, Twitter says it is increasing the price of the service; in the US, the price will jump from $2.99 to $4.99 per month  —  Who would pay for Twitter?  —  People frequently express their amazement that Twitter is free, but for some people, it isn't … 
  </span></p></details> 
- <details><summary><span class="pub_time"> 07:30 PM CT, Jul. 28 </span> <a href="https://www.reuters.com/technology/apple-results-top-estimates-iphone-escapes-economic-slump-2022-07-28/">Apple expects a faster sales growth in Q4, citing easing parts shortages and strong iPhone demand; Tim Cook says Apple is also “being more deliberate” in hiring</a> </summary><p> <span class="pub_description"> 
- Reuters:
-  —  Apple Inc (AAPL.O) on Thursday said parts shortages are easing and that demand for iPhones is unceasing despite consumers tightening … 
- </span></p></details> 
 
 
 
