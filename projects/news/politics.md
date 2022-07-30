@@ -6,6 +6,10 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+  <div class="container">
+      {% include breadcrumbs.html %}
+  </div>
+
  <details><summary><span class="pub_time"> 11:35 PM CT </span> <a href="https://www.nytimes.com/2022/07/29/us/politics/russia-terrorism-blinken.html">Blinken Resists Push to Label Russia a Terrorist State</a> </summary><p> <span class="pub_description"> New York Times:  — The Biden administration is wary of making the designation despite strong calls from Congress and pleas from Ukraine. — WASHINGTON — The U.S. Senate supports it unanimously. So does House Speaker Nancy Pelosi … </span></p></details> 
  <details><summary><span class="pub_time"> 09:55 PM CT </span> <a href="https://www.reuters.com/world/us/us-house-vote-assault-weapons-ban-friday-pelosi-2022-07-29/">U.S. House passes, sends to Senate assault-style weapon ban</a> </summary><p> <span class="pub_description"> Richard Cowan / Reuters:  — The U.S. House of Representatives on Friday passed legislation banning assault-style rifles that have been used in mass shootings, sending it to the Senate where it faces likely defeat. — By a mostly partisan vote of 217-213 … </span></p></details> 
  <details><summary><span class="pub_time"> 08:25 PM CT </span> <a href="https://www.bbc.com/news/uk-62323048">UK heatwave: Weather forecasters report unprecedented trolling</a> </summary><p> <span class="pub_description"> Merlyn Thomas / BBC:  — Weather forecasters faced unprecedented levels of trolling during this month's extreme heat in the UK, according to leading figures in the industry. — The BBC's team received hundreds of abusive tweets or emails questioning … </span></p></details> 
