@@ -109,10 +109,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  Kyle Cheney / Politico:
   —  The Jan. 6 select committee is preparing to produce 20 witness interview transcripts to the Justice Department amid prosecutors' increasingly public investigation of efforts by former President Donald Trump and his allies to overturn the 2020 election.
  </span></p></details> 
- <details><summary><span class="pub_time"> 10:50 PM CT </span> <a href="https://www.reuters.com/world/us/comedian-jon-stewart-erupts-after-republicans-vote-against-military-burn-pits-2022-07-28/">Comedian Jon Stewart erupts after Republicans vote against military burn pits bill</a> </summary><p> <span class="pub_description"> 
- Reuters:
-  —  Comedian Jon Stewart, an outspoken advocate for military veterans, erupted in anger on Thursday after U.S. Senate Republicans blocked a bill to provide healthcare for veterans exposed to toxic burn pits while serving abroad.
- </span></p></details> 
 
 
 
