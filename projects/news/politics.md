@@ -105,10 +105,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  John F. Harris / Politico:
 ?  —  Biden is making a comeback with his breakthrough on climate legislation — but limitations to his leadership still shadow his presidency.  —  Altitude is a column by POLITICO founding editor John Harris, offering weekly perspective … 
  </span></p></details> 
- <details><summary><span class="pub_time"> 01:10 AM CT </span> <a href="https://www.politico.com/news/2022/07/28/jan-6-witness-transcripts-doj-00048668">Jan. 6 committee tees up 20 witness transcripts for DOJ</a> </summary><p> <span class="pub_description"> 
- Kyle Cheney / Politico:
-  —  The Jan. 6 select committee is preparing to produce 20 witness interview transcripts to the Justice Department amid prosecutors' increasingly public investigation of efforts by former President Donald Trump and his allies to overturn the 2020 election.
- </span></p></details> 
 
 
 
