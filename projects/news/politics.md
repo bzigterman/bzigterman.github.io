@@ -6,6 +6,12 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+ <p class="updated_time"> 07:30 PM CT, Jul. 29 </p> 
+ <a href="https://www.reuters.com/business/media-telecom/infowars-parent-files-bankruptcy-2022-07-29/">Conspiracy website InfoWars parent files for bankruptcy</a> Reuters:  — The parent of far-right conspiracy website InfoWars filed for U.S. bankruptcy protection on Friday as the company and its founder Alex Jones face up to $150 million in damages in a trial over longstanding falsehoods he perpetuated … 
+ <p class="updated_time"> 07:30 PM CT, Jul. 29 </p> 
+ <a href="https://www.nbcnews.com/news/us-news/combat-vet-fuming-lawmakers-failure-pass-two-bipartisan-measures-helpe-rcna40688">Combat vet ‘fuming’ over lawmakers' failure to pass two bipartisan measures that could have helped millions</a> Melissa Chan / NBC News:  — A U.S. military veteran who would have benefited from two bipartisan measures recently sacked in the House and Senate said lawmakers “spit” in veterans' faces by rejecting both proposals. 
+ <p class="updated_time"> 07:05 PM CT, Jul. 29 </p> 
+ <a href="https://www.axios.com/local/washington-dc/2022/07/28/union-station-starbucks-closing-sunday">Union Station Starbucks closing Sunday</a> Paige Hopkins / Axios:  — Starbucks is permanently closing its Union Station location on Sunday, along with 15 other stores nationwide, citing safety issues impacting staff. … - “It's no coincidence that some of the stores Starbucks has abruptly closed … 
  <p class="updated_time"> 06:45 PM CT, Jul. 29 </p> 
  <a href="https://www.nytimes.com/2022/07/29/business/media/fox-news-donald-trump-rupert-murdoch.html">Fox News, Once Home to Trump, Now Often Ignores Him</a> Jeremy W. Peters / New York Times:  — The former president hasn't been interviewed on the Rupert Murdoch-owned cable network in more than 100 days, and other Republicans often get the attention he once did. — It's been more than 100 days since Donald J. Trump was interviewed on Fox News. 
  <p class="updated_time"> 04:35 PM CT, Jul. 29 </p> 
@@ -261,11 +267,6 @@ In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan
  <a href="https://www.nytimes.com/2022/07/28/us/politics/trump-garland-investigation.html">2016 Campaign Looms Large as Justice Dept. Pursues Jan. 6 Inquiry</a> 
  New York Times:
 2016 Campaign Looms Large as Justice Dept. Pursues Jan. 6 Inquiry  —  Top officials at the department and the F.B.I. appear intent on avoiding any errors that could taint the current investigation or provide ammunition for a backlash.  —  As the Justice Department investigation into the attack … 
- 
- <p class="updated_time"> 02:10 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/27/schumer-manchin-reconciliation-bill-climate-change-provisions.html">Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details</a> 
- Emma Newburger / CNBC:
-Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details  — Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Joe Manchin, D-W.Va., on Wednesday unveiled a long-anticipated reconciliation package that would invest hundreds of billions … 
  
 
 

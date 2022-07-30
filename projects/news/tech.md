@@ -60,16 +60,6 @@ Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net 
  Annie Palmer / CNBC:
 Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B  —  - Amazon reported second-quarter results on Thursday that beat on the top line.  — It also gave upbeat guidance for the third quarter.
  
- <p class="updated_time"> 02:27 PM CT, Jul. 28 </p> 
- <a href="https://www.theverge.com/2022/7/28/23282494/semiconductors-chips-and-science-act-joe-biden-congress-nvidia?scrolla=5eb6d68b7fedc32c19ef33b4">The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to encourage investment; Biden now must sign it into law</a> 
- Makena Kelly / The Verge:
-The US House passes the Chips and Science Act, which includes $52B+ for US chipmakers and tax credits to encourage investment; Biden now must sign it into law  —  All that's left is Biden's signature  —  It might get cheaper and easier to buy popular tech products, like gaming consoles and graphics cards … 
- 
- <p class="updated_time"> 02:20 PM CT, Jul. 28 </p> 
- <a href="https://www.bloomberg.com/news/articles/2022-07-28/advertisers-are-struggling-with-instagram-s-tiktok-clone-reels">As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first</a> 
- Bloomberg:
-As advertisers struggle with Reels, Meta tries to ease them into the format, including, sources say, by encouraging them to test their video ads on TikTok first  —  Reels — the short videos that Facebook and Instagram are pushing — are getting more popular, parent company Meta Platforms Inc. says.
- 
 
 
 
