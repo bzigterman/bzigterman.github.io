@@ -98,9 +98,8 @@ for (x in 1:nrow(politics_news)) {
               ": ",
               politics_news$item_html_link[[x]], 
               "</summary><p>",
-              "<span class=\"pub_description\">",
               politics_news$item_description[[x]],
-              "</span></p></details>",
+              "</p></details>",
               "\n")
   politics_news_lines = paste(politics_news_lines, line)
 }
@@ -200,9 +199,8 @@ for (x in 1:nrow(politics_news)) {
               ": ",
               politics_news$item_html_link[[x]], 
               "</summary><p>",
-              "<span class=\"pub_description\">",
               politics_news$item_description[[x]],
-              "</span></p></details>",
+              "</p></details>",
               "\n")
   tech_news_lines = paste(tech_news_lines, line)
 }
