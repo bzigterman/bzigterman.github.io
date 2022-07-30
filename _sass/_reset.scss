@@ -51,13 +51,14 @@ q:before, q:after {
 	}
 
 .pub_time {
-	font-family: sans-serif;
+	font-family: menlo,consolas,monospace;
+	color: #bdbdbd;
 	font-size:70%
 	}
 
 .pub_description {
 	font-family: sans-serif;
-	font-size:70%
+	font-size:80%
 	}
 
 .breadcrumbs {
