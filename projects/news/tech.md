@@ -6,6 +6,8 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+ <p class="updated_time"> 08:45 PM CT, Jul. 29 </p> 
+ <a href="https://www.cnbc.com/2022/07/29/uber-will-let-drivers-choose-the-trips-they-want-to-take.html">Uber unveils new features for US drivers, like showing what they'll earn and destination before accepting a trip, multiple ride requests, and a Pro debit card</a> Ashley Capoot / CNBC:  — - Uber announced a series of new features Friday aimed at enhancing drivers' experiences on the ridesharing app. 
  <p class="updated_time"> 06:10 PM CT, Jul. 29 </p> 
  <a href="https://www.cnbc.com/2022/07/29/elon-musk-countersues-twitter-over-merger-filing-confidential.html">Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court</a> Lora Kolodny / CNBC:  — - Elon Musk counter sued Twitter on Friday, intensifying the conflict between the social networking company and centi-billionaire but keeping details hidden from the public. 
  <p class="updated_time"> 04:50 PM CT, Jul. 29 </p> 
@@ -49,16 +51,6 @@ In an email to Twitter Blue subscribers, Twitter says it is increasing the price
  <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
  Kif Leswing / CNBC:
 Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022  —  KEY POINTS  — Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
- 
- <p class="updated_time"> 03:35 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/intel-intc-earnings-q2-2022.html">Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+</a> 
- Jordan Novet / CNBC:
-Intel reports Q2 revenue down 22% YoY to $15.32B, vs. $17.92B est., a $454M net loss, and Datacenter and AI Group revenue down 16% YoY to $4.6B; stock down 5%+  —  - Intel slashed its full-year guidance and turned in worse-than expected quarterly results.  — The company launched new chips … 
- 
- <p class="updated_time"> 03:18 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/amazon-amzn-q2-2022-earnings.html">Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B</a> 
- Annie Palmer / CNBC:
-Amazon reports Q2 advertising services revenue grew 18% YoY to $8.76B, vs. $8.65B est., and subscription services grew 10% YoY to $8.72B  —  - Amazon reported second-quarter results on Thursday that beat on the top line.  — It also gave upbeat guidance for the third quarter.
  
 
 
