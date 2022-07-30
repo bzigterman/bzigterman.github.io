@@ -113,10 +113,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  Reuters:
   —  Comedian Jon Stewart, an outspoken advocate for military veterans, erupted in anger on Thursday after U.S. Senate Republicans blocked a bill to provide healthcare for veterans exposed to toxic burn pits while serving abroad.
  </span></p></details> 
- <details><summary><span class="pub_time"> 10:10 PM CT </span> <a href="https://www.politico.com/news/2022/07/28/manchin-oil-gas-biden-schumer-climate-bill-00048514">‘Easter eggs’ in climate bill delight oil and gas industry</a> </summary><p> <span class="pub_description"> 
- Ben Lefebvre / Politico:
-  —  The oil and gas industry doesn't hate the climate bill.  —  The industry as a whole isn't yet embracing the $700 billion-plus reconciliation deal, which would penalize some forms of fossil fuel pollution while making … 
- </span></p></details> 
 
 
 
