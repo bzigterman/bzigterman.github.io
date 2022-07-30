@@ -117,14 +117,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  Ben Lefebvre / Politico:
   —  The oil and gas industry doesn't hate the climate bill.  —  The industry as a whole isn't yet embracing the $700 billion-plus reconciliation deal, which would penalize some forms of fossil fuel pollution while making … 
  </span></p></details> 
- <details><summary><span class="pub_time"> 09:25 PM CT </span> <a href="https://www.politico.com/news/2022/07/28/charges-of-fake-trump-endorsement-roil-gop-primary-00048482">Charges of fake Trump endorsement roil a GOP primary in New York</a> </summary><p> <span class="pub_description"> 
- Meridith McGraw / Politico:
-  —  This summer, the New York State Conservative Party sent out a mailer to in-state voters supporting Republican congressional candidate Nick Langworthy that included the phrase “CHOSEN BY PRESIDENT TRUMP,” along with a photo of Langworthy with Trump in the Oval Office.
- </span></p></details> 
- <details><summary><span class="pub_time"> 09:25 PM CT </span> <a href="https://www.nbcnews.com/politics/2022-election/mastriano-fire-payment-christian-nationalist-platform-rcna40541">Mastriano under fire for payment to ‘Christian nationalist’ platform</a> </summary><p> <span class="pub_description"> 
- Allan Smith / NBC News:
-  —  Doug Mastriano, the Republican nominee for governor in Pennsylvania, has come under fire from critics for ties to a right-wing social media platform whose founder has said there's no room for Jews, atheists and others in the conservative movement.
- </span></p></details> 
 
 
 
