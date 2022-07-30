@@ -11,6 +11,9 @@ webappicon: /plots/news.png
   </div>
 <br>
 
+ <details><summary><span class="pub_time"> 11:20 AM CT </span> <a href="https://www.nbcnews.com/news/us-news/california-town-militias-help-welcomed-cautioned-others-rcna40218">In a California town, a militia is welcomed by some, cautioned by others</a> </summary><p> <span class="pub_description"> NBC News:  — The parking lot of H&L Lumber in Mariposa, California, was host to a flurry of activity Sunday as members of a local militia sporting military-style fatigues handed out pancakes and steak sandwiches to evacuees of the Oak Fire raging nearby. </span></p></details> 
+ <details><summary><span class="pub_time"> 11:15 AM CT </span> <a href="https://apnews.com/article/biden-covid-health-social-media-donald-trump-fb978862035511b12bdf0b3cc5e5d644">Biden no longer shy in singling out Trump, the ‘former guy’</a> </summary><p> <span class="pub_description"> Seung Min Kim / Associated Press:  — WASHINGTON (AP) — One month into his presidency, Joe Biden made clear his distaste for even naming the man he had ousted from the Oval Office, declaring, “I'm tired of talking about Trump.” — “The next four years … </span></p></details> 
+ <details><summary><span class="pub_time"> 11:05 AM CT </span> <a href="https://www.theguardian.com/books/2022/jul/30/trump-sorry-cruz-2016-insults-paul-manafort-book">Trump said sorry to Cruz for 2016 insults, Paul Manafort says in new book</a> </summary><p> <span class="pub_description"> Martin Pengelly / The Guardian:  — In a memoir obtained by the Guardian, former campaign manager risks embarrassing powerful rivals with description of apology — Donald Trump made an uncharacteristic apology to Ted Cruz after insulting his wife … </span></p></details> 
  <details><summary><span class="pub_time"> 10:35 AM CT </span> <a href="https://www.wsj.com/articles/democrats-corporate-tax-plan-threatens-higher-bills-for-manufacturers-11659173401?mod=djemalertNEWS">Democrats' Corporate Tax Plan Threatens Higher Bills for Manufacturers</a> </summary><p> <span class="pub_description"> Wall Street Journal:  — Proposed 15% minimum tax on large profitable companies would claw back benefits of faster equipment write-offs — WASHINGTON—Manufacturers and other companies making capital investments could pay the bulk … </span></p></details> 
  <details><summary><span class="pub_time"> 09:35 AM CT </span> <a href="https://www.nbcnews.com/news/us-news/new-york-gov-hochul-declares-state-disaster-emergency-monkeypox-rcna40755">New York Gov. Hochul declares state disaster emergency over monkeypox</a> </summary><p> <span class="pub_description"> Dennis Romero / NBC News:  — One in four cases of the virus is in New York state, Hochul said. The declaration could bolster government efforts to fight it off and vaccinate residents. — New York Gov. Kathy Hochul declared … </span></p></details> 
  <details><summary><span class="pub_time"> 09:25 AM CT </span> <a href="https://www.politico.com/news/2022/07/30/doj-jan-6-capitol-riot-joshua-findlay-00048809">The RNC ‘election integrity’ official appearing in DOJ's Jan. 6 subpoenas</a> </summary><p> <span class="pub_description"> Betsy Woodruff Swan / Politico:  — In addition to a group of former President Donald Trump's top lawyers, the Justice Department's Jan. 6 probe is also seeking communications to and from a Republican National Committee staffer in a sensitive role. </span></p></details> 
@@ -97,22 +100,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  <details><summary><span class="pub_time"> 06:55 AM CT </span> <a href="https://www.theguardian.com/books/2022/jul/29/paul-manafort-indirectly-advising-trump-2020-secret-pardon-book-political-prisoner">Paul Manafort admits indirectly advising Trump in 2020 but keeping it secret in wait for pardon</a> </summary><p> <span class="pub_description"> 
  Martin Pengelly / The Guardian:
   —  In new book, obtained by Guardian, 2016 campaign manager convicted of tax fraud says he was ‘very careful’ to hide advice  —  Paul Manafort indirectly advised Donald Trump's 2020 campaign … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 06:40 AM CT </span> <a href="https://www.politico.com/newsletters/playbook/2022/07/29/white-house-to-gop-why-you-trippin-00048684">POLITICO Playbook: White House to GOP: Why you trippin'?</a> </summary><p> <span class="pub_description"> 
- Politico:
-?  —  With help from Eli Okun and Garrett Ross  —  DRIVING THE DAY  —  MANCHIN GIVETH AND MANCHIN... — Sen. JOE MANCHIN (D-W.Va.) may have just resurrected Biden's domestic agenda, but he told CHRIS CUOMO in an interview that aired Thursday … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 06:30 AM CT </span> <a href="https://www.nbcnews.com/politics/justice-department/jan-6-probe-expands-officials-worry-doj-resources-are-breaking-point-rcna40208">As Jan. 6 probe expands, officials worry DOJ resources are at a breaking point</a> </summary><p> <span class="pub_description"> 
- Ryan J. Reilly / NBC News:
-  —  WASHINGTON — It's the “most wide-ranging investigation” in Justice Department history: the unprecedented manhunt for hundreds of rioters who stormed the U.S. Capitol on Donald Trump's behalf on Jan. 6, 2021 … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 06:25 AM CT </span> <a href="https://www.nytimes.com/2022/07/28/world/middleeast/iran-drone-exports.html">Iran Ramps Up Drone Exports, Signaling Global Ambitions</a> </summary><p> <span class="pub_description"> 
- New York Times:
-  —  Tehran has quietly stepped up the sale of drone technology to countries outside the Middle East as it seeks to become a player in the international market.  —  Iran has made steady advances in the design and production of military drones … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 06:20 AM CT </span> <a href="https://www.politico.com/news/magazine/2022/07/29/is-biden-better-president-than-people-thought-00048654">Wait, Is Biden a Better President Than People Thought?</a> </summary><p> <span class="pub_description"> 
- John F. Harris / Politico:
-?  —  Biden is making a comeback with his breakthrough on climate legislation — but limitations to his leadership still shadow his presidency.  —  Altitude is a column by POLITICO founding editor John Harris, offering weekly perspective … 
  </span></p></details> 
 
 
