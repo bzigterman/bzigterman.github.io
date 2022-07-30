@@ -97,10 +97,6 @@ webappicon: /plots/news.png
  NBC News:
 A Democrat who dropped out of the Wisconsin Senate race is giving the party a $600,000 surprise gift  —  The Milwaukee Bucks executive who dropped out of the Wisconsin Senate race this week is in a giving mood.  —  After he immediately threw his support behind fellow Democrat Mandela Barnes … 
  </span></p></details> 
- <details><summary><span class="pub_time"> 06:55 AM CT </span> <a href="https://www.theguardian.com/books/2022/jul/29/paul-manafort-indirectly-advising-trump-2020-secret-pardon-book-political-prisoner">Paul Manafort admits indirectly advising Trump in 2020 but keeping it secret in wait for pardon</a> </summary><p> <span class="pub_description"> 
- Martin Pengelly / The Guardian:
-  —  In new book, obtained by Guardian, 2016 campaign manager convicted of tax fraud says he was ‘very careful’ to hide advice  —  Paul Manafort indirectly advised Donald Trump's 2020 campaign … 
- </span></p></details> 
 
 
 
