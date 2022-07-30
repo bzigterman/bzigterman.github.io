@@ -91,13 +91,13 @@ politics_news <- memeorandum_feed %>%
 
 politics_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
-  line=paste("<p class=\"pub_time\">",
+  line=paste("<span class=\"pub_time\">",
              politics_news$clean_time[[x]],
-             "</p>",
+             "</span>",
              politics_news$item_html_link[[x]], 
-             "<p class=\"pub_time\">",
+             "<span class=\"pub_description\">",
              politics_news$item_description[[x]],
-             "</p>",
+             "</span>",
              "\n")
   politics_news_lines = paste(politics_news_lines, line)
 }
