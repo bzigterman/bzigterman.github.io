@@ -125,14 +125,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  Allan Smith / NBC News:
   —  Doug Mastriano, the Republican nominee for governor in Pennsylvania, has come under fire from critics for ties to a right-wing social media platform whose founder has said there's no room for Jews, atheists and others in the conservative movement.
  </span></p></details> 
- <details><summary><span class="pub_time"> 08:25 PM CT </span> <a href="https://www.axios.com/2022/07/29/new-york-10-congressional-district-primary">New York's hottest club</a> </summary><p> <span class="pub_description"> 
- Andrew Solender / Axios:
-  —  New York's hottest club has it all: a former congresswoman who served during the Nixon administration, an incumbent who is actually from another region of the state, and roughly a dozen other Democratic candidates no less colorful.
- </span></p></details> 
- <details><summary><span class="pub_time"> 08:20 PM CT </span> <a href="https://www.politico.com/news/2022/07/28/alito-mocks-foreign-critics-of-ruling-00048607">Alito mocks foreign critics of Supreme Court abortion ruling</a> </summary><p> <span class="pub_description"> 
- Josh Gerstein / Politico:
-  —  Justice Samuel Alito, the author of the Supreme Court's earth-shaking decision last month overturning Roe v. Wade, is mocking foreign leaders who lamented his opinion doing away with a half-century of federal constitutional protection for abortion rights in the U.S.
- </span></p></details> 
 
 
 
