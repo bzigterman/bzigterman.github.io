@@ -233,6 +233,13 @@ willard_data_updated <- willard_data_update %>%
   full_join(isws) %>%
   arrange(date)
 
+## NCEI ----
+# earliest <- "1902-08-01"
+# latest <- as.character(ymd(today(tzone = "America/Chicago")))
+# url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
+# ncei <- content(GET(url))
+
+
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
 # nws_past <- GET(url,
