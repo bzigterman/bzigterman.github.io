@@ -9,7 +9,10 @@ webappicon: /plots/news.png
   <div class="container">
       {% include breadcrumbs.html %}
   </div>
+<br>
 
+ <details><summary><span class="pub_time"> 12:05 AM CT </span> <a href="https://www.nbcnews.com/politics/2022-election/trump-endorses-tudor-dixon-michigan-governors-race-rcna39914">Trump endorses Tudor Dixon in Michigan governor's race</a> </summary><p> <span class="pub_description"> NBC News:  — SOUTHFIELD, Mich. — Tudor Dixon, a conservative media personality who is leading the polls in Michigan's Republican race for governor, secured former President Donald Trump's endorsement on Friday. — “When I met Tudor Dixon … </span></p></details> 
+ <details><summary><span class="pub_time"> 11:55 PM CT </span> <a href="https://www.reuters.com/world/us/exclusive-biden-epa-tackle-coal-industry-carbon-with-rules-other-pollutants-2022-07-29/">Exclusive: Biden EPA to tackle coal industry carbon with rules on other pollutants</a> </summary><p> <span class="pub_description"> Valerie Volcovici / Reuters:  — The U.S. Environmental Protection Agency plans to use new limits on traditional pollutants like ozone and coal ash to help encourage the retirement of the nation's remaining coal-fired power plants … </span></p></details> 
  <details><summary><span class="pub_time"> 11:35 PM CT </span> <a href="https://www.nytimes.com/2022/07/29/us/politics/russia-terrorism-blinken.html">Blinken Resists Push to Label Russia a Terrorist State</a> </summary><p> <span class="pub_description"> New York Times:  — The Biden administration is wary of making the designation despite strong calls from Congress and pleas from Ukraine. — WASHINGTON — The U.S. Senate supports it unanimously. So does House Speaker Nancy Pelosi … </span></p></details> 
  <details><summary><span class="pub_time"> 09:55 PM CT </span> <a href="https://www.reuters.com/world/us/us-house-vote-assault-weapons-ban-friday-pelosi-2022-07-29/">U.S. House passes, sends to Senate assault-style weapon ban</a> </summary><p> <span class="pub_description"> Richard Cowan / Reuters:  — The U.S. House of Representatives on Friday passed legislation banning assault-style rifles that have been used in mass shootings, sending it to the Senate where it faces likely defeat. — By a mostly partisan vote of 217-213 … </span></p></details> 
  <details><summary><span class="pub_time"> 08:25 PM CT </span> <a href="https://www.bbc.com/news/uk-62323048">UK heatwave: Weather forecasters report unprecedented trolling</a> </summary><p> <span class="pub_description"> Merlyn Thomas / BBC:  — Weather forecasters faced unprecedented levels of trolling during this month's extreme heat in the UK, according to leading figures in the industry. — The BBC's team received hundreds of abusive tweets or emails questioning … </span></p></details> 
@@ -137,10 +140,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  <details><summary><span class="pub_time"> 07:45 PM CT </span> <a href="https://www.nbcnews.com/news/weather/least-1-dead-one-worst-flooding-events-kentuckys-history-officials-say-rcna40436">‘Double-digit deaths’ expected in Kentucky floods that have already killed 8, governor says</a> </summary><p> <span class="pub_description"> 
  NBC News:
   —  Drone video shows historic flash flooding in Kentucky  —  At least eight people are dead and officials fear that number will increase after rain battered the eastern part of Kentucky … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 07:01 PM CT </span> <a href="https://apnews.com/article/russia-ukraine-kyiv-e85d2709f3f6be7eff1b8d278e4d2be9">Russia attacks Kyiv area for the first time in weeks</a> </summary><p> <span class="pub_description"> 
- Susie Blann / Associated Press:
-  —  KYIV, Ukraine (AP) — Russian forces launched a missile attack on the Kyiv area for the first time in weeks Thursday and pounded the northern Chernihiv region as well, in what Ukraine said was revenge for standing up to the Kremlin.
  </span></p></details> 
 
 
