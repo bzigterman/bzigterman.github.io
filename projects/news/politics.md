@@ -133,14 +133,6 @@ A Democrat who dropped out of the Wisconsin Senate race is giving the party a $6
  Josh Gerstein / Politico:
   —  Justice Samuel Alito, the author of the Supreme Court's earth-shaking decision last month overturning Roe v. Wade, is mocking foreign leaders who lamented his opinion doing away with a half-century of federal constitutional protection for abortion rights in the U.S.
  </span></p></details> 
- <details><summary><span class="pub_time"> 07:50 PM CT </span> <a href="https://www.nytimes.com/2022/07/28/us/politics/covid-booster-shots.html">Biden Administration Plans to Offer Updated Booster Shots in September</a> </summary><p> <span class="pub_description"> 
- New York Times:
-  —  With reformulated shots from Pfizer and Moderna on the horizon, the F.D.A. has decided that Americans under 50 should wait to receive second boosters.  —  WASHINGTON — The Biden administration now expects to begin … 
- </span></p></details> 
- <details><summary><span class="pub_time"> 07:45 PM CT </span> <a href="https://www.nbcnews.com/news/weather/least-1-dead-one-worst-flooding-events-kentuckys-history-officials-say-rcna40436">‘Double-digit deaths’ expected in Kentucky floods that have already killed 8, governor says</a> </summary><p> <span class="pub_description"> 
- NBC News:
-  —  Drone video shows historic flash flooding in Kentucky  —  At least eight people are dead and officials fear that number will increase after rain battered the eastern part of Kentucky … 
- </span></p></details> 
 
 
 
