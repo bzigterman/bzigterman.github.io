@@ -6,6 +6,8 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+ <p class="updated_time"> 06:45 PM CT, Jul. 29 </p> 
+ <a href="https://www.nytimes.com/2022/07/29/business/media/fox-news-donald-trump-rupert-murdoch.html">Fox News, Once Home to Trump, Now Often Ignores Him</a> Jeremy W. Peters / New York Times:  — The former president hasn't been interviewed on the Rupert Murdoch-owned cable network in more than 100 days, and other Republicans often get the attention he once did. — It's been more than 100 days since Donald J. Trump was interviewed on Fox News. 
  <p class="updated_time"> 04:35 PM CT, Jul. 29 </p> 
  <a href="https://www.ajc.com/news/atlanta-group-implicated-in-russian-influence-scheme/H4H75JMCI5EYNFZKBFSKHNO2DI/">Atlanta group implicated in Russian influence scheme</a> Chris Joyner / Atlanta Journal-Constitution:  — The U.S. Department of Justice has connected the Black Hammer Party, a Black-led radical group based in Atlanta, to an alleged Russian plot to sow discord in the United States, according to a newly unsealed federal indictment. 
  <p class="updated_time"> 04:30 PM CT, Jul. 29 </p> 
@@ -264,21 +266,6 @@ In call with Biden, China's Xi warns against ‘playing with fire’ over Taiwan
  <a href="https://www.cnbc.com/2022/07/27/schumer-manchin-reconciliation-bill-climate-change-provisions.html">Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details</a> 
  Emma Newburger / CNBC:
 Schumer-Manchin reconciliation bill has $369 billion to fight climate change — here are the details  — Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Joe Manchin, D-W.Va., on Wednesday unveiled a long-anticipated reconciliation package that would invest hundreds of billions … 
- 
- <p class="updated_time"> 02:00 PM CT, Jul. 28 </p> 
- <a href="https://www.nbcnews.com/politics/white-house/biden-host-obamas-white-house-portrait-ceremony-trump-shunned-rcna40493">Biden to host Obamas in September for White House portrait ceremony Trump shunned</a> 
- Carol E. Lee / NBC News:
-Biden to host Obamas in September for White House portrait ceremony Trump shunned  —  President Joe Biden will host former President Barack Obama and first lady Michelle Obama at the White House in early September for the unveiling of their official White House portraits, according to an Obama spokesperson.
- 
- <p class="updated_time"> 01:50 PM CT, Jul. 28 </p> 
- <a href="https://www.nbcnews.com/politics/2022-election/tim-ryans-gop-friendly-campaign-unsettles-republicans-ohio-rcna40106">Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio</a> 
- Henry J. Gomez / NBC News:
-Tim Ryan's GOP-friendly campaign unsettles Republicans in Ohio  —  AKRON, Ohio — A once largely unimaginable scenario has been rattling around Ohio's political scene all summer.  —  Can Rep. Tim Ryan pull off an upset in the state's U.S. Senate race?  —  The Democrat is airing ads on Fox News … 
- 
- <p class="updated_time"> 01:45 PM CT, Jul. 28 </p> 
- <a href="https://www.nbcnews.com/politics/2022-election/bidens-soft-power-not-enough-stop-rivals-grabbing-2024-spotlight-rcna40365">Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight</a> 
- NBC News:
-Biden's soft power has not been enough to stop would-be rivals from grabbing the 2024 spotlight  —  The president has so far deployed a keep-frenemies-close approach to his ambitious Democratic colleagues.  Some close to the White House say what Biden needs is a traditional enforcer.
  
 
 
