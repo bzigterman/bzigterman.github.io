@@ -95,9 +95,9 @@ for (x in 1:nrow(politics_news)) {
               politics_news$clean_time[[x]],
               " </span>",
               politics_news$feed[[x]], 
-              ": ",
+              ": <b>",
               politics_news$item_html_link[[x]], 
-              "</summary><p>",
+              "</b></summary><p>",
               politics_news$item_description[[x]],
               "</p></details>",
               "\n")
@@ -196,9 +196,9 @@ for (x in 1:nrow(politics_news)) {
               politics_news$clean_time[[x]],
               " </span>",
               politics_news$feed[[x]], 
-              ": ",
+              ": <b>",
               politics_news$item_html_link[[x]], 
-              "</summary><p>",
+              "</b></summary><p>",
               politics_news$item_description[[x]],
               "</p></details>",
               "\n")
