@@ -47,11 +47,6 @@ In an email to Twitter Blue subscribers, Twitter says it is increasing the price
  Bloomberg:
   —  For three days each week during the month of April in 2014, a seasoned product manager named Lulu Young, an engineering manager … 
  
- <p class="updated_time"> 03:51 PM CT, Jul. 28 </p> 
- <a href="https://www.cnbc.com/2022/07/28/apple-aapl-earnings-q3-2022.html">Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022</a> 
- Kif Leswing / CNBC:
-Apple reports Services revenue grew 12% YoY to $19.6B in Q3 2022 and 860M paying subscribers globally across all its services, up from 825M in Q2 2022  —  KEY POINTS  — Analysts are expecting the company to give fourth-quarter guidance of $1.31 in earnings per share and nearly $90 billion in sales.
- 
 
 
 
