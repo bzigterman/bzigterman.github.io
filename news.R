@@ -93,7 +93,7 @@ politics_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
   line=paste0("<details><summary><span class=\"pub_time\">",
               politics_news$clean_time[[x]],
-              "</span>",
+              " </span>",
               politics_news$feed[[x]], 
               ": ",
               politics_news$item_html_link[[x]], 
@@ -195,7 +195,7 @@ tech_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
   line=paste0("<details><summary><span class=\"pub_time\">",
               politics_news$clean_time[[x]],
-              "</span>",
+              " </span>",
               politics_news$feed[[x]], 
               ": ",
               politics_news$item_html_link[[x]], 
