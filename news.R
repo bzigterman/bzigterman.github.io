@@ -91,15 +91,17 @@ politics_news <- memeorandum_feed %>%
 
 politics_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
-  line=paste("<details><summary><span class=\"pub_time\">",
-             politics_news$clean_time[[x]],
-             "</span>",
-             politics_news$item_html_link[[x]], 
-             "</summary><p>",
-             "<span class=\"pub_description\">",
-             politics_news$item_description[[x]],
-             "</span></p></details>",
-             "\n")
+  line=paste0("<details><summary><span class=\"pub_time\">",
+              politics_news$clean_time[[x]],
+              "</span>",
+              politics_news$feed[[x]], 
+              ": ",
+              politics_news$item_html_link[[x]], 
+              "</summary><p>",
+              "<span class=\"pub_description\">",
+              politics_news$item_description[[x]],
+              "</span></p></details>",
+              "\n")
   politics_news_lines = paste(politics_news_lines, line)
 }
 politics_news_lines 
@@ -176,7 +178,7 @@ memeorandum_feed <- politics_news_update %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d")) 
+                               format = "%I:%M% %p CT")) 
 
 politics_news <- memeorandum_feed %>%
   filter(central_time > past_week) %>%
@@ -191,15 +193,17 @@ politics_news <- memeorandum_feed %>%
 
 tech_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
-  line=paste("<details><summary><span class=\"pub_time\">",
-             politics_news$clean_time[[x]],
-             "</span>",
-             politics_news$item_html_link[[x]], 
-             "</summary><p>",
-             "<span class=\"pub_description\">",
-             politics_news$item_description[[x]],
-             "</span></p></details>",
-             "\n")
+  line=paste0("<details><summary><span class=\"pub_time\">",
+              politics_news$clean_time[[x]],
+              "</span>",
+              politics_news$feed[[x]], 
+              ": ",
+              politics_news$item_html_link[[x]], 
+              "</summary><p>",
+              "<span class=\"pub_description\">",
+              politics_news$item_description[[x]],
+              "</span></p></details>",
+              "\n")
   tech_news_lines = paste(tech_news_lines, line)
 }
 tech_news_lines 

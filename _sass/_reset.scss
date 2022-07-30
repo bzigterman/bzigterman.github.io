@@ -61,6 +61,12 @@ q:before, q:after {
 	line-height: 1.2;
 	font-size:90%
 	}
+	
+summary {
+	padding-left: 1.5em;
+	text-indent:-1.5em;
+}
+
 
 .breadcrumbs {
     text-align: left;
