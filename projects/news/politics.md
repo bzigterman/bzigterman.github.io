@@ -11,6 +11,7 @@ webappicon: /plots/news.png
   </div>
 <br>
 
+ <details><summary><span class="pub_time">12:50 PM CT</span>Los Angeles Times: <a href="https://www.latimes.com/world-nation/story/2022-07-29/fearful-of-prosecution-doctors-debate-how-to-treat-pregnant-patients">Doctors in abortion-ban states fear prosecution for treating patients with life-threatening pregnancies</a></summary><p><span class="pub_description">Emily Baumgaertner / Los Angeles Times:  — Dr. Nikki Zite explained the situation to her patient: Her pregnancy could kill her. — The 37-year-old patient, who was nine weeks along, had suffered damage to her heart during her last pregnancy …</span></p></details>
  <details><summary><span class="pub_time">12:25 PM CT</span>New York Times: <a href="https://www.nytimes.com/2022/07/30/us/politics/michigan-primary-governor-trump.html">Could the G.O.P. Beat Whitmer in Michigan?  Party Chaos Has Hurt Its Chances.</a></summary><p><span class="pub_description">New York Times: Could the G.O.P. Beat Whitmer in Michigan? Party Chaos Has Hurt Its Chances. — A handwritten letter from Betsy DeVos, last seen trying to remove Donald Trump from office, elicited an 11th-hour endorsement. But is that enough to make peace among Michigan's warring Republicans?</span></p></details>
  <details><summary><span class="pub_time">11:20 AM CT</span>NBC News: <a href="https://www.nbcnews.com/news/us-news/california-town-militias-help-welcomed-cautioned-others-rcna40218">In a California town, a militia is welcomed by some, cautioned by others</a></summary><p><span class="pub_description">NBC News:  — The parking lot of H&L Lumber in Mariposa, California, was host to a flurry of activity Sunday as members of a local militia sporting military-style fatigues handed out pancakes and steak sandwiches to evacuees of the Oak Fire raging nearby.</span></p></details>
  <details><summary><span class="pub_time">11:15 AM CT</span>Associated Press: <a href="https://apnews.com/article/biden-covid-health-social-media-donald-trump-fb978862035511b12bdf0b3cc5e5d644">Biden no longer shy in singling out Trump, the ‘former guy’</a></summary><p><span class="pub_description">Seung Min Kim / Associated Press:  — WASHINGTON (AP) — One month into his presidency, Joe Biden made clear his distaste for even naming the man he had ousted from the Oval Office, declaring, “I'm tired of talking about Trump.” — “The next four years …</span></p></details>
@@ -53,50 +54,6 @@ webappicon: /plots/news.png
  <details><summary><span class="pub_time">01:15 PM CT</span>Associated Press: <a href="https://news.yahoo.com/passenger-rail-return-vermont-city-121129557.html">Passenger rail return to Vermont city took vision, decades</a></summary><p><span class="pub_description">
  Wilson Ring / Associated Press:
   —  Amtrak-Expansion-Vermont  —  BURLINGTON, Vt. (AP) — After a nearly 70-year absence, a passenger train running from Vermont's revitalized Burlington train station to New York City headed south Friday as part of a nationwide renewal of interest in rail travel.
-</span></p></details>
- <details><summary><span class="pub_time">11:40 AM CT</span>Associated Press: <a href="https://apnews.com/article/inflation-biden-sports-congress-e499871130fa9881beb0618ebddfe88c">Basement talk, virtual handshake led to Manchin-Schumer deal</a></summary><p><span class="pub_description">
- Lisa Mascaro / Associated Press:
-  —  WASHINGTON (AP) — Senate Majority Leader Chuck Schumer and Democratic Sen. Joe Manchin secreted themselves in a basement room at the Capitol.  —  The two men had been wrestling for more than a year in long … 
-</span></p></details>
- <details><summary><span class="pub_time">11:30 AM CT</span>Reuters: <a href="https://www.reuters.com/world/europe/ukraine-bombs-russian-forces-drive-retake-south-2022-07-28/">Accusations fly after missile strike kills dozens of Ukrainian POWs</a></summary><p><span class="pub_description">
- Reuters:
-  —  Dozens of Ukrainian prisoners of war appeared to have been killed when a prison building was destroyed in a missile strike, with Moscow and Kyiv accusing each other on Friday of carrying out the attack.
-</span></p></details>
- <details><summary><span class="pub_time">11:10 AM CT</span>NBC News: <a href="https://www.nbcnews.com/politics/justice-department/-trump-influencer-upset-documents-detailing-substantial-cooperation-fb-rcna40576">Pro-Trump influencer upset after documents detailing ‘substantial’ cooperation with FBI are released</a></summary><p><span class="pub_description">
- Ryan J. Reilly / NBC News:
-  —  WASHINGTON — A pro-Trump social media influencer who was convicted of disorderly and disruptive conduct on Capitol grounds for his actions on Jan. 6 is upset over the release of court filings … 
-</span></p></details>
- <details><summary><span class="pub_time">10:25 AM CT</span>Associated Press: <a href="https://www.nbcnews.com/politics/immigration/biden-administration-fill-border-wall-gaps-yuma-arizona-rcna40567">Biden administration to fill border wall gaps near Yuma, Arizona</a></summary><p><span class="pub_description">
- Associated Press:
-  —  PHOENIX — The Biden administration on Thursday authorized completion of the Trump-funded U.S.-Mexico border wall in an open area of southern Arizona near Yuma, where four wide gaps make it among the busiest corridors for illegal crossings.
-</span></p></details>
- <details><summary><span class="pub_time">09:55 AM CT</span>CBS News: <a href="https://www.cbsnews.com/news/un-nuclear-conference-ukraine-zaporizhzhya-plant/">U.N. nuclear conference to start Monday as Ukraine's Zaporizhzhya plant in “alarming” state, watchdog says</a></summary><p><span class="pub_description">
- Pamela Falk / CBS News:
-  —  United Nations — On Monday, International Atomic Energy Agency (IAEA) chief Rafael Grossi, U.S. Secretary of State Antony Blinken and U.N. Secretary General Antonio Guterres … 
-</span></p></details>
- <details><summary><span class="pub_time">09:50 AM CT</span>CNBC: <a href="https://www.cnbc.com/2022/07/29/white-house-goes-on-offense-to-argue-that-the-us-is-not-in-a-recession-.html">White House goes on offense to argue that the U.S. is not in a recession</a></summary><p><span class="pub_description">
- Christina Wilkie / CNBC:
-  — The White House responded to Thursday's second quarter negative GDP growth with a coordinated message: the U.S. economy is not in a recession.  — On Thursday, the Commerce Department's Bureau of Economic Analysis reported … 
-</span></p></details>
- <details><summary><span class="pub_time">09:30 AM CT</span>Associated Press: <a href="https://apnews.com/article/brittney-griner-sports-basketball-antony-blinken-moscow-17f8c95a23169f22b0efc1fe3a4e997c">Russia's Lavrov says he will discuss US prisoner swap offer</a></summary><p><span class="pub_description">
- Vladimir Isachenkov / Associated Press:
-  —  MOSCOW (AP) — Russian Foreign Minister Sergey Lavrov said Friday that he's open to a call with U.S. Secretary of State Antony Blinken to discuss a possible prisoner swap involving American basketball star Brittney Griner.
-</span></p></details>
- <details><summary><span class="pub_time">09:25 AM CT</span>Associated Press: <a href="https://apnews.com/article/inflation-economy-consumer-spending-prices-1c912833f8e24c6ca151f0d5d89332f7?taid=62e3d5f2d179020001dbdfb2">A key US inflation gauge reaches 6.8% as prices keep surging</a></summary><p><span class="pub_description">
- Christopher Rugaber / Associated Press:
-  —  WASHINGTON (AP) — An inflation gauge that is closely tracked by the Federal Reserve jumped 6.8% in June from a year ago, the biggest increase in four decades, and leaving Americans with no relief from surging costs.
-</span></p></details>
- <details><summary><span class="pub_time">08:45 AM CT</span>Reuters: <a href="https://www.reuters.com/investigates/special-report/usa-elections-michigan-investigation/">Inside one far-right sheriff's crusade to prove Trump's bogus voter-fraud claims</a></summary><p><span class="pub_description">
- Reuters:
-  —  In rural Michigan, county Sheriff Dar Leaf has teamed with a Trump-camp lawyer to chase the former president's outlandish rigged-election theories.  A member of a radical group of “constitutional sheriffs,” he's now under investigation himself.
-</span></p></details>
- <details><summary><span class="pub_time">08:45 AM CT</span>ABC News: <a href="https://abcnews.go.com/US/boy-partially-paralyzed-highland-park-shooting-mom-hell/story?id=87543886">Boy partially paralyzed in Highland Park shooting is asking mom if he'll walk again</a></summary><p><span class="pub_description">
- ABC News:
-  —  Cooper, 8, is in the hospital recovering from multiple surgeries and infections.  —  By Emily ShapiroVideo by Nicolas Rothenberg  —  A police officer walks down Central Avenue in Highland Park, July 4 … 
-</span></p></details>
- <details><summary><span class="pub_time">08:10 AM CT</span>NBC News: <a href="https://www.nbcnews.com/politics/2022-election/democrat-dropped-wisconsin-senate-race-giving-party-600000-surprise-gi-rcna40407">A Democrat who dropped out of the Wisconsin Senate race is giving the party a $600,000 surprise gift</a></summary><p><span class="pub_description">
- NBC News:
-A Democrat who dropped out of the Wisconsin Senate race is giving the party a $600,000 surprise gift  —  The Milwaukee Bucks executive who dropped out of the Wisconsin Senate race this week is in a giving mood.  —  After he immediately threw his support behind fellow Democrat Mandela Barnes … 
 </span></p></details>
 
 
