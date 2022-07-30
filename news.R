@@ -231,6 +231,10 @@ imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
 
+  <div class=\"container\">
+      {% include breadcrumbs.html %}
+  </div>
+
 ",politics_news_lines,"
 
 ",
@@ -247,6 +251,10 @@ permalink: /projects/news/tech
 imageurl: https://bzigterman.com/plots/news.png
 webappicon: /plots/news.png
 ---
+
+  <div class=\"container\">
+      {% include breadcrumbs.html %}
+  </div>
 
 ",tech_news_lines,"
 
