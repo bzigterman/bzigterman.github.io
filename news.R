@@ -61,7 +61,7 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
   filter(item_pub_date > past_week) %>%
-  filter(feed == "CNN" | feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Atlanta Journal-Constitution" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios") %>%
+  filter(feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Wall Street Journal" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios"| feed == "Bloomberg"| feed == "The Economist") %>%
   filter(!grepl("opinion",item_link)) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) 
@@ -156,7 +156,7 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_link,.keep_all = TRUE) %>%
   arrange(desc(item_pub_date)) %>%
   filter(item_pub_date > past_week) %>%
-  filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC") %>%
+  filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "TechCrunch"|feed == "Wired"|feed == "Politico"|feed == "Axios"|feed == "BBC"|feed == "CNET") %>%
   filter(!grepl("opinion",item_link)) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
