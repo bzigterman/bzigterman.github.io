@@ -91,11 +91,11 @@ politics_news <- memeorandum_feed %>%
 
 politics_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
-  line=paste("<details><summary><p><span class=\"pub_time\">",
+  line=paste("<details><summary><span class=\"pub_time\">",
              politics_news$clean_time[[x]],
              "</span>",
              politics_news$item_html_link[[x]], 
-             "</p></summary><p>",
+             "</summary><p>",
              "<span class=\"pub_description\">",
              politics_news$item_description[[x]],
              "</span></p></details>",
@@ -191,11 +191,11 @@ politics_news <- memeorandum_feed %>%
 
 tech_news_lines <- c()
 for (x in 1:nrow(politics_news)) {
-  line=paste("<details><summary><p><span class=\"pub_time\">",
+  line=paste("<details><summary><span class=\"pub_time\">",
              politics_news$clean_time[[x]],
              "</span>",
              politics_news$item_html_link[[x]], 
-             "</p></summary><p>",
+             "</summary><p>",
              "<span class=\"pub_description\">",
              politics_news$item_description[[x]],
              "</span></p></details>",
