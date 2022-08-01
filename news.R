@@ -311,6 +311,8 @@ webappicon: /plots/news.png
 
 ",politics_news_lines,"
 
+Thanks to [memeorandum](https://www.memeorandum.com) for the RSS feed powering this news river.
+
 ",
 sep = ""
 )
@@ -331,6 +333,8 @@ webappicon: /plots/news.png
   </div>
 
 ",tech_news_lines,"
+
+Thanks to [Techmeme](https://www.techmeme.com/about) for the RSS feed powering this news river.
 
 ",
 sep = ""
