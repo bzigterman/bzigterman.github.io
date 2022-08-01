@@ -436,21 +436,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">101</td>
-<td class="gt_row gt_right">109</td>
-<td class="gt_row gt_right">+8%</td></tr>
+<td class="gt_row gt_right">102</td>
+<td class="gt_row gt_right">102</td>
+<td class="gt_row gt_right">0%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">40</td>
 <td class="gt_row gt_right gt_striped">44</td>
 <td class="gt_row gt_right gt_striped">+11%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td class="gt_row gt_right">4</td>
-<td class="gt_row gt_right">7</td>
-<td class="gt_row gt_right">+75%</td></tr>
+<td class="gt_row gt_right">5</td>
+<td class="gt_row gt_right">8</td>
+<td class="gt_row gt_right">+60%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">202</td>
-<td class="gt_row gt_right gt_striped">223</td>
-<td class="gt_row gt_right gt_striped">+10%</td></tr>
+<td class="gt_row gt_right gt_striped">221</td>
+<td class="gt_row gt_right gt_striped">190</td>
+<td class="gt_row gt_right gt_striped">&minus;14%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">135,000</td>
 <td class="gt_row gt_right">136,000</td>
@@ -462,12 +462,12 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 296  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 297  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -1911,7 +1911,7 @@ html {
 
 As of Sunday, the 14-day percent change in average new cases was:
   
-- 8% in Champaign County
+- -1% in Champaign County
 - 3% in Illinois
 - -5% in the United States
 - 6% worldwide
