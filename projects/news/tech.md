@@ -17,4 +17,6 @@ webappicon: /plots/news.png
 
 
 
+Thanks to [Techmeme](https://www.techmeme.com/about) for the RSS feed powering this news river.
+
 
