@@ -637,6 +637,8 @@ date,weather,temp,humidity,precip_one_hour
 2022-08-01T16:53:00Z,Overcast,81,79,NA
 2022-08-01T17:53:00Z,Mostly Cloudy,84,74,NA
 2022-08-01T18:53:00Z,Partly Cloudy,87,65,NA
+2022-08-01T19:53:00Z,A Few Clouds,88,63,NA
+2022-08-01T20:53:00Z,A Few Clouds,87,61,NA
 2022-08-29T03:53:00Z,Partly Cloudy,67,84,NA
 2022-08-29T04:53:00Z,Fair,64,90,NA
 2022-08-29T05:53:00Z,Fair,63,93,NA
