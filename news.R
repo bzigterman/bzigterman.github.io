@@ -308,7 +308,6 @@ webappicon: /plots/news.png
   <div class=\"container\">
       {% include breadcrumbs.html %}
   </div>
-<br>
 
 ",politics_news_lines,"
 
@@ -330,7 +329,6 @@ webappicon: /plots/news.png
   <div class=\"container\">
       {% include breadcrumbs.html %}
   </div>
-<br>
 
 ",tech_news_lines,"
 
