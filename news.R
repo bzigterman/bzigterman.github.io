@@ -132,13 +132,13 @@ politics_news_lines <- paste0(
     paste0("<p>",
       strftime(x = today(tzone = "US/Central"), 
                tz = "US/Central",
-               format = "%b %d"),"</p>",
+               format = "%B %d"),"</p>",
       politics_news_today)},
   if(nrow(politics_yesterday) >0){
     paste0("<p>",
       strftime(x = today(tzone = "US/Central")- days(1), 
                tz = "US/Central",
-               format = "%b %d"),"</p>",
+               format = "%B %d"),"</p>",
       politics_news_yesterday)},"\n")
 politics_news_lines
 
@@ -268,13 +268,13 @@ tech_news_lines <- paste0(
     paste0("<p>",
            strftime(x = today(tzone = "US/Central"), 
                     tz = "US/Central",
-                    format = "%b %d"),"</p>",
+                    format = "%B %d"),"</p>",
            politics_news_today)},
   if(nrow(politics_yesterday) >0){
     paste0("<p>",
            strftime(x = today(tzone = "US/Central")- days(1), 
                     tz = "US/Central",
-                    format = "%b %d"),"</p>",
+                    format = "%B %d"),"</p>",
            politics_news_yesterday)},"\n")
 tech_news_lines
 
