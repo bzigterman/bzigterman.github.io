@@ -5,7 +5,9 @@ library(httr)
 library(rvest)
 
 past_week <- now(tzone = "US/Central") - days(1)
-
+past_midnight <- ymd_hms(paste(today(tzone = "US/Central"),"00:00:00")
+                         ,tz = "US/Central")
+past_midnight
 # gather news ----
 
 ## politics ----
@@ -87,24 +89,58 @@ politics_news <- memeorandum_feed %>%
                                 item_title,"</a>",
                                 sep = "")) 
 
+politics_today <- politics_news %>%
+  filter(central_time >= past_midnight)
+politics_yesterday <- politics_news %>%
+  filter(central_time < past_midnight)
 
+politics_news_today <- c()
+for (x in 1:nrow(politics_today)) {
+  if (nrow(politics_today) > 0){
+    line=paste0("<details><summary><span class=\"pub_time\">",
+                politics_today$clean_time[[x]],
+                " </span>",
+                politics_today$feed[[x]], 
+                ": <b>",
+                politics_today$item_html_link[[x]], 
+                "</b></summary><p>",
+                politics_today$item_description[[x]],
+                "</p></details>",
+                "\n")
+    politics_news_today = paste(politics_news_today,line)
+  }}
+politics_news_today 
+politics_news_yesterday <- c()
+for (x in 1:nrow(politics_yesterday)) {
+  if (nrow(politics_yesterday) > 0){
+    line=paste0("<details><summary><span class=\"pub_time\">",
+                politics_yesterday$clean_time[[x]],
+                " </span>",
+                politics_yesterday$feed[[x]], 
+                ": <b>",
+                politics_yesterday$item_html_link[[x]], 
+                "</b></summary><p>",
+                politics_yesterday$item_description[[x]],
+                "</p></details>",
+                "\n")
+    politics_news_yesterday = paste(politics_news_yesterday,line)
+  }}
+politics_news_yesterday 
 
-politics_news_lines <- c()
-for (x in 1:nrow(politics_news)) {
-  line=paste0("<details><summary><span class=\"pub_time\">",
-              politics_news$clean_time[[x]],
-              " </span>",
-              politics_news$feed[[x]], 
-              ": <b>",
-              politics_news$item_html_link[[x]], 
-              "</b></summary><p>",
-              politics_news$item_description[[x]],
-              "</p></details>",
-              "\n")
-  politics_news_lines = paste(politics_news_lines, line)
-}
-politics_news_lines 
-
+politics_news_lines <- paste0(
+  if(nrow(politics_today) > 0) {
+    paste0(
+      strftime(x = today(tzone = "US/Central"), 
+               tz = "US/Central",
+               format = "%b %d"),
+      politics_news_today)},
+  if(nrow(politics_yesterday) >0){
+    paste0(
+      strftime(x = today(tzone = "US/Central")- days(1), 
+               tz = "US/Central",
+               format = "%b %d"),
+      politics_news_yesterday)},"\n")
+politics_news_lines
 
 ## tech ----
 memeorandum_html <- read_html("https://www.techmeme.com/feed.xml", options = "NOCDATA")
@@ -189,22 +225,58 @@ politics_news <- memeorandum_feed %>%
                                 item_title,"</a>",
                                 sep = "")) 
 
+politics_today <- politics_news %>%
+  filter(central_time >= past_midnight)
+politics_yesterday <- politics_news %>%
+  filter(central_time < past_midnight)
 
-tech_news_lines <- c()
-for (x in 1:nrow(politics_news)) {
+politics_news_today <- c()
+for (x in 1:nrow(politics_today)) {
+  if (nrow(politics_today) > 0){
   line=paste0("<details><summary><span class=\"pub_time\">",
-              politics_news$clean_time[[x]],
+              politics_today$clean_time[[x]],
               " </span>",
-              politics_news$feed[[x]], 
+              politics_today$feed[[x]], 
               ": <b>",
-              politics_news$item_html_link[[x]], 
+              politics_today$item_html_link[[x]], 
               "</b></summary><p>",
-              politics_news$item_description[[x]],
+              politics_today$item_description[[x]],
               "</p></details>",
               "\n")
-  tech_news_lines = paste(tech_news_lines, line)
-}
-tech_news_lines 
+  politics_news_today = paste(politics_news_today,line)
+}}
+politics_news_today 
+politics_news_yesterday <- c()
+for (x in 1:nrow(politics_yesterday)) {
+  if (nrow(politics_yesterday) > 0){
+  line=paste0("<details><summary><span class=\"pub_time\">",
+              politics_yesterday$clean_time[[x]],
+              " </span>",
+              politics_yesterday$feed[[x]], 
+              ": <b>",
+              politics_yesterday$item_html_link[[x]], 
+              "</b></summary><p>",
+              politics_yesterday$item_description[[x]],
+              "</p></details>",
+              "\n")
+  politics_news_yesterday = paste(politics_news_yesterday,line)
+}}
+politics_news_yesterday 
+
+tech_news_lines <- paste0(
+  if(nrow(politics_today) > 0) {
+    paste0(
+      strftime(x = today(tzone = "US/Central"), 
+               tz = "US/Central",
+               format = "%b %d"),
+      politics_news_today)},
+  if(nrow(politics_yesterday) >0){
+    paste0(
+      strftime(x = today(tzone = "US/Central")- days(1), 
+               tz = "US/Central",
+               format = "%b %d"),
+      politics_news_yesterday)},"\n")
+tech_news_lines
 
 # create frequency plot ----
 
