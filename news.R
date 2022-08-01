@@ -66,7 +66,8 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   filter(feed == "ABC News" |feed == "Politico" |feed == "Associated Press" |feed == "NBC News" |feed == "New York Times" |feed == "Wall Street Journal" |feed == "Los Angeles Times" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "Axios"| feed == "Bloomberg"| feed == "The Economist") %>%
   filter(!grepl("opinion",item_link)) %>%
   filter(!is.na(item_description)) %>%
-  filter(!grepl("Opinion",item_title)) 
+  filter(!grepl("Opinion",item_title, ignore.case = TRUE)) %>%
+  filter(!grepl("fact check",item_title, ignore.case = TRUE)) 
 
 write_csv(x = politics_news_update,
           file = "data/politics_news.csv")
@@ -198,7 +199,7 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   filter(feed == "Bloomberg" | feed == "The Verge" |feed == "Wall Street Journal" |feed == "9to5Mac" |feed == "MacRumors" |feed == "New York Times" |feed == "Ars Technica" |feed == "Rest of World" |feed == "The Guardian"|feed == "Reuters"|feed == "CBS News"|feed == "CNBC"|feed == "CBS News"|feed == "BBC"|feed == "TechCrunch"|feed == "Wired"|feed == "Politico"|feed == "Axios"|feed == "BBC"|feed == "CNET") %>%
   filter(!grepl("opinion",item_link)) %>%
   filter(!is.na(item_description)) %>%
-  filter(!grepl("Opinion",item_title)) %>%
+  filter(!grepl("Opinion",item_title, ignore.case = TRUE)) %>%
   filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
