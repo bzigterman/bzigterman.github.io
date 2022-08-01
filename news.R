@@ -129,16 +129,16 @@ politics_news_yesterday
 
 politics_news_lines <- paste0(
   if(nrow(politics_today) > 0) {
-    paste0(
+    paste0("<p>",
       strftime(x = today(tzone = "US/Central"), 
                tz = "US/Central",
-               format = "%b %d"),
+               format = "%b %d"),"</p>",
       politics_news_today)},
   if(nrow(politics_yesterday) >0){
-    paste0(
+    paste0("<p>",
       strftime(x = today(tzone = "US/Central")- days(1), 
                tz = "US/Central",
-               format = "%b %d"),
+               format = "%b %d"),"</p>",
       politics_news_yesterday)},"\n")
 politics_news_lines
 
@@ -265,17 +265,17 @@ politics_news_yesterday
 
 tech_news_lines <- paste0(
   if(nrow(politics_today) > 0) {
-    paste0(
-      strftime(x = today(tzone = "US/Central"), 
-               tz = "US/Central",
-               format = "%b %d"),
-      politics_news_today)},
+    paste0("<p>",
+           strftime(x = today(tzone = "US/Central"), 
+                    tz = "US/Central",
+                    format = "%b %d"),"</p>",
+           politics_news_today)},
   if(nrow(politics_yesterday) >0){
-    paste0(
-      strftime(x = today(tzone = "US/Central")- days(1), 
-               tz = "US/Central",
-               format = "%b %d"),
-      politics_news_yesterday)},"\n")
+    paste0("<p>",
+           strftime(x = today(tzone = "US/Central")- days(1), 
+                    tz = "US/Central",
+                    format = "%b %d"),"</p>",
+           politics_news_yesterday)},"\n")
 tech_news_lines
 
 # create frequency plot ----
