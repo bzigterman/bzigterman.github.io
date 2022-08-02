@@ -658,6 +658,7 @@ date,weather,temp,humidity,precip_one_hour
 2022-08-02T13:53:00Z,A Few Clouds,70,93,NA
 2022-08-02T14:53:00Z,Rain Fog/Mist,69,93,0.01
 2022-08-02T15:53:00Z,Thunderstorm in Vicinity Rain Fog/Mist,68,93,0.09
+2022-08-02T16:53:00Z,Light Rain,69,93,0.13
 2022-08-29T03:53:00Z,Partly Cloudy,67,84,NA
 2022-08-29T04:53:00Z,Fair,64,90,NA
 2022-08-29T05:53:00Z,Fair,63,93,NA
