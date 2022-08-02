@@ -200,6 +200,9 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   filter(!grepl("opinion",item_link)) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title, ignore.case = TRUE)) %>%
+  filter(!grepl("reports Q",item_title, ignore.case = TRUE)) %>%
+  filter(!grepl("raise",item_title, ignore.case = TRUE)) %>%
+  filter(!grepl("series",item_title, ignore.case = TRUE)) %>%
   filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
