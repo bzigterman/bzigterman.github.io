@@ -202,12 +202,13 @@ willard <- willard_html[[4]] %>%
   tail(-2) %>%
   head(-3) %>%
   clean_names() %>%
-  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
+  mutate(wrong_date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
                               month((today(tzone = "America/Chicago"))),"-",
                               date,"-",
                               time_cdt),
                        tz = "America/Chicago")
   ) %>%
+  mutate(date = as_datetime( ifelse(wrong_date > today(tzone = "America/Chicago"),wrong_date-months(1),wrong_date)) )%>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
