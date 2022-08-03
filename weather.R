@@ -195,6 +195,7 @@ nws_forecast_clean <- nws_forecast %>%
 
 
 ## nws scraping ----
+
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
 willard_html <- read_html(willard_url) %>%
   html_table()
@@ -202,13 +203,14 @@ willard <- willard_html[[4]] %>%
   tail(-2) %>%
   head(-3) %>%
   clean_names() %>%
-  mutate(wrong_date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              month((today(tzone = "America/Chicago"))),"-",
+  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
+                              ifelse(date <= 3,
+                                     month(today(tzone = "America/Chicago")),
+                                     month(today(tzone = "America/Chicago"))-1),
+                              "-",
                               date,"-",
                               time_cdt),
-                       tz = "America/Chicago")
-  ) %>%
-  mutate(date = as_datetime( ifelse(wrong_date > today(tzone = "America/Chicago"),wrong_date-months(1),wrong_date),tz = "US/Central") )%>%
+                       tz = "US/Central")) %>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
