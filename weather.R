@@ -208,7 +208,7 @@ willard <- willard_html[[4]] %>%
                               time_cdt),
                        tz = "America/Chicago")
   ) %>%
-  mutate(date = as_datetime( ifelse(wrong_date > today(tzone = "America/Chicago"),wrong_date-months(1),wrong_date)) )%>%
+  mutate(date = as_datetime( ifelse(wrong_date > today(tzone = "America/Chicago"),wrong_date-months(1),wrong_date),tz = "US/Central") )%>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
@@ -860,7 +860,7 @@ monthly_rain <- willard_data_updated %>%
   group_by(year, month, day) %>%
   summarise(daily_precip_total = sum(precip_one_hour,na.rm = TRUE)) %>%
   ungroup() %>%
-  mutate(date = ymd(paste0(year,"-",month,"-",day))) %>%
+  mutate(date = ymd(paste0(year,"-",month,"-",day),tz = "US/Central")) %>%
   select(date,year, month, daily_precip_total) %>%
   group_by(year,month) %>%
   mutate(month_precip_sum = cumsum(daily_precip_total)) %>%
@@ -868,7 +868,7 @@ monthly_rain <- willard_data_updated %>%
   select(date,daily_precip_total,month_precip_sum) %>%
   mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month(date),"-",day(date))) %>%
   filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date)) %>%
+  mutate(date = ymd(date,tz = "US/Central")) %>%
   select(date,daily_precip_total,month_precip_sum)
 
 today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
