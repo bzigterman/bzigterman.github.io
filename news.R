@@ -99,12 +99,12 @@ politics_news_today <- c()
 for (x in 1:nrow(politics_today)) {
   if (nrow(politics_today) > 0){
     line=paste0("<details><summary><span class=\"pub_time\">",
-                politics_today$clean_time[[x]],
-                " </span>",
+                politics_today$clean_time[[x]]," — ",
                 politics_today$feed[[x]], 
-                ": <b>",
+                " </span>",
+                ": ",
                 politics_today$item_html_link[[x]], 
-                "</b></summary><p>",
+                "</summary><p>",
                 politics_today$item_description[[x]],
                 "</p></details>",
                 "\n")
@@ -115,12 +115,12 @@ politics_news_yesterday <- c()
 for (x in 1:nrow(politics_yesterday)) {
   if (nrow(politics_yesterday) > 0){
     line=paste0("<details><summary><span class=\"pub_time\">",
-                politics_yesterday$clean_time[[x]],
-                " </span>",
+                politics_yesterday$clean_time[[x]]," — ",
                 politics_yesterday$feed[[x]], 
-                ": <b>",
+                " </span>",
+                ": ",
                 politics_yesterday$item_html_link[[x]], 
-                "</b></summary><p>",
+                "</summary><p>",
                 politics_yesterday$item_description[[x]],
                 "</p></details>",
                 "\n")
@@ -244,12 +244,12 @@ politics_news_today <- c()
 for (x in 1:nrow(politics_today)) {
   if (nrow(politics_today) > 0){
   line=paste0("<details><summary><span class=\"pub_time\">",
-              politics_today$clean_time[[x]],
-              " </span>",
+              politics_today$clean_time[[x]]," — ",
               politics_today$feed[[x]], 
-              ": <b>",
+              " </span>",
+              ": ",
               politics_today$item_html_link[[x]], 
-              "</b></summary><p>",
+              "</summary><p>",
               politics_today$item_description[[x]],
               "</p></details>",
               "\n")
@@ -260,12 +260,12 @@ politics_news_yesterday <- c()
 for (x in 1:nrow(politics_yesterday)) {
   if (nrow(politics_yesterday) > 0){
   line=paste0("<details><summary><span class=\"pub_time\">",
-              politics_yesterday$clean_time[[x]],
-              " </span>",
+              politics_yesterday$clean_time[[x]]," — ",
               politics_yesterday$feed[[x]], 
-              ": <b>",
+              " </span>",
+              ": ",
               politics_yesterday$item_html_link[[x]], 
-              "</b></summary><p>",
+              "</summary><p>",
               politics_yesterday$item_description[[x]],
               "</p></details>",
               "\n")
