@@ -878,6 +878,7 @@ today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
   mutate("MTD Normal" = normal_monthly_precip) %>%
   mutate("MTD Actual" = month_precip_sum) %>%
   mutate("Daily" = daily_precip_total) %>%
+  mutate(date = as.Date(date), tz = "US/Central") %>%
   select(date, "MTD Normal","MTD Actual","Daily") %>%
   pivot_longer(!date)
 
