@@ -190,7 +190,7 @@ memeorandum <- data.frame(
 ) %>%
   mutate(item_description = str_replace(item_description,item_title,""))
 
-politics_data <- read_csv(file = "data/tech_news.csv") 
+politics_data <- read_csv(file = "data/tech_news.csv", col_types = "ccTcc") 
 politics_news_update <- full_join(memeorandum,politics_data) %>%
   distinct(item_title,.keep_all = TRUE) %>%
   distinct(item_link,.keep_all = TRUE) %>%
