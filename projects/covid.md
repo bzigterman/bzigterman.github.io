@@ -1878,9 +1878,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">1M</td>
-<td class="gt_row gt_right">984K</td>
-<td class="gt_row gt_right">&minus;2%</td></tr>
+<td class="gt_row gt_right">993K</td>
+<td class="gt_row gt_right">917K</td>
+<td class="gt_row gt_right">&minus;8%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">2K</td>
 <td class="gt_row gt_right gt_striped">3K</td>
@@ -1888,7 +1888,7 @@ html {
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">8M</td>
 <td class="gt_row gt_right">7M</td>
-<td class="gt_row gt_right">&minus;21%</td></tr>
+<td class="gt_row gt_right">&minus;20%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
@@ -1900,7 +1900,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1909,12 +1909,12 @@ html {
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
+As of Thursday, the 14-day percent change in average new cases was:
   
 - -25% in Champaign County
 - -20% in Illinois
-- -18% in the United States
-- -2% worldwide
+- -22% in the United States
+- -8% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1926,10 +1926,10 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Wednesday, the 14-day percent change in average new deaths was:
+As of Thursday, the 14-day percent change in average new deaths was:
   
 - 138% in Illinois
-- 8% in the United States
+- 15% in the United States
 - 8% worldwide
 
 <picture>
