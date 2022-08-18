@@ -1879,7 +1879,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">1M</td>
-<td class="gt_row gt_right">830K</td>
+<td class="gt_row gt_right">829K</td>
 <td class="gt_row gt_right">&minus;18%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">2K</td>
@@ -1913,7 +1913,7 @@ As of Tuesday, the 14-day percent change in average new cases was:
   
 - -38% in Champaign County
 - -20% in Illinois
-- -12% in the United States
+- -13% in the United States
 - -18% worldwide
 
 <picture>
@@ -1929,7 +1929,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Tuesday, the 14-day percent change in average new deaths was:
   
 - 62% in Illinois
-- 2% in the United States
+- -1% in the United States
 - 2% worldwide
 
 <picture>
