@@ -1860,3 +1860,4 @@ if (champaign_avg_new_cases >= 0 &&
   write_lines(web_text,"projects/covid/vaccines.md")
 }
 
+
