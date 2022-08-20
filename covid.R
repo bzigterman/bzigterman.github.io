@@ -784,15 +784,8 @@ champaign_death_pct_change_text <-
 idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
   full_join(hospitalizations_by_date) %>%
   select(Date,
-         monthlydead, avg_new_cases, avg_hospitalized, 
-         AdministeredCountRollAvg,
-         PersonsFullyVaccinated,
-         PctFullyVaccinatedPopulation) %>%
-  mutate(PctFullyVaccinatedPopulation = PctFullyVaccinatedPopulation*100) %>%
-  fill(avg_hospitalized, .direction = "down") %>%
-  fill(AdministeredCountRollAvg, .direction = "down") %>%
-  fill(PersonsFullyVaccinated, .direction = "down") %>%
-  fill(PctFullyVaccinatedPopulation, .direction = "down")
+         monthlydead, avg_new_cases, avg_hospitalized) %>%
+  fill(avg_hospitalized, .direction = "down") 
 
 idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   pivot_longer(!Date,
@@ -803,9 +796,9 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
     "avg_new_cases" = "Cases",
     "avg_hospitalized" = "Hospitalized",
     "monthlydead" = "Monthly Deaths",
-    "AdministeredCountRollAvg" = "New Vaccine Doses",
-    "PersonsFullyVaccinated" = "Fully Vaccinated",
-    "PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
+    #"AdministeredCountRollAvg" = "New Vaccine Doses",
+    #"PersonsFullyVaccinated" = "Fully Vaccinated",
+    #"PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
     .ordered = TRUE
   )) %>%
   mutate(values = signif(values, 3))
@@ -1691,7 +1684,7 @@ sep = ""
 
 
 # make web text ----
-
+## covid ----
 web_text <- paste(
   "---
 layout: page
@@ -1733,8 +1726,6 @@ Definitions from the CDC:
   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png\" alt=\"\" />
 </picture>
 
-",better_il_table_html,"
-
 <div class = \"hcharts\">
 <iframe src=\"/interactive/il_community_levels.html\" width=\"100%\" height=\"300\"> 
 </iframe>
@@ -1746,8 +1737,6 @@ Definitions from the CDC:
 </iframe>
 </div>
 
-![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
-
 [Community levels](https://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html) are calculated by the CDC based on new cases and hospital data. [Community transmission levels](https://covid.cdc.gov/covid-data-tracker/#county-view) are calculated by the CDC based on new cases and test positivity.
 
 ## United States
@@ -1757,8 +1746,6 @@ Definitions from the CDC:
           media=\"(min-width: 750px)\">
   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png\" alt=\"\" />
 </picture>
-
-",better_usa_table_html,"
 
 <picture>
   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png\"
@@ -1778,12 +1765,6 @@ Definitions from the CDC:
   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases_mobile.png\" alt=\"\" />
 </picture>
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png\" alt=\"\" />
-</picture>
-
 ## World
 
 <picture>
@@ -1791,8 +1772,6 @@ Definitions from the CDC:
           media=\"(min-width: 750px)\">
   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet_mobile.png\" alt=\"\" />
 </picture>
-
-",better_world_table_html,"
 
 ## Case Acceleration
 
@@ -1818,6 +1797,8 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
 
+## [Vaccines »]({{ site.baseurl }}/projects/covid/vaccines)
+
 ### Sources
 
 [Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), [University of Illinois](https://go.illinois.edu/COVIDTestingData), [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/), [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
@@ -1839,3 +1820,43 @@ if (champaign_avg_new_cases >= 0 &&
 ) {
   write_lines(web_text,"projects/covid.md")
 }
+## vaccines ----
+web_text <- paste(
+  "---
+layout: page
+title: COVID-19 Vaccines
+permalink: /projects/covid/vaccines
+imageurl: https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png
+webappicon: /covid.png
+---
+
+![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
+
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png\" alt=\"\" />
+</picture>
+
+### Sources
+
+[Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), [University of Illinois](https://go.illinois.edu/COVIDTestingData), [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/), [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
+
+",
+sep = ""
+)
+
+if (champaign_avg_new_cases >= 0 && 
+    champaign_dead_last_month >= 0 && 
+    champaign_pct_fully_vaccinated >= 0 &&
+    champaign_pct_fully_vaccinated <= 100 &&
+    champaign_avg_new_vaccine_doses >= 0 &&
+    champaign_month_ago_cases >= 0 && 
+    champaign_month_ago_deaths >= 0 && 
+    champaign_month_ago_vaccinated >= 0 &&
+    champaign_month_ago_vaccinated <= 100 &&
+    champaign_month_ago_new_doses >= 0
+) {
+  write_lines(web_text,"projects/covid/vaccines.md")
+}
+
