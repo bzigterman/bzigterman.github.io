@@ -384,7 +384,7 @@ fig <- hchart(idph_cases_vax_hosp,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 3, heights = c(1,1,1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = idph_cases_vax_hosp,
@@ -399,23 +399,13 @@ fig <- hchart(idph_cases_vax_hosp,
   hc_add_series(
     data = idph_cases_vax_hosp,
     hcaes(x = Date,
-          y = AdministeredCountRollAvg),
-    name = "Avg. New Vaccine Doses",
-    color = "#35978f",
-    label = list(
-      enabled = TRUE),
-    type = "line",
-    yAxis = 2) %>%
-  hc_add_series(
-    data = idph_cases_vax_hosp,
-    hcaes(x = Date,
           y = round(avg_hospitalized)),
     name = "Avg. Hospitalized",
     type = "line",
     label = list(
       enabled = TRUE),
     color = "#d90000",
-    yAxis = 3) %>%
+    yAxis = 2) %>%
   # hc_add_series(
   #   data = idph_cases_vax_hosp,
   #   hcaes(x = Date,
