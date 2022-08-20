@@ -1688,7 +1688,7 @@ webappicon: /covid.png
 
 ## Champaign County
 
-<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 ",better_cu_covid_table_html,"
