@@ -356,7 +356,8 @@ cdc_champaign_hosp <- cdc_champaign_data %>%
          percent_adult_icu_beds_used_confirmed_covid) %>%
   arrange(date) %>%
   mutate(date = ymd(date)) %>%
-  mutate(Date = ymd(date))
+  mutate(Date = ymd(date)) %>%
+  filter(date > ymd("2020-07-14"))
 
 ### combined ----
 
@@ -647,7 +648,7 @@ fig <- hchart(champaign_hosp,
   hc_yAxis_multiples(create_axis(naxis = 3, heights = c(1,1,1),
                                  title = list(text = NULL))) %>%
 hc_add_series(
-  data = idph_cases_vax_hosp,
+  data = champaign_hosp,
   hcaes(x = Date,
         y = round(percent_adult_inpatient_beds_used_confirmed_covid,
                   digits = 1)),
@@ -659,7 +660,7 @@ hc_add_series(
     enabled = TRUE),
   yAxis = 1) %>%
 hc_add_series(
-  data = idph_cases_vax_hosp,
+  data = champaign_hosp,
   hcaes(x = Date,
         y = round(percent_adult_icu_beds_used_confirmed_covid,
                   digits = 1)),
