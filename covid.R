@@ -621,7 +621,8 @@ cdc_champaign_hosp <- cdc_champaign_data %>%
          percent_adult_icu_beds_used_confirmed_covid) %>%
   arrange(date) %>%
   mutate(date = ymd(date)) %>%
-  mutate(Date = ymd(date))
+  mutate(Date = ymd(date)) %>%
+  filter(date > ymd("2020-07-14"))
 
 ### combined ----
 
