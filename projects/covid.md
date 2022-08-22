@@ -436,9 +436,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">100</td>
-<td class="gt_row gt_right">66</td>
-<td class="gt_row gt_right">&minus;34%</td></tr>
+<td class="gt_row gt_right">89</td>
+<td class="gt_row gt_right">64</td>
+<td class="gt_row gt_right">&minus;28%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">46</td>
 <td class="gt_row gt_right gt_striped">39</td>
@@ -450,7 +450,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -537,10 +537,10 @@ Definitions from the CDC:
 
 As of Sunday, the 14-day percent change in average new cases was:
   
-- -35% in Champaign County
-- -21% in Illinois
-- -10% in the United States
-- -20% worldwide
+- -28% in Champaign County
+- -18% in Illinois
+- -26% in the United States
+- -21% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -554,9 +554,9 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Sunday, the 14-day percent change in average new deaths was:
   
-- 0% in Illinois
-- 13% in the United States
-- 2% worldwide
+- -17% in Illinois
+- -9% in the United States
+- -3% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
