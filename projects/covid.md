@@ -441,8 +441,8 @@ html {
 <td class="gt_row gt_right">&minus;34%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">46</td>
-<td class="gt_row gt_right gt_striped">32</td>
-<td class="gt_row gt_right gt_striped">&minus;29%</td></tr>
+<td class="gt_row gt_right gt_striped">39</td>
+<td class="gt_row gt_right gt_striped">&minus;16%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">6</td>
 <td class="gt_row gt_right">5</td>
@@ -556,7 +556,7 @@ As of Sunday, the 14-day percent change in average new deaths was:
   
 - 0% in Illinois
 - 13% in the United States
-- 1% worldwide
+- 2% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
