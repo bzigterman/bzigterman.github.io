@@ -1238,3 +1238,4 @@ date,weather,temp,humidity,precip_one_hour
 2022-08-25T19:53:00Z,A Few Clouds,82,65,NA
 2022-08-25T20:53:00Z,Partly Cloudy,83,63,NA
 2022-08-25T21:53:00Z,Fair,81,69,NA
+2022-08-25T22:53:00Z,Thunderstorm in Vicinity,76,79,0.03
