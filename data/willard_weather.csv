@@ -1337,3 +1337,6 @@ date,weather,temp,humidity,precip_one_hour
 2022-08-29T21:53:00Z,Mostly Cloudy,87,72,NA
 2022-08-29T22:53:00Z,Fair,86,75,NA
 2022-08-29T23:53:00Z,Thunderstorm in Vicinity Haze,84,80,NA
+2022-08-30T00:53:00Z,Thunderstorm,81,91,0.01
+2022-08-30T01:53:00Z,Thunderstorm Light Rain,71,81,NA
+2022-08-30T02:53:00Z,Thunderstorm in Vicinity Light Rain,70,87,0.05
