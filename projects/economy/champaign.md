@@ -443,17 +443,17 @@ html {
 <td class="gt_row gt_right">293</td>
 <td class="gt_row gt_right">+6%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td class="gt_row gt_right gt_striped">43.0</td>
-<td class="gt_row gt_right gt_striped">36.0</td>
-<td class="gt_row gt_right gt_striped">&minus;16%</td></tr>
+<td class="gt_row gt_right gt_striped">46.0</td>
+<td class="gt_row gt_right gt_striped">38.0</td>
+<td class="gt_row gt_right gt_striped">&minus;17%</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
 <td class="gt_row gt_right">189,000</td>
 <td class="gt_row gt_right">190,000</td>
 <td class="gt_row gt_right">+1%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td class="gt_row gt_right gt_striped">1.61</td>
-<td class="gt_row gt_right gt_striped">1.27</td>
-<td class="gt_row gt_right gt_striped">&minus;21%</td></tr>
+<td class="gt_row gt_right gt_striped">1.11</td>
+<td class="gt_row gt_right gt_striped">1.04</td>
+<td class="gt_row gt_right gt_striped">&minus;7%</td></tr>
   </tbody>
   
   
