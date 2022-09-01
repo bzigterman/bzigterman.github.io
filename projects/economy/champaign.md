@@ -439,17 +439,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Active Listings</td>
-<td class="gt_row gt_right">276</td>
-<td class="gt_row gt_right">293</td>
-<td class="gt_row gt_right">+6%</td></tr>
+<td class="gt_row gt_right">305</td>
+<td class="gt_row gt_right">313</td>
+<td class="gt_row gt_right">+3%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Median Days on Market</td>
 <td class="gt_row gt_right gt_striped">46.0</td>
 <td class="gt_row gt_right gt_striped">38.0</td>
 <td class="gt_row gt_right gt_striped">&minus;17%</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
-<td class="gt_row gt_right">189,000</td>
-<td class="gt_row gt_right">190,000</td>
-<td class="gt_row gt_right">+1%</td></tr>
+<td class="gt_row gt_right">175,000</td>
+<td class="gt_row gt_right">195,000</td>
+<td class="gt_row gt_right">+11%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
 <td class="gt_row gt_right gt_striped">1.11</td>
 <td class="gt_row gt_right gt_striped">1.04</td>
