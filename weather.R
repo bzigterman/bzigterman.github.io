@@ -204,9 +204,9 @@ willard <- willard_html[[4]] %>%
   head(-3) %>%
   clean_names() %>%
   mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              ifelse(date <= 3,
-                                     month(today(tzone = "America/Chicago")),
-                                     month(today(tzone = "America/Chicago"))-1),
+                              ifelse(as.numeric(date) <= 3,
+                                     month(today(tzone = "America/Chicago"))-1,
+                                     month(today(tzone = "America/Chicago"))),
                               "-",
                               date,"-",
                               time_cdt),
