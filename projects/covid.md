@@ -436,13 +436,13 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">64</td>
-<td class="gt_row gt_right">219</td>
-<td class="gt_row gt_right">+244%</td></tr>
+<td class="gt_row gt_right">66</td>
+<td class="gt_row gt_right">238</td>
+<td class="gt_row gt_right">+263%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">32</td>
+<td class="gt_row gt_right gt_striped">39</td>
 <td class="gt_row gt_right gt_striped">33</td>
-<td class="gt_row gt_right gt_striped">+2%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;14%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">5</td>
 <td class="gt_row gt_right">4</td>
@@ -450,7 +450,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -537,8 +537,8 @@ Definitions from the CDC:
 
 As of Thursday, the 14-day percent change in average new cases was:
   
-- 244% in Champaign County
-- 6% in Illinois
+- 263% in Champaign County
+- 7% in Illinois
 - -16% in the United States
 - -25% worldwide
 
@@ -554,7 +554,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Thursday, the 14-day percent change in average new deaths was:
   
-- 8% in Illinois
+- 9% in Illinois
 - 9% in the United States
 - -9% worldwide
 
