@@ -1501,3 +1501,6 @@ date,weather,temp,humidity,precip_one_hour
 2022-09-03T21:53:00Z,Overcast,78,74,NA
 2022-09-03T22:53:00Z,Light Rain,77,74,NA
 2022-09-03T23:53:00Z,Overcast,75,84,NA
+2022-09-04T00:53:00Z,Overcast,74,85,NA
+2022-09-04T01:53:00Z,Overcast,74,85,NA
+2022-09-04T02:53:00Z,Light Rain,72,94,0.01
