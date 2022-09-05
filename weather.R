@@ -204,21 +204,27 @@ willard <- willard_html[[4]] %>%
   head(-3) %>%
   clean_names() %>%
   mutate(date = as.numeric(date)) %>%
-  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              ifelse(date <= 3,
-                                     month(today(tzone = "America/Chicago")),
-                                     month(today(tzone = "America/Chicago"))-1),
-                              "-",
-                              date," ",
-                              time_cdt),
-                       tz = "US/Central")) %>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
   mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
+  select(date,time_cdt,weather,temp, humidity, precip_one_hour)
+
+latest_date <- willard$date[[1]]
+
+willard <- willard %>%
+  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
+                              ifelse(latest_date <= 3 && date >20,
+                                     month(today(tzone = "America/Chicago"))-1,
+                                     month(today(tzone = "America/Chicago"))),
+                              "-",
+                              date," ",
+                              time_cdt),
+                       tz = "US/Central")) %>%
   select(date,weather,temp, humidity, precip_one_hour)
+
 champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
 champaign_rain_text <- ifelse(champaign_rain > 0, 
                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours"),
