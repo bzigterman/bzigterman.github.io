@@ -436,9 +436,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">66</td>
-<td class="gt_row gt_right">238</td>
-<td class="gt_row gt_right">+263%</td></tr>
+<td class="gt_row gt_right">71</td>
+<td class="gt_row gt_right">190</td>
+<td class="gt_row gt_right">+168%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">39</td>
 <td class="gt_row gt_right gt_striped">30</td>
@@ -450,7 +450,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -537,7 +537,7 @@ Definitions from the CDC:
 
 As of Monday, the 14-day percent change in average new cases was:
   
-- 263% in Champaign County
+- 168% in Champaign County
 - 7% in Illinois
 - -24% in the United States
 - -15% worldwide
