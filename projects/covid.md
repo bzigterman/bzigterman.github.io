@@ -436,9 +436,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">71</td>
-<td class="gt_row gt_right">190</td>
-<td class="gt_row gt_right">+168%</td></tr>
+<td class="gt_row gt_right">77</td>
+<td class="gt_row gt_right">175</td>
+<td class="gt_row gt_right">+128%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">39</td>
 <td class="gt_row gt_right gt_striped">30</td>
@@ -450,7 +450,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
