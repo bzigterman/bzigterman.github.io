@@ -819,7 +819,6 @@ df_newer <- head(do.call(rbind, by(df_new, normal_monthly_precip$month, rbind, "
   select(date,normal_monthly_precip)
 
 
-
 normals <- read_csv("data/normals.csv") %>%
   filter(date != "02-29") %>%
   mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
