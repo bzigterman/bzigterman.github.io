@@ -1687,3 +1687,7 @@ date,weather,temp,humidity,precip_one_hour
 2022-09-10T20:53:00Z,Mostly Cloudy,83,59,NA
 2022-09-10T21:53:00Z,A Few Clouds,83,55,NA
 2022-09-10T22:53:00Z,Mostly Cloudy,78,69,NA
+2022-09-10T23:53:00Z,A Few Clouds,76,79,NA
+2022-09-11T00:53:00Z,Fair,70,90,NA
+2022-09-11T01:53:00Z,Overcast,72,87,NA
+2022-09-11T02:53:00Z,A Few Clouds,70,90,NA
