@@ -1740,3 +1740,7 @@ date,weather,temp,humidity,precip_one_hour
 2022-09-13T01:53:00Z,Overcast,59,83,NA
 2022-09-13T02:53:00Z,Overcast,59,87,NA
 2022-09-13T03:53:00Z,Overcast,57,93,NA
+2022-09-13T04:53:00Z,Partly Cloudy,55,93,NA
+2022-09-13T05:53:00Z,Overcast,57,93,NA
+2022-09-13T06:53:00Z,Overcast,57,93,NA
+2022-09-13T07:53:00Z,Overcast,58,93,NA
