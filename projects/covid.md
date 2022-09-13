@@ -437,8 +437,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">160</td>
-<td class="gt_row gt_right">104</td>
-<td class="gt_row gt_right">&minus;35%</td></tr>
+<td class="gt_row gt_right">105</td>
+<td class="gt_row gt_right">&minus;34%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">33</td>
 <td class="gt_row gt_right gt_striped">29</td>
