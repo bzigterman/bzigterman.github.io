@@ -1,16 +1,17 @@
-name: websiteupdater
+name: autowater
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 5 * * *'
+  push:
+    paths:
+      - 'water.R'
 
 jobs:
-  run-websiteupdater:
+  run-autowater:
     runs-on: macOS-latest
     env:
-      OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
-      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
@@ -26,27 +27,17 @@ jobs:
           
       - name: Install packages
         if: steps.cache-r-packages.outputs.cache-hit != 'true'        
-        run: |-
-          brew install pkg-config
-          brew install gdal
-          brew install proj
-          R -e 'source("install-packages.R", echo = TRUE)'
+        run: R -e 'source("install-packages.R", echo = TRUE)'
         
-      - name: Download Parse and Update Data
-        run: |-
-          Rscript economy.R
-          Rscript water.R
-          Rscript covid.R
-          Rscript basketball.R
-          Rscript news.R
-          Rscript baseball.R
+      - name: Download Parse and Update Water Data
+        run: Rscript water.R
         
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed
         run: |-
-          git config user.name "websiteupdater"
+          git config user.name "autowater"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "Latest water data: ${timestamp}" || exit 0
           git push

@@ -16,6 +16,8 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [News Rivers]({{ site.baseurl }}/projects/news)
 
+## [Water]({{ site.baseurl }}/projects/water)
+
 ## [Weather]({{ site.baseurl }}/projects/weather)
 
 <details>
