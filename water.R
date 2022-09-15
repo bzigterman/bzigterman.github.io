@@ -22,9 +22,10 @@ data <- json$Series[[10]][[8]] %>%
   summarise(value=last(value))
 
 mead_data <- read_csv(file = "data/mead_elevation.csv") 
-mead_data_update <- full_join(data,mead_data) %>%
-  unique() %>%
-  arrange(date) 
+mead_data_update <- full_join(mead_data,data) %>%
+  arrange(date) %>%
+  group_by(date) %>%
+  summarise(value=first(value))
 
 write_csv(x = mead_data_update,
           file = "data/mead_elevation.csv")
