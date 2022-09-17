@@ -16,21 +16,17 @@ data <- json$Series[[10]][[8]] %>%
   mutate(date = mdy_hms(t)) %>%
   mutate(value = as.numeric(v)) %>%
   select(date, value) %>%
-  drop_na() %>% 
-  mutate(date = as.Date(date)) %>%
-  group_by(date) %>%
-  summarise(value=last(value))
+  drop_na() 
 
 mead_data <- read_csv(file = "data/mead_elevation.csv") 
 mead_data_update <- full_join(mead_data,data) %>%
-  arrange(date) %>%
-  group_by(date) %>%
-  summarise(value=first(value))
+  distinct(date, .keep_all = TRUE) %>%
+  arrange(date)
 
 write_csv(x = mead_data_update,
           file = "data/mead_elevation.csv")
 
-fig <- hchart(mead_data_update, "line", hcaes(x = date,
+fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                                               y = value),
               name = "Water Level") %>%
   hc_title(text = "Water Level") %>%
@@ -39,17 +35,17 @@ fig <- hchart(mead_data_update, "line", hcaes(x = date,
     text = "Source: U.S. Bureau of Reclamation",
     href = "https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0") %>%
   hc_yAxis(title = "") %>%
-  hc_xAxis(title = "") %>%
+  hc_xAxis(title = "",
+           type = "datetime") %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'month', count = 1, text = '1m'),
+                     list(type = 'month', count = 3, text = '3m'),
                      list(type = 'year', count = 1, text = '1y'),
                      list(type = 'year', count = 10, text = '5y'),
                      list(type = 'year', count = 25, text = '25y'),
-                     list(type = 'year', count = 50, text = '50y'),
                      list(type = 'all', text = 'All')),
                    selected = 2)
 fig
