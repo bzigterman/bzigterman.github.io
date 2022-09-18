@@ -1855,3 +1855,5 @@ date,weather,temp,humidity,precip_one_hour
 2022-09-17T20:53:00Z,Partly Cloudy,84,43,NA
 2022-09-17T21:53:00Z,Fair,83,44,NA
 2022-09-17T22:53:00Z,Fair,82,46,NA
+2022-09-17T23:53:00Z,Fair,75,62,NA
+2022-09-18T00:53:00Z,Fair,73,66,NA
