@@ -28,13 +28,21 @@ write_csv(x = mead_data_update,
 
 fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                                               y = value),
+              color = "#199fa8",
+              negativeColor = "#b32704",
+              threshold = 895,
               name = "Water Level") %>%
   hc_title(text = "Water Level") %>%
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: U.S. Bureau of Reclamation",
-    href = "https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           plotLines = list(
+             list(
+               label = list(text = "Dead Pool Level",
+                            align = "right",
+                            x = -5),
+               color = "#808080",
+               width = 1.5,
+               value = 895,
+               zIndex = 1))) %>%
   hc_xAxis(title = "",
            type = "datetime") %>%
   hc_add_theme(
