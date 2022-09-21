@@ -138,7 +138,7 @@ fig1 <- hcmap("countries/us/us-il-all",
     text = "Source: CDC,",
     href = "https://covid.cdc.gov/covid-data-tracker/") %>%
   hc_colorAxis(
-    dataClasses = color_classes(breaks = c(0,5,15,25,35,50,100,1000),
+    dataClasses = color_classes(breaks = c(0,5,15,25,35,50,100,999),
                                 colors = c(brewer.pal(8,"Oranges")))
   ) %>%
   hc_legend(
@@ -1788,8 +1788,6 @@ This chart measures how quickly the average number of new cases is changing, or 
 </picture>
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
-
-## [Vaccines »]({{ site.baseurl }}/projects/covid/vaccines)
 
 ### Sources
 
