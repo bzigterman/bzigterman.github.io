@@ -50,9 +50,7 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 10, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
                      list(type = 'year', count = 25, text = '25y'),
                      list(type = 'all', text = 'All')),
                    selected = 2)
