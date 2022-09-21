@@ -232,7 +232,7 @@ champaign_rain_text <- ifelse(champaign_rain > 0,
 
 willard_data <- read_csv(file = "data/willard_weather.csv") 
 willard_data_update <- full_join(willard,willard_data) %>%
-  unique() %>%
+  distinct(date, .keep_all = TRUE) %>%
   arrange(date)
 
 write_csv(x = willard_data_update,
@@ -243,12 +243,14 @@ willard_data_updated <- willard_data_update %>%
   full_join(isws) %>%
   arrange(date)
 
-## NCEI ----
-# earliest <- "1902-08-01"
-# latest <- as.character(ymd(today(tzone = "America/Chicago")))
-# url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
-# ncei <- content(GET(url))
-
+# ## NCEI ----
+#  earliest <- "1902-08-01"
+#  latest <- as.character(ymd(today(tzone = "America/Chicago")))
+#  url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USW00094870&startDate=",earliest,"&endDate=",latest,"&units=standard")
+#  ncei <- content(GET(url))
+#  ncei_updated <- ncei %>% filter(DATE >= as.Date("2022-08-01")) %>%
+#    filter(DATE < as.Date("2022-09-01"))
+# sum(ncei_updated$PRCP)
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
