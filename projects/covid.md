@@ -555,7 +555,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
 - 27% in Illinois
-- 8% in the United States
+- 7% in the United States
 - -18% worldwide
 
 <picture>
