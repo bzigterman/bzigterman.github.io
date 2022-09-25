@@ -1039,12 +1039,22 @@ ggsave("plots/mlb_wild_card_mobile.png",
        width = 4, height = 4, dpi = 320)
 
 
-hc_al_games <- al_games_plus %>%
+hc_al_games <- mlb_standings_magic %>%
+  filter(league == "AL") %>%
+  ungroup() %>%
+  full_join(al_games) %>%
+  group_by(team) %>%
+  fill(division_or_elim, .direction = "downup") %>%
   select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
 
-hc_nl_games <- nl_games_plus %>%
+hc_nl_games <- mlb_standings_magic %>%
+  filter(league == "NL") %>%
+  ungroup() %>%
+  full_join(nl_games) %>%
+  group_by(team) %>%
+  fill(division_or_elim, .direction = "downup") %>%
   select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
