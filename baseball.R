@@ -23,7 +23,6 @@ get_team_records <- function(abbreviation) {
     mutate(result = if_else((team2 == abbreviation),
                             if_else((score2 > score1),"W","L"),
                             if_else((score1 > score2),"W","L"))) %>%
-    drop_na(result) %>%
     mutate(game_n = row_number()) %>%
     select(date, game_n, result) %>%
     mutate(win = if_else(result == "W",1,0)) %>%
@@ -47,7 +46,7 @@ get_team_records <- function(abbreviation) {
     )
     ) %>%
     mutate(games_played = cumsum(game_counter)) %>%
-    mutate(games_remaining = 162-games_played) %>%
+    mutate(games_remaining = max(game_n)-games_played) %>%
     mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NULL))  %>%
     mutate(result_arrow = if_else(result == "W","▀",
                                   if_else(result == "L","▄",""))) %>%
@@ -357,7 +356,7 @@ division_standings <- full_join(al_central_standings_magic, al_east_standings_ma
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text,
-         division_games_behind, division_magic_number, 
+         division_games_behind, division_magic_number, games_remaining,
          division_elimination_number,division_magic_or_eliminated,
          last_ten, outcomes, division, division_place, league)
 
@@ -430,6 +429,7 @@ standings_table <- division_standings %>%
     wins = "W",
     losses = "L",
     division_games_behind = "GB",
+    games_remaining = "GR",
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     division_magic_or_eliminated = html("M#<br>/E#"),
