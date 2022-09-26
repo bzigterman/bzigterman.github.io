@@ -436,26 +436,26 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">120</td>
-<td class="gt_row gt_right">35</td>
-<td class="gt_row gt_right">&minus;71%</td></tr>
+<td class="gt_row gt_right">98</td>
+<td class="gt_row gt_right">27</td>
+<td class="gt_row gt_right">&minus;72%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">29</td>
 <td class="gt_row gt_right gt_striped">33</td>
 <td class="gt_row gt_right gt_striped">+12%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td class="gt_row gt_right">4</td>
 <td class="gt_row gt_right">3</td>
-<td class="gt_row gt_right">&minus;25%</td></tr>
+<td class="gt_row gt_right">3</td>
+<td class="gt_row gt_right">0%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 302  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 303  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -537,7 +537,7 @@ Definitions from the CDC:
 
 As of Sunday, the 14-day percent change in average new cases was:
   
-- -71% in Champaign County
+- -72% in Champaign County
 - -15% in Illinois
 - -19% in the United States
 - -11% worldwide
