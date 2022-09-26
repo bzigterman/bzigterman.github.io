@@ -678,8 +678,12 @@ al_standings_magic <- mlb_standings %>%
                          "WC",
                          ifelse(wild_cardss == "WC3",
                                 "WC",
-                                division_leaders)
-                  ))) %>%
+                                ifelse(division_magic_number=="✓",
+                                       paste(division_leaders,
+                                             division_magic_number,
+                                             sep=""),
+                                       division_leaders)
+                         )))) %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
@@ -734,8 +738,12 @@ nl_standings_magic <- mlb_standings %>%
                          "WC",
                          ifelse(wild_cardss == "WC3",
                                 "WC",
-                                division_leaders)
-                  ))) %>%
+                                ifelse(division_magic_number=="✓",
+                                       paste(division_leaders,
+                                             division_magic_number,
+                                             sep=""),
+                                       division_leaders)
+                         )))) %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
