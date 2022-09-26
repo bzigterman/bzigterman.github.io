@@ -416,8 +416,7 @@ standings_table <- division_standings %>%
   cols_hide(columns = c(win_pct, league,last_ten, net_wins,
                         division_magic_number,
                         division_elimination_number,
-                        division_place, 
-                        division_magic_or_eliminated)) %>% # hide this until new playoffs figured out
+                        division_place, games_remaining)) %>% # hide this until new playoffs figured out
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text, logo_url, outcomes,
@@ -633,8 +632,9 @@ al_standings <- al_games %>%
   mutate(league_place = row_number()) 
 al_standings_elim <- al_standings %>%
   mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
-  mutate(league_elimination_number = if_else(league_place != 1:5,
-                                             (163 - fifth_place_wins - losses),
+  mutate(sixth_place_wins = al_standings$wins[[6]]) %>%
+  mutate(league_elimination_number = if_else(league_place != 1:6,
+                                             (163 - sixth_place_wins - losses),
                                              NULL))
 nl_standings <- nl_games %>%
   filter(!is.na(team_label)) %>%
@@ -642,8 +642,9 @@ nl_standings <- nl_games %>%
   mutate(league_place = row_number()) 
 nl_standings_elim <- nl_standings %>%
   mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
-  mutate(league_elimination_number = if_else(league_place != 1:5,
-                                             (163 - fifth_place_wins - losses),
+  mutate(sixth_place_wins = nl_standings$wins[[6]]) %>%
+  mutate(league_elimination_number = if_else(league_place != 1:6,
+                                             (163 - sixth_place_wins - losses),
                                              NULL))
 
 mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
@@ -675,17 +676,17 @@ al_standings_magic <- mlb_standings %>%
                   "WC",
                   ifelse(wild_cardss == "WC2",
                          "WC",
-                         ifelse(division_magic_number=="✓",
-                                paste(division_leaders,division_magic_number,sep=""),
+                         ifelse(wild_cardss == "WC3",
+                                "WC",
                                 division_leaders)
                   ))) %>%
   ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cardss == "WC2",
+  mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cardss == "WC2",
+  mutate(second_wc_losses = if_else(wild_cardss == "WC3",
                                     losses,
                                     NULL)) %>%
   fill(second_wc_losses, 
@@ -731,17 +732,17 @@ nl_standings_magic <- mlb_standings %>%
                   "WC",
                   ifelse(wild_cardss == "WC2",
                          "WC",
-                         ifelse(division_magic_number=="✓",
-                                paste(division_leaders,division_magic_number,sep=""),
+                         ifelse(wild_cardss == "WC3",
+                                "WC",
                                 division_leaders)
                   ))) %>%
   ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cardss == "WC2",
+  mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cardss == "WC2",
+  mutate(second_wc_losses = if_else(wild_cardss == "WC3",
                                     losses,
                                     NULL)) %>%
   fill(second_wc_losses, 
@@ -769,7 +770,7 @@ mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
 
 wild_card_table <- mlb_standings_magic %>%
   select(logo_url, team_label, wins, losses, 
-         win_pct,win_pct_text, wc_games_behind,
+         win_pct,win_pct_text, games_remaining, wc_games_behind,
          division_or_elim,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
@@ -787,19 +788,20 @@ wild_card_table <- mlb_standings_magic %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct,
-                        division_or_elim)) %>% #hide until figure out new playoffs
+  cols_hide(columns = c(win_pct, games_remaining)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
-    columns = c(win_pct_text, wc_games_behind, logo_url, outcomes, division_or_elim)
+    columns = c(win_pct_text, logo_url,
+                outcomes, wc_games_behind, 
+                division_or_elim)
   ) %>%
   cols_label(
     logo_url = "",
     team_label = "Team",
     wins = "W",
     losses = "L",
-    wc_games_behind = "GB",
     win_pct_text = "Pct",
+    wc_games_behind = "GB",
     division_or_elim = "E#",
     outcomes = html("Last 10 Games")
   ) %>%
