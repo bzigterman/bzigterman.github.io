@@ -1981,3 +1981,6 @@ date,weather,temp,humidity,precip_one_hour
 2022-09-25T20:53:00Z,Partly Cloudy,74,43,NA
 2022-09-25T21:53:00Z,Overcast and Breezy,73,46,NA
 2022-09-25T22:53:00Z,A Few Clouds,70,47,NA
+2022-09-25T23:53:00Z,Fair,62,65,NA
+2022-09-26T00:53:00Z,Partly Cloudy,59,72,NA
+2022-09-26T01:53:00Z,Overcast,60,67,NA
