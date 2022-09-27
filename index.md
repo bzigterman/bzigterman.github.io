@@ -16,7 +16,7 @@ Hello! This is my website. Here's what I'm up to:
 - Intern at [The Beaver County Times](https://www.timesonline.com/)
 - Editor for [The Daily Sophist](http://web.archive.org/web/20140112024227/http://dailysophist.com/)
 - Head Copy Editor for [The Chicago Maroon](https://www.chicagomaroon.com/)
-- Bachelor of Arts (with Honors!) in history at the University of Chicago, Class of 2014
+- History major at the University of Chicago, Class of 2014
 - and [some other stuff]({{ site.baseurl }}/resume)
 
 You can contact me on Twitter at [@bzigterman](http://twitter.com/bzigterman) or by email at <ben@bzigterman.com>.
