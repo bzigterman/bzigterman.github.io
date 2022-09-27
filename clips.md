@@ -96,11 +96,11 @@ Here's some of my best work:
 ## BGR
 
 * [**Outgoing NSA director: ‘It’s not our mission’ to spy on everyone in the world**](https://bgr.com/2014/02/17/nsa-telephone-metadata-recommendations/)
-* [Apple accidentally revealed that transit directions are coming to iOS](https://bgr.com/2014/06/09/apple-ios-maps-transit-directions-ios-8-1-leaked-screenshot/)
 
 ## The Daily Sophist
 
 * [_Chicago Weekly_ to be Renamed the _South Side Weekly_]({{ site.baseurl }}/clips/chicago-weekly-renamed)
 * [Scav 2013 – The Hunt Begins]({{ site.baseurl }}/clips/scav-2013)
-* [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi]({{ site.baseurl }}/clips/eric-holder-iop)
-* [SVNA strikes again, decorating Harper as "10th circle of hell"]({{ site.baseurl }}/clips/svna-strikes-again)
+* [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi](https://web.archive.org/web/20140503004054/http://dailysophist.com/stories/305-eric-holder-and-panelists-gather-to-praise-themselves-and-edward-levi)
+* [SVNA strikes again, decorating Harper as "10th circle of hell"](https://web.archive.org/web/20141231191143/http://dailysophist.com/stories/393-svna-strikes-again-decorating-harper-as-10th-circle-of-hell)
+
