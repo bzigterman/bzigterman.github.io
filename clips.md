@@ -70,27 +70,27 @@ Here's some of my best work:
 
 ### 2016
 
-* February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://www.galesburg.com/article/20160221/NEWS/160229973)
-* January 5: [ District 205 administration proposes cutting 75 positions to save $3.2 million](https://www.galesburg.com/news/20160105/district-205-administration-proposes-cutting-75-positions-to-save-32-million)
+* February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://web.archive.org/web/https://www.galesburg.com/article/20160221/NEWS/160229973)
+* January 5: [District 205 administration proposes cutting 75 positions to save $3.2 million](https://web.archive.org/web/https://www.galesburg.com/news/20160105/district-205-administration-proposes-cutting-75-positions-to-save-32-million)
 
 ### 2015
 
 <!-- * December 13: [GHS North back on chopping block](https://www.galesburg.com/article/20151213/NEWS/151219924) -->
 <!-- * December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930) -->
 <!-- * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916) -->
-* November 1: [A year after the closing of Cooke School](https://www.galesburg.com/article/20151101/NEWS/151109996)
+* November 1: [A year after the closing of Cooke School](https://web.archive.org/web/https://www.galesburg.com/article/20151101/NEWS/151109996)
 <!--* October 21: [Take Back the Night message: Stop blaming the victims](https://www.galesburg.com/article/20151020/NEWS/151029975)-->
-* September 29: [**District 205 officials disband budget reduction committee after challenge about closed meetings**](https://www.galesburg.com/article/20150929/NEWS/150929701)
-* May 22: [Impact of abuse often lasts a lifetime](https://www.galesburg.com/article/20150522/NEWS/150529897)
-* May 21: [Multiple arrests common for offenders](https://www.galesburg.com/article/20150521/NEWS/150529942)
-* April 26: [Area Vietnam veterans recall their war 40 years after its end](https://www.galesburg.com/article/20150426/NEWS/150429788)
-* March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://www.galesburg.com/article/20150301/NEWS/150309993)
+* September 29: [**District 205 officials disband budget reduction committee after challenge about closed meetings**](https://web.archive.org/web/https://www.galesburg.com/article/20150929/NEWS/150929701)
+* May 22: [Impact of abuse often lasts a lifetime](https://web.archive.org/web/https://www.galesburg.com/article/20150522/NEWS/150529897)
+* May 21: [Multiple arrests common for offenders](https://web.archive.org/web/https://www.galesburg.com/article/20150521/NEWS/150529942)
+* April 26: [Area Vietnam veterans recall their war 40 years after its end](https://web.archive.org/web/https://www.galesburg.com/article/20150426/NEWS/150429788)
+* March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://web.archive.org/web/https://www.galesburg.com/article/20150301/NEWS/150309993)
 
 ## The Beaver County Times
 
-* [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://www.timesonline.com/7d5e2ce1-ed6f-5314-af7c-c49e3a9890bd.html)
-* [Safety group: Falling furniture a common problem with deadly consequences](https://www.timesonline.com/article/20140717/lifestyle/307179926?template=ampart)
-* [Rusyn Food Festival celebrates 21st year](https://www.timesonline.com/article/20140808/Lifestyle/308089938)
+* [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://web.archive.org/web/https://www.timesonline.com/7d5e2ce1-ed6f-5314-af7c-c49e3a9890bd.html)
+* [Safety group: Falling furniture a common problem with deadly consequences](https://web.archive.org/web/https://www.timesonline.com/article/20140717/lifestyle/307179926?template=ampart)
+* [Rusyn Food Festival celebrates 21st year](https://web.archive.org/web/https://www.timesonline.com/article/20140808/Lifestyle/308089938)
 <!--- * [Habitat for Humanity home dedication scheduled for Tuesday in New Brighton](https://www.timesonline.com/16f1dab5-ca42-5c7a-8e02-412e0eb7047c.html) --->
 
 ## BGR
