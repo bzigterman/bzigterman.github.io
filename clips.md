@@ -88,9 +88,9 @@ Here's some of my best work:
 
 ## The Beaver County Times
 
-* [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://web.archive.org/web/https://www.timesonline.com/7d5e2ce1-ed6f-5314-af7c-c49e3a9890bd.html)
-* [Safety group: Falling furniture a common problem with deadly consequences](https://web.archive.org/web/https://www.timesonline.com/article/20140717/lifestyle/307179926?template=ampart)
-* [Rusyn Food Festival celebrates 21st year](https://web.archive.org/web/https://www.timesonline.com/article/20140808/Lifestyle/308089938)
+* [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://web.archive.org/web/https://www.timesonline.com/story/news/local/2014/07/23/report-pennsylvania-receives-d-for/18484191007/)
+* [Safety group: Falling furniture a common problem with deadly consequences](https://web.archive.org/web/https://www.timesonline.com/story/lifestyle/health-fitness/2014/07/17/safety-group-falling-furniture-common/18495328007/)
+* [Rusyn Food Festival celebrates 21st year](https://web.archive.org/web/https://www.timesonline.com/story/lifestyle/around-town/2014/08/08/rusyn-food-festival-celebrates-21st/18492286007/)
 <!--- * [Habitat for Humanity home dedication scheduled for Tuesday in New Brighton](https://www.timesonline.com/16f1dab5-ca42-5c7a-8e02-412e0eb7047c.html) --->
 
 ## BGR
