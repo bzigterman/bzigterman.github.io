@@ -79,10 +79,10 @@ Here's some of my best work:
 <!-- * December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930) -->
 <!-- * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916) -->
 * November 1: [A year after the closing of Cooke School](https://web.archive.org/web/https://www.galesburg.com/article/20151101/NEWS/151109996)
-<!--* October 21: [Take Back the Night message: Stop blaming the victims](https://www.galesburg.com/article/20151020/NEWS/151029975)-->
+<!-- * October 21: [Take Back the Night message: Stop blaming the victims](https://www.galesburg.com/article/20151020/NEWS/151029975)-->
 * September 29: [**District 205 officials disband budget reduction committee after challenge about closed meetings**](https://web.archive.org/web/https://www.galesburg.com/article/20150929/NEWS/150929701)
 * May 22: [Impact of abuse often lasts a lifetime](https://web.archive.org/web/https://www.galesburg.com/article/20150522/NEWS/150529897)
-* May 21: [Multiple arrests common for offenders](https://web.archive.org/web/https://www.galesburg.com/story/news/2015/05/21/multiple-arrests-common-for-offenders/34513138007/)
+<!-- * May 21: [Multiple arrests common for offenders](https://web.archive.org/web/https://www.galesburg.com/story/news/2015/05/21/multiple-arrests-common-for-offenders/34513138007/) -->
 * April 26: [Area Vietnam veterans recall their war 40 years after its end](https://web.archive.org/web/https://www.galesburg.com/article/20150426/NEWS/150429788)
 * March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://web.archive.org/web/https://www.galesburg.com/article/20150301/NEWS/150309993)
 
