@@ -33,8 +33,8 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                                hour = "%b %e, %Y, %l %p"
                                )),
               color = "#199fa8",
-              negativeColor = "#b32704",
-              threshold = 895,
+              #negativeColor = "#b32704",
+              #threshold = 895,
               name = "Level") %>%
   hc_yAxis(title = "",
            plotLines = list(
@@ -53,10 +53,11 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
+                     list(type = 'year', count = 2, text = '2y'),
                      list(type = 'year', count = 10, text = '10y'),
-                     list(type = 'year', count = 40, text = '40y'),
+                     list(type = 'year', count = 30, text = '30y'),
                      list(type = 'all', text = 'All')),
-                   selected = 0)
+                   selected = 3)
 fig
 saveWidget(widget = fig, file = "interactive/lake_mead_water_level.html",
            selfcontained = FALSE,
