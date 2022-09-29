@@ -39,12 +39,21 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
   hc_yAxis(title = "",
            plotLines = list(
              list(
-               label = list(text = "Dead Pool Level",
+               label = list(text = "Dead Pool",
                             align = "right",
                             x = -5),
                color = "#808080",
                width = 1.5,
                value = 895,
+               zIndex = 1)),
+           plotLines = list(
+             list(
+               label = list(text = "Full Pool",
+                            align = "right",
+                            x = -5),
+               color = "#808080",
+               width = 1.5,
+               value = 1229,
                zIndex = 1))) %>%
   hc_xAxis(title = "",
            type = "datetime") %>%
