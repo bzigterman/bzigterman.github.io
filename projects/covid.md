@@ -539,8 +539,8 @@ As of Wednesday, the 14-day percent change in average new cases was:
   
 - -60% in Champaign County
 - -25% in Illinois
-- -25% in the United States
-- -10% worldwide
+- -23% in the United States
+- -9% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -555,7 +555,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
 - -31% in Illinois
-- -1% in the United States
+- -2% in the United States
 - -16% worldwide
 
 <picture>
