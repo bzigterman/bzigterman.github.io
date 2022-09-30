@@ -356,7 +356,8 @@ division_standings <- full_join(al_central_standings_magic, al_east_standings_ma
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text,
-         division_games_behind, division_magic_number, games_remaining,
+         games_remaining,
+         division_games_behind, division_magic_number, 
          division_elimination_number,division_magic_or_eliminated,
          last_ten, outcomes, division, division_place, league)
 
@@ -416,10 +417,10 @@ standings_table <- division_standings %>%
   cols_hide(columns = c(win_pct, league,last_ten, net_wins,
                         division_magic_number,
                         division_elimination_number,
-                        division_place, games_remaining)) %>% # hide this until new playoffs figured out
+                        division_place)) %>% # hide this until new playoffs figured out
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url, outcomes,
+    columns = c(last_ten,win_pct_text, logo_url, outcomes,games_remaining,
                 division_magic_or_eliminated)
   ) %>%
   cols_label(
@@ -796,11 +797,11 @@ wild_card_table <- mlb_standings_magic %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, games_remaining)) %>% #hide until figure out new playoffs
+  cols_hide(columns = c(win_pct)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
     columns = c(win_pct_text, logo_url,
-                outcomes, wc_games_behind, 
+                outcomes, games_remaining, wc_games_behind, 
                 division_or_elim)
   ) %>%
   cols_label(
@@ -809,6 +810,7 @@ wild_card_table <- mlb_standings_magic %>%
     wins = "W",
     losses = "L",
     win_pct_text = "Pct",
+    games_remaining = "GR",
     wc_games_behind = "GB",
     division_or_elim = "E#",
     outcomes = html("Last 10 Games")
