@@ -9,10 +9,22 @@ permalink: /projects/water
 <iframe src="/interactive/lake_mead_water_level.html" width="100%" height="450"> 
 </iframe>
 
+Elevation:
+- Latest:1045.04
+- Year ago: 1067.68
+- Change: -2.1%↓
+
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
 <iframe src="/interactive/lake_powell_water_level.html" width="100%" height="450"> 
 </iframe>
 
+Elevation:
+- Latest:3529.43
+- Year ago: 3545.33
+- Change: -0.4%↓
+
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
+
+
 
