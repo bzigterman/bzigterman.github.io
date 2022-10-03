@@ -29,10 +29,10 @@ page_2 <- get_mead_records(2)
 page_3 <- get_mead_records(3)
 page_4 <- get_mead_records(4)
 mead_records <- full_join(page_1,
-                            page_2) %>%
+                          page_2) %>%
   full_join(page_3) %>%
   full_join(page_4) %>%
-  mutate(date = ymd_hms(attributes_date_time)) %>%
+  mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
   mutate(value = attributes_result) %>%
   select(date, value)
 
@@ -54,17 +54,13 @@ powell_3 <- get_powell_records(3)
 powell_records <- full_join(powell_1,
                             powell_2) %>%
   full_join(powell_3) %>%
-  mutate(date = ymd_hms(attributes_date_time)) %>%
+  mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
   mutate(value = attributes_result) %>%
   select(date, value)
 
 ## charts ----
-fig <- hchart(mead_records, "line", hcaes(x = datetime_to_timestamp(date),
-                                              y = value),
-              tooltip = list(valueSuffix = " ft",
-                             dateTimeLabelFormats = list(
-                               hour = "%b %e, %Y, %l %p"
-                             )),
+fig <- hchart(mead_records, "line", hcaes(x = date,
+                                          y = value),
               color = "#199fa8",
               animation = FALSE,
               name = "Level") %>%
@@ -86,8 +82,7 @@ fig <- hchart(mead_records, "line", hcaes(x = datetime_to_timestamp(date),
                width = 1.5,
                value = 1229,
                zIndex = 1))) %>%
-  hc_xAxis(title = "",
-           type = "datetime") %>%
+  hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
@@ -103,12 +98,8 @@ saveWidget(widget = fig, file = "interactive/lake_mead_water_level.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-fig <- hchart(powell_records, "line", hcaes(x = datetime_to_timestamp(date),
-                                              y = value),
-              tooltip = list(valueSuffix = " ft",
-                             dateTimeLabelFormats = list(
-                               hour = "%b %e, %Y, %l %p"
-                             )),
+fig <- hchart(powell_records, "line", hcaes(x = date,
+                                            y = value),
               color = "#199fa8",
               animation = FALSE,
               name = "Level") %>%
@@ -130,8 +121,7 @@ fig <- hchart(powell_records, "line", hcaes(x = datetime_to_timestamp(date),
                width = 1.5,
                value = 3708.34,
                zIndex = 1))) %>%
-  hc_xAxis(title = "",
-           type = "datetime") %>%
+  hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
