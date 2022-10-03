@@ -37,7 +37,10 @@ mead_records <- full_join(page_1,
   select(date, value)
 
 latest_mead <- tail(mead_records,1)$value
+latest_mead_text <- format(round(tail(mead_records,1)$value), big.mark = ",")
 year_ago_mead <- head(tail(mead_records, 365),1)$value
+year_ago_mead_text <- 
+  format(round(head(tail(mead_records, 365),1)$value), big.mark = ",")
 year_change_mead <- round((100*(latest_mead-year_ago_mead)/year_ago_mead),1)
 year_change_mead_text <- 
   if (year_change_mead > 0) { 
@@ -72,7 +75,10 @@ powell_records <- full_join(powell_1,
   select(date, value)
 
 latest_powell <- tail(powell_records,1)$value
+latest_powell_text <- format(round(tail(powell_records,1)$value), big.mark = ",")
 year_ago_powell <- head(tail(powell_records, 365),1)$value
+year_ago_powell_text <- 
+  format(round(head(tail(powell_records, 365),1)$value),big.mark = ",")
 year_change_powell <- round((100*(latest_powell-year_ago_powell)/year_ago_powell),1)
 year_change_powell_text <- 
   if (year_change_powell > 0) { 
@@ -175,8 +181,8 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- Latest: ",latest_mead,"
-- Year ago: ",year_ago_mead,"
+- Latest: ",latest_mead_text," feet
+- Year ago: ",year_ago_mead_text," feet
 - Change: ",year_change_mead_text,"
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -185,8 +191,8 @@ Elevation:
 </iframe>
 
 Elevation:
-- Latest: ",latest_powell,"
-- Year ago: ",year_ago_powell,"
+- Latest: ",latest_powell_text," feet
+- Year ago: ",year_ago_powell_text," feet
 - Change: ",year_change_powell_text,"
 
 <p class=\"updated_time\">Source: <a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">U.S. Bureau of Reclamation</a>.</p> 
