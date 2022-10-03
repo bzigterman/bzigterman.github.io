@@ -175,7 +175,7 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- Latest:",latest_mead,"
+- Latest: ",latest_mead,"
 - Year ago: ",year_ago_mead,"
 - Change: ",year_change_mead_text,"
 
@@ -185,7 +185,7 @@ Elevation:
 </iframe>
 
 Elevation:
-- Latest:",latest_powell,"
+- Latest: ",latest_powell,"
 - Year ago: ",year_ago_powell,"
 - Change: ",year_change_powell_text,"
 
