@@ -385,15 +385,6 @@ html {
   font-size: 65%;
 }
 
-#cu_covid_table .gt_two_val_uncert {
-  display: inline-block;
-  line-height: 1em;
-  text-align: right;
-  font-size: 60%;
-  vertical-align: -0.25em;
-  margin-left: 0.1em;
-}
-
 #cu_covid_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
@@ -406,39 +397,41 @@ html {
   vertical-align: 0;
 }
 
-#cu_covid_table .gt_slash_mark {
-  font-size: 0.7em;
-  line-height: 0.7em;
-  vertical-align: 0.15em;
+#cu_covid_table .gt_indent_1 {
+  text-indent: 5px;
 }
 
-#cu_covid_table .gt_fraction_numerator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: 0.45em;
+#cu_covid_table .gt_indent_2 {
+  text-indent: 10px;
 }
 
-#cu_covid_table .gt_fraction_denominator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: -0.05em;
+#cu_covid_table .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#cu_covid_table .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#cu_covid_table .gt_indent_5 {
+  text-indent: 25px;
 }
 </style>
   <table class="gt_table">
   
   <thead class="gt_col_headings">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"></th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Days<br>Ago</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Latest</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Day<br>Trend</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col"></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">14 Days<br>Ago</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">14 Day<br>Trend</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">63</td>
 <td class="gt_row gt_right">29</td>
-<td class="gt_row gt_right">&minus;54%</td></tr>
+<td class="gt_row gt_right">−54%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">28</td>
 <td class="gt_row gt_right gt_striped">33</td>
