@@ -436,13 +436,13 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">73</td>
+<td class="gt_row gt_right">63</td>
 <td class="gt_row gt_right">29</td>
-<td class="gt_row gt_right">&minus;60%</td></tr>
+<td class="gt_row gt_right">&minus;54%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">29</td>
+<td class="gt_row gt_right gt_striped">28</td>
 <td class="gt_row gt_right gt_striped">33</td>
-<td class="gt_row gt_right gt_striped">+12%</td></tr>
+<td class="gt_row gt_right gt_striped">+15%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">2</td>
 <td class="gt_row gt_right">5</td>
@@ -450,7 +450,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -535,12 +535,12 @@ Definitions from the CDC:
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
+As of Saturday, the 14-day percent change in average new cases was:
   
-- -60% in Champaign County
-- -25% in Illinois
-- -23% in the United States
-- -9% worldwide
+- -54% in Champaign County
+- -40% in Illinois
+- -21% in the United States
+- -12% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -552,11 +552,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Wednesday, the 14-day percent change in average new deaths was:
+As of Saturday, the 14-day percent change in average new deaths was:
   
-- -31% in Illinois
-- -2% in the United States
-- -16% worldwide
+- -29% in Illinois
+- -1% in the United States
+- -19% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
