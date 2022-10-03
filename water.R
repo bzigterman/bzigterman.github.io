@@ -36,6 +36,19 @@ mead_records <- full_join(page_1,
   mutate(value = attributes_result) %>%
   select(date, value)
 
+latest_mead <- tail(mead_records,1)$value
+year_ago_mead <- head(tail(mead_records, 365),1)$value
+year_change_mead <- round((100*(latest_mead-year_ago_mead)/year_ago_mead),1)
+year_change_mead_text <- 
+  if (year_change_mead > 0) { 
+    paste("+",year_change_mead,"%↑", sep = "")
+  } else if (year_change_mead == 0) {
+    paste("",year_change_mead,"%→", sep = "")
+  } else { 
+    paste("",year_change_mead,"%↓", sep = "")
+  }
+
+
 ## lake powell -----
 get_powell_records <- function(page) {
   url <- paste0("https://data.usbr.gov/rise/api/result?itemId=508&itemsPerPage=10000&page=",page)
@@ -57,6 +70,18 @@ powell_records <- full_join(powell_1,
   mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
   mutate(value = attributes_result) %>%
   select(date, value)
+
+latest_powell <- tail(powell_records,1)$value
+year_ago_powell <- head(tail(powell_records, 365),1)$value
+year_change_powell <- round((100*(latest_powell-year_ago_powell)/year_ago_powell),1)
+year_change_powell_text <- 
+  if (year_change_powell > 0) { 
+    paste("+",year_change_powell,"%↑", sep = "")
+  } else if (year_change_powell == 0) {
+    paste("",year_change_powell,"%→", sep = "")
+  } else { 
+    paste("",year_change_powell,"%↓", sep = "")
+  }
 
 ## charts ----
 fig <- hchart(mead_records, "line", hcaes(x = date,
@@ -136,4 +161,40 @@ fig
 saveWidget(widget = fig, file = "interactive/lake_powell_water_level.html",
            selfcontained = FALSE,
            libdir = "interactive")
+
+cat(
+  "---
+layout: page
+title: Water
+permalink: /projects/water
+---
+
+## [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead)
+
+<iframe src=\"/interactive/lake_mead_water_level.html\" width=\"100%\" height=\"450\"> 
+</iframe>
+
+Elevation:
+- Latest:",latest_mead,"
+- Year ago: ",year_ago_mead,"
+- Change: ",year_change_mead_text,"
+
+## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
+
+<iframe src=\"/interactive/lake_powell_water_level.html\" width=\"100%\" height=\"450\"> 
+</iframe>
+
+Elevation:
+- Latest:",latest_powell,"
+- Year ago: ",year_ago_powell,"
+- Change: ",year_change_powell_text,"
+
+<p class=\"updated_time\">Source: <a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">U.S. Bureau of Reclamation</a>.</p> 
+
+
+
+",
+file = "projects/water.md",
+sep = ""
+)
 
