@@ -8,6 +8,11 @@ library(httr)
 library(lubridate)
 library(rio)
 library(htmlwidgets)
+library(jsonlite)
+
+# get data ----
+
+## lake mead ----
 
 url <- "https://www.usbr.gov/lc/region/g4000/riverops/webreports/hourlyweb.json"
 json <- rio::import(url,
@@ -26,6 +31,30 @@ mead_data_update <- full_join(mead_data,data) %>%
 write_csv(x = mead_data_update,
           file = "data/mead_elevation.csv")
 
+
+## lake powell -----
+get_powell_records <- function(page) {
+  url <- paste0("https://data.usbr.gov/rise/api/result?itemId=508&itemsPerPage=10000&page=",page)
+  powell <- GET(url,
+                accept("application/vnd.api+json"))
+  powell <- content(powell, as = "text")
+  powell <-  fromJSON(powell, flatten = TRUE)
+  powell <- powell$data %>%
+    clean_names()
+  powell_data <- powell %>%
+    select(attributes_date_time, attributes_result) 
+}
+powell_1 <- get_powell_records(1)
+powell_2 <- get_powell_records(2)
+powell_3 <- get_powell_records(3)
+powell_records <- full_join(powell_1,
+                            powell_2) %>%
+  full_join(powell_3) %>%
+  mutate(date = ymd_hms(attributes_date_time)) %>%
+  mutate(value = attributes_result) %>%
+  select(date, value)
+
+## charts ----
 fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                                               y = value),
               tooltip = list(valueSuffix = " ft",
@@ -33,8 +62,7 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                                hour = "%b %e, %Y, %l %p"
                              )),
               color = "#199fa8",
-              #negativeColor = "#b32704",
-              #threshold = 895,
+              animation = FALSE,
               name = "Level") %>%
   hc_yAxis(title = "",
            plotLines = list(
@@ -65,9 +93,53 @@ fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'year', count = 30, text = '30y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)
+                   selected = 1)
 fig
 saveWidget(widget = fig, file = "interactive/lake_mead_water_level.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+fig <- hchart(powell_records, "line", hcaes(x = datetime_to_timestamp(date),
+                                              y = value),
+              tooltip = list(valueSuffix = " ft",
+                             dateTimeLabelFormats = list(
+                               hour = "%b %e, %Y, %l %p"
+                             )),
+              color = "#199fa8",
+              animation = FALSE,
+              name = "Level") %>%
+  hc_yAxis(title = "",
+           plotLines = list(
+             list(
+               label = list(text = "Dead Pool",
+                            align = "right",
+                            x = -5),
+               color = "#808080",
+               width = 1.5,
+               value = 3370,
+               zIndex = 1),
+             list(
+               label = list(text = "Full Pool",
+                            align = "right",
+                            x = -5),
+               color = "#808080",
+               width = 1.5,
+               value = 3708.34,
+               zIndex = 1))) %>%
+  hc_xAxis(title = "",
+           type = "datetime") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 30, text = '30y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 1)
+fig
+saveWidget(widget = fig, file = "interactive/lake_powell_water_level.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
