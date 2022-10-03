@@ -10,8 +10,8 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- Latest: 1045.04
-- Year ago: 1067.68
+- Latest: 1,045 feet
+- Year ago: 1,068 feet
 - Change: -2.1%↓
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -20,8 +20,8 @@ Elevation:
 </iframe>
 
 Elevation:
-- Latest: 3529.43
-- Year ago: 3545.33
+- Latest: 3,529 feet
+- Year ago: 3,545 feet
 - Change: -0.4%↓
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
