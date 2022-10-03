@@ -4,12 +4,12 @@ title: Water
 permalink: /projects/water
 ---
 
-## Lake Mead
+## [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead)
 
 <iframe src="/interactive/lake_mead_water_level.html" width="100%" height="450"> 
 </iframe>
 
-## Lake Powell
+## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
 <iframe src="/interactive/lake_powell_water_level.html" width="100%" height="450"> 
 </iframe>
