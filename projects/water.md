@@ -10,7 +10,7 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- Latest:1045.04
+- Latest: 1045.04
 - Year ago: 1067.68
 - Change: -2.1%↓
 
@@ -20,7 +20,7 @@ Elevation:
 </iframe>
 
 Elevation:
-- Latest:3529.43
+- Latest: 3529.43
 - Year ago: 3545.33
 - Change: -0.4%↓
 
