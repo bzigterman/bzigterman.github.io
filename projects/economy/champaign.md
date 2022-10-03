@@ -388,15 +388,6 @@ html {
   font-size: 65%;
 }
 
-#cu_housing_table .gt_two_val_uncert {
-  display: inline-block;
-  line-height: 1em;
-  text-align: right;
-  font-size: 60%;
-  vertical-align: -0.25em;
-  margin-left: 0.1em;
-}
-
 #cu_housing_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
@@ -409,32 +400,34 @@ html {
   vertical-align: 0;
 }
 
-#cu_housing_table .gt_slash_mark {
-  font-size: 0.7em;
-  line-height: 0.7em;
-  vertical-align: 0.15em;
+#cu_housing_table .gt_indent_1 {
+  text-indent: 5px;
 }
 
-#cu_housing_table .gt_fraction_numerator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: 0.45em;
+#cu_housing_table .gt_indent_2 {
+  text-indent: 10px;
 }
 
-#cu_housing_table .gt_fraction_denominator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: -0.05em;
+#cu_housing_table .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#cu_housing_table .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#cu_housing_table .gt_indent_5 {
+  text-indent: 25px;
 }
 </style>
   <table class="gt_table">
   
   <thead class="gt_col_headings">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Metric</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Year Ago</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Latest</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Year %<br>Change</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col">Metric</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">Year Ago</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">Year %<br>Change</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
@@ -445,7 +438,7 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Median Days on Market</td>
 <td class="gt_row gt_right gt_striped">46.0</td>
 <td class="gt_row gt_right gt_striped">38.0</td>
-<td class="gt_row gt_right gt_striped">&minus;17%</td></tr>
+<td class="gt_row gt_right gt_striped">−17%</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
 <td class="gt_row gt_right">175,000</td>
 <td class="gt_row gt_right">195,000</td>
@@ -453,7 +446,7 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
 <td class="gt_row gt_right gt_striped">1.11</td>
 <td class="gt_row gt_right gt_striped">1.04</td>
-<td class="gt_row gt_right gt_striped">&minus;7%</td></tr>
+<td class="gt_row gt_right gt_striped">−7%</td></tr>
   </tbody>
   
   
