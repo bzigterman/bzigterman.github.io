@@ -13,24 +13,28 @@ library(jsonlite)
 # get data ----
 
 ## lake mead ----
-
-url <- "https://www.usbr.gov/lc/region/g4000/riverops/webreports/hourlyweb.json"
-json <- rio::import(url,
-                    format = "json")
-data <- json$Series[[10]][[8]] %>%
-  mutate(date = mdy_hms(t)) %>%
-  mutate(value = as.numeric(v)) %>%
-  select(date, value) %>%
-  drop_na() 
-
-mead_data <- read_csv(file = "data/mead_elevation.csv") 
-mead_data_update <- full_join(mead_data,data) %>%
-  distinct(date, .keep_all = TRUE) %>%
-  arrange(date)
-
-write_csv(x = mead_data_update,
-          file = "data/mead_elevation.csv")
-
+get_mead_records <- function(page) {
+  url <- paste0("https://data.usbr.gov/rise/api/result?itemId=6123&itemsPerPage=10000&page=",page)
+  powell <- GET(url,
+                accept("application/vnd.api+json"))
+  powell <- content(powell, as = "text")
+  powell <-  fromJSON(powell, flatten = TRUE)
+  powell <- powell$data %>%
+    clean_names()
+  powell_data <- powell %>%
+    select(attributes_date_time, attributes_result) 
+}
+page_1 <- get_mead_records(1)
+page_2 <- get_mead_records(2)
+page_3 <- get_mead_records(3)
+page_4 <- get_mead_records(4)
+mead_records <- full_join(page_1,
+                            page_2) %>%
+  full_join(page_3) %>%
+  full_join(page_4) %>%
+  mutate(date = ymd_hms(attributes_date_time)) %>%
+  mutate(value = attributes_result) %>%
+  select(date, value)
 
 ## lake powell -----
 get_powell_records <- function(page) {
@@ -55,7 +59,7 @@ powell_records <- full_join(powell_1,
   select(date, value)
 
 ## charts ----
-fig <- hchart(mead_data_update, "line", hcaes(x = datetime_to_timestamp(date),
+fig <- hchart(mead_records, "line", hcaes(x = datetime_to_timestamp(date),
                                               y = value),
               tooltip = list(valueSuffix = " ft",
                              dateTimeLabelFormats = list(
