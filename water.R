@@ -45,11 +45,41 @@ year_ago_mead_text <-
 year_change_mead <- round((100*(latest_mead-year_ago_mead)/year_ago_mead),1)
 year_change_mead_text <- 
   if (year_change_mead > 0) { 
-    paste("+",year_change_mead,"%↑", sep = "")
+    paste("+",year_change_mead,"%", sep = "")
   } else if (year_change_mead == 0) {
-    paste("",year_change_mead,"%→", sep = "")
+    paste("",year_change_mead,"%", sep = "")
   } else { 
-    paste("",year_change_mead,"%↓", sep = "")
+    paste("",year_change_mead,"%", sep = "")
+  }
+year_change_mead_value <- value <- latest_mead - year_ago_mead
+year_change_mead_value_text <- 
+  if (year_change_mead_value > 0) { 
+    paste("up ",year_change_mead_value,"", sep = "")
+  } else if (year_change_mead_value == 0) {
+    paste("unchanged", sep = "")
+  } else { 
+    paste("down ",year_change_mead_value,"", sep = "")
+  }
+ten_year_ago_mead <- head(tail(mead_records, 365*10),1)$value
+ten_year_ago_mead_text <- 
+  format(round(head(tail(mead_records, 365*10),1)$value), big.mark = ",")
+ten_year_change_mead <- round((100*(latest_mead-ten_year_ago_mead)/ten_year_ago_mead),1)
+ten_year_change_mead_text <- 
+  if (ten_year_change_mead > 0) { 
+    paste("+",ten_year_change_mead,"%", sep = "")
+  } else if (ten_year_change_mead == 0) {
+    paste("",ten_year_change_mead,"%", sep = "")
+  } else { 
+    paste("",ten_year_change_mead,"%", sep = "")
+  }
+ten_year_change_mead_value <- value <- latest_mead - ten_year_ago_mead
+ten_year_change_mead_value_text <- 
+  if (ten_year_change_mead_value > 0) { 
+    paste("up ",ten_year_change_mead_value,"", sep = "")
+  } else if (ten_year_change_mead_value == 0) {
+    paste("unchanged", sep = "")
+  } else { 
+    paste("down ",ten_year_change_mead_value,"", sep = "")
   }
 
 
@@ -183,8 +213,8 @@ permalink: /projects/water
 
 Elevation:
 - Latest: ",latest_mead_text," feet
-- Year ago: ",year_ago_mead_text," feet
-- Change: ",year_change_mead_text,"
+- ",year_change_mead_value_text," feet, or ",year_change_mead_text," from a year ago
+- ",ten_year_change_mead_value_text," feet, or ",ten_year_change_mead_text," from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
