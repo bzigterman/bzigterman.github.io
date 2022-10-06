@@ -21,7 +21,7 @@ Elevation:
 
 Elevation:
 - 3,530 feet
-- down 16 feet from a year ago
+- down 15 feet from a year ago
 - down 91 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
