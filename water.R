@@ -62,9 +62,9 @@ year_change_mead_value_text <-
     paste("down ",format(round(-1*year_change_mead_value),big.mark = ","),"", sep = "")
   }
 
-ten_year_ago_mead <- head(tail(mead_records, 365*10),1)$value
+ten_year_ago_mead <- head(tail(mead_records, 3652),1)$value
 ten_year_ago_mead_text <- 
-  format(round(head(tail(mead_records, 365*10),1)$value), big.mark = ",")
+  format(round(head(tail(mead_records, 3652),1)$value), big.mark = ",")
 ten_year_change_mead <- round((100*(latest_mead-ten_year_ago_mead)/ten_year_ago_mead),1)
 ten_year_change_mead_text <- 
   if (ten_year_change_mead > 0) { 
@@ -130,9 +130,9 @@ year_change_powell_value_text <-
   } else { 
     paste("down ",format(round(-1*year_change_powell_value),big.mark = ","),"", sep = "")
   }
-ten_year_ago_powell <- head(tail(powell_records, 365*10),1)$value
+ten_year_ago_powell <- head(tail(powell_records, 3652),1)$value
 ten_year_ago_powell_text <- 
-  format(round(head(tail(powell_records, 365*10),1)$value), big.mark = ",")
+  format(round(head(tail(powell_records, 3652),1)$value), big.mark = ",")
 ten_year_change_powell <- round((100*(latest_powell-ten_year_ago_powell)/ten_year_ago_powell),1)
 ten_year_change_powell_text <- 
   if (ten_year_change_powell > 0) { 
