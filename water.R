@@ -54,9 +54,9 @@ year_change_mead_text <-
   }
 year_change_mead_value <- value <- latest_mead - year_ago_mead
 year_change_mead_value_text <- 
-  if (year_change_mead_value > 0) { 
+  if (round(year_change_mead_value) > 0) { 
     paste("up ",format(round(year_change_mead_value),big.mark = ","),"", sep = "")
-  } else if (year_change_mead_value == 0) {
+  } else if (round(year_change_mead_value) == 0) {
     paste("unchanged", sep = "")
   } else { 
     paste("down ",format(round(-1*year_change_mead_value),big.mark = ","),"", sep = "")
@@ -76,9 +76,9 @@ ten_year_change_mead_text <-
   }
 ten_year_change_mead_value <- value <- latest_mead - ten_year_ago_mead
 ten_year_change_mead_value_text <- 
-  if (ten_year_change_mead_value > 0) { 
+  if (round(ten_year_change_mead_value) > 0) { 
     paste("up ",format(round(ten_year_change_mead_value), big.mark = ","),"", sep = "")
-  } else if (ten_year_change_mead_value == 0) {
+  } else if (round(ten_year_change_mead_value) == 0) {
     paste("unchanged", sep = "")
   } else { 
     paste("down ",format(round(-1*ten_year_change_mead_value), big.mark = ","),"", sep = "")
@@ -123,9 +123,9 @@ year_change_powell_text <-
   }
 year_change_powell_value <- value <- latest_powell - year_ago_powell
 year_change_powell_value_text <- 
-  if (year_change_powell_value > 0) { 
+  if (round(year_change_powell_value) > 0) { 
     paste("up ",format(round(year_change_powell_value),big.mark = ","),"", sep = "")
-  } else if (year_change_powell_value == 0) {
+  } else if (round(year_change_powell_value) == 0) {
     paste("unchanged", sep = "")
   } else { 
     paste("down ",format(round(-1*year_change_powell_value),big.mark = ","),"", sep = "")
@@ -144,9 +144,9 @@ ten_year_change_powell_text <-
   }
 ten_year_change_powell_value <- value <- latest_powell - ten_year_ago_powell
 ten_year_change_powell_value_text <- 
-  if (ten_year_change_powell_value > 0) { 
+  if (round(ten_year_change_powell_value) > 0) { 
     paste("up ",format(round(ten_year_change_powell_value),big.mark = ","),"", sep = "")
-  } else if (ten_year_change_powell_value == 0) {
+  } else if (round(ten_year_change_powell_value) == 0) {
     paste("unchanged", sep = "")
   } else { 
     paste("down ",format(round(-1*ten_year_change_powell_value),big.mark = ","),"", sep = "")
@@ -244,9 +244,9 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- Latest: ",latest_mead_text," feet
-- ",year_change_mead_value_text," feet",year_change_mead_text," from a year ago
-- ",ten_year_change_mead_value_text," feet",ten_year_change_mead_text," from ten years ago
+- ",latest_mead_text," feet
+- ",year_change_mead_value_text," feet from a year ago
+- ",ten_year_change_mead_value_text," feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -254,9 +254,9 @@ Elevation:
 </iframe>
 
 Elevation:
-- Latest: ",latest_powell_text," feet
-- ",year_change_powell_value_text," feet",year_change_powell_text," from a year ago
-- ",ten_year_change_powell_value_text," feet",ten_year_change_powell_text," from ten years ago
+- ",latest_powell_text," feet
+- ",year_change_powell_value_text," feet from a year ago
+- ",ten_year_change_powell_value_text," feet from ten years ago
 
 <p class=\"updated_time\">Source: <a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">U.S. Bureau of Reclamation</a>.</p> 
 
