@@ -34,7 +34,8 @@ mead_records <- full_join(page_1,
   full_join(page_4) %>%
   mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
   mutate(value = attributes_result) %>%
-  select(date, value)
+  select(date, value) %>%
+  filter(date >= ymd( "1935-06-25"))
 
 latest_mead <- tail(mead_records,1)$value
 latest_mead_text <- format(round(tail(mead_records,1)$value), big.mark = ",")
