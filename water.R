@@ -59,7 +59,7 @@ year_change_mead_value_text <-
   } else if (year_change_mead_value == 0) {
     paste("unchanged", sep = "")
   } else { 
-    paste("down ",format(round(year_change_mead_value),big.mark = ","),"", sep = "")
+    paste("down ",format(round(-1*year_change_mead_value),big.mark = ","),"", sep = "")
   }
 
 ten_year_ago_mead <- head(tail(mead_records, 365*10),1)$value
@@ -81,7 +81,7 @@ ten_year_change_mead_value_text <-
   } else if (ten_year_change_mead_value == 0) {
     paste("unchanged", sep = "")
   } else { 
-    paste("down ",format(round(ten_year_change_mead_value), big.mark = ","),"", sep = "")
+    paste("down ",format(round(-1*ten_year_change_mead_value), big.mark = ","),"", sep = "")
   }
 
 
@@ -128,7 +128,7 @@ year_change_powell_value_text <-
   } else if (year_change_powell_value == 0) {
     paste("unchanged", sep = "")
   } else { 
-    paste("down ",format(round(year_change_powell_value),big.mark = ","),"", sep = "")
+    paste("down ",format(round(-1*year_change_powell_value),big.mark = ","),"", sep = "")
   }
 ten_year_ago_powell <- head(tail(powell_records, 365*10),1)$value
 ten_year_ago_powell_text <- 
@@ -149,7 +149,7 @@ ten_year_change_powell_value_text <-
   } else if (ten_year_change_powell_value == 0) {
     paste("unchanged", sep = "")
   } else { 
-    paste("down ",format(round(ten_year_change_powell_value),big.mark = ","),"", sep = "")
+    paste("down ",format(round(-1*ten_year_change_powell_value),big.mark = ","),"", sep = "")
   }
 
 ## charts ----
@@ -245,8 +245,8 @@ permalink: /projects/water
 
 Elevation:
 - Latest: ",latest_mead_text," feet
-- ",year_change_mead_value_text," feet, or ",year_change_mead_text," from a year ago
-- ",ten_year_change_mead_value_text," feet, or ",ten_year_change_mead_text," from ten years ago
+- ",year_change_mead_value_text," feet, or ",year_change_mead_text,", from a year ago
+- ",ten_year_change_mead_value_text," feet, or ",ten_year_change_mead_text,", from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -255,8 +255,8 @@ Elevation:
 
 Elevation:
 - Latest: ",latest_powell_text," feet
-- ",year_change_powell_value_text," feet, or ",year_change_powell_text," from a year ago
-- ",ten_year_change_powell_value_text," feet, or ",ten_year_change_powell_text," from ten years ago
+- ",year_change_powell_value_text," feet, or ",year_change_powell_text,", from a year ago
+- ",ten_year_change_powell_value_text," feet, or ",ten_year_change_powell_text,", from ten years ago
 
 <p class=\"updated_time\">Source: <a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">U.S. Bureau of Reclamation</a>.</p> 
 
