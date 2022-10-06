@@ -186,7 +186,7 @@ fig <- hchart(mead_records, "line", hcaes(x = date,
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'year', count = 30, text = '30y'),
                      list(type = 'all', text = 'All')),
-                   selected = 1)
+                   selected = 3)
 fig
 saveWidget(widget = fig, file = "interactive/lake_mead_water_level.html",
            selfcontained = FALSE,
@@ -225,7 +225,7 @@ fig <- hchart(powell_records, "line", hcaes(x = date,
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'year', count = 30, text = '30y'),
                      list(type = 'all', text = 'All')),
-                   selected = 1)
+                   selected = 3)
 fig
 saveWidget(widget = fig, file = "interactive/lake_powell_water_level.html",
            selfcontained = FALSE,
