@@ -46,11 +46,11 @@ year_ago_mead_text <-
 year_change_mead <- round((100*(latest_mead-year_ago_mead)/year_ago_mead),1)
 year_change_mead_text <- 
   if (year_change_mead > 0) { 
-    paste("+",year_change_mead,"%", sep = "")
+    paste(", or +",year_change_mead,"%,", sep = "")
   } else if (year_change_mead == 0) {
-    paste("",year_change_mead,"%", sep = "")
+    paste("", sep = "")
   } else { 
-    paste("",year_change_mead,"%", sep = "")
+    paste(", or ",year_change_mead,"%,", sep = "")
   }
 year_change_mead_value <- value <- latest_mead - year_ago_mead
 year_change_mead_value_text <- 
@@ -68,11 +68,11 @@ ten_year_ago_mead_text <-
 ten_year_change_mead <- round((100*(latest_mead-ten_year_ago_mead)/ten_year_ago_mead),1)
 ten_year_change_mead_text <- 
   if (ten_year_change_mead > 0) { 
-    paste("+",ten_year_change_mead,"%", sep = "")
+    paste(", or +",ten_year_change_mead,"%,", sep = "")
   } else if (ten_year_change_mead == 0) {
-    paste("",ten_year_change_mead,"%", sep = "")
+    paste("", sep = "")
   } else { 
-    paste("",ten_year_change_mead,"%", sep = "")
+    paste(", or ",ten_year_change_mead,"%,", sep = "")
   }
 ten_year_change_mead_value <- value <- latest_mead - ten_year_ago_mead
 ten_year_change_mead_value_text <- 
@@ -115,11 +115,11 @@ year_ago_powell_text <-
 year_change_powell <- round((100*(latest_powell-year_ago_powell)/year_ago_powell),1)
 year_change_powell_text <- 
   if (year_change_powell > 0) { 
-    paste("+",year_change_powell,"%", sep = "")
+    paste(", or +",year_change_powell,"%,", sep = "")
   } else if (year_change_powell == 0) {
-    paste("",year_change_powell,"%", sep = "")
+    paste("", sep = "")
   } else { 
-    paste("",year_change_powell,"%", sep = "")
+    paste(", or ",year_change_powell,"%,", sep = "")
   }
 year_change_powell_value <- value <- latest_powell - year_ago_powell
 year_change_powell_value_text <- 
@@ -136,11 +136,11 @@ ten_year_ago_powell_text <-
 ten_year_change_powell <- round((100*(latest_powell-ten_year_ago_powell)/ten_year_ago_powell),1)
 ten_year_change_powell_text <- 
   if (ten_year_change_powell > 0) { 
-    paste("+",ten_year_change_powell,"%", sep = "")
+    paste(", or +",ten_year_change_powell,"%,", sep = "")
   } else if (ten_year_change_powell == 0) {
-    paste("",ten_year_change_powell,"%", sep = "")
+    paste("", sep = "")
   } else { 
-    paste("",ten_year_change_powell,"%", sep = "")
+    paste(", or ",ten_year_change_powell,"%,", sep = "")
   }
 ten_year_change_powell_value <- value <- latest_powell - ten_year_ago_powell
 ten_year_change_powell_value_text <- 
@@ -245,8 +245,8 @@ permalink: /projects/water
 
 Elevation:
 - Latest: ",latest_mead_text," feet
-- ",year_change_mead_value_text," feet, or ",year_change_mead_text,", from a year ago
-- ",ten_year_change_mead_value_text," feet, or ",ten_year_change_mead_text,", from ten years ago
+- ",year_change_mead_value_text," feet",year_change_mead_text," from a year ago
+- ",ten_year_change_mead_value_text," feet",ten_year_change_mead_text," from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -255,8 +255,8 @@ Elevation:
 
 Elevation:
 - Latest: ",latest_powell_text," feet
-- ",year_change_powell_value_text," feet, or ",year_change_powell_text,", from a year ago
-- ",ten_year_change_powell_value_text," feet, or ",ten_year_change_powell_text,", from ten years ago
+- ",year_change_powell_value_text," feet",year_change_powell_text," from a year ago
+- ",ten_year_change_powell_value_text," feet",ten_year_change_powell_text," from ten years ago
 
 <p class=\"updated_time\">Source: <a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">U.S. Bureau of Reclamation</a>.</p> 
 
