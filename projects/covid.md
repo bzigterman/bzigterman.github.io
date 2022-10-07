@@ -528,11 +528,11 @@ Definitions from the CDC:
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
+As of Thursday, the 14-day percent change in average new cases was:
   
 - -22% in Champaign County
 - -29% in Illinois
-- -21% in the United States
+- -31% in the United States
 - 0% worldwide
 
 <picture>
@@ -545,11 +545,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Wednesday, the 14-day percent change in average new deaths was:
+As of Thursday, the 14-day percent change in average new deaths was:
   
 - -21% in Illinois
-- -4% in the United States
-- -12% worldwide
+- -8% in the United States
+- -10% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
