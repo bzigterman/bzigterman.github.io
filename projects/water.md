@@ -11,7 +11,7 @@ permalink: /projects/water
 
 Elevation:
 - 1,045 feet
-- down 22 feet from a year ago
+- down 23 feet from a year ago
 - down 70 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -21,7 +21,7 @@ Elevation:
 
 Elevation:
 - 3,530 feet
-- down 14 feet from a year ago
+- down 15 feet from a year ago
 - down 90 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
