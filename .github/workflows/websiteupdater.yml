@@ -37,7 +37,6 @@ jobs:
           Rscript economy.R
           Rscript water.R
           Rscript covid.R
-          Rscript basketball.R
           Rscript news.R
           Rscript baseball.R
         
