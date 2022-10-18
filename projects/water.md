@@ -10,8 +10,8 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- 1,045 feet
-- down 23 feet from a year ago
+- 1,046 feet
+- down 22 feet from a year ago
 - down 70 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
