@@ -8,6 +8,8 @@ library(cowplot)
 library(htmltools)
 library(RColorBrewer)
 library(gtExtras)
+library(highcharter)
+library(htmlwidgets)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
@@ -480,6 +482,56 @@ plot_grid(western_plot, eastern_plot,
 ggsave("plots/nba_standings_mobile.png",
        width = 4, height = 8, dpi = 320)
 
+# interactive ----
+fig1 <- hchart(eastern, "line", hcaes(x = game_n,
+                                          y = net_wins,
+                                          group = team),
+               animation = FALSE,
+               tooltip = list(
+                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+) %>%
+  hc_colors(brewer.pal(12,"Paired")) %>%
+  hc_legend(align = "right",
+            layout = "vertical",
+            verticalAlign = "middle") %>%
+  hc_title(text = "Eastern") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "",
+           max = 82) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+
+fig1
+
+fig2 <- hchart(western, "line", hcaes(x = game_n,
+                                      y = net_wins,
+                                      group = team),
+               animation = FALSE,
+               tooltip = list(
+                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+) %>%
+  hc_colors(brewer.pal(12,"Paired")) %>%
+  hc_legend(align = "right",
+            layout = "vertical",
+            verticalAlign = "middle") %>%
+  hc_title(text = "Western") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "",
+           max = 82) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+
+fig2
+
+saveWidget(widget = fig1, file = "interactive/eastern_standings.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+saveWidget(widget = fig2, file = "interactive/western_standings.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # conference standings table ----
 
 western_standings <- west_standings %>%
@@ -572,11 +624,13 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",now_html," 
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/nba_standings.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/nba_standings_mobile.png\" alt=\"\" />
-</picture>
+<div class = \"standings\">
+<iframe src=\"/interactive/western_standings.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+
+<iframe src=\"/interactive/eastern_standings.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+</div>
 
 ",better_wild_card_standings_table_html," 
 
