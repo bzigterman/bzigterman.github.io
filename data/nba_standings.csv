@@ -16,8 +16,12 @@ Eastern,IND,0,1,.0
 Western,GSW,1,0,.1000
 Western,UTA,1,0,.1000
 Western,MIN,1,0,.1000
+Western,POR,1,0,.1000
 Western,MEM,1,0,.1000
+Western,PHX,1,0,.1000
 Western,NOP,1,0,.1000
+Western,DAL,0,1,.0
+Western,SAC,0,1,.0
 Western,DEN,0,1,.0
 Western,LAL,0,1,.0
 Western,HOU,0,1,.0
