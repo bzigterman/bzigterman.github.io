@@ -967,7 +967,7 @@ combined_cases <- full_join(idph_cases_champaign, idph_cases_il) %>%
 ### set variables ----
 acceleration_weekday <- wday(tail(jhu_new_cases_world$Date,1), label = TRUE, abbr = FALSE)
 acceleration_champaign <- round(100*tail(idph_cases_champaign$pct_change_new_cases,1), digits = 0)
-acceleration_il <- il_case_pct_change
+acceleration_il <- round(100*tail(idph_cases_il$pct_change_new_cases,1), digits = 0)
 acceleration_usa <- round(100*tail(jhu_new_cases_usa$pct_change_new_cases,1), digits = 0)
 acceleration_world <- round(100*tail(jhu_new_cases_world$pct_change_new_cases,1), digits = 0)
 
@@ -989,6 +989,74 @@ sep = ""
 )
 
 # death_acceleration_text ----
+## Illinois ----
+### get data ----
+idph_cases_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Illinois",
+                             format = "json") 
+idph_cases_il <- idph_cases_il$values %>%
+  mutate(new_cases = CasesChange) %>%
+  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
+  mutate(new_deaths = DeathsChange) %>%
+  mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
+  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
+                                   fill = NA, align = "right"))  %>%
+  mutate(Date = ymd_hms(ReportDate)) 
+
+il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
+il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(cdc_il_joined$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
+
+il_death_pct_change_text <- 
+  if (il_death_pct_change > 0) { 
+    paste("+",il_death_pct_change,"%↑", sep = "")
+  } else if (il_death_pct_change == 0) {
+    paste("",il_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",il_death_pct_change,"%↓", sep = "")
+  }
+
+usa_jhu_new_deaths_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/jhu/new_deaths.csv"
+usa_jhu_new_deaths <- rio::import(usa_jhu_new_deaths_url, format = "csv") %>%
+  select(date,"United States") %>%
+  rename(new_deaths = "United States") %>%
+  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
+                                   fill = NA, align = "right"))%>%
+  drop_na()
+
+usa_avg_new_deaths <- format(round(signif(tail(usa_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
+usa_month_ago_avg_new_deaths <- format(round(signif(tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
+usa_death_pct_change <- round(100*(tail(usa_jhu_new_deaths$avg_new_deaths,1)-tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
+usa_death_pct_change_text <- 
+  if (usa_death_pct_change > 0) { 
+    paste("+",usa_death_pct_change,"%↑", sep = "")
+  } else if (usa_death_pct_change == 0) {
+    paste("",usa_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",usa_death_pct_change,"%↓", sep = "")
+  }
+
+world_jhu_new_deaths_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/jhu/new_deaths.csv"
+world_jhu_new_deaths <- rio::import(world_jhu_new_deaths_url, format = "csv") %>%
+  select(date,"World") %>%
+  rename(new_deaths = "World") %>%
+  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
+                                   fill = NA, align = "right"))
+world_avg_new_deaths <- format(round(signif(tail(world_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
+
+world_month_ago_avg_new_deaths <- 
+  format(round(signif(tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
+
+world_death_pct_change <- round(100*(tail(world_jhu_new_deaths$avg_new_deaths,1)-tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
+
+world_death_pct_change_text <- 
+  if (world_death_pct_change > 0) { 
+    paste("+",world_death_pct_change,"%↑", sep = "")
+  } else if (world_death_pct_change == 0) {
+    paste("",world_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",world_death_pct_change,"%↓", sep = "")
+  }
+
+
 
 ### text ----
 death_acceleration_text <- paste(
