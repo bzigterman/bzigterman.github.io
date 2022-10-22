@@ -1003,7 +1003,7 @@ idph_cases_il <- idph_cases_il$values %>%
   mutate(Date = ymd_hms(ReportDate)) 
 
 il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
-il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(cdc_il_joined$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
+il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(idph_cases_il$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
 
 il_death_pct_change_text <- 
   if (il_death_pct_change > 0) { 
