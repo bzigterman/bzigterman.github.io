@@ -16,15 +16,15 @@ Eastern,PHI,0,3,.0
 Eastern,ORL,0,3,.0
 Western,UTA,3,0,.1000
 Western,POR,3,0,.1000
-Western,LAC,2,0,.1000
 Western,GSW,2,1,.667
 Western,MIN,2,1,.667
 Western,MEM,2,1,.667
 Western,DEN,2,1,.667
+Western,LAC,2,1,.667
+Western,PHX,2,1,.667
 Western,SAS,2,1,.667
 Western,NOP,2,1,.667
 Western,DAL,1,1,.500
-Western,PHX,1,1,.500
 Western,SAC,0,3,.0
 Western,LAL,0,3,.0
 Western,HOU,0,3,.0
