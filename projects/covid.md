@@ -429,13 +429,13 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">27</td>
+<td class="gt_row gt_right">28</td>
 <td class="gt_row gt_right">37</td>
-<td class="gt_row gt_right">+37%</td></tr>
+<td class="gt_row gt_right">+32%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">23</td>
-<td class="gt_row gt_right gt_striped">22</td>
-<td class="gt_row gt_right gt_striped">−4%</td></tr>
+<td class="gt_row gt_right gt_striped">10</td>
+<td class="gt_row gt_right gt_striped">−56%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">4</td>
 <td class="gt_row gt_right">3</td>
