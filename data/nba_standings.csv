@@ -17,10 +17,10 @@ Eastern,ORL,0,4,.0
 Western,POR,4,0,.1000
 Western,UTA,3,1,.750
 Western,MEM,3,1,.750
+Western,PHX,3,1,.750
 Western,SAS,3,1,.750
 Western,NOP,3,1,.750
-Western,GSW,2,1,.667
-Western,PHX,2,1,.667
+Western,GSW,2,2,.500
 Western,MIN,2,2,.500
 Western,DEN,2,2,.500
 Western,LAC,2,2,.500
