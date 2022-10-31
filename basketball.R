@@ -32,7 +32,7 @@ get_team_records <- function(abbreviation) {
     mutate(wins = cumsum(win)) %>%
     mutate(losses = cumsum(loss)) %>%
     mutate(win_pct = wins/game_n) %>%
-    mutate(win_pct_text = paste(".",round(win_pct*1000),sep = "")) %>%
+    mutate(win_pct_text =  round(win_pct, 3)) %>%
     mutate(net_wins = wins-losses) %>%
     #mutate(team = abbreviation) %>%
     mutate(team = case_when(
@@ -200,7 +200,7 @@ if (standings_the_same != TRUE) {
 
 
 # pennant race chart ----
-nba_min <-  .8*min(nba_standings$win_pct)
+nba_min <-  .7*min(nba_standings$win_pct)
 nba_max <- 1.05*max(nba_standings$win_pct)
 nudge <- -.0461118*(nba_max-nba_min)
 
