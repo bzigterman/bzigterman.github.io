@@ -5,7 +5,7 @@ permalink: /projects/baseball
 imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ---
 
-<p class="updated_time"> Latest data: 10:18 PM CT, October 05</p> 
+<p class="updated_time"> Latest data: 02:00 PM CT, October 31</p> 
 
 ### Games Above .500
 
@@ -458,7 +458,7 @@ html {
 <td class="gt_row gt_left">CLE</td>
 <td class="gt_row gt_right">92</td>
 <td class="gt_row gt_right">70</td>
-<td class="gt_row gt_right">.568</td>
+<td class="gt_row gt_right">0.568</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">✓</td>
@@ -467,7 +467,7 @@ html {
 <td class="gt_row gt_left gt_striped">CWS</td>
 <td class="gt_row gt_right gt_striped">81</td>
 <td class="gt_row gt_right gt_striped">81</td>
-<td class="gt_row gt_right gt_striped">.500</td>
+<td class="gt_row gt_right gt_striped">0.500</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">11</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -476,7 +476,7 @@ html {
 <td class="gt_row gt_left">MIN</td>
 <td class="gt_row gt_right">78</td>
 <td class="gt_row gt_right">84</td>
-<td class="gt_row gt_right">.481</td>
+<td class="gt_row gt_right">0.481</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">14</td>
 <td class="gt_row gt_right">—</td>
@@ -485,7 +485,7 @@ html {
 <td class="gt_row gt_left gt_striped">DET</td>
 <td class="gt_row gt_right gt_striped">66</td>
 <td class="gt_row gt_right gt_striped">96</td>
-<td class="gt_row gt_right gt_striped">.407</td>
+<td class="gt_row gt_right gt_striped">0.407</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">26</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -494,7 +494,7 @@ html {
 <td class="gt_row gt_left">KC </td>
 <td class="gt_row gt_right">65</td>
 <td class="gt_row gt_right">97</td>
-<td class="gt_row gt_right">.401</td>
+<td class="gt_row gt_right">0.401</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">27</td>
 <td class="gt_row gt_right">—</td>
@@ -506,7 +506,7 @@ html {
 <td class="gt_row gt_left gt_striped">NYY</td>
 <td class="gt_row gt_right gt_striped">99</td>
 <td class="gt_row gt_right gt_striped">63</td>
-<td class="gt_row gt_right gt_striped">.611</td>
+<td class="gt_row gt_right gt_striped">0.611</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">✓</td>
@@ -515,7 +515,7 @@ html {
 <td class="gt_row gt_left">TOR</td>
 <td class="gt_row gt_right">92</td>
 <td class="gt_row gt_right">70</td>
-<td class="gt_row gt_right">.568</td>
+<td class="gt_row gt_right">0.568</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">7</td>
 <td class="gt_row gt_right">—</td>
@@ -524,7 +524,7 @@ html {
 <td class="gt_row gt_left gt_striped">TB </td>
 <td class="gt_row gt_right gt_striped">86</td>
 <td class="gt_row gt_right gt_striped">76</td>
-<td class="gt_row gt_right gt_striped">.531</td>
+<td class="gt_row gt_right gt_striped">0.531</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">13</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -533,7 +533,7 @@ html {
 <td class="gt_row gt_left">BAL</td>
 <td class="gt_row gt_right">83</td>
 <td class="gt_row gt_right">79</td>
-<td class="gt_row gt_right">.512</td>
+<td class="gt_row gt_right">0.512</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">16</td>
 <td class="gt_row gt_right">—</td>
@@ -542,7 +542,7 @@ html {
 <td class="gt_row gt_left gt_striped">BOS</td>
 <td class="gt_row gt_right gt_striped">78</td>
 <td class="gt_row gt_right gt_striped">84</td>
-<td class="gt_row gt_right gt_striped">.481</td>
+<td class="gt_row gt_right gt_striped">0.481</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">21</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -554,7 +554,7 @@ html {
 <td class="gt_row gt_left">HOU</td>
 <td class="gt_row gt_right">106</td>
 <td class="gt_row gt_right">56</td>
-<td class="gt_row gt_right">.654</td>
+<td class="gt_row gt_right">0.654</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">✓</td>
@@ -563,7 +563,7 @@ html {
 <td class="gt_row gt_left gt_striped">SEA</td>
 <td class="gt_row gt_right gt_striped">90</td>
 <td class="gt_row gt_right gt_striped">72</td>
-<td class="gt_row gt_right gt_striped">.556</td>
+<td class="gt_row gt_right gt_striped">0.556</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">16</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -572,7 +572,7 @@ html {
 <td class="gt_row gt_left">LAA</td>
 <td class="gt_row gt_right">73</td>
 <td class="gt_row gt_right">89</td>
-<td class="gt_row gt_right">.451</td>
+<td class="gt_row gt_right">0.451</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">33</td>
 <td class="gt_row gt_right">—</td>
@@ -581,7 +581,7 @@ html {
 <td class="gt_row gt_left gt_striped">TEX</td>
 <td class="gt_row gt_right gt_striped">68</td>
 <td class="gt_row gt_right gt_striped">94</td>
-<td class="gt_row gt_right gt_striped">.420</td>
+<td class="gt_row gt_right gt_striped">0.420</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">38</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -590,7 +590,7 @@ html {
 <td class="gt_row gt_left">OAK</td>
 <td class="gt_row gt_right">60</td>
 <td class="gt_row gt_right">102</td>
-<td class="gt_row gt_right">.370</td>
+<td class="gt_row gt_right">0.370</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">46</td>
 <td class="gt_row gt_right">—</td>
@@ -602,7 +602,7 @@ html {
 <td class="gt_row gt_left gt_striped">STL</td>
 <td class="gt_row gt_right gt_striped">93</td>
 <td class="gt_row gt_right gt_striped">69</td>
-<td class="gt_row gt_right gt_striped">.574</td>
+<td class="gt_row gt_right gt_striped">0.574</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">✓</td>
@@ -611,7 +611,7 @@ html {
 <td class="gt_row gt_left">MIL</td>
 <td class="gt_row gt_right">86</td>
 <td class="gt_row gt_right">76</td>
-<td class="gt_row gt_right">.531</td>
+<td class="gt_row gt_right">0.531</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">7</td>
 <td class="gt_row gt_right">—</td>
@@ -620,7 +620,7 @@ html {
 <td class="gt_row gt_left gt_striped">CHC</td>
 <td class="gt_row gt_right gt_striped">74</td>
 <td class="gt_row gt_right gt_striped">88</td>
-<td class="gt_row gt_right gt_striped">.457</td>
+<td class="gt_row gt_right gt_striped">0.457</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">19</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -629,7 +629,7 @@ html {
 <td class="gt_row gt_left">CIN</td>
 <td class="gt_row gt_right">62</td>
 <td class="gt_row gt_right">100</td>
-<td class="gt_row gt_right">.383</td>
+<td class="gt_row gt_right">0.383</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">31</td>
 <td class="gt_row gt_right">—</td>
@@ -638,7 +638,7 @@ html {
 <td class="gt_row gt_left gt_striped">PIT</td>
 <td class="gt_row gt_right gt_striped">62</td>
 <td class="gt_row gt_right gt_striped">100</td>
-<td class="gt_row gt_right gt_striped">.383</td>
+<td class="gt_row gt_right gt_striped">0.383</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">31</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -650,7 +650,7 @@ html {
 <td class="gt_row gt_left">ATL</td>
 <td class="gt_row gt_right">101</td>
 <td class="gt_row gt_right">61</td>
-<td class="gt_row gt_right">.623</td>
+<td class="gt_row gt_right">0.623</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">1</td>
@@ -659,7 +659,7 @@ html {
 <td class="gt_row gt_left gt_striped">NYM</td>
 <td class="gt_row gt_right gt_striped">101</td>
 <td class="gt_row gt_right gt_striped">61</td>
-<td class="gt_row gt_right gt_striped">.623</td>
+<td class="gt_row gt_right gt_striped">0.623</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">1</td>
@@ -668,7 +668,7 @@ html {
 <td class="gt_row gt_left">PHI</td>
 <td class="gt_row gt_right">87</td>
 <td class="gt_row gt_right">75</td>
-<td class="gt_row gt_right">.537</td>
+<td class="gt_row gt_right">0.537</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">14</td>
 <td class="gt_row gt_right">—</td>
@@ -677,7 +677,7 @@ html {
 <td class="gt_row gt_left gt_striped">MIA</td>
 <td class="gt_row gt_right gt_striped">69</td>
 <td class="gt_row gt_right gt_striped">93</td>
-<td class="gt_row gt_right gt_striped">.426</td>
+<td class="gt_row gt_right gt_striped">0.426</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">32</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -686,7 +686,7 @@ html {
 <td class="gt_row gt_left">WSH</td>
 <td class="gt_row gt_right">55</td>
 <td class="gt_row gt_right">107</td>
-<td class="gt_row gt_right">.340</td>
+<td class="gt_row gt_right">0.340</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">46</td>
 <td class="gt_row gt_right">—</td>
@@ -698,7 +698,7 @@ html {
 <td class="gt_row gt_left gt_striped">LAD</td>
 <td class="gt_row gt_right gt_striped">111</td>
 <td class="gt_row gt_right gt_striped">51</td>
-<td class="gt_row gt_right gt_striped">.685</td>
+<td class="gt_row gt_right gt_striped">0.685</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">✓</td>
@@ -707,7 +707,7 @@ html {
 <td class="gt_row gt_left">SD </td>
 <td class="gt_row gt_right">89</td>
 <td class="gt_row gt_right">73</td>
-<td class="gt_row gt_right">.549</td>
+<td class="gt_row gt_right">0.549</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">22</td>
 <td class="gt_row gt_right">—</td>
@@ -716,7 +716,7 @@ html {
 <td class="gt_row gt_left gt_striped">SF </td>
 <td class="gt_row gt_right gt_striped">81</td>
 <td class="gt_row gt_right gt_striped">81</td>
-<td class="gt_row gt_right gt_striped">.500</td>
+<td class="gt_row gt_right gt_striped">0.500</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">30</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -725,7 +725,7 @@ html {
 <td class="gt_row gt_left">ARI</td>
 <td class="gt_row gt_right">74</td>
 <td class="gt_row gt_right">88</td>
-<td class="gt_row gt_right">.457</td>
+<td class="gt_row gt_right">0.457</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">37</td>
 <td class="gt_row gt_right">—</td>
@@ -734,7 +734,7 @@ html {
 <td class="gt_row gt_left gt_striped">COL</td>
 <td class="gt_row gt_right gt_striped">68</td>
 <td class="gt_row gt_right gt_striped">94</td>
-<td class="gt_row gt_right gt_striped">.420</td>
+<td class="gt_row gt_right gt_striped">0.420</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">43</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1182,7 +1182,7 @@ html {
 <td class="gt_row gt_left">HOU</td>
 <td class="gt_row gt_right">106</td>
 <td class="gt_row gt_right">56</td>
-<td class="gt_row gt_right">.654</td>
+<td class="gt_row gt_right">0.654</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">W✓</td>
 <td class="gt_row gt_right">W✓</td>
@@ -1191,7 +1191,7 @@ html {
 <td class="gt_row gt_left gt_striped">NYY</td>
 <td class="gt_row gt_right gt_striped">99</td>
 <td class="gt_row gt_right gt_striped">63</td>
-<td class="gt_row gt_right gt_striped">.611</td>
+<td class="gt_row gt_right gt_striped">0.611</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">E✓</td>
 <td class="gt_row gt_right gt_striped">E✓</td>
@@ -1200,7 +1200,7 @@ html {
 <td class="gt_row gt_left">CLE</td>
 <td class="gt_row gt_right">92</td>
 <td class="gt_row gt_right">70</td>
-<td class="gt_row gt_right">.568</td>
+<td class="gt_row gt_right">0.568</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">C✓</td>
 <td class="gt_row gt_right">C✓</td>
@@ -1209,7 +1209,7 @@ html {
 <td class="gt_row gt_left gt_striped">TOR</td>
 <td class="gt_row gt_right gt_striped">92</td>
 <td class="gt_row gt_right gt_striped">70</td>
-<td class="gt_row gt_right gt_striped">.568</td>
+<td class="gt_row gt_right gt_striped">0.568</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">-6</td>
 <td class="gt_row gt_right gt_striped">WC</td>
@@ -1218,7 +1218,7 @@ html {
 <td class="gt_row gt_left">SEA</td>
 <td class="gt_row gt_right">90</td>
 <td class="gt_row gt_right">72</td>
-<td class="gt_row gt_right">.556</td>
+<td class="gt_row gt_right">0.556</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">-4</td>
 <td class="gt_row gt_right">WC</td>
@@ -1227,7 +1227,7 @@ html {
 <td class="gt_row gt_left gt_striped">TB </td>
 <td class="gt_row gt_right gt_striped">86</td>
 <td class="gt_row gt_right gt_striped">76</td>
-<td class="gt_row gt_right gt_striped">.531</td>
+<td class="gt_row gt_right gt_striped">0.531</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">WC</td>
@@ -1236,7 +1236,7 @@ html {
 <td class="gt_row gt_left">BAL</td>
 <td class="gt_row gt_right">83</td>
 <td class="gt_row gt_right">79</td>
-<td class="gt_row gt_right">.512</td>
+<td class="gt_row gt_right">0.512</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">3</td>
 <td class="gt_row gt_right">—</td>
@@ -1245,7 +1245,7 @@ html {
 <td class="gt_row gt_left gt_striped">CWS</td>
 <td class="gt_row gt_right gt_striped">81</td>
 <td class="gt_row gt_right gt_striped">81</td>
-<td class="gt_row gt_right gt_striped">.500</td>
+<td class="gt_row gt_right gt_striped">0.500</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">5</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1254,7 +1254,7 @@ html {
 <td class="gt_row gt_left">MIN</td>
 <td class="gt_row gt_right">78</td>
 <td class="gt_row gt_right">84</td>
-<td class="gt_row gt_right">.481</td>
+<td class="gt_row gt_right">0.481</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">8</td>
 <td class="gt_row gt_right">—</td>
@@ -1263,7 +1263,7 @@ html {
 <td class="gt_row gt_left gt_striped">BOS</td>
 <td class="gt_row gt_right gt_striped">78</td>
 <td class="gt_row gt_right gt_striped">84</td>
-<td class="gt_row gt_right gt_striped">.481</td>
+<td class="gt_row gt_right gt_striped">0.481</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">8</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1272,7 +1272,7 @@ html {
 <td class="gt_row gt_left">LAA</td>
 <td class="gt_row gt_right">73</td>
 <td class="gt_row gt_right">89</td>
-<td class="gt_row gt_right">.451</td>
+<td class="gt_row gt_right">0.451</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">13</td>
 <td class="gt_row gt_right">—</td>
@@ -1281,7 +1281,7 @@ html {
 <td class="gt_row gt_left gt_striped">TEX</td>
 <td class="gt_row gt_right gt_striped">68</td>
 <td class="gt_row gt_right gt_striped">94</td>
-<td class="gt_row gt_right gt_striped">.420</td>
+<td class="gt_row gt_right gt_striped">0.420</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">18</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1290,7 +1290,7 @@ html {
 <td class="gt_row gt_left">DET</td>
 <td class="gt_row gt_right">66</td>
 <td class="gt_row gt_right">96</td>
-<td class="gt_row gt_right">.407</td>
+<td class="gt_row gt_right">0.407</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">20</td>
 <td class="gt_row gt_right">—</td>
@@ -1299,7 +1299,7 @@ html {
 <td class="gt_row gt_left gt_striped">KC </td>
 <td class="gt_row gt_right gt_striped">65</td>
 <td class="gt_row gt_right gt_striped">97</td>
-<td class="gt_row gt_right gt_striped">.401</td>
+<td class="gt_row gt_right gt_striped">0.401</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">21</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1308,7 +1308,7 @@ html {
 <td class="gt_row gt_left">OAK</td>
 <td class="gt_row gt_right">60</td>
 <td class="gt_row gt_right">102</td>
-<td class="gt_row gt_right">.370</td>
+<td class="gt_row gt_right">0.370</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">26</td>
 <td class="gt_row gt_right">—</td>
@@ -1320,7 +1320,7 @@ html {
 <td class="gt_row gt_left gt_striped">LAD</td>
 <td class="gt_row gt_right gt_striped">111</td>
 <td class="gt_row gt_right gt_striped">51</td>
-<td class="gt_row gt_right gt_striped">.685</td>
+<td class="gt_row gt_right gt_striped">0.685</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">W✓</td>
 <td class="gt_row gt_right gt_striped">W✓</td>
@@ -1329,7 +1329,7 @@ html {
 <td class="gt_row gt_left">ATL</td>
 <td class="gt_row gt_right">101</td>
 <td class="gt_row gt_right">61</td>
-<td class="gt_row gt_right">.623</td>
+<td class="gt_row gt_right">0.623</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">E</td>
 <td class="gt_row gt_right">E</td>
@@ -1338,7 +1338,7 @@ html {
 <td class="gt_row gt_left gt_striped">NYM</td>
 <td class="gt_row gt_right gt_striped">101</td>
 <td class="gt_row gt_right gt_striped">61</td>
-<td class="gt_row gt_right gt_striped">.623</td>
+<td class="gt_row gt_right gt_striped">0.623</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">-14</td>
 <td class="gt_row gt_right gt_striped">WC</td>
@@ -1347,7 +1347,7 @@ html {
 <td class="gt_row gt_left">STL</td>
 <td class="gt_row gt_right">93</td>
 <td class="gt_row gt_right">69</td>
-<td class="gt_row gt_right">.574</td>
+<td class="gt_row gt_right">0.574</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">C✓</td>
 <td class="gt_row gt_right">C✓</td>
@@ -1356,7 +1356,7 @@ html {
 <td class="gt_row gt_left gt_striped">SD </td>
 <td class="gt_row gt_right gt_striped">89</td>
 <td class="gt_row gt_right gt_striped">73</td>
-<td class="gt_row gt_right gt_striped">.549</td>
+<td class="gt_row gt_right gt_striped">0.549</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">-2</td>
 <td class="gt_row gt_right gt_striped">WC</td>
@@ -1365,7 +1365,7 @@ html {
 <td class="gt_row gt_left">PHI</td>
 <td class="gt_row gt_right">87</td>
 <td class="gt_row gt_right">75</td>
-<td class="gt_row gt_right">.537</td>
+<td class="gt_row gt_right">0.537</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">WC</td>
@@ -1374,7 +1374,7 @@ html {
 <td class="gt_row gt_left gt_striped">MIL</td>
 <td class="gt_row gt_right gt_striped">86</td>
 <td class="gt_row gt_right gt_striped">76</td>
-<td class="gt_row gt_right gt_striped">.531</td>
+<td class="gt_row gt_right gt_striped">0.531</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">1</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1383,7 +1383,7 @@ html {
 <td class="gt_row gt_left">SF </td>
 <td class="gt_row gt_right">81</td>
 <td class="gt_row gt_right">81</td>
-<td class="gt_row gt_right">.500</td>
+<td class="gt_row gt_right">0.500</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">6</td>
 <td class="gt_row gt_right">—</td>
@@ -1392,7 +1392,7 @@ html {
 <td class="gt_row gt_left gt_striped">CHC</td>
 <td class="gt_row gt_right gt_striped">74</td>
 <td class="gt_row gt_right gt_striped">88</td>
-<td class="gt_row gt_right gt_striped">.457</td>
+<td class="gt_row gt_right gt_striped">0.457</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">13</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1401,7 +1401,7 @@ html {
 <td class="gt_row gt_left">ARI</td>
 <td class="gt_row gt_right">74</td>
 <td class="gt_row gt_right">88</td>
-<td class="gt_row gt_right">.457</td>
+<td class="gt_row gt_right">0.457</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">13</td>
 <td class="gt_row gt_right">—</td>
@@ -1410,7 +1410,7 @@ html {
 <td class="gt_row gt_left gt_striped">MIA</td>
 <td class="gt_row gt_right gt_striped">69</td>
 <td class="gt_row gt_right gt_striped">93</td>
-<td class="gt_row gt_right gt_striped">.426</td>
+<td class="gt_row gt_right gt_striped">0.426</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">18</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1419,7 +1419,7 @@ html {
 <td class="gt_row gt_left">COL</td>
 <td class="gt_row gt_right">68</td>
 <td class="gt_row gt_right">94</td>
-<td class="gt_row gt_right">.420</td>
+<td class="gt_row gt_right">0.420</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">19</td>
 <td class="gt_row gt_right">—</td>
@@ -1428,7 +1428,7 @@ html {
 <td class="gt_row gt_left gt_striped">CIN</td>
 <td class="gt_row gt_right gt_striped">62</td>
 <td class="gt_row gt_right gt_striped">100</td>
-<td class="gt_row gt_right gt_striped">.383</td>
+<td class="gt_row gt_right gt_striped">0.383</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">25</td>
 <td class="gt_row gt_right gt_striped">—</td>
@@ -1437,7 +1437,7 @@ html {
 <td class="gt_row gt_left">PIT</td>
 <td class="gt_row gt_right">62</td>
 <td class="gt_row gt_right">100</td>
-<td class="gt_row gt_right">.383</td>
+<td class="gt_row gt_right">0.383</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">25</td>
 <td class="gt_row gt_right">—</td>
@@ -1446,7 +1446,7 @@ html {
 <td class="gt_row gt_left gt_striped">WSH</td>
 <td class="gt_row gt_right gt_striped">55</td>
 <td class="gt_row gt_right gt_striped">107</td>
-<td class="gt_row gt_right gt_striped">.340</td>
+<td class="gt_row gt_right gt_striped">0.340</td>
 <td class="gt_row gt_right gt_striped">0</td>
 <td class="gt_row gt_right gt_striped">32</td>
 <td class="gt_row gt_right gt_striped">—</td>
