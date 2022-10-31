@@ -431,11 +431,11 @@ html {
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">29</td>
 <td class="gt_row gt_right">34</td>
-<td class="gt_row gt_right">+16%</td></tr>
+<td class="gt_row gt_right">+19%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">22</td>
-<td class="gt_row gt_right gt_striped">10</td>
-<td class="gt_row gt_right gt_striped">−54%</td></tr>
+<td class="gt_row gt_right gt_striped">12</td>
+<td class="gt_row gt_right gt_striped">−45%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">4</td>
 <td class="gt_row gt_right">3</td>
