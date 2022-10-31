@@ -33,7 +33,7 @@ get_team_records <- function(abbreviation) {
     mutate(win_pct = wins/game_n) %>%
     mutate(win_pct_text = if_else(win_pct == 1, 
                                   paste("1.000"),
-                                  paste0(".",round(win_pct*1000))) %>%
+                                  paste0(".",round(win_pct*1000)))) %>%
     mutate(net_wins = wins-losses) %>%
     mutate(team = case_when(
       abbreviation == "CHW" ~ "CWS",
