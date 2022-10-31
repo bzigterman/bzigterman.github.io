@@ -429,21 +429,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">29</td>
-<td class="gt_row gt_right">34</td>
-<td class="gt_row gt_right">+16%</td></tr>
+<td class="gt_row gt_right">31</td>
+<td class="gt_row gt_right">40</td>
+<td class="gt_row gt_right">+29%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">22</td>
-<td class="gt_row gt_right gt_striped">10</td>
-<td class="gt_row gt_right gt_striped">−54%</td></tr>
+<td class="gt_row gt_right gt_striped">12</td>
+<td class="gt_row gt_right gt_striped">−45%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td class="gt_row gt_right">4</td>
 <td class="gt_row gt_right">3</td>
-<td class="gt_row gt_right">−25%</td></tr>
+<td class="gt_row gt_right">1</td>
+<td class="gt_row gt_right">−67%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -528,12 +528,12 @@ Definitions from the CDC:
 
 ## Case Acceleration
 
-As of Friday, the 14-day percent change in average new cases was:
+As of Sunday, the 14-day percent change in average new cases was:
   
-- 16% in Champaign County
-- 31% in Illinois
-- -1% in the United States
-- -20% worldwide
+- 32% in Champaign County
+- 35% in Illinois
+- 1% in the United States
+- -18% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -545,11 +545,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Friday, the 14-day percent change in average new deaths was:
+As of Sunday, the 14-day percent change in average new deaths was:
   
-- 29% in Illinois
-- -1% in the United States
-- 12% worldwide
+- 26% in Illinois
+- 2% in the United States
+- 14% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
