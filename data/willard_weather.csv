@@ -2844,3 +2844,5 @@ date,weather,temp,humidity,precip_one_hour
 2022-10-31T21:53:00Z,Fog/Mist,57,93,0.01
 2022-10-31T22:53:00Z,Light Rain Fog/Mist,56,97,NA
 2022-10-31T23:53:00Z,Fog/Mist,56,97,0.01
+2022-11-01T00:53:00Z,Fog/Mist,52,97,NA
+2022-11-01T01:53:00Z,Fog,53,96,NA
