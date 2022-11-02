@@ -216,7 +216,7 @@ latest_date <- willard$date[[1]]
 
 willard <- willard %>%
   mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              ifelse(latest_date <= 3 && date >20,
+                              if_else(latest_date <= 3 & date >20,
                                      month(today(tzone = "America/Chicago"))-1,
                                      month(today(tzone = "America/Chicago"))),
                               "-",
