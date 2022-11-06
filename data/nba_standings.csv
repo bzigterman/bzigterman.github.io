@@ -12,7 +12,7 @@ Eastern,MIA,4,6,.400
 Eastern,PHI,4,6,.400
 Eastern,CHA,3,6,.333
 Eastern,BKN,3,6,.333
-Eastern,ORL,2,7,.222
+Eastern,ORL,2,8,.200
 Eastern,DET,2,8,.200
 Western,POR,6,2,.750
 Western,PHX,6,2,.750
@@ -25,7 +25,7 @@ Western,LAC,5,4,.556
 Western,SAS,5,4,.556
 Western,OKC,4,4,.500
 Western,MIN,4,5,.444
+Western,SAC,3,5,.375
 Western,GSW,3,7,.300
-Western,SAC,2,5,.286
 Western,LAL,2,6,.250
 Western,HOU,1,8,.111
