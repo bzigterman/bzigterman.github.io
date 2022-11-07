@@ -210,7 +210,7 @@ willard <- willard_html[[4]] %>%
   mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-  select(date,time_cdt,weather,temp, humidity, precip_one_hour)
+  select(date,time_cst,weather,temp, humidity, precip_one_hour)
 
 latest_date <- willard$date[[1]]
 
@@ -221,7 +221,7 @@ willard <- willard %>%
                                      month(today(tzone = "America/Chicago"))),
                               "-",
                               date," ",
-                              time_cdt),
+                              time_cst),
                        tz = "US/Central")) %>%
   select(date,weather,temp, humidity, precip_one_hour)
 
