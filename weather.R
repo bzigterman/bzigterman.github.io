@@ -199,10 +199,13 @@ nws_forecast_clean <- nws_forecast %>%
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
 willard_html <- read_html(willard_url) %>%
   html_table()
-willard <- willard_html[[4]] %>%
+willard_clean <- willard_html[[4]] %>%
   tail(-2) %>%
   head(-3) %>%
-  clean_names() %>%
+  clean_names()
+colnames(willard_clean)[2] <- "time"
+
+willard <- willard_clean %>%
   mutate(date = as.numeric(date)) %>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
@@ -210,7 +213,7 @@ willard <- willard_html[[4]] %>%
   mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-  select(date,time_cst,weather,temp, humidity, precip_one_hour)
+  select(date,time,weather,temp, humidity, precip_one_hour)
 
 latest_date <- willard$date[[1]]
 
@@ -221,7 +224,7 @@ willard <- willard %>%
                                      month(today(tzone = "America/Chicago"))),
                               "-",
                               date," ",
-                              time_cst),
+                              time),
                        tz = "US/Central")) %>%
   select(date,weather,temp, humidity, precip_one_hour)
 
