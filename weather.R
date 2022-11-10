@@ -195,7 +195,6 @@ nws_forecast_clean <- nws_forecast %>%
 
 
 ## nws scraping ----
-
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
 willard_html <- read_html(willard_url) %>%
   html_table()
