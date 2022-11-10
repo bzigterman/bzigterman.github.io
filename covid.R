@@ -809,7 +809,7 @@ add_latest_column <- idph_cases_vax_hosp_long %>%
 add_two_weeks_ago_column <- idph_cases_vax_hosp_long %>%
   select(names,values) %>%
   group_by(names) %>%
-  do(tail(.,n = 15)) %>%
+  do(tail(.,n = 16)) %>%
   do(head(.,n =1)) %>%
   rename(two_weeks_ago = values) %>%
   full_join(add_latest_column) %>%
