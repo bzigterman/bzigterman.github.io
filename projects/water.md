@@ -10,7 +10,7 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- 1,045 feet
+- 1,044 feet
 - down 21 feet from a year ago
 - down 71 feet from ten years ago
 
