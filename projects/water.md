@@ -20,7 +20,7 @@ Elevation:
 </iframe>
 
 Elevation:
-- 3,530 feet
+- 3,529 feet
 - down 14 feet from a year ago
 - down 89 feet from ten years ago
 
