@@ -2,6 +2,8 @@ library(tidyverse)
 library(rvest)
 library(readr)
 
+
+
 results_url <- "https://ccco-results.s3.us-east-2.amazonaws.com/2022/docs/june/EL45A.HTM"
 results_html <- download.file(url = results_url, destfile = "results.txt")
 fwf <- read_fwf(file = "results.txt",
