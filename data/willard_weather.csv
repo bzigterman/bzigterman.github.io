@@ -3276,3 +3276,5 @@ date,weather,temp,humidity,precip_one_hour
 2022-11-18T22:53:00Z,Partly Cloudy,23,65,NA
 2022-11-18T23:53:00Z,Mostly Cloudy,21,74,NA
 2022-11-19T00:53:00Z,Mostly Cloudy,22,71,NA
+2022-11-19T01:53:00Z,Fair,17,80,NA
+2022-11-19T02:53:00Z,Fair,16,80,NA
