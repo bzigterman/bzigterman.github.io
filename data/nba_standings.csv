@@ -5,9 +5,9 @@ Eastern,ATL,10,6,.625
 Eastern,CLE,9,6,.600
 Eastern,IND,9,6,.600
 Eastern,WAS,9,7,.562
-Eastern,PHI,8,7,.533
 Eastern,TOR,9,8,.529
 Eastern,NYK,8,8,.500
+Eastern,PHI,8,8,.500
 Eastern,MIA,7,9,.438
 Eastern,BKN,7,9,.438
 Eastern,CHI,6,10,.375
@@ -23,7 +23,7 @@ Western,PHX,9,6,.600
 Western,SAC,8,6,.571
 Western,LAC,9,7,.562
 Western,NOP,9,7,.562
-Western,MIN,7,8,.467
+Western,MIN,8,8,.500
 Western,GSW,7,9,.438
 Western,OKC,7,9,.438
 Western,SAS,6,10,.375
