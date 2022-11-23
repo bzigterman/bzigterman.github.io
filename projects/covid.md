@@ -549,7 +549,7 @@ As of Tuesday, the 14-day percent change in average new deaths was:
   
 - 7% in Illinois
 - -10% in the United States
-- 11% worldwide
+- 12% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
