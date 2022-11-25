@@ -3419,3 +3419,5 @@ date,weather,temp,humidity,precip_one_hour
 2022-11-24T21:53:00Z,Overcast,48,93,NA
 2022-11-24T22:53:00Z,Overcast,48,93,NA
 2022-11-24T23:53:00Z,Overcast,47,97,NA
+2022-11-25T00:53:00Z,Fog/Mist,47,97,NA
+2022-11-25T01:53:00Z,Fog/Mist,47,97,NA
