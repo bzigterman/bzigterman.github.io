@@ -3513,3 +3513,6 @@ date,weather,temp,humidity,precip_one_hour
 2022-11-28T19:53:00Z,Overcast,44,83,NA
 2022-11-28T20:53:00Z,Overcast,44,79,NA
 2022-11-28T21:53:00Z,Overcast,44,79,NA
+2022-11-28T22:53:00Z,Overcast,43,86,NA
+2022-11-28T23:53:00Z,Overcast,43,86,NA
+2022-11-29T00:53:00Z,Overcast,43,89,NA
