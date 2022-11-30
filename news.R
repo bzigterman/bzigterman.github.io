@@ -212,6 +212,9 @@ politics_news_update <- full_join(memeorandum,politics_data) %>%
   filter(!grepl("crypto",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("bitcoin",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("blockchain",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("FTX",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("SBF",item_description, ignore.case = TRUE)) %>%
+  filter(!grepl("Binance",item_description, ignore.case = TRUE)) %>%
   filter(!grepl("game",item_description, ignore.case = TRUE)) 
 
 write_csv(x = politics_news_update,
