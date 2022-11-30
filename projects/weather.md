@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 01:11 AM CT, November 30</p>
+<p class="updated_time"> Latest data: 01:29 AM CT, November 30</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -20,7 +20,7 @@ Currently:
 
 - 31°
 - broken clouds
-- 84% humidity
+- 83% humidity
 - 26 mph wind
 - 0.06 inches of precipitation in the past 24 hours
 
