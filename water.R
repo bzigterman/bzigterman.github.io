@@ -84,6 +84,10 @@ ten_year_change_mead_value_text <-
     paste("down ",format(round(-1*ten_year_change_mead_value), big.mark = ","),"", sep = "")
   }
 
+full_pool_mead <- 1229 - tail(mead_records,1)$value
+full_pool_mead_text <- format(round(full_pool_mead), big.mark = ",")
+dead_pool_mead <- tail(mead_records,1)$value - 895
+dead_pool_mead_text <- format(round(dead_pool_mead), big.mark = ",")
 
 ## lake powell -----
 get_powell_records <- function(page) {
@@ -152,7 +156,13 @@ ten_year_change_powell_value_text <-
     paste("down ",format(round(-1*ten_year_change_powell_value),big.mark = ","),"", sep = "")
   }
 
-## charts ----
+full_pool_powell <- 3708.34 - tail(powell_records,1)$value
+full_pool_powell_text <- format(round(full_pool_powell), big.mark = ",")
+dead_pool_powell <- tail(powell_records,1)$value - 3370
+dead_pool_powell_text <- format(round(dead_pool_powell), big.mark = ",")
+
+# charts ----
+## mead ----
 fig <- hchart(mead_records, "line", hcaes(x = date,
                                           y = value),
               color = "#199fa8",
@@ -192,6 +202,7 @@ saveWidget(widget = fig, file = "interactive/lake_mead_water_level.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+## powell ----
 fig <- hchart(powell_records, "line", hcaes(x = date,
                                             y = value),
               color = "#199fa8",
@@ -231,6 +242,8 @@ saveWidget(widget = fig, file = "interactive/lake_powell_water_level.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+# text ----
+
 cat(
   "---
 layout: page
@@ -245,6 +258,8 @@ permalink: /projects/water
 
 Elevation:
 - ",latest_mead_text," feet
+- ",dead_pool_mead_text," feet above dead pool level
+- ",full_pool_mead_text," feet below full pool level
 - ",year_change_mead_value_text," feet from a year ago
 - ",ten_year_change_mead_value_text," feet from ten years ago
 
@@ -255,6 +270,8 @@ Elevation:
 
 Elevation:
 - ",latest_powell_text," feet
+- ",dead_pool_powell_text," feet above dead pool level
+- ",full_pool_powell_text," feet below full pool level
 - ",year_change_powell_value_text," feet from a year ago
 - ",ten_year_change_powell_value_text," feet from ten years ago
 
