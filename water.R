@@ -171,7 +171,7 @@ fig <- hchart(mead_records, "line", hcaes(x = date,
   hc_yAxis(title = "",
            plotLines = list(
              list(
-               label = list(text = "Dead Pool",
+               label = list(text = "Min",
                             align = "right",
                             x = -5),
                color = "#808080",
@@ -179,7 +179,7 @@ fig <- hchart(mead_records, "line", hcaes(x = date,
                value = 895,
                zIndex = 1),
              list(
-               label = list(text = "Full Pool",
+               label = list(text = "Max",
                             align = "right",
                             x = -5),
                color = "#808080",
@@ -211,7 +211,7 @@ fig <- hchart(powell_records, "line", hcaes(x = date,
   hc_yAxis(title = "",
            plotLines = list(
              list(
-               label = list(text = "Dead Pool",
+               label = list(text = "Min",
                             align = "right",
                             x = -5),
                color = "#808080",
@@ -219,7 +219,7 @@ fig <- hchart(powell_records, "line", hcaes(x = date,
                value = 3370,
                zIndex = 1),
              list(
-               label = list(text = "Full Pool",
+               label = list(text = "Max",
                             align = "right",
                             x = -5),
                color = "#808080",
@@ -258,8 +258,8 @@ permalink: /projects/water
 
 Elevation:
 - ",latest_mead_text," feet
-- ",dead_pool_mead_text," feet above dead pool level
-- ",full_pool_mead_text," feet below full pool level
+- ",dead_pool_mead_text," feet above the minimum level
+- ",full_pool_mead_text," feet below the maximum level
 - ",year_change_mead_value_text," feet from a year ago
 - ",ten_year_change_mead_value_text," feet from ten years ago
 
@@ -270,8 +270,8 @@ Elevation:
 
 Elevation:
 - ",latest_powell_text," feet
-- ",dead_pool_powell_text," feet above dead pool level
-- ",full_pool_powell_text," feet below full pool level
+- ",dead_pool_powell_text," feet above the minimum level
+- ",full_pool_powell_text," feet below the maximum level
 - ",year_change_powell_value_text," feet from a year ago
 - ",ten_year_change_powell_value_text," feet from ten years ago
 
