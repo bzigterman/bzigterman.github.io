@@ -3589,6 +3589,8 @@ date,weather,temp,humidity,precip_one_hour
 2022-12-01T23:53:00Z,A Few Clouds,30,75,NA
 2022-12-02T00:53:00Z,Mostly Cloudy,31,72,NA
 2022-12-02T01:53:00Z,Mostly Cloudy,31,72,NA
+2022-12-02T02:53:00Z,Overcast,34,64,NA
+2022-12-02T03:53:00Z,Overcast,34,61,NA
 2022-12-28T06:53:00Z,Overcast,39,93,NA
 2022-12-28T07:53:00Z,Overcast,39,93,NA
 2022-12-28T08:53:00Z,Overcast,40,89,NA
