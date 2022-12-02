@@ -11,3 +11,5 @@ permalink: /posts
     </li>
   {% endfor %}
 </ul>
+
+<a rel="me" href="https://mastodon.social/@bzigterman"> </a>
