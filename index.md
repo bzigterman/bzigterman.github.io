@@ -19,4 +19,6 @@ Hello! This is my website. Here's what I'm up to:
 - History major at the University of Chicago, Class of 2014
 - and [some other stuff]({{ site.baseurl }}/resume)
 
-You can contact me on Twitter at [@bzigterman](http://twitter.com/bzigterman) or by email at <ben@bzigterman.com>.
+You can contact me by email at <ben@bzigterman.com>.
+
+<a rel="me" href="https://mastodon.social/@bzigterman"></a>
