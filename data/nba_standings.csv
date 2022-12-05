@@ -3,9 +3,9 @@ Eastern,BOS,19,5,.792
 Eastern,MIL,16,6,.727
 Eastern,CLE,15,9,.625
 Eastern,ATL,13,10,.565
-Eastern,IND,12,10,.545
 Eastern,PHI,12,11,.522
 Eastern,TOR,12,11,.522
+Eastern,IND,12,11,.522
 Eastern,BKN,13,12,.520
 Eastern,MIA,11,12,.478
 Eastern,NYK,11,13,.458
@@ -20,9 +20,9 @@ Western,MEM,14,9,.609
 Western,DEN,14,9,.609
 Western,SAC,13,9,.591
 Western,GSW,13,11,.542
+Western,POR,13,11,.542
 Western,LAC,13,11,.542
 Western,UTA,14,12,.538
-Western,POR,12,11,.522
 Western,DAL,11,11,.500
 Western,MIN,11,12,.478
 Western,LAL,10,12,.455
