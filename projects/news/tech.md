@@ -10,7 +10,7 @@ webappicon: /plots/news.png
       {% include breadcrumbs.html %}
   </div>
 
-<p>December 05</p> <details><summary><span class="pub_time">01:10 AM CT — Reuters:</span> <a href="https://www.reuters.com/world/china/foxconn-expects-full-production-covid-hit-china-plant-late-december-early-2022-12-05/">Source: Foxconn expects its COVID-hit Zhengzhou plant to resume full production around late December to early January, but uncertainties remain</a></summary><p>Reuters:  — Apple supplier Foxconn (2317.TW) expects its COVID-hit Zhengzhou plant in China to resume full production around late December to early January …</p></details>
+<p>December 05</p> <details><summary><span class="pub_time">04:40 AM CT — The Guardian:</span> <a href="https://www.theguardian.com/technology/2022/dec/05/risky-online-behaviour-almost-normalised-among-young-people-says-study">Survey of 8,000 young people in nine European countries finds 34% have pirated content, 27% reported trolling someone, 22% reported inciting violence, and more</a></summary><p>Dan Milmo / The Guardian:  — EU-funded survey of people aged 16-19 finds one in four have trolled someone - while UK least ‘cyberdeviant’ of nine countries</p></details>
 <p>December 04</p> <details><summary><span class="pub_time">04:55 PM CT — Wired:</span> <a href="https://www.wired.com/story/max-levchins-war-on-credit-cards-bnpl/">An interview with Max Levchin on Affirm, the US CFPB's inquiry into BNPL services, problems with credit cards, the current economic environment, and more</a></summary><p>Lauren Goode / Wired:  — The PayPal cofounder on why his “buy now, pay later” company Affirm is a healthier way to borrow, what caused the techlash, and Elon Musk's Twitter.</p></details>
 
 
