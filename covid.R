@@ -310,15 +310,21 @@ champaignpop <- 209983
 idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
                                     format = "json") 
 idph_cases_champaign <- idph_cases_champaign$values %>%
-  mutate(population = champaignpop)  %>%
   mutate(new_cases = CasesChange) %>%
+  mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
   mutate(new_deaths = DeathsChange) %>%
-  #mutate(new_deathss = DeathsChange)
+  arrange(desc(Date)) |> 
+  mutate(new_deaths = 
+           if_else(lag(DeathsChange,1) < 0, 
+                   DeathsChange + lag(DeathsChange,1),
+                   DeathsChange)) |>
+  arrange(Date) |> 
+  mutate(new_deaths = ifelse(
+    is.na(new_deaths) | new_deaths < 0, 0, new_deaths)) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)  %>%
-  mutate(Date = ymd_hms(ReportDate)) 
+                                fill = NA, align = "right")*31)
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
@@ -337,23 +343,7 @@ no_negs <- nums |>
   arrange(desc(date)) |> 
   mutate(neww = if_else(lag(value,1) < 0, value + lag(value,1),value)) |>
   arrange(date) |> 
-  mutate(neww = ifelse(is.na(neww), 0, neww))
-
-
-
-
-# Use the which() function to find the indices of the negative numbers in the vector
-indices <- which(nums < 0)
-
-# Subset the vector using the indices
-subset <- nums[indices]
-
-# Apply the diff() function to the subset
-result <- diff(subset)
-
-# Print the result
-print(result)
-
+  mutate(neww = ifelse(is.na(neww) | neww < 0, 0, neww))
 
 ### hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
