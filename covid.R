@@ -314,6 +314,7 @@ idph_cases_champaign <- idph_cases_champaign$values %>%
   mutate(new_cases = CasesChange) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
   mutate(new_deaths = DeathsChange) %>%
+  #mutate(new_deathss = DeathsChange)
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)  %>%
@@ -322,6 +323,36 @@ idph_cases_champaign <- idph_cases_champaign$values %>%
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
   mutate(Date = mdy_hms(Report_Date)) 
+
+
+# Define a vector of numbers
+nums <- as_tibble(list(
+  value = c(18, 12, -3, -4, 5, -2),
+  date = c("2022-01-01","2022-01-02","2022-01-03",
+           "2022-01-04","2022-01-05","2022-01-06"))) |> 
+  mutate(date = ymd(date)) %>%
+  select(date,value)
+
+no_negs <- nums |> 
+  arrange(desc(date)) |> 
+  mutate(neww = if_else(lag(value,1) < 0, value + lag(value,1),value)) |>
+  arrange(date) |> 
+  mutate(neww = ifelse(is.na(neww), 0, neww))
+
+
+
+
+# Use the which() function to find the indices of the negative numbers in the vector
+indices <- which(nums < 0)
+
+# Subset the vector using the indices
+subset <- nums[indices]
+
+# Apply the diff() function to the subset
+result <- diff(subset)
+
+# Print the result
+print(result)
 
 
 ### hhs hospitalizations ----
