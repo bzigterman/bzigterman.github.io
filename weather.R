@@ -246,19 +246,18 @@ willard_data_updated <- willard_data_update %>%
   arrange(date)
 
 # ## NCEI ----
-#  earliest <- "1902-08-01"
-#  latest <- as.character(ymd(today(tzone = "America/Chicago")))
-#  url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USW00094870&startDate=",earliest,"&endDate=",latest,"&units=standard")
-#  ncei <- content(GET(url))
-#  ncei_updated <- ncei %>% filter(DATE >= as.Date("2022-08-01")) %>%
-#    filter(DATE < as.Date("2022-09-01"))
-# sum(ncei_updated$PRCP)
+earliest <- "1902-08-01"
+year_ago <- as.character(ymd(today(tzone = "America/Chicago")- days(366)))
+latest <- as.character(ymd(today(tzone = "America/Chicago")))
+url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
+ncei <- content(GET(url))
+sum(ncei$PRCP, na.rm = TRUE)
 
 ## historical ----
 # url <- "https://api.weather.gov/stations/KCMI/observations/latest"
 # nws_past <- GET(url,
-#                     add_headers(
-#                       "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+#                 add_headers(
+#                   "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
 # )
 # nws_past <- content(nws_past, as = "text")
 # nws_past <- st_read(nws_past)
@@ -750,6 +749,19 @@ today_temp_history <- temp_history %>%
   filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
   mutate(date = ymd(as_date(central_time)))
 
+temp_history <- ncei |> 
+  pivot_longer(cols = c(TMIN, TMAX)) |> 
+  mutate(central_time = with_tz(DATE, tzone = "America/Chicago")) |> 
+  mutate(temp = value) |> 
+  drop_na() |> 
+  select(central_time, temp) 
+
+temps_past_year <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
+  mutate(period = "Past Year") %>%
+  select(temp, period, central_time)%>%
+  arrange(temp)
+
 record_maxs <- temp_history %>%
   mutate(date = date(central_time)) %>%
   mutate(month = month(date)) %>%
@@ -778,11 +790,11 @@ records <- full_join(record_maxs,record_mins)
 
 record_range <- today_temp_history %>%
   select(temp) %>%
-  mutate(period = "Record (since 1888)") 
+  mutate(period = "Record (since 1902)") 
 
 seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
            length.out = 100)
-records_range <- tibble(period = "Record (since 1888)",
+records_range <- tibble(period = "Record (since 1902)",
                         temp = seq)
 
 normal_daily_precip_prep <- read_csv("data/normal_precip.csv") %>%
@@ -877,7 +889,9 @@ dailies <- full_join(daily_maxs,daily_mins)
 
 eleven_months_ago <- ceiling_date(now(tzone = "America/Chicago")-weeks(48),"month")
 
-monthly_rain <- willard_data_updated %>%
+monthly_rain <- ncei %>%
+  mutate(date = DATE) |> 
+  mutate(precip_one_hour = PRCP) |> 
   select(date, precip_one_hour) %>%
   filter(date > eleven_months_ago) %>%
   mutate(year = year(date)) %>%
@@ -980,72 +994,6 @@ fig <- hchart(year_weather_data_longer, "arearange",
   hc_yAxis_multiples(create_axis(naxis = 2, 
                                  heights = c(5,1),
                                  title = list(text = NULL))) %>%
-  hc_add_series(
-    data = today_weather_data_longer,
-    hcaes(x = date,
-          y = round(value),
-          group = name),
-    type = "scatter",
-    animation = FALSE,
-    enableMouseTracking = FALSE,
-    marker = list(
-      enabled = FALSE),
-    dataLabels = list(
-      enabled = TRUE,
-      align = "left",
-      verticalAlign = "middle",
-      allowOverlap = TRUE,
-      format = "{point.y}°: {series.name}"
-    ),
-    yAxis = 0
-  ) %>%
-  hc_add_series(
-    data = today_rain,
-    hcaes(x = date,
-          y = value,
-          group = name),
-    type = "scatter",
-    animation = FALSE,
-    enableMouseTracking = FALSE,
-    marker = list(
-      enabled = FALSE),
-    dataLabels = list(
-      enabled = TRUE,
-      align = "left",
-      verticalAlign = "bottom",
-      allowOverlap = TRUE,
-      format = "{point.y}″: {series.name}"
-    ),
-    yAxis = 1
-  ) %>%
-  hc_add_series(
-    data = record_his,
-    hcaes(x = date,
-          y = round(Record_max)),
-    type = "scatter",
-    enableMouseTracking = FALSE,
-    animation = FALSE,
-    marker = list(
-      enabled = TRUE,
-      fillColor = "goldenrod",
-      radius = 3,
-      symbol = "triangle"),
-    yAxis = 0
-  ) %>%
-  hc_add_series(
-    data = record_los,
-    hcaes(x = date,
-          y = round(Record_min)),
-    type = "scatter",
-    enableMouseTracking = FALSE,
-    animation = FALSE,
-    marker = list(
-      enabled = TRUE,
-      fillColor = "goldenrod",
-      radius = 3,
-      symbol = "triangle-down"),
-    yAxis = 0
-  ) %>%
   hc_add_series(data = df_newer,
                 hcaes(x = date,
                       y = normal_monthly_precip),
@@ -1102,16 +1050,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
     title = "",
     showLastLabel = FALSE,
     labels = list(
-      format = "{value:%b}"),
-    plotLines = list(
-      list(
-        label = list(text = "Today"),
-        color = "gray",
-        width = 1,
-        value = datetime_to_timestamp(ymd(today(tzone = "America/Chicago"))),
-        zIndex = 1
-      )
-    )
+      format = "{value:%b}")
   ) %>%
   hc_legend(enabled = FALSE) %>%
   hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
@@ -1119,7 +1058,7 @@ fig <- hchart(year_weather_data_longer, "arearange",
              xDateFormat = "%B %e") %>%
   hc_credits(
     enabled = TRUE,
-    text = "Source: OpenWeather, MRCC, NWS",
+    text = "Source: NCEI",
     href = "https://bzigterman.com/interactive/champaign_weather_year.html") %>%
   hc_add_theme(
     hc_theme_bloom()
