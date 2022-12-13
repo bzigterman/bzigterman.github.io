@@ -313,64 +313,18 @@ idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
   mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) |> 
+  mutate(new_deathss = DeathsChange) |> 
   mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |> 
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
+    add = Reduce(function(prev, this) min(this+prev, 0),
+                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
+    new_deaths = pmax(DeathsChange + add, 0)
+  ) %>%
   select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)
 sum(idph_cases_champaign$new_deaths)
 sum(idph_cases_champaign$DeathsChange)
-
-# Define a vector of numbers
-# nums <- as_tibble(list(
-#   value = c(18, 0, 0, 12, 0, -2, 1, 0, -3, 1, 0, 0 ),
-#   date = c("2022-01-01","2022-01-02","2022-01-03",
-#            "2022-01-04","2022-01-05","2022-01-06",
-#            "2022-01-07","2022-01-08","2022-01-09",
-#            "2022-01-10","2022-01-11","2022-01-12"))) |> 
-#   mutate(date = ymd(date)) %>%
-#   select(date,value)
-# 
-# no_negs <- nums %>%
-#   mutate(old = value) |> 
-#   mutate(
-#     add = rev(
-#       Reduce(
-#         function(prev, this)
-#           if (this > 0) 0 
-#         else prev+this,
-#         rev(value), 
-#         init = 0, 
-#         accumulate = TRUE))[-1],
-#     value = if_else(value > 0, value + add, 0)
-#   ) %>%
-#   mutate(
-#     add = rev(
-#       Reduce(
-#         function(prev, this)
-#           if (this > 0) 0 
-#         else prev+this,
-#         rev(value), 
-#         init = 0, 
-#         accumulate = TRUE))[-1],
-#     value = if_else(value > 0, value + add, 0)
-#   ) %>%
-#   select(date, old, value)
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
@@ -756,22 +710,12 @@ idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
   mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) |> 
+  mutate(new_deathss = DeathsChange) |> 
   mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |> 
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
+    add = Reduce(function(prev, this) min(this+prev, 0),
+                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
+    new_deaths = pmax(DeathsChange + add, 0)
+  ) %>%
   select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
@@ -978,27 +922,16 @@ idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
   mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) |> 
+  mutate(new_deathss = DeathsChange) |> 
   mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |> 
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
-  mutate(
-    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
-                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
-    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
-  ) |>
+    add = Reduce(function(prev, this) min(this+prev, 0),
+                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
+    new_deaths = pmax(DeathsChange + add, 0)
+  ) %>%
   select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)
-
 
 #### IL  -----
 cdc_il_data_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL"
