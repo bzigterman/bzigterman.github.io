@@ -307,43 +307,74 @@ saveWidget(widget = fig3, file = "interactive/il_transmission_levels.html",
 ### idph ----
 champaignpop <- 209983
 
-idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
+idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
                                     format = "json") 
-idph_cases_champaign <- idph_cases_champaign$values %>%
+idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
   mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) %>%
-  arrange(desc(Date)) |> 
-  mutate(new_deaths = 
-           if_else(lag(DeathsChange,1) < 0, 
-                   DeathsChange + lag(DeathsChange,1),
-                   DeathsChange)) |>
-  arrange(Date) |> 
-  mutate(new_deaths = ifelse(
-    is.na(new_deaths) | new_deaths < 0, 0, new_deaths)) |> 
+  mutate(new_deaths = DeathsChange) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)
+sum(idph_cases_champaign$new_deaths)
+sum(idph_cases_champaign$DeathsChange)
+
+# Define a vector of numbers
+# nums <- as_tibble(list(
+#   value = c(18, 0, 0, 12, 0, -2, 1, 0, -3, 1, 0, 0 ),
+#   date = c("2022-01-01","2022-01-02","2022-01-03",
+#            "2022-01-04","2022-01-05","2022-01-06",
+#            "2022-01-07","2022-01-08","2022-01-09",
+#            "2022-01-10","2022-01-11","2022-01-12"))) |> 
+#   mutate(date = ymd(date)) %>%
+#   select(date,value)
+# 
+# no_negs <- nums %>%
+#   mutate(old = value) |> 
+#   mutate(
+#     add = rev(
+#       Reduce(
+#         function(prev, this)
+#           if (this > 0) 0 
+#         else prev+this,
+#         rev(value), 
+#         init = 0, 
+#         accumulate = TRUE))[-1],
+#     value = if_else(value > 0, value + add, 0)
+#   ) %>%
+#   mutate(
+#     add = rev(
+#       Reduce(
+#         function(prev, this)
+#           if (this > 0) 0 
+#         else prev+this,
+#         rev(value), 
+#         init = 0, 
+#         accumulate = TRUE))[-1],
+#     value = if_else(value > 0, value + add, 0)
+#   ) %>%
+#   select(date, old, value)
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
   mutate(Date = mdy_hms(Report_Date)) 
-
-
-# Define a vector of numbers
-nums <- as_tibble(list(
-  value = c(18, 12, -3, -4, 5, -2),
-  date = c("2022-01-01","2022-01-02","2022-01-03",
-           "2022-01-04","2022-01-05","2022-01-06"))) |> 
-  mutate(date = ymd(date)) %>%
-  select(date,value)
-
-no_negs <- nums |> 
-  arrange(desc(date)) |> 
-  mutate(neww = if_else(lag(value,1) < 0, value + lag(value,1),value)) |>
-  arrange(date) |> 
-  mutate(neww = ifelse(is.na(neww) | neww < 0, 0, neww))
 
 ### hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
@@ -719,16 +750,32 @@ saveWidget(widget = fig, file = "interactive/champaign_hospital.html",
 # make variables ----
 ## Champaign County ----
 ### get data ----
-idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
-                                    format = "json") 
-idph_cases_champaign <- idph_cases_champaign$values %>%
+idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
+                                     format = "json") 
+idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
+  mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) %>%
+  mutate(new_deaths = DeathsChange) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)  %>%
-  mutate(Date = ymd_hms(ReportDate))
+                                fill = NA, align = "right")*31)
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
@@ -925,20 +972,32 @@ sep = ""
 # case acceleration ----
 ### get data ----
 #### Champaign ----
-idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
-                                    format = "json") 
-idph_cases_champaign <- idph_cases_champaign$values %>%
+idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
+                                     format = "json") 
+idph_cases_champaign <- idph_cases_champaigns$values %>%
   mutate(new_cases = CasesChange) %>%
+  mutate(Date = ymd_hms(ReportDate)) |> 
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = DeathsChange) %>%
+  mutate(new_deaths = DeathsChange) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |> 
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  mutate(
+    add = rev(Reduce(function(prev, this) if (this > 0) 0 else prev+this,
+                     rev(new_deaths), init = 0, accumulate = TRUE))[-1],
+    new_deaths = if_else(new_deaths > 0, new_deaths + add, 0)
+  ) |>
+  select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
-  mutate(monthlydead = rollmean(new_deaths, k = 7, 
-                                fill = NA, align = "right"))  %>%
-  mutate(Date = ymd_hms(ReportDate, truncated = 0)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
-  mutate(location = "Champaign County")
+  mutate(monthlydead = rollmean(new_deaths, k = 31, 
+                                fill = NA, align = "right")*31)
 
 
 #### IL  -----
