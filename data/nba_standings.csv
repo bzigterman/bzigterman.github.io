@@ -1,5 +1,5 @@
 conference,team_label,wins,losses,win_pct_text
-Eastern,BOS,21,7,.750
+Eastern,BOS,22,7,.759
 Eastern,MIL,20,7,.741
 Eastern,CLE,17,11,.607
 Eastern,BKN,17,12,.586
@@ -25,7 +25,7 @@ Western,UTA,16,14,.533
 Western,DAL,14,13,.519
 Western,GSW,14,14,.500
 Western,MIN,13,14,.481
-Western,LAL,11,15,.423
+Western,LAL,11,16,.407
 Western,OKC,11,16,.407
 Western,HOU,9,18,.333
 Western,SAS,9,18,.333
