@@ -931,7 +931,12 @@ idph_cases_champaign <- idph_cases_champaigns$values %>%
   select(-add) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)
+                                fill = NA, align = "right")*31) %>%
+  mutate(Date = ymd_hms(ReportDate, truncated = 0)) %>%
+  mutate(date = as_date(Date)) %>%
+  mutate(pct_change_new_cases = 
+           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
+  mutate(location = "Champaign County")
 
 #### IL  -----
 cdc_il_data_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL"
