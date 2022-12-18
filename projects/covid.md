@@ -454,7 +454,7 @@ html {
 </table>
 </div>
 
-Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
+Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid) and on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignCovid">@ChampaignCovid@mastodon.social</a>.
 
 ### Hospitalized
 
