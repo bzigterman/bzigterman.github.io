@@ -11,7 +11,7 @@ webappicon: /covid.png
 <iframe src="/interactive/champaign_covid.html" width="100%" height="400"> 
 </iframe>
 
-<div id="cu_covid_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="cu_covid_table" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 html {
   font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
@@ -52,6 +52,11 @@ html {
   border-right-style: none;
   border-right-width: 1px;
   border-right-color: #D3D3D3;
+}
+
+#cu_covid_table .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 #cu_covid_table .gt_title {
@@ -174,6 +179,7 @@ html {
   border-right-width: 1px;
   border-right-color: #D3D3D3;
   vertical-align: middle;
+  text-align: left;
 }
 
 #cu_covid_table .gt_empty_group_heading {
@@ -421,25 +427,25 @@ html {
   
   <thead class="gt_col_headings">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col"></th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">14 Days<br>Ago</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">Latest</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col">14 Day<br>Trend</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id=""></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="14 Days&lt;br&gt;Ago">14 Days<br>Ago</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="Latest">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="14 Day&lt;br&gt;Trend">14 Day<br>Trend</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
-    <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">76</td>
-<td class="gt_row gt_right">66</td>
-<td class="gt_row gt_right">−13%</td></tr>
-    <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">27</td>
-<td class="gt_row gt_right gt_striped">6</td>
-<td class="gt_row gt_right gt_striped">−80%</td></tr>
-    <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td class="gt_row gt_right">0</td>
-<td class="gt_row gt_right">2</td>
-<td class="gt_row gt_right">+Inf%</td></tr>
+    <tr><td headers="names" class="gt_row gt_left">Cases</td>
+<td headers="two_weeks_ago" class="gt_row gt_right">76</td>
+<td headers="latest" class="gt_row gt_right">66</td>
+<td headers="pct_change" class="gt_row gt_right">−13%</td></tr>
+    <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
+<td headers="two_weeks_ago" class="gt_row gt_right gt_striped">27</td>
+<td headers="latest" class="gt_row gt_right gt_striped">6</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−80%</td></tr>
+    <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
+<td headers="two_weeks_ago" class="gt_row gt_right">0</td>
+<td headers="latest" class="gt_row gt_right">2</td>
+<td headers="pct_change" class="gt_row gt_right">+Inf%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
