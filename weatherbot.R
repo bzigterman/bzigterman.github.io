@@ -358,7 +358,7 @@ p
 # save to a temp file
 file <- tempfile( fileext = ".png")
 ggsave( file, plot = p, device = "png", dpi = 320, 
-        width = 6, height = 5*(9/16))
+        width = 5, height = 5*(9/16))
 
 # text ----
 now <- as_datetime(now())
