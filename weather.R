@@ -1305,6 +1305,8 @@ Currently:
 - ",champaign_wind_speed," wind
 ",champaign_rain_text,"
 
+The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
+
 ## Temperature History
 
 <iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"600\"> 
