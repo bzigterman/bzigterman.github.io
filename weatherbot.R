@@ -151,7 +151,7 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
 
 
 
-# isws scraping ----
+# isws ----
 isws <- read_csv(file = "data/isws_precip.csv") 
 # nws api ----
 ## forecast ----
@@ -243,8 +243,7 @@ champaign_precip <- case_when(
   snowfall > 0 && rainfall == 0  ~ paste(snowfall,"inches of snow"),
   rainfall == 0 && snowfall == 0 ~ paste("No precipitation"))
 
-# save temp data ----
-
+# temp data ----
 weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
                        temp = champaign_current$temp)
 
@@ -359,15 +358,18 @@ p
 # save to a temp file
 file <- tempfile( fileext = ".png")
 ggsave( file, plot = p, device = "png", dpi = 320, 
-        width = 6, height = 3.375)
+        width = 6, height = 5*(9/16))
 
 # text ----
+now <- as_datetime(now())
+now_formatted <- strftime(x = now, 
+                          tz = "US/Central",
+                          format = "%I:%M% %p")
+
 text <- paste0(
-  "Champaign weather
+  "Champaign weather at ",now_formatted,":
 
-Currently:
-
-- ",champaign_temp,"
+- ",champaign_temp,"F
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
