@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 08:10 PM CT, December 19</p>
+<p class="updated_time"> Latest data: 09:01 PM CT, December 19</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -18,11 +18,13 @@ webappicon: /weather.png
 
 Currently:
 
-- 28°
-- broken clouds
-- 78% humidity
-- 9 mph wind
+- 27°
+- overcast clouds
+- 80% humidity
+- 3 mph wind
 
+
+The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
 ## Temperature History
 
