@@ -429,26 +429,26 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">63</td>
-<td class="gt_row gt_right">59</td>
-<td class="gt_row gt_right">−5%</td></tr>
+<td class="gt_row gt_right">76</td>
+<td class="gt_row gt_right">66</td>
+<td class="gt_row gt_right">−13%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped">16</td>
-<td class="gt_row gt_right gt_striped">−12%</td></tr>
+<td class="gt_row gt_right gt_striped">27</td>
+<td class="gt_row gt_right gt_striped">6</td>
+<td class="gt_row gt_right gt_striped">−80%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">0</td>
-<td class="gt_row gt_right">1</td>
+<td class="gt_row gt_right">2</td>
 <td class="gt_row gt_right">+Inf%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 305  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 306  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -528,12 +528,12 @@ Definitions from the CDC:
 
 ## Case Acceleration
 
-As of Saturday, the 14-day percent change in average new cases was:
+As of Sunday, the 14-day percent change in average new cases was:
   
-- -9% in Champaign County
+- -13% in Champaign County
 - 36% in Illinois
 - 48% in the United States
-- 10% worldwide
+- 11% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -545,11 +545,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Saturday, the 14-day percent change in average new deaths was:
+As of Sunday, the 14-day percent change in average new deaths was:
   
 - 49% in Illinois
 - 51% in the United States
-- 27% worldwide
+- 29% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
