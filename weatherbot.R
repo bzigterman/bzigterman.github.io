@@ -242,6 +242,7 @@ champaign_precip <- case_when(
   rainfall > 0 && snowfall == 0  ~ paste(rainfall,"inches of rain"),
   snowfall > 0 && rainfall == 0  ~ paste(snowfall,"inches of snow"),
   rainfall == 0 && snowfall == 0 ~ paste("No precipitation"))
+champaign_clouds <- paste0(round(champaign_current$clouds),"%")
 
 # temp data ----
 weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
@@ -281,10 +282,10 @@ last_two <- champaign_history_and_forecast %>%
 all_days <- full_join(five_days, last_two) %>%
   full_join(last_24) %>%
   select(central_time,temp,
-         pop, rain, snow, sunrise, sunset) 
+         pop, rain,wind_speed, snow, sunrise, sunset) 
 
 remove_no_precip <- all_days %>%
-  select(central_time,temp,
+  select(central_time,temp,wind_speed,
          pop, rain, snow, sunrise, sunset)  %>%
   select(where(~ is.numeric(.) && any(sum(., na.rm = TRUE) !=0))) %>%
   mutate(central_time = all_days$central_time)
@@ -292,6 +293,7 @@ remove_no_precip <- all_days %>%
 champaign_forecast_longer <- all_days %>%
   select(central_time, sunrise, sunset) %>%
   full_join(remove_no_precip) %>%
+  mutate(pop = 100*pop) %>%
   pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
@@ -300,7 +302,8 @@ champaign_forecast_longer <- all_days %>%
                                "temp"       = "°F",
                                "pop"        = "Precip%",
                                "rain"       = "Rain",
-                               "snow"       = "Snow"))
+                               "snow"       = "Snow",
+                               "wind_speed" = "Wind"))
 
 daylight <- champaign_forecast_longer %>%
   select(sunrise, sunset) %>%
@@ -358,9 +361,9 @@ p
 # save to a temp file
 file <- tempfile( fileext = ".png")
 ggsave( file, plot = p, device = "png", dpi = 320, 
-        width = 2.5, height = 2.5)
-#ggsave("plots/champaign_weather_post.png", bg = "white",
-#       width = 2.5, height = 2.5, dpi = 320)
+        width = 2.5, height = 3.1)
+# ggsave("plots/champaign_weather_post.png", bg = "white",
+#        width = 2.5, height = 3.1, dpi = 320)
 
 # text ----
 now <- as_datetime(now())
@@ -375,6 +378,7 @@ text <- paste0(
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
+- ",champaign_clouds," cloud cover
 ",champaign_rain_text,"
 
 More charts: https://bzigterman.com/projects/weather")

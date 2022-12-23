@@ -274,6 +274,7 @@ champaign_precip <- case_when(
   rainfall > 0 && snowfall == 0  ~ paste(rainfall,"inches of rain"),
   snowfall > 0 && rainfall == 0  ~ paste(snowfall,"inches of snow"),
   rainfall == 0 && snowfall == 0 ~ paste("No precipitation"))
+champaign_clouds <- paste0(round(champaign_current$clouds),"%")
 
 # save temp data ----
 
@@ -328,6 +329,7 @@ remove_no_precip <- all_days %>%
 champaign_forecast_longer <- all_days %>%
   select(central_time, sunrise, sunset) %>%
   full_join(remove_no_precip) %>%
+  mutate(pop = 100*pop) %>%
   pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
@@ -1303,6 +1305,7 @@ Currently:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
+- ",champaign_clouds," cloud cover
 ",champaign_rain_text,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
