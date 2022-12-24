@@ -397,12 +397,17 @@ if (rainfall >= 0 &&
     champaign_current$temp <= 150 &&
     champaign_current$wind_speed >= 0 
 ) {
-  post_toot(status   = text,
-            media    = if_else(
-              champaign_current$weather$id >= 200 &&
-                champaign_current$weather$id < 700,
-              radar_img, file),
-            alt_text = "Line chart with today's weather forecast for Champaign, Illinois")
+  post_toot(
+    status   = text,
+    media    = if_else(
+      champaign_current$weather$id >= 200 &&
+        champaign_current$weather$id < 700,
+      radar_img, file),
+    alt_text = if_else(
+      champaign_current$weather$id >= 200 &&
+        champaign_current$weather$id < 700,
+      "GIF of the radar for Illinois",
+      "Line chart with today's weather forecast for Champaign, Illinois"))
 }
 
 
