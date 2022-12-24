@@ -365,6 +365,11 @@ ggsave( file, plot = p, device = "png", dpi = 320,
 # ggsave("plots/champaign_weather_post.png", bg = "white",
 #        width = 2.5, height = 3.1, dpi = 320)
 
+# radar
+radar <- "https://radar.weather.gov/ridge/standard/KILX_loop.gif"
+radar_img <- tempfile( fileext = "gif")
+download.file(url = radar, destfile = radar_img)
+
 # text ----
 now <- as_datetime(now())
 now_formatted <- strftime(x = now, 
@@ -392,8 +397,11 @@ if (rainfall >= 0 &&
     champaign_current$temp <= 150 &&
     champaign_current$wind_speed >= 0 
 ) {
-  post_toot(status = text,
-            media = file,
+  post_toot(status   = text,
+            media    = if_else(
+              champaign_current$weather$id >= 200 &&
+                champaign_current$weather$id < 700,
+              radar_img, file),
             alt_text = "Line chart with today's weather forecast for Champaign, Illinois")
 }
 
