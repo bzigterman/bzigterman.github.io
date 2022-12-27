@@ -26,6 +26,14 @@ Sys.getenv("OWM_API_KEY")
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
 verify_envvar(verbose = TRUE)
 
+# nws api check ----
+url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
+nws_forecast <- GET(url,
+                    add_headers(
+                      "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+)
+nws_status <- status_code(nws_forecast)
+
 # owm ----
 ## one call ----
 url <- "https://api.openweathermap.org/data/2.5/onecall"
@@ -38,6 +46,7 @@ champaign_weather_response <-
 
 champaign_weather_json <- content(champaign_weather_response, as = "text")
 champaign_current <- fromJSON(champaign_weather_json, flatten = TRUE)$current
+if (nws_status == 200) {
 champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))%>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
@@ -57,6 +66,26 @@ champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
                                      sep = "")), tz = "America/Chicago") %>%
   filter(central_time > now(tzone = "America/Chicago")) %>%
   select(!c(temp,wind_speed))
+} else {
+  champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
+    mutate(utc_time = as_datetime(dt))%>%
+    mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
+    mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
+                                                      0,rain.1h) else 0}) %>%
+    mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
+                                                      0,snow.1h) else 0}) %>%
+    mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
+                                        hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                        minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                        second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
+                                        sep = "")), tz = "America/Chicago" )%>%
+    mutate(sunset = as_datetime( paste(as_date(central_time)," ",
+                                       hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                       minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                       second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
+                                       sep = "")), tz = "America/Chicago") %>%
+    filter(central_time > now(tzone = "America/Chicago")) 
+}
 
 champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(utc_time = as_datetime(dt)) %>%
@@ -156,12 +185,6 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
 isws <- read_csv(file = "data/isws_precip.csv") 
 # nws api ----
 ## forecast ----
-url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
-nws_forecast <- GET(url,
-                    add_headers(
-                      "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
-)
-nws_status <- status_code(nws_forecast)
 if (nws_status == 200)
 {
 nws_forecast <- content(nws_forecast, as = "text")
@@ -253,6 +276,8 @@ weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
                        temp = champaign_current$temp)
 
 # tidy data ----
+if (nws_status == 200)
+{
 champaign_forecast_tidy <- champaign_forecast %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
@@ -263,8 +288,20 @@ champaign_forecast_tidy <- champaign_forecast %>%
                                                     0,snow.3h/3) else 0}) %>%
   filter(central_time > now(tzone = "America/Chicago")+days(2)) %>%
   select(!c(temp,wind_speed))
+} else {
+  champaign_forecast_tidy <- champaign_forecast %>%
+    mutate(datetime = as_datetime(dt_txt)) %>%
+    mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
+    mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
+    mutate(rain = {if("rain.3h" %in% names(.)) ifelse(is.na(rain.3h),
+                                                      0,rain.3h/3) else 0}) %>%
+    mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
+                                                      0,snow.3h/3) else 0}) %>%
+    filter(central_time > now(tzone = "America/Chicago")+days(2)) 
+}
 
-
+if (nws_status == 200)
+{
 champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   full_join(champaign_hourly) %>%
   select(central_time, temp, humidity,
@@ -275,6 +312,17 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   select(!tz) %>%
   group_by(central_time) %>%
   summarize(across(everything(), ~ first(na.omit(.)))) 
+} else {
+  champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
+    full_join(champaign_hourly) %>%
+    select(central_time, temp, humidity,
+           wind_speed, clouds,
+           pop, rain, snow, sunrise, sunset) %>%
+    arrange(central_time) %>%
+    #select(!tz) %>%
+    group_by(central_time) %>%
+    summarize(across(everything(), ~ first(na.omit(.)))) 
+}
 
 five_days <- champaign_history_and_forecast %>%
   filter(central_time < now(tzone = "America/Chicago") + days(5)) %>%
