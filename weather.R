@@ -400,6 +400,8 @@ last_two <- champaign_history_and_forecast %>%
 all_days <- full_join(five_days, last_two) %>%
   full_join(last_24)
 
+all_future <- full_join(five_days, last_two) 
+
 remove_no_precip <- all_days %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
@@ -530,7 +532,7 @@ temps_past_century <- temp_history %>%
   mutate(period = "All Records (since 1888)") %>%
   select(temp, period, central_time)%>%
   arrange(temp)
-temps_next_week <- nws_forecast_clean %>%
+temps_next_week <- all_future %>%
   mutate(period = "Next Week") %>%
   select(temp, period, central_time) %>%
   arrange(temp)
