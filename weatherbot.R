@@ -19,13 +19,14 @@ champaign_lon <- -88.24039
 
 # get data ----
 
-# owm api ----
+# owm api setup ----
 Sys.getenv("OWM_API_KEY")
 
-# mastodon api ----
+# mastodon api setup ----
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
 verify_envvar(verbose = TRUE)
 
+# owm ----
 ## one call ----
 url <- "https://api.openweathermap.org/data/2.5/onecall"
 champaign_weather_response <- 
@@ -119,7 +120,7 @@ last_24 <- full_join(history_today, history_yesterday) %>%
 rainfall <- round(sum(last_24$rain),1)
 snowfall <- round(sum(last_24$snow),1)
 
-## three-hours ----
+## three-hour forecast ----
 url = "https://api.openweathermap.org/data/2.5/forecast"
 champaign_forecast_response <- 
   GET(url,
@@ -160,6 +161,9 @@ nws_forecast <- GET(url,
                     add_headers(
                       "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
 )
+nws_status <- status_code(nws_forecast)
+if (nws_status == 200)
+{
 nws_forecast <- content(nws_forecast, as = "text")
 nws_forecast <- st_read(nws_forecast)
 nws_forecast <- fromJSON(nws_forecast$periods) 
@@ -180,7 +184,7 @@ nws_forecast_clean <- nws_forecast %>%
                                      minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
                                      second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
                                      sep = "")), tz = "America/Chicago")
-
+}
 
 ## nws scraping ----
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
