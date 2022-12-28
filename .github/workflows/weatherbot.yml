@@ -10,6 +10,7 @@ jobs:
     runs-on: macOS-latest
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
+      AQI_API_KEY: ${{ secrets.AQI_API_KEY }}
       RTOOT_DEFAULT_TOKEN: ${{ secrets.RTOOT_DEFAULT_TOKEN }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
