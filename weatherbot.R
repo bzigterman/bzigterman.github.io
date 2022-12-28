@@ -258,6 +258,29 @@ willard_data_updated <- willard_data_update %>%
 
 # ## NCEI ----
 
+# AQI ----
+aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
+                  champaign_lat,
+                  "&longitude=",
+                  champaign_lon
+                  ,"&distance=25&",
+                  Sys.getenv("AQI_API_KEY"))
+aqi <- as_tibble(content(GET(aqi_url)))
+aqi_text <- round(aqi$AQI)
+aqi_color <- aqi %>% 
+  mutate(color = case_when(
+    CategoryNumber == 1 ~ "🟩",
+    CategoryNumber == 2 ~ "🟨",
+    CategoryNumber == 3 ~ "🟧",
+    CategoryNumber == 4 ~ "🟥",
+    CategoryNumber == 5 ~ "🟪",
+    CategoryNumber == 6 ~ "🟫",
+    CategoryNumber == 7 ~ "") 
+  ) |> 
+  mutate(aqi_plus_text = paste0(color, " ",
+                                AQI, " AQI"))
+champaign_aqi <- aqi_color$aqi_plus_text
+
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
 champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
@@ -433,6 +456,7 @@ text <- paste0(
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
+- ",champaign_aqi,"
 ",champaign_rain_text,"
 
 More charts: https://bzigterman.com/projects/weather")

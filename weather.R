@@ -322,6 +322,29 @@ url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-su
 ncei <- content(GET(url))
 sum(ncei$PRCP, na.rm = TRUE)
 
+# AQI ----
+aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
+                  champaign_lat,
+                  "&longitude=",
+                  champaign_lon
+                  ,"&distance=25&",
+                  Sys.getenv("AQI_API_KEY"))
+aqi <- as_tibble(content(GET(aqi_url)))
+aqi_text <- round(aqi$AQI)
+aqi_color <- aqi %>% 
+  mutate(color = case_when(
+    CategoryNumber == 1 ~ "🟩",
+    CategoryNumber == 2 ~ "🟨",
+    CategoryNumber == 3 ~ "🟧",
+    CategoryNumber == 4 ~ "🟥",
+    CategoryNumber == 5 ~ "🟪",
+    CategoryNumber == 6 ~ "🟫",
+    CategoryNumber == 7 ~ "") 
+  ) |> 
+  mutate(aqi_plus_text = paste0(color, " ",
+                                AQI, " AQI"))
+champaign_aqi <- aqi_color$aqi_plus_text
+
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
 champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
@@ -1389,6 +1412,7 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
+- ",champaign_aqi,"
 ",champaign_rain_text,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
