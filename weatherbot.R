@@ -263,7 +263,7 @@ aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?for
                   champaign_lat,
                   "&longitude=",
                   champaign_lon
-                  ,"&distance=25&",
+                  ,"&distance=25&API_KEY=",
                   Sys.getenv("AQI_API_KEY"))
 aqi <- as_tibble(content(GET(aqi_url)))
 aqi_text <- round(aqi$AQI)
