@@ -341,8 +341,7 @@ aqi_color <- aqi %>%
     CategoryNumber == 6 ~ "🟫",
     CategoryNumber == 7 ~ "") 
   ) |> 
-  mutate(aqi_plus_text = paste0(color, " ",
-                                AQI, " AQI"))
+  mutate(aqi_plus_text = paste0(AQI, " AQI ", color))
 champaign_aqi <- aqi_color$aqi_plus_text
 
 # set variables ----
