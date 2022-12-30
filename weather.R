@@ -319,30 +319,33 @@ earliest <- "1902-08-01"
 year_ago <- as.character(ymd(today(tzone = "America/Chicago")- days(366)))
 latest <- as.character(ymd(today(tzone = "America/Chicago")))
 url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
-ncei <- content(GET(url))
+ncei_GET <- GET(url)
+ncei_status <- status_code(ncei_GET)
+if (ncei_status == 200) {
+ncei <- content(ncei_GET)
 sum(ncei$PRCP, na.rm = TRUE)
+}
 
 # AQI ----
-aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
-                  champaign_lat,
-                  "&longitude=",
-                  champaign_lon
-                  ,"&distance=25&API_KEY=",
-                  Sys.getenv("AQI_API_KEY"))
-aqi <- as_tibble(content(GET(aqi_url)))
-aqi_text <- round(aqi$AQI)
-aqi_color <- aqi %>% 
-  mutate(color = case_when(
-    CategoryNumber == 1 ~ "🟩",
-    CategoryNumber == 2 ~ "🟨",
-    CategoryNumber == 3 ~ "🟧",
-    CategoryNumber == 4 ~ "🟥",
-    CategoryNumber == 5 ~ "🟪",
-    CategoryNumber == 6 ~ "🟫",
-    CategoryNumber == 7 ~ "") 
-  ) |> 
-  mutate(aqi_plus_text = paste0(AQI, " AQI ", color))
-champaign_aqi <- aqi_color$aqi_plus_text
+aqi_GET <- GET(aqi_url)
+aqi_status <- status_code(aqi_GET)
+if (aqi_status == 200) {
+  aqi <- as_tibble(content(aqi_GET))
+  aqi_color <- aqi %>% 
+    mutate(color = case_when(
+      CategoryNumber == 1 ~ "🟩",
+      CategoryNumber == 2 ~ "🟨",
+      CategoryNumber == 3 ~ "🟧",
+      CategoryNumber == 4 ~ "🟥",
+      CategoryNumber == 5 ~ "🟪",
+      CategoryNumber == 6 ~ "🟫",
+      CategoryNumber == 7 ~ "") 
+    ) |> 
+    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ", color))
+  champaign_aqi <- aqi_color$aqi_plus_text
+} else {
+  champaign_aqi <- ""
+}
 
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
@@ -1411,7 +1414,7 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-- ",champaign_aqi,"
+",champaign_aqi,"
 ",champaign_rain_text,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
