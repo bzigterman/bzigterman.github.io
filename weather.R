@@ -327,6 +327,12 @@ sum(ncei$PRCP, na.rm = TRUE)
 }
 
 # AQI ----
+aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
+                  champaign_lat,
+                  "&longitude=",
+                  champaign_lon
+                  ,"&distance=25&API_KEY=",
+                  Sys.getenv("AQI_API_KEY"))
 aqi_GET <- GET(aqi_url)
 aqi_status <- status_code(aqi_GET)
 if (aqi_status == 200) {
