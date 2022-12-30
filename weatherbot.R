@@ -265,8 +265,10 @@ aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?for
                   champaign_lon
                   ,"&distance=25&API_KEY=",
                   Sys.getenv("AQI_API_KEY"))
-aqi <- as_tibble(content(GET(aqi_url)))
-aqi_text <- round(aqi$AQI)
+aqi_GET <- GET(aqi_url)
+aqi_status <- status_code(aqi_GET)
+if (aqi_status == 200) {
+aqi <- as_tibble(content(aqi_GET))
 aqi_color <- aqi %>% 
   mutate(color = case_when(
     CategoryNumber == 1 ~ "🟩",
@@ -277,8 +279,11 @@ aqi_color <- aqi %>%
     CategoryNumber == 6 ~ "🟫",
     CategoryNumber == 7 ~ "") 
   ) |> 
-  mutate(aqi_plus_text = paste0(AQI, " AQI ", color))
+  mutate(aqi_plus_text = paste0("- ", AQI, " AQI ", color))
 champaign_aqi <- aqi_color$aqi_plus_text
+} else {
+  champaign_aqi <- ""
+}
 
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
@@ -455,7 +460,7 @@ text <- paste0(
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-- ",champaign_aqi,"
+",champaign_aqi,"
 ",champaign_rain_text,"
 
 More charts: https://bzigterman.com/projects/weather")
