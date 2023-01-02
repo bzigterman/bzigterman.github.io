@@ -10,6 +10,7 @@ webappicon: /plots/news.png
       {% include breadcrumbs.html %}
   </div>
 
+<p>January 02</p> <details><summary><span class="pub_time">09:10 AM CT — TechCrunch:</span> <a href="https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/">An overview of Chinese tech companies' rush to match generative AI tools like DALL-E 2 despite tighter regulations, censorship, US chip sanctions, and more</a></summary><p>Rita Liao / TechCrunch:  — Chinese tech companies rush to match Stable Diffusion and DALL-E 2, but roadblocks lie ahead — The gigantic technological leap …</p></details>
 <p>January 01</p> <details><summary><span class="pub_time">08:00 PM CT — TechCrunch:</span> <a href="https://techcrunch.com/2022/12/30/inside-matrix-the-protocol-that-might-finally-make-messaging-apps-interoperable/">A profile of Matrix, an open-source, decentralized protocol for messaging interoperability that saw its network's users double in 2022 to at least 80.3M</a></summary><p>Paul Sawers / TechCrunch:  — After years of walled gardens, cross-pollination could be in sight — Interoperability and decentralization have been major themes in tech this year …</p></details>
 
 
