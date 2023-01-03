@@ -218,7 +218,7 @@ willard_clean <- willard_html[[4]] %>%
   clean_names()
 colnames(willard_clean)[2] <- "time"
 
-willard <- willard_clean %>%
+willard_cleaner <- willard_clean %>%
   mutate(date = as.numeric(date)) %>%
   mutate(visibility = as.numeric(vis_mi)) %>%
   mutate(temp = as.numeric(temperature_o_f)) %>%
@@ -228,17 +228,33 @@ willard <- willard_clean %>%
   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
   select(date,time,weather,temp, humidity, precip_one_hour)
 
-latest_date <- willard$date[[1]]
+latest_date <- willard_cleaner$date[[1]]
+latest_month <- month(today(tzone = "America/Chicago"))
 
-willard <- willard %>%
-  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              if_else(latest_date <= 3 & date >20,
-                                      month(today(tzone = "America/Chicago"))-1,
-                                      month(today(tzone = "America/Chicago"))),
-                              "-",
-                              date," ",
-                              time),
-                       tz = "US/Central")) %>%
+willard <- willard_cleaner %>%
+  mutate(year_text = paste0(
+    if_else(latest_month == 1 & date <= 3,
+            year(today(tzone = "America/Chicago")),
+            year(today(tzone = "America/Chicago"))-1))) %>%
+  mutate(
+    month_text = if_else(
+      latest_date <= 3 & date > 20,
+      month(today(tzone = "America/Chicago"))-1,
+      month(today(tzone = "America/Chicago")))) %>%
+  mutate(
+    month_text = if_else(
+      month_text == 0,
+      12,
+      month_text)) %>%
+  mutate(date_text = 
+           paste0(
+             year_text,
+             "-",
+             month_text,
+             "-",
+             date," ",
+             time)) %>%
+  mutate(date = ymd_hm(date_text)) %>%
   select(date,weather,temp, humidity, precip_one_hour)
 
 champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
