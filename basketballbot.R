@@ -353,8 +353,7 @@ west_leaders <- western_standings %>%
   select(team,wins, losses, conference_games_behind) %>%
   mutate(text = paste0(team,": ",wins,"–",losses,", ",
                        conference_games_behind, " GB\n")) |> 
-  select(text) %>%
-  slice_head(n = 10)
+  select(text)
 
 west_top_five <- paste( west_leaders$text, collapse = "")
 west_top_five
@@ -362,8 +361,7 @@ east_leaders <- eastern_standings %>%
   select(team,wins, losses, conference_games_behind) %>%
   mutate(text = paste0(team,": ",wins,"–",losses,", ",
                        conference_games_behind, " GB\n")) |> 
-  select(text) %>%
-  slice_head(n = 10)
+  select(text)
 
 east_top_five <- paste(east_leaders$text, collapse = "")
 
