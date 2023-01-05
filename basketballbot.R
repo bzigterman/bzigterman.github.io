@@ -12,7 +12,7 @@ library(rtoot)
 
 # mastodon api setup ----
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN_BASKETBALL")
-verify_envvar(verbose = TRUE)
+#verify_envvar(verbose = TRUE)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
@@ -367,8 +367,8 @@ east_leaders <- eastern_standings %>%
 
 east_top_five <- paste(east_leaders$text, collapse = "")
 
-text <- paste0("NBA standings:\n",west_top_five,
-               "\n",
+text <- paste0("Western Conference:\n",west_top_five,
+               "\nEastern Conference:\n",
                east_top_five)
 text
 
