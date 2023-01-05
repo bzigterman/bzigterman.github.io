@@ -11,8 +11,8 @@ library(gtExtras)
 library(rtoot)
 
 # mastodon api setup ----
-token <- Sys.getenv("RTOOT_DEFAULT_TOKEN_BASKETBALL")
-#verify_envvar(verbose = TRUE)
+token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
+verify_envvar(verbose = TRUE)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
