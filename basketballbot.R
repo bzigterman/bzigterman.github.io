@@ -350,23 +350,31 @@ now_formatted <- strftime(x = now,
                           format = "%I:%M% %p CT, %B %d")
 
 west_leaders <- western_standings %>%
-  select(team,wins, losses, conference_games_behind) %>%
-  mutate(text = paste0(team,": ",wins,"–",losses,", ",
-                       conference_games_behind, " GB\n")) |> 
+  select(team,wins, losses, conference_games_behind,division_place) %>%
+  mutate(text = if_else(
+    division_place == 1,
+    paste0(team,": ",wins,"–",losses,", ",
+           conference_games_behind, " GB\n"),
+    paste0(team,": ",wins,"–",losses,", ",
+           conference_games_behind, "\n"))) |> 
   select(text)
 
 west_top_five <- paste( west_leaders$text, collapse = "")
 west_top_five
 east_leaders <- eastern_standings %>%
-  select(team,wins, losses, conference_games_behind) %>%
-  mutate(text = paste0(team,": ",wins,"–",losses,", ",
-                       conference_games_behind, " GB\n")) |> 
+  select(team,wins, losses, conference_games_behind,division_place) %>%
+  mutate(text = if_else(
+    division_place == 1,
+    paste0(team,": ",wins,"–",losses,", ",
+           conference_games_behind, " GB\n"),
+    paste0(team,": ",wins,"–",losses,", ",
+           conference_games_behind, "\n"))) |> 
   select(text)
 
 east_top_five <- paste(east_leaders$text, collapse = "")
 
-text <- paste0("Western Conference:\n",west_top_five,
-               "\nEastern Conference:\n",
+text <- paste0("Western:\n",west_top_five,
+               "\nEastern:\n",
                east_top_five)
 text
 
