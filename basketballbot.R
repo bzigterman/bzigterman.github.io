@@ -202,7 +202,7 @@ standings_the_same <- all_equal(standings_check, old_standings)
 # pennant race chart ----
 nba_min <-  .7*min(nba_standings$win_pct)
 nba_max <- 1.05*max(nba_standings$win_pct)
-nudge <- -.0461118*(nba_max-nba_min)
+nudge <- -.0861118*(nba_max-nba_min)
 
 eastern_standings <- nba_standings %>%
   filter(conference == "Eastern") %>%
@@ -322,10 +322,14 @@ eastern_plot
 p <- plot_grid(western_plot,eastern_plot,
           align = "h",
           rel_widths = c(6,7)) 
+p
 
 file <- tempfile( fileext = ".png")
-ggsave( file, plot = p, device = "png", dpi = 320, 
-        width = 4, height = 8*(628/1200))
+ggsave( file, plot = p, device = "png", 
+        width = 4, height = 2.25,
+        dpi = 320)
+
+
 
 # conference standings table ----
 
@@ -357,7 +361,8 @@ west_leaders <- western_standings %>%
            conference_games_behind, " GB\n"),
     paste0(team,": ",wins,"–",losses,", ",
            conference_games_behind, "\n"))) |> 
-  select(text)
+  select(text) %>%
+  slice_head(n = 11)
 
 west_top_five <- paste( west_leaders$text, collapse = "")
 west_top_five
@@ -369,13 +374,16 @@ east_leaders <- eastern_standings %>%
            conference_games_behind, " GB\n"),
     paste0(team,": ",wins,"–",losses,", ",
            conference_games_behind, "\n"))) |> 
-  select(text)
+  select(text) %>%
+  slice_head(n = 11)
 
 east_top_five <- paste(east_leaders$text, collapse = "")
 
-text <- paste0("Western:\n",west_top_five,
-               "\nEastern:\n",
-               east_top_five)
+text <- paste0(
+  "Western:\n",west_top_five,
+  "\nEastern:\n",
+  east_top_five,
+  "\nMore charts: https://bzigterman.com/projects/basketball")
 text
 
 post_toot(status = text,
