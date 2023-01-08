@@ -180,6 +180,12 @@ west_standings <- western %>%
 
 nba_standings <- full_join(east_standings, west_standings)
 
+latest_game <- as_date(max(nba_standings$date))
+game_yesterday <- if_else(
+  latest_game >= today(tzone = "UTC")- days(1),
+  TRUE,
+  FALSE)
+
 # standings check ----
 old_standings <- read_csv("data/nba_standings.csv",
                           col_types = cols(
@@ -386,8 +392,10 @@ text <- paste0(
   "\nMore charts: https://bzigterman.com/projects/basketball")
 text
 
+
+if (game_yesterday) {
 post_toot(status = text,
           media = file,
           alt_text = "A chart showing the current NBA standings")
-
+}
 
