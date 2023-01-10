@@ -6,6 +6,8 @@ library(zoo)
 library(gt)
 library(gtExtras)
 library(highcharter)
+library(rvest)
+library(xml2)
 library(RColorBrewer)
 library(htmlwidgets)
 
@@ -470,7 +472,6 @@ water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Dat
   mutate(Date = ymd(date)) %>%
   mutate(smaller_conc = pcr_conc_smoothed/1000000000)
 
-
 wastewater_url <- "https://data.cdc.gov/resource/2ew6-ywp6.csv?wwtp_id=655"
 wastewater <- rio::import(wastewater_url,
                           format = "csv") %>%
@@ -480,6 +481,73 @@ wastewater <- rio::import(wastewater_url,
   mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
                             mday(Date))) 
 wastewater_date <- tail(wastewater$short_date,1)
+
+iwss_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/159/"
+iwss_raw <- read_html(iwss_url) %>%
+  html_element("#data_json") %>% html_text() 
+
+iwss_json <- jsonlite::fromJSON(iwss_raw)
+
+iwss <- fromJSON(iwss_json$observations) %>%
+  mutate(date = as_date(sample_collect_date)) %>%
+  mutate(value = pcr_target_avg_conc/1000000) %>%
+  mutate(method = case_when(
+    method == "0.0" ~ "original method",
+    method == "1.0" ~ "new method"
+  )) %>%
+  select(date, pcr_target_avg_conc,value, method) 
+
+iwss$method <- factor(iwss$method, levels = c("original method",
+                                              "new method"))
+
+ggplot(iwss, aes(x = date,
+                 y = value,
+                 color = method)) +
+  geom_point()+
+  xlab(NULL) +
+  labs(caption = "Source: IWSS") +
+  ylab("gene copies per liter") +
+  scale_color_manual(values = c("#4e79a7","#f28e2c")) +
+  scale_y_continuous(labels = label_comma(accuracy = 1,
+                                          suffix = "M"),
+                     #position = "right",
+                     expand = expansion(mult = c(0,.05))
+  )+
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        legend.position = "bottom",
+        legend.title = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        strip.text = element_text(size = 11),
+        strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+ggsave("plots/iwss.png", 
+       width = 8, height = 8*(628/1200), dpi = 320)
+ggsave("plots/iwss_mobile.png", 
+       width = 3, height = 8*(628/1200), dpi = 320)
+
+# fig <- hchart(iwss,
+#               "scatter",
+#               hcaes(x = date,
+#                     y = pcr_target_avg_conc,
+#                     color = method)) |> 
+#   hc_colors(c("#4e79a7","#f28e2c")) %>%
+#   hc_xAxis(title = "") |> 
+#   hc_yAxis(title = list(text = "gene copies per liter")) |> 
+#   hc_add_theme(
+#     hc_theme_bloom()
+#   ) |> 
+#   hc_rangeSelector(enabled = TRUE,
+#                    buttons = list(
+#                      list(type = 'month', count = 3, text = '3m'),
+#                      list(type = 'month', count = 6, text = '6m'),
+#                      list(type = 'year', count = 1, text = '1y'),
+#                      list(type = 'all', text = 'All')),
+#                    selected = 3)
+# fig
 
 wastewater_plus_cases <- full_join(wastewater, idph_cases_champaign) %>%
   full_join(water) %>%
@@ -1113,7 +1181,10 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 <iframe src=\"/interactive/champaign_hospital.html\" width=\"100%\" height=\"375\"> 
 </iframe>
 
-### [Wastewater Surveillance](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
+### Wastewater Surveillance
+
+
+#### [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
 
 <iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"500\"> 
 </iframe>
@@ -1122,6 +1193,16 @@ Definitions from the CDC:
 
 - Pct. Tests Detecting SARS-CoV-2: The proportion of tests with SARS-CoV-2 detected, meaning a cycle threshold (Ct) value <40 for RT-qPCR or at least 3 positive droplets/partitions for RT-ddPCR, by sewershed over the 15-day window defined by 'datestart' and 'dateend'. The detection proportion is the percent calculated by dividing the 15-day rolling sum of SARS-CoV-2 detections by the 15-day rolling sum of the number of tests for each sewershed and multiplying by 100.
 - Percentile: This metric shows whether SARS-CoV-2 virus levels at a site are currently higher or lower than past historical levels at the same site. 0% means levels are the lowest they have been at the site; 100% means levels are the highest they have been at the site. Public health officials watch for increasing levels of the virus in wastewater over time and use this data to help make public health decisions.
+
+#### [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/)
+
+<picture>
+  <source srcset=\"plots/iwss.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"plots/iwss_mobile.png\" alt=\"\" />
+</picture>
+
+Source: [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
 ## Illinois
 
