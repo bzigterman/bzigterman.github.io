@@ -1198,9 +1198,9 @@ Definitions from the CDC:
 #### [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/)
 
 <picture>
-  <source srcset=\"plots/iwss.png\"
+  <source srcset=\"{{ site.baseurl }}/plots/iwss.png\"
           media=\"(min-width: 750px)\">
-  <img src=\"plots/iwss_mobile.png\" alt=\"\" />
+  <img src=\"{{ site.baseurl }}/plots/iwss_mobile.png\" alt=\"\" />
 </picture>
 
 Source: [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
