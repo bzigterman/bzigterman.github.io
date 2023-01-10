@@ -509,7 +509,7 @@ ggplot(iwss, aes(x = date,
   labs(caption = "Source: IWSS") +
   ylab("gene copies per liter") +
   scale_color_manual(values = c("#4e79a7","#f28e2c")) +
-  scale_y_continuous(labels = label_comma(accuracy = 1,
+  scale_y_continuous(labels = scales::label_comma(accuracy = 1,
                                           suffix = "M"),
                      #position = "right",
                      expand = expansion(mult = c(0,.05))
