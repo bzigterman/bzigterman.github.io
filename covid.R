@@ -490,25 +490,17 @@ iwss_raw <- read_html(iwss_url) %>%
 iwss_json <- jsonlite::fromJSON(iwss_raw)
 
 iwss <- fromJSON(iwss_json$observations) %>%
-  mutate(date = as_date(sample_collect_date)) %>%
+  mutate(Date = ymd(sample_collect_date)) %>%
   mutate(value = pcr_target_avg_conc/1000000) %>%
-  mutate(method = case_when(
-    method == "0.0" ~ "original method",
-    method == "1.0" ~ "new method"
-  )) %>%
-  select(date, pcr_target_avg_conc,value, method) 
+  filter(method == "1.0") |> 
+  select(Date, pcr_target_avg_conc,value, method) 
 
-iwss$method <- factor(iwss$method, levels = c("original method",
-                                              "new method"))
-
-ggplot(iwss, aes(x = date,
-                 y = value,
-                 color = method)) +
-  geom_point()+
+ggplot(iwss, aes(x = Date,
+                 y = value)) +
+  geom_point(color = "#4e79a7")+
   xlab(NULL) +
   labs(caption = "Source: IWSS") +
-  ylab("gene copies per liter") +
-  scale_color_manual(values = c("#4e79a7","#f28e2c")) +
+  ylab("Gene copies per liter") +
   scale_y_continuous(labels = scales::label_comma(accuracy = 1,
                                           suffix = "M"),
                      #position = "right",
@@ -530,31 +522,12 @@ ggsave("plots/iwss.png",
 ggsave("plots/iwss_mobile.png", 
        width = 3, height = 8*(628/1200), dpi = 320)
 
-# fig <- hchart(iwss,
-#               "scatter",
-#               hcaes(x = date,
-#                     y = pcr_target_avg_conc,
-#                     color = method)) |> 
-#   hc_colors(c("#4e79a7","#f28e2c")) %>%
-#   hc_xAxis(title = "") |> 
-#   hc_yAxis(title = list(text = "gene copies per liter")) |> 
-#   hc_add_theme(
-#     hc_theme_bloom()
-#   ) |> 
-#   hc_rangeSelector(enabled = TRUE,
-#                    buttons = list(
-#                      list(type = 'month', count = 3, text = '3m'),
-#                      list(type = 'month', count = 6, text = '6m'),
-#                      list(type = 'year', count = 1, text = '1y'),
-#                      list(type = 'all', text = 'All')),
-#                    selected = 3)
-# fig
-
 wastewater_plus_cases <- full_join(wastewater, idph_cases_champaign) %>%
   full_join(water) %>%
+  full_join(iwss) |> 
   select(Date,#ptc_15d,
          detect_prop_15d,percentile,
-         avg_new_cases, smaller_conc) %>%
+         avg_new_cases, smaller_conc,pcr_target_avg_conc) %>%
   arrange(Date)%>%
   filter(Date >= "2021-11-22") %>%
   mutate(Date = as_date(Date))
@@ -578,7 +551,7 @@ fig <- hchart(wastewater_plus_cases,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 5, heights = c(1,1,1,1,1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = wastewater_plus_cases,
@@ -623,13 +596,26 @@ fig <- hchart(wastewater_plus_cases,
       enabled = TRUE),
     color = "#d72a2a",
     yAxis = 3) %>%
+  hc_add_series(
+    data = wastewater_plus_cases,
+    hcaes(x = Date,
+          y = pcr_target_avg_conc),
+    name = "Gene Copies Per Liter",
+    color = "#4e79a7",
+    tooltip = list(
+      pointFormat = "{point.y}"
+    ),
+    label = list(
+      enabled = TRUE),
+    type = "scatter",
+    yAxis = 4) %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: CDC and IDPH. Latest data:",
+    text = paste("Source: IWSS, CDC and IDPH. Latest data:",
                  tail(wastewater$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE) %>%
+  #hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
@@ -641,23 +627,7 @@ fig <- hchart(wastewater_plus_cases,
                      #list(type = 'year', count = 1, text = '1y'),
                      #list(type = 'year', count = 2, text = '2y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3) %>%
-  hc_exporting(
-    enabled = TRUE,
-    sourceWidth = 400,
-    sourceHeight = 400,
-    buttons = list(
-      contextButton = list(
-        enabled = TRUE,
-        menuItems = list("downloadPNG"),
-        theme = list(
-          fill = "white")
-      )
-    ),
-    chartOptions = list(
-      rangeSelector = list(
-        enabled = FALSE))
-  )
+                   selected = 3) 
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_wastewater.html",
@@ -1184,26 +1154,10 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Wastewater Surveillance
 
-
-#### [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
-
-<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"600\"> 
 </iframe>
 
-Definitions from the CDC: 
-
-- Pct. Tests Detecting SARS-CoV-2: The proportion of tests with SARS-CoV-2 detected, meaning a cycle threshold (Ct) value <40 for RT-qPCR or at least 3 positive droplets/partitions for RT-ddPCR, by sewershed over the 15-day window defined by 'datestart' and 'dateend'. The detection proportion is the percent calculated by dividing the 15-day rolling sum of SARS-CoV-2 detections by the 15-day rolling sum of the number of tests for each sewershed and multiplying by 100.
-- Percentile: This metric shows whether SARS-CoV-2 virus levels at a site are currently higher or lower than past historical levels at the same site. 0% means levels are the lowest they have been at the site; 100% means levels are the highest they have been at the site. Public health officials watch for increasing levels of the virus in wastewater over time and use this data to help make public health decisions.
-
-#### [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/)
-
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/iwss.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/iwss_mobile.png\" alt=\"\" />
-</picture>
-
-Source: [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
+More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
 ## Illinois
 
