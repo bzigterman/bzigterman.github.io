@@ -447,11 +447,7 @@ html {
 <td headers="latest" class="gt_row gt_right">4</td>
 <td headers="pct_change" class="gt_row gt_right">+33%</td></tr>
   </tbody>
-  <tfoot class="gt_sourcenotes">
-    <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
-    </tr>
-  </tfoot>
+  
   <tfoot class="gt_footnotes">
     <tr>
       <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 308  total deaths</td>
