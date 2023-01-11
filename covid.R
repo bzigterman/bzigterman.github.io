@@ -912,9 +912,6 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     pct_change = html("14 Day<br>Trend"),
     #lists = html("Past<br>90 Days")
   ) %>%
-  tab_source_note(
-    source_note = paste("Latest data:",champaign_weekday)
-  ) %>%
   tab_footnote(
     footnote = paste(champaign_total_deaths," total deaths"),
     locations = cells_body(columns = names,
