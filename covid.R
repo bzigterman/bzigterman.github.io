@@ -1157,7 +1157,7 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 <iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"600\"> 
 </iframe>
 
-More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
+More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
 ## Illinois
 
