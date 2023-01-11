@@ -469,26 +469,10 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Wastewater Surveillance
 
-
-#### [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
-
-<iframe src="/interactive/champaign_wastewater.html" width="100%" height="500"> 
+<iframe src="/interactive/champaign_wastewater.html" width="100%" height="600"> 
 </iframe>
 
-Definitions from the CDC: 
-
-- Pct. Tests Detecting SARS-CoV-2: The proportion of tests with SARS-CoV-2 detected, meaning a cycle threshold (Ct) value <40 for RT-qPCR or at least 3 positive droplets/partitions for RT-ddPCR, by sewershed over the 15-day window defined by 'datestart' and 'dateend'. The detection proportion is the percent calculated by dividing the 15-day rolling sum of SARS-CoV-2 detections by the 15-day rolling sum of the number of tests for each sewershed and multiplying by 100.
-- Percentile: This metric shows whether SARS-CoV-2 virus levels at a site are currently higher or lower than past historical levels at the same site. 0% means levels are the lowest they have been at the site; 100% means levels are the highest they have been at the site. Public health officials watch for increasing levels of the virus in wastewater over time and use this data to help make public health decisions.
-
-#### [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/)
-
-<picture>
-  <source srcset="{{ site.baseurl }}/plots/iwss.png"
-          media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/iwss_mobile.png" alt="" />
-</picture>
-
-Source: [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
+More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Urbana-Champaign Sanitary District Sewage Treatment Plant](https://iwss.uillinois.edu/wastewater-treatment-plant/159/) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
 ## Illinois
 
