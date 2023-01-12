@@ -449,7 +449,7 @@ fig <- hchart(idph_cases_vax_hosp,
 #hc_title(text = "Housing Metrics") %>%
 hc_credits(
   enabled = TRUE,
-  text = paste("Source: CDC, HHS and IDPH. Latest data:",
+  text = paste("Source: CDC, HHS and NYT. Latest data:",
                tail(idph_cases_vax_hosp$short_date,1)),
   href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -617,7 +617,7 @@ fig <- hchart(wastewater_plus_cases,
     yAxis = 4) %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: IWSS, CDC and IDPH. Latest data:",
+    text = paste("Source: IWSS, CDC and NYT. Latest data:",
                  tail(wastewater$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -1232,7 +1232,7 @@ This chart measures how quickly the average number of new deaths is changing, or
 
 ### Sources
 
-[Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), [University of Illinois](https://go.illinois.edu/COVIDTestingData), [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/), [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
+[Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), [University of Illinois](https://go.illinois.edu/COVIDTestingData), [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/), [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [The New York Times](https://github.com/nytimes/covid-19-data), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
 
 ",
 sep = ""
