@@ -435,9 +435,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="names" class="gt_row gt_left">Cases</td>
-<td headers="two_weeks_ago" class="gt_row gt_right">55</td>
-<td headers="latest" class="gt_row gt_right">35</td>
-<td headers="pct_change" class="gt_row gt_right">−37%</td></tr>
+<td headers="two_weeks_ago" class="gt_row gt_right">26</td>
+<td headers="latest" class="gt_row gt_right">9</td>
+<td headers="pct_change" class="gt_row gt_right">−66%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">30</td>
 <td headers="latest" class="gt_row gt_right gt_striped">7</td>
@@ -450,7 +450,7 @@ html {
   
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 308  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 316  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -529,7 +529,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 As of Tuesday, the 14-day percent change in average new cases was:
   
-- -44% in Champaign County
+- -66% in Champaign County
 - -28% in Illinois
 - -3% in the United States
 - -9% worldwide
