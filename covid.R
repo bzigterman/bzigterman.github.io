@@ -915,11 +915,7 @@ champaign_county_text <- paste(
 "- Average hospitalized: ",champaign_avg_hospitalized," (vs. ",champaign_month_ago_hospitalized,") ","
 ",
 "- Deaths in the past month: ",champaign_dead_last_month," (vs. ",champaign_month_ago_deaths,")
-",
-"- Percent of Champaign County fully vaccinated: ",champaign_pct_fully_vaccinated,"% (vs. ",champaign_month_ago_vaccinated,"%)
-",
-"- Average new vaccine doses: ",champaign_avg_new_vaccine_doses," (vs. ",champaign_month_ago_new_doses,")",
-"
+
 ",
 sep = ""
 )
