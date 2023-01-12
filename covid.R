@@ -376,7 +376,7 @@ cdc_champaign_hosp <- cdc_champaign_data %>%
 idph_cases_vax_hosp <- full_join(idph_cases_champaign, hospitalizations_by_date) %>%
   full_join(cdc_champaign_hosp) %>%
   mutate(Date = as_date(Date)) %>%
-  select(Date, AdministeredCountRollAvg,
+  select(Date,
          monthlydead, avg_new_cases, avg_hospitalized,
          percent_adult_inpatient_beds_used_confirmed_covid,
          percent_adult_icu_beds_used_confirmed_covid) %>%
