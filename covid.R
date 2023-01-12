@@ -776,7 +776,7 @@ hospitalizations_by_date <- hospitalizations %>%
   mutate(Date = Date + days(7))
 
 ### set variables ----
-champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$Deaths, 1),3)),big.mark = ",")
+champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$deaths, 1),3)),big.mark = ",")
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
 champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
 champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
@@ -813,8 +813,7 @@ champaign_death_pct_change_text <-
 
 ### table ----
 
-idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
-  full_join(hospitalizations_by_date) %>%
+idph_cases_vax_hosp <- full_join(idph_cases_champaign, hospitalizations_by_date) %>%
   select(Date,
          monthlydead, avg_new_cases, avg_hospitalized) %>%
   fill(avg_hospitalized, .direction = "down") 
