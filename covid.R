@@ -335,9 +335,6 @@ nyt_champaign <- nyt_data |>
 
 idph_cases_champaign <- nyt_champaign 
 
-idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
-                                  format = "csv") %>%
-  mutate(Date = mdy_hms(Report_Date)) 
 
 ### hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
@@ -376,8 +373,7 @@ cdc_champaign_hosp <- cdc_champaign_data %>%
 
 ### combined ----
 
-idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
-  full_join(hospitalizations_by_date) %>%
+idph_cases_vax_hosp <- full_join(idph_cases_champaign, hospitalizations_by_date) %>%
   full_join(cdc_champaign_hosp) %>%
   mutate(Date = as_date(Date)) %>%
   select(Date, AdministeredCountRollAvg,
@@ -749,9 +745,6 @@ saveWidget(widget = fig, file = "interactive/champaign_hospital.html",
 # make variables ----
 ## Champaign County ----
 ### get data ----
-idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
-                                  format = "csv") %>%
-  mutate(Date = mdy_hms(Report_Date))
 
 ## hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
@@ -780,17 +773,11 @@ champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$deaths, 
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
 champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
 champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
-champaign_pct_fully_vaccinated <- round(100*tail(idph_vax_champaign$PctFullyVaccinatedPopulation,1), digits = 1)
-champaign_avg_new_vaccine_doses <- 
-  format(round(signif(tail(idph_vax_champaign$AdministeredCountRollAvg,1),3)),big.mark=",")
 champaign_weekday <- wday(tail(idph_cases_champaign$Date,1), label = TRUE, abbr = FALSE)
 champaign_month_ago_hospitalized <- 
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
 champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
-champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctFullyVaccinatedPopulation, 13),1), digits = 1)
-champaign_month_ago_new_doses <- 
-  format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
 champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
 champaign_death_pct_change <- round(100*(tail(idph_cases_champaign$monthlydead,1)-tail(lag(idph_cases_champaign$monthlydead, 14),1))/tail(lag(idph_cases_champaign$monthlydead, 14),1), digits = 0)
 
@@ -1240,14 +1227,8 @@ sep = ""
 
 if (champaign_avg_new_cases >= 0 && 
     champaign_dead_last_month >= 0 && 
-    champaign_pct_fully_vaccinated >= 0 &&
-    champaign_pct_fully_vaccinated <= 100 &&
-    champaign_avg_new_vaccine_doses >= 0 &&
     champaign_month_ago_cases >= 0 && 
-    champaign_month_ago_deaths >= 0 && 
-    champaign_month_ago_vaccinated >= 0 &&
-    champaign_month_ago_vaccinated <= 100 &&
-    champaign_month_ago_new_doses >= 0
+    champaign_month_ago_deaths >= 0 
 ) {
   write_lines(web_text,"projects/covid.md")
 }
@@ -1279,14 +1260,8 @@ sep = ""
 
 if (champaign_avg_new_cases >= 0 && 
     champaign_dead_last_month >= 0 && 
-    champaign_pct_fully_vaccinated >= 0 &&
-    champaign_pct_fully_vaccinated <= 100 &&
-    champaign_avg_new_vaccine_doses >= 0 &&
     champaign_month_ago_cases >= 0 && 
-    champaign_month_ago_deaths >= 0 && 
-    champaign_month_ago_vaccinated >= 0 &&
-    champaign_month_ago_vaccinated <= 100 &&
-    champaign_month_ago_new_doses >= 0
+    champaign_month_ago_deaths >= 0 
 ) {
   write_lines(web_text,"projects/covid/vaccines.md")
 }
