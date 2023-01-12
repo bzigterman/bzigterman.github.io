@@ -310,24 +310,30 @@ saveWidget(widget = fig3, file = "interactive/il_transmission_levels.html",
 ### idph ----
 champaignpop <- 209983
 
-idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
-                                    format = "json") 
-idph_cases_champaign <- idph_cases_champaigns$values %>%
-  mutate(new_cases = CasesChange) %>%
-  mutate(Date = ymd_hms(ReportDate)) |> 
-  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deathss = DeathsChange) |> 
+nyt_data <- full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2020.csv",
+                                  format = "csv"),rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2021.csv",
+                                                              format = "csv")) |> 
+  full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2022.csv",
+                        format = "csv")) |>
+  full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2023.csv",
+                        format = "csv")) |> 
+  filter(fips == 17019)
+nyt_champaign <- nyt_data |> 
+  mutate(Date = ymd(date)) |> 
+  mutate(new_cases = cases - lag(cases, 1)) |> 
+  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) |> 
+  mutate(new_deathss = deaths-lag(deaths,1))|> 
   mutate(
     add = Reduce(function(prev, this) min(this+prev, 0),
-                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_deaths = pmax(DeathsChange + add, 0)
+                 new_deathss, init = 0, accumulate = TRUE, right = TRUE)[-1], 
+    new_deaths = pmax(new_deathss + add, 0)
   ) %>%
-  select(-add) |> 
+  select(-add) |> select (-new_deathss) |> select(-date) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)
-sum(idph_cases_champaign$new_deaths)
-sum(idph_cases_champaign$DeathsChange)
+
+idph_cases_champaign <- nyt_champaign 
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
@@ -743,23 +749,6 @@ saveWidget(widget = fig, file = "interactive/champaign_hospital.html",
 # make variables ----
 ## Champaign County ----
 ### get data ----
-idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
-                                     format = "json") 
-idph_cases_champaign <- idph_cases_champaigns$values %>%
-  mutate(new_cases = CasesChange) %>%
-  mutate(Date = ymd_hms(ReportDate)) |> 
-  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deathss = DeathsChange) |> 
-  mutate(
-    add = Reduce(function(prev, this) min(this+prev, 0),
-                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_deaths = pmax(DeathsChange + add, 0)
-  ) %>%
-  select(-add) |> 
-  mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
-  mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)
-
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
   mutate(Date = mdy_hms(Report_Date))
@@ -952,23 +941,30 @@ sep = ""
 # case acceleration ----
 ### get data ----
 #### Champaign ----
-idph_cases_champaigns <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
-                                     format = "json") 
-idph_cases_champaign <- idph_cases_champaigns$values %>%
-  mutate(new_cases = CasesChange) %>%
-  mutate(Date = ymd_hms(ReportDate)) |> 
-  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deathss = DeathsChange) |> 
+nyt_data <- full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2020.csv",
+                                  format = "csv"),rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2021.csv",
+                                                              format = "csv")) |> 
+  full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2022.csv",
+                        format = "csv")) |>
+  full_join(rio::import("https://github.com/nytimes/covid-19-data/raw/master/us-counties-2023.csv",
+                        format = "csv")) |> 
+  filter(fips == 17019)
+nyt_champaign <- nyt_data |> 
+  mutate(Date = ymd(date)) |> 
+  mutate(new_cases = cases - lag(cases, 1)) |> 
+  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) |> 
+  mutate(new_deathss = deaths-lag(deaths,1))|> 
   mutate(
     add = Reduce(function(prev, this) min(this+prev, 0),
-                 DeathsChange, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_deaths = pmax(DeathsChange + add, 0)
+                 new_deathss, init = 0, accumulate = TRUE, right = TRUE)[-1], 
+    new_deaths = pmax(new_deathss + add, 0)
   ) %>%
-  select(-add) |> 
+  select(-add) |> select (-new_deathss) |> select(-date) |> 
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31) %>%
-  mutate(Date = ymd_hms(ReportDate, truncated = 0)) %>%
+                                fill = NA, align = "right")*31)
+
+idph_cases_champaign <- nyt_champaign %>%
   mutate(date = as_date(Date)) %>%
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
