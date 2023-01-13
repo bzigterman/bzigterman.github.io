@@ -11,6 +11,7 @@ jobs:
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
       AQI_API_KEY: ${{ secrets.AQI_API_KEY }}
+      PIRATE_WEATHER: ${{ secrets.PIRATE_WEATHER }}
       RTOOT_DEFAULT_TOKEN: ${{ secrets.RTOOT_DEFAULT_TOKEN }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
