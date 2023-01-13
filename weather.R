@@ -18,6 +18,22 @@ champaign_lon <- -88.24039
 
 # get data ----
 
+# pirate api ----
+Sys.getenv("PIRATE_WEATHER")
+
+pirate_url <- paste0("https://api.pirateweather.net/forecast/",
+                     Sys.getenv("PIRATE_WEATHER"),"/",
+                     champaign_lat,",",champaign_lon,
+                     "?exclude=minutely,daily,alerts&extend=hourly")
+pirate_forecast <- GET(pirate_url)
+pirate_status <- status_code(pirate_forecast)
+pirate_forecast_content <- content(pirate_forecast)
+pirate_currently <- pirate_forecast_content$currently
+pirate_hourly <- pirate_forecast_content$hourly$data %>%
+  map(as_tibble) %>%
+  reduce(bind_rows) |> 
+  mutate(time = as_datetime(time, tz = "America/Chicago"))
+
 # owm api ----
 Sys.getenv("OWM_API_KEY")
 
