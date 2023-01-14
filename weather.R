@@ -27,12 +27,26 @@ pirate_url <- paste0("https://api.pirateweather.net/forecast/",
                      "?exclude=minutely,daily,alerts&extend=hourly")
 pirate_forecast <- GET(pirate_url)
 pirate_status <- status_code(pirate_forecast)
+pirate_status
 pirate_forecast_content <- content(pirate_forecast)
 pirate_currently <- pirate_forecast_content$currently
 pirate_hourly <- pirate_forecast_content$hourly$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
   mutate(time = as_datetime(time, tz = "America/Chicago"))
+
+pirate_history_url <- paste0("https://timemachine.pirateweather.net/forecast/",
+                             Sys.getenv("PIRATE_WEATHER"),"/",
+                             champaign_lat,",",champaign_lon,
+                             "?time=-86400s")
+pirate_history <- GET(pirate_history_url)
+pirate_history_status <- status_code(pirate_history)
+pirate_history_status
+# pirate_history_content <- content(pirate_history)
+# pirate_history_hourly <-  pirate_history_content$hourly$data %>%
+#   map(as_tibble) %>%
+#   reduce(bind_rows) |> 
+#   mutate(time = as_datetime(time, tz = "America/Chicago"))
 
 # owm api ----
 Sys.getenv("OWM_API_KEY")
