@@ -14,13 +14,13 @@ Eastern,WAS,18,25,.419
 Eastern,ORL,16,27,.372
 Eastern,DET,12,34,.261
 Eastern,CHA,11,32,.256
+Western,DEN,29,13,.690
 Western,MEM,28,13,.683
-Western,DEN,28,13,.683
 Western,NOP,26,17,.605
+Western,SAC,23,18,.561
 Western,DAL,24,19,.558
-Western,SAC,22,18,.550
-Western,LAC,22,21,.512
 Western,GSW,21,21,.500
+Western,LAC,22,22,.500
 Western,UTA,22,23,.489
 Western,MIN,21,22,.488
 Western,PHX,21,23,.477
@@ -28,4 +28,4 @@ Western,OKC,20,23,.465
 Western,POR,19,22,.463
 Western,LAL,19,23,.452
 Western,SAS,13,30,.302
-Western,HOU,10,31,.244
+Western,HOU,10,32,.238
