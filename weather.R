@@ -38,7 +38,7 @@ pirate_hourly <- pirate_forecast_content$hourly$data %>%
 pirate_history_url <- paste0("https://timemachine.pirateweather.net/forecast/",
                              Sys.getenv("PIRATE_WEATHER"),"/",
                              champaign_lat,",",champaign_lon,
-                             "?time=-86400s")
+                             ",-86400")
 pirate_history <- GET(pirate_history_url)
 pirate_history_status <- status_code(pirate_history)
 pirate_history_status
