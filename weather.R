@@ -339,8 +339,8 @@ ncei_GET <- GET(url)
 ncei_status <- status_code(ncei_GET)
 if (ncei_status == 200) {
   ncei <- content(ncei_GET)
-  sum(ncei$PRCP, na.rm = TRUE)
 }
+empty_check <- identical(ncei$PRCP, character(0))
 
 # AQI ----
 aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
@@ -881,505 +881,507 @@ today_temp_history <- temp_history %>%
   filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
   mutate(date = ymd(as_date(central_time)))
 
-temp_history <- ncei |> 
-  pivot_longer(cols = c(TMIN, TMAX)) |> 
-  mutate(central_time = with_tz(DATE, tzone = "America/Chicago")) |> 
-  mutate(temp = value) |> 
-  drop_na() |> 
-  select(central_time, temp) 
-
-temps_past_year <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
-  mutate(period = "Past Year") %>%
-  select(temp, period, central_time)%>%
-  arrange(temp)
-
-record_maxs <- temp_history %>%
-  mutate(date = date(central_time)) %>%
-  mutate(month = month(date)) %>%
-  mutate(day = day(date)) %>%
-  group_by(month, day) %>%
-  summarise(Record_max = max(temp)) %>%
-  ungroup() %>%
-  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
-  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date)) %>%
-  select(date, Record_max)
-
-record_mins <- temp_history %>%
-  mutate(date = date(central_time)) %>%
-  mutate(month = month(date)) %>%
-  mutate(day = day(date)) %>%
-  group_by(month, day) %>%
-  summarise(Record_min = min(temp)) %>%
-  ungroup() %>%
-  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
-  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date)) %>%
-  select(date, Record_min)
-
-records <- full_join(record_maxs,record_mins)
-
-record_range <- today_temp_history %>%
-  select(temp) %>%
-  mutate(period = "Record (since 1902)") 
-
-seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
-           length.out = 100)
-records_range <- tibble(period = "Record (since 1902)",
-                        temp = seq)
-
-normal_daily_precip_prep <- read_csv("data/normal_precip.csv") %>%
-  clean_names() %>%
-  select(date,mly_prcp_normal) %>%
-  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
-                           "-",date,"-01"))) %>%
-  mutate(normal_daily_precip = mly_prcp_normal) %>%
-  select(date, normal_daily_precip) 
-normal_daily_precip <- read_csv("data/normals_willard.csv") %>%
-  clean_names() %>%
-  select(date) %>%
-  filter(date != "02-29") %>%
-  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
-                           "-",date))) %>%
-  full_join(normal_daily_precip_prep) %>%
-  fill(normal_daily_precip, .direction = "down") %>%
-  mutate(month = month(date))
-df_new <- as.data.frame(lapply(normal_daily_precip, as.character), stringsAsFactors = FALSE)
-df_new_monthly_precip <- head(do.call(rbind, by(df_new, normal_daily_precip$month, rbind, "")), -1 ) %>%
-  mutate(date = ymd(date)) %>%
-  mutate(normal_daily_precip = as.numeric(normal_daily_precip)) %>%
-  select(date,normal_daily_precip)
-
-normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
-  clean_names() %>%
-  select(date,mtd_prcp_normal) %>%
-  filter(date != "02-29") %>%
-  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
-                           "-",date))) %>%
-  mutate(normal_monthly_precip = mtd_prcp_normal) %>%
-  select(date, normal_monthly_precip) %>%
-  mutate(month = month(date))
-df_new <- as.data.frame(lapply(normal_monthly_precip, as.character), stringsAsFactors = FALSE)
-df_newer <- head(do.call(rbind, by(df_new, normal_monthly_precip$month, rbind, "")), -1 ) %>%
-  mutate(date = ymd(date)) %>%
-  mutate(normal_monthly_precip = as.numeric(normal_monthly_precip)) %>%
-  select(date,normal_monthly_precip)
-
-
-normals <- read_csv("data/normals.csv") %>%
-  filter(date != "02-29") %>%
-  mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
-                           "-",date))) %>%
-  select(date, min, max) %>%
-  mutate(Normal_min = min) %>%
-  mutate(Normal_max = max) %>%
-  select(date,Normal_min,Normal_max) 
-
-normals_today <- normals %>%
-  filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
-  filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
-
-normals_longer <- normals_today %>%
-  pivot_longer(cols = c(Normal_min,Normal_max))
-
-seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
-           length.out = 100)
-normals_range <- tibble(period = "Normal (1991–2020)",
-                        temp = seq)
-
-temps_past_eleven_months <- temps_past_year %>%
-  filter(central_time > now(tzone = "America/Chicago")-weeks(48)) %>%
-  mutate(period = "Past 11 Months") %>%
-  select(temp, period, central_time)
-
-daily_maxs <- temps_past_eleven_months %>%
-  mutate(date = date(central_time)) %>%
-  mutate(month = month(date)) %>%
-  mutate(day = day(date)) %>%
-  group_by(month, day) %>%
-  summarise(Actual_max = max(temp)) %>%
-  ungroup() %>%
-  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
-  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date)) %>%
-  select(date, Actual_max)
-
-daily_mins <- temps_past_eleven_months %>%
-  mutate(date = date(central_time)) %>%
-  mutate(month = month(date)) %>%
-  mutate(day = day(date)) %>%
-  group_by(month, day) %>%
-  summarise(Actual_min = min(temp)) %>%
-  ungroup() %>%
-  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
-  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date)) %>%
-  select(date, Actual_min)
-
-dailies <- full_join(daily_maxs,daily_mins)
-
-eleven_months_ago <- ceiling_date(now(tzone = "America/Chicago")-weeks(48),"month")
-
-monthly_rain <- ncei %>%
-  mutate(date = DATE) |> 
-  mutate(precip_one_hour = PRCP) |> 
-  select(date, precip_one_hour) %>%
-  filter(date > eleven_months_ago) %>%
-  mutate(year = year(date)) %>%
-  mutate(month = month(date)) %>%
-  mutate(day = day(date)) %>%
-  group_by(year, month, day) %>%
-  summarise(daily_precip_total = sum(precip_one_hour,na.rm = TRUE)) %>%
-  ungroup() %>%
-  mutate(date = ymd(paste0(year,"-",month,"-",day),tz = "US/Central")) %>%
-  select(date,year, month, daily_precip_total) %>%
-  group_by(year,month) %>%
-  mutate(month_precip_sum = cumsum(daily_precip_total)) %>%
-  ungroup() %>%
-  select(date,daily_precip_total,month_precip_sum) %>%
-  mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month(date),"-",day(date))) %>%
-  filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
-  mutate(date = ymd(date,tz = "US/Central")) %>%
-  select(date,daily_precip_total,month_precip_sum)
-
-today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
-  filter(date == today(tzone = "America/Chicago")) %>%
-  mutate("MTD Normal" = normal_monthly_precip) %>%
-  mutate("MTD Actual" = month_precip_sum) %>%
-  mutate("Daily" = daily_precip_total) %>%
-  mutate(date = as.Date(date), tz = "US/Central") %>%
-  select(date, "MTD Normal","MTD Actual","Daily") %>%
-  pivot_longer(!date)
-
-current_temp <- temps_past_hour %>%
-  mutate(date = date(central_time)) %>%
-  mutate(Now = temp) %>%
-  select(date,Now)
-
-year_weather_data <- full_join(records, normals) %>%
-  full_join(dailies) %>%
-  full_join(monthly_rain) %>%
-  mutate(date = ymd(date)) 
-
-year_precip <- year_weather_data %>%
-  select(date, daily_precip_total,month_precip_sum) %>%
-  mutate(month = month(date))
-df_new <- as.data.frame(lapply(year_precip, as.character), stringsAsFactors = FALSE)
-df_new_precip <- head(do.call(rbind, by(df_new, year_precip$month, rbind, "")), -1 ) %>%
-  mutate(date = ymd(date)) %>%
-  mutate(daily_precip_total = as.numeric(daily_precip_total)) %>%
-  mutate(month_precip_sum = as.numeric(month_precip_sum)) %>%
-  select(date,daily_precip_total,month_precip_sum)
-
-
-record_his <- year_weather_data %>%
-  mutate(records = case_when(
-    round(Record_max) == round(Actual_max) ~ "Record high",
-    round(Record_min) == round(Actual_min) ~ "Record low",
-    TRUE ~ "")) %>%
-  filter(records == "Record high") %>%
-  select(date,Record_max)
-record_los <- year_weather_data %>%
-  mutate(records = case_when(
-    round(Record_max) == round(Actual_max) ~ "Record high",
-    round(Record_min) == round(Actual_min) ~ "Record low",
-    TRUE ~ "")) %>%
-  filter(records == "Record low")%>%
-  select(date,Record_min)
-
-year_weather_data_longer <- year_weather_data %>%
-  pivot_longer(!c(date,daily_precip_total,month_precip_sum),
-               names_to = c("type","min_max"),
-               names_sep = "_") %>%
-  pivot_wider(names_from = min_max,
-              values_from = value) %>%
-  select(date,type, max, min)
-year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
-today_weather_data <- year_weather_data %>%
-  mutate("Record high" = Record_max) %>%
-  mutate("Record low"  = Record_min) %>%
-  mutate("Normal high" = Normal_max) %>%
-  mutate("Normal low"  = Normal_min) %>%
-  mutate("Actual high" = Actual_max) %>%
-  mutate("Actual low"  = Actual_min) %>%
-  select(date,"Record high","Record low","Normal high",
-         "Normal low","Actual high","Actual low") %>%
-  filter(date == today(tzone = "America/Chicago"))
-today_weather_data_longer <- today_weather_data %>%
-  pivot_longer(!date)
-
-## weather year plot ----
-fig <- hchart(year_weather_data_longer, "arearange", 
-              hcaes(x = date,
-                    low = round(min),
-                    high = round(max),
-                    group = type),
-              step = "center",
-              animation = FALSE,
-              marker = list(
-                radius = 1),
-              lineWidth = 0,
-              fillOpacity = 1,
-              tooltip = list(valueSuffix = "°"),
-              yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, 
-                                 heights = c(5,1),
-                                 title = list(text = NULL))) %>%
-  hc_add_series(data = df_newer,
+if (!empty_check) {
+  
+  temp_history <- ncei |> 
+    pivot_longer(cols = c(TMIN, TMAX)) |> 
+    mutate(central_time = with_tz(DATE, tzone = "America/Chicago")) |> 
+    mutate(temp = value) |> 
+    drop_na() |> 
+    select(central_time, temp) 
+  
+  temps_past_year <- temp_history %>%
+    filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
+    mutate(period = "Past Year") %>%
+    select(temp, period, central_time)%>%
+    arrange(temp)
+  
+  record_maxs <- temp_history %>%
+    mutate(date = date(central_time)) %>%
+    mutate(month = month(date)) %>%
+    mutate(day = day(date)) %>%
+    group_by(month, day) %>%
+    summarise(Record_max = max(temp)) %>%
+    ungroup() %>%
+    mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+    filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+    mutate(date = ymd(date)) %>%
+    select(date, Record_max)
+  
+  record_mins <- temp_history %>%
+    mutate(date = date(central_time)) %>%
+    mutate(month = month(date)) %>%
+    mutate(day = day(date)) %>%
+    group_by(month, day) %>%
+    summarise(Record_min = min(temp)) %>%
+    ungroup() %>%
+    mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+    filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+    mutate(date = ymd(date)) %>%
+    select(date, Record_min)
+  
+  records <- full_join(record_maxs,record_mins)
+  
+  record_range <- today_temp_history %>%
+    select(temp) %>%
+    mutate(period = "Record (since 1902)") 
+  
+  seq <- seq(from = min(record_range$temp), to = max(record_range$temp),
+             length.out = 100)
+  records_range <- tibble(period = "Record (since 1902)",
+                          temp = seq)
+  
+  normal_daily_precip_prep <- read_csv("data/normal_precip.csv") %>%
+    clean_names() %>%
+    select(date,mly_prcp_normal) %>%
+    mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                             "-",date,"-01"))) %>%
+    mutate(normal_daily_precip = mly_prcp_normal) %>%
+    select(date, normal_daily_precip) 
+  normal_daily_precip <- read_csv("data/normals_willard.csv") %>%
+    clean_names() %>%
+    select(date) %>%
+    filter(date != "02-29") %>%
+    mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                             "-",date))) %>%
+    full_join(normal_daily_precip_prep) %>%
+    fill(normal_daily_precip, .direction = "down") %>%
+    mutate(month = month(date))
+  df_new <- as.data.frame(lapply(normal_daily_precip, as.character), stringsAsFactors = FALSE)
+  df_new_monthly_precip <- head(do.call(rbind, by(df_new, normal_daily_precip$month, rbind, "")), -1 ) %>%
+    mutate(date = ymd(date)) %>%
+    mutate(normal_daily_precip = as.numeric(normal_daily_precip)) %>%
+    select(date,normal_daily_precip)
+  
+  normal_monthly_precip <- read_csv("data/normals_willard.csv") %>%
+    clean_names() %>%
+    select(date,mtd_prcp_normal) %>%
+    filter(date != "02-29") %>%
+    mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                             "-",date))) %>%
+    mutate(normal_monthly_precip = mtd_prcp_normal) %>%
+    select(date, normal_monthly_precip) %>%
+    mutate(month = month(date))
+  df_new <- as.data.frame(lapply(normal_monthly_precip, as.character), stringsAsFactors = FALSE)
+  df_newer <- head(do.call(rbind, by(df_new, normal_monthly_precip$month, rbind, "")), -1 ) %>%
+    mutate(date = ymd(date)) %>%
+    mutate(normal_monthly_precip = as.numeric(normal_monthly_precip)) %>%
+    select(date,normal_monthly_precip)
+  
+  
+  normals <- read_csv("data/normals.csv") %>%
+    filter(date != "02-29") %>%
+    mutate(date = ymd(paste0(year(today(tzone = "America/Chicago")),
+                             "-",date))) %>%
+    select(date, min, max) %>%
+    mutate(Normal_min = min) %>%
+    mutate(Normal_max = max) %>%
+    select(date,Normal_min,Normal_max) 
+  
+  normals_today <- normals %>%
+    filter(month(date) == month(today(tzone = "America/Chicago"))) %>%
+    filter(mday(date) == mday(today(tzone = "America/Chicago"))) 
+  
+  normals_longer <- normals_today %>%
+    pivot_longer(cols = c(Normal_min,Normal_max))
+  
+  seq <- seq(from = min(normals_longer$value), to = max(normals_longer$value),
+             length.out = 100)
+  normals_range <- tibble(period = "Normal (1991–2020)",
+                          temp = seq)
+  
+  temps_past_eleven_months <- temps_past_year %>%
+    filter(central_time > now(tzone = "America/Chicago")-weeks(48)) %>%
+    mutate(period = "Past 11 Months") %>%
+    select(temp, period, central_time)
+  
+  daily_maxs <- temps_past_eleven_months %>%
+    mutate(date = date(central_time)) %>%
+    mutate(month = month(date)) %>%
+    mutate(day = day(date)) %>%
+    group_by(month, day) %>%
+    summarise(Actual_max = max(temp)) %>%
+    ungroup() %>%
+    mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+    filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+    mutate(date = ymd(date)) %>%
+    select(date, Actual_max)
+  
+  daily_mins <- temps_past_eleven_months %>%
+    mutate(date = date(central_time)) %>%
+    mutate(month = month(date)) %>%
+    mutate(day = day(date)) %>%
+    group_by(month, day) %>%
+    summarise(Actual_min = min(temp)) %>%
+    ungroup() %>%
+    mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month,"-",day)) %>%
+    filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+    mutate(date = ymd(date)) %>%
+    select(date, Actual_min)
+  
+  dailies <- full_join(daily_maxs,daily_mins)
+  
+  eleven_months_ago <- ceiling_date(now(tzone = "America/Chicago")-weeks(48),"month")
+  
+  monthly_rain <- ncei %>%
+    mutate(date = DATE) |> 
+    mutate(precip_one_hour = PRCP) |> 
+    select(date, precip_one_hour) %>%
+    filter(date > eleven_months_ago) %>%
+    mutate(year = year(date)) %>%
+    mutate(month = month(date)) %>%
+    mutate(day = day(date)) %>%
+    group_by(year, month, day) %>%
+    summarise(daily_precip_total = sum(precip_one_hour,na.rm = TRUE)) %>%
+    ungroup() %>%
+    mutate(date = ymd(paste0(year,"-",month,"-",day),tz = "US/Central")) %>%
+    select(date,year, month, daily_precip_total) %>%
+    group_by(year,month) %>%
+    mutate(month_precip_sum = cumsum(daily_precip_total)) %>%
+    ungroup() %>%
+    select(date,daily_precip_total,month_precip_sum) %>%
+    mutate(date = paste0(year(today(tzone = "America/Chicago")),"-",month(date),"-",day(date))) %>%
+    filter(date != paste0(year(today(tzone = "America/Chicago")),"-2-29")) %>%
+    mutate(date = ymd(date,tz = "US/Central")) %>%
+    select(date,daily_precip_total,month_precip_sum)
+  
+  today_rain <- full_join(normal_monthly_precip, monthly_rain) %>%
+    filter(date == today(tzone = "America/Chicago")) %>%
+    mutate("MTD Normal" = normal_monthly_precip) %>%
+    mutate("MTD Actual" = month_precip_sum) %>%
+    mutate("Daily" = daily_precip_total) %>%
+    mutate(date = as.Date(date), tz = "US/Central") %>%
+    select(date, "MTD Normal","MTD Actual","Daily") %>%
+    pivot_longer(!date)
+  
+  current_temp <- temps_past_hour %>%
+    mutate(date = date(central_time)) %>%
+    mutate(Now = temp) %>%
+    select(date,Now)
+  
+  year_weather_data <- full_join(records, normals) %>%
+    full_join(dailies) %>%
+    full_join(monthly_rain) %>%
+    mutate(date = ymd(date)) 
+  
+  year_precip <- year_weather_data %>%
+    select(date, daily_precip_total,month_precip_sum) %>%
+    mutate(month = month(date))
+  df_new <- as.data.frame(lapply(year_precip, as.character), stringsAsFactors = FALSE)
+  df_new_precip <- head(do.call(rbind, by(df_new, year_precip$month, rbind, "")), -1 ) %>%
+    mutate(date = ymd(date)) %>%
+    mutate(daily_precip_total = as.numeric(daily_precip_total)) %>%
+    mutate(month_precip_sum = as.numeric(month_precip_sum)) %>%
+    select(date,daily_precip_total,month_precip_sum)
+  
+  
+  record_his <- year_weather_data %>%
+    mutate(records = case_when(
+      round(Record_max) == round(Actual_max) ~ "Record high",
+      round(Record_min) == round(Actual_min) ~ "Record low",
+      TRUE ~ "")) %>%
+    filter(records == "Record high") %>%
+    select(date,Record_max)
+  record_los <- year_weather_data %>%
+    mutate(records = case_when(
+      round(Record_max) == round(Actual_max) ~ "Record high",
+      round(Record_min) == round(Actual_min) ~ "Record low",
+      TRUE ~ "")) %>%
+    filter(records == "Record low")%>%
+    select(date,Record_min)
+  
+  year_weather_data_longer <- year_weather_data %>%
+    pivot_longer(!c(date,daily_precip_total,month_precip_sum),
+                 names_to = c("type","min_max"),
+                 names_sep = "_") %>%
+    pivot_wider(names_from = min_max,
+                values_from = value) %>%
+    select(date,type, max, min)
+  year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
+  today_weather_data <- year_weather_data %>%
+    mutate("Record high" = Record_max) %>%
+    mutate("Record low"  = Record_min) %>%
+    mutate("Normal high" = Normal_max) %>%
+    mutate("Normal low"  = Normal_min) %>%
+    mutate("Actual high" = Actual_max) %>%
+    mutate("Actual low"  = Actual_min) %>%
+    select(date,"Record high","Record low","Normal high",
+           "Normal low","Actual high","Actual low") %>%
+    filter(date == today(tzone = "America/Chicago"))
+  today_weather_data_longer <- today_weather_data %>%
+    pivot_longer(!date)
+  
+  ## weather year plot ----
+  fig <- hchart(year_weather_data_longer, "arearange", 
                 hcaes(x = date,
-                      y = normal_monthly_precip),
-                type = "area",
-                lineWidth = 1,
-                marker = list(
-                  radius = 1,
-                  symbol = "circle"),
-                name = "MTD Normal",
-                animation = FALSE,
-                tooltip = list(valueSuffix = "{value}″"),
+                      low = round(min),
+                      high = round(max),
+                      group = type),
                 step = "center",
-                fillOpacity = .1,
-                color = "#698490",
-                yAxis = 1) %>%
-  hc_add_series(data = df_new_precip,
-                hcaes(x = date,
-                      y = month_precip_sum),
-                type = "area",
+                animation = FALSE,
                 marker = list(
-                  radius = 1,
-                  symbol = "circle"),
-                animation = FALSE,
-                lineWidth = 1,
-                step = "center",
-                name = "MTD Actual",
-                tooltip = list(valueSuffix = "{value}″"),
-                color = "#b0dcf0",
-                yAxis = 1) %>%
-  hc_add_series(data = df_new_monthly_precip,
-                hcaes(x = date,
-                      y = normal_daily_precip),
-                type = "line",
-                marker = list(
-                  radius = 1,
-                  symbol = "circle"),
-                animation = FALSE,
-                lineWidth = 1,
-                step = "center",
-                name = "Monthly Avg.",
-                tooltip = list(valueSuffix = "{value}″"),
-                color = "#698490",
-                yAxis = 1) %>%
-  hc_add_series(data = df_new_precip,
-                hcaes(x = date,
-                      y = daily_precip_total),
-                type = "column",
-                name = "Daily",
-                animation = FALSE,
-                tooltip = list(valueSuffix = "{value}″"),
-                color = "#698490",
-                yAxis = 1) %>%
-  hc_xAxis(
-    title = "",
-    showLastLabel = FALSE,
-    labels = list(
-      format = "{value:%b}")
-  ) %>%
-  hc_legend(enabled = FALSE) %>%
-  hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
-  hc_tooltip(shared = TRUE,
-             xDateFormat = "%B %e") %>%
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: NCEI",
-    href = "https://bzigterman.com/interactive/champaign_weather_year.html") %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  )
-fig
-saveWidget(widget = fig, file = "interactive/champaign_weather_year.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-p <- ggplot(year_weather_data, aes(x = date)) +
-  geom_segment(aes(xend = date,
-                   y = Record_min,
-                   yend = Record_max),
-               color = "#e9e8df",
-               size = .75) +
-  geom_segment(aes(xend = date,
-                   y = Normal_min,
-                   yend = Normal_max),
-               color = "#c2afb1",
-               size = .75) +
-  geom_segment(aes(xend = date,
-                   y = Actual_min,
-                   yend = Actual_max),
-               color = "#a6003f",
-               size = .75) +
-  scale_x_date(date_labels = "%b",
-               expand = c(0.01,0.01),
-               name = NULL,
-               date_breaks = "1 month") +
-  scale_y_continuous(name = NULL) +
-  theme_minimal() +
-  theme(
-    panel.grid.minor = element_blank(),
-    panel.grid.major.x = element_line(color = "gray80",
-                                      linetype = "dashed"),
-    panel.grid.major.y = element_line(color = "gray93")
-  )
-p
-ggsave("plots/champaign_weather_year.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
-
-ggsave("plots/champaign_weather_year_mobile.png", bg = "white",
-       width = 4, height = 8*(628/1200), dpi = 320)
-
-temps <- full_join(records_range,normals_range) %>%
-  full_join(temps_today) %>%
-  full_join(temps_past_hour) %>%
-  select(period, temp)
-
-almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
-                                  "Today","Now"),
-                       min = c(min(today_temp_history$temp),
-                               normals_today$Normal_min,
-                               min(temps_today$temp),
-                               as.numeric("NA")),
-                       max = c(max(today_temp_history$temp),
-                               normals_today$Normal_max,
-                               max(temps_today$temp),
-                               max(temps_past_hour$temp)))
-
-almanac_longer <- pivot_longer(almanac_data,
-                               cols = c(min,max)) %>%
-  mutate(period = recode_factor(period, 
-                                "current"      = "Current",
-                                "today"        = "Today",
-                                "normal"       = "Normal (1991–2020)",
-                                "record"       = "Record (since 1888)"))
-
-# ggplot(almanac_longer, aes(x = 1,
-#                            y = value,
-#                            size = period,
-#                            color = period)) +
-#   geom_line(data = filter(almanac_longer, period != "Current"),
-#                           alpha = .5) +
-#   scale_size_manual(values = c(6,3,1.5)) +
-#   scale_color_manual(values = c("purple","black","yellow")) +
-#   geom_point(data = filter(almanac_longer, period == "Current"),
-#              color = "red",
-#              size = 5) +
-#   theme_minimal() +
-#   theme(
-#     legend.title = element_blank(),
-#     plot.background = element_rect(fill = "white", color = "white"),
-#     panel.grid = element_blank(),
-#     plot.caption = element_text(color = "grey70")
-#   )
-
-## plot----
-p <- ggplot(data = temps,
-            aes(x = period,
-                y = temp)) +
-  geom_hline(data = temps_past_hour, aes(yintercept = temp,
-                                         color = temp)) +
-  geom_line(data = temps,
-            aes(color = temp),
-            size = 4) +
-  geom_text(data = almanac_data,
-            aes(x = period,
-                y = min,
-                label = round(min)),
-            nudge_y = -2) +
-  geom_text(data = almanac_data,
-            aes(x = period,
-                y = max,
-                label = round(max)),
-            nudge_y = if_else( is.na(almanac_data$min),0, 2)) +
-  geom_text(data = almanac_data,
-            aes(x = period,
-                y = if_else( is.na(min),max, (min+max)/2),
-                label = period),
-            #vjust =.5,
-            angle = 90,
-            size = 3,
-            #nudge_y = 1,
-            nudge_x = -.2,
-            color = "grey60") +
-  scale_x_discrete(limits = c(
-    "Now",
-    "Today",
-    "Normal (1991–2020)",
-    "Record (since 1888)"),
-    labels = NULL) +
-  scale_color_distiller(palette = "Spectral",
-                        guide = NULL) +
-  theme_minimal() +
-  scale_y_continuous(labels = NULL) +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather, MRCC, NWS") +
-  theme(
-    axis.text.x = element_text(angle = 90),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey70")
-  )
-p
-ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-       width = 4, height = 8*(628/1200), dpi = 320)
-
-p +
-  theme(
-    plot.margin = margin(0,180,0,180)
-  )
-
-ggsave("plots/champaign_almanac.png", bg = "white",
-       width = 8, height = 8*(628/1200), dpi = 320)
-
-
-# geom_segment(data = filter(almanac_data, type == "record"), 
-#              aes(y = min, yend = max)) +
-#   geom_segment(data = filter(almanac_data, type == "today"), 
-#                aes(y = min, yend = max)) +
-#   geom_segment(data = filter(almanac_data, type == "normal"), 
-#                aes(y = min, yend = max),
-#                color = ) 
-
-
-# p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value),
-#                                 color = value)) +
-#   geom_hline(data = temps_past_hour, aes(yintercept = temp,
-#                                          color = temp)) +
-#   geom_line(size = 2) +
-#   geom_text(nudge_x = .2) +
-#   theme_minimal() +
-#   scale_color_distiller(palette = "Spectral",
-#                         guide = NULL) +
-#   scale_y_continuous(labels = NULL) +
-#   labs(x = NULL,
-#        y = NULL,
-#        caption = "Source: OpenWeather, MRCC, NWS") +
-#   theme(
-#     legend.title = element_blank(),
-#     plot.background = element_rect(fill = "white", color = "white"),
-#     panel.grid = element_blank(),
-#     plot.caption = element_text(color = "grey70")
-#   )
-# p
-# 
-# ggsave("plots/champaign_almanac_mobile.png", bg = "white",
-#        width = 5, height = 8, dpi = 320)
-# 
-# p +
-#   theme(
-#     plot.margin = margin(0,180,0,180)
-#   )
-# 
-# ggsave("plots/champaign_almanac.png", bg = "white",
-#        width = 8, height = 8*(628/1200), dpi = 320)
-
+                  radius = 1),
+                lineWidth = 0,
+                fillOpacity = 1,
+                tooltip = list(valueSuffix = "°"),
+                yAxis = 0) %>%
+    hc_yAxis_multiples(create_axis(naxis = 2, 
+                                   heights = c(5,1),
+                                   title = list(text = NULL))) %>%
+    hc_add_series(data = df_newer,
+                  hcaes(x = date,
+                        y = normal_monthly_precip),
+                  type = "area",
+                  lineWidth = 1,
+                  marker = list(
+                    radius = 1,
+                    symbol = "circle"),
+                  name = "MTD Normal",
+                  animation = FALSE,
+                  tooltip = list(valueSuffix = "{value}″"),
+                  step = "center",
+                  fillOpacity = .1,
+                  color = "#698490",
+                  yAxis = 1) %>%
+    hc_add_series(data = df_new_precip,
+                  hcaes(x = date,
+                        y = month_precip_sum),
+                  type = "area",
+                  marker = list(
+                    radius = 1,
+                    symbol = "circle"),
+                  animation = FALSE,
+                  lineWidth = 1,
+                  step = "center",
+                  name = "MTD Actual",
+                  tooltip = list(valueSuffix = "{value}″"),
+                  color = "#b0dcf0",
+                  yAxis = 1) %>%
+    hc_add_series(data = df_new_monthly_precip,
+                  hcaes(x = date,
+                        y = normal_daily_precip),
+                  type = "line",
+                  marker = list(
+                    radius = 1,
+                    symbol = "circle"),
+                  animation = FALSE,
+                  lineWidth = 1,
+                  step = "center",
+                  name = "Monthly Avg.",
+                  tooltip = list(valueSuffix = "{value}″"),
+                  color = "#698490",
+                  yAxis = 1) %>%
+    hc_add_series(data = df_new_precip,
+                  hcaes(x = date,
+                        y = daily_precip_total),
+                  type = "column",
+                  name = "Daily",
+                  animation = FALSE,
+                  tooltip = list(valueSuffix = "{value}″"),
+                  color = "#698490",
+                  yAxis = 1) %>%
+    hc_xAxis(
+      title = "",
+      showLastLabel = FALSE,
+      labels = list(
+        format = "{value:%b}")
+    ) %>%
+    hc_legend(enabled = FALSE) %>%
+    hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
+    hc_tooltip(shared = TRUE,
+               xDateFormat = "%B %e") %>%
+    hc_credits(
+      enabled = TRUE,
+      text = "Source: NCEI",
+      href = "https://bzigterman.com/interactive/champaign_weather_year.html") %>%
+    hc_add_theme(
+      hc_theme_bloom()
+    )
+  fig
+  saveWidget(widget = fig, file = "interactive/champaign_weather_year.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  
+  p <- ggplot(year_weather_data, aes(x = date)) +
+    geom_segment(aes(xend = date,
+                     y = Record_min,
+                     yend = Record_max),
+                 color = "#e9e8df",
+                 size = .75) +
+    geom_segment(aes(xend = date,
+                     y = Normal_min,
+                     yend = Normal_max),
+                 color = "#c2afb1",
+                 size = .75) +
+    geom_segment(aes(xend = date,
+                     y = Actual_min,
+                     yend = Actual_max),
+                 color = "#a6003f",
+                 size = .75) +
+    scale_x_date(date_labels = "%b",
+                 expand = c(0.01,0.01),
+                 name = NULL,
+                 date_breaks = "1 month") +
+    scale_y_continuous(name = NULL) +
+    theme_minimal() +
+    theme(
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(color = "gray80",
+                                        linetype = "dashed"),
+      panel.grid.major.y = element_line(color = "gray93")
+    )
+  p
+  ggsave("plots/champaign_weather_year.png", bg = "white",
+         width = 8, height = 8*(628/1200), dpi = 320)
+  
+  ggsave("plots/champaign_weather_year_mobile.png", bg = "white",
+         width = 4, height = 8*(628/1200), dpi = 320)
+  
+  temps <- full_join(records_range,normals_range) %>%
+    full_join(temps_today) %>%
+    full_join(temps_past_hour) %>%
+    select(period, temp)
+  
+  almanac_data <- tibble(period = c("Record (since 1888)","Normal (1991–2020)",
+                                    "Today","Now"),
+                         min = c(min(today_temp_history$temp),
+                                 normals_today$Normal_min,
+                                 min(temps_today$temp),
+                                 as.numeric("NA")),
+                         max = c(max(today_temp_history$temp),
+                                 normals_today$Normal_max,
+                                 max(temps_today$temp),
+                                 max(temps_past_hour$temp)))
+  
+  almanac_longer <- pivot_longer(almanac_data,
+                                 cols = c(min,max)) %>%
+    mutate(period = recode_factor(period, 
+                                  "current"      = "Current",
+                                  "today"        = "Today",
+                                  "normal"       = "Normal (1991–2020)",
+                                  "record"       = "Record (since 1888)"))
+  
+  # ggplot(almanac_longer, aes(x = 1,
+  #                            y = value,
+  #                            size = period,
+  #                            color = period)) +
+  #   geom_line(data = filter(almanac_longer, period != "Current"),
+  #                           alpha = .5) +
+  #   scale_size_manual(values = c(6,3,1.5)) +
+  #   scale_color_manual(values = c("purple","black","yellow")) +
+  #   geom_point(data = filter(almanac_longer, period == "Current"),
+  #              color = "red",
+  #              size = 5) +
+  #   theme_minimal() +
+  #   theme(
+  #     legend.title = element_blank(),
+  #     plot.background = element_rect(fill = "white", color = "white"),
+  #     panel.grid = element_blank(),
+  #     plot.caption = element_text(color = "grey70")
+  #   )
+  
+  ## plot----
+  p <- ggplot(data = temps,
+              aes(x = period,
+                  y = temp)) +
+    geom_hline(data = temps_past_hour, aes(yintercept = temp,
+                                           color = temp)) +
+    geom_line(data = temps,
+              aes(color = temp),
+              size = 4) +
+    geom_text(data = almanac_data,
+              aes(x = period,
+                  y = min,
+                  label = round(min)),
+              nudge_y = -2) +
+    geom_text(data = almanac_data,
+              aes(x = period,
+                  y = max,
+                  label = round(max)),
+              nudge_y = if_else( is.na(almanac_data$min),0, 2)) +
+    geom_text(data = almanac_data,
+              aes(x = period,
+                  y = if_else( is.na(min),max, (min+max)/2),
+                  label = period),
+              #vjust =.5,
+              angle = 90,
+              size = 3,
+              #nudge_y = 1,
+              nudge_x = -.2,
+              color = "grey60") +
+    scale_x_discrete(limits = c(
+      "Now",
+      "Today",
+      "Normal (1991–2020)",
+      "Record (since 1888)"),
+      labels = NULL) +
+    scale_color_distiller(palette = "Spectral",
+                          guide = NULL) +
+    theme_minimal() +
+    scale_y_continuous(labels = NULL) +
+    labs(x = NULL,
+         y = NULL,
+         caption = "Source: OpenWeather, MRCC, NWS") +
+    theme(
+      axis.text.x = element_text(angle = 90),
+      plot.background = element_rect(fill = "white", color = "white"),
+      panel.grid = element_blank(),
+      plot.caption = element_text(color = "grey70")
+    )
+  p
+  ggsave("plots/champaign_almanac_mobile.png", bg = "white",
+         width = 4, height = 8*(628/1200), dpi = 320)
+  
+  p +
+    theme(
+      plot.margin = margin(0,180,0,180)
+    )
+  
+  ggsave("plots/champaign_almanac.png", bg = "white",
+         width = 8, height = 8*(628/1200), dpi = 320)
+  
+  
+  # geom_segment(data = filter(almanac_data, type == "record"), 
+  #              aes(y = min, yend = max)) +
+  #   geom_segment(data = filter(almanac_data, type == "today"), 
+  #                aes(y = min, yend = max)) +
+  #   geom_segment(data = filter(almanac_data, type == "normal"), 
+  #                aes(y = min, yend = max),
+  #                color = ) 
+  
+  
+  # p <- ggplot(almanac_longer, aes(x = type, y = value, label = round(value),
+  #                                 color = value)) +
+  #   geom_hline(data = temps_past_hour, aes(yintercept = temp,
+  #                                          color = temp)) +
+  #   geom_line(size = 2) +
+  #   geom_text(nudge_x = .2) +
+  #   theme_minimal() +
+  #   scale_color_distiller(palette = "Spectral",
+  #                         guide = NULL) +
+  #   scale_y_continuous(labels = NULL) +
+  #   labs(x = NULL,
+  #        y = NULL,
+  #        caption = "Source: OpenWeather, MRCC, NWS") +
+  #   theme(
+  #     legend.title = element_blank(),
+  #     plot.background = element_rect(fill = "white", color = "white"),
+  #     panel.grid = element_blank(),
+  #     plot.caption = element_text(color = "grey70")
+  #   )
+  # p
+  # 
+  # ggsave("plots/champaign_almanac_mobile.png", bg = "white",
+  #        width = 5, height = 8, dpi = 320)
+  # 
+  # p +
+  #   theme(
+  #     plot.margin = margin(0,180,0,180)
+  #   )
+  # 
+  # ggsave("plots/champaign_almanac.png", bg = "white",
+  #        width = 8, height = 8*(628/1200), dpi = 320)
+}
 
 # web text ----
 severe_weather_outlook_url <- 
