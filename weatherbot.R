@@ -64,18 +64,16 @@ pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |>
   mutate(precipProbability = 100*precipProbability) 
 pirate_champaign_longer <- pirate_champaign |> 
   select(time,summary,precipProbability,precipAccumulation,precipType,
-         temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
+         temperature,windSpeed) |> 
   pivot_longer(!c(time,summary,precipType),
                names_to = "names",
                values_to = "values") |> 
   mutate(names = recode_factor(names, 
                                "temperature"        = "°F",
                                "precipProbability"  = "Precip%",
-                               "precipAccumulation" = "Precip",
-                               "cloudCover"         = "Clouds",
-                               "windSpeed"          = "Wind",
-                               "humidity"           = "Humidity",
-                               "uvIndex"            = "UV"))
+                               "precipAccumulation" = "Precip.",
+                               "windSpeed"          = "Wind"))
+
 p <- ggplot()+
   geom_rect(data = pirate_daylight,
             aes(xmin = sunrise, xmax = sunset,
