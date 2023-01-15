@@ -72,7 +72,7 @@ pirate_champaign_longer <- pirate_champaign |>
   mutate(names = recode_factor(names, 
                                "temperature"        = "°F",
                                "precipProbability"  = "Precip%",
-                               "precipAccumulation" = "Precip",
+                               "precipAccumulation" = "Precip.",
                                "cloudCover"         = "Clouds",
                                "windSpeed"          = "Wind",
                                "humidity"           = "Humidity",
