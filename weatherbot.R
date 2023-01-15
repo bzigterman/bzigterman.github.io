@@ -194,11 +194,11 @@ text
 
 if (rainfall >= 0 && 
     snowfall >= 0 && 
-    champaign_current$humidity >= 0 && 
-    champaign_current$humidity <= 100 && 
-    champaign_current$temp >= -50 &&
-    champaign_current$temp <= 150 &&
-    champaign_current$wind_speed >= 0 
+    pirate_currently$humidity >= 0 && 
+    pirate_currently$humidity <= 100 && 
+    pirate_currently$temperature >= -50 &&
+    pirate_currently$temperature <= 150 &&
+    pirate_currently$windSpeed >= 0 
 ) {
   post_toot(
     status   = text,
