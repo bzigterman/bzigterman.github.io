@@ -316,7 +316,7 @@ temps_past_century <- temp_history %>%
   mutate(period = "All Records (since 1888)") %>%
   select(temp, period, central_time)%>%
   arrange(temp)
-temps_next_week <- all_future %>%
+temps_next_week <- pirate_hourly %>%
   mutate(period = "Next Week") %>%
   select(temp, period, central_time) %>%
   arrange(temp)
