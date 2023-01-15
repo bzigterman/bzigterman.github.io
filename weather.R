@@ -62,7 +62,8 @@ pirate_daylight <- pirate_history_daily %>%
   mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago"))
 
 pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |> 
-  mutate(precipProbability = 100*precipProbability) 
+  mutate(precipProbability = 100*precipProbability) |> 
+  mutate(humidity = 100*humidity) 
 pirate_champaign_longer <- pirate_champaign |> 
   select(time,summary,precipProbability,precipAccumulation,precipType,
          temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
