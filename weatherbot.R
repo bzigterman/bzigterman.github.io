@@ -189,7 +189,7 @@ text <- paste0(
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
 ",champaign_aqi,"
-",champaign_rain_text,"
+",champaign_precip,"
 
 More charts: https://bzigterman.com/projects/weather")
 text
