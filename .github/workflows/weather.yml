@@ -14,6 +14,7 @@ jobs:
     env:
       OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
       AQI_API_KEY: ${{ secrets.AQI_API_KEY }}
+      PIRATE_WEATHER: ${{ secrets.PIRATE_WEATHER }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
