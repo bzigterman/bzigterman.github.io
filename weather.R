@@ -24,13 +24,18 @@ Sys.getenv("PIRATE_WEATHER")
 pirate_url <- paste0("https://api.pirateweather.net/forecast/",
                      Sys.getenv("PIRATE_WEATHER"),"/",
                      champaign_lat,",",champaign_lon,
-                     "?exclude=minutely,daily,alerts&extend=hourly")
+                     "?exclude=minutely,alerts&extend=hourly")
 pirate_forecast <- GET(pirate_url)
 pirate_status <- status_code(pirate_forecast)
 pirate_status
 pirate_forecast_content <- content(pirate_forecast)
 pirate_currently <- pirate_forecast_content$currently
 pirate_hourly <- pirate_forecast_content$hourly$data %>%
+  map(as_tibble) %>%
+  reduce(bind_rows) |> 
+  mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(time >= now(tzone = "America/Chicago"))
+pirate_daily <- pirate_forecast_content$daily$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
   mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
@@ -53,7 +58,8 @@ pirate_history_daily <- pirate_history_content$daily$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
   mutate(time = as_datetime(time, tz = "America/Chicago")) 
-pirate_daylight <- pirate_history_daily %>%
+
+pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
   select(sunriseTime, sunsetTime) %>%
   unique() %>%
   mutate(top = Inf) %>%
