@@ -175,9 +175,10 @@ fig <- highchart() |>
                 ),
                 lineWidth = 0,
                 tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
-                label = list(
-                  enabled = TRUE,
-                  onArea = FALSE),
+                #label = list(
+                #  enabled = TRUE,
+                #  format = "{value.precipType}", ### label----
+                #  onArea = FALSE),
                 hcaes(x = time*1000,
                       y = precipAccumulation,
                       group = precipType),
