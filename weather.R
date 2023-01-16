@@ -234,7 +234,7 @@ fig <- highchart() |>
            gridLineWidth = 1,
            tickInterval = 24 * 3600 * 1000,
            dateTimeLabelFormats = list(
-             day = "%a"
+             day = "%A"
            ),
            plotLines = list(
              list(
