@@ -325,8 +325,8 @@ latest_month <- month(today(tzone = "America/Chicago"))
 willard <- willard_cleaner %>%
   mutate(year_text = paste0(
     if_else(latest_month == 1 & date <= 3,
-            year(today(tzone = "America/Chicago")),
-            year(today(tzone = "America/Chicago"))-1))) %>%
+            year(today(tzone = "America/Chicago"))-1,
+            year(today(tzone = "America/Chicago"))))) %>%
   mutate(
     month_text = if_else(
       latest_date <= 3 & date > 20,
