@@ -104,6 +104,17 @@ pirate_champaign_wider <- pirate_champaign_longer |>
   pivot_wider(names_from = names,
               values_from = values)
 
+## rainfall total ----
+pirate_rain <- pirate_history_hourly |> 
+  select(datetime,precipAccumulation,precipType) |> 
+  filter(precipType == "rain")
+pirate_snow <- pirate_history_hourly |> 
+  select(datetime,precipAccumulation,precipType) |> 
+  filter(precipType == "snow")
+
+rainfall <- round(sum(pirate_rain$precipAccumulation),1)
+snowfall <- round(sum(pirate_snow$precipAccumulation),1)
+
 ## interactive ----
 fig <- highchart() |> 
   hc_add_series(data = pirate_champaign,
@@ -154,7 +165,7 @@ fig <- highchart() |>
                 color = "#b0dcf0",
                 label = list(
                   enabled = TRUE),
-                tooltip = list(valueSuffix = "\""),
+                tooltip = list(valueSuffix = "″"),
                 hcaes(x = time*1000,
                       y = precipAccumulation),
                 yAxis = 2) |> 
@@ -279,17 +290,6 @@ ggsave("plots/champaign_weather.png", bg = "white",
 
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 9, dpi = 320)
-
-# rainfall total ----
-pirate_rain <- pirate_history_hourly |> 
-  select(datetime,precipAccumulation,precipType) |> 
-  filter(precipType == "rain")
-pirate_snow <- pirate_history_hourly |> 
-  select(datetime,precipAccumulation,precipType) |> 
-  filter(precipType == "snow")
-
-rainfall <- round(sum(pirate_rain$precipAccumulation),1)
-snowfall <- round(sum(pirate_snow$precipAccumulation),1)
 
 # nws scraping ----
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
