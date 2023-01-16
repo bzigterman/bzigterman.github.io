@@ -167,9 +167,9 @@ champaign_humidity <- paste(100*pirate_currently$humidity,"%",sep = "")
 champaign_desc <- pirate_currently$summary
 champaign_wind_speed <- paste(round(pirate_currently$windSpeed),"mph")
 champaign_precip <- case_when(
-  rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow"),
-  rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain"),
-  snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow"),
+  rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow in the past 24 hours"),
+  rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours"),
+  snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours"),
   rainfall == 0 && snowfall == 0 ~ paste(""))
 champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
 
