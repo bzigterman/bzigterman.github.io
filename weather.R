@@ -170,14 +170,19 @@ fig <- highchart() |>
                 type = "area",
                 name = "Precip. Amount",
                 step = "center",
-                color = "#b0dcf0",
+                marker = list(
+                  enabled = FALSE
+                ),
+                #color = "#b0dcf0",
                 lineWidth = 0,
-                tooltip = list(valueSuffix = "″"),
+                tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
                 label = list(
                   enabled = TRUE,
                   onArea = FALSE),
                 hcaes(x = time*1000,
-                      y = precipAccumulation),
+                      y = precipAccumulation,
+                      group = precipType,
+                      color = precipType),
                 yAxis = 2) |> 
   hc_add_series(data = pirate_champaign,
                 type = "area",
@@ -264,7 +269,9 @@ fig <- highchart() |>
                zIndex = 1,
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              )))%>%
+  hc_colors(c("#e9e8df","#b0dcf0","#C8D1D7")) %>%
   hc_tooltip(shared = TRUE,
+             split = TRUE,
              crosshairs = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
