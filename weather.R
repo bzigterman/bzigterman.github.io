@@ -209,7 +209,10 @@ fig <- highchart() |>
   hc_yAxis_multiples(create_axis(naxis = 7, 
                                  heights = c(1,1,1,1,1,1,1),
                                  title = list(text = NULL))) |> 
-  hc_xAxis(type = "datetime")%>%
+  hc_xAxis(type = "datetime",
+           gridLineColor = "#e9e8df",
+           gridLineWidth = 1,
+           tickInterval = 24 * 3600 * 1000)%>%
   hc_tooltip(shared = TRUE,
              crosshairs = TRUE) %>%
   hc_add_theme(
