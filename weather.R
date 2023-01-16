@@ -171,6 +171,7 @@ fig <- highchart() |>
                 name = "Precip. Amount",
                 step = "center",
                 color = "#b0dcf0",
+                lineWidth = 0,
                 tooltip = list(valueSuffix = "″"),
                 label = list(
                   enabled = TRUE,
@@ -182,6 +183,7 @@ fig <- highchart() |>
                 type = "area",
                 name = "Cloud Cover",
                 color = "lightgray",
+                lineWidth = 0,
                 tooltip = list(valueSuffix = "%"),
                 label = list(
                   enabled = TRUE),
