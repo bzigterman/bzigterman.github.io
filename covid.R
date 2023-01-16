@@ -609,6 +609,9 @@ fig <- hchart(wastewater_plus_cases,
           y = pcr_target_avg_conc),
     name = "Gene Copies Per Liter",
     color = "#4e79a7",
+    marker = list(
+      radius = 2
+    ),
     tooltip = list(
       pointFormat = "{point.y}"
     ),
