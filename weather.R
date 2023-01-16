@@ -158,9 +158,9 @@ fig <- highchart() |>
                       y = precipAccumulation),
                 yAxis = 2) |> 
   hc_add_series(data = pirate_champaign,
-                type = "line",
+                type = "area",
                 name = "Cloud Cover",
-                color = "gray",
+                color = "lightgray",
                 tooltip = list(valueSuffix = "%"),
                 label = list(
                   enabled = TRUE),
