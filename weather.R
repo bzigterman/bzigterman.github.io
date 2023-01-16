@@ -171,7 +171,7 @@ fig <- highchart() |>
                 name = "Precip. Amount",
                 step = "center",
                 marker = list(
-                  enabled = FALSE
+                  radius = 0
                 ),
                 #color = "#b0dcf0",
                 lineWidth = 0,
