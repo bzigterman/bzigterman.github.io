@@ -219,7 +219,7 @@ fig <- highchart() |>
                color = "black",
                width = 1,
                zIndex = 1,
-               value = now(tzone = "America/Chicago")
+               value = as.numeric( now(tzone = "America/Chicago"))*1000
              )))%>%
   hc_tooltip(shared = TRUE,
              crosshairs = TRUE) %>%
