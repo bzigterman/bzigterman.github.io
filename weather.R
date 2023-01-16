@@ -104,6 +104,7 @@ pirate_champaign_wider <- pirate_champaign_longer |>
   pivot_wider(names_from = names,
               values_from = values)
 
+## interactive ----
 fig <- highchart() |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
@@ -213,6 +214,9 @@ fig <- highchart() |>
            gridLineColor = "#e9e8df",
            gridLineWidth = 1,
            tickInterval = 24 * 3600 * 1000,
+           dateTimeLabelFormats = list(
+             day = "%a"
+           ),
            plotLines = list(
              list(
                label = list(text = "Now"),
@@ -276,7 +280,7 @@ ggsave("plots/champaign_weather.png", bg = "white",
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 9, dpi = 320)
 
-### rainfall total ----
+# rainfall total ----
 pirate_rain <- pirate_history_hourly |> 
   select(datetime,precipAccumulation,precipType) |> 
   filter(precipType == "rain")
