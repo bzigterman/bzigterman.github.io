@@ -151,6 +151,7 @@ fig <- highchart() |>
                     color = "#d53e4f"),
                   c(value = 200,
                     color = "#9e0142")),
+                color = "black",
                 tooltip = list(valueSuffix = "°F"),
                 hcaes(x = time*1000,
                       y = round(temperature)),
@@ -166,10 +167,14 @@ fig <- highchart() |>
                       y = precipProbability),
                 yAxis = 1) |> 
   hc_add_series(data = pirate_champaign,
-                type = "column",
-                name = "Precip.",
+                type = "area",
+                name = "Precip. Amount",
+                step = "center",
                 color = "#b0dcf0",
                 tooltip = list(valueSuffix = "″"),
+                label = list(
+                  enabled = TRUE,
+                  onArea = FALSE),
                 hcaes(x = time*1000,
                       y = precipAccumulation),
                 yAxis = 2) |> 
@@ -217,6 +222,7 @@ fig <- highchart() |>
                     color = "#C72A23"),
                   c(value = 100,
                     color = "#674AC2")),
+                color = "black",
                 label = list(
                   enabled = TRUE),
                 hcaes(x = time*1000,
