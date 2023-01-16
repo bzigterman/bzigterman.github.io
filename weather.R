@@ -212,7 +212,15 @@ fig <- highchart() |>
   hc_xAxis(type = "datetime",
            gridLineColor = "#e9e8df",
            gridLineWidth = 1,
-           tickInterval = 24 * 3600 * 1000)%>%
+           tickInterval = 24 * 3600 * 1000,
+           plotLines = list(
+             list(
+               label = list(text = "Now"),
+               color = "black",
+               width = 1,
+               zIndex = 1,
+               value = now(tzone = "America/Chicago")
+             )))%>%
   hc_tooltip(shared = TRUE,
              crosshairs = TRUE) %>%
   hc_add_theme(
