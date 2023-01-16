@@ -116,6 +116,12 @@ rainfall <- round(sum(pirate_rain$precipAccumulation),1)
 snowfall <- round(sum(pirate_snow$precipAccumulation),1)
 
 ## interactive ----
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
+
 fig <- highchart() |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
@@ -163,8 +169,6 @@ fig <- highchart() |>
                 type = "column",
                 name = "Precip.",
                 color = "#b0dcf0",
-                label = list(
-                  enabled = TRUE),
                 tooltip = list(valueSuffix = "″"),
                 hcaes(x = time*1000,
                       y = precipAccumulation),
@@ -253,7 +257,7 @@ fig <- highchart() |>
     enabled = TRUE,
     text = paste("Source: NWS. Latest data:",now_formatted),
     href = "https://pirateweather.net") |> 
-  hc_legend(enabled = FALSE)
+  hc_legend(enabled = FALSE) 
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_weather.html",
