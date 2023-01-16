@@ -173,7 +173,6 @@ fig <- highchart() |>
                 marker = list(
                   radius = 0
                 ),
-                #color = "#b0dcf0",
                 lineWidth = 0,
                 tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
                 label = list(
@@ -181,8 +180,7 @@ fig <- highchart() |>
                   onArea = FALSE),
                 hcaes(x = time*1000,
                       y = precipAccumulation,
-                      group = precipType,
-                      color = precipType),
+                      group = precipType),
                 yAxis = 2) |> 
   hc_add_series(data = pirate_champaign,
                 type = "area",
