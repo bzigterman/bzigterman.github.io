@@ -16,6 +16,20 @@ library(htmlwidgets)
 champaign_lat <-  40.08408
 champaign_lon <- -88.24039
 
+now <- as_datetime(now())
+now_formatted <- strftime(x = now, 
+                          tz = "US/Central",
+                          format = "%I:%M% %p CT, %B %d")
+
+now_html <- paste("<p class=\"updated_time\"> Latest data: ",
+                  now_formatted,
+                  "</p>",
+                  sep = "")
+
+today <- strftime(x = now, 
+                  tz = "US/Central",
+                  format = "%B %d")
+
 # get data ----
 
 # pirate api ----
@@ -33,13 +47,13 @@ pirate_currently <- pirate_forecast_content$currently
 pirate_hourly <- pirate_forecast_content$hourly$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(time >= now(tzone = "America/Chicago"))
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(datetime >= now(tzone = "America/Chicago"))
 pirate_daily <- pirate_forecast_content$daily$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(time >= now(tzone = "America/Chicago"))
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(datetime >= now(tzone = "America/Chicago"))
 
 pirate_history_url <- paste0("https://api.pirateweather.net/forecast/",
                              Sys.getenv("PIRATE_WEATHER"),"/",
@@ -52,12 +66,12 @@ pirate_history_content <- content(pirate_history)
 pirate_history_hourly <-  pirate_history_content$hourly$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |>
-  mutate(time = as_datetime(time, tz = "America/Chicago")) %>%
-  filter(time < now(tzone = "America/Chicago"))
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) %>%
+  filter(datetime < now(tzone = "America/Chicago"))
 pirate_history_daily <- pirate_history_content$daily$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
 
 pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
   select(sunriseTime, sunsetTime) %>%
@@ -69,11 +83,13 @@ pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
 
 pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |> 
   mutate(precipProbability = 100*precipProbability) |> 
-  mutate(humidity = 100*humidity) 
+  mutate(humidity = 100*humidity) |> 
+  mutate(cloudCover = 100*cloudCover) |> 
+  arrange(time)
 pirate_champaign_longer <- pirate_champaign |> 
-  select(time,summary,precipProbability,precipAccumulation,precipType,
+  select(datetime,summary,precipProbability,precipAccumulation,precipType,
          temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
-  pivot_longer(!c(time,summary,precipType),
+  pivot_longer(!c(datetime,summary,precipType),
                names_to = "names",
                values_to = "values") |> 
   mutate(names = recode_factor(names, 
@@ -84,6 +100,132 @@ pirate_champaign_longer <- pirate_champaign |>
                                "windSpeed"          = "Wind",
                                "humidity"           = "Humidity",
                                "uvIndex"            = "UV"))
+pirate_champaign_wider <- pirate_champaign_longer |> 
+  pivot_wider(names_from = names,
+              values_from = values)
+
+fig <- highchart() |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "Temperature",
+                label = list(
+                  enabled = TRUE),
+                zones = list(
+                  c(value = 0,
+                    color = "#5e4fa2"),
+                  c(value = 10,
+                    color = "#3288bd"),
+                  c(value = 20,
+                    color = "#66c2a5"),
+                  c(value = 32,
+                    color = "#abdda4"),
+                  c(value = 40,
+                    color = "#e6f598"),
+                  c(value = 50,
+                    color = "#F4E54C"),
+                  c(value = 60,
+                    color = "#fee08b"),
+                  c(value = 70,
+                    color = "#fdae61"),
+                  c(value = 80,
+                    color = "#f46d43"),
+                  c(value = 90,
+                    color = "#d53e4f"),
+                  c(value = 200,
+                    color = "#9e0142")),
+                tooltip = list(valueSuffix = "°F"),
+                hcaes(x = time*1000,
+                      y = round(temperature)),
+                yAxis = 0) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "Precip. Probability",
+                tooltip = list(valueSuffix = "%"),
+                color = "#698490",
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = precipProbability),
+                yAxis = 1) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "column",
+                name = "Precip.",
+                color = "#b0dcf0",
+                label = list(
+                  enabled = TRUE),
+                tooltip = list(valueSuffix = "\""),
+                hcaes(x = time*1000,
+                      y = precipAccumulation),
+                yAxis = 2) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "Cloud Cover",
+                color = "gray",
+                tooltip = list(valueSuffix = "%"),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = cloudCover),
+                yAxis = 3) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "Wind Speed",
+                color = "black",
+                tooltip = list(valueSuffix = " mph"),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = round(windSpeed)),
+                yAxis = 4) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "Humidity",
+                color = "#3288bd",
+                tooltip = list(valueSuffix = "%"),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = humidity),
+                yAxis = 5) |> 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "UV Index",
+                zones = list(
+                  c(value = 2,
+                    color = "#4C9329"),
+                  c(value = 5,
+                    color = "#F4E54C"),
+                  c(value = 7,
+                    color = "#E7652B"),
+                  c(value = 10,
+                    color = "#C72A23"),
+                  c(value = 100,
+                    color = "#674AC2")),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = uvIndex),
+                yAxis = 6) |> 
+  hc_yAxis_multiples(create_axis(naxis = 7, 
+                                 heights = c(1,1,1,1,1,1,1),
+                                 title = list(text = NULL))) |> 
+  hc_xAxis(type = "datetime")%>%
+  hc_tooltip(shared = TRUE,
+             crosshairs = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |> 
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: NWS. Latest data:",now_formatted),
+    href = "https://pirateweather.net") |> 
+  hc_legend(enabled = FALSE)
+
+fig
+saveWidget(widget = fig, file = "interactive/champaign_weather.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 ggplot()+
   geom_rect(data = pirate_daylight,
             aes(xmin = sunrise, xmax = sunset,
@@ -91,7 +233,7 @@ ggplot()+
             #color = "#FFFFaf",
             fill = "#FFFFe2",
             alpha = .8) +
-  geom_line(data = pirate_champaign_longer, aes(x = time,
+  geom_line(data = pirate_champaign_longer, aes(x = datetime,
                                                 y = values,
                                                 color = names)) +
   geom_vline(xintercept = now(tzone = "America/Chicago")) +
@@ -101,8 +243,8 @@ ggplot()+
   labs(caption = "Source: NWS") +
   xlab(NULL) +
   ylab(NULL) +
-  coord_cartesian(xlim = c(min(pirate_champaign_longer$time),
-                           max(pirate_champaign_longer$time))) +
+  coord_cartesian(xlim = c(min(pirate_champaign_longer$datetime),
+                           max(pirate_champaign_longer$datetime))) +
   scale_y_continuous(position = "right") +
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a",
@@ -125,10 +267,10 @@ ggsave("plots/champaign_weather_mobile.png", bg = "white",
 
 ### rainfall total ----
 pirate_rain <- pirate_history_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
+  select(datetime,precipAccumulation,precipType) |> 
   filter(precipType == "rain")
 pirate_snow <- pirate_history_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
+  select(datetime,precipAccumulation,precipType) |> 
   filter(precipType == "snow")
 
 rainfall <- round(sum(pirate_rain$precipAccumulation),1)
@@ -268,7 +410,7 @@ champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
 
 # save temp data ----
 
-weather_data <- tibble(utc_time = as_datetime(pirate_currently$time),
+weather_data <- tibble(utc_time = as_datetime(pirate_currently$datetime),
                        temp = pirate_currently$temperature)
 
 write_csv(x = weather_data,
@@ -325,7 +467,7 @@ temps_past_century <- temp_history %>%
   arrange(temp)
 temps_next_week <- pirate_hourly %>%
   mutate(temp = temperature) |>
-  mutate(central_time = time) |> 
+  mutate(central_time = datetime) |> 
   mutate(period = "Next Week") %>%
   select(temp, period, central_time) %>%
   arrange(temp)
@@ -1144,19 +1286,7 @@ winter_storm_url <-
         sep = ""
   )
 
-now <- as_datetime(now())
-now_formatted <- strftime(x = now, 
-                          tz = "US/Central",
-                          format = "%I:%M% %p CT, %B %d")
 
-now_html <- paste("<p class=\"updated_time\"> Latest data: ",
-                  now_formatted,
-                  "</p>",
-                  sep = "")
-
-today <- strftime(x = now, 
-                  tz = "US/Central",
-                  format = "%B %d")
 
 cat(
   "---
@@ -1171,11 +1301,8 @@ webappicon: /weather.png
 
 ",now_html,"
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/champaign_weather_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/champaign_weather.html\" width=\"100%\" height=\"600\"> 
+</iframe>
 
 Currently:
 
