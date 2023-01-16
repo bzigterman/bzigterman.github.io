@@ -8,13 +8,10 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 10:53 AM CT, January 16</p>
+<p class="updated_time"> Latest data: 10:56 AM CT, January 16</p>
 
-<picture>
-  <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
-          media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/champaign_weather_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
+</iframe>
 
 Currently:
 
