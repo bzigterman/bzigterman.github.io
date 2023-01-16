@@ -170,9 +170,9 @@ fig <- highchart() |>
                 type = "area",
                 name = "Precip. Amount",
                 step = "center",
-                marker = list(
-                  radius = 0
-                ),
+                # marker = list(
+                #   radius = 0
+                # ),
                 lineWidth = 0,
                 tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
                 #label = list(
