@@ -220,7 +220,15 @@ fig <- highchart() |>
                 yAxis = 6) |> 
   hc_yAxis_multiples(create_axis(naxis = 7, 
                                  heights = c(1,1,1,1,1,1,1),
-                                 title = list(text = NULL))) |> 
+                                 title = list(text = NULL),
+                                 ceiling = c(1000,
+                                             100,
+                                             1000,
+                                             100,
+                                             1000,
+                                             100,
+                                             1000
+                                 ))) |> 
   hc_xAxis(type = "datetime",
            gridLineColor = "#e9e8df",
            gridLineWidth = 1,
