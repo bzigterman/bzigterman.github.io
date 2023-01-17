@@ -117,8 +117,20 @@ pirate_snow <- pirate_history_hourly |>
   select(datetime,precipAccumulation,precipType) |> 
   filter(precipType == "snow")
 
-rainfall <- round(sum(pirate_rain$precipAccumulation),1)
-snowfall <- round(sum(pirate_snow$precipAccumulation),1)
+rainfall <- round(sum(pirate_rain$precipAccumulation),2)
+snowfall <- round(sum(pirate_snow$precipAccumulation),2)
+
+pirate_rain_forecast <- pirate_hourly |> 
+  select(time,datetime,precipAccumulation,precipType) |> 
+  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
+  filter(precipType == "rain")
+pirate_snow_forecast <- pirate_hourly |> 
+  select(time,datetime,precipAccumulation,precipType) |> 
+  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
+  filter(precipType == "snow")
+
+rainfall_forecast <- round(sum(pirate_rain_forecast$precipAccumulation),2)
+snowfall_forecast <- round(sum(pirate_snow_forecast$precipAccumulation),2)
 
 ## interactive ----
 offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
@@ -546,6 +558,11 @@ champaign_precip <- case_when(
   rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours"),
   snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours"),
   rainfall == 0 && snowfall == 0 ~ paste(""))
+champaign_precip_forecast <- case_when(
+  rainfall_forecast > 0 && snowfall_forecast > 0   ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours"),
+  rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours"),
+  snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours"),
+  rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
 
 # save temp data ----
@@ -1453,6 +1470,7 @@ Currently:
 - ",champaign_clouds," cloud cover
 ",champaign_aqi,"
 ",champaign_precip,"
+",champaign_precip_forecast,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
