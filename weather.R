@@ -454,7 +454,7 @@ champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
 
 # save temp data ----
 
-weather_data <- tibble(utc_time = as_datetime(pirate_currently$datetime),
+weather_data <- tibble(utc_time = as_datetime(pirate_currently$time),
                        temp = pirate_currently$temperature)
 
 write_csv(x = weather_data,
