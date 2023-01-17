@@ -184,8 +184,9 @@ fig <- highchart() |>
                 #  format = "{value.precipType}", ### label----
                 #  onArea = FALSE),
                 hcaes(x = time*1000,
-                      y = precipAccumulation,
-                      group = precipType),
+                      y = precipAccumulation#,
+                      #group = precipType
+                      ),
                 yAxis = 2) |> 
   hc_add_series(data = pirate_champaign,
                 type = "area",
