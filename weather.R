@@ -282,6 +282,8 @@ fig <- highchart() |>
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              )
            ),
+           min = 1000*min(pirate_champaign$time),
+           max = 1000*max(pirate_champaign$time),
            plotBands = list(
              list(
                #label = list(text = "Now"),
