@@ -85,11 +85,10 @@ pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |>
   mutate(precipProbability = 100*precipProbability) |> 
   mutate(humidity = 100*humidity) |> 
   mutate(cloudCover = 100*cloudCover) |> 
-  mutate(precipType = if_else(precipType == "none",
-                              "rain",
-                              if_else(precipType == "rain",
-                                      "rain",
-                                      "snow"))) |>
+  mutate(precipType = case_when(
+    precipType == "none" ~ "rain",
+    precipType == "rain" ~ "rain",
+    precipType == "snow" ~ "snow")) |>
   arrange(time)
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
