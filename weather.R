@@ -187,6 +187,11 @@ fig <- highchart() |>
   hc_add_series(data = pirate_champaign,
                 type = "column",
                 name = "Precip. Amount",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
                 hcaes(x = time*1000,
                       y = precipAccumulation,
