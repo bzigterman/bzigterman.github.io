@@ -247,6 +247,7 @@ fig <- highchart() |>
                                      )
                                    ),NA,NA,NA,NA,NA,NA
                                  ),
+                                 endOnTick = FALSE,
                                  max = c(NA,
                                          100,
                                          NA,
