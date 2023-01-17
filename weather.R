@@ -85,6 +85,11 @@ pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |>
   mutate(precipProbability = 100*precipProbability) |> 
   mutate(humidity = 100*humidity) |> 
   mutate(cloudCover = 100*cloudCover) |> 
+  mutate(precipType = if_else(precipType == "none",
+                              "rain",
+                              if_else(precipType == "rain",
+                                      "rain",
+                                      "snow"))) |>
   arrange(time)
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
@@ -268,7 +273,7 @@ fig <- highchart() |>
                zIndex = 1,
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              )))%>%
-  hc_colors(c("#e9e8df","#b0dcf0","#8AA5F1")) %>%
+  hc_colors(c("#b0dcf0","#8AA5F1")) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
              crosshairs = TRUE) %>%
