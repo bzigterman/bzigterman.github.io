@@ -171,22 +171,12 @@ fig <- highchart() |>
                       y = precipProbability),
                 yAxis = 1) |> 
   hc_add_series(data = pirate_champaign,
-                type = "area",
+                type = "column",
                 name = "Precip. Amount",
-                step = "center",
-                # marker = list(
-                #   radius = 0
-                # ),
-                lineWidth = 0,
                 tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
-                #label = list(
-                #  enabled = TRUE,
-                #  format = "{value.precipType}", ### label----
-                #  onArea = FALSE),
                 hcaes(x = time*1000,
-                      y = precipAccumulation#,
-                      #group = precipType
-                      ),
+                      y = precipAccumulation,
+                      group = precipType),
                 yAxis = 2) |> 
   hc_add_series(data = pirate_champaign,
                 type = "area",
