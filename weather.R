@@ -79,7 +79,8 @@ pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
   mutate(top = Inf) %>%
   mutate(bottom = -Inf) %>%
   mutate(sunrise = as_datetime(sunriseTime, tz = "America/Chicago")) %>%
-  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago"))
+  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
+  arrange(sunriseTime)
 
 pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |> 
   mutate(precipProbability = 100*precipProbability) |> 
@@ -156,6 +157,7 @@ fig <- highchart() |>
                   c(value = 200,
                     color = "#9e0142")),
                 color = "black",
+                lineWidth = 3,
                 tooltip = list(valueSuffix = "°F"),
                 hcaes(x = time*1000,
                       y = round(temperature)),
@@ -230,8 +232,21 @@ fig <- highchart() |>
                       y = uvIndex),
                 yAxis = 6) |> 
   hc_yAxis_multiples(create_axis(naxis = 7, 
+                                 gridLineColor = "#D9D9D9",
+                                 gridLineWidth = 2,
                                  heights = c(1,1,1,1,1,1,1),
                                  title = list(text = NULL),
+                                 plotLines = list(
+                                   list(
+                                     list(
+                                       label = list(text = "Freezing"),
+                                       color = "#66c2a5",
+                                       width = 1,
+                                       zIndex = 1,
+                                       value = 32
+                                     )
+                                   ),NA,NA,NA,NA,NA,NA
+                                 ),
                                  max = c(NA,
                                          100,
                                          NA,
@@ -249,8 +264,10 @@ fig <- highchart() |>
                                          NA
                                  ))) |> 
   hc_xAxis(type = "datetime",
-           gridLineColor = "#e9e8df",
+           gridLineColor = "#D9D9D9",
            gridLineWidth = 1,
+           lineWidth = 0,
+           opposite = TRUE,
            tickInterval = 24 * 3600 * 1000,
            dateTimeLabelFormats = list(
              day = "%A"
@@ -258,24 +275,100 @@ fig <- highchart() |>
            plotLines = list(
              list(
                label = list(text = "Now"),
-               color = "black",
+               color = "gray",
+               width = .5,
+               zIndex = 2,
+               value = as.numeric( now(tzone = "America/Chicago"))*1000
+             )
+           ),
+           plotBands = list(
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
                width = 1,
                zIndex = 1,
-               value = as.numeric( now(tzone = "America/Chicago"))*1000
-             )))%>%
+               from = 1000*pirate_daylight$sunriseTime[[1]],
+               to = 1000*pirate_daylight$sunsetTime[[1]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[2]],
+               to = 1000*pirate_daylight$sunsetTime[[2]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[3]],
+               to = 1000*pirate_daylight$sunsetTime[[3]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[4]],
+               to = 1000*pirate_daylight$sunsetTime[[4]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[5]],
+               to = 1000*pirate_daylight$sunsetTime[[5]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[6]],
+               to = 1000*pirate_daylight$sunsetTime[[6]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[7]],
+               to = 1000*pirate_daylight$sunsetTime[[7]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[8]],
+               to = 1000*pirate_daylight$sunsetTime[[8]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFe2",
+               width = 1,
+               zIndex = 1,
+               from = 1000*pirate_daylight$sunriseTime[[9]],
+               to = 1000*pirate_daylight$sunsetTime[[9]]
+             )
+           )
+  )%>%
   hc_colors(c("#b0dcf0","#8AA5F1")) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
              crosshairs = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
-  ) |> 
+  ) |>
   hc_credits(
     enabled = TRUE,
     text = paste("Source: NWS. Latest data:",now_formatted),
     href = "https://pirateweather.net") |> 
-  hc_legend(enabled = FALSE) 
-
+  hc_legend(enabled = FALSE) |> 
+  hc_chart(plotBackgroundColor = "#DAE3ED") 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
