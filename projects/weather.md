@@ -8,27 +8,27 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 03:39 PM CT, January 18</p>
+<p class="updated_time"> Latest data: 04:05 PM CT, January 18</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 38°
+- 37°
 - Rain
 - 96% humidity
-- 14 mph wind
+- 18 mph wind
 - 100% cloud cover
 - 53 AQI 🟨
-- 0.07 inches of rain in the past 24 hours
-- 1.07 inches of rain and 0.09 inches of snow expected in the next 72 hours
+- 0.12 inches of rain in the past 24 hours
+- 1.01 inches of rain and 0.09 inches of snow expected in the next 72 hours
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
 ## Temperature History
 
-<iframe src="/interactive/champaign_weather_year.html" width="100%" height="600"> 
+<iframe src="/interactive/champaign_weather_year.html" width="100%" height="500"> 
 </iframe>
 
 The chart above is my attempt at recreating the classic [*New York Times* weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
