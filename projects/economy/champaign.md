@@ -438,21 +438,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">268</td>
-<td headers="latest" class="gt_row gt_right">271</td>
-<td headers="pct_change" class="gt_row gt_right">+1%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">221</td>
+<td headers="latest" class="gt_row gt_right">227</td>
+<td headers="pct_change" class="gt_row gt_right">+3%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">59.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">59.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">0%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">64.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">73.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">+14%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">162,000</td>
-<td headers="latest" class="gt_row gt_right">210,000</td>
-<td headers="pct_change" class="gt_row gt_right">+29%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">161,000</td>
+<td headers="latest" class="gt_row gt_right">212,000</td>
+<td headers="pct_change" class="gt_row gt_right">+32%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">1.12</td>
-<td headers="latest" class="gt_row gt_right gt_striped">0.812</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−28%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">1.19</td>
+<td headers="latest" class="gt_row gt_right gt_striped">0.727</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−39%</td></tr>
   </tbody>
   
   
