@@ -187,6 +187,7 @@ fig <- highchart() |>
   hc_add_series(data = pirate_champaign,
                 type = "column",
                 name = "Precip. Amount",
+                borderWidth = 0,
                 states = list(
                   inactive = list(
                     enabled = FALSE
@@ -304,7 +305,7 @@ fig <- highchart() |>
            plotBands = list(
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[1]],
@@ -312,7 +313,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[2]],
@@ -320,7 +321,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[3]],
@@ -328,7 +329,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[4]],
@@ -336,7 +337,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[5]],
@@ -344,7 +345,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[6]],
@@ -352,7 +353,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[7]],
@@ -360,7 +361,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[8]],
@@ -368,7 +369,7 @@ fig <- highchart() |>
              ),
              list(
                #label = list(text = "Now"),
-               color = "#FFFFe2",
+               color = "#FFFFF5",
                width = 1,
                zIndex = 1,
                from = 1000*pirate_daylight$sunriseTime[[9]],
@@ -376,7 +377,7 @@ fig <- highchart() |>
              )
            )
   )%>%
-  hc_colors(c("#b0dcf0","#8AA5F1")) %>%
+  hc_colors(c("#9CCCE1","#7265B8")) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
              crosshairs = TRUE) %>%
@@ -388,7 +389,7 @@ fig <- highchart() |>
     text = paste("Source: NWS. Latest data:",now_formatted),
     href = "https://pirateweather.net") |> 
   hc_legend(enabled = FALSE) |> 
-  hc_chart(plotBackgroundColor = "#DAE3ED") 
+  hc_chart(plotBackgroundColor = "#E8EEF5") 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
