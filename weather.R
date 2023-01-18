@@ -266,6 +266,7 @@ fig <- highchart() |>
                                    ),NA,NA,NA,NA,NA,NA
                                  ),
                                  endOnTick = FALSE,
+	        startOnTick = FALSE,
                                  max = c(NA,
                                          100,
                                          NA,
@@ -1179,6 +1180,7 @@ if (!empty_check) {
     hc_yAxis_multiples(create_axis(naxis = 2, 
                                    heights = c(5,1),
 	          endOnTick = FALSE,
+	          startOnTick = FALSE,
                                    title = list(text = NULL))) %>%
     hc_add_series(data = df_newer,
                   hcaes(x = date,
