@@ -1178,6 +1178,7 @@ if (!empty_check) {
                 yAxis = 0) %>%
     hc_yAxis_multiples(create_axis(naxis = 2, 
                                    heights = c(5,1),
+	          endOnTick = FALSE,
                                    title = list(text = NULL))) %>%
     hc_add_series(data = df_newer,
                   hcaes(x = date,
