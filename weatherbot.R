@@ -131,11 +131,11 @@ rainfall <- round(sum(pirate_rain$precipAccumulation),2)
 snowfall <- round(sum(pirate_snow$precipAccumulation),2)
 
 pirate_rain_forecast <- pirate_hourly |> 
-  select(time,datetime,precipAccumulation,precipType) |> 
+  select(time,precipAccumulation,precipType) |> 
   filter(time < now(tzone = "America/Chicago")+days(3)) |> 
   filter(precipType == "rain")
 pirate_snow_forecast <- pirate_hourly |> 
-  select(time,datetime,precipAccumulation,precipType) |> 
+  select(time,precipAccumulation,precipType) |> 
   filter(time < now(tzone = "America/Chicago")+days(3)) |> 
   filter(precipType == "snow")
 
