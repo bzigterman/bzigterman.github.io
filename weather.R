@@ -87,9 +87,9 @@ pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |>
   mutate(humidity = 100*humidity) |> 
   mutate(cloudCover = 100*cloudCover) |> 
   mutate(precipType = case_when(
-    precipType == "none" ~ "rain",
-    precipType == "rain" ~ "rain",
-    precipType == "snow" ~ "snow")) |>
+    precipType == "none" ~ "Rain",
+    precipType == "rain" ~ "Rain",
+    precipType == "snow" ~ "Snow")) |>
   arrange(time)
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
@@ -170,7 +170,7 @@ fig <- highchart() |>
                     color = "#9e0142")),
                 color = "black",
                 lineWidth = 3,
-                tooltip = list(valueSuffix = "°F"),
+                tooltip = list(valueSuffix = "°"),
                 hcaes(x = time*1000,
                       y = round(temperature)),
                 yAxis = 0) |> 
@@ -196,7 +196,7 @@ fig <- highchart() |>
                     enabled = FALSE
                   )
                 ),
-                tooltip = list(pointFormat = "{point.precipAccumulation}″ of {point.precipType}"),
+                tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
                 hcaes(x = time*1000,
                       y = precipAccumulation,
                       group = precipType),
