@@ -298,7 +298,7 @@ fig <- highchart() |>
            plotLines = list(
              list(
                label = list(text = "Now"),
-               color = "gray",
+               color = "#595959",
                width = .5,
                zIndex = 2,
                value = as.numeric( now(tzone = "America/Chicago"))*1000
