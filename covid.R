@@ -402,6 +402,7 @@ fig <- hchart(idph_cases_vax_hosp,
               color = "#B45F06",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 3, heights = c(1,1,1),
+                                 endOnTick = FALSE,
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = idph_cases_vax_hosp,
@@ -725,6 +726,7 @@ fig <- hchart(champaign_hosp,
               color = "#d90000",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 3, heights = c(1,1,1),
+                                 endOnTick = FALSE,
                                  title = list(text = NULL))) %>%
 hc_add_series(
   data = champaign_hosp,
