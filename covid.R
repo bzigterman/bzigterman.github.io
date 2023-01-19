@@ -558,8 +558,23 @@ fig <- hchart(wastewater_plus_cases,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 5, heights = c(1,1,1,1,1),
-                                 title = list(text = NULL))) %>%
+  hc_yAxis_multiples(create_axis(naxis = 5, 
+                                 heights = c(1,1,1,1,1),
+                                 title = list(text = NULL),
+                                 endOnTick = FALSE,
+                                 startOnTick = FALSE,
+                                 max = c(NA,
+                                         NA,
+                                         100,
+                                         100,
+                                         NA
+                                 ),
+                                 min = c(0,
+                                         NA,
+                                         0,
+                                         0,
+                                         0
+                                 ))) %>%
   hc_add_series(
     data = wastewater_plus_cases,
     hcaes(x = Date,
@@ -609,15 +624,24 @@ fig <- hchart(wastewater_plus_cases,
           y = pcr_target_avg_conc),
     name = "Gene Copies Per Liter",
     color = "#4e79a7",
-    marker = list(
-      radius = 2
+    borderWidth = 0,
+    groupPadding = 0,
+    pointPadding = 0,
+    pointWidth = 2,
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
     ),
-    tooltip = list(
-      pointFormat = "{point.y}"
-    ),
-    label = list(
-      enabled = TRUE),
-    type = "scatter",
+    # marker = list(
+    #   radius = 2
+    # ),
+    # tooltip = list(
+    #   pointFormat = "{point.y}"
+    # ),
+    # label = list(
+    #   enabled = TRUE),
+    type = "column",
     yAxis = 4) %>%
   hc_credits(
     enabled = TRUE,
@@ -625,7 +649,7 @@ fig <- hchart(wastewater_plus_cases,
                  tail(wastewater$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  #hc_tooltip(shared = TRUE) %>%
+  hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
