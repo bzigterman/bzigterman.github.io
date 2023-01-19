@@ -90,7 +90,8 @@ pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |>
     precipType == "none" ~ "Rain",
     precipType == "rain" ~ "Rain",
     precipType == "snow" ~ "Snow")) |>
-  arrange(time)
+  arrange(time) |> 
+  filter(time > now(tzone = "America/Chicago"))
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
          temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
@@ -295,15 +296,15 @@ fig <- highchart() |>
            dateTimeLabelFormats = list(
              day = "%A"
            ),
-           plotLines = list(
-             list(
-               label = list(text = "Now"),
-               color = "#595959",
-               width = .5,
-               zIndex = 2,
-               value = as.numeric( now(tzone = "America/Chicago"))*1000
-             )
-           ),
+           # plotLines = list(
+           #   list(
+           #     label = list(text = "Now"),
+           #     color = "#595959",
+           #     width = .5,
+           #     zIndex = 2,
+           #     value = as.numeric( now(tzone = "America/Chicago"))*1000
+           #   )
+           # ),
            min = 1000*min(pirate_champaign$time),
            max = 1000*max(pirate_champaign$time),
            plotBands = list(
@@ -508,7 +509,7 @@ willard_his_los <- willard_clean %>%
 
 champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
 champaign_rain_text <- ifelse(champaign_rain > 0, 
-                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours"),
+                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
                               "")
 
 willard_data <- read_csv(file = "data/willard_weather.csv") 
@@ -1480,7 +1481,7 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
+",champaign_aqi,"",champaign_rain_text,"",champaign_precip_forecast,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
