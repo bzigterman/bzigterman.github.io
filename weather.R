@@ -188,6 +188,9 @@ fig <- highchart() |>
                 type = "column",
                 name = "Precip. Amount",
                 borderWidth = 0,
+                groupPadding = 0,
+                pointPadding = 0,
+                pointWidth = 5,
                 states = list(
                   inactive = list(
                     enabled = FALSE
@@ -378,7 +381,7 @@ fig <- highchart() |>
              )
            )
   )%>%
-  hc_colors(c("#9CCCE1","#7265B8")) %>%
+  hc_colors(c("#b0dcf0","#8AA5F1")) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
              crosshairs = TRUE) %>%
