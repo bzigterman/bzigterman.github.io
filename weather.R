@@ -176,7 +176,7 @@ fig <- highchart() |>
                 yAxis = 0) |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
-                name = "Precip. Probability",
+                name = "Precip. Chance",
                 tooltip = list(valueSuffix = "%"),
                 color = "#698490",
                 label = list(
@@ -214,7 +214,7 @@ fig <- highchart() |>
                 yAxis = 3) |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
-                name = "Wind Speed",
+                name = "Wind",
                 color = "black",
                 tooltip = list(valueSuffix = " mph"),
                 label = list(
@@ -260,7 +260,7 @@ fig <- highchart() |>
                                  plotLines = list(
                                    list(
                                      list(
-                                       label = list(text = "Freezing"),
+                                       label = list(text = "32°"),
                                        color = "#66c2a5",
                                        width = 1,
                                        zIndex = 1,
