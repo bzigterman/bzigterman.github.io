@@ -167,7 +167,7 @@ if (aqi_status == 200) {
       CategoryNumber == 6 ~ "🟫",
       CategoryNumber == 7 ~ "") 
     ) |> 
-    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ", color))
+    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ", color,"\n"))
   champaign_aqi <- aqi_color$aqi_plus_text
 } else {
   champaign_aqi <- ""
@@ -179,14 +179,14 @@ champaign_humidity <- paste(100*pirate_currently$humidity,"%",sep = "")
 champaign_desc <- pirate_currently$summary
 champaign_wind_speed <- paste(round(pirate_currently$windSpeed),"mph")
 champaign_precip <- case_when(
-  rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow in the past 24 hours"),
-  rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours"),
-  snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours"),
+  rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow in the past 24 hours\n"),
+  rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours\n"),
+  snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours\n"),
   rainfall == 0 && snowfall == 0 ~ paste(""))
 champaign_precip_forecast <- case_when(
-  rainfall_forecast > 0 && snowfall_forecast > 0   ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours"),
-  rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours"),
-  snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours"),
+  rainfall_forecast > 0 && snowfall_forecast > 0   ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
+  snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
 
@@ -209,9 +209,7 @@ text <- paste0(
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-",champaign_aqi,"
-",champaign_precip,"
-",champaign_precip_forecast,"
+",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
 
 More charts: https://bzigterman.com/projects/weather")
 text
@@ -219,7 +217,7 @@ text
 if (rainfall >= 0 && 
     snowfall >= 0 && 
     pirate_currently$humidity >= 0 && 
-    pirate_currently$humidity <= 100 && 
+    pirate_currently$humidity <= 1 && 
     pirate_currently$temperature >= -50 &&
     pirate_currently$temperature <= 150 &&
     pirate_currently$windSpeed >= 0 
@@ -227,10 +225,10 @@ if (rainfall >= 0 &&
   post_toot(
     status   = text,
     media    = if_else(
-      pirate_currently$precipProbability >= 50,
+      pirate_currently$precipProbability >= .5,
       radar_img, file),
     alt_text = if_else(
-      pirate_currently$precipProbability >= 50,
+      pirate_currently$precipProbability >= .5,
       "GIF of the radar for Illinois",
       "Line chart with today's weather forecast for Champaign, Illinois"))
 }
