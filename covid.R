@@ -662,7 +662,7 @@ fig <- hchart(wastewater_plus_cases,
                      #list(type = 'year', count = 1, text = '1y'),
                      #list(type = 'year', count = 2, text = '2y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3) 
+                   selected = 2) 
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_wastewater.html",
