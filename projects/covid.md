@@ -444,8 +444,8 @@ html {
 <td headers="pct_change" class="gt_row gt_right gt_striped">−64%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td headers="two_weeks_ago" class="gt_row gt_right">4</td>
-<td headers="latest" class="gt_row gt_right">3</td>
-<td headers="pct_change" class="gt_row gt_right">−25%</td></tr>
+<td headers="latest" class="gt_row gt_right">2</td>
+<td headers="pct_change" class="gt_row gt_right">−50%</td></tr>
   </tbody>
   
   <tfoot class="gt_footnotes">
@@ -529,7 +529,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 As of Thursday, the 14-day percent change in average new cases was:
   
-- 201% in Champaign County
+- 268% in Champaign County
 - -37% in Illinois
 - -31% in the United States
 - -37% worldwide
