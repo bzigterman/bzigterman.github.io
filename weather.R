@@ -384,7 +384,10 @@ fig <- highchart() |>
   hc_colors(c("#b0dcf0","#8AA5F1")) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
-             crosshairs = TRUE) %>%
+             crosshairs = TRUE,
+             dateTimeLabelFormats = list(
+               hour = "%A, %b %e, %l%P"
+             )) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) |>
