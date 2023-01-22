@@ -217,6 +217,7 @@ fig <- highchart() |>
                   c(value = 200, color = "#A44139")),
                 color = "black",
                 lineWidth = 3,
+                connectNulls = TRUE,
                 tooltip = list(valueSuffix = "°"),
                 hcaes(x = time*1000,
                       y = round(temperature)),
@@ -262,6 +263,7 @@ fig <- highchart() |>
   hc_add_series(data = pirate_champaign,
                 type = "line",
                 name = "Wind",
+                connectNulls = TRUE,
                 color = "black",
                 tooltip = list(valueSuffix = " mph"),
                 label = list(
@@ -272,6 +274,7 @@ fig <- highchart() |>
   hc_add_series(data = pirate_champaign,
                 type = "line",
                 name = "Humidity",
+                connectNulls = TRUE,
                 color = "#3288bd",
                 tooltip = list(valueSuffix = "%"),
                 label = list(
