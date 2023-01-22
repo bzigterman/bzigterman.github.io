@@ -55,6 +55,30 @@ pirate_daily <- pirate_forecast_content$daily$data %>%
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
   filter(datetime >= now(tzone = "America/Chicago"))
 
+## nws historical ----
+url <- "https://api.weather.gov/stations/KCMI/observations"
+nws_past <- GET(url,
+                add_headers(
+                  "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+)
+nws_past_content <- content(nws_past, as = "text")
+nws_past_st <- st_read(nws_past_content,
+                       as_tibble = TRUE)
+nws_post <- nws_past_st |> 
+  as_tibble() |> 
+  select(timestamp,textDescription,temperature,windSpeed,
+         precipitationLastHour,relativeHumidity) |> 
+  mutate(timestamp = as_datetime(timestamp, tz = "America/Chicago")) |> 
+  mutate(temperature = 
+           32+((9/5)*parse_number(temperature))) |> 
+  mutate(windSpeed = parse_number(gsub("km_h-1","",windSpeed))/1.609344) |> 
+  mutate(precipAccumulation = parse_number(precipitationLastHour)*25.4) |> 
+  mutate(humidity = parse_number(relativeHumidity)/100) |> 
+  mutate(time = as.numeric ( timestamp)) |> 
+  mutate(precipType = "Precip.") |> 
+  select(timestamp,time,textDescription,temperature,windSpeed,
+         precipAccumulation,humidity, precipType)
+
 pirate_history_url <- paste0("https://api.pirateweather.net/forecast/",
                              Sys.getenv("PIRATE_WEATHER"),"/",
                              champaign_lat,",",champaign_lon,
@@ -82,16 +106,39 @@ pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
   mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
   arrange(sunriseTime)
 
-pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |> 
+pirate_champaign <- full_join(pirate_hourly,nws_post) |> 
   mutate(precipProbability = 100*precipProbability) |> 
-  mutate(humidity = 100*humidity) |> 
+  mutate(humidity = round(100*humidity)) |> 
   mutate(cloudCover = 100*cloudCover) |> 
   mutate(precipType = case_when(
-    precipType == "none" ~ "Rain",
+    precipType == "none" ~ "Precip.",
+    precipType == "Precip." ~ "Precip.",
     precipType == "rain" ~ "Rain",
     precipType == "snow" ~ "Snow")) |>
+  mutate(precipType = recode_factor(
+    precipType,
+    "Rain" = "Rain",
+    "Snow" = "Snow",
+    "Precip" = "Precip",
+    .ordered = TRUE
+  )) |> 
   arrange(time) |> 
-  filter(time > now(tzone = "America/Chicago"))
+  filter(time > now(tzone = "America/Chicago")-days(1)) 
+pirate_precipTypes <- pirate_champaign |> 
+  select(precipType) |> 
+  sapply(levels) 
+pirate_precipTypes
+pirate_precip_colors <- 
+  case_when(
+    pirate_precipTypes[[1]] == "Snow" && pirate_precipTypes[[2]] == "Precip."
+    ~ c("#8AA5F1","#FFFFFF","#FFFFFF"),
+    pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Precip."
+    ~ c("#b0dcf0","#FFFFFF","#FFFFFF"),
+    pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Snow" && pirate_precipTypes[[3]] == "Precip."
+    ~ c("#b0dcf0","#8AA5F1","#FFFFFF"),
+    pirate_precipTypes[[1]] == "Precip." 
+    ~ c("#FFFFFF","#FFFFFF","#FFFFFF")
+  )
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
          temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
@@ -295,15 +342,15 @@ fig <- highchart() |>
            dateTimeLabelFormats = list(
              day = "%A"
            ),
-           # plotLines = list(
-           #   list(
-           #     label = list(text = "Now"),
-           #     color = "#595959",
-           #     width = .5,
-           #     zIndex = 2,
-           #     value = as.numeric( now(tzone = "America/Chicago"))*1000
-           #   )
-           # ),
+           plotLines = list(
+             list(
+               label = list(text = "Now"),
+               color = "#595959",
+               width = .5,
+               zIndex = 2,
+               value = as.numeric( now(tzone = "America/Chicago"))*1000
+             )
+           ),
            min = 1000*min(pirate_champaign$time),
            max = 1000*max(pirate_champaign$time),
            plotBands = list(
@@ -381,12 +428,12 @@ fig <- highchart() |>
              )
            )
   )%>%
-  hc_colors(c("#b0dcf0","#8AA5F1")) %>%
+  hc_colors(pirate_precip_colors) %>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
              crosshairs = TRUE,
              dateTimeLabelFormats = list(
-               hour = "%A, %b %e, %l%P"
+               minute = "%A, %b %e, %l:%M%P"
              )) %>%
   hc_add_theme(
     hc_theme_bloom()
@@ -521,18 +568,6 @@ willard_data_update <- full_join(willard,willard_data) %>%
 
 write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
-
-## nws historical ----
-# url <- "https://api.weather.gov/stations/KCMI/observations"
-# nws_past <- GET(url,
-#                 add_headers(
-#                   "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
-# )
-# nws_past_content <- content(nws_past, as = "text")
-# nws_past_st <- st_read(nws_past_content, as_tibble = TRUE)
-# nws <- as.numeric( nws_past$temperature)
-# nws_layers <- parse_json(nws)
-# nws_past <- jsonlite::parse_json(nws_past$temperature)
 
 # NCEI ----
 earliest <- "1902-08-01"
