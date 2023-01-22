@@ -449,44 +449,44 @@ saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-ggplot()+
-  geom_rect(data = pirate_daylight,
-            aes(xmin = sunrise, xmax = sunset,
-                ymin = bottom, ymax = top),
-            #color = "#FFFFaf",
-            fill = "#FFFFe2",
-            alpha = .8) +
-  geom_line(data = pirate_champaign_longer, aes(x = datetime,
-                                                y = values,
-                                                color = names)) +
-  geom_vline(xintercept = now(tzone = "America/Chicago")) +
-  facet_wrap(~ names, scales = "free_y",
-             ncol = 1,
-             strip.position = "left") +
-  labs(caption = "Source: NWS") +
-  xlab(NULL) +
-  ylab(NULL) +
-  coord_cartesian(xlim = c(min(pirate_champaign_longer$datetime),
-                           max(pirate_champaign_longer$datetime))) +
-  scale_y_continuous(position = "right") +
-  scale_x_datetime(expand = c(0,0),
-                   date_labels = "%a",
-                   date_breaks = "1 day",
-                   position = "top",
-                   timezone = "America/Chicago") +
-  theme(axis.ticks.y = element_blank(),
-        panel.grid = element_blank(),
-        panel.background = element_rect("#DAE3ED"),
-        legend.position = "none",
-        panel.grid.major.y = element_line(colour = "grey85"),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/champaign_weather.png", bg = "white",
-       width = 6, height = 9, dpi = 320)
-
-ggsave("plots/champaign_weather_mobile.png", bg = "white",
-       width = 3, height = 9, dpi = 320)
+# ggplot()+
+#   geom_rect(data = pirate_daylight,
+#             aes(xmin = sunrise, xmax = sunset,
+#                 ymin = bottom, ymax = top),
+#             #color = "#FFFFaf",
+#             fill = "#FFFFe2",
+#             alpha = .8) +
+#   geom_line(data = pirate_champaign_longer, aes(x = datetime,
+#                                                 y = values,
+#                                                 color = names)) +
+#   geom_vline(xintercept = now(tzone = "America/Chicago")) +
+#   facet_wrap(~ names, scales = "free_y",
+#              ncol = 1,
+#              strip.position = "left") +
+#   labs(caption = "Source: NWS") +
+#   xlab(NULL) +
+#   ylab(NULL) +
+#   coord_cartesian(xlim = c(min(pirate_champaign_longer$datetime),
+#                            max(pirate_champaign_longer$datetime))) +
+#   scale_y_continuous(position = "right") +
+#   scale_x_datetime(expand = c(0,0),
+#                    date_labels = "%a",
+#                    date_breaks = "1 day",
+#                    position = "top",
+#                    timezone = "America/Chicago") +
+#   theme(axis.ticks.y = element_blank(),
+#         panel.grid = element_blank(),
+#         panel.background = element_rect("#DAE3ED"),
+#         legend.position = "none",
+#         panel.grid.major.y = element_line(colour = "grey85"),
+#         strip.background = element_blank(),
+#         plot.caption = element_text(colour = "grey40"))
+# 
+# ggsave("plots/champaign_weather.png", bg = "white",
+#        width = 6, height = 9, dpi = 320)
+# 
+# ggsave("plots/champaign_weather_mobile.png", bg = "white",
+#        width = 3, height = 9, dpi = 320)
 
 # nws scraping ----
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
@@ -883,7 +883,7 @@ ggplot(data = temps,
                                          color = temp)) +
   geom_line(data = temps,
             aes(color = temp),
-            size = 4) +
+            linewidth = 4) +
   geom_text(data = his_los,
             aes(x = period,
                 y = min,
@@ -933,7 +933,7 @@ ggplot(data = temps,
                                          color = temp)) +
   geom_line(data = temps,
             aes(color = temp),
-            size = 4) +
+            linewidth = 4) +
   geom_text(data = his_los,
             aes(x = period,
                 y = min,
@@ -1314,17 +1314,17 @@ if (!empty_check) {
                      y = Record_min,
                      yend = Record_max),
                  color = "#e9e8df",
-                 size = .75) +
+                 linewidth = .75) +
     geom_segment(aes(xend = date,
                      y = Normal_min,
                      yend = Normal_max),
                  color = "#c2afb1",
-                 size = .75) +
+                 linewidth = .75) +
     geom_segment(aes(xend = date,
                      y = Actual_min,
                      yend = Actual_max),
                  color = "#a6003f",
-                 size = .75) +
+                 linewidth = .75) +
     scale_x_date(date_labels = "%b",
                  expand = c(0.01,0.01),
                  name = NULL,
@@ -1461,7 +1461,7 @@ if (!empty_check) {
   #                                 color = value)) +
   #   geom_hline(data = temps_past_hour, aes(yintercept = temp,
   #                                          color = temp)) +
-  #   geom_line(size = 2) +
+  #   geom_line(linewidth = 2) +
   #   geom_text(nudge_x = .2) +
   #   theme_minimal() +
   #   scale_color_distiller(palette = "Spectral",
