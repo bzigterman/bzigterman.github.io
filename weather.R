@@ -561,6 +561,14 @@ champaign_rain_text <- ifelse(champaign_rain > 0,
                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
                               "")
 
+# champaign_rain <- sum(
+#   filter(nws_post,
+#          time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, 
+#   na.rm = TRUE)
+# champaign_rain_text <- ifelse(champaign_rain > 0, 
+#                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
+#                               "")
+
 willard_data <- read_csv(file = "data/willard_weather.csv") 
 willard_data_update <- full_join(willard,willard_data) %>%
   distinct(date, .keep_all = TRUE) %>%
