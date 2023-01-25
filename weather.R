@@ -101,7 +101,8 @@ willard_cleaner <- willard_clean %>%
   select(date,time,windSpeed,weather,temp, humidity, precip_one_hour)
 
 willard <- willard_cleaner %>%
-  mutate(datetime = now(tzone = "America/Chicago")-hours(row_number())) |> 
+  mutate(datetime = as_datetime(now(tzone = "America/Chicago")-hours(row_number()),
+                                tz = "America/Chicago")) |> 
   mutate(temperature = temp) |> 
   mutate(precipAccumulation = precip_one_hour) |> 
   mutate(time = as.numeric(datetime)) |> 
@@ -513,7 +514,9 @@ fig <- highchart() |>
              split = TRUE,
              crosshairs = TRUE,
              dateTimeLabelFormats = list(
-               minute = "%A, %b %e, %l:%M%P"
+               hour = "%A, %b %e, %l%P",
+               minute = "%A, %b %e, %l%P",
+               millisecond = "%A, %b %e, %l%P"
              )) %>%
   hc_add_theme(
     hc_theme_bloom()
