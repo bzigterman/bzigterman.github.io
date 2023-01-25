@@ -79,6 +79,83 @@ nws_post <- nws_past_st |>
   select(timestamp,time,textDescription,temperature,windSpeed,
          precipAccumulation,humidity, precipType)
 
+## nws scraping ----
+willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
+willard_html <- read_html(willard_url) %>%
+  html_table()
+willard_clean <- willard_html[[4]] %>%
+  tail(-2) %>%
+  head(-3) %>%
+  clean_names()
+colnames(willard_clean)[2] <- "time"
+
+willard_cleaner <- willard_clean %>%
+  mutate(date = as.numeric(date)) %>%
+  mutate(visibility = as.numeric(vis_mi)) %>%
+  mutate(temp = as.numeric(temperature_o_f)) %>%
+  mutate(windSpeed = parse_number(wind_mph)) |> 
+  mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
+  mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
+  mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
+  mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
+  select(date,time,windSpeed,weather,temp, humidity, precip_one_hour)
+
+willard <- willard_cleaner %>%
+  mutate(datetime = now(tzone = "America/Chicago")-hours(row_number())) |> 
+  mutate(temperature = temp) |> 
+  mutate(precipAccumulation = precip_one_hour) |> 
+  mutate(time = as.numeric(datetime)) |> 
+  mutate(precipType = "Precip.") |>
+  mutate(humidity = humidity/100) |> 
+  select(time,precipType,datetime,weather,temperature, humidity, precipAccumulation,windSpeed)
+
+
+# willard_his_los <- willard_clean %>%
+#   mutate(temp_six_hour_hi = as.numeric(temperature_o_f_3)) %>%
+#   mutate(temp_six_hour_lo = as.numeric(temperature_o_f_4)) %>%
+#   mutate(date = as.numeric(date)) %>%
+#   mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
+#                               if_else(latest_date <= 3 & date >20,
+#                                       month(today(tzone = "America/Chicago"))-1,
+#                                       month(today(tzone = "America/Chicago"))),
+#                               "-",
+#                               date," ",
+#                               time),
+#                        tz = "US/Central")) %>%
+#   select(date,temp_six_hour_hi,temp_six_hour_lo) %>%
+#   mutate(day = date(date)) %>%
+#   group_by(day) |> 
+#   summarise(temp_six_hour_hi)
+
+
+champaign_rain <- sum(head(willard$precipAccumulation,24), na.rm = TRUE)
+champaign_rain_text <- ifelse(champaign_rain > 0, 
+                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
+                              "")
+
+# champaign_rain <- sum(
+#   filter(nws_post,
+#          time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, 
+#   na.rm = TRUE)
+# champaign_rain_text <- ifelse(champaign_rain > 0, 
+#                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
+#                               "")
+
+willard_data <- read_csv(file = "data/willard_weather.csv") 
+willard_data_update <- willard |> 
+  select(datetime,weather,temperature, humidity, precipAccumulation) |> 
+  mutate(temp = temperature) |> 
+  mutate(precip_one_hour = precipAccumulation) |> 
+  mutate(date = datetime) |> 
+  mutate(humidity = humidity*100) |> 
+  full_join(willard_data) %>%
+  distinct(date, .keep_all = TRUE) %>%
+  arrange(date)
+
+write_csv(x = willard_data_update,
+          file = "data/willard_weather.csv")
+
+## pirate historical ----
 pirate_history_url <- paste0("https://api.pirateweather.net/forecast/",
                              Sys.getenv("PIRATE_WEATHER"),"/",
                              champaign_lat,",",champaign_lon,
@@ -106,7 +183,7 @@ pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
   mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
   arrange(sunriseTime)
 
-pirate_champaign <- full_join(pirate_hourly,nws_post) |> 
+pirate_champaign <- full_join(pirate_hourly,willard) |> 
   mutate(precipProbability = 100*precipProbability) |> 
   mutate(humidity = round(100*humidity)) |> 
   mutate(cloudCover = 100*cloudCover) |> 
@@ -131,13 +208,13 @@ pirate_precipTypes
 pirate_precip_colors <- 
   case_when(
     pirate_precipTypes[[1]] == "Snow" && pirate_precipTypes[[2]] == "Precip."
-    ~ c("#8AA5F1","#FFFFFF","#FFFFFF"),
+    ~ c("#8AA5F1","#b0dcf0","#b0dcf0"),
     pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Precip."
-    ~ c("#b0dcf0","#FFFFFF","#FFFFFF"),
+    ~ c("#b0dcf0","#b0dcf0","#b0dcf0"),
     pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Snow" && pirate_precipTypes[[3]] == "Precip."
-    ~ c("#b0dcf0","#8AA5F1","#FFFFFF"),
+    ~ c("#b0dcf0","#8AA5F1","#b0dcf0"),
     pirate_precipTypes[[1]] == "Precip." 
-    ~ c("#FFFFFF","#FFFFFF","#FFFFFF")
+    ~ c("#b0dcf0","#b0dcf0","#b0dcf0")
   )
 pirate_champaign_longer <- pirate_champaign |> 
   select(datetime,summary,precipProbability,precipAccumulation,precipType,
@@ -451,134 +528,6 @@ fig
 saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
-# ggplot()+
-#   geom_rect(data = pirate_daylight,
-#             aes(xmin = sunrise, xmax = sunset,
-#                 ymin = bottom, ymax = top),
-#             #color = "#FFFFaf",
-#             fill = "#FFFFe2",
-#             alpha = .8) +
-#   geom_line(data = pirate_champaign_longer, aes(x = datetime,
-#                                                 y = values,
-#                                                 color = names)) +
-#   geom_vline(xintercept = now(tzone = "America/Chicago")) +
-#   facet_wrap(~ names, scales = "free_y",
-#              ncol = 1,
-#              strip.position = "left") +
-#   labs(caption = "Source: NWS") +
-#   xlab(NULL) +
-#   ylab(NULL) +
-#   coord_cartesian(xlim = c(min(pirate_champaign_longer$datetime),
-#                            max(pirate_champaign_longer$datetime))) +
-#   scale_y_continuous(position = "right") +
-#   scale_x_datetime(expand = c(0,0),
-#                    date_labels = "%a",
-#                    date_breaks = "1 day",
-#                    position = "top",
-#                    timezone = "America/Chicago") +
-#   theme(axis.ticks.y = element_blank(),
-#         panel.grid = element_blank(),
-#         panel.background = element_rect("#DAE3ED"),
-#         legend.position = "none",
-#         panel.grid.major.y = element_line(colour = "grey85"),
-#         strip.background = element_blank(),
-#         plot.caption = element_text(colour = "grey40"))
-# 
-# ggsave("plots/champaign_weather.png", bg = "white",
-#        width = 6, height = 9, dpi = 320)
-# 
-# ggsave("plots/champaign_weather_mobile.png", bg = "white",
-#        width = 3, height = 9, dpi = 320)
-
-# nws scraping ----
-willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
-willard_html <- read_html(willard_url) %>%
-  html_table()
-willard_clean <- willard_html[[4]] %>%
-  tail(-2) %>%
-  head(-3) %>%
-  clean_names()
-colnames(willard_clean)[2] <- "time"
-
-willard_cleaner <- willard_clean %>%
-  mutate(date = as.numeric(date)) %>%
-  mutate(visibility = as.numeric(vis_mi)) %>%
-  mutate(temp = as.numeric(temperature_o_f)) %>%
-  mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
-  mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
-  mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
-  mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-  select(date,time,weather,temp, humidity, precip_one_hour)
-
-latest_date <- willard_cleaner$date[[1]]
-latest_month <- month(today(tzone = "America/Chicago"))
-
-willard <- willard_cleaner %>%
-  mutate(year_text = paste0(
-    if_else(latest_month == 1 & date <= 3,
-            year(today(tzone = "America/Chicago"))-1,
-            year(today(tzone = "America/Chicago"))))) %>%
-  mutate(
-    month_text = if_else(
-      latest_date <= 3 & date > 20,
-      month(today(tzone = "America/Chicago"))-1,
-      month(today(tzone = "America/Chicago")))) %>%
-  mutate(
-    month_text = if_else(
-      month_text == 0,
-      12,
-      month_text)) %>%
-  mutate(date_text = 
-           paste0(
-             year_text,
-             "-",
-             month_text,
-             "-",
-             date," ",
-             time)) %>%
-  mutate(date = ymd_hm(date_text)) %>%
-  select(date,weather,temp, humidity, precip_one_hour)
-
-
-willard_his_los <- willard_clean %>%
-  mutate(temp_six_hour_hi = as.numeric(temperature_o_f_3)) %>%
-  mutate(temp_six_hour_lo = as.numeric(temperature_o_f_4)) %>%
-  mutate(date = as.numeric(date)) %>%
-  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              if_else(latest_date <= 3 & date >20,
-                                      month(today(tzone = "America/Chicago"))-1,
-                                      month(today(tzone = "America/Chicago"))),
-                              "-",
-                              date," ",
-                              time),
-                       tz = "US/Central")) %>%
-  select(date,temp_six_hour_hi,temp_six_hour_lo) %>%
-  mutate(day = date(date)) %>%
-  group_by(day) |> 
-  summarise(temp_six_hour_hi)
-
-
-champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
-champaign_rain_text <- ifelse(champaign_rain > 0, 
-                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
-                              "")
-
-# champaign_rain <- sum(
-#   filter(nws_post,
-#          time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, 
-#   na.rm = TRUE)
-# champaign_rain_text <- ifelse(champaign_rain > 0, 
-#                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
-#                               "")
-
-willard_data <- read_csv(file = "data/willard_weather.csv") 
-willard_data_update <- full_join(willard,willard_data) %>%
-  distinct(date, .keep_all = TRUE) %>%
-  arrange(date)
-
-write_csv(x = willard_data_update,
-          file = "data/willard_weather.csv")
 
 # NCEI ----
 earliest <- "1902-08-01"
