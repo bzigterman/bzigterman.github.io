@@ -642,6 +642,8 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
   <img src=\"{{ site.baseurl }}/plots/nba_team_rank_mobile.png\" alt=\"\" />
 </picture>
 
+Chart inspired by those in the [Pennant app](https://apps.apple.com/us/app/pennant/id622463230)
+
 Updated standings are posted daily on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@basketballstandings\">@basketballstandings</a>
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/nba-forecasts\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 

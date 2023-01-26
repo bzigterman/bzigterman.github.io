@@ -1177,6 +1177,8 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
   <img src=\"{{ site.baseurl }}/plots/mlb_team_rank_mobile.png\" alt=\"\" />
 </picture>
 
+Chart inspired by those in the [Pennant app](https://apps.apple.com/us/app/pennant/id622463230)
+
 ",better_wild_card_standings_table_html,"
 
 <div class = \"standings\">

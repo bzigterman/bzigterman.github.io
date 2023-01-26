@@ -753,6 +753,8 @@ html {
   <img src="{{ site.baseurl }}/plots/mlb_team_rank_mobile.png" alt="" />
 </picture>
 
+Chart inspired by those in the [Pennant app](https://apps.apple.com/us/app/pennant/id622463230)
+
 <div id="wild_card_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 html {
