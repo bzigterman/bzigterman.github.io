@@ -400,6 +400,8 @@ fig <- highchart() |>
                                      )
                                    ),NA,NA,NA,NA,NA,NA
                                  ),
+                                 softMax = c(NA,NA,.25,
+                                             NA,20,NA,NA),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = c(NA,
