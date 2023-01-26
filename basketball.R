@@ -642,7 +642,7 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
   <img src=\"{{ site.baseurl }}/plots/nba_team_rank_mobile.png\" alt=\"\" />
 </picture>
 
-Chart inspired by those in the [Pennant app](https://apps.apple.com/us/app/pennant/id622463230)
+Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 Updated standings are posted daily on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@basketballstandings\">@basketballstandings</a>
 
