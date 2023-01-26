@@ -105,6 +105,9 @@ willard <- willard_cleaner %>%
                                 tz = "America/Chicago")) |> 
   mutate(temperature = temp) |> 
   mutate(precipAccumulation = precip_one_hour) |> 
+  mutate(precipAccumulation = if_else(is.na(precipAccumulation),
+                                      0,
+                                      precipAccumulation)) |> 
   mutate(time = as.numeric(datetime)) |> 
   mutate(precipType = "Precip.") |>
   mutate(humidity = humidity/100) |> 
@@ -129,7 +132,8 @@ willard <- willard_cleaner %>%
 #   summarise(temp_six_hour_hi)
 
 
-champaign_rain <- sum(head(willard$precipAccumulation,24), na.rm = TRUE)
+champaign_rain <- 
+  sum(filter(willard,time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, na.rm = TRUE)
 champaign_rain_text <- ifelse(champaign_rain > 0, 
                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
                               "")
