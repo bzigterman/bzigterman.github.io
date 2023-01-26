@@ -1090,7 +1090,8 @@ fig <- hchart(data, "line", hcaes(x = date,
               name = "Rate",
               tooltip = list(valueSuffix = "%")) %>%
   hc_title(text = "Unemployment Rate") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE) %>%
   hc_xAxis(title = "") %>%
   hc_credits(
     enabled = TRUE,
@@ -1184,7 +1185,10 @@ fig <- hchart(data,
               name = "Total",
               color = "#cecece",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1, 1),
+                                 endOnTick = FALSE,
+                                 startOnTick = FALSE,
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = data,
@@ -1280,7 +1284,9 @@ fig <- hchart(data, "line", hcaes(x = date,
     text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1)),
     href = "https://fred.stlouisfed.org/series/ILCHAM9POP") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE,
+           startOnTick = FALSE) %>%
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
@@ -1335,6 +1341,8 @@ fig <- hchart(housing_data,
                 enabled = TRUE),
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
+                                 endOnTick = FALSE,
+                                 startOnTick = FALSE,
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = housing_data,
