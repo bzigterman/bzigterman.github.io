@@ -10,6 +10,7 @@ library(RColorBrewer)
 library(gtExtras)
 library(highcharter)
 library(htmlwidgets)
+library(svglite)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
@@ -473,7 +474,9 @@ standings_interactive <- function(division) {
               layout = "vertical",
               verticalAlign = "middle") %>%
     hc_title(text = tail(division$division,1)) %>%
-    hc_yAxis(title = "") %>%
+    hc_yAxis(title = "",
+             endOnTick = FALSE,
+             startOnTick = FALSE) %>%
     hc_xAxis(title = "",
              max = 162) %>%
     hc_add_theme(
@@ -1086,7 +1089,9 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
             layout = "vertical",
             verticalAlign = "middle") %>%
   hc_title(text = "AL") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE,
+           startOnTick = FALSE) %>%
   hc_xAxis(title = "",
            max = 162) %>%
   hc_add_theme(
@@ -1110,7 +1115,9 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
             layout = "vertical",
             verticalAlign = "middle") %>%
   hc_title(text = "NL") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE,
+           startOnTick = FALSE) %>%
   hc_xAxis(title = "",
            max = 162) %>%
   hc_add_theme(

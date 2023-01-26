@@ -10,6 +10,7 @@ library(RColorBrewer)
 library(gtExtras)
 library(highcharter)
 library(htmlwidgets)
+library(svglite)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
@@ -497,7 +498,9 @@ fig1 <- hchart(eastern, "line", hcaes(x = game_n,
             layout = "vertical",
             verticalAlign = "middle") %>%
   hc_title(text = "Eastern") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE,
+           startOnTick = FALSE) %>%
   hc_xAxis(title = "",
            max = 82) %>%
   hc_add_theme(
@@ -518,7 +521,9 @@ fig2 <- hchart(western, "line", hcaes(x = game_n,
             layout = "vertical",
             verticalAlign = "middle") %>%
   hc_title(text = "Western") %>%
-  hc_yAxis(title = "") %>%
+  hc_yAxis(title = "",
+           endOnTick = FALSE,
+           startOnTick = FALSE) %>%
   hc_xAxis(title = "",
            max = 82) %>%
   hc_add_theme(
