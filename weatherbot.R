@@ -259,7 +259,8 @@ champaign_precip <- case_when(
   snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours\n"),
   rainfall == 0 && snowfall == 0 ~ paste(""))
 champaign_precip_forecast <- case_when(
-  rainfall_forecast > 0 && snowfall_forecast > 0   ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast >= snowfall_forecast ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast < snowfall_forecast  ~ paste("-",snowfall_forecast,"inches of snow and",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
   rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
   snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
