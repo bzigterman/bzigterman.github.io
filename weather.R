@@ -433,7 +433,7 @@ fig <- highchart() |>
              list(
                label = list(text = "Now"),
                color = "#595959",
-               width = .5,
+               width = 1,
                zIndex = 2,
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              )
