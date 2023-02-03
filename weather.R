@@ -416,7 +416,7 @@ fig <- highchart() |>
                                          0,
                                          NA,
                                          0,
-                                         NA,
+                                         0,
                                          0,
                                          NA
                                  ))) |> 
