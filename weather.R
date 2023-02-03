@@ -1193,6 +1193,14 @@ if (!empty_check) {
                       high = round(max),
                       group = type),
                 step = "center",
+                states = list(
+                  hover = list(
+                    enabled = FALSE
+                  ),
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 animation = FALSE,
                 marker = list(
                   radius = 1),
@@ -1227,6 +1235,11 @@ if (!empty_check) {
                   marker = list(
                     radius = 1,
                     symbol = "circle"),
+                  states = list(
+                    inactive = list(
+                      enabled = FALSE
+                    )
+                  ),
                   animation = FALSE,
                   lineWidth = 1,
                   step = "center",
@@ -1253,11 +1266,17 @@ if (!empty_check) {
                         y = daily_precip_total),
                   type = "column",
                   name = "Daily",
+                  states = list(
+                    inactive = list(
+                      enabled = FALSE
+                    )
+                  ),
                   animation = FALSE,
                   tooltip = list(valueSuffix = "{value}″"),
                   color = "#698490",
                   yAxis = 1) %>%
     hc_xAxis(
+      crosshair = TRUE,
       title = "",
       showLastLabel = FALSE,
       labels = list(

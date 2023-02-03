@@ -396,6 +396,11 @@ fig <- hchart(idph_cases_vax_hosp,
               type = "line", 
               hcaes(x = Date,
                     y = round(avg_new_cases)),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
               name = "Avg. New Cases",
               label = list(
                 enabled = TRUE),
@@ -408,6 +413,11 @@ fig <- hchart(idph_cases_vax_hosp,
     data = idph_cases_vax_hosp,
     hcaes(x = Date,
           y = monthlydead),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     label = list(
       enabled = TRUE),
     name = "Deaths in the Past Month",
@@ -420,6 +430,11 @@ fig <- hchart(idph_cases_vax_hosp,
           y = round(avg_hospitalized)),
     name = "Avg. Hospitalized",
     type = "line",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     label = list(
       enabled = TRUE),
     color = "#d90000",
@@ -555,6 +570,11 @@ fig <- hchart(wastewater_plus_cases,
               hcaes(x = Date,
                     y = round(avg_new_cases)),
               name = "Avg. New Cases",
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
               label = list(
                 enabled = TRUE),
               color = "#B45F06",
@@ -582,6 +602,11 @@ fig <- hchart(wastewater_plus_cases,
           y = signif(smaller_conc, digits = 3)),
     label = list(
       enabled = TRUE),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     name = "Normalized Concentration",
     color = "black",
     type = "line",
@@ -592,6 +617,11 @@ fig <- hchart(wastewater_plus_cases,
           y = round(detect_prop_15d, digits = 1)),
     name = "Pct. Tests Detecting SARS-CoV-2",
     color = "#35978f",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     tooltip = list(valueSuffix = "%"),
     label = list(
       enabled = TRUE),
@@ -602,6 +632,11 @@ fig <- hchart(wastewater_plus_cases,
     hcaes(x = Date,
           y = round(percentile, digits = 1)),
     name = "Percentile",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     tooltip = list(valueSuffix = "%"),
     type = "line",
     zones = list(

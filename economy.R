@@ -170,6 +170,7 @@ fig <- hchart(data,
               color = "black",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
+                                 crosshair = c(TRUE,FALSE),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  title = list(text = NULL))) %>%
@@ -1216,6 +1217,7 @@ fig <- hchart(data,
               color = "#cecece",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 crosshair = c(TRUE,FALSE),
                                  heights = c(1, 1),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
@@ -1618,6 +1620,7 @@ fig <- hchart(data,
               color = "black",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
+                                 crosshair = c(TRUE,FALSE),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  title = list(text = NULL))) %>%
