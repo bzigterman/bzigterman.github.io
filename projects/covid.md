@@ -439,13 +439,13 @@ html {
 <td headers="latest" class="gt_row gt_right">28</td>
 <td headers="pct_change" class="gt_row gt_right">−62%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
-<td headers="two_weeks_ago" class="gt_row gt_right gt_striped">24</td>
+<td headers="two_weeks_ago" class="gt_row gt_right gt_striped">18</td>
 <td headers="latest" class="gt_row gt_right gt_striped">2</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−91%</td></tr>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−88%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td headers="two_weeks_ago" class="gt_row gt_right">3</td>
+<td headers="two_weeks_ago" class="gt_row gt_right">2</td>
 <td headers="latest" class="gt_row gt_right">2</td>
-<td headers="pct_change" class="gt_row gt_right">−33%</td></tr>
+<td headers="pct_change" class="gt_row gt_right">0%</td></tr>
   </tbody>
   
   <tfoot class="gt_footnotes">
@@ -527,12 +527,12 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 ## Case Acceleration
 
-As of Friday, the 14-day percent change in average new cases was:
+As of Saturday, the 14-day percent change in average new cases was:
   
 - -62% in Champaign County
 - -8% in Illinois
 - -11% in the United States
-- -29% worldwide
+- -28% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -544,11 +544,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Friday, the 14-day percent change in average new deaths was:
+As of Saturday, the 14-day percent change in average new deaths was:
   
 - -2% in Illinois
 - -6% in the United States
-- -76% worldwide
+- -83% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
