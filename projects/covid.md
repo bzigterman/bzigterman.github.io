@@ -441,7 +441,7 @@ html {
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">18</td>
 <td headers="latest" class="gt_row gt_right gt_striped">2</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−88%</td></tr>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−90%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td headers="two_weeks_ago" class="gt_row gt_right">2</td>
 <td headers="latest" class="gt_row gt_right">2</td>
