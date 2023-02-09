@@ -106,12 +106,12 @@ soil_records <- map(2002:year(now(tzone = "America/Chicago")),
 soil_records <- do.call("rbind",soil_records)
 
 champaign_soil <- soil_records |> 
-  select(v2,v8,v15,v24,v25,v26,v27,v28) |> 
+  select(v2,v7,v14,v24,v25,v26,v27,v28) |> 
   mutate(datetime = ymd(v2)) |> 
   mutate(time = as.numeric(as_datetime(datetime))) |> 
   arrange(time) |> 
-  mutate(Air = v8*1.8+32) |> 
-  mutate(Surface = v15*1.8+32) |> 
+  mutate(Air = v7*1.8+32) |> 
+  mutate(Surface = v14*1.8+32) |> 
   mutate('5cm' = v24*1.8+32) |> 
   mutate('10cm' = v25*1.8+32) |> 
   mutate('20cm' = v26*1.8+32) |> 
@@ -176,6 +176,7 @@ fig <- highchart() |>
   )%>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
+                     list(type = 'month', count = 1, text = '1m'),
                      list(type = 'month', count = 3, text = '3m'),
                      list(type = 'month', count = 6, text = '6m'),
                      list(type = 'year', count = 1, text = '1y'),
