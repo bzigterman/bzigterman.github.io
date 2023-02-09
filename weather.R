@@ -1500,7 +1500,7 @@ cat(
   "---
 layout: page
 title: Weather
-permalink: /projects/weather
+permalink: /projects/weather/
 imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
