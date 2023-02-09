@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Weather
-permalink: /projects/weather
+permalink: /projects/weather/
 imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 09:27 PM CT, February 08</p>
+<p class="updated_time"> Latest data: 09:35 PM CT, February 08</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,7 +17,7 @@ Currently:
 
 - 40°
 - Rain
-- 91% humidity
+- 96% humidity
 - 13 mph wind
 - 100% cloud cover
 - 57 AQI 🟨
