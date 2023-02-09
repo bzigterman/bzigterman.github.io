@@ -165,6 +165,7 @@ fig <- highchart() |>
     "#88B3E7","#993404","#d95f0e","#fe9929",
              "#fec44f","#fee391","#ffffd4")) |> 
                hc_tooltip(split = TRUE,
+                          headerFormat = "",
                           xDateFormat = "%B %e",
                           valueSuffix = "°",
                           valueDecimals = 0) |> 
