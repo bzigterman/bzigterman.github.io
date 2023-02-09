@@ -832,10 +832,10 @@ data2 <- full_join(data,core) %>%
   pivot_longer(cols = c(change)) %>%
   select(date, series_id, value) %>%
   mutate(series_id = recode_factor(series_id,
-                "CPI" = "CPI",
-                "Core CPI" = "Core CPI",
-                "PCE" = "PCE",
-                "Core PCE" = "Core PCE"))
+                                   "CPI" = "CPI",
+                                   "Core CPI" = "Core CPI",
+                                   "PCE" = "PCE",
+                                   "Core PCE" = "Core PCE"))
 
 fig <- hchart(data2, "line", hcaes(x = date,
                                    y = round(value*100, digits = 1),
