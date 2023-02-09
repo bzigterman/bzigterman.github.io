@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soil
-permalink: /projects/soil
+permalink: /projects/weather/soil
 imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
