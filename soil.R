@@ -71,6 +71,14 @@ if (!empty_check) {
                   color = "#527DC7",
                   type = "column") |> 
     hc_xAxis(type = "datetime",
+             plotLines = list(
+               list(
+                 label = list(text = "Today"),
+                 color = "#595959",
+                 width = 1,
+                 zIndex = 1,
+                 value = as.numeric( now(tzone = "America/Chicago"))*1000
+               )),
              dateTimeLabelFormats = list(
                week = "%B %e"
              )) |> 
