@@ -277,7 +277,7 @@ now_formatted <- strftime(x = now,
                           tz = "US/Central",
                           format = "%I:%M% %p")
 
-text <- paste0(
+text <- head( paste0(
   "Champaign weather at ",now_formatted,":
 
 - ",champaign_temp,"F
@@ -287,7 +287,7 @@ text <- paste0(
 - ",champaign_clouds," cloud cover
 ",champaign_aqi,"",champaign_rain_text,"",champaign_precip_forecast,"
 
-More charts: https://bzigterman.com/projects/weather")
+More charts: https://bzigterman.com/projects/weather"))
 text
 
 if (rainfall >= 0 && 
