@@ -300,9 +300,10 @@ fig <- highchart() |>
                 color = "black",
                 lineWidth = 3,
                 connectNulls = TRUE,
-                tooltip = list(valueSuffix = "°"),
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
                 hcaes(x = time*1000,
-                      y = round(temperature)),
+                      y = temperature),
                 yAxis = 0) |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
@@ -347,11 +348,12 @@ fig <- highchart() |>
                 name = "Wind",
                 connectNulls = TRUE,
                 color = "black",
-                tooltip = list(valueSuffix = " mph"),
+                tooltip = list(valueSuffix = " mph",
+                               valueDecimals = 0),
                 label = list(
                   enabled = TRUE),
                 hcaes(x = time*1000,
-                      y = round(windSpeed)),
+                      y = windSpeed),
                 yAxis = 4) |> 
   hc_add_series(data = pirate_champaign,
                 type = "line",
@@ -367,6 +369,7 @@ fig <- highchart() |>
   hc_add_series(data = pirate_champaign,
                 type = "line",
                 name = "UV Index",
+                tooltip = list(valueDecimals = 1),
                 zones = list(
                   c(value = 2,
                     color = "#4C9329"),
