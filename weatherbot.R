@@ -242,8 +242,8 @@ if (aqi_status == 200) {
       CategoryNumber == 6 ~ "🟫",
       CategoryNumber == 7 ~ "") 
     ) |> 
-    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ", color,"\n"))
-  champaign_aqi <- aqi_color$aqi_plus_text
+    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ",ParameterName," ", color,"\n"))
+  champaign_aqi <- paste0(aqi_color$aqi_plus_text,collapse = "")
 } else {
   champaign_aqi <- ""
 }
