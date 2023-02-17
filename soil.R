@@ -49,27 +49,53 @@ if (!empty_check) {
                                month(latest),"-",
                                day(latest)
     ))) |> 
-    mutate(week = week(latest)) |> 
-    group_by(week) |> 
+    #mutate(week = week(latest)) |> 
+    group_by(latest) |> 
     mutate(years = paste(year, collapse = ", ")) |> 
-    ungroup()
-  latest_freeze_weeks <- latest_freeze_dates |> 
-    count(week)  |> 
-    mutate(date = parse_date_time(paste(
-      year(now(tzone = "America/Chicago")),
-      week, 1, sep="/"),'Y/W/w')) |> 
-    mutate(time = as.numeric(as_datetime(date))) |> 
-    full_join(latest_freeze_dates) |> 
-    distinct(week,.keep_all = TRUE)  |> 
-    select(week, n, time, years)
+    ungroup() |> 
+    mutate(date = paste(month(latest, label = TRUE, abbr = FALSE),
+                        day(latest)))
   
+  total_years <- as.numeric(count(latest_freeze_dates))
+  min <- min(latest_freeze_weeks$n)
+  max <- max(latest_freeze_weeks$n)
+  
+  latest_freeze_weeks <- latest_freeze_dates |> 
+    count(latest)  |> 
+    # mutate(date = parse_date_time(paste(
+    #   year(now(tzone = "America/Chicago")),
+    #   week, 1, sep="/"),'Y/W/w')) |> 
+    #mutate(time = as.numeric(as_datetime(date))) |> 
+    full_join(latest_freeze_dates) |> 
+    distinct(latest,.keep_all = TRUE)  |> 
+    select(latest, n,date, years) |> 
+    mutate(total = cumsum(n)) |> 
+    mutate(pct = 100*round(total/total_years,2))
+  years <- as.numeric(count(latest_freeze_dates))
+  min <- min(latest_freeze_weeks$n)
+  max <- max(latest_freeze_weeks$n)
   # freeze dates ----
   fig <- highchart() |> 
     hc_add_series(latest_freeze_weeks,
-                  hcaes(x = time*1000,
+                  hcaes(x = latest,
+                        #color = pct,
                         y = n),
                   color = "#527DC7",
+                  borderWidth = 0,
+                  groupPadding = 0,
+                  pointPadding = 0,
+                  #pointWidth = 5,
+                  tooltip = list(
+                    pointFormat = "{point.years}",
+                    headerFormat = "<b>{point.date}: {point.pct}%</b><br>"
+                  ),
                   type = "column") |> 
+    # hc_add_series(latest_freeze_weeks,
+    #               hcaes(x = latest,
+    #                     y = pct),
+    #               zIndex = 0,
+    #               color = "gray",
+    #               type = "area") |> 
     hc_xAxis(type = "datetime",
              plotLines = list(
                list(
@@ -87,8 +113,9 @@ if (!empty_check) {
       hc_theme_bloom()
     ) |> 
     hc_legend(enabled = FALSE) |> 
-    hc_tooltip(pointFormat = "{point.years}",
-               headerFormat = "<b>Week {point.week}</b><br>") |> 
+    #hc_tooltip(split = TRUE) |> 
+  #  hc_tooltip(pointFormat = "{point.years}",
+   #             headerFormat = "<b>Week {point.week}</b><br>") |> 
     hc_credits(
       enabled = TRUE,
       text = "Source: NCEI",
