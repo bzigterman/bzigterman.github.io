@@ -57,9 +57,7 @@ if (!empty_check) {
                         day(latest)))
   
   total_years <- as.numeric(count(latest_freeze_dates))
-  min <- min(latest_freeze_weeks$n)
-  max <- max(latest_freeze_weeks$n)
-  
+
   latest_freeze_weeks <- latest_freeze_dates |> 
     count(latest)  |> 
     # mutate(date = parse_date_time(paste(
