@@ -489,14 +489,15 @@ ggsave("plots/nba_standings_mobile.png",
 fig1 <- hchart(eastern, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team),
+               label = list(
+                 enabled = TRUE
+               ),
                animation = FALSE,
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(align = "right",
-            layout = "vertical",
-            verticalAlign = "middle") %>%
+  hc_legend(enabled = FALSE) %>%
   hc_title(text = "Eastern") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
@@ -513,13 +514,14 @@ fig2 <- hchart(western, "line", hcaes(x = game_n,
                                       y = net_wins,
                                       group = team),
                animation = FALSE,
+               label = list(
+                 enabled = TRUE
+               ),
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(align = "right",
-            layout = "vertical",
-            verticalAlign = "middle") %>%
+  hc_legend(enabled = FALSE) %>%
   hc_title(text = "Western") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
