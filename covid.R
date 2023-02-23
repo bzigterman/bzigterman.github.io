@@ -682,7 +682,7 @@ fig <- hchart(wastewater_plus_cases,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: IWSS, CDC and NYT. Latest data:",
-                 tail(wastewater$short_date,1)),
+                 tail(water$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
