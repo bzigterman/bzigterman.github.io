@@ -440,8 +440,8 @@ html {
 <td headers="pct_change" class="gt_row gt_right">+53%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">16</td>
-<td headers="latest" class="gt_row gt_right gt_striped">3</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−84%</td></tr>
+<td headers="latest" class="gt_row gt_right gt_striped">5</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−70%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td headers="two_weeks_ago" class="gt_row gt_right">2</td>
 <td headers="latest" class="gt_row gt_right">4</td>
@@ -527,7 +527,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 ## Case Acceleration
 
-As of Monday, the 14-day percent change in average new cases was:
+As of Tuesday, the 14-day percent change in average new cases was:
   
 - 53% in Champaign County
 - 7% in Illinois
@@ -544,11 +544,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Monday, the 14-day percent change in average new deaths was:
+As of Tuesday, the 14-day percent change in average new deaths was:
   
 - -17% in Illinois
 - -19% in the United States
-- -46% worldwide
+- -47% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
