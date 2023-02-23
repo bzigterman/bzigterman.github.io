@@ -29,7 +29,7 @@ get_team_records <- function(abbreviation) {
     select(date, game_n, result) %>%
     mutate(win = if_else(result == "W",1,0)) %>%
     mutate(loss = if_else(result == "L",1,0)) %>%
-    mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NULL))) %>%
+    mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NA))) %>%
     mutate(wins = cumsum(win)) %>%
     mutate(losses = cumsum(loss)) %>%
     mutate(win_pct = wins/game_n) %>%
@@ -47,7 +47,7 @@ get_team_records <- function(abbreviation) {
     ) %>%
     mutate(games_played = cumsum(game_counter)) %>%
     mutate(games_remaining = 82-games_played) %>%
-    mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NULL))  %>%
+    mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NA))  %>%
     mutate(result_arrow = if_else(result == "W","▀",
                                   if_else(result == "L","▄",""))) %>%
     mutate(last_ten = paste(lag(result_arrow,9),
