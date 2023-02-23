@@ -1665,7 +1665,7 @@ flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/
 flash_index <- flash_index_archive %>% html_node("table") %>% 
   html_table(header = TRUE) %>%
   rename(Year = 1) %>%
-  na_if("-") %>%
+  #na_if("-") %>%
   mutate(across(where(is.character),as.double)) %>%
   pivot_longer(!Year) %>%
   mutate(date = ym(paste(Year,name))) %>%
