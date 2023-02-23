@@ -460,12 +460,12 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Hospitalized
 
-<iframe src="/interactive/champaign_hospital.html" width="100%" height="375"> 
+<iframe src="/interactive/champaign_hospital.html" width="100%" height="400"> 
 </iframe>
 
 ### Wastewater Surveillance
 
-<iframe src="/interactive/champaign_wastewater.html" width="100%" height="600"> 
+<iframe src="/interactive/champaign_wastewater.html" width="100%" height="400"> 
 </iframe>
 
 More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
@@ -527,12 +527,12 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 ## Case Acceleration
 
-As of Tuesday, the 14-day percent change in average new cases was:
+As of Wednesday, the 14-day percent change in average new cases was:
   
 - 53% in Champaign County
 - 7% in Illinois
 - -10% in the United States
-- -20% worldwide
+- -13% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -544,11 +544,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Tuesday, the 14-day percent change in average new deaths was:
+As of Wednesday, the 14-day percent change in average new deaths was:
   
 - -17% in Illinois
 - -19% in the United States
-- -47% worldwide
+- -42% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
