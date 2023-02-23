@@ -28,7 +28,7 @@ get_team_records <- function(abbreviation) {
     select(date, game_n, result) %>%
     mutate(win = if_else(result == "W",1,0)) %>%
     mutate(loss = if_else(result == "L",1,0)) %>%
-    mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NULL))) %>%
+    mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NA))) %>%
     mutate(wins = cumsum(win)) %>%
     mutate(losses = cumsum(loss)) %>%
     mutate(win_pct = wins/game_n) %>%
@@ -50,7 +50,7 @@ get_team_records <- function(abbreviation) {
     ) %>%
     mutate(games_played = cumsum(game_counter)) %>%
     mutate(games_remaining = max(game_n)-games_played) %>%
-    mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NULL))  %>%
+    mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NA))  %>%
     mutate(result_arrow = if_else(result == "W","▀",
                                   if_else(result == "L","▄",""))) %>%
     mutate(last_ten = paste(lag(result_arrow,9),
@@ -466,13 +466,14 @@ standings_interactive <- function(division) {
                                  y = net_wins,
                                  group = team),
          animation = FALSE,
+         label = list(
+           enabled = TRUE
+         ),
          tooltip = list(
            pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
   ) %>%
     hc_colors(brewer.pal(9,"Set1")) %>%
-    hc_legend(align = "right",
-              layout = "vertical",
-              verticalAlign = "middle") %>%
+    hc_legend(enabled = FALSE) %>%
     hc_title(text = tail(division$division,1)) %>%
     hc_yAxis(title = "",
              endOnTick = FALSE,
@@ -639,9 +640,9 @@ al_standings <- al_games %>%
 al_standings_elim <- al_standings %>%
   mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
   mutate(sixth_place_wins = al_standings$wins[[6]]) %>%
-  mutate(league_elimination_number = if_else(league_place != 1:6,
+  mutate(league_elimination_number = if_else(league_place > 6,
                                              (163 - sixth_place_wins - losses),
-                                             NULL))
+                                             NA))
 nl_standings <- nl_games %>%
   filter(!is.na(team_label)) %>%
   arrange(desc(win_pct)) %>%
@@ -649,9 +650,9 @@ nl_standings <- nl_games %>%
 nl_standings_elim <- nl_standings %>%
   mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
   mutate(sixth_place_wins = nl_standings$wins[[6]]) %>%
-  mutate(league_elimination_number = if_else(league_place != 1:6,
+  mutate(league_elimination_number = if_else(league_place > 6,
                                              (163 - sixth_place_wins - losses),
-                                             NULL))
+                                             NA))
 
 mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
   full_join(division_standings) %>%
@@ -693,18 +694,18 @@ al_standings_magic <- mlb_standings %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
-                                  NULL)) %>%
+                                  NA)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
   mutate(second_wc_losses = if_else(wild_cardss == "WC3",
                                     losses,
-                                    NULL)) %>%
+                                    NA)) %>%
   fill(second_wc_losses, 
        .direction = "downup") %>%
   mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
   mutate(league_elim_number = if_else(wild_cards == "",
                                       (163 - second_wc_wins - losses),
-                                      NULL)) %>%
+                                      NA)) %>%
   mutate(division_or_elim = ifelse(wild_cards != "",
                                    wild_cards,
                                    ifelse(league_elim_number <= 0,
@@ -753,18 +754,18 @@ nl_standings_magic <- mlb_standings %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC3",
                                   wins,
-                                  NULL)) %>%
+                                  NA)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
   mutate(second_wc_losses = if_else(wild_cardss == "WC3",
                                     losses,
-                                    NULL)) %>%
+                                    NA)) %>%
   fill(second_wc_losses, 
        .direction = "downup") %>%
   mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
   mutate(league_elim_number = if_else(wild_cards == "",
                                       (163 - second_wc_wins - losses),
-                                      NULL)) %>%
+                                      NA)) %>%
   mutate(division_or_elim = ifelse(wild_cards != "",
                                    wild_cards,
                                    ifelse(league_elim_number <= 0,
@@ -852,14 +853,6 @@ nl_standings <- mlb_standings %>%
   filter(league == "NL") %>%
   arrange(desc(win_pct)) %>%
   select(team_label, win_pct, win_pct_text)
-al_playoffs_rect <- (if_else(
-  slice(al_standings, n = 5)[2] == slice(al_standings, n = 6)[2],
-  9.5,
-  10.5))[1]
-nl_playoffs_rect <- (if_else(
-  slice(nl_standings, n = 5)[2] == slice(nl_standings, n = 6)[2],
-  6.5,
-  5.5))[1]
 
 al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct), 
                                           y = win_pct)) +
@@ -1081,13 +1074,14 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team),
                animation = FALSE,
+               label = list(
+                 enabled = TRUE
+               ),
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(align = "right",
-            layout = "vertical",
-            verticalAlign = "middle") %>%
+  hc_legend(enabled = FALSE) %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
@@ -1107,13 +1101,14 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team),
                animation = FALSE,
+               label = list(
+                 enabled = TRUE
+               ),
                tooltip = list(
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 )%>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(align = "right",
-            layout = "vertical",
-            verticalAlign = "middle") %>%
+  hc_legend(enabled = FALSE) %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
