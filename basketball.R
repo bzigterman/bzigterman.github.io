@@ -216,14 +216,6 @@ western_standings <- nba_standings %>%
   filter(conference == "Western") %>%
   arrange(desc(win_pct)) %>%
   select(team_label, win_pct, win_pct_text)
-western_playoffs_rect <- (if_else(
-  slice(western_standings, n = 5)[2] == slice(western_standings, n = 6)[2],
-  9.5,
-  10.5))[1]
-eastern_playoffs_rect <- (if_else(
-  slice(eastern_standings, n = 5)[2] == slice(eastern_standings, n = 6)[2],
-  6.5,
-  5.5))[1]
 
 western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
                                               y = win_pct)) +
