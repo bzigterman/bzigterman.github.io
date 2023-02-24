@@ -491,14 +491,14 @@ saveWidget(widget = fig, file = "interactive/champaign_covid.html",
            libdir = "interactive")
 
 ### wastewater ----
-url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=HHS_NWSS_Concentration_Timeseries_Data"
-water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Data %>%
-  filter(key_plot_id == "NWSS_il_655_Treatment plant_raw wastewater") %>%
-  arrange(date) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(smaller_conc = pcr_conc_smoothed/1000000000) %>%
-  mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
-                            mday(Date))) 
+# url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=HHS_NWSS_Concentration_Timeseries_Data"
+# water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Data %>%
+#   filter(key_plot_id == "NWSS_il_655_Treatment plant_raw wastewater") %>%
+#   arrange(date) %>%
+#   mutate(Date = ymd(date)) %>%
+#   mutate(smaller_conc = pcr_conc_smoothed/1000000000) %>%
+#   mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
+#                             mday(Date))) 
 
 # wastewater_url <- "https://data.cdc.gov/resource/2ew6-ywp6.csv?wwtp_id=655"
 # wastewater <- rio::import(wastewater_url,
@@ -508,7 +508,7 @@ water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Dat
 #   arrange(Date) %>%
 #   mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
 #                             mday(Date))) 
-wastewater_date <- tail(water$short_date,1)
+
 
 iwss_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/159/"
 iwss_raw <- read_html(iwss_url) %>%
@@ -520,7 +520,11 @@ iwss <- fromJSON(iwss_json$observations) %>%
   mutate(Date = ymd(sample_collect_date)) %>%
   mutate(value = pcr_target_avg_conc/1000000) %>%
   filter(method == "1.0") |> 
-  select(Date, pcr_target_avg_conc,value, method) 
+  select(Date, pcr_target_avg_conc,value, method) |> 
+  mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
+                            mday(Date))) 
+
+wastewater_date <- tail(iwss$short_date,1)
 
 ggplot(iwss, aes(x = Date,
                  y = value)) +
@@ -549,12 +553,13 @@ ggsave("plots/iwss.png",
 ggsave("plots/iwss_mobile.png", 
        width = 3, height = 8*(628/1200), dpi = 320)
 
-wastewater_plus_cases <- full_join(water, idph_cases_champaign) %>%
+wastewater_plus_cases <- full_join(iwss, idph_cases_champaign) %>%
   #full_join(water) %>%
-  full_join(iwss) |> 
+  #full_join(iwss) |> 
   select(Date,#ptc_15d,
          #detect_prop_15d,percentile,
-         avg_new_cases, smaller_conc,pcr_target_avg_conc) %>%
+         avg_new_cases, #smaller_conc,
+         pcr_target_avg_conc) %>%
   arrange(Date)%>%
   filter(Date >= "2021-11-22") %>%
   mutate(Date = as_date(Date))
@@ -583,34 +588,32 @@ fig <- hchart(wastewater_plus_cases,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 3, 
-                                 heights = c(1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1,1),
                                  title = list(text = NULL),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = c(NA,
-                                         NA,
                                          NA
                                  ),
                                  min = c(0,
-                                         NA,
                                          0
                                  ))) %>%
-  hc_add_series(
-    data = wastewater_plus_cases,
-    hcaes(x = Date,
-          y = signif(smaller_conc, digits = 3)),
-    label = list(
-      enabled = TRUE),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    name = "Normalized Concentration",
-    color = "black",
-    type = "line",
-    yAxis = 1) %>%
+  # hc_add_series(
+  #   data = wastewater_plus_cases,
+  #   hcaes(x = Date,
+  #         y = signif(smaller_conc, digits = 3)),
+  #   label = list(
+  #     enabled = TRUE),
+  #   states = list(
+  #     inactive = list(
+  #       enabled = FALSE
+  #     )
+  #   ),
+  #   name = "Normalized Concentration",
+  #   color = "black",
+  #   type = "line",
+  #   yAxis = 1) %>%
   # hc_add_series(
   #   data = wastewater_plus_cases,
   #   hcaes(x = Date,
@@ -678,11 +681,11 @@ fig <- hchart(wastewater_plus_cases,
     # label = list(
     #   enabled = TRUE),
     type = "column",
-    yAxis = 2) %>%
+    yAxis = 1) %>%
   hc_credits(
     enabled = TRUE,
     text = paste("Source: IWSS, CDC and NYT. Latest data:",
-                 tail(water$short_date,1)),
+                 wastewater_date),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
@@ -1205,7 +1208,7 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Wastewater Surveillance
 
-<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"400\"> 
+<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"200\"> 
 </iframe>
 
 More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
