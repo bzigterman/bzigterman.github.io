@@ -440,8 +440,8 @@ html {
 <td headers="pct_change" class="gt_row gt_right">−8%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">15</td>
-<td headers="latest" class="gt_row gt_right gt_striped">5</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−68%</td></tr>
+<td headers="latest" class="gt_row gt_right gt_striped">1</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−96%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td headers="two_weeks_ago" class="gt_row gt_right">2</td>
 <td headers="latest" class="gt_row gt_right">3</td>
