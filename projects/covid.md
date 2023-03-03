@@ -435,22 +435,22 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="names" class="gt_row gt_left">Cases</td>
-<td headers="two_weeks_ago" class="gt_row gt_right">39</td>
-<td headers="latest" class="gt_row gt_right">36</td>
-<td headers="pct_change" class="gt_row gt_right">−8%</td></tr>
+<td headers="two_weeks_ago" class="gt_row gt_right">43</td>
+<td headers="latest" class="gt_row gt_right">30</td>
+<td headers="pct_change" class="gt_row gt_right">−30%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">15</td>
 <td headers="latest" class="gt_row gt_right gt_striped">1</td>
 <td headers="pct_change" class="gt_row gt_right gt_striped">−96%</td></tr>
     <tr><td headers="names" class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td headers="two_weeks_ago" class="gt_row gt_right">2</td>
-<td headers="latest" class="gt_row gt_right">3</td>
-<td headers="pct_change" class="gt_row gt_right">+50%</td></tr>
+<td headers="two_weeks_ago" class="gt_row gt_right">5</td>
+<td headers="latest" class="gt_row gt_right">4</td>
+<td headers="pct_change" class="gt_row gt_right">−20%</td></tr>
   </tbody>
   
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 321  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 322  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -529,7 +529,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- -7% in Champaign County
+- -30% in Champaign County
 - 0% in Illinois
 - -14% in the United States
 - -19% worldwide
