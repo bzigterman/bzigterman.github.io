@@ -6,13 +6,13 @@ Eastern,CLE,39,26,.600
 Eastern,NYK,37,27,.578
 Eastern,BKN,34,28,.548
 Eastern,MIA,33,30,.524
-Eastern,ATL,31,31,.500
+Eastern,ATL,32,31,.508
 Eastern,TOR,31,33,.484
 Eastern,WAS,30,32,.484
 Eastern,CHI,29,34,.460
 Eastern,IND,28,36,.438
-Eastern,ORL,26,37,.413
-Eastern,CHA,20,44,.312
+Eastern,ORL,27,37,.422
+Eastern,CHA,20,45,.308
 Eastern,DET,15,48,.238
 Western,DEN,44,19,.698
 Western,MEM,38,23,.623
@@ -25,7 +25,7 @@ Western,MIN,32,32,.500
 Western,UTA,31,32,.492
 Western,NOP,31,32,.492
 Western,LAL,30,33,.476
-Western,POR,29,33,.468
+Western,POR,29,34,.460
 Western,OKC,28,34,.452
 Western,SAS,16,47,.254
 Western,HOU,13,49,.210
