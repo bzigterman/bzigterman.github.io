@@ -92,15 +92,15 @@ om_past24 <- om_hourly |>
   filter(time < now(tzone = "America/Chicago")) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) 
 
-rainfall <- round(sum(om_past24$rain),2)
-snowfall <- round(sum(om_past24$snowfall),2)
+rainfall <- round(sum(om_past24$rain, na.rm = TRUE),2)
+snowfall <- round(sum(om_past24$snowfall, na.rm = TRUE),2)
 
 om_3day_forecast <- om_hourly |> 
-  #select(time,datetime,precipAccumulation,precipType) |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
   filter(time < now(tzone = "America/Chicago")+days(3)) 
 
-rainfall_forecast <- round(sum(om_3day_forecast$rain),2)
-snowfall_forecast <- round(sum(om_3day_forecast$snowfall),2)
+rainfall_forecast <- round(sum(om_3day_forecast$rain, na.rm = TRUE),2)
+snowfall_forecast <- round(sum(om_3day_forecast$snowfall, na.rm = TRUE),2)
 
 champaign_rain <- 
   sum(om_past24$rain, na.rm = TRUE)
