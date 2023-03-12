@@ -70,7 +70,9 @@ om_hourly <- as_tibble( om$hourly) |>
   select(!windspeed_10m) |> 
   mutate(windGust = windgusts_10m) |> 
   select(!windgusts_10m) |> 
-  filter(time > now(tzone = "America/Chicago")-days(1)) 
+  filter(time > now(tzone = "America/Chicago")-days(1)) |> 
+  mutate(rain = if_else(rain == 0,NA,rain)) |> 
+  mutate(snowfall = if_else(snowfall == 0,NA,snowfall))
 om_currently <- om$current_weather
 om_daily <- as_tibble( om$daily)
 
@@ -174,11 +176,11 @@ fig <- highchart() |>
                 pointWidth = 5,
                 tooltip = list(valueSuffix = "″",
                                valueDecimals = 2),
-                # states = list(
-                #   inactive = list(
-                #     enabled = FALSE
-                #   )
-                # ),
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 #tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
                 hcaes(x = time*1000,
                       y = rain),
@@ -193,11 +195,11 @@ fig <- highchart() |>
                 pointWidth = 5,
                 tooltip = list(valueSuffix = "″",
                                valueDecimals = 2),
-                # states = list(
-                #   inactive = list(
-                #     enabled = FALSE
-                #   )
-                # ),
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 color = "#8AA5F1",
                 #tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
                 hcaes(x = time*1000,
