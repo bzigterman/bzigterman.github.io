@@ -57,6 +57,9 @@ om_hourly <- as_tibble( om$hourly) |>
   mutate(rain = rain + showers) |> 
   select(!showers) |> 
   mutate(precipProbability = precipitation_probability) |> 
+  mutate(precipProbability = if_else(time < now(tzone = "America/Chicago"),
+                                     NA,
+                                     precipProbability)) |> 
   select(!precipitation_probability) |> 
   mutate(temperature = temperature_2m) |> 
   select(!temperature_2m) |> 
@@ -481,7 +484,7 @@ fig <- highchart() |>
   ) |>
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
+    text = paste("Source: NWS, via Open-Meteo and Pirate Weather. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
   hc_legend(enabled = FALSE) |> 
   hc_chart(plotBackgroundColor = "#E8EEF5",
