@@ -249,7 +249,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = humidity),
                 yAxis = 5) |> 
-  hc_add_series(data = pirate_champaign,
+  hc_add_series(data = pirate_hourly,
                 type = "line",
                 name = "UV Index",
                 tooltip = list(valueDecimals = 1),
