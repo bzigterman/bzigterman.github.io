@@ -31,6 +31,24 @@ today <- strftime(x = now,
 
 # get data ----
 
+# pirate api ----
+Sys.getenv("PIRATE_WEATHER")
+
+pirate_url <- paste0("https://api.pirateweather.net/forecast/",
+                     Sys.getenv("PIRATE_WEATHER"),"/",
+                     champaign_lat,",",champaign_lon,
+                     "?exclude=minutely,alerts&extend=hourly")
+pirate_forecast <- GET(pirate_url)
+pirate_status <- status_code(pirate_forecast)
+pirate_status
+pirate_forecast_content <- content(pirate_forecast)
+pirate_hourly <- pirate_forecast_content$hourly$data %>%
+  map(as_tibble) %>%
+  reduce(bind_rows) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(datetime >= now(tzone = "America/Chicago"))
+pirate_currently <- pirate_forecast_content$currently
+
 # open meteo ----
 om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
 om <- rio::import(om_url, format = "json")
@@ -231,10 +249,31 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = humidity),
                 yAxis = 5) |> 
-  hc_yAxis_multiples(create_axis(naxis = 6, 
+  hc_add_series(data = pirate_champaign,
+                type = "line",
+                name = "UV Index",
+                tooltip = list(valueDecimals = 1),
+                zones = list(
+                  c(value = 2,
+                    color = "#4C9329"),
+                  c(value = 5,
+                    color = "#F4E54C"),
+                  c(value = 7,
+                    color = "#E7652B"),
+                  c(value = 10,
+                    color = "#C72A23"),
+                  c(value = 100,
+                    color = "#674AC2")),
+                color = "black",
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = uvIndex),
+                yAxis = 6) |> 
+  hc_yAxis_multiples(create_axis(naxis = 7, 
                                  gridLineColor = "#D9D9D9",
                                  gridLineWidth = 2,
-                                 heights = c(2,1,1,1,1,1),
+                                 heights = c(2,1,1,1,1,1,1),
                                  title = list(text = NULL),
                                  plotLines = list(
                                    list(
@@ -245,10 +284,10 @@ fig <- highchart() |>
                                        zIndex = 1,
                                        value = 32
                                      )
-                                   ),NA,NA,NA,NA,NA
+                                   ),NA,NA,NA,NA,NA,NA
                                  ),
                                  softMax = c(NA,NA,.25,
-                                             NA,20,NA),
+                                             NA,20,NA,NA),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = c(NA,
@@ -256,11 +295,13 @@ fig <- highchart() |>
                                          NA,
                                          100,
                                          NA,
-                                         100
+                                         100,
+                                         NA
                                  ),
                                  min = c(NA,
                                          0,
                                          NA,
+                                         0,
                                          0,
                                          0,
                                          0
@@ -450,25 +491,7 @@ saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-# pirate api ----
-Sys.getenv("PIRATE_WEATHER")
-
-pirate_url <- paste0("https://api.pirateweather.net/forecast/",
-                     Sys.getenv("PIRATE_WEATHER"),"/",
-                     champaign_lat,",",champaign_lon,
-                     "?exclude=minutely,alerts&extend=hourly")
-pirate_forecast <- GET(pirate_url)
-pirate_status <- status_code(pirate_forecast)
-pirate_status
-pirate_forecast_content <- content(pirate_forecast)
-pirate_hourly <- pirate_forecast_content$hourly$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(datetime >= now(tzone = "America/Chicago"))
-pirate_currently <- pirate_forecast_content$currently
-
-## nws historical ----
+# nws historical ----
 url <- "https://api.weather.gov/stations/KCMI/observations"
 nws_past <- GET(url,
                 add_headers(
