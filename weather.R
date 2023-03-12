@@ -1,6 +1,4 @@
 library(tidyverse)
-library(readr)
-library(lubridate)
 library(scales)
 library(httr)
 library(rvest)
@@ -32,6 +30,425 @@ today <- strftime(x = now,
 
 # get data ----
 
+# open meteo ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
+om <- rio::import(om_url, format = "json")
+om_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  mutate(rain = rain + showers) |> 
+  select(!showers) |> 
+  mutate(precipProbability = precipitation_probability) |> 
+  select(!precipitation_probability) |> 
+  mutate(temperature = temperature_2m) |> 
+  select(!temperature_2m) |> 
+  mutate(humidity = relativehumidity_2m) |> 
+  select(!relativehumidity_2m) |> 
+  mutate(precipAccumulation = precipitation) |> 
+  select(!precipitation) |> 
+  mutate(cloudCover = cloudcover) |> 
+  select(!cloudcover) |> 
+  mutate(windSpeed = windspeed_10m) |> 
+  select(!windspeed_10m) |> 
+  mutate(windGust = windgusts_10m) |> 
+  select(!windgusts_10m) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) 
+om_currently <- om$current_weather
+om_daily <- as_tibble( om$daily)
+
+om_daylight <- om_daily |> 
+  select(sunrise, sunset) |> 
+  mutate(sunriseTime = sunrise) |> 
+  mutate(sunsetTime = sunset) |> 
+  mutate(top = Inf) %>%
+  mutate(bottom = -Inf) %>%
+  mutate(sunrise = as_datetime(sunriseTime, tz = "America/Chicago")) |> 
+  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
+  arrange(sunriseTime)
+
+
+## rainfall total ----
+om_past24 <- om_hourly |> 
+  filter(time < now(tzone = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) 
+
+rainfall <- round(sum(om_past24$rain),2)
+snowfall <- round(sum(om_past24$snowfall),2)
+
+om_3day_forecast <- om_hourly |> 
+  #select(time,datetime,precipAccumulation,precipType) |> 
+  filter(time < now(tzone = "America/Chicago")+days(3)) 
+
+rainfall_forecast <- round(sum(om_3day_forecast$rain),2)
+snowfall_forecast <- round(sum(om_3day_forecast$snowfall),2)
+
+champaign_rain <- 
+  sum(om_past24$rain, na.rm = TRUE)
+champaign_rain_text <- ifelse(champaign_rain > 0, 
+                              paste0("- ",champaign_rain," inches of rain in the past 24 hours\n"),
+                              "")
+champaign_snow <- 
+  sum(om_past24$snowfall, na.rm = TRUE)
+champaign_snow_text <- ifelse(champaign_snow > 0, 
+                              paste0("- ",champaign_rain," inches of snow in the past 24 hours\n"),
+                              "")
+
+
+## interactive ----
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
+
+fig <- highchart() |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Temperature",
+                label = list(
+                  enabled = TRUE),
+                zones = list(
+                  c(value = 0,   color = "#F8D4FC"),
+                  c(value = 5,   color = "#E5A4EB"),
+                  c(value = 10,  color = "#D392DD"),
+                  c(value = 15,  color = "#C07ECC"),
+                  c(value = 20,  color = "#9D63C2"),
+                  c(value = 25,  color = "#794DB4"),
+                  c(value = 30,  color = "#5B4FA6"),
+                  c(value = 32,  color = "#527DC7"),
+                  c(value = 40,  color = "#65C1DE"),
+                  c(value = 45,  color = "#6EDAE0"),
+                  c(value = 50,  color = "#6EDBA2"),
+                  c(value = 55,  color = "#69C954"),
+                  c(value = 60,  color = "#93D452"),
+                  c(value = 65,  color = "#E3E65B"),
+                  c(value = 70,  color = "#FFFF61"),
+                  c(value = 75,  color = "#F8D456"),
+                  c(value = 80,  color = "#ED9749"),
+                  c(value = 85,  color = "#DC6641"),
+                  c(value = 90,  color = "#CA593E"),
+                  c(value = 95,  color = "#B6493B"),
+                  c(value = 200, color = "#A44139")),
+                color = "black",
+                lineWidth = 3,
+                connectNulls = TRUE,
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                hcaes(x = time*1000,
+                      y = temperature),
+                yAxis = 0) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Precip. Chance",
+                tooltip = list(valueSuffix = "%"),
+                color = "#698490",
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = precipProbability),
+                yAxis = 1) |> 
+  hc_add_series(data = om_hourly,
+                type = "column",
+                name = "Rain",
+                borderWidth = 0,
+                groupPadding = 0,
+                pointPadding = 0,
+                pointWidth = 5,
+                tooltip = list(valueSuffix = "″",
+                               valueDecimals = 2),
+                # states = list(
+                #   inactive = list(
+                #     enabled = FALSE
+                #   )
+                # ),
+                #tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
+                hcaes(x = time*1000,
+                      y = rain),
+                color = "#b0dcf0",
+                yAxis = 2) |> 
+  hc_add_series(data = om_hourly,
+                type = "column",
+                name = "Snow",
+                borderWidth = 0,
+                groupPadding = 0,
+                pointPadding = 0,
+                pointWidth = 5,
+                tooltip = list(valueSuffix = "″",
+                               valueDecimals = 2),
+                # states = list(
+                #   inactive = list(
+                #     enabled = FALSE
+                #   )
+                # ),
+                color = "#8AA5F1",
+                #tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
+                hcaes(x = time*1000,
+                      y = snowfall),
+                yAxis = 2) |> 
+  hc_add_series(data = om_hourly,
+                type = "area",
+                name = "Cloud Cover",
+                color = "lightgray",
+                lineWidth = 0,
+                tooltip = list(valueSuffix = "%"),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = cloudCover),
+                yAxis = 3) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Wind",
+                connectNulls = TRUE,
+                color = "black",
+                tooltip = list(valueSuffix = " mph",
+                               valueDecimals = 0),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = windSpeed),
+                yAxis = 4) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Gusts",
+                connectNulls = TRUE,
+                color = "gray",
+                tooltip = list(valueSuffix = " mph",
+                               valueDecimals = 0),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = windGust),
+                yAxis = 4) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Humidity",
+                connectNulls = TRUE,
+                color = "#3288bd",
+                tooltip = list(valueSuffix = "%"),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = humidity),
+                yAxis = 5) |> 
+  hc_yAxis_multiples(create_axis(naxis = 6, 
+                                 gridLineColor = "#D9D9D9",
+                                 gridLineWidth = 2,
+                                 heights = c(2,1,1,1,1,1),
+                                 title = list(text = NULL),
+                                 plotLines = list(
+                                   list(
+                                     list(
+                                       label = list(text = "32°"),
+                                       color = "#527DC7",
+                                       width = 1,
+                                       zIndex = 1,
+                                       value = 32
+                                     )
+                                   ),NA,NA,NA,NA,NA
+                                 ),
+                                 softMax = c(NA,NA,.25,
+                                             NA,20,NA),
+                                 endOnTick = FALSE,
+                                 startOnTick = FALSE,
+                                 max = c(NA,
+                                         100,
+                                         NA,
+                                         100,
+                                         NA,
+                                         100
+                                 ),
+                                 min = c(NA,
+                                         0,
+                                         NA,
+                                         0,
+                                         0,
+                                         0
+                                 ))) |> 
+  hc_xAxis(type = "datetime",
+           gridLineColor = "#D9D9D9",
+           gridLineWidth = 1,
+           lineWidth = 0,
+           opposite = TRUE,
+           tickInterval = 24 * 3600 * 1000,
+           dateTimeLabelFormats = list(
+             day = "%A"
+           ),
+           plotLines = list(
+             list(
+               label = list(text = "Now"),
+               color = "#595959",
+               width = 1,
+               zIndex = 2,
+               value = as.numeric( now(tzone = "America/Chicago"))*1000
+             )
+           ),
+           min = 1000*min(om_hourly$time),
+           max = 1000*max(om_hourly$time),
+           plotBands = list(
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[1]],
+               to = 1000*om_daylight$sunsetTime[[1]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[2]],
+               to = 1000*om_daylight$sunsetTime[[2]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[3]],
+               to = 1000*om_daylight$sunsetTime[[3]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[4]],
+               to = 1000*om_daylight$sunsetTime[[4]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[5]],
+               to = 1000*om_daylight$sunsetTime[[5]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[6]],
+               to = 1000*om_daylight$sunsetTime[[6]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[7]],
+               to = 1000*om_daylight$sunsetTime[[7]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[8]],
+               to = 1000*om_daylight$sunsetTime[[8]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[9]],
+               to = 1000*om_daylight$sunsetTime[[9]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[10]],
+               to = 1000*om_daylight$sunsetTime[[10]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[11]],
+               to = 1000*om_daylight$sunsetTime[[11]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[12]],
+               to = 1000*om_daylight$sunsetTime[[12]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[13]],
+               to = 1000*om_daylight$sunsetTime[[13]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[14]],
+               to = 1000*om_daylight$sunsetTime[[14]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[15]],
+               to = 1000*om_daylight$sunsetTime[[15]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[16]],
+               to = 1000*om_daylight$sunsetTime[[16]]
+             ),
+             list(
+               #label = list(text = "Now"),
+               color = "#FFFFF5",
+               width = 1,
+               zIndex = 1,
+               from = 1000*om_daylight$sunriseTime[[17]],
+               to = 1000*om_daylight$sunsetTime[[17]]
+             )
+             
+           )
+  )%>%
+  hc_tooltip(shared = TRUE,
+             split = TRUE,
+             crosshairs = TRUE,
+             dateTimeLabelFormats = list(
+               hour = "%A, %b %e, %l%P",
+               minute = "%A, %b %e, %l%P",
+               millisecond = "%A, %b %e, %l%P"
+             )) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
+    href = "https://open-meteo.com") |> 
+  hc_legend(enabled = FALSE) |> 
+  hc_chart(plotBackgroundColor = "#E8EEF5",
+           scrollablePlotArea = list(
+             minWidth = 700
+           )) 
+fig
+saveWidget(widget = fig, file = "interactive/champaign_weather.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # pirate api ----
 Sys.getenv("PIRATE_WEATHER")
 
@@ -43,17 +460,12 @@ pirate_forecast <- GET(pirate_url)
 pirate_status <- status_code(pirate_forecast)
 pirate_status
 pirate_forecast_content <- content(pirate_forecast)
-pirate_currently <- pirate_forecast_content$currently
 pirate_hourly <- pirate_forecast_content$hourly$data %>%
   map(as_tibble) %>%
   reduce(bind_rows) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
   filter(datetime >= now(tzone = "America/Chicago"))
-pirate_daily <- pirate_forecast_content$daily$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(datetime >= now(tzone = "America/Chicago"))
+pirate_currently <- pirate_forecast_content$currently
 
 ## nws historical ----
 url <- "https://api.weather.gov/stations/KCMI/observations"
@@ -131,13 +543,6 @@ willard <- willard_cleaner %>%
 #   group_by(day) |> 
 #   summarise(temp_six_hour_hi)
 
-
-champaign_rain <- 
-  sum(filter(willard,time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, na.rm = TRUE)
-champaign_rain_text <- ifelse(champaign_rain > 0, 
-                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
-                              "")
-
 # champaign_rain <- sum(
 #   filter(nws_post,
 #          time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, 
@@ -159,387 +564,6 @@ willard_data_update <- willard |>
 
 write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
-
-## pirate historical ----
-pirate_history_url <- paste0("https://api.pirateweather.net/forecast/",
-                             Sys.getenv("PIRATE_WEATHER"),"/",
-                             champaign_lat,",",champaign_lon,
-                             ",-86400?exclude=minutely,alerts")
-pirate_history <- GET(pirate_history_url)
-pirate_history_status <- status_code(pirate_history)
-pirate_history_status
-pirate_history_content <- content(pirate_history)
-pirate_history_hourly <-  pirate_history_content$hourly$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |>
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) %>%
-  filter(datetime < now(tzone = "America/Chicago"))
-pirate_history_daily <- pirate_history_content$daily$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
-
-pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
-  select(sunriseTime, sunsetTime) %>%
-  unique() %>%
-  mutate(top = Inf) %>%
-  mutate(bottom = -Inf) %>%
-  mutate(sunrise = as_datetime(sunriseTime, tz = "America/Chicago")) %>%
-  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
-  arrange(sunriseTime)
-
-pirate_champaign <- full_join(pirate_hourly,willard) |> 
-  mutate(precipProbability = 100*precipProbability) |> 
-  mutate(humidity = round(100*humidity)) |> 
-  mutate(cloudCover = 100*cloudCover) |> 
-  mutate(precipType = case_when(
-    precipType == "none" ~ "Precip.",
-    precipType == "Precip." ~ "Precip.",
-    precipType == "rain" ~ "Rain",
-    precipType == "snow" ~ "Snow")) |>
-  mutate(precipType = recode_factor(
-    precipType,
-    "Rain" = "Rain",
-    "Snow" = "Snow",
-    "Precip" = "Precip",
-    .ordered = TRUE
-  )) |> 
-  arrange(time) |> 
-  filter(time > now(tzone = "America/Chicago")-days(1)) 
-pirate_precipTypes <- pirate_champaign |> 
-  select(precipType) |> 
-  sapply(levels) 
-pirate_precipTypes
-pirate_precip_colors <- 
-  case_when(
-    pirate_precipTypes[[1]] == "Snow" && pirate_precipTypes[[2]] == "Precip."
-    ~ c("#8AA5F1","#b0dcf0","#b0dcf0"),
-    pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Precip."
-    ~ c("#b0dcf0","#b0dcf0","#b0dcf0"),
-    pirate_precipTypes[[1]] == "Rain" && pirate_precipTypes[[2]] == "Snow" && pirate_precipTypes[[3]] == "Precip."
-    ~ c("#b0dcf0","#8AA5F1","#b0dcf0"),
-    pirate_precipTypes[[1]] == "Precip." 
-    ~ c("#b0dcf0","#b0dcf0","#b0dcf0")
-  )
-pirate_champaign_longer <- pirate_champaign |> 
-  select(datetime,summary,precipProbability,precipAccumulation,precipType,
-         temperature,humidity,windSpeed,cloudCover,uvIndex) |> 
-  pivot_longer(!c(datetime,summary,precipType),
-               names_to = "names",
-               values_to = "values") |> 
-  mutate(names = recode_factor(names, 
-                               "temperature"        = "°F",
-                               "precipProbability"  = "Precip%",
-                               "precipAccumulation" = "Precip.",
-                               "cloudCover"         = "Clouds",
-                               "windSpeed"          = "Wind",
-                               "humidity"           = "Humidity",
-                               "uvIndex"            = "UV"))
-pirate_champaign_wider <- pirate_champaign_longer |> 
-  pivot_wider(names_from = names,
-              values_from = values)
-
-## rainfall total ----
-pirate_rain <- pirate_history_hourly |> 
-  select(datetime,precipAccumulation,precipType) |> 
-  filter(precipType == "rain")
-pirate_snow <- pirate_history_hourly |> 
-  select(datetime,precipAccumulation,precipType) |> 
-  filter(precipType == "snow")
-
-rainfall <- round(sum(pirate_rain$precipAccumulation),2)
-snowfall <- round(sum(pirate_snow$precipAccumulation),2)
-
-pirate_rain_forecast <- pirate_hourly |> 
-  select(time,datetime,precipAccumulation,precipType) |> 
-  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
-  filter(precipType == "rain")
-pirate_snow_forecast <- pirate_hourly |> 
-  select(time,datetime,precipAccumulation,precipType) |> 
-  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
-  filter(precipType == "snow")
-
-rainfall_forecast <- round(sum(pirate_rain_forecast$precipAccumulation),2)
-snowfall_forecast <- round(sum(pirate_snow_forecast$precipAccumulation),2)
-
-## interactive ----
-offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
-global <- getOption("highcharter.global")
-global$useUTC <- FALSE
-global$timezoneOffset <- offset
-options(highcharter.global = global)
-
-fig <- highchart() |> 
-  hc_add_series(data = pirate_champaign,
-                type = "line",
-                name = "Temperature",
-                label = list(
-                  enabled = TRUE),
-                zones = list(
-                  c(value = 0,   color = "#F8D4FC"),
-                  c(value = 5,   color = "#E5A4EB"),
-                  c(value = 10,  color = "#D392DD"),
-                  c(value = 15,  color = "#C07ECC"),
-                  c(value = 20,  color = "#9D63C2"),
-                  c(value = 25,  color = "#794DB4"),
-                  c(value = 30,  color = "#5B4FA6"),
-                  c(value = 32,  color = "#527DC7"),
-                  c(value = 40,  color = "#65C1DE"),
-                  c(value = 45,  color = "#6EDAE0"),
-                  c(value = 50,  color = "#6EDBA2"),
-                  c(value = 55,  color = "#69C954"),
-                  c(value = 60,  color = "#93D452"),
-                  c(value = 65,  color = "#E3E65B"),
-                  c(value = 70,  color = "#FFFF61"),
-                  c(value = 75,  color = "#F8D456"),
-                  c(value = 80,  color = "#ED9749"),
-                  c(value = 85,  color = "#DC6641"),
-                  c(value = 90,  color = "#CA593E"),
-                  c(value = 95,  color = "#B6493B"),
-                  c(value = 200, color = "#A44139")),
-                color = "black",
-                lineWidth = 3,
-                connectNulls = TRUE,
-                tooltip = list(valueSuffix = "°",
-                               valueDecimals = 0),
-                hcaes(x = time*1000,
-                      y = temperature),
-                yAxis = 0) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "line",
-                name = "Precip. Chance",
-                tooltip = list(valueSuffix = "%"),
-                color = "#698490",
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = precipProbability),
-                yAxis = 1) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "column",
-                name = "Precip. Amount",
-                borderWidth = 0,
-                groupPadding = 0,
-                pointPadding = 0,
-                pointWidth = 5,
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
-                hcaes(x = time*1000,
-                      y = precipAccumulation,
-                      group = precipType),
-                yAxis = 2) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "area",
-                name = "Cloud Cover",
-                color = "lightgray",
-                lineWidth = 0,
-                tooltip = list(valueSuffix = "%"),
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = cloudCover),
-                yAxis = 3) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "line",
-                name = "Wind",
-                connectNulls = TRUE,
-                color = "black",
-                tooltip = list(valueSuffix = " mph",
-                               valueDecimals = 0),
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = windSpeed),
-                yAxis = 4) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "line",
-                name = "Humidity",
-                connectNulls = TRUE,
-                color = "#3288bd",
-                tooltip = list(valueSuffix = "%"),
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = humidity),
-                yAxis = 5) |> 
-  hc_add_series(data = pirate_champaign,
-                type = "line",
-                name = "UV Index",
-                tooltip = list(valueDecimals = 1),
-                zones = list(
-                  c(value = 2,
-                    color = "#4C9329"),
-                  c(value = 5,
-                    color = "#F4E54C"),
-                  c(value = 7,
-                    color = "#E7652B"),
-                  c(value = 10,
-                    color = "#C72A23"),
-                  c(value = 100,
-                    color = "#674AC2")),
-                color = "black",
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = uvIndex),
-                yAxis = 6) |> 
-  hc_yAxis_multiples(create_axis(naxis = 7, 
-                                 gridLineColor = "#D9D9D9",
-                                 gridLineWidth = 2,
-                                 heights = c(1,1,1,1,1,1,1),
-                                 title = list(text = NULL),
-                                 plotLines = list(
-                                   list(
-                                     list(
-                                       label = list(text = "32°"),
-                                       color = "#527DC7",
-                                       width = 1,
-                                       zIndex = 1,
-                                       value = 32
-                                     )
-                                   ),NA,NA,NA,NA,NA,NA
-                                 ),
-                                 softMax = c(NA,NA,.25,
-                                             NA,20,NA,NA),
-                                 endOnTick = FALSE,
-                                 startOnTick = FALSE,
-                                 max = c(NA,
-                                         100,
-                                         NA,
-                                         100,
-                                         NA,
-                                         100,
-                                         NA
-                                 ),
-                                 min = c(NA,
-                                         0,
-                                         NA,
-                                         0,
-                                         0,
-                                         0,
-                                         NA
-                                 ))) |> 
-  hc_xAxis(type = "datetime",
-           gridLineColor = "#D9D9D9",
-           gridLineWidth = 1,
-           lineWidth = 0,
-           opposite = TRUE,
-           tickInterval = 24 * 3600 * 1000,
-           dateTimeLabelFormats = list(
-             day = "%A"
-           ),
-           plotLines = list(
-             list(
-               label = list(text = "Now"),
-               color = "#595959",
-               width = 1,
-               zIndex = 2,
-               value = as.numeric( now(tzone = "America/Chicago"))*1000
-             )
-           ),
-           min = 1000*min(pirate_champaign$time),
-           max = 1000*max(pirate_champaign$time),
-           plotBands = list(
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[1]],
-               to = 1000*pirate_daylight$sunsetTime[[1]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[2]],
-               to = 1000*pirate_daylight$sunsetTime[[2]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[3]],
-               to = 1000*pirate_daylight$sunsetTime[[3]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[4]],
-               to = 1000*pirate_daylight$sunsetTime[[4]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[5]],
-               to = 1000*pirate_daylight$sunsetTime[[5]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[6]],
-               to = 1000*pirate_daylight$sunsetTime[[6]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[7]],
-               to = 1000*pirate_daylight$sunsetTime[[7]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[8]],
-               to = 1000*pirate_daylight$sunsetTime[[8]]
-             ),
-             list(
-               #label = list(text = "Now"),
-               color = "#FFFFF5",
-               width = 1,
-               zIndex = 1,
-               from = 1000*pirate_daylight$sunriseTime[[9]],
-               to = 1000*pirate_daylight$sunsetTime[[9]]
-             )
-           )
-  )%>%
-  hc_colors(pirate_precip_colors) %>%
-  hc_tooltip(shared = TRUE,
-             split = TRUE,
-             crosshairs = TRUE,
-             dateTimeLabelFormats = list(
-               hour = "%A, %b %e, %l%P",
-               minute = "%A, %b %e, %l%P",
-               millisecond = "%A, %b %e, %l%P"
-             )) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) |>
-  hc_credits(
-    enabled = TRUE,
-    text = paste("Source: NWS. Latest data:",now_formatted),
-    href = "https://pirateweather.net") |> 
-  hc_legend(enabled = FALSE) |> 
-  hc_chart(plotBackgroundColor = "#E8EEF5") 
-fig
-saveWidget(widget = fig, file = "interactive/champaign_weather.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
 
 # NCEI ----
 earliest <- "1902-08-01"
@@ -581,10 +605,10 @@ if (aqi_status == 200) {
 }
 
 # set variables ----
-champaign_temp <- paste(round(pirate_currently$temperature),"°", sep = "")
+champaign_temp <- paste(round(om_currently$temperature),"°", sep = "")
 champaign_humidity <- paste(100*pirate_currently$humidity,"%",sep = "")
 champaign_desc <- pirate_currently$summary
-champaign_wind_speed <- paste(round(pirate_currently$windSpeed),"mph")
+champaign_wind_speed <- paste(round(om_currently$windspeed),"mph")
 champaign_precip <- case_when(
   rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow in the past 24 hours\n"),
   rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours\n"),
