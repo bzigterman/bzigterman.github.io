@@ -13,6 +13,9 @@ library(highcharter)
 library(RColorBrewer)
 library(htmlwidgets)
 
+champaign_lat <-  40.08408
+champaign_lon <- -88.24039
+
 # NCEI ----
 earliest <- "1902-08-01"
 year_ago <- as.character(ymd(today(tzone = "America/Chicago")- days(366)))
@@ -57,7 +60,7 @@ if (!empty_check) {
                         day(latest)))
   
   total_years <- as.numeric(count(latest_freeze_dates))
-
+  
   latest_freeze_weeks <- latest_freeze_dates |> 
     count(latest)  |> 
     # mutate(date = parse_date_time(paste(
@@ -112,8 +115,8 @@ if (!empty_check) {
     ) |> 
     hc_legend(enabled = FALSE) |> 
     #hc_tooltip(split = TRUE) |> 
-  #  hc_tooltip(pointFormat = "{point.years}",
-   #             headerFormat = "<b>Week {point.week}</b><br>") |> 
+    #  hc_tooltip(pointFormat = "{point.years}",
+    #             headerFormat = "<b>Week {point.week}</b><br>") |> 
     hc_credits(
       enabled = TRUE,
       text = "Source: NCEI",
@@ -126,97 +129,107 @@ if (!empty_check) {
 }
 
 # soil temp ----
-get_soil_url <- function(year) {
-  soil_url <-  paste0("https://www.ncei.noaa.gov/pub/data/uscrn/products/daily01/",
-                      year,
-                      "/CRND0103-",year,"-IL_Champaign_9_SW.txt")
-  soil_csv <- rio::import(soil_url, format = "csv")|> 
-    janitor::clean_names()
-}
+om_url <- paste0( "https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,soil_temperature_0cm,soil_temperature_6cm,soil_temperature_18cm,soil_temperature_54cm&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=92&forecast_days=16")
+om <- rio::import(om_url,
+                  format = "json")
+om_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
+om_hourly_longer <- om_hourly |> 
+  pivot_longer(cols = !c(time,datetime) )
 
-soil_records <- map(2002:year(now(tzone = "America/Chicago")),
-                    get_soil_url) 
-soil_records <- do.call("rbind",soil_records)
 
-champaign_soil <- soil_records |> 
-  select(v2,v7,v14,v24,v25,v26,v27,v28) |> 
-  mutate(datetime = ymd(v2)) |> 
-  mutate(time = as.numeric(as_datetime(datetime))) |> 
-  arrange(time) |> 
-  mutate(Air = v7*1.8+32) |> 
-  mutate(Surface = v14*1.8+32) |> 
-  mutate('5cm' = v24*1.8+32) |> 
-  mutate('10cm' = v25*1.8+32) |> 
-  mutate('20cm' = v26*1.8+32) |> 
-  mutate('50cm' = v27*1.8+32) |> 
-  mutate('100cm' = v28*1.8+32) |> 
-  select(datetime,time,Air,Surface,
-         '5cm','10cm',
-         '20cm','50cm',
-         '100cm') 
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
 
-champaign_soil_longer <- champaign_soil |> 
-  pivot_longer(!c(datetime,time)) |> 
-  filter(value > -100) |> 
-  mutate(name = recode_factor(name,
-                              "Air" = "Air",
-                              "Surface" = "Surface",
-                              "5cm" = "5 cm",
-                              "10cm" = "10 cm",
-                              "20cm" = "20 cm",
-                              "50cm" = "50 cm",
-                              "100cm" = "100 cm"))
-
-champaign_soil_wider <- champaign_soil_longer |> 
-  pivot_wider()
 
 fig <- highchart() |> 
-  hc_add_series(champaign_soil_longer,
-                "line",
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Air",
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                color = "lightblue",
                 hcaes(x = time*1000,
-                      y = value,
-                      group = name),
-                animation = FALSE) |> 
-  hc_xAxis(title = list(text = NULL),
-           type = "datetime")  |> 
-  hc_yAxis(title = list(text = ""),
-           endOnTick = FALSE,
-           startOnTick = FALSE,
-           plotLines = list(
-             list(
-               label = list(text = "32°"),
-               color = "#527DC7",
-               width = 1,
-               zIndex = 1,
-               value = 32
-             ))) |> 
+                      y = temperature_2m),
+                animation = FALSE,
+                yAxis = 0) |> 
+  # hc_add_series(data = om_hourly,
+  #               type = "line",
+  #               name = "Surface Temp.",
+  #               color = "brown",
+  #               hcaes(x = time*1000,
+  #                     y = soil_temperature_0cm),
+  #               animation = FALSE,
+  #               yAxis = 0) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "6cm",
+                color = "#d95f0e",
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                hcaes(x = time*1000,
+                      y = soil_temperature_6cm),
+                animation = FALSE,
+                yAxis = 0) |>
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "18cm",
+                color = "#fe9929",
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                hcaes(x = time*1000,
+                      y = soil_temperature_18cm),
+                animation = FALSE,
+                yAxis = 0) |>
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "54cm",
+                color = "#fec44f",
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                hcaes(x = time*1000,
+                      y = soil_temperature_54cm),
+                animation = FALSE,
+                yAxis = 0) |>
   hc_credits(
     enabled = TRUE,
-    text = "Source: NCEI",
-    href = "https://www.ncei.noaa.gov/access/crn/qcdatasets.html") %>%
-  hc_colors(c(
-    "#88B3E7","#993404","#d95f0e","#fe9929",
-             "#fec44f","#fee391","#ffffd4")) |> 
-               hc_tooltip(split = TRUE,
-                          headerFormat = "",
-                          xDateFormat = "%B %e",
-                          valueSuffix = "°",
-                          valueDecimals = 0) |> 
-  hc_legend(align = "right",
-            layout = "vertical",
-            verticalAlign = "middle") |> 
+    text = "Source: Open-Meteo",
+    href = "https://open-meteo.com") |> 
+  hc_xAxis(type = "datetime",
+           plotLines = list(
+             list(
+               label = list(text = "Now"),
+               color = "#595959",
+               width = 1,
+               zIndex = 2,
+               value = as.numeric( now(tzone = "America/Chicago"))*1000
+             ))) |> 
+  hc_yAxis(plotLines = list(
+      list(
+        label = list(text = "32°"),
+        color = "#527DC7",
+        width = 1,
+        zIndex = 1,
+        value = 32
+      )
+    )) |> 
+  hc_tooltip(
+    split = TRUE,
+    dateTimeLabelFormats = list(
+      hour = "%A, %b %e, %l%P",
+      minute = "%A, %b %e, %l%P",
+      millisecond = "%A, %b %e, %l%P"
+    )
+  ) |> 
   hc_add_theme(
     hc_theme_bloom()
-  )%>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'month', count = 1, text = '1m'),
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'month', count = 6, text = '6m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 0)
+  ) |> 
+  hc_legend(align = "right",
+            layout = "vertical",
+            verticalAlign = "middle") 
 fig
 saveWidget(widget = fig, file = "interactive/soil_temps.html",
            selfcontained = FALSE,
