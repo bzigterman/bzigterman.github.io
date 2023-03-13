@@ -156,14 +156,6 @@ fig <- highchart() |>
                       y = temperature_2m),
                 animation = FALSE,
                 yAxis = 0) |> 
-  # hc_add_series(data = om_hourly,
-  #               type = "line",
-  #               name = "Surface Temp.",
-  #               color = "brown",
-  #               hcaes(x = time*1000,
-  #                     y = soil_temperature_0cm),
-  #               animation = FALSE,
-  #               yAxis = 0) |> 
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "6cm",
@@ -199,6 +191,9 @@ fig <- highchart() |>
     text = "Source: Open-Meteo",
     href = "https://open-meteo.com") |> 
   hc_xAxis(type = "datetime",
+           dateTimeLabelFormats = list(
+             week = "%B %e"
+           ),
            plotLines = list(
              list(
                label = list(text = "Now"),
@@ -229,7 +224,14 @@ fig <- highchart() |>
   ) |> 
   hc_legend(align = "right",
             layout = "vertical",
-            verticalAlign = "middle") 
+            verticalAlign = "middle") |> 
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 1, text = '1m'),
+                     list(type = 'month', count = 2, text = '2m'),
+                     list(type = 'all', text = 'All')),
+                   selected = 0)
+
 fig
 saveWidget(widget = fig, file = "interactive/soil_temps.html",
            selfcontained = FALSE,
