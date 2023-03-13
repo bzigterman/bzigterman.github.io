@@ -105,18 +105,6 @@ om_3day_forecast <- om_hourly |>
 rainfall_forecast <- round(sum(om_3day_forecast$rain, na.rm = TRUE),2)
 snowfall_forecast <- round(sum(om_3day_forecast$snowfall, na.rm = TRUE),2)
 
-champaign_rain <- 
-  sum(om_past24$rain, na.rm = TRUE)
-champaign_rain_text <- ifelse(champaign_rain > 0, 
-                              paste0("- ",champaign_rain," inches of rain in the past 24 hours\n"),
-                              "")
-champaign_snow <- 
-  sum(om_past24$snowfall, na.rm = TRUE)
-champaign_snow_text <- ifelse(champaign_snow > 0, 
-                              paste0("- ",champaign_rain," inches of snow in the past 24 hours\n"),
-                              "")
-
-
 ## interactive ----
 offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
 global <- getOption("highcharter.global")
@@ -571,14 +559,6 @@ willard <- willard_cleaner %>%
 #   mutate(day = date(date)) %>%
 #   group_by(day) |> 
 #   summarise(temp_six_hour_hi)
-
-# champaign_rain <- sum(
-#   filter(nws_post,
-#          time > now(tzone = "America/Chicago")-days(1))$precipAccumulation, 
-#   na.rm = TRUE)
-# champaign_rain_text <- ifelse(champaign_rain > 0, 
-#                               paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
-#                               "")
 
 willard_data <- read_csv(file = "data/willard_weather.csv") 
 willard_data_update <- willard |> 
@@ -1575,7 +1555,7 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-",champaign_aqi,"",champaign_rain_text,"",champaign_precip_forecast,"
+",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
