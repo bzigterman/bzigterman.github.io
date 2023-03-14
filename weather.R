@@ -75,7 +75,8 @@ om_hourly <- as_tibble( om$hourly) |>
   select(!windgusts_10m) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
   mutate(rain = if_else(rain == 0,NA,rain)) |> 
-  mutate(snowfall = if_else(snowfall == 0,NA,snowfall))
+  mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
+  mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth))
 om_currently <- om$current_weather
 om_daily <- as_tibble( om$daily)
 
@@ -195,6 +196,17 @@ fig <- highchart() |>
                 #tooltip = list(pointFormat = "{point.precipType}: <b>{point.precipAccumulation:.2f}″<b>"),
                 hcaes(x = time*1000,
                       y = snowfall),
+                yAxis = 2) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Snow Depth",
+                color = "#8AA5F1",
+                tooltip = list(valueSuffix = "″",
+                               valueDecimals = 1),
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = snow_depth*12),
                 yAxis = 2) |> 
   hc_add_series(data = om_hourly,
                 type = "area",
