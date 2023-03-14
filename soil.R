@@ -202,7 +202,9 @@ fig <- highchart() |>
                zIndex = 2,
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              ))) |> 
-  hc_yAxis(plotLines = list(
+  hc_yAxis(endOnTick = FALSE,
+                                 startOnTick = FALSE,
+plotLines = list(
       list(
         label = list(text = "32°"),
         color = "#527DC7",
