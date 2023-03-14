@@ -227,8 +227,8 @@ fig <- highchart() |>
             verticalAlign = "middle") |> 
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'month', count = 1, text = '1m'),
-                     list(type = 'month', count = 2, text = '2m'),
+                     list(type = 'day', count = 30, text = '30d'),
+                     list(type = 'day', count = 60, text = '60d'),
                      list(type = 'all', text = 'All')),
                    selected = 0)
 
