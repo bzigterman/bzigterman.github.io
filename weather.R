@@ -6,7 +6,6 @@ library(rvest)
 library(janitor)
 library(jsonlite)
 library(cowplot)
-library(sf)
 library(imputeTS)
 library(highcharter)
 library(RColorBrewer)
@@ -497,28 +496,28 @@ saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            libdir = "interactive")
 
 # nws historical ----
-url <- "https://api.weather.gov/stations/KCMI/observations"
-nws_past <- GET(url,
-                add_headers(
-                  "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
-)
-nws_past_content <- content(nws_past, as = "text")
-nws_past_st <- st_read(nws_past_content,
-                       as_tibble = TRUE)
-nws_post <- nws_past_st |> 
-  as_tibble() |> 
-  select(timestamp,textDescription,temperature,windSpeed,
-         precipitationLastHour,relativeHumidity) |> 
-  mutate(timestamp = as_datetime(timestamp, tz = "America/Chicago")) |> 
-  mutate(temperature = 
-           32+((9/5)*parse_number(temperature))) |> 
-  mutate(windSpeed = parse_number(gsub("km_h-1","",windSpeed))/1.609344) |> 
-  mutate(precipAccumulation = parse_number(precipitationLastHour)*25.4) |> 
-  mutate(humidity = parse_number(relativeHumidity)/100) |> 
-  mutate(time = as.numeric ( timestamp)) |> 
-  mutate(precipType = "Precip.") |> 
-  select(timestamp,time,textDescription,temperature,windSpeed,
-         precipAccumulation,humidity, precipType)
+# url <- "https://api.weather.gov/stations/KCMI/observations"
+# nws_past <- GET(url,
+#                 add_headers(
+#                   "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+# )
+# nws_past_content <- content(nws_past, as = "text")
+# nws_past_st <- st_read(nws_past_content,
+#                        as_tibble = TRUE)
+# nws_post <- nws_past_st |> 
+#   as_tibble() |> 
+#   select(timestamp,textDescription,temperature,windSpeed,
+#          precipitationLastHour,relativeHumidity) |> 
+#   mutate(timestamp = as_datetime(timestamp, tz = "America/Chicago")) |> 
+#   mutate(temperature = 
+#            32+((9/5)*parse_number(temperature))) |> 
+#   mutate(windSpeed = parse_number(gsub("km_h-1","",windSpeed))/1.609344) |> 
+#   mutate(precipAccumulation = parse_number(precipitationLastHour)*25.4) |> 
+#   mutate(humidity = parse_number(relativeHumidity)/100) |> 
+#   mutate(time = as.numeric ( timestamp)) |> 
+#   mutate(precipType = "Precip.") |> 
+#   select(timestamp,time,textDescription,temperature,windSpeed,
+#          precipAccumulation,humidity, precipType)
 
 ## nws scraping ----
 willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
