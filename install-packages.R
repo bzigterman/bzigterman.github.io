@@ -7,9 +7,7 @@ install.packages("imputeTS")
 install.packages("httr")
 install.packages("zoo")
 install.packages("gt")
-install.packages("sf", 
-                 type = "mac.binary",
-                 configure.args = "--with-proj-lib=/usr/local/lib/")
+install.packages("sf")
 install.packages("RColorBrewer")
 install.packages("ggforce")
 install.packages("htmltools")
