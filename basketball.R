@@ -11,6 +11,7 @@ library(gtExtras)
 library(highcharter)
 library(htmlwidgets)
 library(svglite)
+library(waldo)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
@@ -194,13 +195,12 @@ standings_check <- nba_standings %>%
   filter(!is.na(team_label)) %>%
   group_by(conference) %>%
   arrange(conference,desc(win_pct)) %>%
-  select(conference, team_label, wins, losses, win_pct_text)
-standings_the_same <- all_equal(standings_check, old_standings)
-if (standings_the_same != TRUE) { 
+  select(conference, team_label, wins, losses, win_pct_text) |> 
+  ungroup()
+standings_the_same <- compare(standings_check, old_standings)
+if (length(standings_the_same) > 0) { 
   write_csv(standings_check,"data/nba_standings.csv")
 }
-
-
 
 # pennant race chart ----
 nba_min <-  .7*min(nba_standings$win_pct)

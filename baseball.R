@@ -11,6 +11,7 @@ library(gtExtras)
 library(highcharter)
 library(htmlwidgets)
 library(svglite)
+library(waldo)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
@@ -389,9 +390,10 @@ standings_check <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
-  select(league, team_label, wins, losses, win_pct_text, games_remaining, last_ten)
-standings_the_same <- all_equal(standings_check, old_standings)
-if (standings_the_same != TRUE) { 
+  select(league, team_label, wins, losses, win_pct_text, games_remaining, last_ten) |> 
+  ungroup()
+standings_the_same <- compare(standings_check, old_standings)
+if (length(standings_the_same) > 0) { 
   write_csv(standings_check,"data/standings.csv")
 }
 
