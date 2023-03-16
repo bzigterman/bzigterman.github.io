@@ -650,6 +650,6 @@ Updated standings are posted daily on Mastodon <a rel=\"me\" href=\"https://mast
 ",
 sep = ""
 )
-if (standings_the_same != TRUE) {
+if (length(standings_the_same) > 0)  {
   write_lines(web_text,"projects/basketball.md")
 }

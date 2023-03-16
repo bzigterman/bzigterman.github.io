@@ -1198,6 +1198,6 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 ",
 sep = ""
 )
-if (standings_the_same != TRUE) {
+if (length(standings_the_same) > 0) { 
   write_lines(web_text,"projects/baseball.md")
 }
