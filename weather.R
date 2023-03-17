@@ -184,11 +184,11 @@ fig <- highchart() |>
                   c(value = 200, color = "#A44139")),
                 color = "black",
                 lineWidth = 3,
-                connectNulls = TRUE,
+                connectNulls = FALSE,
                 tooltip = list(valueSuffix = "°",
                                valueDecimals = 0),
                 hcaes(x = time*1000,
-                      y = temperature),
+                      y = apparent_temperature),
                 yAxis = 0) |> 
   hc_add_series(data = om_hourly,
                 type = "line",
