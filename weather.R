@@ -49,7 +49,7 @@ pirate_hourly <- pirate_forecast_content$hourly$data %>%
 pirate_currently <- pirate_forecast_content$currently
 
 # open meteo ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,apparent_temperature,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
 om <- rio::import(om_url, format = "json")
 om_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -75,7 +75,14 @@ om_hourly <- as_tibble( om$hourly) |>
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
   mutate(rain = if_else(rain == 0,NA,rain)) |> 
   mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
-  mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth))
+  mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth)) |> 
+  mutate(
+    apparent_temperature = 
+      case_when(
+        apparent_temperature - temperature > 10 ~ apparent_temperature,
+        apparent_temperature - temperature < -10 ~ apparent_temperature,
+        .default = NA
+      ))
 om_currently <- om$current_weather
 om_daily <- as_tibble( om$daily)
 
@@ -116,6 +123,41 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Temperature",
+                label = list(
+                  enabled = TRUE),
+                zones = list(
+                  c(value = 0,   color = "#F8D4FC"),
+                  c(value = 5,   color = "#E5A4EB"),
+                  c(value = 10,  color = "#D392DD"),
+                  c(value = 15,  color = "#C07ECC"),
+                  c(value = 20,  color = "#9D63C2"),
+                  c(value = 25,  color = "#794DB4"),
+                  c(value = 30,  color = "#5B4FA6"),
+                  c(value = 32,  color = "#527DC7"),
+                  c(value = 40,  color = "#65C1DE"),
+                  c(value = 45,  color = "#6EDAE0"),
+                  c(value = 50,  color = "#6EDBA2"),
+                  c(value = 55,  color = "#69C954"),
+                  c(value = 60,  color = "#93D452"),
+                  c(value = 65,  color = "#E3E65B"),
+                  c(value = 70,  color = "#FFFF61"),
+                  c(value = 75,  color = "#F8D456"),
+                  c(value = 80,  color = "#ED9749"),
+                  c(value = 85,  color = "#DC6641"),
+                  c(value = 90,  color = "#CA593E"),
+                  c(value = 95,  color = "#B6493B"),
+                  c(value = 200, color = "#A44139")),
+                color = "black",
+                lineWidth = 3,
+                connectNulls = TRUE,
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
+                hcaes(x = time*1000,
+                      y = temperature),
+                yAxis = 0) |> 
+  hc_add_series(data = om_hourly,
+                type = "line",
+                name = "Feels Like",
                 label = list(
                   enabled = TRUE),
                 zones = list(
@@ -1011,7 +1053,7 @@ if (!empty_check) {
     mutate(temp = value) |> 
     drop_na() |> 
     select(central_time, temp) 
-
+  
   temps_past_year <- temp_history %>%
     filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
     mutate(period = "Past Year") %>%
