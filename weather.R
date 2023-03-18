@@ -123,6 +123,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Temperature",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 label = list(
                   enabled = TRUE),
                 zones = list(
@@ -158,6 +163,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Feels Like",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 label = list(
                   enabled = TRUE),
                 zones = list(
@@ -193,6 +203,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Precip. Chance",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 tooltip = list(valueSuffix = "%"),
                 color = "#698490",
                 label = list(
@@ -298,6 +313,11 @@ fig <- highchart() |>
   hc_add_series(data = pirate_hourly,
                 type = "line",
                 name = "UV Index",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 tooltip = list(valueDecimals = 1),
                 zones = list(
                   c(value = 2,
