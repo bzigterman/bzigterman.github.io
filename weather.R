@@ -256,6 +256,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Snow Depth",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 color = "#8AA5F1",
                 tooltip = list(valueSuffix = "″",
                                valueDecimals = 1),
