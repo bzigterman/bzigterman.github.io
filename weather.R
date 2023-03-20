@@ -70,7 +70,9 @@ om_hourly <- as_tibble( om$hourly) |>
   select(!cloudcover) |> 
   mutate(windSpeed = windspeed_10m) |> 
   select(!windspeed_10m) |> 
-  mutate(windGust = windgusts_10m) |> 
+  mutate(windGust = if_else(windgusts_10m - windSpeed > 10,
+                            windgusts_10m,
+                            NA)) |> 
   select(!windgusts_10m) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
   mutate(rain = if_else(rain == 0,NA,rain)) |> 
@@ -272,6 +274,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "area",
                 name = "Cloud Cover",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 color = "lightgray",
                 lineWidth = 0,
                 tooltip = list(valueSuffix = "%"),
@@ -283,6 +290,11 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Wind",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 connectNulls = TRUE,
                 color = "black",
                 tooltip = list(valueSuffix = " mph",
@@ -295,7 +307,12 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Gusts",
-                connectNulls = TRUE,
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                connectNulls = FALSE,
                 color = "gray",
                 tooltip = list(valueSuffix = " mph",
                                valueDecimals = 0),
@@ -308,6 +325,11 @@ fig <- highchart() |>
                 type = "line",
                 name = "Humidity",
                 connectNulls = TRUE,
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 color = "#3288bd",
                 tooltip = list(valueSuffix = "%"),
                 label = list(
