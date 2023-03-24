@@ -12,7 +12,7 @@ Eastern,CHI,34,38,.472
 Eastern,IND,33,40,.452
 Eastern,WAS,32,41,.438
 Eastern,ORL,31,43,.419
-Eastern,CHA,23,50,.315
+Eastern,CHA,23,51,.311
 Eastern,DET,16,57,.219
 Western,DEN,49,24,.671
 Western,MEM,45,27,.625
@@ -24,8 +24,8 @@ Western,MIN,37,37,.500
 Western,OKC,36,36,.500
 Western,DAL,36,37,.493
 Western,LAL,36,37,.493
+Western,NOP,36,37,.493
 Western,UTA,35,37,.486
-Western,NOP,35,37,.486
 Western,POR,32,40,.444
 Western,SAS,19,54,.260
 Western,HOU,18,55,.247
