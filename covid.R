@@ -307,42 +307,6 @@ saveWidget(widget = fig3, file = "interactive/il_transmission_levels.html",
            libdir = "interactive")
 
 ## Champaign ----
-### idph ----
-champaignpop <- 209983
-
-get_nyt_covid <- function(year) {
-  nyt_url <-  paste0(paste0("https://github.com/nytimes/covid-19-data/raw/master/us-counties-",year,".csv"))
-  nyt_csv <- rio::import(nyt_url, format = "csv")|> 
-    filter(fips == 17019)
-}
-
-nyt_data <- map(2020:year(now(tzone = "America/Chicago")),
-                get_nyt_covid) 
-nyt_data <- do.call("rbind",nyt_data)
-
-nyt_champaign <- nyt_data |> 
-  mutate(Date = ymd(date)) |> 
-  mutate(new_casess = cases - lag(cases, 1)) |> 
-  mutate(
-    add = Reduce(function(prev, this) min(this+prev, 0),
-                 new_casess, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_cases = pmax(new_casess + add, 0)
-  ) %>%
-  select(-add) |> select (-new_casess) |>
-  mutate(new_deathss = deaths-lag(deaths,1))|> 
-  mutate(
-    add = Reduce(function(prev, this) min(this+prev, 0),
-                 new_deathss, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_deaths = pmax(new_deathss + add, 0)
-  ) %>%
-  select(-add) |> select (-new_deathss) |> select(-date) |> 
-  mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
-  mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)
-
-idph_cases_champaign <- nyt_champaign 
-
-
 ### hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
 hospitalizations <- rio::import(hospitalizations_url,
@@ -370,6 +334,18 @@ cdc_champaign_data <- rio::import(
   cdc_champaign_url,
   format = "json")$integrated_county_timeseries_external_data
 
+cdc_champaign_cases <- cdc_champaign_data |> 
+  select(date, cases_7_day_count_change, deaths_7_day_count_change,
+         percent_positive_7_day) |> 
+  arrange(date) |>
+  mutate(date = ymd(date)) %>%
+  mutate(Date = ymd(date)) |> 
+  mutate(avg_new_cases = cases_7_day_count_change/7) |> 
+  mutate(avg_new_cases = if_else(avg_new_cases == 0,
+                                 NA,
+                                 avg_new_cases)) |> 
+  fill(avg_new_cases, .direction = "down") 
+
 cdc_champaign_hosp <- cdc_champaign_data %>%
   select(date, percent_adult_inpatient_beds_used_confirmed_covid,
          percent_adult_icu_beds_used_confirmed_covid) %>%
@@ -380,11 +356,10 @@ cdc_champaign_hosp <- cdc_champaign_data %>%
 
 ### combined ----
 
-idph_cases_vax_hosp <- full_join(idph_cases_champaign, hospitalizations_by_date) %>%
+idph_cases_vax_hosp <- full_join(cdc_champaign_cases, hospitalizations_by_date) %>%
   full_join(cdc_champaign_hosp) %>%
   mutate(Date = as_date(Date)) %>%
-  select(Date,
-         monthlydead, avg_new_cases, avg_hospitalized,
+  select(Date, avg_new_cases, avg_hospitalized,percent_positive_7_day,
          percent_adult_inpatient_beds_used_confirmed_covid,
          percent_adult_icu_beds_used_confirmed_covid) %>%
   arrange(Date) %>%
@@ -403,6 +378,8 @@ fig <- hchart(idph_cases_vax_hosp,
                   enabled = FALSE
                 )
               ),
+              tooltip = list(valueDecimals = 0),
+              connectNulls = TRUE,
               name = "Avg. New Cases",
               label = list(
                 enabled = TRUE),
@@ -414,7 +391,10 @@ fig <- hchart(idph_cases_vax_hosp,
   hc_add_series(
     data = idph_cases_vax_hosp,
     hcaes(x = Date,
-          y = monthlydead),
+          y = percent_positive_7_day),
+    tooltip = list(valueSuffix = "%",
+                   valueDecimals = 0),
+    
     states = list(
       inactive = list(
         enabled = FALSE
@@ -422,16 +402,17 @@ fig <- hchart(idph_cases_vax_hosp,
     ),
     label = list(
       enabled = TRUE),
-    name = "Deaths in the Past Month",
-    color = "black",
+    name = "Test Positivity",
+    color = "#52958F",
     type = "line",
     yAxis = 1) %>%
   hc_add_series(
     data = idph_cases_vax_hosp,
     hcaes(x = Date,
-          y = round(avg_hospitalized)),
+          y = avg_hospitalized),
     name = "Avg. Hospitalized",
     type = "line",
+    tooltip = list(valueDecimals = 0),
     states = list(
       inactive = list(
         enabled = FALSE
@@ -441,34 +422,9 @@ fig <- hchart(idph_cases_vax_hosp,
       enabled = TRUE),
     color = "#d90000",
     yAxis = 2) %>%
-  # hc_add_series(
-  #   data = idph_cases_vax_hosp,
-  #   hcaes(x = Date,
-  #         y = round(percent_adult_inpatient_beds_used_confirmed_covid,
-  #                   digits = 1)),
-  #   name = "Pct. Hosp. Beds Used",
-  #   tooltip = list(valueSuffix = "%"),
-  #   color = "#d90000",
-  #   type = "line",
-  #   label = list(
-  #     enabled = TRUE),
-#   yAxis = 4) %>%
-# hc_add_series(
-#   data = idph_cases_vax_hosp,
-#   hcaes(x = Date,
-#         y = round(percent_adult_icu_beds_used_confirmed_covid,
-#                   digits = 1)),
-#   name = "Pct. ICU Beds Used",
-#   color = "#d90000",
-#   tooltip = list(valueSuffix = "%"),
-#   type = "line",
-#   label = list(
-#     enabled = TRUE),
-#   yAxis = 5) %>%
-#hc_title(text = "Housing Metrics") %>%
 hc_credits(
   enabled = TRUE,
-  text = paste("Source: CDC, HHS and NYT. Latest data:",
+  text = paste("Source: CDC and HHS. Latest data:",
                tail(idph_cases_vax_hosp$short_date,1)),
   href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -494,8 +450,9 @@ saveWidget(widget = fig, file = "interactive/champaign_covid.html",
 url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=HHS_NWSS_Concentration_Timeseries_Data"
 water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Data %>%
   filter(key_plot_id == "NWSS_il_655_Treatment plant_raw wastewater") %>%
-  arrange(date) %>%
-  mutate(Date = ymd(date)) %>%
+  arrange(date) |>
+  mutate(date = ymd(date)) %>%
+  mutate(Date = ymd(date)) |> 
   mutate(smaller_conc = pcr_conc_smoothed/1000000000) 
 
 wastewater_url <- "https://data.cdc.gov/resource/2ew6-ywp6.csv?wwtp_id=655"
@@ -545,7 +502,7 @@ ggsave("plots/iwss.png",
 ggsave("plots/iwss_mobile.png", 
        width = 3, height = 8*(628/1200), dpi = 320)
 
-wastewater_plus_cases <- full_join(iwss, idph_cases_champaign) %>%
+wastewater_plus_cases <- full_join(iwss, cdc_champaign_cases) %>%
   full_join(water) %>%
   full_join(wastewater) |> 
   select(Date,ptc_15d,
@@ -569,8 +526,10 @@ wastewater_plus_cases_longer <- wastewater_plus_cases %>%
 fig <- hchart(wastewater_plus_cases,
               type = "line", 
               hcaes(x = Date,
-                    y = round(avg_new_cases)),
+                    y = avg_new_cases),
+              tooltip = list(valueDecimals = 0),
               name = "Avg. New Cases",
+              connectNulls =TRUE,
               states = list(
                 inactive = list(
                   enabled = FALSE
@@ -682,7 +641,7 @@ fig <- hchart(wastewater_plus_cases,
     yAxis = 4) %>%
   hc_credits(
     enabled = TRUE,
-    text = "Source: IWSS, CDC and NYT",
+    text = "Source: IWSS and CDC",
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
@@ -838,17 +797,14 @@ hospitalizations_by_date <- hospitalizations %>%
   mutate(Date = Date + days(7))
 
 ### set variables ----
-champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$deaths, 1),3)),big.mark = ",")
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
-champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
-champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
-champaign_weekday <- wday(tail(idph_cases_champaign$Date,1), label = TRUE, abbr = FALSE)
+champaign_avg_new_cases <- format(round(signif(tail(cdc_champaign_cases$avg_new_cases,1),3)),big.mark=",")
+champaign_weekday <- wday(tail(cdc_champaign_cases$Date,1), label = TRUE, abbr = FALSE)
 champaign_month_ago_hospitalized <- 
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
-champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
-champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
-champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
-champaign_death_pct_change <- round(100*(tail(idph_cases_champaign$monthlydead,1)-tail(lag(idph_cases_champaign$monthlydead, 14),1))/tail(lag(idph_cases_champaign$monthlydead, 14),1), digits = 0)
+champaign_month_ago_cases <- format(round(signif(tail(lag(cdc_champaign_cases$avg_new_cases, 14),1),3)),big.mark=",")
+champaign_case_pct_change <- round(100*(tail(cdc_champaign_cases$avg_new_cases,1)-tail(lag(cdc_champaign_cases$avg_new_cases, 14),1))/tail(lag(cdc_champaign_cases$avg_new_cases, 14),1), digits = 0)
+
 
 champaign_case_pct_change_text <- 
   if (champaign_case_pct_change > 0) { 
@@ -858,20 +814,11 @@ champaign_case_pct_change_text <-
   } else { 
     paste("",champaign_case_pct_change,"%↓", sep = "")
   }
-champaign_death_pct_change_text <- 
-  if (champaign_death_pct_change > 0) { 
-    paste("+",champaign_death_pct_change,"%↑", sep = "")
-  } else if (champaign_death_pct_change == 0) {
-    paste("",champaign_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",champaign_death_pct_change,"%↓", sep = "")
-  }
 
 ### table ----
 
-idph_cases_vax_hosp <- full_join(idph_cases_champaign, hospitalizations_by_date) %>%
-  select(Date,
-         monthlydead, avg_new_cases, avg_hospitalized) %>%
+idph_cases_vax_hosp <- full_join(cdc_champaign_cases, hospitalizations_by_date) %>%
+  select(Date, avg_new_cases, avg_hospitalized) %>%
   fill(avg_hospitalized, .direction = "down") 
 
 idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
@@ -955,12 +902,7 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
     #lists = html("Past<br>90 Days")
-  ) %>%
-  tab_footnote(
-    footnote = paste(champaign_total_deaths," total deaths"),
-    locations = cells_body(columns = names,
-                           rows = 3)
-  )
+  ) 
 
 cu_covid_table
 cu_covid_table_html <- as_raw_html(cu_covid_table, inline_css = FALSE)
@@ -983,46 +925,14 @@ champaign_county_text <- paste(
 ",
 "- Average hospitalized: ",champaign_avg_hospitalized," (vs. ",champaign_month_ago_hospitalized,") ","
 ",
-"- Deaths in the past month: ",champaign_dead_last_month," (vs. ",champaign_month_ago_deaths,")
-
-",
 sep = ""
 )
 
 # case acceleration ----
 ### get data ----
 #### Champaign ----
-get_nyt_covid <- function(year) {
-  nyt_url <-  paste0(paste0("https://github.com/nytimes/covid-19-data/raw/master/us-counties-",year,".csv"))
-  nyt_csv <- rio::import(nyt_url, format = "csv")|> 
-    filter(fips == 17019)
-}
 
-nyt_data <- map(2020:year(now(tzone = "America/Chicago")),
-                get_nyt_covid) 
-nyt_data <- do.call("rbind",nyt_data)
-
-nyt_champaign <- nyt_data |> 
-  mutate(Date = ymd(date)) |> 
-  mutate(new_casess = cases - lag(cases, 1)) |> 
-  mutate(
-    add = Reduce(function(prev, this) min(this+prev, 0),
-                 new_casess, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_cases = pmax(new_casess + add, 0)
-  ) %>%
-  select(-add) |> select (-new_casess) |>
-  mutate(new_deathss = deaths-lag(deaths,1))|> 
-  mutate(
-    add = Reduce(function(prev, this) min(this+prev, 0),
-                 new_deathss, init = 0, accumulate = TRUE, right = TRUE)[-1], 
-    new_deaths = pmax(new_deathss + add, 0)
-  ) %>%
-  select(-add) |> select (-new_deathss) |> select(-date) |> 
-  mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
-  mutate(monthlydead = rollmean(new_deaths, k = 31, 
-                                fill = NA, align = "right")*31)
-
-idph_cases_champaign <- nyt_champaign %>%
+idph_cases_champaign <- cdc_champaign_cases %>%
   mutate(date = as_date(Date)) %>%
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
@@ -1331,9 +1241,7 @@ sep = ""
 )
 
 if (champaign_avg_new_cases >= 0 && 
-    champaign_dead_last_month >= 0 && 
-    champaign_month_ago_cases >= 0 && 
-    champaign_month_ago_deaths >= 0 
+    champaign_month_ago_cases >= 0 
 ) {
   write_lines(web_text,"projects/covid/vaccines.md")
 }
