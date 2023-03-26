@@ -1208,9 +1208,7 @@ sep = ""
 )
 
 if (champaign_avg_new_cases >= 0 && 
-    champaign_dead_last_month >= 0 && 
-    champaign_month_ago_cases >= 0 && 
-    champaign_month_ago_deaths >= 0 
+    champaign_month_ago_cases >= 0 
 ) {
   write_lines(web_text,"projects/covid.md")
 }
