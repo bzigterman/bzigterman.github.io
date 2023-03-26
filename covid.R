@@ -472,7 +472,7 @@ iwss_json <- jsonlite::fromJSON(iwss_raw)
 iwss <- fromJSON(iwss_json$observations) %>%
   mutate(Date = ymd(sample_collect_date)) %>%
   mutate(value = pcr_target_avg_conc/1000000) %>%
-  filter(method == "1.0") |> 
+  filter(method == "1") |> 
   select(Date, pcr_target_avg_conc,value, method) 
 
 ggplot(iwss, aes(x = Date,
