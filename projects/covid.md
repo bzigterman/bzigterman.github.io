@@ -439,9 +439,9 @@ html {
 <td headers="latest" class="gt_row gt_right">13</td>
 <td headers="pct_change" class="gt_row gt_right">−51%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
-<td headers="two_weeks_ago" class="gt_row gt_right gt_striped">24</td>
-<td headers="latest" class="gt_row gt_right gt_striped">12</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−50%</td></tr>
+<td headers="two_weeks_ago" class="gt_row gt_right gt_striped">16</td>
+<td headers="latest" class="gt_row gt_right gt_striped">0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−100%</td></tr>
   </tbody>
   
   
