@@ -158,7 +158,7 @@ fig <- highchart() |>
   hc_add_series(data = om_hourly,
                 type = "line",
                 name = "Ground",
-                color = "#009A17",
+                color = "#008013",
                 tooltip = list(valueSuffix = "°",
                                valueDecimals = 0),
                 hcaes(x = time*1000,
