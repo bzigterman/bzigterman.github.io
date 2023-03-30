@@ -36,7 +36,6 @@ jobs:
           Rscript water.R
           Rscript covid.R
           Rscript basketball.R
-          Rscript baseball.R
           Rscript soil.R
           Rscript weather.R
         
