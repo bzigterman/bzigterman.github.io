@@ -16,20 +16,9 @@ champaign_lat <-  40.08408
 champaign_lon <- -88.24039
 
 # NCEI ----
-earliest <- "1902-08-01"
-year_ago <- as.character(ymd(today(tzone = "America/Chicago")- days(366)))
-latest <- as.character(ymd(today(tzone = "America/Chicago")))
-url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
-ncei_GET <- GET(url)
-ncei_status <- status_code(ncei_GET)
-if (ncei_status == 200) {
-  ncei <- content(ncei_GET)
-}
-empty_check <- identical(ncei$PRCP, character(0))
+## ncei ----
+ncei <- read_csv(file = "data/ncei.csv")
 
-
-if (!empty_check) {
-  
   temp_history <- ncei |> 
     pivot_longer(cols = c(TMIN, TMAX)) |> 
     mutate(central_time = with_tz(DATE, tzone = "America/Chicago")) |> 
@@ -75,6 +64,13 @@ if (!empty_check) {
   min <- min(latest_freeze_weeks$n)
   max <- max(latest_freeze_weeks$n)
   # freeze dates ----
+  
+  offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+  global <- getOption("highcharter.global")
+  global$useUTC <- FALSE
+  global$timezoneOffset <- offset
+  options(highcharter.global = global)
+  
   fig <- highchart() |> 
     hc_add_series(latest_freeze_weeks,
                   hcaes(x = latest,
@@ -125,7 +121,6 @@ if (!empty_check) {
   saveWidget(widget = fig, file = "interactive/latest_freeze_dates.html",
              selfcontained = FALSE,
              libdir = "interactive")
-}
 
 # soil temp ----
 om_url <- paste0( "https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,soil_temperature_0cm,soil_temperature_6cm,soil_temperature_18cm,soil_temperature_54cm&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=92&forecast_days=16")

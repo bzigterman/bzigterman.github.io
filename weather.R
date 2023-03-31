@@ -674,18 +674,6 @@ willard_data_update <- willard |>
 write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
 
-# NCEI ----
-earliest <- "1902-08-01"
-year_ago <- as.character(ymd(today(tzone = "America/Chicago")- days(366)))
-latest <- as.character(ymd(today(tzone = "America/Chicago")))
-url = paste0("https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=PRCP,TMAX,TMIN&stations=USC00118740&startDate=",earliest,"&endDate=",latest,"&units=standard")
-ncei_GET <- GET(url)
-ncei_status <- status_code(ncei_GET)
-if (ncei_status == 200) {
-  ncei <- content(ncei_GET)
-}
-empty_check <- identical(ncei$PRCP, character(0))
-
 # AQI ----
 aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
                   champaign_lat,
@@ -1084,6 +1072,8 @@ ggsave("plots/temp_history_mobile.png", bg = "white",
 
 
 # almanac ----
+## ncei ----
+ncei <- read_csv(file = "data/ncei.csv")
 
 # record_min, record_max, today_current, today_min, today_max, normal_min, normal_max
 today_temp_history <- temp_history %>%
@@ -1091,8 +1081,6 @@ today_temp_history <- temp_history %>%
   filter(month(central_time) == month(today(tzone = "America/Chicago"))) %>%
   filter(mday(central_time) == mday(today(tzone = "America/Chicago"))) %>%
   mutate(date = ymd(as_date(central_time)))
-
-if (!empty_check) {
   
   temp_history <- ncei |> 
     pivot_longer(cols = c(TMIN, TMAX)) |> 
@@ -1613,7 +1601,6 @@ if (!empty_check) {
   # 
   # ggsave("plots/champaign_almanac.png", bg = "white",
   #        width = 8, height = 8*(628/1200), dpi = 320)
-}
 
 # web text ----
 severe_weather_outlook_url <- 
