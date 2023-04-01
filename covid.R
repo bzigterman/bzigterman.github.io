@@ -1049,7 +1049,7 @@ owid_new_deaths_world <- rio::import(owid_url, format = "csv") |>
   mutate(new_deaths = World) |> 
   mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
                                    fill = NA, align = "right")) |> 
-  mutate(pct_change_new_cases = 
+  mutate(pct_change_new_deaths = 
            ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
