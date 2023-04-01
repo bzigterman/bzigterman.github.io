@@ -981,12 +981,12 @@ cdc_new_cases_acceleration <- cdc_new_cases %>%
   mutate(location = "United States")
 
 #### World  ----
-jhu_new_cases_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/jhu/new_cases.csv"
-jhu_new_cases_world <- rio::import(jhu_new_cases_url, format = "csv") %>%
-  select(date,"World") %>%
-  rename(new_cases = "World") %>%
+owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_cases.csv"
+owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
+  select(date,World) |> 
+  mutate(new_cases = World) |> 
   mutate(avg_new_cases = rollmean(new_cases, k = 7, 
-                                  fill = NA, align = "right")) %>%
+                                  fill = NA, align = "right")) |> 
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(Date = ymd(date)) %>%
@@ -996,15 +996,15 @@ jhu_new_cases_world <- rio::import(jhu_new_cases_url, format = "csv") %>%
 ### merge data ----
 combined_cases <- full_join(idph_cases_champaign, cdc_IL_case_acceleration) %>%
   full_join(cdc_new_cases_acceleration) %>%
-  full_join(jhu_new_cases_world) %>%
+  full_join(owid_new_cases_world) %>%
   select(location, Date,pct_change_new_cases)
 
 ### set variables ----
-acceleration_weekday <- wday(tail(jhu_new_cases_world$Date,1), label = TRUE, abbr = FALSE)
+acceleration_weekday <- wday(tail(owid_new_cases_world$Date,1), label = TRUE, abbr = FALSE)
 acceleration_champaign <- round(100*tail(idph_cases_champaign$pct_change_new_cases,1), digits = 0)
 acceleration_il <- round(100*tail(cdc_IL_case_acceleration$pct_change_new_cases,1), digits = 0)
 acceleration_usa <- round(100*tail(cdc_new_cases_acceleration$pct_change_new_cases,1), digits = 0)
-acceleration_world <- round(100*tail(jhu_new_cases_world$pct_change_new_cases,1), digits = 0)
+acceleration_world <- round(100*tail(owid_new_cases_world$pct_change_new_cases,1), digits = 0)
 
 ### text ----
 acceleration_text <- paste(
@@ -1043,13 +1043,13 @@ cdc_new_deaths_acceleration <- cdc_new_deaths %>%
 
 
 #### World ----
-jhu_new_deaths_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/jhu/new_deaths.csv"
-jhu_new_deaths_world <- rio::import(jhu_new_deaths_url, format = "csv") %>%
-  select(date,"World") %>%
-  rename(new_deaths = "World") %>%
+owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
+owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
+  select(date,World) |> 
+  mutate(new_deaths = World) |> 
   mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                   fill = NA, align = "right")) %>%
-  mutate(pct_change_new_deaths = 
+                                   fill = NA, align = "right")) |> 
+  mutate(pct_change_new_cases = 
            ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
@@ -1057,13 +1057,13 @@ jhu_new_deaths_world <- rio::import(jhu_new_deaths_url, format = "csv") %>%
 
 ### merge data ----
 combined_deaths <- full_join(cdc_IL_death_acceleration, cdc_new_deaths_acceleration) %>%
-  full_join(jhu_new_deaths_world) %>%
+  full_join(owid_new_deaths_world) %>%
   select(location, Date,pct_change_new_deaths)
 
-acceleration_weekday <- wday(tail(jhu_new_deaths_world$Date,1), label = TRUE, abbr = FALSE)
+acceleration_weekday <- wday(tail(owid_new_deaths_world$Date,1), label = TRUE, abbr = FALSE)
 acceleration_il <- round(100*tail(cdc_IL_death_acceleration$pct_change_new_deaths,1), digits = 0)
 acceleration_usa <- round(100*tail(cdc_new_deaths_acceleration$pct_change_new_deaths,1), digits = 0)
-acceleration_world <- round(100*tail(jhu_new_deaths_world$pct_change_new_deaths,1), digits = 0)
+acceleration_world <- round(100*tail(owid_new_deaths_world$pct_change_new_deaths,1), digits = 0)
 
 ### text ----
 death_acceleration_text <- paste(
