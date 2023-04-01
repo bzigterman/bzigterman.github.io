@@ -3,7 +3,7 @@ name: autowater
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 */9 * * *'
   push:
     paths:
       - 'water.R'
