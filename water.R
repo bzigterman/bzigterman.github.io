@@ -13,29 +13,7 @@ library(jsonlite)
 # get data ----
 
 ## lake mead ----
-get_mead_records <- function(page) {
-  url <- paste0("https://data.usbr.gov/rise/api/result?itemId=6123&itemsPerPage=10000&page=",page)
-  powell <- GET(url,
-                accept("application/vnd.api+json"))
-  powell <- content(powell, as = "text")
-  powell <-  fromJSON(powell, flatten = TRUE)
-  powell <- powell$data %>%
-    clean_names()
-  powell_data <- powell %>%
-    select(attributes_date_time, attributes_result) 
-}
-page_1 <- get_mead_records(1)
-page_2 <- get_mead_records(2)
-page_3 <- get_mead_records(3)
-page_4 <- get_mead_records(4)
-mead_records <- full_join(page_1,
-                          page_2) %>%
-  full_join(page_3) %>%
-  full_join(page_4) %>%
-  mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
-  mutate(value = attributes_result) %>%
-  select(date, value) %>%
-  filter(date >= ymd( "1935-06-25"))
+mead_records <- read_csv(file = "data/mead.csv")
 
 latest_mead <- tail(mead_records,1)$value
 latest_mead_text <- format(round(tail(mead_records,1)$value), big.mark = ",")
@@ -90,26 +68,7 @@ dead_pool_mead <- tail(mead_records,1)$value - 895
 dead_pool_mead_text <- format(round(dead_pool_mead), big.mark = ",")
 
 ## lake powell -----
-get_powell_records <- function(page) {
-  url <- paste0("https://data.usbr.gov/rise/api/result?itemId=508&itemsPerPage=10000&page=",page)
-  powell <- GET(url,
-                accept("application/vnd.api+json"))
-  powell <- content(powell, as = "text")
-  powell <-  fromJSON(powell, flatten = TRUE)
-  powell <- powell$data %>%
-    clean_names()
-  powell_data <- powell %>%
-    select(attributes_date_time, attributes_result) 
-}
-powell_1 <- get_powell_records(1)
-powell_2 <- get_powell_records(2)
-powell_3 <- get_powell_records(3)
-powell_records <- full_join(powell_1,
-                            powell_2) %>%
-  full_join(powell_3) %>%
-  mutate(date = as_date( ymd_hms(attributes_date_time))) %>%
-  mutate(value = attributes_result) %>%
-  select(date, value)
+powell_records <- read_csv(file = "data/powell.csv")
 
 latest_powell <- tail(powell_records,1)$value
 latest_powell_text <- format(round(tail(powell_records,1)$value), big.mark = ",")
