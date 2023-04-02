@@ -5,7 +5,7 @@ permalink: /projects/baseball
 imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ---
 
-<p class="updated_time"> Latest data: 11:41 PM CT, April 01</p> 
+<p class="updated_time"> Latest data: 03:04 PM CT, April 02</p> 
 
 ### Games Above .500
 
@@ -490,12 +490,12 @@ html {
     <tr><td headers="AL Central  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/116.svg" style="height:12px;"></td>
 <td headers="AL Central  team_label" class="gt_row gt_left gt_striped">DET</td>
 <td headers="AL Central  wins" class="gt_row gt_right gt_striped">0</td>
-<td headers="AL Central  losses" class="gt_row gt_right gt_striped">2</td>
+<td headers="AL Central  losses" class="gt_row gt_right gt_striped">3</td>
 <td headers="AL Central  win_pct_text" class="gt_row gt_right gt_striped">.0</td>
-<td headers="AL Central  games_remaining" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL Central  division_games_behind" class="gt_row gt_right gt_striped">2.0</td>
-<td headers="AL Central  division_magic_or_eliminated" class="gt_row gt_right gt_striped">159</td>
-<td headers="AL Central  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td headers="AL Central  games_remaining" class="gt_row gt_right gt_striped">159</td>
+<td headers="AL Central  division_games_behind" class="gt_row gt_right gt_striped">2.5</td>
+<td headers="AL Central  division_magic_or_eliminated" class="gt_row gt_right gt_striped">158</td>
+<td headers="AL Central  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="AL Central  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/118.svg" style="height:12px;"></td>
 <td headers="AL Central  team_label" class="gt_row gt_left">KC </td>
 <td headers="AL Central  wins" class="gt_row gt_right">0</td>
@@ -510,21 +510,21 @@ html {
     </tr>
     <tr class="gt_row_group_first"><td headers="AL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/139.svg" style="height:12px;"></td>
 <td headers="AL East  team_label" class="gt_row gt_left gt_striped">TB </td>
-<td headers="AL East  wins" class="gt_row gt_right gt_striped">2</td>
+<td headers="AL East  wins" class="gt_row gt_right gt_striped">3</td>
 <td headers="AL East  losses" class="gt_row gt_right gt_striped">0</td>
 <td headers="AL East  win_pct_text" class="gt_row gt_right gt_striped">1.000</td>
-<td headers="AL East  games_remaining" class="gt_row gt_right gt_striped">160</td>
+<td headers="AL East  games_remaining" class="gt_row gt_right gt_striped">159</td>
 <td headers="AL East  division_games_behind" class="gt_row gt_right gt_striped">0.0</td>
-<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">159</td>
+<td headers="AL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td headers="AL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/111.svg" style="height:12px;"></td>
 <td headers="AL East  team_label" class="gt_row gt_left">BOS</td>
 <td headers="AL East  wins" class="gt_row gt_right">1</td>
 <td headers="AL East  losses" class="gt_row gt_right">1</td>
 <td headers="AL East  win_pct_text" class="gt_row gt_right">.500</td>
 <td headers="AL East  games_remaining" class="gt_row gt_right">160</td>
-<td headers="AL East  division_games_behind" class="gt_row gt_right">1.0</td>
-<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right">160</td>
+<td headers="AL East  division_games_behind" class="gt_row gt_right">1.5</td>
+<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right">159</td>
 <td headers="AL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td headers="AL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/147.svg" style="height:12px;"></td>
 <td headers="AL East  team_label" class="gt_row gt_left gt_striped">NYY</td>
@@ -532,8 +532,8 @@ html {
 <td headers="AL East  losses" class="gt_row gt_right gt_striped">1</td>
 <td headers="AL East  win_pct_text" class="gt_row gt_right gt_striped">.500</td>
 <td headers="AL East  games_remaining" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL East  division_games_behind" class="gt_row gt_right gt_striped">1.0</td>
-<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">160</td>
+<td headers="AL East  division_games_behind" class="gt_row gt_right gt_striped">1.5</td>
+<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">159</td>
 <td headers="AL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="AL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/141.svg" style="height:12px;"></td>
 <td headers="AL East  team_label" class="gt_row gt_left">TOR</td>
@@ -541,8 +541,8 @@ html {
 <td headers="AL East  losses" class="gt_row gt_right">1</td>
 <td headers="AL East  win_pct_text" class="gt_row gt_right">.500</td>
 <td headers="AL East  games_remaining" class="gt_row gt_right">160</td>
-<td headers="AL East  division_games_behind" class="gt_row gt_right">1.0</td>
-<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right">160</td>
+<td headers="AL East  division_games_behind" class="gt_row gt_right">1.5</td>
+<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right">159</td>
 <td headers="AL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="AL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/110.svg" style="height:12px;"></td>
 <td headers="AL East  team_label" class="gt_row gt_left gt_striped">BAL</td>
@@ -550,8 +550,8 @@ html {
 <td headers="AL East  losses" class="gt_row gt_right gt_striped">1</td>
 <td headers="AL East  win_pct_text" class="gt_row gt_right gt_striped">.500</td>
 <td headers="AL East  games_remaining" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL East  division_games_behind" class="gt_row gt_right gt_striped">1.0</td>
-<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">160</td>
+<td headers="AL East  division_games_behind" class="gt_row gt_right gt_striped">1.5</td>
+<td headers="AL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">159</td>
 <td headers="AL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr class="gt_group_heading_row">
       <th colspan="9" class="gt_group_heading" scope="colgroup" id="AL West">AL West</th>
@@ -655,19 +655,19 @@ html {
     <tr class="gt_row_group_first"><td headers="NL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/144.svg" style="height:12px;"></td>
 <td headers="NL East  team_label" class="gt_row gt_left">ATL</td>
 <td headers="NL East  wins" class="gt_row gt_right">2</td>
-<td headers="NL East  losses" class="gt_row gt_right">0</td>
-<td headers="NL East  win_pct_text" class="gt_row gt_right">1.000</td>
-<td headers="NL East  games_remaining" class="gt_row gt_right">160</td>
+<td headers="NL East  losses" class="gt_row gt_right">1</td>
+<td headers="NL East  win_pct_text" class="gt_row gt_right">.667</td>
+<td headers="NL East  games_remaining" class="gt_row gt_right">159</td>
 <td headers="NL East  division_games_behind" class="gt_row gt_right">0.0</td>
 <td headers="NL East  division_magic_or_eliminated" class="gt_row gt_right">160</td>
-<td headers="NL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td headers="NL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="NL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/121.svg" style="height:12px;"></td>
 <td headers="NL East  team_label" class="gt_row gt_left gt_striped">NYM</td>
 <td headers="NL East  wins" class="gt_row gt_right gt_striped">2</td>
 <td headers="NL East  losses" class="gt_row gt_right gt_striped">1</td>
 <td headers="NL East  win_pct_text" class="gt_row gt_right gt_striped">.667</td>
 <td headers="NL East  games_remaining" class="gt_row gt_right gt_striped">159</td>
-<td headers="NL East  division_games_behind" class="gt_row gt_right gt_striped">0.5</td>
+<td headers="NL East  division_games_behind" class="gt_row gt_right gt_striped">0.0</td>
 <td headers="NL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">160</td>
 <td headers="NL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td headers="NL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/146.svg" style="height:12px;"></td>
@@ -676,25 +676,25 @@ html {
 <td headers="NL East  losses" class="gt_row gt_right">2</td>
 <td headers="NL East  win_pct_text" class="gt_row gt_right">.333</td>
 <td headers="NL East  games_remaining" class="gt_row gt_right">159</td>
-<td headers="NL East  division_games_behind" class="gt_row gt_right">1.5</td>
+<td headers="NL East  division_games_behind" class="gt_row gt_right">1.0</td>
 <td headers="NL East  division_magic_or_eliminated" class="gt_row gt_right">159</td>
 <td headers="NL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td headers="NL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/143.svg" style="height:12px;"></td>
-<td headers="NL East  team_label" class="gt_row gt_left gt_striped">PHI</td>
-<td headers="NL East  wins" class="gt_row gt_right gt_striped">0</td>
+    <tr><td headers="NL East  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:12px;"></td>
+<td headers="NL East  team_label" class="gt_row gt_left gt_striped">WSH</td>
+<td headers="NL East  wins" class="gt_row gt_right gt_striped">1</td>
 <td headers="NL East  losses" class="gt_row gt_right gt_striped">2</td>
-<td headers="NL East  win_pct_text" class="gt_row gt_right gt_striped">.0</td>
-<td headers="NL East  games_remaining" class="gt_row gt_right gt_striped">160</td>
-<td headers="NL East  division_games_behind" class="gt_row gt_right gt_striped">2.0</td>
+<td headers="NL East  win_pct_text" class="gt_row gt_right gt_striped">.333</td>
+<td headers="NL East  games_remaining" class="gt_row gt_right gt_striped">159</td>
+<td headers="NL East  division_games_behind" class="gt_row gt_right gt_striped">1.0</td>
 <td headers="NL East  division_magic_or_eliminated" class="gt_row gt_right gt_striped">159</td>
-<td headers="NL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td headers="NL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:12px;"></td>
-<td headers="NL East  team_label" class="gt_row gt_left">WSH</td>
+<td headers="NL East  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td headers="NL East  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/143.svg" style="height:12px;"></td>
+<td headers="NL East  team_label" class="gt_row gt_left">PHI</td>
 <td headers="NL East  wins" class="gt_row gt_right">0</td>
 <td headers="NL East  losses" class="gt_row gt_right">2</td>
 <td headers="NL East  win_pct_text" class="gt_row gt_right">.0</td>
 <td headers="NL East  games_remaining" class="gt_row gt_right">160</td>
-<td headers="NL East  division_games_behind" class="gt_row gt_right">2.0</td>
+<td headers="NL East  division_games_behind" class="gt_row gt_right">1.5</td>
 <td headers="NL East  division_magic_or_eliminated" class="gt_row gt_right">159</td>
 <td headers="NL East  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr class="gt_group_heading_row">
@@ -1203,13 +1203,13 @@ html {
 <td headers="AL  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td headers="AL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/139.svg" style="height:12px;"></td>
 <td headers="AL  team_label" class="gt_row gt_left gt_striped">TB </td>
-<td headers="AL  wins" class="gt_row gt_right gt_striped">2</td>
+<td headers="AL  wins" class="gt_row gt_right gt_striped">3</td>
 <td headers="AL  losses" class="gt_row gt_right gt_striped">0</td>
 <td headers="AL  win_pct_text" class="gt_row gt_right gt_striped">1.000</td>
-<td headers="AL  games_remaining" class="gt_row gt_right gt_striped">160</td>
+<td headers="AL  games_remaining" class="gt_row gt_right gt_striped">159</td>
 <td headers="AL  wc_games_behind" class="gt_row gt_right gt_striped">E</td>
 <td headers="AL  division_or_elim" class="gt_row gt_right gt_striped">E</td>
-<td headers="AL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td headers="AL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td headers="AL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/140.svg" style="height:12px;"></td>
 <td headers="AL  team_label" class="gt_row gt_left">TEX</td>
 <td headers="AL  wins" class="gt_row gt_right">2</td>
@@ -1312,12 +1312,12 @@ html {
     <tr><td headers="AL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/116.svg" style="height:12px;"></td>
 <td headers="AL  team_label" class="gt_row gt_left gt_striped">DET</td>
 <td headers="AL  wins" class="gt_row gt_right gt_striped">0</td>
-<td headers="AL  losses" class="gt_row gt_right gt_striped">2</td>
+<td headers="AL  losses" class="gt_row gt_right gt_striped">3</td>
 <td headers="AL  win_pct_text" class="gt_row gt_right gt_striped">.0</td>
-<td headers="AL  games_remaining" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL  wc_games_behind" class="gt_row gt_right gt_striped">1</td>
-<td headers="AL  division_or_elim" class="gt_row gt_right gt_striped">160</td>
-<td headers="AL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td headers="AL  games_remaining" class="gt_row gt_right gt_striped">159</td>
+<td headers="AL  wc_games_behind" class="gt_row gt_right gt_striped">1.5</td>
+<td headers="AL  division_or_elim" class="gt_row gt_right gt_striped">159</td>
+<td headers="AL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="AL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/118.svg" style="height:12px;"></td>
 <td headers="AL  team_label" class="gt_row gt_left">KC </td>
 <td headers="AL  wins" class="gt_row gt_right">0</td>
@@ -1333,12 +1333,12 @@ html {
     <tr class="gt_row_group_first"><td headers="NL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/144.svg" style="height:12px;"></td>
 <td headers="NL  team_label" class="gt_row gt_left gt_striped">ATL</td>
 <td headers="NL  wins" class="gt_row gt_right gt_striped">2</td>
-<td headers="NL  losses" class="gt_row gt_right gt_striped">0</td>
-<td headers="NL  win_pct_text" class="gt_row gt_right gt_striped">1.000</td>
-<td headers="NL  games_remaining" class="gt_row gt_right gt_striped">160</td>
+<td headers="NL  losses" class="gt_row gt_right gt_striped">1</td>
+<td headers="NL  win_pct_text" class="gt_row gt_right gt_striped">.667</td>
+<td headers="NL  games_remaining" class="gt_row gt_right gt_striped">159</td>
 <td headers="NL  wc_games_behind" class="gt_row gt_right gt_striped">E</td>
 <td headers="NL  division_or_elim" class="gt_row gt_right gt_striped">E</td>
-<td headers="NL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td headers="NL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='1.89' x2='3.87' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td headers="NL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/121.svg" style="height:12px;"></td>
 <td headers="NL  team_label" class="gt_row gt_left">NYM</td>
 <td headers="NL  wins" class="gt_row gt_right">2</td>
@@ -1429,8 +1429,8 @@ html {
 <td headers="NL  wc_games_behind" class="gt_row gt_right gt_striped">0.5</td>
 <td headers="NL  division_or_elim" class="gt_row gt_right gt_striped">160</td>
 <td headers="NL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td headers="NL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/135.svg" style="height:12px;"></td>
-<td headers="NL  team_label" class="gt_row gt_left">SD </td>
+    <tr><td headers="NL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:12px;"></td>
+<td headers="NL  team_label" class="gt_row gt_left">WSH</td>
 <td headers="NL  wins" class="gt_row gt_right">1</td>
 <td headers="NL  losses" class="gt_row gt_right">2</td>
 <td headers="NL  win_pct_text" class="gt_row gt_right">.333</td>
@@ -1438,26 +1438,26 @@ html {
 <td headers="NL  wc_games_behind" class="gt_row gt_right">0.5</td>
 <td headers="NL  division_or_elim" class="gt_row gt_right">160</td>
 <td headers="NL  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
-    <tr><td headers="NL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/109.svg" style="height:12px;"></td>
-<td headers="NL  team_label" class="gt_row gt_left gt_striped">ARI</td>
+    <tr><td headers="NL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/135.svg" style="height:12px;"></td>
+<td headers="NL  team_label" class="gt_row gt_left gt_striped">SD </td>
 <td headers="NL  wins" class="gt_row gt_right gt_striped">1</td>
 <td headers="NL  losses" class="gt_row gt_right gt_striped">2</td>
 <td headers="NL  win_pct_text" class="gt_row gt_right gt_striped">.333</td>
 <td headers="NL  games_remaining" class="gt_row gt_right gt_striped">159</td>
 <td headers="NL  wc_games_behind" class="gt_row gt_right gt_striped">0.5</td>
 <td headers="NL  division_or_elim" class="gt_row gt_right gt_striped">160</td>
-<td headers="NL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td headers="NL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/143.svg" style="height:12px;"></td>
-<td headers="NL  team_label" class="gt_row gt_left">PHI</td>
-<td headers="NL  wins" class="gt_row gt_right">0</td>
+<td headers="NL  outcomes" class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.60' y1='1.89' x2='11.60' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td headers="NL  logo_url" class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/109.svg" style="height:12px;"></td>
+<td headers="NL  team_label" class="gt_row gt_left">ARI</td>
+<td headers="NL  wins" class="gt_row gt_right">1</td>
 <td headers="NL  losses" class="gt_row gt_right">2</td>
-<td headers="NL  win_pct_text" class="gt_row gt_right">.0</td>
-<td headers="NL  games_remaining" class="gt_row gt_right">160</td>
-<td headers="NL  wc_games_behind" class="gt_row gt_right">1</td>
+<td headers="NL  win_pct_text" class="gt_row gt_right">.333</td>
+<td headers="NL  games_remaining" class="gt_row gt_right">159</td>
+<td headers="NL  wc_games_behind" class="gt_row gt_right">0.5</td>
 <td headers="NL  division_or_elim" class="gt_row gt_right">160</td>
-<td headers="NL  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='8.91' x2='7.73' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td headers="NL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:12px;"></td>
-<td headers="NL  team_label" class="gt_row gt_left gt_striped">WSH</td>
+<td headers="NL  outcomes" class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='42.52pt' height='10.80pt' viewBox='0 0 42.52 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }    .svglite text {      white-space: pre;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='42.52' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw0Mi41MnwwLjAwfDEwLjgw)'><line x1='3.87' y1='8.91' x2='3.87' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='7.73' y1='1.89' x2='7.73' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.60' y1='8.91' x2='11.60' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+    <tr><td headers="NL  logo_url" class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/143.svg" style="height:12px;"></td>
+<td headers="NL  team_label" class="gt_row gt_left gt_striped">PHI</td>
 <td headers="NL  wins" class="gt_row gt_right gt_striped">0</td>
 <td headers="NL  losses" class="gt_row gt_right gt_striped">2</td>
 <td headers="NL  win_pct_text" class="gt_row gt_right gt_striped">.0</td>
