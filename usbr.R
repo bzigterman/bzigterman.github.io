@@ -1,5 +1,7 @@
 library(tidyverse)
 library(httr)
+library(jsonlite)
+library(janitor)
 
 # get data ----
 
