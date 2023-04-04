@@ -138,6 +138,8 @@ fig <- highchart() |>
   hc_yAxis_multiples(create_axis(naxis = 2, 
                                  heights = c(1,1),
                                  title = list(text = NULL),
+                                 endOnTick = FALSE,
+                                 startOnTick = FALSE,
                                  plotLines = list(
                                    list(
                                      list(
@@ -193,6 +195,8 @@ fig <- highchart() |>
   hc_yAxis_multiples(create_axis(naxis = 2, 
                                  heights = c(1,1),
                                  title = list(text = NULL),
+                                 endOnTick = FALSE,
+                                 #startOnTick = FALSE,
                                  plotLines = list(
                                    list(
                                      list(
