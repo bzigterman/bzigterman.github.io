@@ -1,5 +1,5 @@
 league,team_label,wins,losses,win_pct_text,games_remaining,last_ten
-AL,TB ,6,0,1.000,156,NANANANA▀▀▀▀▀▀
+AL,TB ,7,0,1.000,155,NANANA▀▀▀▀▀▀▀
 AL,MIN,5,2,.714,155,NANANA▀▀▀▀▄▄▀
 AL,LAA,4,2,.667,156,NANANANA▄▀▀▀▄▀
 AL,CLE,5,3,.625,154,NANA▄▀▀▀▀▄▀▄
@@ -11,8 +11,8 @@ AL,BOS,3,4,.429,155,NANANA▄▀▀▄▄▄▀
 AL,CWS,3,5,.375,154,NANA▀▄▄▀▄▀▄▄
 AL,HOU,3,5,.375,154,NANA▄▀▀▄▄▄▀▄
 AL,SEA,3,5,.375,154,NANA▀▄▄▄▄▀▄▀
-AL,OAK,2,4,.333,156,NANANANA▀▄▄▄▀▄
 AL,DET,2,5,.286,155,NANANA▄▄▄▀▀▄▄
+AL,OAK,2,5,.286,155,NANANA▀▄▄▄▀▄▄
 AL,KC ,2,6,.250,154,NANA▄▄▄▀▄▄▄▀
 NL,ATL,6,1,.857,155,NANANA▀▀▄▀▀▀▀
 NL,MIL,5,1,.833,156,NANANANA▄▀▀▀▀▀
