@@ -1,31 +1,31 @@
 league,team_label,wins,losses,win_pct_text,games_remaining,last_ten
 AL,TB ,8,0,1.000,154,NANA▀▀▀▀▀▀▀▀
 AL,MIN,6,2,.750,154,NANA▀▀▀▀▄▄▀▀
-AL,CLE,5,3,.625,154,NANA▄▀▀▀▀▄▀▄
+AL,NYY,5,3,.625,154,NANA▀▄▀▀▄▀▄▀
 AL,TOR,5,3,.625,154,NANA▀▄▄▄▀▀▀▀
-AL,NYY,4,3,.571,155,NANANA▀▄▀▀▄▀▄
-AL,BAL,4,3,.571,155,NANANA▀▄▄▀▀▄▀
 AL,LAA,4,3,.571,155,NANANA▄▀▀▀▄▀▄
+AL,CLE,5,4,.556,153,NA▄▀▀▀▀▄▀▄▄
 AL,BOS,4,4,.500,154,NANA▄▀▀▄▄▄▀▀
+AL,BAL,4,4,.500,154,NANA▀▄▄▀▀▄▀▄
 AL,TEX,4,4,.500,154,NANA▀▀▀▄▄▀▄▄
-AL,CWS,3,5,.375,154,NANA▀▄▄▀▄▀▄▄
-AL,SEA,3,5,.375,154,NANA▀▄▄▄▄▀▄▀
+AL,CWS,4,5,.444,153,NA▀▄▄▀▄▀▄▄▀
+AL,SEA,4,5,.444,153,NA▀▄▄▄▄▀▄▀▀
 AL,KC ,3,6,.333,153,NA▄▄▄▀▄▄▄▀▀
 AL,HOU,3,6,.333,153,NA▄▀▀▄▄▄▀▄▄
 AL,DET,2,6,.250,154,NANA▄▄▄▀▀▄▄▄
 AL,OAK,2,6,.250,154,NANA▀▄▄▄▀▄▄▄
-NL,MIL,6,1,.857,155,NANANA▄▀▀▀▀▀▀
+NL,MIL,6,2,.750,154,NANA▄▀▀▀▀▀▀▄
 NL,ATL,6,2,.750,154,NANA▀▀▄▀▀▀▀▄
-NL,PIT,5,2,.714,155,NANANA▀▄▄▀▀▀▀
+NL,PIT,5,3,.625,154,NANA▀▄▄▀▀▀▀▄
 NL,LAD,5,3,.625,154,NANA▀▄▀▄▀▀▀▄
 NL,CHC,4,3,.571,155,NANANA▀▄▄▄▀▀▀
 NL,NYM,5,4,.556,153,NA▀▄▀▀▄▄▄▀▀
 NL,SD ,4,4,.500,154,NANA▄▄▀▀▀▄▄▀
 NL,ARI,4,4,.500,154,NANA▄▀▄▀▄▀▄▀
 NL,CIN,3,4,.429,155,NANANA▄▀▀▀▄▄▄
+NL,STL,3,5,.375,154,NANA▄▀▀▄▄▄▄▀
 NL,PHI,3,5,.375,154,NANA▄▄▄▄▀▄▀▀
 NL,SF ,3,5,.375,154,NANA▄▀▄▀▄▀▄▄
 NL,COL,3,5,.375,154,NANA▀▀▄▄▄▄▀▄
 NL,MIA,3,6,.333,153,NA▄▀▄▄▄▀▀▄▄
-NL,STL,2,5,.286,155,NANANA▄▀▀▄▄▄▄
 NL,WSH,2,6,.250,154,NANA▄▄▀▄▄▄▄▀
