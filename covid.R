@@ -816,7 +816,7 @@ add_latest_column <- idph_cases_vax_hosp_long %>%
 add_two_weeks_ago_column <- idph_cases_vax_hosp_long %>%
   select(names,values) %>%
   group_by(names) %>%
-  do(tail(.,n = 16)) %>%
+  do(tail(.,n = 14)) %>%
   do(head(.,n =1)) %>%
   rename(two_weeks_ago = values) %>%
   full_join(add_latest_column) %>%
@@ -1069,9 +1069,7 @@ webappicon: /covid.png
 <iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
-",better_cu_covid_table_html,"
-
-Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid) and on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignCovid\">@ChampaignCovid@mastodon.social</a>.
+Charts for Champaign County are posted weekly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignCovid\">@ChampaignCovid@mastodon.social</a>.
 
 ### Hospitalized
 
