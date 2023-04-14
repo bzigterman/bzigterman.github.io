@@ -436,8 +436,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td headers="names" class="gt_row gt_left">Cases</td>
 <td headers="two_weeks_ago" class="gt_row gt_right">13</td>
-<td headers="latest" class="gt_row gt_right">14</td>
-<td headers="pct_change" class="gt_row gt_right">+12%</td></tr>
+<td headers="latest" class="gt_row gt_right">15</td>
+<td headers="pct_change" class="gt_row gt_right">+14%</td></tr>
     <tr><td headers="names" class="gt_row gt_left gt_striped">Hospitalized</td>
 <td headers="two_weeks_ago" class="gt_row gt_right gt_striped">13</td>
 <td headers="latest" class="gt_row gt_right gt_striped">2</td>
@@ -457,7 +457,7 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Wastewater Surveillance
 
-<iframe src="/interactive/champaign_wastewater.html" width="100%" height="600"> 
+<iframe src="/interactive/champaign_wastewater.html" width="100%" height="400"> 
 </iframe>
 
 More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
@@ -521,9 +521,9 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- 12% in Champaign County
-- -15% in Illinois
-- -23% in the United States
+- -8% in Champaign County
+- -30% in Illinois
+- -26% in the United States
 - -53% worldwide
 
 <picture>
@@ -538,8 +538,8 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
-- 33% in Illinois
-- -22% in the United States
+- -39% in Illinois
+- -13% in the United States
 - -75% worldwide
 
 <picture>
