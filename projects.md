@@ -14,6 +14,8 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Basketball Standings]({{ site.baseurl }}/projects/basketball)
 
+## [Wastewater]({{ site.baseurl }}/projects/wastewater)
+
 ## [Water]({{ site.baseurl }}/projects/water)
 
 ## [Weather]({{ site.baseurl }}/projects/weather)
