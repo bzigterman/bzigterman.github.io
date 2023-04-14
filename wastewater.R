@@ -11,9 +11,11 @@ iwss <- iwss_download %>%
   filter(method == 1) 
 
 fig <- hchart(iwss,
-              type = "column", 
+              type = "line", 
               hcaes(x = Date,
                     y = sars_cov_2),
+              label = list(
+                enabled = TRUE),
               name = "SARS-CoV-2",
               states = list(
                 inactive = list(
@@ -22,19 +24,24 @@ fig <- hchart(iwss,
               ),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, 
-                                 heights = c(1,1),
-                                 title = list(text = NULL),
-                                 endOnTick = FALSE,
-                                 startOnTick = FALSE,
-                                 max = c(NA,
-                                         NA
-                                 ),
-                                 min = c(0,
-                                         0
-                                 ))) %>%
+  hc_yAxis(title = list(text = "Gene Copies Per Liter"),
+           endOnTick = FALSE,
+           startOnTick = FALSE) |> 
+  # hc_yAxis_multiples(create_axis(naxis = 2,
+  #                                heights = c(1,1),
+  #                                title = list(text = NULL),
+  #                                endOnTick = FALSE,
+  #                                startOnTick = FALSE,
+  #                                max = c(NA,
+  #                                        NA
+  #                                ),
+  #                                min = c(0,
+  #                                        0
+  #                                ))) %>%
   hc_add_series(
     data = iwss,
+    label = list(
+      enabled = TRUE),
     hcaes(x = Date,
           y = influenza_a),
     states = list(
@@ -43,22 +50,24 @@ fig <- hchart(iwss,
       )
     ),
     name = "Influenza A",
-    color = "black",
-    type = "column",
-    yAxis = 1) %>%
+    color = "blue",
+    type = "line",
+    yAxis = 0) %>%
   hc_add_series(
     data = iwss,
+    label = list(
+      enabled = TRUE),
     hcaes(x = Date,
           y = influenza_b),
     name = "Influenza B",
-    color = "#4e79a7",
+    color = "purple",
     states = list(
       inactive = list(
         enabled = FALSE
       )
     ),
-    type = "column",
-    yAxis = 1) %>%
+    type = "line",
+    yAxis = 0) %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: IWSS",
