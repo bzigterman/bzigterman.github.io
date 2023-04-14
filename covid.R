@@ -471,33 +471,6 @@ iwss <- iwss_download %>%
   filter(method == 1) |> 
   select(Date, sars_cov_2, method) 
 
-ggplot(iwss, aes(x = Date,
-                 y = value)) +
-  geom_point(color = "#4e79a7")+
-  xlab(NULL) +
-  labs(caption = "Source: IWSS") +
-  ylab("Gene copies per liter") +
-  scale_y_continuous(labels = scales::label_comma(accuracy = 1,
-                                          suffix = "M"),
-                     #position = "right",
-                     expand = expansion(mult = c(0,.05))
-  )+
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        legend.position = "bottom",
-        legend.title = element_blank(),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/iwss.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
-ggsave("plots/iwss_mobile.png", 
-       width = 3, height = 8*(628/1200), dpi = 320)
-
 wastewater_plus_cases <- full_join(iwss, cdc_champaign_cases) %>%
   full_join(water) %>%
   #full_join(wastewater) |> 
