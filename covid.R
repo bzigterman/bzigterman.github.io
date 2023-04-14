@@ -453,7 +453,8 @@ water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Dat
   arrange(date) |>
   mutate(date = ymd(date)) %>%
   mutate(Date = ymd(date)) |> 
-  mutate(smaller_conc = pcr_conc_smoothed/1000000000) 
+  mutate(smaller_conc = pcr_conc_smoothed/1000000000) |> 
+  select(Date, smaller_conc)
 
 wastewater_url <- "https://data.cdc.gov/resource/2ew6-ywp6.csv?wwtp_id=655"
 wastewater <- rio::import(wastewater_url,
@@ -462,18 +463,13 @@ wastewater <- rio::import(wastewater_url,
   select(Date,ptc_15d,detect_prop_15d,percentile) %>%
   arrange(Date)
 
+iwss_download_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/download/159/"
+iwss_download <- content(GET(iwss_download_url))
 
-iwss_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/159/"
-iwss_raw <- read_html(iwss_url) %>%
-  html_element("#data_json") %>% html_text() 
-
-iwss_json <- jsonlite::fromJSON(iwss_raw)
-
-iwss <- fromJSON(iwss_json$observations) %>%
+iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
-  mutate(value = pcr_target_avg_conc/1000000) %>%
-  filter(method == "1") |> 
-  select(Date, pcr_target_avg_conc,value, method) 
+  filter(method == 1) |> 
+  select(Date, sars_cov_2, method) 
 
 ggplot(iwss, aes(x = Date,
                  y = value)) +
@@ -504,11 +500,11 @@ ggsave("plots/iwss_mobile.png",
 
 wastewater_plus_cases <- full_join(iwss, cdc_champaign_cases) %>%
   full_join(water) %>%
-  full_join(wastewater) |> 
-  select(Date,ptc_15d,
-         detect_prop_15d,percentile,
+  #full_join(wastewater) |> 
+  select(Date,#ptc_15d,
+         #detect_prop_15d,percentile,
          avg_new_cases, smaller_conc,
-         pcr_target_avg_conc) %>%
+         sars_cov_2) %>%
   arrange(Date)%>%
   filter(Date >= "2021-11-22") %>%
   mutate(Date = as_date(Date))
@@ -539,21 +535,17 @@ fig <- hchart(wastewater_plus_cases,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 5, 
-                                 heights = c(1,1,1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 3, 
+                                 heights = c(1,1,1),
                                  title = list(text = NULL),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = c(NA,
                                          NA,
-                                         100,
-                                         100,
                                          NA
                                  ),
                                  min = c(0,
                                          NA,
-                                         0,
-                                         0,
                                          0
                                  ))) %>%
   hc_add_series(
@@ -571,53 +563,53 @@ fig <- hchart(wastewater_plus_cases,
     color = "black",
     type = "line",
     yAxis = 1) %>%
+  # hc_add_series(
+  #   data = wastewater_plus_cases,
+  #   hcaes(x = Date,
+  #         y = round(detect_prop_15d, digits = 1)),
+  #   name = "Pct. Tests Detecting SARS-CoV-2",
+  #   color = "#35978f",
+  #   states = list(
+  #     inactive = list(
+  #       enabled = FALSE
+  #     )
+  #   ),
+  #   tooltip = list(valueSuffix = "%"),
+  #   label = list(
+  #     enabled = TRUE),
+  #   type = "line",
+  #   yAxis = 2) %>%
+  # hc_add_series(
+  #   data = wastewater_plus_cases,
+  #   hcaes(x = Date,
+  #         y = round(percentile, digits = 1)),
+  #   name = "Percentile",
+  #   states = list(
+  #     inactive = list(
+  #       enabled = FALSE
+  #     )
+  #   ),
+  #   tooltip = list(valueSuffix = "%"),
+  #   type = "line",
+  #   zones = list(
+  #     c(value = 20,
+  #       color = "#3a67a6"),
+  #     c(value = 40,
+  #       color = "#83b6d4"),
+  #     c(value = 60,
+  #       color = "#daf1f6"),
+  #     c(value = 80,
+  #       color = "#ff8355"),
+  #     c(value = 100,
+  #       color = "#d72a2a")),
+  #   label = list(
+  #     enabled = TRUE),
+  #   color = "#d72a2a",
+  #   yAxis = 3) %>%
   hc_add_series(
     data = wastewater_plus_cases,
     hcaes(x = Date,
-          y = round(detect_prop_15d, digits = 1)),
-    name = "Pct. Tests Detecting SARS-CoV-2",
-    color = "#35978f",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    tooltip = list(valueSuffix = "%"),
-    label = list(
-      enabled = TRUE),
-    type = "line",
-    yAxis = 2) %>%
-  hc_add_series(
-    data = wastewater_plus_cases,
-    hcaes(x = Date,
-          y = round(percentile, digits = 1)),
-    name = "Percentile",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    tooltip = list(valueSuffix = "%"),
-    type = "line",
-    zones = list(
-      c(value = 20,
-        color = "#3a67a6"),
-      c(value = 40,
-        color = "#83b6d4"),
-      c(value = 60,
-        color = "#daf1f6"),
-      c(value = 80,
-        color = "#ff8355"),
-      c(value = 100,
-        color = "#d72a2a")),
-    label = list(
-      enabled = TRUE),
-    color = "#d72a2a",
-    yAxis = 3) %>%
-  hc_add_series(
-    data = wastewater_plus_cases,
-    hcaes(x = Date,
-          y = pcr_target_avg_conc),
+          y = sars_cov_2),
     name = "Gene Copies Per Liter",
     color = "#4e79a7",
     borderWidth = 0,
@@ -638,7 +630,7 @@ fig <- hchart(wastewater_plus_cases,
     # label = list(
     #   enabled = TRUE),
     type = "column",
-    yAxis = 4) %>%
+    yAxis = 2) %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: IWSS and CDC",
@@ -1115,7 +1107,7 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### Wastewater Surveillance
 
-<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"600\"> 
+<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
