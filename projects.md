@@ -6,6 +6,8 @@ permalink: /projects/
 
 I like to make stuff with the R programming language, and here is where I collect some of the things I've made:
 
+## [Climate]({{ site.baseurl }}/projects/climate)
+
 ## [COVID-19]({{ site.baseurl }}/projects/covid)
 
 ## [Economic Indicators]({{ site.baseurl }}/projects/economy)
