@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate
+title: Climate Models for Urbana, Illinois
 permalink: /projects/climate
 imageurl: https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png
 ---
