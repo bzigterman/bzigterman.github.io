@@ -170,7 +170,7 @@ fig <- highchart() |>
                 hcaes(x = Date,
                       y = CMCC_CM2_VHR4_sum),
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 label = list(
                   enabled = TRUE),
                 name = "CMCC",
@@ -182,7 +182,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = FGOALS_f3_H_sum),
                 label = list(
@@ -196,7 +196,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = HiRAM_SIT_HR_sum),
                 label = list(
@@ -210,7 +210,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = MRI_AGCM3_2_S_sum),
                 label = list(
@@ -224,7 +224,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = EC_Earth3P_HR_sum),
                 label = list(
@@ -238,7 +238,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = MPI_ESM1_2_XR_sum),
                 label = list(
@@ -252,7 +252,7 @@ fig <- highchart() |>
   hc_add_series(om_yearly,
                 type = "line", 
                 tooltip = list(valueDecimals = 0,
-                               valueSuffix = "°"),
+                               valueSuffix = "″"),
                 hcaes(x = Date,
                       y = NICAM16_8S_sum),
                 label = list(
