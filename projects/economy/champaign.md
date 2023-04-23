@@ -16,13 +16,25 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 <div id="cu_housing_table" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-html {
-  font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+#cu_housing_table table {
+  font-family: Lato, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#cu_housing_table thead, #cu_housing_table tbody, #cu_housing_table tfoot, #cu_housing_table tr, #cu_housing_table td, #cu_housing_table th {
+  border-style: none;
+}
+
+#cu_housing_table p {
+  margin: 0;
+  padding: 0;
 }
 
 #cu_housing_table .gt_table {
   display: table;
   border-collapse: collapse;
+  line-height: normal;
   margin-left: auto;
   margin-right: auto;
   color: #333333;
@@ -43,18 +55,6 @@ html {
   border-left-style: none;
   border-left-width: 2px;
   border-left-color: #D3D3D3;
-}
-
-#cu_housing_table .gt_heading {
-  background-color: #FFFFFF;
-  text-align: left;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
 }
 
 #cu_housing_table .gt_caption {
@@ -78,12 +78,24 @@ html {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
-  padding-top: 0;
-  padding-bottom: 6px;
+  padding-top: 3px;
+  padding-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
   border-top-color: #FFFFFF;
   border-top-width: 0;
+}
+
+#cu_housing_table .gt_heading {
+  background-color: #FFFFFF;
+  text-align: left;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
 }
 
 #cu_housing_table .gt_bottom_border {
@@ -157,6 +169,10 @@ html {
   overflow-x: hidden;
   display: inline-block;
   width: 100%;
+}
+
+#cu_housing_table .gt_spanner_row {
+  border-bottom-style: hidden;
 }
 
 #cu_housing_table .gt_group_heading {
@@ -258,6 +274,10 @@ html {
   border-top-width: 2px;
 }
 
+#cu_housing_table .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
 #cu_housing_table .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
@@ -307,6 +327,16 @@ html {
   border-top-color: #D3D3D3;
 }
 
+#cu_housing_table .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
 #cu_housing_table .gt_striped {
   background-color: #FAFAFA;
 }
@@ -337,8 +367,8 @@ html {
 #cu_housing_table .gt_footnote {
   margin: 0px;
   font-size: 90%;
-  padding-left: 4px;
-  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -395,10 +425,9 @@ html {
 }
 
 #cu_housing_table .gt_footnote_marks {
-  font-style: italic;
-  font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
+  position: initial;
 }
 
 #cu_housing_table .gt_asterisk {
@@ -426,10 +455,10 @@ html {
   text-indent: 25px;
 }
 </style>
-  <table class="gt_table">
-  
-  <thead class="gt_col_headings">
-    <tr>
+  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+  <thead>
+    
+    <tr class="gt_col_headings">
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" scope="col" id="Metric">Metric</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="Year Ago">Year Ago</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="Latest">Latest</th>
