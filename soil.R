@@ -12,8 +12,8 @@ library(highcharter)
 library(RColorBrewer)
 library(htmlwidgets)
 
-champaign_lat <-  40.08408
-champaign_lon <- -88.24039
+champaign_lat <-  40.11
+champaign_lon <- -88.21
 
 # NCEI ----
 ## ncei ----
