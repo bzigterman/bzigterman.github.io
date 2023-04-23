@@ -59,69 +59,11 @@ saveWidget(widget = fig, file = "interactive/initial_claims.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-ggplot(data = data,
-       aes(x = date,
-           y = value/1000000)) +
-  geom_line() +
-  labs(title = "Initial Unemployment Claims",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "M",
-                                          accuracy = .1)) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_year,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000000),
-                      max(recent_data$value/1000000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/initial_claims.png", width = 8, height = 8*(628/1200), dpi = 320)
-
 ## unemployment rate ----
 data <- fredr(series_id = "UNRATE")
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
-
-unemployment_rate <- ggplot(data = data,
-                            aes(x = date,
-                                y = value/100)) +
-  geom_line() +
-  labs(title = "Unemployment Rate",
-       caption = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_percent(),
-                     expand = expansion(mult = c(0, 0.05))) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        plot.caption = element_text(colour = "grey40"))
-unemployment_rate
-ggsave("plots/unemployment_rate.png", plot = unemployment_rate,
-       width = 8, height = 8*(628/1200), dpi = 320)
-
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
@@ -210,64 +152,6 @@ saveWidget(widget = fig, file = "interactive/us_employment.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-employment <- ggplot(data, aes(x = date,
-                               y = value/1000)) +
-  geom_line() +
-  labs(title = "Total Nonfarm Payroll") +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "M",
-                                          accuracy = 1)) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(#axis.text.y = element_text(size = 10),
-    #axis.text.x = element_text(size = 8),
-    # panel.grid.minor = element_blank(),
-    # panel.background = element_blank(),
-    # panel.grid.major.x = element_line(colour = "grey93"),
-    #panel.grid.major.y = element_line(colour = "grey93"),
-    # #strip.text = element_text(size = 11),
-    #strip.background = element_blank(),
-    plot.caption = element_text(colour = "grey40"))
-employment
-### employment change ----
-employment_change <- ggplot(recent_data, aes(x = date,
-                                             y = change/1000,
-                                             fill = change > 0)) +
-  geom_col() +
-  labs(title = "Change in Total Nonfarm Payroll",
-       caption = paste("U.S. Bureau of Labor Statistics. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_fill_manual(guide = "none",
-                    values = c("#b32704","#199fa8")) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "M")) +
-  theme(#axis.text.y = element_text(size = 10),
-    #axis.text.x = element_text(size = 8),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    strip.text = element_text(size = 11),
-    strip.background = element_blank(),
-    plot.caption = element_text(colour = "grey40"))
-
-plot_grid(employment, employment_change,
-          ncol = 1,
-          rel_heights = c(3,2))
-
-ggsave("plots/employment.png",
-       width = 8, height = 6, dpi = 320)
-
 ## Disposable Income ----
 data <-fredr(series_id = "A229RX0")
 recent_data <- data %>%
@@ -302,39 +186,6 @@ fig
 saveWidget(widget = fig, file = "interactive/disposable_income.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
-
-ggplot(data = data,
-       aes(x = date,
-           y = value/1000)) +
-  geom_line() +
-  labs(title = "Real Disposable Personal Income: Per Capita",
-       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "K")) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/disposable_income.png",
-       width = 8, height = 8*(628/1200), dpi = 320)
 
 ## labor productivity ----
 data <-fredr(series_id = "OPHNFB") %>%
@@ -379,63 +230,11 @@ recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
 
-gdp <- ggplot(data, aes(x = date,
-                        y = value/1000)) +
-  geom_line() +
-  labs(title = "Real GDP") +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "T",
-                                           accuracy = 1)) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(#axis.text.y = element_text(size = 10),
-    #axis.text.x = element_text(size = 8),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    plot.caption = element_text(colour = "grey40"))
-gdp
 ### real gdp growth ----
 data <- fredr(series_id = "A191RL1Q225SBEA")
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste0("Q",quarter(date)))
-
-gdp_change <- ggplot(recent_data, aes(x = date,
-                                      y = value/100,
-                                      fill = value > 0)) +
-  geom_col() +
-  labs(title = "Real GDP Growth",
-       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_fill_manual(guide = "none",
-                    values = c("#b32704","#199fa8")) +
-  scale_y_continuous(position = "right",
-                     labels = label_percent()) +
-  theme(#axis.text.y = element_text(size = 10),
-    #axis.text.x = element_text(size = 8),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    strip.text = element_text(size = 11),
-    strip.background = element_blank(),
-    plot.caption = element_text(colour = "grey40"))
-
-plot_grid(gdp, gdp_change,
-          ncol = 1,
-          rel_heights = c(3,2))
-
-ggsave("plots/gdp.png",
-       width = 8, height = 6, dpi = 320)
 
 gdp_data <-fredr(series_id = "GDPC1")
 gdp_growth_data <- fredr(series_id = "A191RL1Q225SBEA") %>%
@@ -512,7 +311,6 @@ lang <- getOption("highcharter.lang")
 lang$numericSymbols <- list("k", "M", "B", "T", "P", "E")
 options(highcharter.lang = lang)
 
-
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000000),
               name = "Sales") %>%
@@ -542,57 +340,6 @@ saveWidget(widget = fig, file = "interactive/retail_sales.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-ggplot(data, aes(x = date,
-                 y = value/1000)) +
-  geom_line() +
-  labs(title = "Retail Trade and Food Services",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, .01))) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "B")) +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggplot(data = data,
-       aes(x = date,
-           y = value/1000)) +
-  geom_line() +
-  labs(title = "Retail Sales",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "B")) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/retail_sales.png", width = 8, height = 8*(628/1200), dpi = 320)
-
 ## durable goods ----
 data <- fredr(series_id = "DGORDER") %>%
   drop_na()
@@ -603,7 +350,6 @@ recent_data <- data %>%
 lang <- getOption("highcharter.lang")
 lang$numericSymbols <- list("k", "M", "B", "T", "P", "E")
 options(highcharter.lang = lang)
-
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000000),
@@ -634,87 +380,12 @@ saveWidget(widget = fig, file = "interactive/durable_goods.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-ggplot(data, aes(x = date,
-                 y = value/1000)) +
-  geom_line() +
-  labs(title = "Durable Goods Orders",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, .01))) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "B")) +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggplot(data = data,
-       aes(x = date,
-           y = value/1000)) +
-  geom_line() +
-  labs(title = "Durable Goods Orders",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right",
-                     labels = label_dollar(suffix = "B")) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/durable_goods.png", width = 8, height = 8*(628/1200), dpi = 320)
-
 ## gini index ----
 
 # data <- fredr(series_id = "SIPOVGINIUSA")
 # recent_data <- data %>%
 #   filter(date > recent_years) %>%
 #   mutate(short_date = paste(year(date)))
-# 
-# gini <- ggplot(recent_data, aes(x = date,
-#                         y = value)) +
-#   geom_line() +
-#   labs(title = "Gini Index of Inequality",
-#        subtitle = "0 represents perfect equality; 100 represents perfect inequality",
-#        caption = paste("Source: World Bank. Latest data:",
-#                        tail(recent_data$short_date,1))) +
-#   xlab(NULL) +
-#   ylab(NULL) +
-#   scale_x_date(expand = expansion(mult = c(0, .01))) +
-#   scale_y_continuous(position = "right",
-#                      limits = c(0,max(recent_data$value)*1.05)) +
-#   theme(axis.text.y = element_text(size = 10),
-#         axis.text.x = element_text(size = 8),
-#         panel.grid.minor = element_blank(),
-#         panel.background = element_blank(),
-#         panel.grid.major.y = element_line(colour = "grey93"),
-#         strip.text = element_text(size = 11),
-#         strip.background = element_blank(),
-#         plot.caption = element_text(colour = "grey40"))
-# 
-# ggsave("plots/gini_index.png", plot = gini,
-#        width = 8, height = 8*(628/1200), dpi = 320)
 
 ## consumer sentiment ----
 data <- fredr(series_id = "UMCSENT") %>%
@@ -751,56 +422,6 @@ fig
 saveWidget(widget = fig, file = "interactive/consumer_sentiment.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
-ggplot(recent_data, aes(x = date,
-                        y = value)) +
-  geom_line() +
-  labs(title = "Consumer Sentiment Index",
-       caption = paste("Source: University of Michigan Consumer Survey. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, .01))) +
-  scale_y_continuous(position = "right") +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-sentiment <- ggplot(data = data,
-                    aes(x = date,
-                        y = value)) +
-  geom_line() +
-  labs(title = "Consumer Sentiment Index",
-       caption = paste("Source: University of Michigan Consumer Survey. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right") +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-sentiment
-ggsave("plots/consumer_sentiment.png", plot = sentiment,
-       width = 8, height = 8*(628/1200), dpi = 320)
 
 ## inflation ----
 data <- fredr(series_id = "CPIAUCNS") %>%
@@ -873,37 +494,6 @@ saveWidget(widget = fig, file = "interactive/inflation.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-cpi <- ggplot(data = data,
-              aes(x = date,
-                  y = change)) +
-  geom_line() +
-  labs(title = "Inflation: Consumer Price Index",
-       caption = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right",
-                     label = label_percent(accuracy = 1)) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$change),
-                      max(recent_data$change)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-cpi
-ggsave("plots/consumer_price_index.png", plot = cpi,
-       width = 8, height = 8*(628/1200), dpi = 320)
 ### prices ----
 #### gas ----
 data <- fredr(series_id = "GASREGW") %>%
@@ -1019,41 +609,6 @@ recent_data <- data %>%
   filter(date > past_ten_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
-us_population <- ggplot(data = data,
-                        aes(x = date,
-                            y = value/1000)) +
-  geom_line() +
-  labs(title = "Population",
-       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  #expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "M",
-                                          accuracy = 1)) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > past_ten_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value/1000),
-                      max(recent_data$value/1000)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-us_population
-ggsave("plots/us_population.png", plot = us_population,
-       width = 8, height = 8*(628/1200), dpi = 320)
-
-
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
               name = "Population") %>%
@@ -1089,31 +644,6 @@ data <- fredr(series_id = "ILCHAM9URN")
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
-
-unemployment_rate <- ggplot(data = data,
-                            aes(x = date,
-                                y = value/100)) +
-  geom_line() +
-  labs(title = "Unemployment Rate",
-       caption = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_percent(),
-                     expand = expansion(mult = c(0, 0.05))) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        plot.caption = element_text(colour = "grey40"))
-unemployment_rate
-ggsave("plots/champaign_unemployment_rate.png", plot = unemployment_rate,
-       width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
@@ -1155,59 +685,6 @@ data <- fredr(series_id = "LAUCN170190000000005") %>%
 recent_data <- data %>%
   filter(date > less_recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
-
-employment <- ggplot(data, aes(x = date)) +
-  geom_line(aes(y = value),
-            size = .6,
-            color = "grey65") +
-  # geom_point(aes(y = value),
-  #            size = .5,
-  #            color = "grey25") +
-  geom_line(aes(y = annual_avg),
-            size = 1.1) +
-  labs(title = "Annual Average of Total Employees") +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma()) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(plot.caption = element_text(colour = "grey40"))
-employment
-
-### employment change ----
-employment_change <- ggplot(recent_data, aes(x = date,
-                                             y = change,
-                                             fill = change > 0)) +
-  geom_col() +
-  labs(title = "Annual Change in Total Employees",
-       caption = paste("U.S. Bureau of Labor Statistics. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_fill_manual(guide = "none",
-                    values = c("#b32704","#199fa8")) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma()) +
-  theme(panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-plot_grid(employment, employment_change,
-          ncol = 1,
-          rel_heights = c(3,2))
-
-ggsave("plots/champaign_employment.png",
-       width = 8, height = 6, dpi = 320)
 
 fig <- hchart(data,
               type = "line", 
@@ -1273,40 +750,6 @@ recent_data <- data %>%
   filter(date > past_ten_years) %>%
   mutate(short_date = paste(year(date))) 
 
-champaign_population <- ggplot(data = data,
-                               aes(x = date,
-                                   y = value)) +
-  geom_line() +
-  labs(title = "Population",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  #expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "K",
-                                          accuracy = 1)) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > past_ten_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-champaign_population
-ggsave("plots/champaign_population.png", plot = champaign_population,
-       width = 8, height = 8*(628/1200), dpi = 320)
-
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
               name = "Population") %>%
@@ -1336,7 +779,6 @@ saveWidget(widget = fig, file = "interactive/champaign_county_population.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-
 ## housing ----
 active_listings <- fredr(series_id = "ACTLISCOU17019") %>%
   mutate(name = "Active Listings") %>%
@@ -1350,7 +792,6 @@ median_days_on_market <- fredr(series_id = "MEDDAYONMAR17019") %>%
 pending_ratio <- fredr(series_id = "PENRAT17019") %>%
   mutate(name = "Pending-to-Active Ratio")%>%
   mutate(series_idd = "ratio")
-
 
 data <- full_join(active_listings, median_listing_price) %>%
   full_join(median_days_on_market) %>%
@@ -1501,71 +942,7 @@ better_cu_housing_table_html <- gsub("[\"][a-z]{10}",
                                      "\"cu_housing_table",
                                      x = better_divs_cu_housing_table)
 
-ggplot(data, aes(x = date,
-                 y = value,
-                 color = name)) +
-  geom_line() +
-  facet_wrap(~ name, scales = "free_y") +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0,0)),
-               labels = label_date_short()) +
-  scale_y_continuous(labels = label_comma(),
-                     position = "right") +
-  expand_limits(y = 0) +
-  scale_colour_manual(guide = 'none',
-                      values = c("darkgreen","#674EA7","#B45F06","#d90000")) +
-  labs(title = "Champaign County Housing Metrics",
-       caption = paste("Source: Realtor.com. Latest data:",
-                       tail(data$short_date,1))) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        panel.grid.major.x = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/champaign_housing.png",
-       width = 8, height = 8*(628/1200), dpi = 320)
-
-
-ggplot(data, aes(x = date,
-                 y = value,
-                 color = name)) +
-  geom_line() +
-  facet_wrap(~ name, scales = "free_y",
-             ncol = 1) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0,0)),
-               labels = label_date_short()) +
-  scale_y_continuous(labels = label_comma(),
-                     position = "right") +
-  expand_limits(y = 0) +
-  scale_colour_manual(guide = 'none',
-                      values = c("darkgreen","#674EA7","#B45F06","#d90000")) +
-  labs(caption = paste("Source: Realtor.com, retrieved from\nthe St. Louis Fed. Latest data:",
-                       tail(data$short_date,1))) +
-  theme_bw() +
-  theme(#axis.text.y = element_text(size = 10),
-    #axis.text.x = element_text(size = 8),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    panel.grid.major.x = element_line(colour = "grey93"),
-    #strip.text = element_text(size = 11),
-    strip.background = element_blank(),
-    plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/champaign_housing_mobile.png",
-       width = 3, height = 8*(628/1200), dpi = 320)
-
 # Illinois ----
-
 
 ## unemployment rate ----
 data <- fredr(series_id = "ILUR")
@@ -1672,50 +1049,11 @@ flash_index <- flash_index_archive %>% html_node("table") %>%
   select(date,value) %>%
   arrange(date)
 
-
 data <- flash_index %>%
   drop_na()
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
-
-ggplot(data = data,
-       aes(x = date,
-           y = value)) +
-  geom_line(color = "grey60",
-            size = .4) +
-  geom_point(size = .4,
-             aes(color = value > 100)) +
-  labs(title = "Flash Index",
-       caption = paste("Source: UIUC IGPA. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  geom_hline(yintercept = 100,
-             color = "grey10",
-             size = .2) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_y_continuous(position = "right") +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  scale_color_manual(guide = "none",
-                     values = c("#b32704","#199fa8")) +
-  facet_zoom(x = date > recent_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-
-ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
@@ -1762,41 +1100,6 @@ data <-fredr(series_id = "ILPOP")
 recent_data <- data %>%
   filter(date > past_ten_years) %>%
   mutate(short_date = paste(year(date))) 
-
-il_population <- ggplot(data = data,
-                        aes(x = date,
-                            y = value)) +
-  geom_line() +
-  labs(title = "Population",
-       caption = paste("Source: U.S. Census Bureau. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  #expand_limits(y=0) +
-  scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "M",
-                                          scale = .001,
-                                          accuracy = .1)) +
-  scale_x_date(expand = expansion(mult = c(0, 0))) +
-  facet_zoom(x = date > past_ten_years,
-             zoom.size = 4,
-             ylim = c(min(recent_data$value),
-                      max(recent_data$value)),
-             #show.area = FALSE,
-             horizontal = FALSE) +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-il_population
-ggsave("plots/il_population.png", plot = il_population,
-       width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
