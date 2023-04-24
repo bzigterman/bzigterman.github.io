@@ -279,19 +279,19 @@ fig3 <- hcmap("countries/us/us-il-all",
       list(
         c(from = -0.5,
           to = 0.5,
-          color = '#ffffd4',
+          color = '#1a9641',
           name = 'Low'),
         c(from = 0.5,
           to = 1.5,
-          color = '#fed98e',
+          color = '#a6d96a',
           name = 'Moderate'),
         c(from = 1.5,
           to = 2.5,
-          color = '#fe9929',
+          color = '#fdae61',
           name = 'Substantial'),
         c(from = 2.5,
           to = 3.5,
-          color = '#cc4c02',
+          color = '#d7191c',
           name = 'High'))
   ) %>%
   hc_legend(
