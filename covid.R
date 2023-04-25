@@ -615,11 +615,9 @@ fig <- hchart(wastewater_plus_cases,
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'month', count = 1, text = '1m'),
                      list(type = 'month', count = 3, text = '3m'),
                      list(type = 'month', count = 6, text = '6m'),
-                     #list(type = 'year', count = 1, text = '1y'),
-                     #list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 1, text = '1y'),
                      list(type = 'all', text = 'All')),
                    selected = 2) 
 
