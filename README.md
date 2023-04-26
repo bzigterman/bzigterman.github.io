@@ -14,6 +14,4 @@ This is the repository for my personal website.
 
 [![autobasketball](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/basketball.yml/badge.svg)](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/basketball.yml)
 
-[![autonews](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/news.yml/badge.svg)](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/news.yml)
-
 [![autoweather](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/weather.yml/badge.svg)](https://github.com/bzigterman/bzigterman.github.io/actions/workflows/weather.yml)
