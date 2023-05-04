@@ -469,18 +469,23 @@ iwss_download <- content(GET(iwss_download_url))
 iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
   filter(method == 1) |> 
-  select(Date, sars_cov_2, method) 
+  select(Date, sars_cov_2, method) |> 
+  mutate(month_year = paste0(year(Date),"-",month(Date))) |> 
+  group_by(month_year) |> 
+  mutate(month_avg = mean(sars_cov_2)) |> 
+  ungroup()
 
 wastewater_plus_cases <- full_join(iwss, cdc_champaign_cases) %>%
   full_join(water) %>%
   #full_join(wastewater) |> 
-  select(Date,#ptc_15d,
+  select(Date,month_avg,#ptc_15d,
          #detect_prop_15d,percentile,
          avg_new_cases, smaller_conc,
          sars_cov_2) %>%
   arrange(Date)%>%
   filter(Date >= "2021-11-22") %>%
-  mutate(Date = as_date(Date))
+  mutate(Date = as_date(Date)) |> 
+  fill(month_avg, .direction = "down")
 
 wastewater_plus_cases_longer <- wastewater_plus_cases %>%
   pivot_longer(!Date) %>%
@@ -536,72 +541,40 @@ fig <- hchart(wastewater_plus_cases,
     color = "black",
     type = "line",
     yAxis = 1) %>%
-  # hc_add_series(
-  #   data = wastewater_plus_cases,
-  #   hcaes(x = Date,
-  #         y = round(detect_prop_15d, digits = 1)),
-  #   name = "Pct. Tests Detecting SARS-CoV-2",
-  #   color = "#35978f",
-  #   states = list(
-  #     inactive = list(
-  #       enabled = FALSE
-  #     )
-  #   ),
-  #   tooltip = list(valueSuffix = "%"),
-  #   label = list(
-  #     enabled = TRUE),
-  #   type = "line",
-  #   yAxis = 2) %>%
-  # hc_add_series(
-  #   data = wastewater_plus_cases,
-  #   hcaes(x = Date,
-  #         y = round(percentile, digits = 1)),
-  #   name = "Percentile",
-  #   states = list(
-  #     inactive = list(
-  #       enabled = FALSE
-  #     )
-  #   ),
-  #   tooltip = list(valueSuffix = "%"),
-  #   type = "line",
-  #   zones = list(
-  #     c(value = 20,
-  #       color = "#3a67a6"),
-  #     c(value = 40,
-  #       color = "#83b6d4"),
-  #     c(value = 60,
-  #       color = "#daf1f6"),
-  #     c(value = 80,
-  #       color = "#ff8355"),
-  #     c(value = 100,
-  #       color = "#d72a2a")),
-  #   label = list(
-  #     enabled = TRUE),
-  #   color = "#d72a2a",
-  #   yAxis = 3) %>%
   hc_add_series(
     data = wastewater_plus_cases,
+    connectNulls = TRUE,
     hcaes(x = Date,
-          y = sars_cov_2),
-    name = "Gene Copies Per Liter",
-    color = "#4e79a7",
-    borderWidth = 0,
-    groupPadding = 0,
-    pointPadding = 0,
-    pointWidth = 2,
+          y = month_avg),
+    label = list(
+      enabled = TRUE),
     states = list(
       inactive = list(
         enabled = FALSE
       )
     ),
-    # marker = list(
-    #   radius = 2
-    # ),
-    # tooltip = list(
-    #   pointFormat = "{point.y}"
-    # ),
-    # label = list(
-    #   enabled = TRUE),
+    tooltip = list(valueDecimals = 0),
+    name = "Monthly Average Gene Copies Per Liter",
+    color = "#4e79a7",
+    type = "line",
+    yAxis = 2) %>%
+  hc_add_series(
+    data = wastewater_plus_cases,
+    hcaes(x = Date,
+          y = sars_cov_2),
+    name = "Gene Copies Per Liter",
+    color = "#c9d6e4",
+    borderWidth = 0,
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    groupPadding = 0,
+    pointPadding = 0,
+    pointWidth = 2,
+    enableMouseTracking = FALSE,
+    zIndex = -3,
     type = "column",
     yAxis = 2) %>%
   hc_credits(
