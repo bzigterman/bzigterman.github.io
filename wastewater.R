@@ -8,12 +8,24 @@ iwss_download <- content(GET(iwss_download_url))
 
 iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
-  filter(method == 1) 
+  filter(method == 1) |> 
+  mutate(sars_cov_2_avg = zoo::rollmean(sars_cov_2,
+                                        k = 5,
+                                        fill = NA,
+                                        align = "right")) |> 
+  mutate(influenza_a_avg = zoo::rollmean(influenza_a,
+                                        k = 5,
+                                        fill = NA,
+                                        align = "right")) |> 
+  mutate(influenza_b_avg = zoo::rollmean(influenza_b,
+                                          k = 5,
+                                          fill = NA,
+                                          align = "right"))
 
 fig <- hchart(iwss,
               type = "line", 
               hcaes(x = Date,
-                    y = sars_cov_2),
+                    y = sars_cov_2_avg),
               label = list(
                 enabled = TRUE),
               name = "SARS-CoV-2",
@@ -24,7 +36,7 @@ fig <- hchart(iwss,
               ),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis(title = list(text = "Gene Copies Per Liter"),
+  hc_yAxis(title = list(text = "Gene Copies Per Liter (w/ Moving Avg.)"),
            endOnTick = FALSE,
            startOnTick = FALSE) |> 
   # hc_yAxis_multiples(create_axis(naxis = 2,
@@ -43,7 +55,7 @@ fig <- hchart(iwss,
     label = list(
       enabled = TRUE),
     hcaes(x = Date,
-          y = influenza_a),
+          y = influenza_a_avg),
     states = list(
       inactive = list(
         enabled = FALSE
@@ -58,9 +70,60 @@ fig <- hchart(iwss,
     label = list(
       enabled = TRUE),
     hcaes(x = Date,
-          y = influenza_b),
+          y = influenza_b_avg),
     name = "Influenza B",
     color = "purple",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = iwss,
+    zIndex = -1,
+    label = list(
+      enabled = TRUE),
+    hcaes(x = Date,
+          y = sars_cov_2),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    name = "SARS-CoV-2",
+    color = "#f0dfcd",
+    enableMouseTracking = FALSE,
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = iwss,
+    label = list(
+      enabled = TRUE),
+    hcaes(x = Date,
+          y = influenza_a),
+    zIndex = -1,
+    name = "Influenza A",
+    enableMouseTracking = FALSE,
+    color = "#e5e5ff",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = iwss,
+    zIndex = -1,
+    label = list(
+      enabled = TRUE),
+    hcaes(x = Date,
+          y = influenza_b),
+    enableMouseTracking = FALSE,
+    name = "Influenza B",
+    color = "#f2e5f2",
     states = list(
       inactive = list(
         enabled = FALSE

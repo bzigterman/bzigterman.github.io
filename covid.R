@@ -470,22 +470,21 @@ iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
   filter(method == 1) |> 
   select(Date, sars_cov_2, method) |> 
-  mutate(month_year = paste0(year(Date),"-",month(Date))) |> 
-  group_by(month_year) |> 
-  mutate(month_avg = mean(sars_cov_2)) |> 
-  ungroup()
-
+  mutate(sars_cov_2_avg = zoo::rollmean(sars_cov_2,
+                                        k = 5,
+                                        fill = NA,
+                                        align = "right")) 
+  
 wastewater_plus_cases <- full_join(iwss, cdc_champaign_cases) %>%
   full_join(water) %>%
   #full_join(wastewater) |> 
-  select(Date,month_avg,#ptc_15d,
+  select(Date,sars_cov_2_avg,#ptc_15d,
          #detect_prop_15d,percentile,
          avg_new_cases, smaller_conc,
          sars_cov_2) %>%
   arrange(Date)%>%
   filter(Date >= "2021-11-22") %>%
-  mutate(Date = as_date(Date)) |> 
-  fill(month_avg, .direction = "down")
+  mutate(Date = as_date(Date)) 
 
 wastewater_plus_cases_longer <- wastewater_plus_cases %>%
   pivot_longer(!Date) %>%
@@ -545,7 +544,7 @@ fig <- hchart(wastewater_plus_cases,
     data = wastewater_plus_cases,
     connectNulls = TRUE,
     hcaes(x = Date,
-          y = month_avg),
+          y = sars_cov_2_avg),
     label = list(
       enabled = TRUE),
     states = list(
@@ -554,7 +553,7 @@ fig <- hchart(wastewater_plus_cases,
       )
     ),
     tooltip = list(valueDecimals = 0),
-    name = "Monthly Average Gene Copies Per Liter",
+    name = "Gene Copies Per Liter (w/ Moving Avg.)",
     color = "#4e79a7",
     type = "line",
     yAxis = 2) %>%
