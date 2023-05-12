@@ -83,8 +83,6 @@ fig <- hchart(iwss,
   hc_add_series(
     data = iwss,
     zIndex = -1,
-    label = list(
-      enabled = TRUE),
     hcaes(x = Date,
           y = sars_cov_2),
     states = list(
@@ -99,8 +97,6 @@ fig <- hchart(iwss,
     yAxis = 0) %>%
   hc_add_series(
     data = iwss,
-    label = list(
-      enabled = TRUE),
     hcaes(x = Date,
           y = influenza_a),
     zIndex = -1,
@@ -117,8 +113,6 @@ fig <- hchart(iwss,
   hc_add_series(
     data = iwss,
     zIndex = -1,
-    label = list(
-      enabled = TRUE),
     hcaes(x = Date,
           y = influenza_b),
     enableMouseTracking = FALSE,
