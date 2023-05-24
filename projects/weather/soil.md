@@ -11,6 +11,11 @@ webappicon: /weather.png
 <iframe src="/interactive/soil_temps.html" width="100%" height="300"> 
 </iframe>
 
+## Soil Moisture
+
+<iframe src="/interactive/soil_temps.html" width="100%" height="400"> 
+</iframe>
+
 ## Latest Freeze Dates
 
 <iframe src="/interactive/latest_freeze_dates.html" width="100%" height="300"> 
