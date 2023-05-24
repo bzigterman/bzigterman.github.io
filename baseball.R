@@ -20,8 +20,9 @@ fivethirtyeight_data <- rio::import(fivethirtyeight_data_url, format = "csv") %>
   arrange(date) 
 get_team_records <- function(abbreviation) {
   records <- fivethirtyeight_data %>%
-    select(date, season, team1, team2, score1, score2) %>%
+    select(date, season, team1, team2, score1, score2,rating1_post) %>%
     filter(team1 == abbreviation | team2 == abbreviation) %>%
+    filter( !is.na(rating1_post)) |> 
     mutate(result = if_else((team2 == abbreviation),
                             if_else((score2 > score1),"W","L"),
                             if_else((score1 > score2),"W","L"))) %>%
@@ -419,7 +420,7 @@ standings_table <- division_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, league,last_ten, net_wins,
+  cols_hide(columns = c(win_pct, league,last_ten, net_wins,games_remaining,
                         division_magic_number,
                         division_elimination_number,
                         division_place)) %>% # hide this until new playoffs figured out
@@ -518,120 +519,6 @@ saveWidget(widget = nl_west_interactive,
            file = "interactive/nl_west_interactive.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
-
-
-standings_plot <- function(division) {
-  ggplot(division, aes(x = game_n,
-                       y = net_wins,
-                       color= team,
-                       label = team_label)) +
-    #coord_fixed(xlim = c(0,162)) +
-    geom_hline(yintercept = 0,
-               color = "grey10",
-               size = .2) +
-    geom_vline(xintercept = 162,
-               color = "grey50",
-               size = .2) +
-    geom_line() +
-    geom_text(aes(x = game_n + 10),
-              family = "mono",
-              size = 4) +
-    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
-    scale_y_continuous(position = "right") +
-    scale_color_brewer(palette = "Set1",
-                       guide = NULL) +
-    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
-    #                  guide = NULL) +
-    coord_cartesian(xlim = c(0,172)) +
-    theme_minimal() +
-    labs(title = division$division,
-         #caption = "Source: FiveThirtyEight",
-         x = NULL,
-         y = NULL) +
-    theme(
-      plot.background = element_rect(fill = "white", color = "white"),
-      panel.grid = element_blank(),
-      legend.title = element_blank(),
-      axis.ticks.x = element_line(color = "grey60", size = 0.25),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.ticks.y = element_line(color = "grey60"),
-      plot.caption = element_text(color = "grey40")
-    )
-}
-standings_plot_mobile <- function(division) {
-  ggplot(division, aes(x = game_n,
-                       y = net_wins,
-                       color= team,
-                       label = team_label)) +
-    #coord_fixed(xlim = c(0,162)) +
-    geom_hline(yintercept = 0,
-               color = "grey10",
-               size = .2) +
-    geom_vline(xintercept = 162,
-               color = "grey50",
-               size = .2) +
-    geom_line(size = .3) +
-    geom_text(aes(x = game_n + 10),
-              family = "mono",
-              size = 2) +
-    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
-    scale_y_continuous(position = "right") +
-    scale_color_brewer(palette = "Set1",
-                       guide = NULL) +
-    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
-    #                  guide = NULL) +
-    coord_cartesian(xlim = c(0,172)) +
-    theme_minimal() +
-    labs(title = division$division,
-         #caption = "Source: FiveThirtyEight",
-         x = NULL,
-         y = NULL) +
-    theme(
-      plot.background = element_rect(fill = "white", color = "white"),
-      panel.grid = element_blank(),
-      plot.title = element_text(size = 6),
-      axis.text = element_text(size = 5),
-      legend.title = element_blank(),
-      axis.ticks.x = element_line(color = "grey60", size = 0.25),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.ticks.y = element_line(color = "grey60"),
-      plot.caption = element_text(color = "grey40")
-    )
-}
-al_central_plot <- standings_plot(al_central)  
-al_east_plot <- standings_plot(al_east)  
-al_west_plot <- standings_plot(al_west)  
-
-nl_central_plot <- standings_plot(nl_central)  
-nl_east_plot <- standings_plot(nl_east)  
-nl_west_plot <- standings_plot(nl_west)  
-
-plot_grid(al_central_plot,nl_central_plot,
-          al_east_plot,nl_east_plot,
-          al_west_plot,nl_west_plot,
-          align = "hv",
-          ncol = 2)
-
-ggsave("plots/divisions_net_wins.png", 
-       width = 8, height = 7, dpi = 320)
-
-al_central_plot <- standings_plot_mobile(al_central)  
-al_east_plot <- standings_plot_mobile(al_east)  
-al_west_plot <- standings_plot_mobile(al_west)  
-
-nl_central_plot <- standings_plot_mobile(nl_central)  
-nl_east_plot <- standings_plot_mobile(nl_east)  
-nl_west_plot <- standings_plot_mobile(nl_west)  
-
-
-plot_grid(al_central_plot,al_east_plot,al_west_plot,
-          nl_central_plot,nl_east_plot,nl_west_plot,
-          align = "v",
-          ncol = 1)
-
-ggsave("plots/divisions_net_wins_mobile.png", 
-       width = 2, height = 7, dpi = 320)
 
 # wild card standings ----
 
@@ -805,7 +692,7 @@ wild_card_table <- mlb_standings_magic %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct)) %>% #hide until figure out new playoffs
+  cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
     columns = c(win_pct_text, logo_url,
@@ -967,89 +854,6 @@ ggsave("plots/mlb_team_rank_mobile.png",
        dpi = 320)
 
 # wild card net wins plot ----
-league_standings_plot <- function(league) {
-  ggplot(league, aes(x = game_n,
-                     y = net_wins,
-                     color= team,
-                     label = team_label)) +
-    #coord_fixed(xlim = c(0,162)) +
-    geom_hline(yintercept = 0,
-               color = "grey10",
-               size = .2) +
-    geom_vline(xintercept = 162,
-               color = "grey50",
-               size = .2) +
-    geom_line() +
-    geom_text(aes(x = game_n + 10),
-              family = "mono",
-              size = 4) +
-    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
-    scale_y_continuous(position = "right") +
-    # scale_color_brewer(palette = "Set1",
-    #                    guide = NULL) +
-    scale_color_discrete(guide = NULL) +
-    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
-    #                  guide = NULL) +
-    coord_cartesian(xlim = c(0,172)) +
-    theme_minimal() +
-    labs(title = league$league,
-         #caption = "Source: FiveThirtyEight",
-         x = NULL,
-         y = NULL) +
-    theme(
-      plot.background = element_rect(fill = "white", color = "white"),
-      panel.grid = element_blank(),
-      legend.title = element_blank(),
-      axis.ticks.x = element_line(color = "grey60", size = 0.25),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.ticks.y = element_line(color = "grey60"),
-      plot.caption = element_text(color = "grey40")
-    )
-}
-al_plot <- league_standings_plot(al_games)
-nl_plot <- league_standings_plot(nl_games)
-
-plot_grid(al_plot, nl_plot,
-          align = "hv")
-
-# ggsave("plots/mlb_wild_card.png",
-#        width = 8, height = 4, dpi = 320)
-
-
-## remove eliminated teams----
-
-al_games_plus <- mlb_standings_magic %>%
-  filter(league == "AL") %>%
-  ungroup() %>%
-  full_join(al_games) %>%
-  group_by(team) %>%
-  fill(division_or_elim, .direction = "downup") %>%
-  filter(division_or_elim != "—")
-
-nl_games_plus <- mlb_standings_magic %>%
-  filter(league == "NL") %>%
-  ungroup() %>%
-  full_join(nl_games) %>%
-  group_by(team) %>%
-  fill(division_or_elim, .direction = "downup") %>%
-  filter(division_or_elim != "—")
-
-al_plot <- league_standings_plot(al_games_plus)
-nl_plot <- league_standings_plot(nl_games_plus)
-
-plot_grid(al_plot, nl_plot,
-          align = "hv")
-
-ggsave("plots/mlb_wild_card.png",
-       width = 8, height = 4, dpi = 320)
-
-plot_grid(al_plot, nl_plot,
-          align = "v",
-          ncol = 1)
-
-ggsave("plots/mlb_wild_card_mobile.png",
-       width = 4, height = 4, dpi = 320)
-
 
 hc_al_games <- mlb_standings_magic %>%
   filter(league == "AL") %>%
