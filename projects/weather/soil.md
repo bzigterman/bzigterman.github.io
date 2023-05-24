@@ -13,7 +13,7 @@ webappicon: /weather.png
 
 ## Soil Moisture
 
-<iframe src="/interactive/soil_temps.html" width="100%" height="400"> 
+<iframe src="/interactive/soil_moisture.html" width="100%" height="400"> 
 </iframe>
 
 ## Latest Freeze Dates
