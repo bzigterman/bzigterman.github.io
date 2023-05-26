@@ -13,17 +13,7 @@ webappicon: /covid.png
 
 Charts for Champaign County are posted weekly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignCovid">@ChampaignCovid@mastodon.social</a>.
 
-### Hospitalized
-
-<iframe src="/interactive/champaign_hospital.html" width="100%" height="400"> 
-</iframe>
-
-### Wastewater Surveillance
-
-<iframe src="/interactive/champaign_wastewater.html" width="100%" height="400"> 
-</iframe>
-
-More information available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
+More information about wastewater surveillance available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
 ## Illinois
 
@@ -33,43 +23,12 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
   <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png" alt="" />
 </picture>
 
-<div class = "hcharts">
-<iframe src="/interactive/il_community_levels.html" width="100%" height="300"> 
-</iframe>
-
-<iframe src="/interactive/il_transmission_levels.html" width="100%" height="300"> 
-</iframe>
-
-<iframe src="/interactive/il_new_cases.html" width="100%" height="300"> 
-</iframe>
-</div>
-
-[Community levels](https://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html) are calculated by the CDC based on new cases and hospital data. [Community transmission levels](https://covid.cdc.gov/covid-data-tracker/#county-view) are calculated by the CDC based on new cases and test positivity.
-
 ## United States
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png"
           media="(min-width: 750px)">
   <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png" alt="" />
-</picture>
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_level_mobile.png" alt="" />
-</picture>
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission_mobile.png" alt="" />
-</picture>
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases_mobile.png" alt="" />
 </picture>
 
 ## World
@@ -84,9 +43,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- -41% in Champaign County
-- -28% in Illinois
-- -22% in the United States
+- -100% in the United States
 - -58% worldwide
 
 <picture>
@@ -101,8 +58,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
-- -43% in Illinois
-- -11% in the United States
+- -100% in the United States
 - -60% worldwide
 
 <picture>
