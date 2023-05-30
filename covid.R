@@ -75,6 +75,7 @@ fig <- hchart(combined,
     hcaes(x = Date,
           y = sars_cov_2_avg),
     label = list(
+      format = "Wastewater",
       enabled = TRUE),
     states = list(
       inactive = list(
@@ -121,7 +122,7 @@ hc_credits(
                      list(type = 'year', count = 1, text = '1y'),
                      list(type = 'year', count = 2, text = '2y'),
                      list(type = 'all', text = 'All')),
-                   selected = 4)
+                   selected = 2)
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_covid.html",
