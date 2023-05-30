@@ -13,7 +13,7 @@ Elevation:
 - 1,054 feet
 - 159 feet above the minimum level
 - 175 feet below the maximum level
-- up 5 feet from a year ago
+- up 6 feet from a year ago
 - down 55 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
