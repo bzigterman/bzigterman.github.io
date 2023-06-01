@@ -44,7 +44,7 @@ More information about wastewater surveillance available from the [CDC](https://
 As of Wednesday, the 14-day percent change in average new cases was:
   
 - -100% in the United States
-- -58% worldwide
+- -67% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -59,7 +59,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
 - -100% in the United States
-- -60% worldwide
+- -78% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
