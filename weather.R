@@ -1074,7 +1074,7 @@ ggsave("plots/temp_history_mobile.png", bg = "white",
 
 # almanac ----
 ## om ----
-om_past_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=40.11&longitude=-88.21&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&past_days=92&timezone=America%2FChicago")
+om_past_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=40.11&longitude=-88.21&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&past_days=92&forecast_days=16&timezone=America%2FChicago")
 om_past <- rio::import(om_past_url, format = "json")
 om_past_daily <- as_tibble( om_past$daily) |> 
   mutate(DATE = as_date(time)) |> 
@@ -1084,8 +1084,17 @@ om_past_daily <- as_tibble( om_past$daily) |>
   select(!temperature_2m_min) |> 
   mutate(PRCP = precipitation_sum) |> 
   select(!precipitation_sum) |> 
-  filter(DATE <= today(tzone = "America/Chicago")) |> 
+  filter(DATE < today(tzone = "America/Chicago")) |> 
   select(DATE,PRCP,TMAX,TMIN) 
+
+om_forecast_daily <- as_tibble( om_past$daily) |> 
+  mutate(date = as_date(time)) |> 
+  mutate(Forecast_max = temperature_2m_max) |> 
+  select(!temperature_2m_max) |> 
+  mutate(Forecast_min = temperature_2m_min) |> 
+  select(!temperature_2m_min) |> 
+  filter(date >= today(tzone = "America/Chicago")) |> 
+  select(date,Forecast_max,Forecast_min) 
 
 ## ncei ----
 old_ncei <- read_csv(file = "data/ncei.csv") |> 
@@ -1299,6 +1308,7 @@ current_temp <- temps_past_hour %>%
 year_weather_data <- full_join(records, normals) %>%
   full_join(dailies) %>%
   full_join(monthly_rain) %>%
+  full_join(om_forecast_daily) |> 
   mutate(date = ymd(date)) 
 
 year_precip <- year_weather_data %>%
@@ -1334,7 +1344,7 @@ year_weather_data_longer <- year_weather_data %>%
   pivot_wider(names_from = min_max,
               values_from = value) %>%
   select(date,type, max, min)
-year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual"))
+year_weather_data_longer$type <- factor(year_weather_data_longer$type, level = c("Record","Normal","Actual","Forecast"))
 today_weather_data <- year_weather_data %>%
   mutate("Record high" = Record_max) %>%
   mutate("Record low"  = Record_min) %>%
@@ -1454,7 +1464,7 @@ fig <- highchart() |>
       format = "{value:%b}")
   ) %>%
   hc_legend(enabled = FALSE) %>%
-  hc_colors(c("#e9e8df","#c2afb1","#a6003f")) %>%
+  hc_colors(c("#e9e8df","#c2afb1","#a6003f","#53001f")) %>%
   hc_tooltip(shared = TRUE,
              xDateFormat = "%B %e") %>%
   hc_credits(
