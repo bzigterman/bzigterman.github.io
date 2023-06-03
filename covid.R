@@ -548,7 +548,7 @@ fig <- hchart(cdc_il_deaths,
                 yAxis = 2) |> 
   hc_credits(
     enabled = TRUE,
-    text = "Source: WHO",
+    text = "Source: CDC and WHO",
     href = "https://bzigterman.com/interactive/covid_death_acceleration.html") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
