@@ -293,6 +293,97 @@ saveWidget(widget = fig, file = "interactive/usa_covid.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+## world ----
+#### cases ----
+owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_cases.csv"
+owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
+  select(date,World) |> 
+  mutate(new_cases = World) |> 
+  mutate(avg_new_cases = rollmean(new_cases, k = 7, 
+                                  fill = NA, align = "right")) |> 
+  mutate(pct_change_new_cases = 
+           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
+  mutate(Date = ymd(date)) %>%
+  mutate(date = as_date(Date)) %>%
+  mutate(location = "World") |> 
+  select(!World)
+
+#### deaths ----
+owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
+owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
+  select(date,World) |> 
+  mutate(new_deaths = World) |> 
+  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
+                                   fill = NA, align = "right")) |> 
+  mutate(pct_change_new_deaths = 
+           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
+  mutate(Date = ymd(date)) %>%
+  mutate(date = as_date(Date)) %>%
+  mutate(location = "World") |> 
+  select(!World)
+
+fig <- hchart(owid_new_cases_world,
+              type = "line", 
+              hcaes(x = Date,
+                    y = avg_new_cases),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueDecimals = 0),
+              connectNulls = TRUE,
+              name = "Avg. New Cases",
+              label = list(
+                enabled = TRUE),
+              color = "#B45F06",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1,1),
+                                 endOnTick = FALSE,
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = owid_new_deaths_world,
+    connectNulls = TRUE,
+    hcaes(x = Date,
+          y = avg_new_deaths),
+    label = list(
+      #format = "Avg. New Deaths",
+      enabled = TRUE),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    tooltip = list(valueDecimals = 0),
+    name = "Avg. Deaths",
+    color = "#000000",
+    type = "line",
+    yAxis = 1) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: WHO",
+    href = "https://bzigterman.com/interactive/world_covid.html") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/world_covid.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
 # case acceleration ----
 ### get data ----
 
@@ -424,11 +515,8 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## World
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/world_covid.html\" width=\"100%\" height=\"400\"> 
+</iframe>
 
 ## Case Acceleration
 
