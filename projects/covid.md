@@ -17,19 +17,13 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Illinois
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/il_covid.html" width="100%" height="400"> 
+</iframe>
 
 ## United States
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/usa_covid.html" width="100%" height="500"> 
+</iframe>
 
 ## World
 
