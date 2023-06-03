@@ -39,11 +39,8 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/covid_death_acceleration.html" width="100%" height="500"> 
+</iframe>
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
 
