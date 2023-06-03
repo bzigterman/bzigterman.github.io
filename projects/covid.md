@@ -35,25 +35,12 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
-  
-- -100% in the United States
-- -67% worldwide
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/covid_case_acceleration.html" width="100%" height="300"> 
+</iframe>
 
 This chart measures how quickly the average number of new cases is changing, or roughly, the slope of the new-cases charts above. If the case acceleration is positive, then the average number of new cases is increasing. If it is negative, then the average number of new cases is decreasing.
 
 ## Death Acceleration
-
-As of Wednesday, the 14-day percent change in average new deaths was:
-  
-- -100% in the United States
-- -78% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
