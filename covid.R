@@ -416,7 +416,7 @@ fig <- hchart(combined_cases,
               tooltip = list(valueDecimals = 1,
                              valueSuffix = "{value}%"),
               connectNulls = TRUE,
-              name = "Case Acceleration",
+              name = "World",
               label = list(
                 enabled = TRUE),
               color = "#b32704",
@@ -424,6 +424,7 @@ fig <- hchart(combined_cases,
               threshold = 0,
               yAxis = 0) %>%
   hc_yAxis(endOnTick = FALSE,
+           startOnTick = FALSE,
            min = -100,
            max = 200,
            title = list(enabled = FALSE)) %>%
@@ -450,12 +451,24 @@ saveWidget(widget = fig, file = "interactive/covid_case_acceleration.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-# death_acceleration_text ----
+# death acceleration ----
 ## Illinois ----
+cdc_il_deaths <- cdc_il |> 
+  select(Date,COVID_deaths_weekly) |> 
+  mutate(avg_new_deaths = COVID_deaths_weekly) |> 
+  mutate(pct_change_new_deaths = 
+           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
+  mutate(location = "Illinois")
 
-### get data ----
+## usa ----
+cdc_usa_deaths <- cdc_usa |> 
+  select(Date,COVID_deaths_weekly) |> 
+  mutate(avg_new_deaths = COVID_deaths_weekly) |> 
+  mutate(pct_change_new_deaths = 
+           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
+  mutate(location = "United States")
 
-#### World ----
+## World ----
 owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
 owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
@@ -467,21 +480,95 @@ owid_new_deaths_world <- rio::import(owid_url, format = "csv") |>
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World")
-owid_new_cases_usa <- rio::import(owid_url, format = "csv") |> 
-  janitor::clean_names() |> 
-  select(date,united_states) |> 
-  mutate(new_deaths = united_states) |> 
-  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                  fill = NA, align = "right")) |> 
-  mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "United States")
 
-### merge data ----
-combined_deaths <- full_join(owid_new_cases_usa, owid_new_deaths_world) %>%
-  select(location, Date,pct_change_new_deaths)
+## merge data ----
+fig <- hchart(cdc_il_deaths,
+              type = "line", 
+              hcaes(x = Date,
+                    y = 100*pct_change_new_deaths),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueDecimals = 1,
+                             valueSuffix = "{value}%"),
+              connectNulls = TRUE,
+              name = "Illinois",
+              label = list(
+                enabled = TRUE),
+              color = "#b32704",
+              negativeColor = "#199fa8",
+              threshold = 0,
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 3, 
+                                 heights = c(1,1,1), 
+                                 startOnTick = FALSE,
+                                 endOnTick = FALSE,
+                                 min = -100,
+                                 max = 200,
+                                 title = list(enabled = FALSE))) %>%
+  hc_add_series(cdc_usa_deaths,
+                type = "line", 
+                hcaes(x = Date,
+                      y = 100*pct_change_new_deaths),
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                tooltip = list(valueDecimals = 1,
+                               valueSuffix = "{value}%"),
+                connectNulls = TRUE,
+                name = "United States",
+                label = list(
+                  enabled = TRUE),
+                color = "#b32704",
+                negativeColor = "#199fa8",
+                threshold = 0,
+                yAxis = 1) |> 
+  hc_add_series(owid_new_deaths_world,
+                type = "line", 
+                hcaes(x = Date,
+                      y = 100*pct_change_new_deaths),
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                tooltip = list(valueDecimals = 1,
+                               valueSuffix = "{value}%"),
+                connectNulls = TRUE,
+                name = "World",
+                label = list(
+                  enabled = TRUE),
+                color = "#b32704",
+                negativeColor = "#199fa8",
+                threshold = 0,
+                yAxis = 2) |> 
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: WHO",
+    href = "https://bzigterman.com/interactive/covid_death_acceleration.html") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/covid_death_acceleration.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 
 # make web text ----
 ## covid ----
@@ -527,11 +614,8 @@ This chart measures how quickly the average number of new cases is changing, or 
 ","
 ## Death Acceleration
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/covid_death_acceleration.html\" width=\"100%\" height=\"500\"> 
+</iframe>
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
 
