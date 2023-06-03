@@ -179,7 +179,7 @@ fig <- hchart(cdc_il,
     ),
     tooltip = list(valueDecimals = 0),
     name = "Avg. Deaths",
-    color = "#4e79a7",
+    color = "#000000",
     type = "line",
     yAxis = 1) %>%
   hc_credits(
@@ -293,8 +293,6 @@ saveWidget(widget = fig, file = "interactive/usa_covid.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-
-
 # case acceleration ----
 ### get data ----
 
@@ -311,42 +309,59 @@ owid_new_cases_world <- rio::import(owid_url, format = "csv") |>
   mutate(date = as_date(Date)) %>%
   mutate(location = "World")
 
-owid_new_cases_usa <- rio::import(owid_url, format = "csv") |> 
-  janitor::clean_names() |> 
-  select(date,united_states) |> 
-  mutate(new_cases = united_states) |> 
-  mutate(avg_new_cases = rollmean(new_cases, k = 7, 
-                                  fill = NA, align = "right")) |> 
-  mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "United States")
-
 ### merge data ----
-combined_cases <- full_join(owid_new_cases_usa, owid_new_cases_world) |> 
+combined_cases <-  owid_new_cases_world |> 
   select(location, Date,pct_change_new_cases)
 
-### set variables ----
-acceleration_weekday <- wday(tail(owid_new_cases_world$Date,1), label = TRUE, abbr = FALSE)
-acceleration_usa <- round(100*tail(owid_new_cases_usa$pct_change_new_cases,1), digits = 0)
-acceleration_world <- round(100*tail(owid_new_cases_world$pct_change_new_cases,1), digits = 0)
+fig <- hchart(combined_cases,
+              type = "line", 
+              hcaes(x = Date,
+                    y = 100*pct_change_new_cases),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueDecimals = 1,
+                             valueSuffix = "{value}%"),
+              connectNulls = TRUE,
+              name = "Case Acceleration",
+              label = list(
+                enabled = TRUE),
+              color = "#b32704",
+              negativeColor = "#199fa8",
+              threshold = 0,
+              yAxis = 0) %>%
+  hc_yAxis(endOnTick = FALSE,
+           min = -100,
+           max = 200,
+           title = list(enabled = FALSE)) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: WHO",
+    href = "https://bzigterman.com/interactive/covid_case_acceleration.html") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
 
-### text ----
-acceleration_text <- paste(
-  "As of ",acceleration_weekday,", the 14-day percent change in average new cases was:
-  
-",
-"- ",acceleration_usa,"% in the United States
-",
-"- ",acceleration_world,"% worldwide",
-"
-",
-sep = ""
-)
+fig
+saveWidget(widget = fig, file = "interactive/covid_case_acceleration.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 # death_acceleration_text ----
 ## Illinois ----
+
 ### get data ----
 
 #### World ----
@@ -376,23 +391,6 @@ owid_new_cases_usa <- rio::import(owid_url, format = "csv") |>
 ### merge data ----
 combined_deaths <- full_join(owid_new_cases_usa, owid_new_deaths_world) %>%
   select(location, Date,pct_change_new_deaths)
-
-acceleration_weekday <- wday(tail(owid_new_deaths_world$Date,1), label = TRUE, abbr = FALSE)
-acceleration_usa <- round(100*tail(owid_new_cases_usa$pct_change_new_deaths,1), digits = 0)
-acceleration_world <- round(100*tail(owid_new_deaths_world$pct_change_new_deaths,1), digits = 0)
-
-### text ----
-death_acceleration_text <- paste(
-  "As of ",acceleration_weekday,", the 14-day percent change in average new deaths was:
-  
-",
-"- ",acceleration_usa,"% in the United States
-",
-"- ",acceleration_world,"% worldwide",
-"
-",
-sep = ""
-)
 
 # make web text ----
 ## covid ----
@@ -434,20 +432,13 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Case Acceleration
 
-",acceleration_text,
-"
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/covid_case_acceleration.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 This chart measures how quickly the average number of new cases is changing, or roughly, the slope of the new-cases charts above. If the case acceleration is positive, then the average number of new cases is increasing. If it is negative, then the average number of new cases is decreasing.
 ","
 ## Death Acceleration
 
-",death_acceleration_text,
-"
 <picture>
   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png\"
           media=\"(min-width: 750px)\">
