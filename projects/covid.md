@@ -27,11 +27,8 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## World
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/world_covid.html" width="100%" height="400"> 
+</iframe>
 
 ## Case Acceleration
 
