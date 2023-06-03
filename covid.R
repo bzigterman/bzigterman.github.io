@@ -134,6 +134,167 @@ champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$
 champaign_month_ago_hospitalized <- 
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 
+
+
+## il ----
+cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL_v2"
+cdc_json <- rio::import(cdc_url, format = "json")
+cdc_il <- cdc_json$us_trend_by_Geography_v2 |> 
+  mutate(Date = as_date(week_ending_date)) |> 
+  select(Date,total_adm_all_covid_confirmed_past_7days,
+         COVID_deaths_weekly) 
+
+fig <- hchart(cdc_il,
+              type = "line", 
+              hcaes(x = Date,
+                    y = total_adm_all_covid_confirmed_past_7days),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueDecimals = 0),
+              connectNulls = TRUE,
+              name = "Avg. Hospitalized",
+              label = list(
+                enabled = TRUE),
+              color = "#d90000",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1,1),
+                                 endOnTick = FALSE,
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = cdc_il,
+    connectNulls = TRUE,
+    hcaes(x = Date,
+          y = COVID_deaths_weekly),
+    label = list(
+      #format = "Wastewater",
+      enabled = TRUE),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    tooltip = list(valueDecimals = 0),
+    name = "Avg. Deaths",
+    color = "#4e79a7",
+    type = "line",
+    yAxis = 1) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: CDC",
+    href = "https://bzigterman.com/interactive/il_covid.html") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/il_covid.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+## usa ----
+cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_USA_v2"
+cdc_json <- rio::import(cdc_url, format = "json")
+cdc_usa <- cdc_json$us_trend_by_Geography_v2 |> 
+  mutate(Date = as_date(week_ending_date)) |> 
+  select(Date,total_adm_all_covid_confirmed_past_7days,
+         COVID_deaths_weekly,percent_pos)
+
+fig <- hchart(cdc_usa,
+              type = "line", 
+              hcaes(x = Date,
+                    y = total_adm_all_covid_confirmed_past_7days),
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueDecimals = 0),
+              connectNulls = TRUE,
+              name = "Avg. Hospitalized",
+              label = list(
+                enabled = TRUE),
+              color = "#d90000",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 3, 
+                                 heights = c(1,1,1),
+                                 endOnTick = FALSE,
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = cdc_usa,
+    connectNulls = TRUE,
+    hcaes(x = Date,
+          y = COVID_deaths_weekly),
+    label = list(
+      #format = "Wastewater",
+      enabled = TRUE),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    tooltip = list(valueDecimals = 0),
+    name = "Avg. Deaths",
+    color = "#000000",
+    type = "line",
+    yAxis = 1) %>%
+  hc_add_series(
+    data = cdc_usa,
+    connectNulls = TRUE,
+    hcaes(x = Date,
+          y = percent_pos),
+    label = list(
+      #format = "Wastewater",
+      enabled = TRUE),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    tooltip = list(valueDecimals = 0,
+                   valueSuffix = "{value}%"),
+    name = "Test Positivity",
+    color = "#35978f",
+    type = "line",
+    yAxis = 2) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: CDC",
+    href = "https://bzigterman.com/interactive/usa_covid.html") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/usa_covid.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
+
 # case acceleration ----
 ### get data ----
 
@@ -255,19 +416,13 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Illinois
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/il_covid.html\" width=\"100%\" height=\"400\"> 
+</iframe>
 
 ## United States
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/usa_covid.html\" width=\"100%\" height=\"500\"> 
+</iframe>
 
 ## World
 
