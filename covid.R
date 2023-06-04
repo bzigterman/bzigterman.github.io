@@ -106,10 +106,10 @@ fig <- hchart(combined,
     zIndex = -3,
     type = "column",
     yAxis = 1)  %>%
-hc_credits(
-  enabled = TRUE,
-  text = "Source: CDC and IWSS",
-  href = "https://bzigterman.com/interactive/champaign_covid.html") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: CDC and IWSS",
+    href = "https://bzigterman.com/interactive/champaign_covid.html") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
@@ -333,7 +333,7 @@ fig <- hchart(owid_new_cases_world,
               ),
               tooltip = list(valueDecimals = 0),
               connectNulls = TRUE,
-              name = "Avg. New Cases",
+              name = "Avg. Cases",
               label = list(
                 enabled = TRUE),
               color = "#B45F06",
@@ -413,7 +413,7 @@ fig <- hchart(combined_cases,
                   enabled = FALSE
                 )
               ),
-              tooltip = list(valueDecimals = 1,
+              tooltip = list(valueDecimals = 0,
                              valueSuffix = "{value}%"),
               connectNulls = TRUE,
               name = "World",
@@ -481,17 +481,28 @@ owid_new_deaths_world <- rio::import(owid_url, format = "csv") |>
   mutate(date = as_date(Date)) %>%
   mutate(location = "World")
 
+new_deaths_combined <- full_join(owid_new_deaths_world,cdc_usa_deaths) |> 
+  full_join(cdc_il_deaths) |> 
+  select(Date,location,pct_change_new_deaths) |> 
+  pivot_wider(names_from = location,
+              values_from = pct_change_new_deaths) |> 
+  janitor::clean_names() |>  
+  fill(world,.direction = "down")|>  
+  fill(united_states,.direction = "down")|>  
+  fill(illinois,.direction = "down") |> 
+  mutate(Date = date)
+
 ## merge data ----
-fig <- hchart(cdc_il_deaths,
+fig <- hchart(new_deaths_combined,
               type = "line", 
               hcaes(x = Date,
-                    y = 100*pct_change_new_deaths),
+                    y = 100*illinois),
               states = list(
                 inactive = list(
                   enabled = FALSE
                 )
               ),
-              tooltip = list(valueDecimals = 1,
+              tooltip = list(valueDecimals = 0,
                              valueSuffix = "{value}%"),
               connectNulls = TRUE,
               name = "Illinois",
@@ -508,16 +519,16 @@ fig <- hchart(cdc_il_deaths,
                                  min = -100,
                                  max = 200,
                                  title = list(enabled = FALSE))) %>%
-  hc_add_series(cdc_usa_deaths,
+  hc_add_series(new_deaths_combined,
                 type = "line", 
                 hcaes(x = Date,
-                      y = 100*pct_change_new_deaths),
+                      y = 100*united_states),
                 states = list(
                   inactive = list(
                     enabled = FALSE
                   )
                 ),
-                tooltip = list(valueDecimals = 1,
+                tooltip = list(valueDecimals = 0,
                                valueSuffix = "{value}%"),
                 connectNulls = TRUE,
                 name = "United States",
@@ -527,16 +538,16 @@ fig <- hchart(cdc_il_deaths,
                 negativeColor = "#199fa8",
                 threshold = 0,
                 yAxis = 1) |> 
-  hc_add_series(owid_new_deaths_world,
+  hc_add_series(new_deaths_combined,
                 type = "line", 
                 hcaes(x = Date,
-                      y = 100*pct_change_new_deaths),
+                      y = 100*world),
                 states = list(
                   inactive = list(
                     enabled = FALSE
                   )
                 ),
-                tooltip = list(valueDecimals = 1,
+                tooltip = list(valueDecimals = 0,
                                valueSuffix = "{value}%"),
                 connectNulls = TRUE,
                 name = "World",
