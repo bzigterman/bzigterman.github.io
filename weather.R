@@ -49,7 +49,7 @@ pirate_hourly <- pirate_forecast_content$hourly$data %>%
 pirate_currently <- pirate_forecast_content$currently
 
 # open meteo ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,apparent_temperature,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,uv_index,apparent_temperature,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
 om <- rio::import(om_url, format = "json")
 om_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -337,7 +337,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = humidity),
                 yAxis = 5) |> 
-  hc_add_series(data = pirate_hourly,
+  hc_add_series(data = om_hourly,
                 type = "line",
                 name = "UV Index",
                 states = list(
@@ -361,7 +361,7 @@ fig <- highchart() |>
                 label = list(
                   enabled = TRUE),
                 hcaes(x = time*1000,
-                      y = uvIndex),
+                      y = uv_index),
                 yAxis = 6) |> 
   hc_yAxis_multiples(create_axis(naxis = 7, 
                                  gridLineColor = "#D9D9D9",
@@ -572,7 +572,7 @@ fig <- highchart() |>
   ) |>
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: NWS, via Open-Meteo and Pirate Weather. Latest data:",now_formatted),
+    text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
   hc_legend(enabled = FALSE) |> 
   hc_chart(plotBackgroundColor = "#E8EEF5",
