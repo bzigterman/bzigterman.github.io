@@ -98,6 +98,11 @@ om_daylight <- om_daily |>
   mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
   arrange(sunriseTime)
 
+om_air_quality_url <- "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=40.11&longitude=-88.21&hourly=us_aqi,us_aqi_pm2_5,us_aqi_pm10,us_aqi_no2,us_aqi_co,us_aqi_o3,us_aqi_so2&timeformat=unixtime&past_days=1&timezone=America%2FChicago"
+om_air_quality_json <- rio::import(om_air_quality_url, format = "json")
+om_air_quality <- as_tibble(om_air_quality_json$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
+
 
 ## rainfall total ----
 om_past24 <- om_hourly |> 
@@ -363,10 +368,38 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = uv_index),
                 yAxis = 6) |> 
-  hc_yAxis_multiples(create_axis(naxis = 7, 
+  hc_add_series(data = om_air_quality,
+                type = "line",
+                name = "AQI",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                tooltip = list(valueDecimals = 1),
+                zones = list(
+                  c(value = 50,
+                    color = "#74C9AC"),
+                  c(value = 100,
+                    color = "#EEE661"),
+                  c(value = 150,
+                    color = "#E5AA55"),
+                  c(value = 200,
+                    color = "#EC5E57"),
+                  c(value = 300,
+                    color = "#891A34"),
+                  c(value = 500,
+                    color = "#73287D")),
+                color = "black",
+                label = list(
+                  enabled = TRUE),
+                hcaes(x = time*1000,
+                      y = us_aqi),
+                yAxis = 7) |> 
+  hc_yAxis_multiples(create_axis(naxis = 8, 
                                  gridLineColor = "#D9D9D9",
                                  gridLineWidth = 2,
-                                 heights = c(2,1,1,1,1,1,1),
+                                 heights = c(2,1,1,1,1,1,1,1),
                                  title = list(text = NULL),
                                  plotLines = list(
                                    list(
@@ -377,10 +410,10 @@ fig <- highchart() |>
                                        zIndex = 1,
                                        value = 32
                                      )
-                                   ),NA,NA,NA,NA,NA,NA
+                                   ),NA,NA,NA,NA,NA,NA,NA
                                  ),
                                  softMax = c(NA,NA,.25,
-                                             NA,20,NA,NA),
+                                             NA,20,NA,NA,NA),
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = c(NA,
@@ -389,11 +422,12 @@ fig <- highchart() |>
                                          100,
                                          NA,
                                          100,
-                                         NA
+                                         NA,NA
                                  ),
                                  min = c(NA,
                                          0,
                                          NA,
+                                         0,
                                          0,
                                          0,
                                          0,
