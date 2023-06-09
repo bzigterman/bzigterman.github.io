@@ -376,7 +376,7 @@ fig <- highchart() |>
                     enabled = FALSE
                   )
                 ),
-                tooltip = list(valueDecimals = 1),
+                tooltip = list(valueDecimals = 0),
                 zones = list(
                   c(value = 50,
                     color = "#74C9AC"),
