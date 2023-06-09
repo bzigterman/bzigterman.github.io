@@ -102,7 +102,9 @@ om_air_quality_url <- "https://air-quality-api.open-meteo.com/v1/air-quality?lat
 om_air_quality_json <- rio::import(om_air_quality_url, format = "json")
 om_air_quality <- as_tibble(om_air_quality_json$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
-
+om_air_quality_now <- om_air_quality |> 
+  filter(datetime <= now(tzone = "America/Chicago")) |> 
+  tail(1)
 
 ## rainfall total ----
 om_past24 <- om_hourly |> 
@@ -709,31 +711,20 @@ write_csv(x = willard_data_update,
           file = "data/willard_weather.csv")
 
 # AQI ----
-aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
-                  champaign_lat,
-                  "&longitude=",
-                  champaign_lon
-                  ,"&distance=25&API_KEY=",
-                  Sys.getenv("AQI_API_KEY"))
-aqi_GET <- GET(aqi_url)
-aqi_status <- status_code(aqi_GET)
-if (aqi_status == 200) {
-  aqi <- as_tibble(content(aqi_GET))
-  aqi_color <- aqi %>% 
-    mutate(color = case_when(
-      CategoryNumber == 1 ~ "🟩",
-      CategoryNumber == 2 ~ "🟨",
-      CategoryNumber == 3 ~ "🟧",
-      CategoryNumber == 4 ~ "🟥",
-      CategoryNumber == 5 ~ "🟪",
-      CategoryNumber == 6 ~ "🟫",
-      CategoryNumber == 7 ~ "") 
-    ) |> 
-    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ",ParameterName," ", color,"\n"))
-  champaign_aqi <- paste0(aqi_color$aqi_plus_text,collapse = "")
-} else {
-  champaign_aqi <- ""
-}
+
+om_air_quality_now <- om_air_quality_now |> 
+  mutate(color = case_when(
+    us_aqi <= 50 ~ "🟩",
+    us_aqi <= 100 ~ "🟨",
+    us_aqi <= 150 ~ "🟧",
+    us_aqi <= 200 ~ "🟥",
+    us_aqi <= 300 ~ "🟪",
+    us_aqi <= 500 ~ "🟫",
+    us_aqi <= 1000 ~ "") 
+  ) |> 
+  mutate(aqi_plus_text = paste0("- ", us_aqi, " AQI ", color,"\n"))
+
+champaign_aqi <- om_air_quality_now$aqi_plus_text
 
 # set variables ----
 champaign_temp <- paste(round(om_currently$temperature),"°", sep = "")
