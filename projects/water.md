@@ -13,7 +13,7 @@ Elevation:
 - 1,055 feet
 - 160 feet above the minimum level
 - 174 feet below the maximum level
-- up 10 feet from a year ago
+- up 11 feet from a year ago
 - down 52 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -22,11 +22,11 @@ Elevation:
 </iframe>
 
 Elevation:
-- 3,575 feet
-- 205 feet above the minimum level
-- 133 feet below the maximum level
+- 3,576 feet
+- 206 feet above the minimum level
+- 132 feet below the maximum level
 - up 38 feet from a year ago
-- down 26 feet from ten years ago
+- down 25 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
