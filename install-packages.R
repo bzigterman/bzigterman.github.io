@@ -23,6 +23,7 @@ install.packages("highcharter")
 install.packages("gtExtras")
 install.packages("jsonlite")
 install.packages("waldo")
+install.packages("baseballr")
 
 install.packages("remotes")
 remotes::install_github("rstudio/webshot2")

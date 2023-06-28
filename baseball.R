@@ -12,8 +12,80 @@ library(highcharter)
 library(htmlwidgets)
 library(svglite)
 library(waldo)
+library(baseballr)
 
 # get data ----
+get_team_records <- function(abbreviation) {
+  records <- bref_team_results(abbreviation, 2023) |> 
+    mutate(game_n = as.numeric( Gm)) |> 
+    mutate(result = case_when(
+      Result == "W" ~ "W",
+      Result == "L" ~ "L",
+      Result == "L-wo" ~ "L",
+      Result == "W-wo" ~ "W",
+    )) |> 
+    separate(Record,c( "wins","losses"),convert = TRUE) |> 
+    mutate(win_pct = wins/game_n) %>%
+    mutate(win_pct_text = if_else(win_pct == 1, 
+                                  paste("1.000"),
+                                  paste0(".",round(win_pct*1000)))) %>%
+    mutate(net_wins = wins-losses) %>%
+    mutate(games_remaining = 162-game_n) |> 
+    mutate(team = case_when(
+      abbreviation == "CHW" ~ "CWS",
+      abbreviation == "KCR" ~ "KC ",
+      abbreviation == "TBR" ~ "TB ",
+      abbreviation == "WSN" ~ "WSH",
+      abbreviation == "SFG" ~ "SF ",
+      abbreviation == "SDP" ~ "SD ",
+      TRUE ~ abbreviation
+    )
+    ) |> 
+    mutate(team_label = if_else(game_n == max(na.omit(game_n)),team,NA))  %>%
+    mutate(win = if_else(result == "W",1,0)) |> 
+    mutate(
+      outcomes = list(
+        tail(na.omit(win),10)
+      )
+    ) 
+}
+
+nym <- bref_team_results("NYM", 2023) 
+mets <- nym |> 
+  mutate(game_n = as.numeric( Gm)) |> 
+  mutate(result = case_when(
+    Result == "W" ~ "W",
+    Result == "L" ~ "L",
+    Result == "L-wo" ~ "L",
+    Result == "W-wo" ~ "W",
+  )) |> 
+  separate(Record,c( "wins","losses"),convert = TRUE) |> 
+  mutate(win_pct = wins/game_n) %>%
+  mutate(win_pct_text = if_else(win_pct == 1, 
+                                paste("1.000"),
+                                paste0(".",round(win_pct*1000)))) %>%
+  mutate(net_wins = wins-losses) %>%
+  mutate(team = case_when(
+    abbreviation == "CHW" ~ "CWS",
+    abbreviation == "KCR" ~ "KC ",
+    abbreviation == "TBR" ~ "TB ",
+    abbreviation == "WSN" ~ "WSH",
+    abbreviation == "SFG" ~ "SF ",
+    abbreviation == "SDP" ~ "SD ",
+    TRUE ~ abbreviation
+  )
+  ) |> 
+  mutate(team_label = if_else(game_n == max(na.omit(game_n)),team,NA))  %>%
+  mutate(win = if_else(result == "W",1,0)) |> 
+  mutate(
+    outcomes = list(
+      tail(na.omit(win),10)
+    )
+  ) 
+
+  
+
+
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
 fivethirtyeight_data <- rio::import(fivethirtyeight_data_url, format = "csv") %>%
   filter(playoff == "" | is.na(playoff)) %>%
@@ -122,7 +194,7 @@ al_central_standings_magic <- al_central_standings %>%
 
 ## al east ----
 
-team1 <- get_team_records("TBD") %>%
+team1 <- get_team_records("TBR") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/139.svg")
 team2 <- get_team_records("BOS") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/111.svg")
@@ -176,7 +248,7 @@ team2 <- get_team_records("OAK") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/133.svg")
 team3 <- get_team_records("SEA") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/136.svg")
-team4 <- get_team_records("ANA") %>%
+team4 <- get_team_records("LAA") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/108.svg")
 team5 <- get_team_records("TEX") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/140.svg")
@@ -271,7 +343,7 @@ team2 <- get_team_records("PHI") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/143.svg")
 team3 <- get_team_records("NYM") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/121.svg")
-team4 <- get_team_records("FLA") %>%
+team4 <- get_team_records("MIA") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/146.svg")
 team5 <- get_team_records("WSN") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/120.svg")
@@ -364,7 +436,7 @@ division_standings <- full_join(al_central_standings_magic, al_east_standings_ma
          games_remaining,
          division_games_behind, division_magic_number, 
          division_elimination_number,division_magic_or_eliminated,
-         last_ten, outcomes, division, division_place, league)
+         outcomes, division, division_place, league)
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -401,7 +473,7 @@ if (length(standings_the_same) > 0) {
 # division standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, outcomes, division, league)
 
 standings_table <- division_standings %>%
   group_by(division) %>%
@@ -420,13 +492,13 @@ standings_table <- division_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, league,last_ten, net_wins,games_remaining,
+  cols_hide(columns = c(win_pct, league, net_wins,games_remaining,
                         division_magic_number,
                         division_elimination_number,
                         division_place)) %>% # hide this until new playoffs figured out
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url, outcomes,games_remaining,
+    columns = c(win_pct_text, logo_url, outcomes,games_remaining,
                 division_magic_or_eliminated)
   ) %>%
   cols_label(
@@ -546,7 +618,7 @@ nl_standings_elim <- nl_standings %>%
 mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
   full_join(division_standings) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, 
-         win_pct_text, games_remaining, last_ten, division, league, 
+         win_pct_text, games_remaining, division, league, 
          league_elimination_number, outcomes, division_place, 
          league_place, division_magic_number)
 
