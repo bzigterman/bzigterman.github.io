@@ -356,8 +356,8 @@ old_standings <- read_csv("data/standings.csv",
                           col_types = cols(
                             league = col_character(),
                             team_label = col_character(),
-                            wins = col_number(),
-                            losses = col_number(),
+                            wins = col_integer(),
+                            losses = col_integer(),
                             win_pct_text = col_character(),
                             games_remaining = col_number()),
                           trim_ws = FALSE
