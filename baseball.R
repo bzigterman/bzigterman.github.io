@@ -1069,7 +1069,7 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 </iframe>
 </div>
 
-<p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
+<p class=\"updated_time\">Source: <a href=\"https://www.baseball-reference.com\">Baseball Reference</a>.</p> 
 
 ",
 sep = ""
