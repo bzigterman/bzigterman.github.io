@@ -359,8 +359,7 @@ old_standings <- read_csv("data/standings.csv",
                             wins = col_number(),
                             losses = col_number(),
                             win_pct_text = col_character(),
-                            games_remaining = col_number(),
-                            last_ten = col_character()),
+                            games_remaining = col_number()),
                           trim_ws = FALSE
 )
 #old_standings <- as_tibble(2)
@@ -368,7 +367,7 @@ standings_check <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
-  select(league, team_label, wins, losses, win_pct_text, games_remaining, last_ten) |> 
+  select(league, team_label, wins, losses, win_pct_text, games_remaining) |> 
   ungroup()
 standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
