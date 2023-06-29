@@ -13,8 +13,61 @@ library(htmlwidgets)
 library(svglite)
 library(waldo)
 library(baseballr)
+library(rvest)
+library(janitor)
 
 # get data ----
+odds_url <- "https://www.baseball-reference.com/leagues/majors/2023-playoff-odds.shtml"
+odds <- read_html(odds_url) |> 
+  html_elements("#playoff_prob_mlb") |> 
+  html_table(header = FALSE,
+             convert = FALSE)
+
+table <- odds[[1]] |> 
+  row_to_names(row_number = 2) |> 
+  clean_names() |> 
+  select(tm,lg,d,wc,div) |> 
+  filter(lg == "AL" | lg == "NL") |> 
+  mutate(team_label = case_when(
+    tm == "Atlanta Braves" ~ "ATL",
+    tm == "Miami Marlins"  ~ "MIA",
+    tm == "Philadelphia Phillies" ~ "PHI",
+    tm == "New York Mets" ~ "NYM",
+    tm == "Washington Nationals" ~ "WSH",
+    tm == "Chicago Cubs" ~ "CHC",
+    tm == "Milwaukee Brewers" ~ "MIL",
+    tm == "Cincinnati Reds" ~ "CIN",
+    tm == "Pittsburgh Pirates" ~ "PIT",
+    tm == "St. Louis Cardinals" ~ "STL",
+    tm == "Los Angeles Dodgers" ~ "LAD",
+    tm == "San Francisco Giants" ~ "SF ",
+    tm == "Arizona Diamondbacks" ~ "ARI",
+    tm == "San Diego Padres" ~ "SD ",
+    tm == "Colorado Rockies" ~ "COL",
+    tm == "Tampa Bay Rays" ~ "TB ",
+    tm == "New York Yankees" ~ "NYY",
+    tm == "Baltimore Orioles" ~ "BAL",
+    tm == "Toronto Blue Jays" ~ "TOR",
+    tm == "Boston Red Sox" ~ "BOS",
+    tm == "Minnesota Twins" ~ "MIN",
+    tm == "Cleveland Guardians" ~ "CLE",
+    tm == "Chicago White Sox" ~ "CWS",
+    tm == "Detroit Tigers" ~ "DET",
+    tm == "Kansas City Royals" ~ "KC ",
+    tm == "Texas Rangers" ~ "TEX",
+    tm == "Houston Astros" ~ "HOU",
+    tm == "Los Angeles Angels" ~ "LAA",
+    tm == "Seattle Mariners" ~ "SEA",
+    tm == "Oakland Athletics" ~ "OAK"
+  )) |> 
+  # mutate(wc = if_else(wc == "",
+  #                       "<0.1%",
+  #                       wc)) |> 
+  # mutate(div = if_else(div == "",
+  #                     "<0.1%",
+  #                     div)) |> 
+  select(team_label,wc,div)
+
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2023) |> 
     mutate(game_n = as.numeric( Gm)) |> 
@@ -337,11 +390,12 @@ nl_west_standings_magic <- nl_west_standings %>%
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
+  full_join(table) |> 
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text,
          games_remaining,
          division_games_behind, division_magic_number, 
-         division_elimination_number,division_magic_or_eliminated,
-         outcomes, division, division_place, league)
+         division_elimination_number,division_magic_or_eliminated,div,
+         outcomes, division, division_place, league) 
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -402,7 +456,7 @@ standings_table <- division_standings %>%
                         division_place)) %>% # hide this until new playoffs figured out
   cols_align(
     align = c("right"),
-    columns = c(win_pct_text, logo_url, outcomes,games_remaining,
+    columns = c(win_pct_text, div,logo_url, outcomes,games_remaining,
                 division_magic_or_eliminated)
   ) %>%
   cols_label(
@@ -415,6 +469,7 @@ standings_table <- division_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     division_magic_or_eliminated = html("M#<br>/E#"),
+    div = "Odds",
     #division_magic_number = "M#",
     #division_elimination_number = "E#",
     outcomes = html("Last 10 Games")
@@ -646,12 +701,13 @@ nl_standings_magic <- mlb_standings %>%
            )
   )
 
-mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
+mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic) |> 
+  full_join(table) 
 
 wild_card_table <- mlb_standings_magic %>%
   select(logo_url, team_label, wins, losses, 
          win_pct,win_pct_text, games_remaining, wc_games_behind,
-         division_or_elim,outcomes, league) %>%
+         division_or_elim,wc,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
@@ -671,7 +727,7 @@ wild_card_table <- mlb_standings_magic %>%
   cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
-    columns = c(win_pct_text, logo_url,
+    columns = c(win_pct_text, logo_url,wc,
                 outcomes, games_remaining, wc_games_behind, 
                 division_or_elim)
   ) %>%
@@ -680,6 +736,7 @@ wild_card_table <- mlb_standings_magic %>%
     team_label = "Team",
     wins = "W",
     losses = "L",
+    wc = "Odds",
     win_pct_text = "Pct",
     games_remaining = "GR",
     wc_games_behind = "GB",
