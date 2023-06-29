@@ -3,7 +3,7 @@ name: autoweather
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   push:
     paths:
       - 'weather.R'
