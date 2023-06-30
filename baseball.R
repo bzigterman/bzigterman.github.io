@@ -19,14 +19,14 @@ library(janitor)
 # get data ----
 odds_url <- "https://www.baseball-reference.com/leagues/majors/2023-playoff-odds.shtml"
 odds <- read_html(odds_url) |> 
-  html_elements("#playoff_prob_mlb") |> 
+  html_element("#playoff_prob_mlb") |> 
   html_table(header = FALSE,
              convert = FALSE)
 
-table <- odds[[1]] |> 
+table <- odds |> 
   row_to_names(row_number = 2) |> 
   clean_names() |> 
-  select(tm,lg,d,post,div) |> 
+  select(tm,lg,d,post,wc,div,lds,lcs,pennant,win_ws) |> 
   filter(lg == "AL" | lg == "NL") |> 
   mutate(team_label = case_when(
     tm == "Atlanta Braves" ~ "ATL",
@@ -60,13 +60,14 @@ table <- odds[[1]] |>
     tm == "Seattle Mariners" ~ "SEA",
     tm == "Oakland Athletics" ~ "OAK"
   )) |> 
-  # mutate(wc = if_else(wc == "",
-  #                       "<0.1%",
-  #                       wc)) |> 
-  # mutate(div = if_else(div == "",
-  #                     "<0.1%",
-  #                     div)) |> 
-  select(team_label,post,div)
+  select(team_label,post,wc,div,lds,lcs,pennant,win_ws) |> 
+  mutate(post = parse_number(post)) |> 
+  mutate(wc = parse_number(wc)) |> 
+  mutate(div = parse_number(div)) |> 
+  mutate(lds = parse_number(lds)) |> 
+  mutate(lcs= parse_number(lcs)) |> 
+  mutate(pennant = parse_number(pennant)) |> 
+  mutate(win_ws = parse_number(win_ws))
 
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2023) |> 
@@ -450,6 +451,16 @@ standings_table <- division_standings %>%
       )
     }
   ) %>%
+  fmt_percent(
+    columns = div,
+    decimals = 1,
+    scale_values = FALSE
+  ) |> 
+  data_color(
+    columns = div,
+    na_color = "#FFFFFF",
+    palette = "Reds"
+  ) |> 
   cols_hide(columns = c(win_pct, league, net_wins,games_remaining,
                         division_magic_number,
                         division_elimination_number,
@@ -731,6 +742,16 @@ wild_card_table <- mlb_standings_magic %>%
                 outcomes, games_remaining, wc_games_behind, 
                 division_or_elim)
   ) %>%
+  fmt_percent(
+    columns = post,
+    decimals = 1,
+    scale_values = FALSE
+  ) |> 
+  data_color(
+    columns = post,
+    na_color = "#FFFFFF",
+    palette = "Reds"
+  ) |> 
   cols_label(
     logo_url = "",
     team_label = "Team",
