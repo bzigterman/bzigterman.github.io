@@ -472,7 +472,7 @@ standings_table <- division_standings %>%
     div = "Odds",
     #division_magic_number = "M#",
     #division_elimination_number = "E#",
-    outcomes = html("Last 10 Games")
+    outcomes = html("Last 10")
   ) %>%
   #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   #opt_row_striping(row_striping = TRUE) %>%
@@ -741,7 +741,7 @@ wild_card_table <- mlb_standings_magic %>%
     games_remaining = "GR",
     wc_games_behind = "GB",
     division_or_elim = "E#",
-    outcomes = html("Last 10 Games")
+    outcomes = html("Last 10")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   tab_options(
