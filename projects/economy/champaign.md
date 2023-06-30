@@ -467,21 +467,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">203</td>
-<td headers="latest" class="gt_row gt_right">155</td>
-<td headers="pct_change" class="gt_row gt_right">−24%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">223</td>
+<td headers="latest" class="gt_row gt_right">186</td>
+<td headers="pct_change" class="gt_row gt_right">−17%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">34.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">39.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">+15%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">36.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">42.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">+17%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">180,000</td>
-<td headers="latest" class="gt_row gt_right">294,000</td>
-<td headers="pct_change" class="gt_row gt_right">+63%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">194,000</td>
+<td headers="latest" class="gt_row gt_right">282,000</td>
+<td headers="pct_change" class="gt_row gt_right">+46%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">2.10</td>
-<td headers="latest" class="gt_row gt_right gt_striped">2.34</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">+12%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">1.84</td>
+<td headers="latest" class="gt_row gt_right gt_striped">1.68</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−9%</td></tr>
   </tbody>
   
   
