@@ -26,7 +26,7 @@ odds <- read_html(odds_url) |>
 table <- odds[[1]] |> 
   row_to_names(row_number = 2) |> 
   clean_names() |> 
-  select(tm,lg,d,wc,div) |> 
+  select(tm,lg,d,post,div) |> 
   filter(lg == "AL" | lg == "NL") |> 
   mutate(team_label = case_when(
     tm == "Atlanta Braves" ~ "ATL",
@@ -66,7 +66,7 @@ table <- odds[[1]] |>
   # mutate(div = if_else(div == "",
   #                     "<0.1%",
   #                     div)) |> 
-  select(team_label,wc,div)
+  select(team_label,post,div)
 
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2023) |> 
@@ -707,7 +707,7 @@ mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic) |>
 wild_card_table <- mlb_standings_magic %>%
   select(logo_url, team_label, wins, losses, 
          win_pct,win_pct_text, games_remaining, wc_games_behind,
-         division_or_elim,wc,outcomes, league) %>%
+         division_or_elim,post,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
@@ -727,7 +727,7 @@ wild_card_table <- mlb_standings_magic %>%
   cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
-    columns = c(win_pct_text, logo_url,wc,
+    columns = c(win_pct_text, logo_url,post,
                 outcomes, games_remaining, wc_games_behind, 
                 division_or_elim)
   ) %>%
@@ -736,7 +736,7 @@ wild_card_table <- mlb_standings_magic %>%
     team_label = "Team",
     wins = "W",
     losses = "L",
-    wc = "Odds",
+    post = "Odds",
     win_pct_text = "Pct",
     games_remaining = "GR",
     wc_games_behind = "GB",
