@@ -458,6 +458,7 @@ standings_table <- division_standings %>%
   ) |> 
   data_color(
     columns = div,
+    domain = c(0,100),
     na_color = "#FFFFFF",
     palette = "Reds"
   ) |> 
@@ -749,6 +750,7 @@ wild_card_table <- mlb_standings_magic %>%
   ) |> 
   data_color(
     columns = post,
+    domain = c(0,100),
     na_color = "#FFFFFF",
     palette = "Reds"
   ) |> 
