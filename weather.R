@@ -1657,6 +1657,7 @@ fig <- highchart() |>
   hc_add_series(data = om_aqi,
                 type = "line",
                 name = "AQI",
+                lineWidth = 5,
                 states = list(
                   inactive = list(
                     enabled = FALSE
@@ -1681,25 +1682,13 @@ fig <- highchart() |>
                   enabled = TRUE),
                 hcaes(x = time*1000,
                       y = us_aqi),
-                yAxis = 7) |> 
+                yAxis = 0) |> 
   hc_yAxis_multiples(create_axis(naxis = 1, 
                                  gridLineColor = "#D9D9D9",
                                  gridLineWidth = 2,
                                  heights = 1,
                                  title = list(text = NULL),
-                                 plotLines = list(
-                                   list(
-                                     list(
-                                       label = list(text = "32°"),
-                                       color = "#527DC7",
-                                       width = 1,
-                                       zIndex = 1,
-                                       value = 32
-                                     )
-                                   ),NA,NA,NA,NA,NA,NA,NA
-                                 ),
-                                 softMax = c(NA,NA,.25,
-                                             NA,20,NA,NA,NA),
+                                 softMax = NA,
                                  endOnTick = FALSE,
                                  startOnTick = FALSE,
                                  max = NA,
@@ -1739,10 +1728,7 @@ fig <- highchart() |>
     enabled = TRUE,
     text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
-  hc_legend(enabled = FALSE) |> 
-  hc_chart(scrollablePlotArea = list(
-    minWidth = 700
-  )) 
+  hc_legend(enabled = FALSE)
 fig
 saveWidget(widget = fig, file = "interactive/aqi_forecast.html",
            selfcontained = FALSE,
