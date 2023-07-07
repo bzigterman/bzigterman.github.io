@@ -1645,94 +1645,63 @@ ggsave("plots/champaign_almanac.png", bg = "white",
 om_aqi_url <- "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=36&longitude=120&hourly=us_aqi&timeformat=unixtime&timezone=Asia%2FSingapore&past_days=1"
 om_aqi_json <- rio::import(om_aqi_url,
                            format = "json")
-om_aqi <- as_tibble( om_aqi_json$hourly)
+om_aqi <- as_tibble( om_aqi_json$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "Asia/Singapore")) |> 
+  na.omit() |> 
+  filter(datetime > now(tzone = "Asia/Singapore")-hours(24))
 
-offset <- 60*(hour(now(tzone = "Asia/Singapore"))-hour(now(tzone = "UTC")) )
-global <- getOption("highcharter.global")
-global$useUTC <- FALSE
-global$timezoneOffset <- offset
-options(highcharter.global = global)
+p <- ggplot(om_aqi,
+            aes(x = datetime,
+                y = us_aqi))+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 0, ymax = 50),
+            fill = "#74C9AC",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 50, ymax = 100),
+            fill = "#EEE661",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 100, ymax = 150),
+            fill = "#E5AA55",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 150, ymax = 200),
+            fill = "#EC5E57",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 200, ymax = 300),
+            fill = "#891A34",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 300, ymax = 500),
+            fill = "#73287D",
+            color = NA)+
+  geom_rect(aes(xmin = min(datetime), 
+                xmax = max(datetime), ymin = 500, ymax = 1250),
+            fill = "black",
+            color = NA)+
+  geom_line(linewidth = 1.5)+
+  geom_vline(xintercept = now(tzone = "Asia/Singapore")) +
+  theme_minimal() +
+  scale_x_datetime(position = "top",
+                   date_labels = "%a") +
+  coord_cartesian(ylim = c(0,1.05*max(om_aqi$us_aqi,
+                                      na.rm = TRUE)),
+                  expand = FALSE)+
+  labs(x = NULL,
+       y = NULL,
+       caption = "Source: NWS, via Open-Meteo") +
+  theme(
+    #axis.text.y = element_text(size = 15),
+    axis.ticks.x = element_line(color = "black")
+  )
 
-fig <- highchart() |> 
-  hc_add_series(data = om_aqi,
-                type = "line",
-                name = "AQI",
-                lineWidth = 5,
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                tooltip = list(valueDecimals = 0),
-                zones = list(
-                  c(value = 50,
-                    color = "#74C9AC"),
-                  c(value = 100,
-                    color = "#EEE661"),
-                  c(value = 150,
-                    color = "#E5AA55"),
-                  c(value = 200,
-                    color = "#EC5E57"),
-                  c(value = 300,
-                    color = "#891A34"),
-                  c(value = 500,
-                    color = "#73287D")),
-                color = "black",
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = us_aqi),
-                yAxis = 0) |> 
-  hc_yAxis_multiples(create_axis(naxis = 1, 
-                                 gridLineColor = "#D9D9D9",
-                                 gridLineWidth = 2,
-                                 heights = 1,
-                                 title = list(text = NULL),
-                                 softMax = NA,
-                                 endOnTick = FALSE,
-                                 startOnTick = FALSE,
-                                 max = NA,
-                                 min = 0
-  )) |> 
-  hc_xAxis(type = "datetime",
-           gridLineColor = "#D9D9D9",
-           gridLineWidth = 1,
-           lineWidth = 0,
-           opposite = TRUE,
-           tickInterval = 24 * 3600 * 1000,
-           plotLines = list(
-             list(
-               label = list(text = "Now"),
-               color = "#595959",
-               width = 1,
-               zIndex = 2,
-               value = as.numeric( now(tzone = "America/Chicago"))*1000
-             )
-           ),
-           dateTimeLabelFormats = list(
-             day = "%A"
-           )
-  )%>%
-  hc_tooltip(shared = TRUE,
-             split = TRUE,
-             crosshairs = TRUE,
-             dateTimeLabelFormats = list(
-               hour = "%A, %b %e, %l%P",
-               minute = "%A, %b %e, %l%P",
-               millisecond = "%A, %b %e, %l%P"
-             )) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) |>
-  hc_credits(
-    enabled = TRUE,
-    text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
-    href = "https://open-meteo.com") |> 
-  hc_legend(enabled = FALSE)
-fig
-saveWidget(widget = fig, file = "interactive/aqi_forecast.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
+p
+ggsave("plots/aqi_forecast.png",
+       width = 3, height = 3,
+       dpi = 320)
+
 
 # geom_segment(data = filter(almanac_data, type == "record"), 
 #              aes(y = min, yend = max)) +
