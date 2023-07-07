@@ -1650,6 +1650,11 @@ om_aqi <- as_tibble( om_aqi_json$hourly) |>
   na.omit() |> 
   filter(datetime > now(tzone = "Asia/Singapore")-hours(24))
 
+now_new <- as_datetime(now())
+now_new_formatted <- strftime(x = now_new, 
+                          tz = "Asia/Singapore",
+                          format = "%I:%M% %p, %B %d")
+
 p <- ggplot(om_aqi,
             aes(x = datetime,
                 y = us_aqi))+
@@ -1691,14 +1696,15 @@ p <- ggplot(om_aqi,
                   expand = FALSE)+
   labs(x = NULL,
        y = NULL,
-       caption = "Source: NWS, via Open-Meteo") +
+       caption = paste("Source: NWS, via Open-Meteo. Latest data:",now_new_formatted)) +
   theme(
-    #axis.text.y = element_text(size = 15),
+    plot.caption = element_text(size = 5),
     axis.ticks.x = element_line(color = "black")
   )
 
 p
 ggsave("plots/aqi_forecast.png",
+       bg = "white",
        width = 3, height = 3,
        dpi = 320)
 
