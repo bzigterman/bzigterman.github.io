@@ -1698,7 +1698,8 @@ p <- ggplot(om_aqi,
        y = NULL,
        caption = paste("Source: NWS, via Open-Meteo. Latest data:",now_new_formatted)) +
   theme(
-    plot.caption = element_text(size = 5),
+    plot.caption = element_text(size = 6,
+                                color = "grey70"),
     axis.ticks.x = element_line(color = "black")
   )
 
