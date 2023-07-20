@@ -8,20 +8,20 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 09:51 AM CT, July 20</p>
+<p class="updated_time"> Latest data: 10:07 AM CT, July 20</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 78°
+- 82°
 - Partly Cloudy
 - 76% humidity
-- 6 mph wind
+- 8 mph wind
 - 43% cloud cover
 - 61 AQI 🟨
-- 0.1 inches of rain expected in the next 72 hours
+- 0.11 inches of rain expected in the next 72 hours
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
