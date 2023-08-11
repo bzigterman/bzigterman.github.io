@@ -16,6 +16,10 @@ webappicon: /weather.png
 <iframe src="/interactive/soil_moisture.html" width="100%" height="400"> 
 </iframe>
 
+## Drought Monitor
+
+<img src="https://droughtmonitor.unl.edu/data/png/current/current_midwest_trd.png" />
+
 ## Latest Freeze Dates
 
 <iframe src="/interactive/latest_freeze_dates.html" width="100%" height="300"> 
