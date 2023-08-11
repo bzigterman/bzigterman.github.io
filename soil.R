@@ -457,7 +457,7 @@ webappicon: /weather.png
 <picture>
   <source srcset=\"https://droughtmonitor.unl.edu/data/png/current/current_midwest_trd.png\"
           media=\"(min-width: 750px)\">
-  <img src=\"https://droughtmonitor.unl.edu/data/png/current/current_midwest_none.png\" />
+  <img src=\"https://droughtmonitor.unl.edu/data/png/current/current_midwest_date.png\" />
 </picture>
 
 ## Latest Freeze Dates
