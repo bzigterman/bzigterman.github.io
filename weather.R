@@ -49,7 +49,7 @@ pirate_hourly <- pirate_forecast_content$hourly$data %>%
 pirate_currently <- pirate_forecast_content$currently
 
 # open meteo ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,uv_index,apparent_temperature,relativehumidity_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,uv_index,apparent_temperature,relativehumidity_2m,dewpoint_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
 om <- rio::import(om_url, format = "json")
 om_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -74,6 +74,8 @@ om_hourly <- as_tibble( om$hourly) |>
                             windgusts_10m,
                             NA)) |> 
   select(!windgusts_10m) |> 
+  mutate(dewPoint = dewpoint_2m) |> 
+  select(!dewpoint_2m) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
   mutate(rain = if_else(rain == 0,NA,rain)) |> 
   mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
@@ -330,7 +332,7 @@ fig <- highchart() |>
                 yAxis = 4) |> 
   hc_add_series(data = om_hourly,
                 type = "line",
-                name = "Humidity",
+                name = "Dew Point",
                 connectNulls = TRUE,
                 states = list(
                   inactive = list(
@@ -338,11 +340,19 @@ fig <- highchart() |>
                   )
                 ),
                 color = "#3288bd",
-                tooltip = list(valueSuffix = "%"),
+                zones = list(
+                  c(value = 55,
+                    color = "#4C9329"),
+                  c(value = 65,
+                    color = "#F4E54C"),
+                  c(value = 1000,
+                    color = "#E7652B")),
+                tooltip = list(valueSuffix = "°",
+                               valueDecimals = 0),
                 label = list(
                   enabled = TRUE),
                 hcaes(x = time*1000,
-                      y = humidity),
+                      y = dewPoint),
                 yAxis = 5) |> 
   hc_add_series(data = om_hourly,
                 type = "line",
@@ -423,7 +433,7 @@ fig <- highchart() |>
                                          NA,
                                          100,
                                          NA,
-                                         100,
+                                         NA,
                                          NA,NA
                                  ),
                                  min = c(NA,
@@ -431,7 +441,7 @@ fig <- highchart() |>
                                          NA,
                                          0,
                                          0,
-                                         0,
+                                         NA,
                                          0,
                                          0
                                  ))) |> 
