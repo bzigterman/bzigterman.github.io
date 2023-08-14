@@ -739,6 +739,11 @@ champaign_aqi <- om_air_quality_now$aqi_plus_text
 # set variables ----
 champaign_temp <- paste(round(om_currently$temperature),"°", sep = "")
 champaign_humidity <- paste(100*pirate_currently$humidity,"%",sep = "")
+champaign_dewpoint_helper <- om_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  head(1) 
+champaign_dewpoint  <- paste0(round(champaign_dewpoint_helper$dewPoint),
+         "°")
 champaign_desc <- pirate_currently$summary
 champaign_wind_speed <- paste(round(om_currently$windspeed),"mph")
 champaign_precip <- case_when(
@@ -1797,6 +1802,7 @@ webappicon: /weather.png
 Currently:
 
 - ",champaign_temp,"
+- ",champaign_dewpoint," dew point
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
