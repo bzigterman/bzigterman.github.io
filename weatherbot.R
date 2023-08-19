@@ -16,242 +16,177 @@ champaign_lon <- -88.24039
 
 # get data ----
 
-# pirate api ----
-Sys.getenv("PIRATE_WEATHER")
+# open meteo ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m,uv_index,apparent_temperature,relativehumidity_2m,weathercode,dewpoint_2m,precipitation_probability,precipitation,rain,showers,snowfall,snow_depth,cloudcover,windspeed_10m,windgusts_10m&daily=sunrise,sunset&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago")
+om <- rio::import(om_url, format = "json")
+om_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  mutate(rain = rain + showers) |> 
+  select(!showers) |> 
+  mutate(precipProbability = precipitation_probability) |> 
+  mutate(precipProbability = if_else(time < now(tzone = "America/Chicago"),
+                                     NA,
+                                     precipProbability)) |> 
+  select(!precipitation_probability) |> 
+  mutate(temperature = temperature_2m) |> 
+  select(!temperature_2m) |> 
+  mutate(humidity = relativehumidity_2m) |> 
+  select(!relativehumidity_2m) |> 
+  mutate(precipAccumulation = precipitation) |> 
+  select(!precipitation) |> 
+  mutate(cloudCover = cloudcover) |> 
+  select(!cloudcover) |> 
+  mutate(windSpeed = windspeed_10m) |> 
+  select(!windspeed_10m) |> 
+  mutate(windGust = if_else(windgusts_10m - windSpeed > 10,
+                            windgusts_10m,
+                            NA)) |> 
+  select(!windgusts_10m) |> 
+  mutate(dewPoint = dewpoint_2m) |> 
+  select(!dewpoint_2m) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) |> 
+  mutate(rain = if_else(rain == 0,NA,rain)) |> 
+  mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
+  mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth)) |> 
+  mutate(
+    apparent_temperature = 
+      case_when(
+        apparent_temperature - temperature > 10 ~ apparent_temperature,
+        apparent_temperature - temperature < -10 ~ apparent_temperature,
+        .default = NA
+      )) |> 
+  mutate(weathercode_text = case_when(
+    weathercode == 0    ~ "Clear sky",
+    weathercode == 1    ~ "Mainly clear",
+    weathercode == 2    ~ "Partly cloudy",
+    weathercode == 3    ~ "Overcast",
+    weathercode == 45   ~ "Fog",
+    weathercode == 48   ~ "Depositing rime fog",
+    weathercode == 51   ~ "Light drizzle",
+    weathercode == 53   ~ "Moderate drizzle",
+    weathercode == 55   ~ "Dense drizzle",
+    weathercode == 56   ~ "Light freezing drizzle",
+    weathercode == 57   ~ "Dense freezing drizzle",
+    weathercode == 61   ~ "Slight rain",
+    weathercode == 63   ~ "Moderate rain",
+    weathercode == 65   ~ "Heavy rain",
+    weathercode == 66   ~ "Light freezing rain",
+    weathercode == 67   ~ "Heavy freezing rain",
+    weathercode == 71   ~ "Slight snow",
+    weathercode == 73   ~ "Moderate snow",
+    weathercode == 75   ~ "Heavy snow",
+    weathercode == 77   ~ "Snow grains",
+    weathercode == 80   ~ "Slight rain showers",
+    weathercode == 81   ~ "Moderate rain showers",
+    weathercode == 82   ~ "Heavy rain showers",
+    weathercode == 85   ~ "Slight snow showers",
+    weathercode == 86   ~ "Heavy snow showers",
+    weathercode == 95   ~ "Slight or moderate thunderstorm",
+    weathercode == 96   ~ "Thunderstorm with slight hail",
+    weathercode == 99   ~ "Thunderstorm with heavy hail",
+    .default = ""
+  ))
+om_currently <- as_tibble( om$current_weather )|> 
+  mutate(weathercode_text = case_when(
+    weathercode == 0    ~ "Clear sky",
+    weathercode == 1    ~ "Mainly clear",
+    weathercode == 2    ~ "Partly cloudy",
+    weathercode == 3    ~ "Overcast",
+    weathercode == 45   ~ "Fog",
+    weathercode == 48   ~ "Depositing rime fog",
+    weathercode == 51   ~ "Light drizzle",
+    weathercode == 53   ~ "Moderate drizzle",
+    weathercode == 55   ~ "Dense drizzle",
+    weathercode == 56   ~ "Light freezing drizzle",
+    weathercode == 57   ~ "Dense freezing drizzle",
+    weathercode == 61   ~ "Slight rain",
+    weathercode == 63   ~ "Moderate rain",
+    weathercode == 65   ~ "Heavy rain",
+    weathercode == 66   ~ "Light freezing rain",
+    weathercode == 67   ~ "Heavy freezing rain",
+    weathercode == 71   ~ "Slight snow",
+    weathercode == 73   ~ "Moderate snow",
+    weathercode == 75   ~ "Heavy snow",
+    weathercode == 77   ~ "Snow grains",
+    weathercode == 80   ~ "Slight rain showers",
+    weathercode == 81   ~ "Moderate rain showers",
+    weathercode == 82   ~ "Heavy rain showers",
+    weathercode == 85   ~ "Slight snow showers",
+    weathercode == 86   ~ "Heavy snow showers",
+    weathercode == 95   ~ "Slight or moderate thunderstorm",
+    weathercode == 96   ~ "Thunderstorm with slight hail",
+    weathercode == 99   ~ "Thunderstorm with heavy hail",
+    .default = ""
+  ))
+om_daily <- as_tibble( om$daily)
 
-pirate_url <- paste0("https://api.pirateweather.net/forecast/",
-                     Sys.getenv("PIRATE_WEATHER"),"/",
-                     champaign_lat,",",champaign_lon,
-                     "?exclude=minutely,alerts&extend=hourly")
-pirate_forecast <- GET(pirate_url)
-pirate_status <- status_code(pirate_forecast)
-pirate_status
-pirate_forecast_content <- content(pirate_forecast)
-pirate_currently <- pirate_forecast_content$currently
-pirate_hourly <- pirate_forecast_content$hourly$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(time >= now(tzone = "America/Chicago"))
-pirate_daily <- pirate_forecast_content$daily$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) |> 
-  filter(time >= now(tzone = "America/Chicago"))
-
-pirate_history_url <- paste0("https://api.pirateweather.net/forecast/",
-                             Sys.getenv("PIRATE_WEATHER"),"/",
-                             champaign_lat,",",champaign_lon,
-                             ",-86400?exclude=minutely,alerts")
-pirate_history <- GET(pirate_history_url)
-pirate_history_status <- status_code(pirate_history)
-pirate_history_status
-pirate_history_content <- content(pirate_history)
-pirate_history_hourly <-  pirate_history_content$hourly$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |>
-  mutate(time = as_datetime(time, tz = "America/Chicago")) %>%
-  filter(time < now(tzone = "America/Chicago"))
-pirate_history_daily <- pirate_history_content$daily$data %>%
-  map(as_tibble) %>%
-  reduce(bind_rows) |> 
-  mutate(time = as_datetime(time, tz = "America/Chicago")) 
-
-pirate_daylight <- full_join(pirate_daily,pirate_history_daily) %>%
-  select(sunriseTime, sunsetTime) %>%
-  unique() %>%
+om_daylight <- om_daily |> 
+  select(sunrise, sunset) |> 
+  mutate(sunriseTime = sunrise) |> 
+  mutate(sunsetTime = sunset) |> 
   mutate(top = Inf) %>%
   mutate(bottom = -Inf) %>%
-  mutate(sunrise = as_datetime(sunriseTime, tz = "America/Chicago")) %>%
-  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago"))
+  mutate(sunrise = as_datetime(sunriseTime, tz = "America/Chicago")) |> 
+  mutate(sunset = as_datetime(sunsetTime, tz = "America/Chicago")) |> 
+  arrange(sunriseTime)
 
-pirate_champaign <- full_join(pirate_hourly,pirate_history_hourly) |> 
-  mutate(precipProbability = 100*precipProbability) |> 
-  filter(time > now(tzone = "America/Chicago"))
-pirate_champaign_longer <- pirate_champaign |> 
-  select(time,summary,precipProbability,precipAccumulation,precipType,
-         temperature,windSpeed) |> 
-  pivot_longer(!c(time,summary,precipType),
-               names_to = "names",
-               values_to = "values") |> 
-  mutate(names = recode_factor(names, 
-                               "temperature"        = "°F",
-                               "precipProbability"  = "Precip%",
-                               "precipAccumulation" = "Precip.",
-                               "windSpeed"          = "Wind"))
+om_air_quality_url <- "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=40.11&longitude=-88.21&hourly=us_aqi,us_aqi_pm2_5,us_aqi_pm10,us_aqi_no2,us_aqi_co,us_aqi_o3,us_aqi_so2&timeformat=unixtime&past_days=1&timezone=America%2FChicago"
+om_air_quality_json <- rio::import(om_air_quality_url, format = "json")
+om_air_quality <- as_tibble(om_air_quality_json$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) 
+om_air_quality_now <- om_air_quality |> 
+  filter(datetime <= now(tzone = "America/Chicago")) |> 
+  tail(1)
 
-p <- ggplot()+
-  geom_rect(data = pirate_daylight,
-            aes(xmin = sunrise, xmax = sunset,
-                ymin = bottom, ymax = top),
-            #color = "#FFFFaf",
-            fill = "#FFFFe2",
-            alpha = .8) +
-  geom_line(data = pirate_champaign_longer, aes(x = time,
-                                                y = values,
-                                                color = names)) +
-  geom_vline(xintercept = now(tzone = "America/Chicago")) +
-  facet_wrap(~ names, scales = "free_y",
-             ncol = 1,
-             strip.position = "left") +
-  labs(caption = "Source: NWS") +
-  xlab(NULL) +
-  ylab(NULL) +
-  coord_cartesian(xlim = c(min(pirate_champaign_longer$time),
-                           max(pirate_champaign_longer$time))) +
-  scale_y_continuous(position = "right") +
-  scale_x_datetime(expand = c(0,0),
-                   date_labels = "%a",
-                   date_breaks = "1 day",
-                   position = "top",
-                   timezone = "America/Chicago") +
-  theme(axis.ticks.y = element_blank(),
-        panel.grid = element_blank(),
-        panel.background = element_rect("#DAE3ED"),
-        legend.position = "none",
-        panel.grid.major.y = element_line(colour = "grey85"),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
-p
+## rainfall total ----
+om_past24 <- om_hourly |> 
+  filter(time < now(tzone = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) 
 
-# save to a temp file
-file <- tempfile( fileext = ".png")
-ggsave( file, plot = p, device = "png", dpi = 320, 
-        width = 2.5, height = 3.1)
+rainfall <- round(sum(om_past24$rain, na.rm = TRUE),2)
+snowfall <- round(sum(om_past24$snowfall, na.rm = TRUE),2)
 
-### nws ----
-# nws scraping ----
-willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
-willard_html <- read_html(willard_url) %>%
-  html_table()
-willard_clean <- willard_html[[4]] %>%
-  tail(-2) %>%
-  head(-3) %>%
-  clean_names()
-colnames(willard_clean)[2] <- "time"
+om_3day_forecast <- om_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  filter(time < now(tzone = "America/Chicago")+days(3)) 
 
-willard_cleaner <- willard_clean %>%
-  mutate(date = as.numeric(date)) %>%
-  mutate(visibility = as.numeric(vis_mi)) %>%
-  mutate(temp = as.numeric(temperature_o_f)) %>%
-  mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
-  mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
-  mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
-  mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-  select(date,time,weather,temp, humidity, precip_one_hour)
-
-latest_date <- willard_cleaner$date[[1]]
-latest_month <- month(today(tzone = "America/Chicago"))
-
-willard <- willard_cleaner %>%
-  mutate(year_text = paste0(
-    if_else(latest_month == 1 & date <= 3,
-            year(today(tzone = "America/Chicago"))-1,
-            year(today(tzone = "America/Chicago"))))) %>%
-  mutate(
-    month_text = if_else(
-      latest_date <= 3 & date > 20,
-      month(today(tzone = "America/Chicago"))-1,
-      month(today(tzone = "America/Chicago")))) %>%
-  mutate(
-    month_text = if_else(
-      month_text == 0,
-      12,
-      month_text)) %>%
-  mutate(date_text = 
-           paste0(
-             year_text,
-             "-",
-             month_text,
-             "-",
-             date," ",
-             time)) %>%
-  mutate(date = ymd_hm(date_text)) %>%
-  select(date,weather,temp, humidity, precip_one_hour)
-
-
-willard_his_los <- willard_clean %>%
-  mutate(temp_six_hour_hi = as.numeric(temperature_o_f_3)) %>%
-  mutate(temp_six_hour_lo = as.numeric(temperature_o_f_4)) %>%
-  mutate(date = as.numeric(date)) %>%
-  mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-                              if_else(latest_date <= 3 & date >20,
-                                      month(today(tzone = "America/Chicago"))-1,
-                                      month(today(tzone = "America/Chicago"))),
-                              "-",
-                              date," ",
-                              time),
-                       tz = "US/Central")) %>%
-  select(date,temp_six_hour_hi,temp_six_hour_lo) %>%
-  mutate(day = date(date)) %>%
-  group_by(day) |> 
-  summarise(temp_six_hour_hi)
-
-
-champaign_rain <- sum(head(willard$precip_one_hour,24), na.rm = TRUE)
-champaign_rain_text <- ifelse(champaign_rain > 0, 
-                              paste0("- ",champaign_rain," inches of precipitation in the past 24 hours\n"),
-                              "")
-
-### rainfall total ----
-pirate_rain <- pirate_history_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
-  filter(precipType == "rain")
-pirate_snow <- pirate_history_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
-  filter(precipType == "snow")
-
-rainfall <- round(sum(pirate_rain$precipAccumulation),2)
-snowfall <- round(sum(pirate_snow$precipAccumulation),2)
-
-pirate_rain_forecast <- pirate_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
-  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
-  filter(precipType == "rain")
-pirate_snow_forecast <- pirate_hourly |> 
-  select(time,precipAccumulation,precipType) |> 
-  filter(time < now(tzone = "America/Chicago")+days(3)) |> 
-  filter(precipType == "snow")
-
-rainfall_forecast <- round(sum(pirate_rain_forecast$precipAccumulation),2)
-snowfall_forecast <- round(sum(pirate_snow_forecast$precipAccumulation),2)
+rainfall_forecast <- round(sum(om_3day_forecast$rain, na.rm = TRUE),2)
+snowfall_forecast <- round(sum(om_3day_forecast$snowfall, na.rm = TRUE),2)
 
 # mastodon api setup ----
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
 verify_envvar(verbose = TRUE)
 
 # AQI ----
-aqi_url <- paste0("https://www.airnowapi.org/aq/observation/latLong/current/?format=text/csv&latitude=",
-                  champaign_lat,
-                  "&longitude=",
-                  champaign_lon
-                  ,"&distance=25&API_KEY=",
-                  Sys.getenv("AQI_API_KEY"))
-aqi_GET <- GET(aqi_url)
-aqi_status <- status_code(aqi_GET)
-if (aqi_status == 200) {
-  aqi <- as_tibble(content(aqi_GET))
-  aqi_color <- aqi %>% 
-    mutate(color = case_when(
-      CategoryNumber == 1 ~ "🟩",
-      CategoryNumber == 2 ~ "🟨",
-      CategoryNumber == 3 ~ "🟧",
-      CategoryNumber == 4 ~ "🟥",
-      CategoryNumber == 5 ~ "🟪",
-      CategoryNumber == 6 ~ "🟫",
-      CategoryNumber == 7 ~ "") 
-    ) |> 
-    mutate(aqi_plus_text = paste0("- ", AQI, " AQI ",ParameterName," ", color,"\n"))
-  champaign_aqi <- paste0(aqi_color$aqi_plus_text,collapse = "")
-} else {
-  champaign_aqi <- ""
-}
+
+om_air_quality_now <- om_air_quality_now |> 
+  mutate(color = case_when(
+    us_aqi <= 50 ~ "🟩",
+    us_aqi <= 100 ~ "🟨",
+    us_aqi <= 150 ~ "🟧",
+    us_aqi <= 200 ~ "🟥",
+    us_aqi <= 300 ~ "🟪",
+    us_aqi <= 500 ~ "🟫",
+    us_aqi <= 1000 ~ "") 
+  ) |> 
+  mutate(aqi_plus_text = paste0("- ", us_aqi, " AQI ", color,"\n"))
+
+champaign_aqi <- om_air_quality_now$aqi_plus_text
+
 
 # set variables ----
-champaign_temp <- paste(round(pirate_currently$temperature),"°", sep = "")
-champaign_humidity <- paste(100*pirate_currently$humidity,"%",sep = "")
-champaign_desc <- pirate_currently$summary
-champaign_wind_speed <- paste(round(pirate_currently$windSpeed),"mph")
+champaign_temp <- paste(round(om_currently$temperature),"°", sep = "")
+champaign_humidity_helper <- om_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  head(1) 
+champaign_humidity <- paste(champaign_humidity_helper$humidity,"%",sep = "")
+champaign_dewpoint_helper <- om_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  head(1) 
+champaign_dewpoint  <- paste0(round(champaign_dewpoint_helper$dewPoint),
+                              "°")
+champaign_desc <- om_currently$weathercode_text
+champaign_wind_speed <- paste(round(om_currently$windspeed),"mph")
 champaign_precip <- case_when(
   rainfall > 0 && snowfall > 0   ~ paste("-",rainfall,"inches of rain and",snowfall,"inches of snow in the past 24 hours\n"),
   rainfall > 0 && snowfall == 0  ~ paste("-",rainfall,"inches of rain in the past 24 hours\n"),
@@ -263,12 +198,17 @@ champaign_precip_forecast <- case_when(
   rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
   snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
-champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
+champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
 # radar
 radar <- "https://radar.weather.gov/ridge/standard/KILX_loop.gif"
 radar_img <- tempfile( fileext = "gif")
 download.file(url = radar, destfile = radar_img)
+
+# webcam
+webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4011007_-8824329_1_N.jpg"
+webcam_img <- tempfile(fileext = "jpg")
+download.file(url = webcam_url, destfile = webcam_img)
 
 # text ----
 now <- as_datetime(now())
@@ -284,28 +224,26 @@ text <- head( paste0(
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-",champaign_aqi,"",champaign_rain_text,"",champaign_precip_forecast,"
+",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
 
-More charts: https://bzigterman.com/projects/weather"))
+Charts: https://bzigterman.com/projects/weather"))
 text
 
 if (rainfall >= 0 && 
     snowfall >= 0 && 
-    pirate_currently$humidity >= 0 && 
-    pirate_currently$humidity <= 1 && 
-    pirate_currently$temperature >= -50 &&
-    pirate_currently$temperature <= 150 &&
-    pirate_currently$windSpeed >= 0 
+    om_currently$temperature >= -50 &&
+    om_currently$temperature <= 150 &&
+    om_currently$windspeed >= 0 
 ) {
   post_toot(
     status   = text,
     media    = if_else(
       pirate_currently$precipProbability >= .5,
-      radar_img, file),
+      radar_img, webcam_img),
     alt_text = if_else(
       pirate_currently$precipProbability >= .5,
       "GIF of the radar for Illinois",
-      "Line chart with today's weather forecast for Champaign, Illinois"))
+      "Webcam from Champaign, Illinois"))
 }
 
 
