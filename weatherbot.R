@@ -238,10 +238,10 @@ if (rainfall >= 0 &&
   post_toot(
     status   = text,
     media    = if_else(
-      pirate_currently$precipProbability >= .5,
+      champaign_humidity_helper$precipProbability >= 50,
       radar_img, webcam_img),
     alt_text = if_else(
-      pirate_currently$precipProbability >= .5,
+      champaign_humidity_helper$precipProbability >= 50,
       "GIF of the radar for Illinois",
       "Webcam from Champaign, Illinois"))
 }
