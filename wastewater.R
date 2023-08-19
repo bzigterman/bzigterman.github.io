@@ -14,13 +14,18 @@ iwss <- iwss_download %>%
                                         fill = NA,
                                         align = "right")) |> 
   mutate(influenza_a_avg = zoo::rollmean(influenza_a,
-                                        k = 5,
-                                        fill = NA,
-                                        align = "right")) |> 
+                                         k = 5,
+                                         fill = NA,
+                                         align = "right")) |> 
   mutate(influenza_b_avg = zoo::rollmean(influenza_b,
-                                          k = 5,
-                                          fill = NA,
-                                          align = "right"))
+                                         k = 5,
+                                         fill = NA,
+                                         align = "right")) |> 
+  mutate(rsv_avg = zoo::rollmean(rsv,
+                                 k = 5,
+                                 fill = NA,
+                                 align = "right"))
+
 
 fig <- hchart(iwss,
               type = "line", 
@@ -50,21 +55,21 @@ fig <- hchart(iwss,
   #                                min = c(0,
   #                                        0
   #                                ))) %>%
-  hc_add_series(
-    data = iwss,
-    label = list(
-      enabled = TRUE),
-    hcaes(x = Date,
-          y = influenza_a_avg),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    name = "Influenza A",
-    color = "blue",
-    type = "line",
-    yAxis = 0) %>%
+hc_add_series(
+  data = iwss,
+  label = list(
+    enabled = TRUE),
+  hcaes(x = Date,
+        y = influenza_a_avg),
+  states = list(
+    inactive = list(
+      enabled = FALSE
+    )
+  ),
+  name = "Influenza A",
+  color = "blue",
+  type = "line",
+  yAxis = 0) %>%
   hc_add_series(
     data = iwss,
     label = list(
@@ -118,6 +123,36 @@ fig <- hchart(iwss,
     enableMouseTracking = FALSE,
     name = "Influenza B",
     color = "#f2e5f2",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = iwss,
+    label = list(
+      enabled = TRUE),
+    hcaes(x = Date,
+          y = rsv_avg),
+    name = "RSV",
+    color = "black",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = iwss,
+    zIndex = -1,
+    hcaes(x = Date,
+          y = rsv),
+    enableMouseTracking = FALSE,
+    name = "RSV",
+    color = "gray",
     states = list(
       inactive = list(
         enabled = FALSE
