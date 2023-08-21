@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 10:23 AM CT, August 21</p>
+<p class="updated_time"> Latest data: 10:35 AM CT, August 21</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -16,9 +16,9 @@ webappicon: /weather.png
 Currently:
 
 - 80°
-- 73° dew point
+- 75° dew point
 - Cloudy
-- 83% humidity
+- 80% humidity
 - 6 mph wind
 - 100% cloud cover
 - 47 AQI 🟩
