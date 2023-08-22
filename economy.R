@@ -241,22 +241,31 @@ gdp_growth <- fredr(series_id = "A191RL1Q225SBEA") %>%
   mutate(change = value) %>%
   select(date, change)
 
-gdp_growth_forecast <- fredr(series_id = "GDPNOW") %>%
+gdp_growth_forecast_atl <- fredr(series_id = "GDPNOW") %>%
+  mutate(change = value) %>%
+  select(date, change) 
+gdp_growth_forecast_stl <- fredr(series_id = "STLENI") %>%
   mutate(change = value) %>%
   select(date, change) 
 
-gdp_growth_data <- full_join(gdp_growth,gdp_growth_forecast,
+
+gdp_growth_data <- full_join(gdp_growth_forecast_stl,gdp_growth_forecast_atl,
                              join_by(date),
-                             suffix = c("_actual","_forecast"))|> 
-  mutate(change = change_actual) |> 
-  mutate(forecast = if_else(is.na(change_actual),
-                            change_forecast,
-                            NA))|>
-  mutate(forecast = round(forecast, digits = 1)) |>
-  select(date, change, forecast)
+                             suffix = c("_stl","_atl"))|> 
+  full_join(gdp_growth,
+            join_by(date)) |> 
+  mutate(change_stl = if_else(is.na(change),
+                              change_stl,
+                              NA))|>
+  mutate(change_atl = if_else(is.na(change),
+                              change_atl,
+                              NA))|>
+  mutate(change_atl = round(change_atl, digits = 1)) |>
+  mutate(change_stl = round(change_stl, digits = 1)) |>
+  select(date, change, change_stl,change_atl) 
 
 data <- full_join(gdp_data, gdp_growth_data) %>%
-  select(date, value, change, forecast) %>%
+  select(date, value, change, change_atl,change_stl) %>%
   mutate(short_date = paste0("Q",quarter(date))) %>%
   mutate(actual_value = value*1000000000)
 
@@ -292,22 +301,23 @@ fig <- hchart(data,
     data = data,
     grouping = FALSE,
     hcaes(x = date,
-          y = forecast),
+          low = change_stl,
+          high = change_atl),
     states = list(
       inactive = list(
         enabled = FALSE
       )
     ),
     name = "Forecast",
-    type = "column",
+    type = "columnrange",
     tooltip = list(valueSuffix = "%"),
-    color = "#bae2e4",
-    negativeColor = "#e0a89a",
+    color = "gray",
+    #negativeColor = "#e0a89a",
     yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. BEA, Atlanta Fed. Latest data:",
+    text = paste("Source: U.S. BEA, St. Louis Fed, Atlanta Fed. Latest data:",
                  tail(data$short_date,1)),
     href = "https://fred.stlouisfed.org/series/GDPC1") %>%
   hc_xAxis(title = list(text = NULL),
