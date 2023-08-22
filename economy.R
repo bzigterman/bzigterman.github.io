@@ -248,24 +248,29 @@ gdp_growth_forecast_stl <- fredr(series_id = "STLENI") %>%
   mutate(change = value) %>%
   select(date, change) 
 
+gdp_growth_forecasts <- full_join(gdp_growth_forecast_atl,
+                                  gdp_growth_forecast_stl) |> 
+  group_by(date) |> 
+  mutate(min = min(change))|> 
+  mutate(max = max(change)) |> 
+  ungroup() |> 
+  select(date,min,max) |> 
+  distinct()
 
-gdp_growth_data <- full_join(gdp_growth_forecast_stl,gdp_growth_forecast_atl,
-                             join_by(date),
-                             suffix = c("_stl","_atl"))|> 
-  full_join(gdp_growth,
-            join_by(date)) |> 
-  mutate(change_stl = if_else(is.na(change),
-                              change_stl,
-                              NA))|>
-  mutate(change_atl = if_else(is.na(change),
-                              change_atl,
-                              NA))|>
-  mutate(change_atl = round(change_atl, digits = 1)) |>
-  mutate(change_stl = round(change_stl, digits = 1)) |>
-  select(date, change, change_stl,change_atl) 
+gdp_growth_data <- full_join(gdp_growth_forecasts,gdp_growth,
+                             join_by(date)) |> 
+  mutate(min = if_else(is.na(change),
+                       min,
+                       NA))|>
+  mutate(max = if_else(is.na(change),
+                       max,
+                       NA))|>
+  mutate(min = round(min, digits = 1)) |>
+  mutate(max = round(max, digits = 1)) |>
+  select(date, change, min,max) 
 
 data <- full_join(gdp_data, gdp_growth_data) %>%
-  select(date, value, change, change_atl,change_stl) %>%
+  select(date, value, change, min,max) %>%
   mutate(short_date = paste0("Q",quarter(date))) %>%
   mutate(actual_value = value*1000000000)
 
@@ -301,8 +306,8 @@ fig <- hchart(data,
     data = data,
     grouping = FALSE,
     hcaes(x = date,
-          low = change_stl,
-          high = change_atl),
+          low = min,
+          high = max),
     states = list(
       inactive = list(
         enabled = FALSE
