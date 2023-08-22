@@ -237,12 +237,26 @@ recent_data <- data %>%
   mutate(short_date = paste0("Q",quarter(date)))
 
 gdp_data <-fredr(series_id = "GDPC1")
-gdp_growth_data <- fredr(series_id = "A191RL1Q225SBEA") %>%
+gdp_growth <- fredr(series_id = "A191RL1Q225SBEA") %>%
   mutate(change = value) %>%
   select(date, change)
 
+gdp_growth_forecast <- fredr(series_id = "GDPNOW") %>%
+  mutate(change = value) %>%
+  select(date, change) 
+
+gdp_growth_data <- full_join(gdp_growth,gdp_growth_forecast,
+                             join_by(date),
+                             suffix = c("_actual","_forecast"))|> 
+  mutate(change = change_actual) |> 
+  mutate(forecast = if_else(is.na(change_actual),
+                            change_forecast,
+                            NA))|>
+  mutate(forecast = round(forecast, digits = 1)) |>
+  select(date, change, forecast)
+
 data <- full_join(gdp_data, gdp_growth_data) %>%
-  select(date, value, change) %>%
+  select(date, value, change, forecast) %>%
   mutate(short_date = paste0("Q",quarter(date))) %>%
   mutate(actual_value = value*1000000000)
 
@@ -260,21 +274,44 @@ fig <- hchart(data,
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = data,
+    grouping = FALSE,
     hcaes(x = date,
           y = change),
     name = "Change",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
     type = "column",
     tooltip = list(valueSuffix = "%"),
     color = "#199fa8",
     negativeColor = "#b32704",
     yAxis = 1) %>%
+  hc_add_series(
+    data = data,
+    grouping = FALSE,
+    hcaes(x = date,
+          y = forecast),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    name = "Forecast",
+    type = "column",
+    tooltip = list(valueSuffix = "%"),
+    color = "#bae2e4",
+    negativeColor = "#e0a89a",
+    yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
+    text = paste("Source: U.S. BEA, Atlanta Fed. Latest data:",
                  tail(data$short_date,1)),
     href = "https://fred.stlouisfed.org/series/GDPC1") %>%
-  hc_xAxis(title = list(text = NULL)) %>%
+  hc_xAxis(title = list(text = NULL),
+           type = "datetime") %>%
   hc_tooltip(
     shared = TRUE
   ) %>%
