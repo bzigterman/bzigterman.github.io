@@ -322,8 +322,7 @@ fig <- hchart(data,
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. BEA, St. Louis Fed, Atlanta Fed. Latest data:",
-                 tail(data$short_date,1)),
+    text = "Source: U.S. BEA, St. Louis Fed, Atlanta Fed",
     href = "https://fred.stlouisfed.org/series/GDPC1") %>%
   hc_xAxis(title = list(text = NULL),
            type = "datetime") %>%
