@@ -220,7 +220,6 @@ text <- head( paste0(
   "Champaign weather at ",now_formatted,":
 
 - ",champaign_temp,"F
-- ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
