@@ -471,9 +471,9 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <td headers="latest" class="gt_row gt_right">185</td>
 <td headers="pct_change" class="gt_row gt_right">−37%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">37.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">43.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">+16%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">40.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">42.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">+5%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
 <td headers="year_ago" class="gt_row gt_right">195,000</td>
 <td headers="latest" class="gt_row gt_right">290,000</td>
