@@ -18,7 +18,7 @@ monthly <- GISTEMP |>
 
 past_year <- monthly |> 
   mutate(j_d = round(rollmean(value, k = 12, 
-                        fill = NA, align = "right"),
+                              fill = NA, align = "right"),
                      digits = 2)) |> 
   drop_na() |> 
   tail(1) |> 
@@ -55,12 +55,29 @@ fig <- hchart(annual,
     href = "https://data.giss.nasa.gov/gistemp/") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_yAxis(title = list(text = ""),
+           softMax = 2.1,
            endOnTick = FALSE,
-           startOnTick = FALSE) |> 
+           startOnTick = FALSE,
+           plotLines = list(
+             list(
+               label = list(text = "Paris Agreement Goal",
+                            align = "left"),
+               color = "#808080",
+               #width = 1.5,
+               value = 2,
+               zIndex = 1),
+             list(
+               label = list(text = "Paris Agreement Stretch Goal",
+                            align = "left",
+                            y = 16),
+               color = "#808080",
+               #width = 1.5,
+               value = 1.5,
+               zIndex = 1))) |> 
   hc_add_theme(
     hc_theme_bloom()
   )
-  
+
 fig
 
 saveWidget(widget = fig, file = "interactive/climate_temp_anomaly.html",
