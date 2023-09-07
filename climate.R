@@ -3,16 +3,32 @@ library(httr)
 library(htmlwidgets)
 library(data.table)
 library(highcharter)
+library(zoo)
 
 url <- "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv"
 GISTEMP <- fread(input = url,
                  na.strings = "***") |> 
   janitor::clean_names() 
 
+monthly <- GISTEMP |> 
+  select(year,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec) |> 
+  pivot_longer(!year) |> 
+  mutate(date = mdy(paste0(name," 01, ",year))) |> 
+  select(date,year,value)
+
+past_year <- monthly |> 
+  mutate(j_d = round(rollmean(value, k = 12, 
+                        fill = NA, align = "right"),
+                     digits = 2)) |> 
+  drop_na() |> 
+  tail(1) |> 
+  select(year,j_d)
 
 annual_url <- "https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.csv"
 annual <- GISTEMP |> 
-  select(year, j_d)
+  select(year, j_d) |> 
+  full_join(past_year) |> 
+  drop_na()
 
 fig <- hchart(annual,
               type = "column", 
