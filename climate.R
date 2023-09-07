@@ -51,7 +51,7 @@ fig <- hchart(annual,
               threshold = 0) |> 
   hc_credits(
     enabled = TRUE,
-    text = "Source: GISS",
+    text = "Source: GISS. Note: Latest year includes average of past 12 months.",
     href = "https://data.giss.nasa.gov/gistemp/") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_yAxis(title = list(text = ""),
