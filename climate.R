@@ -14,7 +14,9 @@ monthly <- GISTEMP |>
   select(year,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec) |> 
   pivot_longer(!year) |> 
   mutate(date = mdy(paste0(name," 01, ",year))) |> 
-  select(date,year,value)
+  mutate(this_year = mdy(paste0(name," 01, 2020"))) |> 
+  select(date,year,value, this_year) %>%
+  mutate(short_date = paste(lubridate::month(date, label = TRUE, abbr = FALSE)))
 
 past_year <- monthly |> 
   mutate(j_d = round(rollmean(value, k = 12, 
@@ -28,7 +30,8 @@ annual_url <- "https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Global_Me
 annual <- GISTEMP |> 
   select(year, j_d) |> 
   full_join(past_year) |> 
-  drop_na()
+  drop_na() |> 
+  mutate(j_d = j_d+.26)
 
 fig <- hchart(annual,
               type = "column", 
@@ -51,7 +54,7 @@ fig <- hchart(annual,
               threshold = 0) |> 
   hc_credits(
     enabled = TRUE,
-    text = "Source: GISS. Note: Latest year includes average of past 12 months.",
+    text = "Source: GISS. Note: Latest year includes average of past 12 months. Anomaly compared to pre-industrial levels.",
     href = "https://data.giss.nasa.gov/gistemp/") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_yAxis(title = list(text = ""),
@@ -82,7 +85,6 @@ fig
 saveWidget(widget = fig, file = "interactive/climate_temp_anomaly.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
 
 # make web text ----
 web_text <- paste(
