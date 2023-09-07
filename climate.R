@@ -10,6 +10,16 @@ GISTEMP <- fread(input = url,
                  na.strings = "***") |> 
   janitor::clean_names() 
 
+url <- "https://www.ncei.noaa.gov/pub/data/paleo/pages2k/neukom2019temp/recons/Full_ensemble_median_and_95pct_range.txt"
+historical <- rio::import(url, format = "tsv")|> 
+  janitor::clean_names() |> 
+  mutate(j_d = full_ensemble_median+0.3868) |> 
+  select(year, j_d) |> 
+  filter(year < 1880) |> 
+  mutate(j_d = round(rollmean(j_d, k = 100, 
+                              fill = NA, align = "right"),
+                     digits = 2)) 
+
 monthly <- GISTEMP |> 
   select(year,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec) |> 
   pivot_longer(!year) |> 
@@ -31,15 +41,21 @@ annual <- GISTEMP |>
   select(year, j_d) |> 
   full_join(past_year) |> 
   drop_na() |> 
-  mutate(j_d = j_d+.26)
+  mutate(j_d = j_d+.26) |> 
+  full_join(historical) |> 
+  mutate(date = make_date(year = year,
+                          month = 1,
+                          day = 1)) |> 
+  arrange(date) |> 
+  drop_na()
 
 fig <- hchart(annual,
               type = "column", 
-              hcaes(x = year,
+              hcaes(x = date,
                     y = j_d),
-              label = list(
-                enabled = TRUE),
-              tooltip = list(valueSuffix = "°C"),
+              tooltip = list(valueSuffix = "°C",
+                             valueDecimals = 2,
+                             xDateFormat = "%Y"),
               name = "Anomaly",
               states = list(
                 inactive = list(
@@ -54,9 +70,10 @@ fig <- hchart(annual,
               threshold = 0) |> 
   hc_credits(
     enabled = TRUE,
-    text = "Source: GISS. Note: Latest year includes average of past 12 months. Anomaly compared to pre-industrial levels.",
+    text = "Source: GISS and  NCEI NOAA. Note: Latest year includes average of past 12 months. Anomaly compared to pre-industrial levels.",
     href = "https://data.giss.nasa.gov/gistemp/") %>%
-  hc_xAxis(title = list(text = NULL)) %>%
+  hc_xAxis(title = list(text = NULL),
+           type = "datetime") %>%
   hc_yAxis(title = list(text = ""),
            softMax = 2.1,
            endOnTick = FALSE,
@@ -78,7 +95,13 @@ fig <- hchart(annual,
                zIndex = 1))) |> 
   hc_add_theme(
     hc_theme_bloom()
-  )
+  ) |> 
+  hc_rangeSelector(enabled = TRUE,
+                   inputEnabled = FALSE,
+                   buttons = list(
+                     list(type = 'year', count = 150, text = '150y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 0)
 
 fig
 
