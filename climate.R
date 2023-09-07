@@ -62,15 +62,14 @@ fig <- hchart(annual,
              list(
                label = list(text = "Paris Agreement Goal",
                             align = "left"),
-               color = "#808080",
+               color = "#999999",
                #width = 1.5,
                value = 2,
                zIndex = 1),
              list(
                label = list(text = "Paris Agreement Stretch Goal",
-                            align = "left",
-                            y = 16),
-               color = "#808080",
+                            align = "left"),
+               color = "#999999",
                #width = 1.5,
                value = 1.5,
                zIndex = 1))) |> 
