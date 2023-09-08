@@ -100,7 +100,7 @@ fig <- hchart(annual,
                    inputEnabled = FALSE,
                    buttons = list(
                      list(type = 'year', count = 150, text = '150y'),
-                     list(type = 'all', text = 'All')),
+                     list(type = 'all', text = '2000y')),
                    selected = 0)
 
 fig
