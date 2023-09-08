@@ -11,14 +11,14 @@ GISTEMP <- fread(input = url,
   janitor::clean_names() 
 
 url <- "https://www.ncei.noaa.gov/pub/data/paleo/pages2k/neukom2019temp/recons/Full_ensemble_median_and_95pct_range.txt"
-historical <- rio::import(url, format = "tsv")|> 
-  janitor::clean_names() |> 
-  mutate(j_d = full_ensemble_median+0.3868) |> 
-  select(year, j_d) |> 
-  filter(year < 1880) |> 
-  mutate(j_d = round(rollmean(j_d, k = 100, 
-                              fill = NA, align = "right"),
-                     digits = 2)) 
+# historical <- rio::import(url, format = "tsv")|> 
+#   janitor::clean_names() |> 
+#   mutate(j_d = full_ensemble_median+0.4368) |> 
+#   select(year, j_d) |> 
+#   filter(year < 1880) |> 
+#   mutate(j_d = round(rollmean(j_d, k = 25, 
+#                               fill = NA, align = "right"),
+#                      digits = 2)) 
 
 monthly <- GISTEMP |> 
   select(year,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec) |> 
@@ -42,7 +42,7 @@ annual <- GISTEMP |>
   full_join(past_year) |> 
   drop_na() |> 
   mutate(j_d = j_d+.26) |> 
-  full_join(historical) |> 
+  #full_join(historical) |> 
   mutate(date = make_date(year = year,
                           month = 1,
                           day = 1)) |> 
@@ -70,7 +70,7 @@ fig <- hchart(annual,
               threshold = 0) |> 
   hc_credits(
     enabled = TRUE,
-    text = "Source: GISS and  NCEI NOAA. Note: Latest year includes average of past 12 months. Anomaly compared to pre-industrial levels.",
+    text = "Source: GISS. Note: Latest year includes average of past 12 months. Anomaly compared to pre-industrial levels.",
     href = "https://data.giss.nasa.gov/gistemp/") %>%
   hc_xAxis(title = list(text = NULL),
            type = "datetime") %>%
@@ -95,13 +95,13 @@ fig <- hchart(annual,
                zIndex = 1))) |> 
   hc_add_theme(
     hc_theme_bloom()
-  ) |> 
-  hc_rangeSelector(enabled = TRUE,
-                   inputEnabled = FALSE,
-                   buttons = list(
-                     list(type = 'year', count = 150, text = '150y'),
-                     list(type = 'all', text = '2000y')),
-                   selected = 0)
+  )# |> 
+  # hc_rangeSelector(enabled = TRUE,
+  #                  #inputEnabled = FALSE,
+  #                  buttons = list(
+  #                    list(type = 'year', count = 150, text = '150y'),
+  #                    list(type = 'all', text = '2000y')),
+  #                  selected = 0)
 
 fig
 
