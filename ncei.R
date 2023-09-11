@@ -13,7 +13,8 @@ if (ncei_status == 200) {
 }
 empty_check <- identical(ncei$PRCP, character(0))
 
+if (empty_check == FALSE) {
 write_csv(ncei,
           file = "data/ncei.csv")
-
+}
 
