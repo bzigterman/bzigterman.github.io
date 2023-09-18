@@ -655,38 +655,38 @@ saveWidget(widget = fig, file = "interactive/champaign_weather.html",
 #          precipAccumulation,humidity, precipType)
 
 ## nws scraping ----
-willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
-willard_html <- read_html(willard_url) %>%
-  html_table()
-willard_clean <- willard_html[[4]] %>%
-  tail(-2) %>%
-  head(-3) %>%
-  clean_names()
-colnames(willard_clean)[2] <- "time"
-
-willard_cleaner <- willard_clean %>%
-  mutate(date = as.numeric(date)) %>%
-  mutate(visibility = as.numeric(vis_mi)) %>%
-  mutate(temp = as.numeric(temperature_o_f)) %>%
-  mutate(windSpeed = parse_number(wind_mph)) |> 
-  mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
-  mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
-  mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
-  mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-  select(date,time,windSpeed,weather,temp, humidity, precip_one_hour)
-
-willard <- willard_cleaner %>%
-  mutate(datetime = as_datetime(now(tzone = "America/Chicago")-hours(row_number()),
-                                tz = "America/Chicago")) |> 
-  mutate(temperature = temp) |> 
-  mutate(precipAccumulation = precip_one_hour) |> 
-  mutate(precipAccumulation = if_else(is.na(precipAccumulation),
-                                      0,
-                                      precipAccumulation)) |> 
-  mutate(time = as.numeric(datetime)) |> 
-  mutate(precipType = "Precip.") |>
-  mutate(humidity = humidity/100) |> 
-  select(time,precipType,datetime,weather,temperature, humidity, precipAccumulation,windSpeed)
+# willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
+# willard_html <- read_html(willard_url) %>%
+#   html_table()
+# willard_clean <- willard_html[[4]] %>%
+#   tail(-2) %>%
+#   head(-3) %>%
+#   clean_names()
+# colnames(willard_clean)[2] <- "time"
+# 
+# willard_cleaner <- willard_clean %>%
+#   mutate(date = as.numeric(date)) %>%
+#   mutate(visibility = as.numeric(vis_mi)) %>%
+#   mutate(temp = as.numeric(temperature_o_f)) %>%
+#   mutate(windSpeed = parse_number(wind_mph)) |> 
+#   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
+#   mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
+#   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
+#   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
+#   select(date,time,windSpeed,weather,temp, humidity, precip_one_hour)
+# 
+# willard <- willard_cleaner %>%
+#   mutate(datetime = as_datetime(now(tzone = "America/Chicago")-hours(row_number()),
+#                                 tz = "America/Chicago")) |> 
+#   mutate(temperature = temp) |> 
+#   mutate(precipAccumulation = precip_one_hour) |> 
+#   mutate(precipAccumulation = if_else(is.na(precipAccumulation),
+#                                       0,
+#                                       precipAccumulation)) |> 
+#   mutate(time = as.numeric(datetime)) |> 
+#   mutate(precipType = "Precip.") |>
+#   mutate(humidity = humidity/100) |> 
+#   select(time,precipType,datetime,weather,temperature, humidity, precipAccumulation,windSpeed)
 
 
 # willard_his_los <- willard_clean %>%
@@ -706,19 +706,19 @@ willard <- willard_cleaner %>%
 #   group_by(day) |> 
 #   summarise(temp_six_hour_hi)
 
-willard_data <- read_csv(file = "data/willard_weather.csv") 
-willard_data_update <- willard |> 
-  select(datetime,weather,temperature, humidity, precipAccumulation) |> 
-  mutate(temp = temperature) |> 
-  mutate(precip_one_hour = precipAccumulation) |> 
-  mutate(date = datetime) |> 
-  mutate(humidity = humidity*100) |> 
-  full_join(willard_data) %>%
-  distinct(date, .keep_all = TRUE) %>%
-  arrange(date)
-
-write_csv(x = willard_data_update,
-          file = "data/willard_weather.csv")
+# willard_data <- read_csv(file = "data/willard_weather.csv") 
+# willard_data_update <- willard |> 
+#   select(datetime,weather,temperature, humidity, precipAccumulation) |> 
+#   mutate(temp = temperature) |> 
+#   mutate(precip_one_hour = precipAccumulation) |> 
+#   mutate(date = datetime) |> 
+#   mutate(humidity = humidity*100) |> 
+#   full_join(willard_data) %>%
+#   distinct(date, .keep_all = TRUE) %>%
+#   arrange(date)
+# 
+# write_csv(x = willard_data_update,
+#           file = "data/willard_weather.csv")
 
 # AQI ----
 
