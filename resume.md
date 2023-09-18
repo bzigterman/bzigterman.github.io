@@ -8,7 +8,9 @@ permalink: /resume
 
 2021–present: Reporter, **Law360**
 
-- Write 2–3 articles every day on insurance law
+- Write daily articles and occasional features on insurance law
+- Search court filings for newsworthy article pitches
+- Maintain network of sources on the property insurance beat
 - Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and update it regularly
 
 2016–2021: Reporter, **The Champaign News-Gazette**, Champaign, IL
