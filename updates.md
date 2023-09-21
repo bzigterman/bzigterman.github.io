@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Posts
-permalink: /posts
+title: Updates
+permalink: /updates
 ---
 
 <ul>
