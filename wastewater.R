@@ -10,19 +10,19 @@ iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
   filter(method == 1) |> 
   mutate(sars_cov_2_avg = zoo::rollmean(sars_cov_2,
-                                        k = 5,
+                                        k = 4,
                                         fill = NA,
                                         align = "right")) |> 
   mutate(influenza_a_avg = zoo::rollmean(influenza_a,
-                                         k = 5,
+                                         k = 4,
                                          fill = NA,
                                          align = "right")) |> 
   mutate(influenza_b_avg = zoo::rollmean(influenza_b,
-                                         k = 5,
+                                         k = 4,
                                          fill = NA,
                                          align = "right")) |> 
   mutate(rsv_avg = zoo::rollmean(rsv,
-                                 k = 5,
+                                 k = 4,
                                  fill = NA,
                                  align = "right"))
 
