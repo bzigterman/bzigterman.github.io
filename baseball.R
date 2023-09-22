@@ -916,7 +916,9 @@ hc_al_games <- mlb_standings_magic %>%
   ungroup() %>%
   full_join(al_games) %>%
   group_by(team) %>%
+  #fill(post, .direction = "downup") |> 
   fill(division_or_elim, .direction = "downup") %>%
+  #filter(post > 0) |> 
   select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
@@ -926,7 +928,9 @@ hc_nl_games <- mlb_standings_magic %>%
   ungroup() %>%
   full_join(nl_games) %>%
   group_by(team) %>%
+  #fill(post, .direction = "downup") |> 
   fill(division_or_elim, .direction = "downup") %>%
+  #filter(post > 0) |> 
   select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
@@ -943,7 +947,10 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(enabled = FALSE) %>%
+  hc_legend(enabled = TRUE,
+            align = "right",
+            verticalAlign = "middle",
+            layout = "vertical") %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
@@ -970,7 +977,10 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 )%>%
   hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(enabled = FALSE) %>%
+  hc_legend(enabled = TRUE,
+            align = "right",
+            verticalAlign = "middle",
+            layout = "vertical") %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "",
            endOnTick = FALSE,
