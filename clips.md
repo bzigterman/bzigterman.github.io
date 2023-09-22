@@ -113,8 +113,9 @@ Here's some of my best work:
     <ul>
       {% assign previous_year = current_year %}
     {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date: "%B %e: " }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
   {% endfor %}
-</ul>
+
 
 
