@@ -4,14 +4,6 @@ title: Updates
 permalink: /updates
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      {{ post.date | date: "%B %e, %Y: " }} <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
