@@ -105,18 +105,3 @@ Here's some of my best work:
 * [SVNA strikes again, decorating Harper as "10th circle of hell"](https://web.archive.org/web/20141231191143/http://dailysophist.com/stories/393-svna-strikes-again-decorating-harper-as-10th-circle-of-hell)
 
 
-
-{% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
-    <ul>
-    {% assign date = currentdate %}
-  {% endif %}
-    <li>{{ post.date | date: "%B %e: " }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
-
-
-
