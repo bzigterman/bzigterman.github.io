@@ -105,7 +105,7 @@ Here's some of my best work:
 * [SVNA strikes again, decorating Harper as "10th circle of hell"](https://web.archive.org/web/20141231191143/http://dailysophist.com/stories/393-svna-strikes-again-decorating-harper-as-10th-circle-of-hell)
 
 
-<ul>
+
 {% for post in site.posts %}
   {% assign current_year = post.date | date: "%Y" %}
   {% if current_year != previous_year %}
