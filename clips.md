@@ -104,3 +104,17 @@ Here's some of my best work:
 * [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi](https://web.archive.org/web/20140503004054/http://dailysophist.com/stories/305-eric-holder-and-panelists-gather-to-praise-themselves-and-edward-levi)
 * [SVNA strikes again, decorating Harper as "10th circle of hell"](https://web.archive.org/web/20141231191143/http://dailysophist.com/stories/393-svna-strikes-again-decorating-harper-as-10th-circle-of-hell)
 
+
+<ul>
+{% for post in site.posts %}
+  {% assign current_year = post.date | date: "%Y" %}
+  {% if current_year != previous_year %}
+    <h2>{{ current_year }}</h2>
+    <ul>
+      {% assign previous_year = current_year %}
+    {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
