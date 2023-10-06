@@ -427,100 +427,531 @@ standings_check <- mlb_games %>%
 standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
   write_csv(standings_check,"data/standings.csv")
-}
-
-# division standings ----
-mlb_standings <- mlb_games %>%
-  filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, outcomes, division, league)
-
-standings_table <- division_standings %>%
-  group_by(division) %>%
-  arrange(division,desc(win_pct)) %>%
-  gt() %>%
-  gt_theme_espn() %>%
-  gt_plt_winloss(outcomes, max_wins = 10,
-                 type = "pill",
-                 width = 15) %>%
-  text_transform(
-    locations = cells_body(columns = logo_url),
-    fn = function(x) {
-      web_image(
-        url = x,
-        height = px(12)
+  
+  
+  # division standings ----
+  mlb_standings <- mlb_games %>%
+    filter(!is.na(team_label)) %>%
+    select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, outcomes, division, league)
+  
+  standings_table <- division_standings %>%
+    group_by(division) %>%
+    arrange(division,desc(win_pct)) %>%
+    gt() %>%
+    gt_theme_espn() %>%
+    gt_plt_winloss(outcomes, max_wins = 10,
+                   type = "pill",
+                   width = 15) %>%
+    text_transform(
+      locations = cells_body(columns = logo_url),
+      fn = function(x) {
+        web_image(
+          url = x,
+          height = px(12)
+        )
+      }
+    ) %>%
+    fmt_percent(
+      columns = div,
+      decimals = 1,
+      scale_values = FALSE
+    ) |> 
+    data_color(
+      columns = div,
+      domain = c(0,100),
+      na_color = "#FFFFFF",
+      palette = "Reds"
+    ) |> 
+    cols_hide(columns = c(win_pct, league, net_wins,games_remaining,
+                          division_magic_number,
+                          division_elimination_number,
+                          division_place)) %>% # hide this until new playoffs figured out
+    cols_align(
+      align = c("right"),
+      columns = c(win_pct_text, div,logo_url, outcomes,games_remaining,
+                  division_magic_or_eliminated)
+    ) %>%
+    cols_label(
+      logo_url = "",
+      team_label = "Team",
+      wins = "W",
+      losses = "L",
+      division_games_behind = "GB",
+      games_remaining = "GR",
+      net_wins = html("Games<br>Above<br>.500"),
+      win_pct_text = "Pct",
+      division_magic_or_eliminated = html("M#<br>/E#"),
+      div = "Odds",
+      #division_magic_number = "M#",
+      #division_elimination_number = "E#",
+      outcomes = html("Last 10")
+    ) %>%
+    #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
+    #opt_row_striping(row_striping = TRUE) %>%
+    tab_options(
+      table.width = pct(100),
+      data_row.padding = px(4),
+      table.font.size = px(12)
+    ) %>%
+    # ) # %>%
+    #opt_table_lines(extent = "none") %>%
+    opt_all_caps(all_caps = TRUE)
+  standings_table
+  better_division_standings_table_html <- as_raw_html(standings_table, inline_css = TRUE)
+  # better_divs_division_standings <- gsub("[#][a-z]{10}",
+  #                                        "#division_standings_table", 
+  #                                        x = standings_table_html)
+  # better_division_standings_table_html <- gsub("[\"][a-z]{10}",
+  #                                              "\"division_standings_table",
+  #                                              x = better_divs_division_standings)
+  
+  
+  # games above 500 plots ----
+  standings_interactive <- function(division) {
+    hchart(division, "line", hcaes(x = game_n,
+                                   y = net_wins,
+                                   group = team),
+           animation = FALSE,
+           label = list(
+             enabled = TRUE
+           ),
+           tooltip = list(
+             pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+    ) %>%
+      hc_colors(brewer.pal(9,"Set1")) %>%
+      hc_legend(enabled = FALSE) %>%
+      hc_title(text = tail(division$division,1)) %>%
+      hc_yAxis(title = "",
+               endOnTick = FALSE,
+               startOnTick = FALSE) %>%
+      hc_xAxis(title = "",
+               max = 162) %>%
+      hc_add_theme(
+        hc_theme_bloom()
       )
-    }
+  }
+  
+  al_central_interactive <- standings_interactive(al_central)  
+  saveWidget(widget = al_central_interactive, 
+             file = "interactive/al_central_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  al_east_interactive <- standings_interactive(al_east)  
+  saveWidget(widget = al_east_interactive, 
+             file = "interactive/al_east_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  al_west_interactive <- standings_interactive(al_west)  
+  saveWidget(widget = al_west_interactive, 
+             file = "interactive/al_west_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  
+  nl_central_interactive <- standings_interactive(nl_central)  
+  saveWidget(widget = nl_central_interactive, 
+             file = "interactive/nl_central_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  nl_east_interactive <- standings_interactive(nl_east)  
+  saveWidget(widget = nl_east_interactive, 
+             file = "interactive/nl_east_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  nl_west_interactive <- standings_interactive(nl_west)  
+  saveWidget(widget = nl_west_interactive, 
+             file = "interactive/nl_west_interactive.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  
+  # wild card standings ----
+  
+  al_standings <- al_games %>%
+    filter(!is.na(team_label)) %>%
+    arrange(desc(win_pct)) %>%
+    mutate(league_place = row_number()) 
+  al_standings_elim <- al_standings %>%
+    mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
+    mutate(sixth_place_wins = al_standings$wins[[6]]) %>%
+    mutate(league_elimination_number = if_else(league_place > 6,
+                                               (163 - sixth_place_wins - losses),
+                                               NA))
+  nl_standings <- nl_games %>%
+    filter(!is.na(team_label)) %>%
+    arrange(desc(win_pct)) %>%
+    mutate(league_place = row_number()) 
+  nl_standings_elim <- nl_standings %>%
+    mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
+    mutate(sixth_place_wins = nl_standings$wins[[6]]) %>%
+    mutate(league_elimination_number = if_else(league_place > 6,
+                                               (163 - sixth_place_wins - losses),
+                                               NA))
+  
+  mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
+    full_join(division_standings) %>%
+    select(logo_url, team_label, wins, losses, net_wins, win_pct, 
+           win_pct_text, games_remaining, division, league, 
+           league_elimination_number, outcomes, division_place, 
+           league_place, division_magic_number)
+  
+  al_standings_magic <- mlb_standings %>%
+    filter(league == "AL") %>%
+    mutate(division_leaders = case_when(
+      division_place == 1 & division == "AL Central" ~ "C",
+      division_place == 1 & division == "AL East"    ~ "E",
+      division_place == 1 & division == "AL West"    ~ "W",
+      TRUE                                           ~ "")
+    ) %>%
+    group_by(division_leaders) %>%
+    mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
+    mutate(wild_cardss = 
+             ifelse(division_leaders == "W" | 
+                      division_leaders == "C" | 
+                      division_leaders == "E",
+                    division_leaders,
+                    paste("WC",wild_card_rank,sep="")
+             )) %>%
+    mutate(wild_cards = 
+             ifelse(wild_cardss == "WC1",
+                    "WC",
+                    ifelse(wild_cardss == "WC2",
+                           "WC",
+                           ifelse(wild_cardss == "WC3",
+                                  "WC",
+                                  ifelse(division_magic_number=="✓",
+                                         paste(division_leaders,
+                                               division_magic_number,
+                                               sep=""),
+                                         division_leaders)
+                           )))) %>%
+    ungroup() %>%
+    mutate(second_wc_wins = if_else(wild_cardss == "WC3",
+                                    wins,
+                                    NA)) %>%
+    fill(second_wc_wins, 
+         .direction = "downup") %>%
+    mutate(second_wc_losses = if_else(wild_cardss == "WC3",
+                                      losses,
+                                      NA)) %>%
+    fill(second_wc_losses, 
+         .direction = "downup") %>%
+    mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
+    mutate(league_elim_number = if_else(wild_cards == "",
+                                        (163 - second_wc_wins - losses),
+                                        NA)) %>%
+    mutate(division_or_elim = ifelse(wild_cards != "",
+                                     wild_cards,
+                                     ifelse(league_elim_number <= 0,
+                                            "—",
+                                            league_elim_number))) %>%
+    mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
+    mutate(wc_games_behind = 
+             ifelse(division_leaders == "W" | 
+                      division_leaders == "C" | 
+                      division_leaders == "E",
+                    wild_cards,
+                    (second_wc_net_wins - net_wins)/2
+             )
+    )
+  
+  nl_standings_magic <- mlb_standings %>%
+    filter(league == "NL") %>%
+    mutate(division_leaders = case_when(
+      division_place == 1 & division == "NL Central" ~ "C",
+      division_place == 1 & division == "NL East"    ~ "E",
+      division_place == 1 & division == "NL West"    ~ "W",
+      TRUE                                           ~ "")
+    ) %>%
+    group_by(division_leaders) %>%
+    mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
+    mutate(wild_cardss = 
+             ifelse(division_leaders == "W" | 
+                      division_leaders == "C" | 
+                      division_leaders == "E",
+                    division_leaders,
+                    paste("WC",wild_card_rank,sep="")
+             )) %>%
+    mutate(wild_cards = 
+             ifelse(wild_cardss == "WC1",
+                    "WC",
+                    ifelse(wild_cardss == "WC2",
+                           "WC",
+                           ifelse(wild_cardss == "WC3",
+                                  "WC",
+                                  ifelse(division_magic_number=="✓",
+                                         paste(division_leaders,
+                                               division_magic_number,
+                                               sep=""),
+                                         division_leaders)
+                           )))) %>%
+    ungroup() %>%
+    mutate(second_wc_wins = if_else(wild_cardss == "WC3",
+                                    wins,
+                                    NA)) %>%
+    fill(second_wc_wins, 
+         .direction = "downup") %>%
+    mutate(second_wc_losses = if_else(wild_cardss == "WC3",
+                                      losses,
+                                      NA)) %>%
+    fill(second_wc_losses, 
+         .direction = "downup") %>%
+    mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
+    mutate(league_elim_number = if_else(wild_cards == "",
+                                        (163 - second_wc_wins - losses),
+                                        NA)) %>%
+    mutate(division_or_elim = ifelse(wild_cards != "",
+                                     wild_cards,
+                                     ifelse(league_elim_number <= 0,
+                                            "—",
+                                            league_elim_number))) %>%
+    mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
+    mutate(wc_games_behind = 
+             ifelse(division_leaders == "W" | 
+                      division_leaders == "C" | 
+                      division_leaders == "E",
+                    wild_cards,
+                    (second_wc_net_wins - net_wins)/2
+             )
+    )
+  
+  mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic) |> 
+    full_join(table) 
+  
+  wild_card_table <- mlb_standings_magic %>%
+    select(logo_url, team_label, wins, losses, 
+           win_pct,win_pct_text, games_remaining, wc_games_behind,
+           division_or_elim,post,outcomes, league) %>%
+    group_by(league) %>%
+    arrange(league,desc(win_pct)) %>%
+    gt() %>%
+    gt_theme_espn() %>%
+    gt_plt_winloss(outcomes, max_wins = 10,
+                   type = "pill",
+                   width = 15) %>%
+    text_transform(
+      locations = cells_body(columns = logo_url),
+      fn = function(x) {
+        web_image(
+          url = x,
+          height = px(12)
+        )
+      }
+    ) %>%
+    cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
+    cols_align(
+      align = c("right"),
+      columns = c(win_pct_text, logo_url,post,
+                  outcomes, games_remaining, wc_games_behind, 
+                  division_or_elim)
+    ) %>%
+    fmt_percent(
+      columns = post,
+      decimals = 1,
+      scale_values = FALSE
+    ) |> 
+    data_color(
+      columns = post,
+      domain = c(0,100),
+      na_color = "#FFFFFF",
+      palette = "Reds"
+    ) |> 
+    cols_label(
+      logo_url = "",
+      team_label = "Team",
+      wins = "W",
+      losses = "L",
+      post = "Odds",
+      win_pct_text = "Pct",
+      games_remaining = "GR",
+      wc_games_behind = "GB",
+      division_or_elim = "E#",
+      outcomes = html("Last 10")
+    ) %>%
+    # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
+    tab_options(
+      table.width = pct(100),
+      data_row.padding = px(4),
+      table.font.size = px(12)
+    )  %>%
+    opt_all_caps(all_caps = TRUE)
+  wild_card_table
+  better_wild_card_standings_table_html <- as_raw_html(wild_card_table, inline_css = TRUE)
+  # better_wild_card_divs <- gsub("[#][a-z]{10}",
+  #                               "#wild_card_standings_table", 
+  #                               x = wild_card_table_html)
+  # better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
+  #                                               "\"wild_card_standings_table",
+  #                                               x = better_wild_card_divs)
+  
+  
+  
+  # wild card plot ----
+  mlb_min <-  .8*min(mlb_standings$win_pct)
+  mlb_max <- 1.05*max(mlb_standings$win_pct)
+  nudge <- -.0461118*(mlb_max-mlb_min)
+  division_leader_nudge <- .021*(mlb_max-mlb_min)
+  
+  al_standings <- mlb_standings %>%
+    filter(league == "AL") %>%
+    arrange(desc(win_pct)) %>%
+    select(team_label, win_pct, win_pct_text)
+  nl_standings <- mlb_standings %>%
+    filter(league == "NL") %>%
+    arrange(desc(win_pct)) %>%
+    select(team_label, win_pct, win_pct_text)
+  
+  al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct), 
+                                            y = win_pct)) +
+    # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
+    #           ymin = -Inf, ymax = Inf,
+    #           fill = "grey85") +
+    geom_hline(yintercept = 0.5,
+               color = "grey50",
+               linewidth = .2) +
+    geom_col(aes(fill = win_pct),
+             width = 1) +
+    scale_fill_gradient(guide = NULL,
+                        low = "#fd8d3c",
+                        high = "#800026") +
+    coord_cartesian(ylim = c(mlb_min,mlb_max)) +
+    geom_text(aes(label = team_label),
+              family = "mono",
+              color = "white",
+              angle = 270,
+              size = 3.9,
+              nudge_y = nudge) +
+    geom_text(aes(label = division_leaders),
+              family = "mono",
+              nudge_y = division_leader_nudge) +
+    theme_minimal() +
+    labs(x = NULL,
+         y = NULL,
+         title = "American League") +
+    theme(
+      legend.title = element_blank(),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      plot.title = element_text(hjust = 1),
+      plot.background = element_rect(fill = "white", color = "white"),
+      plot.margin = margin(5,5,0,110),
+      panel.grid = element_blank(),
+      axis.text = element_blank(),
+      legend.position = "bottom",
+      legend.key.size = unit(.1,"in"),
+      legend.box.spacing = unit(0,"in")
+    )
+  al_plot
+  al_plot_mobile <- al_plot +
+    theme(
+      plot.margin = margin(t = 5,
+                           r = 5,
+                           b = 0))
+  al_plot_mobile
+  
+  nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct), 
+                                            y = win_pct)) +
+    # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
+    #           ymin = -Inf, ymax = Inf,
+    #           fill = "grey85") +
+    geom_hline(yintercept = 0.5,
+               color = "grey50",
+               linewidth = .2) +
+    geom_col(aes(fill = win_pct),
+             width = 1) +
+    scale_fill_continuous(guide = NULL,
+                          low = "#3690c0",
+                          high = "#023858") +
+    coord_cartesian(ylim = c(mlb_min,mlb_max)) +
+    geom_text(aes(label = team_label),
+              family = "mono",
+              color = "white",
+              angle = 270,
+              size = 3.9,
+              nudge_y = nudge) +
+    geom_text(aes(label = division_leaders),
+              family = "mono",
+              nudge_y = division_leader_nudge) +
+    scale_y_continuous(labels = label_comma(accuracy = .001)) +
+    theme_minimal() +
+    labs(x = NULL,
+         y = NULL,
+         title = "National League") +
+    theme(    
+      legend.title = element_blank(),
+      plot.background = element_rect(fill = "white", color = "white"),
+      plot.margin = margin(0,90,0,0),
+      panel.grid = element_blank(),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      axis.text.x = element_blank(),
+      legend.position = "bottom",
+      legend.key.size = unit(.1,"in"),
+      legend.box.spacing = unit(0,"in")
+    )
+  
+  nl_plot_mobile <- nl_plot +
+    theme(
+      plot.margin = margin(t = 0,
+                           b = 0,
+                           l = 0)
+    )
+  nl_plot_mobile
+  
+  plot_grid(al_plot,nl_plot,
+            align = "h") 
+  
+  ggsave("plots/mlb_team_rank.png",
+         width = 8, height = 8*(628/1200),
+         dpi = 320)
+  
+  plot_grid(al_plot_mobile,nl_plot_mobile,
+            align = "h",
+            rel_widths = c(6,7)) 
+  
+  ggsave("plots/mlb_team_rank_mobile.png",
+         width = 4, height = 8*(628/1200),
+         dpi = 320)
+  
+  # wild card net wins plot ----
+  
+  hc_al_games <- mlb_standings_magic %>%
+    filter(league == "AL") %>%
+    ungroup() %>%
+    full_join(al_games) %>%
+    group_by(team) %>%
+    #fill(post, .direction = "downup") |> 
+    fill(division_or_elim, .direction = "downup") %>%
+    #filter(post > 0) |> 
+    select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
+    group_by(team) %>%
+    arrange(game_n)
+  
+  hc_nl_games <- mlb_standings_magic %>%
+    filter(league == "NL") %>%
+    ungroup() %>%
+    full_join(nl_games) %>%
+    group_by(team) %>%
+    #fill(post, .direction = "downup") |> 
+    fill(division_or_elim, .direction = "downup") %>%
+    #filter(post > 0) |> 
+    select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
+    group_by(team) %>%
+    arrange(game_n)
+  
+  
+  fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
+                                            y = net_wins,
+                                            group = team),
+                 animation = FALSE,
+                 label = list(
+                   enabled = TRUE
+                 ),
+                 tooltip = list(
+                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
   ) %>%
-  fmt_percent(
-    columns = div,
-    decimals = 1,
-    scale_values = FALSE
-  ) |> 
-  data_color(
-    columns = div,
-    domain = c(0,100),
-    na_color = "#FFFFFF",
-    palette = "Reds"
-  ) |> 
-  cols_hide(columns = c(win_pct, league, net_wins,games_remaining,
-                        division_magic_number,
-                        division_elimination_number,
-                        division_place)) %>% # hide this until new playoffs figured out
-  cols_align(
-    align = c("right"),
-    columns = c(win_pct_text, div,logo_url, outcomes,games_remaining,
-                division_magic_or_eliminated)
-  ) %>%
-  cols_label(
-    logo_url = "",
-    team_label = "Team",
-    wins = "W",
-    losses = "L",
-    division_games_behind = "GB",
-    games_remaining = "GR",
-    net_wins = html("Games<br>Above<br>.500"),
-    win_pct_text = "Pct",
-    division_magic_or_eliminated = html("M#<br>/E#"),
-    div = "Odds",
-    #division_magic_number = "M#",
-    #division_elimination_number = "E#",
-    outcomes = html("Last 10")
-  ) %>%
-  #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
-  #opt_row_striping(row_striping = TRUE) %>%
-  tab_options(
-    table.width = pct(100),
-    data_row.padding = px(4),
-    table.font.size = px(12)
-  ) %>%
-  # ) # %>%
-  #opt_table_lines(extent = "none") %>%
-  opt_all_caps(all_caps = TRUE)
-standings_table
-better_division_standings_table_html <- as_raw_html(standings_table, inline_css = TRUE)
-# better_divs_division_standings <- gsub("[#][a-z]{10}",
-#                                        "#division_standings_table", 
-#                                        x = standings_table_html)
-# better_division_standings_table_html <- gsub("[\"][a-z]{10}",
-#                                              "\"division_standings_table",
-#                                              x = better_divs_division_standings)
-
-
-# games above 500 plots ----
-standings_interactive <- function(division) {
-  hchart(division, "line", hcaes(x = game_n,
-                                 y = net_wins,
-                                 group = team),
-         animation = FALSE,
-         label = list(
-           enabled = TRUE
-         ),
-         tooltip = list(
-           pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
-  ) %>%
-    hc_colors(brewer.pal(9,"Set1")) %>%
-    hc_legend(enabled = FALSE) %>%
-    hc_title(text = tail(division$division,1)) %>%
+    hc_colors(brewer.pal(12,"Paired")) %>%
+    hc_legend(enabled = TRUE,
+              align = "right",
+              verticalAlign = "middle",
+              layout = "vertical") %>%
+    hc_title(text = "AL") %>%
     hc_yAxis(title = "",
              endOnTick = FALSE,
              startOnTick = FALSE) %>%
@@ -529,488 +960,57 @@ standings_interactive <- function(division) {
     hc_add_theme(
       hc_theme_bloom()
     )
-}
-
-al_central_interactive <- standings_interactive(al_central)  
-saveWidget(widget = al_central_interactive, 
-           file = "interactive/al_central_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-al_east_interactive <- standings_interactive(al_east)  
-saveWidget(widget = al_east_interactive, 
-           file = "interactive/al_east_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-al_west_interactive <- standings_interactive(al_west)  
-saveWidget(widget = al_west_interactive, 
-           file = "interactive/al_west_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-nl_central_interactive <- standings_interactive(nl_central)  
-saveWidget(widget = nl_central_interactive, 
-           file = "interactive/nl_central_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-nl_east_interactive <- standings_interactive(nl_east)  
-saveWidget(widget = nl_east_interactive, 
-           file = "interactive/nl_east_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-nl_west_interactive <- standings_interactive(nl_west)  
-saveWidget(widget = nl_west_interactive, 
-           file = "interactive/nl_west_interactive.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-# wild card standings ----
-
-al_standings <- al_games %>%
-  filter(!is.na(team_label)) %>%
-  arrange(desc(win_pct)) %>%
-  mutate(league_place = row_number()) 
-al_standings_elim <- al_standings %>%
-  mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
-  mutate(sixth_place_wins = al_standings$wins[[6]]) %>%
-  mutate(league_elimination_number = if_else(league_place > 6,
-                                             (163 - sixth_place_wins - losses),
-                                             NA))
-nl_standings <- nl_games %>%
-  filter(!is.na(team_label)) %>%
-  arrange(desc(win_pct)) %>%
-  mutate(league_place = row_number()) 
-nl_standings_elim <- nl_standings %>%
-  mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
-  mutate(sixth_place_wins = nl_standings$wins[[6]]) %>%
-  mutate(league_elimination_number = if_else(league_place > 6,
-                                             (163 - sixth_place_wins - losses),
-                                             NA))
-
-mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
-  full_join(division_standings) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, 
-         win_pct_text, games_remaining, division, league, 
-         league_elimination_number, outcomes, division_place, 
-         league_place, division_magic_number)
-
-al_standings_magic <- mlb_standings %>%
-  filter(league == "AL") %>%
-  mutate(division_leaders = case_when(
-    division_place == 1 & division == "AL Central" ~ "C",
-    division_place == 1 & division == "AL East"    ~ "E",
-    division_place == 1 & division == "AL West"    ~ "W",
-    TRUE                                           ~ "")
-  ) %>%
-  group_by(division_leaders) %>%
-  mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
-  mutate(wild_cardss = 
-           ifelse(division_leaders == "W" | 
-                    division_leaders == "C" | 
-                    division_leaders == "E",
-                  division_leaders,
-                  paste("WC",wild_card_rank,sep="")
-           )) %>%
-  mutate(wild_cards = 
-           ifelse(wild_cardss == "WC1",
-                  "WC",
-                  ifelse(wild_cardss == "WC2",
-                         "WC",
-                         ifelse(wild_cardss == "WC3",
-                                "WC",
-                                ifelse(division_magic_number=="✓",
-                                       paste(division_leaders,
-                                             division_magic_number,
-                                             sep=""),
-                                       division_leaders)
-                         )))) %>%
-  ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cardss == "WC3",
-                                  wins,
-                                  NA)) %>%
-  fill(second_wc_wins, 
-       .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cardss == "WC3",
-                                    losses,
-                                    NA)) %>%
-  fill(second_wc_losses, 
-       .direction = "downup") %>%
-  mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
-  mutate(league_elim_number = if_else(wild_cards == "",
-                                      (163 - second_wc_wins - losses),
-                                      NA)) %>%
-  mutate(division_or_elim = ifelse(wild_cards != "",
-                                   wild_cards,
-                                   ifelse(league_elim_number <= 0,
-                                          "—",
-                                          league_elim_number))) %>%
-  mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
-  mutate(wc_games_behind = 
-           ifelse(division_leaders == "W" | 
-                    division_leaders == "C" | 
-                    division_leaders == "E",
-                  wild_cards,
-                  (second_wc_net_wins - net_wins)/2
-           )
-  )
-
-nl_standings_magic <- mlb_standings %>%
-  filter(league == "NL") %>%
-  mutate(division_leaders = case_when(
-    division_place == 1 & division == "NL Central" ~ "C",
-    division_place == 1 & division == "NL East"    ~ "E",
-    division_place == 1 & division == "NL West"    ~ "W",
-    TRUE                                           ~ "")
-  ) %>%
-  group_by(division_leaders) %>%
-  mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
-  mutate(wild_cardss = 
-           ifelse(division_leaders == "W" | 
-                    division_leaders == "C" | 
-                    division_leaders == "E",
-                  division_leaders,
-                  paste("WC",wild_card_rank,sep="")
-           )) %>%
-  mutate(wild_cards = 
-           ifelse(wild_cardss == "WC1",
-                  "WC",
-                  ifelse(wild_cardss == "WC2",
-                         "WC",
-                         ifelse(wild_cardss == "WC3",
-                                "WC",
-                                ifelse(division_magic_number=="✓",
-                                       paste(division_leaders,
-                                             division_magic_number,
-                                             sep=""),
-                                       division_leaders)
-                         )))) %>%
-  ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cardss == "WC3",
-                                  wins,
-                                  NA)) %>%
-  fill(second_wc_wins, 
-       .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cardss == "WC3",
-                                    losses,
-                                    NA)) %>%
-  fill(second_wc_losses, 
-       .direction = "downup") %>%
-  mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
-  mutate(league_elim_number = if_else(wild_cards == "",
-                                      (163 - second_wc_wins - losses),
-                                      NA)) %>%
-  mutate(division_or_elim = ifelse(wild_cards != "",
-                                   wild_cards,
-                                   ifelse(league_elim_number <= 0,
-                                          "—",
-                                          league_elim_number))) %>%
-  mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
-  mutate(wc_games_behind = 
-           ifelse(division_leaders == "W" | 
-                    division_leaders == "C" | 
-                    division_leaders == "E",
-                  wild_cards,
-                  (second_wc_net_wins - net_wins)/2
-           )
-  )
-
-mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic) |> 
-  full_join(table) 
-
-wild_card_table <- mlb_standings_magic %>%
-  select(logo_url, team_label, wins, losses, 
-         win_pct,win_pct_text, games_remaining, wc_games_behind,
-         division_or_elim,post,outcomes, league) %>%
-  group_by(league) %>%
-  arrange(league,desc(win_pct)) %>%
-  gt() %>%
-  gt_theme_espn() %>%
-  gt_plt_winloss(outcomes, max_wins = 10,
-                 type = "pill",
-                 width = 15) %>%
-  text_transform(
-    locations = cells_body(columns = logo_url),
-    fn = function(x) {
-      web_image(
-        url = x,
-        height = px(12)
-      )
-    }
-  ) %>%
-  cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
-  cols_align(
-    align = c("right"),
-    columns = c(win_pct_text, logo_url,post,
-                outcomes, games_remaining, wc_games_behind, 
-                division_or_elim)
-  ) %>%
-  fmt_percent(
-    columns = post,
-    decimals = 1,
-    scale_values = FALSE
-  ) |> 
-  data_color(
-    columns = post,
-    domain = c(0,100),
-    na_color = "#FFFFFF",
-    palette = "Reds"
-  ) |> 
-  cols_label(
-    logo_url = "",
-    team_label = "Team",
-    wins = "W",
-    losses = "L",
-    post = "Odds",
-    win_pct_text = "Pct",
-    games_remaining = "GR",
-    wc_games_behind = "GB",
-    division_or_elim = "E#",
-    outcomes = html("Last 10")
-  ) %>%
-  # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
-  tab_options(
-    table.width = pct(100),
-    data_row.padding = px(4),
-    table.font.size = px(12)
-  )  %>%
-  opt_all_caps(all_caps = TRUE)
-wild_card_table
-better_wild_card_standings_table_html <- as_raw_html(wild_card_table, inline_css = TRUE)
-# better_wild_card_divs <- gsub("[#][a-z]{10}",
-#                               "#wild_card_standings_table", 
-#                               x = wild_card_table_html)
-# better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
-#                                               "\"wild_card_standings_table",
-#                                               x = better_wild_card_divs)
-
-
-
-# wild card plot ----
-mlb_min <-  .8*min(mlb_standings$win_pct)
-mlb_max <- 1.05*max(mlb_standings$win_pct)
-nudge <- -.0461118*(mlb_max-mlb_min)
-division_leader_nudge <- .021*(mlb_max-mlb_min)
-
-al_standings <- mlb_standings %>%
-  filter(league == "AL") %>%
-  arrange(desc(win_pct)) %>%
-  select(team_label, win_pct, win_pct_text)
-nl_standings <- mlb_standings %>%
-  filter(league == "NL") %>%
-  arrange(desc(win_pct)) %>%
-  select(team_label, win_pct, win_pct_text)
-
-al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct), 
-                                          y = win_pct)) +
-  # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
-  #           ymin = -Inf, ymax = Inf,
-  #           fill = "grey85") +
-  geom_hline(yintercept = 0.5,
-             color = "grey50",
-             size = .2) +
-  geom_col(aes(fill = win_pct),
-           width = 1) +
-  scale_fill_gradient(guide = NULL,
-                      low = "#fd8d3c",
-                      high = "#800026") +
-  coord_cartesian(ylim = c(mlb_min,mlb_max)) +
-  geom_text(aes(label = team_label),
-            family = "mono",
-            color = "white",
-            angle = 270,
-            size = 3.9,
-            nudge_y = nudge) +
-  geom_text(aes(label = division_leaders),
-            family = "mono",
-            nudge_y = division_leader_nudge) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL,
-       title = "American League") +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    plot.margin = margin(5,5,0,110),
-    panel.grid = element_blank(),
-    axis.text = element_blank(),
-    legend.position = "bottom",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-al_plot
-al_plot_mobile <- al_plot +
-  theme(
-    plot.margin = margin(t = 5,
-                         r = 5,
-                         b = 0))
-al_plot_mobile
-
-nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct), 
-                                          y = win_pct)) +
-  # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-  #           ymin = -Inf, ymax = Inf,
-  #           fill = "grey85") +
-  geom_hline(yintercept = 0.5,
-             color = "grey50",
-             size = .2) +
-  geom_col(aes(fill = win_pct),
-           width = 1) +
-  scale_fill_continuous(guide = NULL,
-                        low = "#3690c0",
-                        high = "#023858") +
-  coord_cartesian(ylim = c(mlb_min,mlb_max)) +
-  geom_text(aes(label = team_label),
-            family = "mono",
-            color = "white",
-            angle = 270,
-            size = 3.9,
-            nudge_y = nudge) +
-  geom_text(aes(label = division_leaders),
-            family = "mono",
-            nudge_y = division_leader_nudge) +
-  scale_y_continuous(labels = label_comma(accuracy = .001)) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL,
-       title = "National League") +
-  theme(    
-    legend.title = element_blank(),
-    plot.background = element_rect(fill = "white", color = "white"),
-    plot.margin = margin(0,90,0,0),
-    panel.grid = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey93"),
-    axis.text.x = element_blank(),
-    legend.position = "bottom",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-
-nl_plot_mobile <- nl_plot +
-  theme(
-    plot.margin = margin(t = 0,
-                         b = 0,
-                         l = 0)
-  )
-nl_plot_mobile
-
-plot_grid(al_plot,nl_plot,
-          align = "h") 
-
-ggsave("plots/mlb_team_rank.png",
-       width = 8, height = 8*(628/1200),
-       dpi = 320)
-
-plot_grid(al_plot_mobile,nl_plot_mobile,
-          align = "h",
-          rel_widths = c(6,7)) 
-
-ggsave("plots/mlb_team_rank_mobile.png",
-       width = 4, height = 8*(628/1200),
-       dpi = 320)
-
-# wild card net wins plot ----
-
-hc_al_games <- mlb_standings_magic %>%
-  filter(league == "AL") %>%
-  ungroup() %>%
-  full_join(al_games) %>%
-  group_by(team) %>%
-  #fill(post, .direction = "downup") |> 
-  fill(division_or_elim, .direction = "downup") %>%
-  #filter(post > 0) |> 
-  select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
-  group_by(team) %>%
-  arrange(game_n)
-
-hc_nl_games <- mlb_standings_magic %>%
-  filter(league == "NL") %>%
-  ungroup() %>%
-  full_join(nl_games) %>%
-  group_by(team) %>%
-  #fill(post, .direction = "downup") |> 
-  fill(division_or_elim, .direction = "downup") %>%
-  #filter(post > 0) |> 
-  select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
-  group_by(team) %>%
-  arrange(game_n)
-
-
-fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
-                                          y = net_wins,
-                                          group = team),
-               animation = FALSE,
-               label = list(
-                 enabled = TRUE
-               ),
-               tooltip = list(
-                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
-) %>%
-  hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(enabled = TRUE,
-            align = "right",
-            verticalAlign = "middle",
-            layout = "vertical") %>%
-  hc_title(text = "AL") %>%
-  hc_yAxis(title = "",
-           endOnTick = FALSE,
-           startOnTick = FALSE) %>%
-  hc_xAxis(title = "",
-           max = 162) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  )
-
-fig1
-saveWidget(widget = fig1, file = "interactive/al_standings.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
-                                          y = net_wins,
-                                          group = team),
-               animation = FALSE,
-               label = list(
-                 enabled = TRUE
-               ),
-               tooltip = list(
-                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
-)%>%
-  hc_colors(brewer.pal(12,"Paired")) %>%
-  hc_legend(enabled = TRUE,
-            align = "right",
-            verticalAlign = "middle",
-            layout = "vertical") %>%
-  hc_title(text = "NL") %>%
-  hc_yAxis(title = "",
-           endOnTick = FALSE,
-           startOnTick = FALSE) %>%
-  hc_xAxis(title = "",
-           max = 162) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) 
-
-fig2
-saveWidget(widget = fig2, file = "interactive/nl_standings.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-# web text ----
-now <- as_datetime(now())
-now_formatted <- strftime(x = now, 
-                          tz = "US/Central",
-                          format = "%I:%M% %p CT, %B %d")
-
-now_html <- paste("<p class=\"updated_time\"> Latest data: ",
-                  now_formatted,
-                  "</p>",
-                  sep = "")
-
-
-
-web_text <- paste(
-  "---
+  
+  fig1
+  saveWidget(widget = fig1, file = "interactive/al_standings.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  
+  fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
+                                            y = net_wins,
+                                            group = team),
+                 animation = FALSE,
+                 label = list(
+                   enabled = TRUE
+                 ),
+                 tooltip = list(
+                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+  )%>%
+    hc_colors(brewer.pal(12,"Paired")) %>%
+    hc_legend(enabled = TRUE,
+              align = "right",
+              verticalAlign = "middle",
+              layout = "vertical") %>%
+    hc_title(text = "NL") %>%
+    hc_yAxis(title = "",
+             endOnTick = FALSE,
+             startOnTick = FALSE) %>%
+    hc_xAxis(title = "",
+             max = 162) %>%
+    hc_add_theme(
+      hc_theme_bloom()
+    ) 
+  
+  fig2
+  saveWidget(widget = fig2, file = "interactive/nl_standings.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+  
+  # web text ----
+  now <- as_datetime(now())
+  now_formatted <- strftime(x = now, 
+                            tz = "US/Central",
+                            format = "%I:%M% %p CT, %B %d")
+  
+  now_html <- paste("<p class=\"updated_time\"> Latest data: ",
+                    now_formatted,
+                    "</p>",
+                    sep = "")
+  
+  
+  
+  web_text <- paste(
+    "---
 layout: page
 title: Baseball Standings
 permalink: /projects/baseball
@@ -1067,7 +1067,10 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 ",
 sep = ""
-)
-if (length(standings_the_same) > 0) { 
+  )
+  
   write_lines(web_text,"projects/baseball.md")
+  
 }
+
+
