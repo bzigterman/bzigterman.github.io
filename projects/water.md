@@ -25,7 +25,7 @@ Elevation:
 - 3,573 feet
 - 203 feet above the minimum level
 - 135 feet below the maximum level
-- up 44 feet from a year ago
+- up 43 feet from a year ago
 - down 18 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
