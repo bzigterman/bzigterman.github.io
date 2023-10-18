@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 10:42 PM CT, October 17</p>
+<p class="updated_time"> Latest data: 10:56 PM CT, October 17</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,10 +17,10 @@ Currently:
 
 - 47°
 - 43° dew point
-- Cloudy
-- 84% humidity
+- Partly Cloudy
+- 87% humidity
 - 5 mph wind
-- 94% cloud cover
+- 64% cloud cover
 - 22 AQI 🟩
 - 0.05 inches of rain expected in the next 72 hours
 
