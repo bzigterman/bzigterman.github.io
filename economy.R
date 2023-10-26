@@ -247,9 +247,25 @@ gdp_growth_forecast_atl <- fredr(series_id = "GDPNOW") %>%
 gdp_growth_forecast_stl <- fredr(series_id = "STLENI") %>%
   mutate(change = value) %>%
   select(date, change) 
+nyfed_url <- "https://www.newyorkfed.org/medialibrary/Research/Interactives/Data/NowCast/Downloads/New-York-Fed-Staff-Nowcast_download_data.xlsx"
+gdp_growth_forecast_ny <- rio::import(nyfed_url,
+                                      format = "xlsx",
+                                      which = "Forecasts By Quarter") |> 
+  janitor::row_to_names(row_number = 3) |> 
+  janitor::clean_names() |> 
+  select(!forecast_date) |> 
+  tail(1) |> remove_empty()  |> 
+  pivot_longer(cols = everything()) |> 
+  mutate(date = str_replace(name,"x", "")) |> 
+  mutate(date = yq(date)) |> 
+  mutate(change = as.numeric( value) )|> 
+  select(date,change)
 
+  
+  
 gdp_growth_forecasts <- full_join(gdp_growth_forecast_atl,
                                   gdp_growth_forecast_stl) |> 
+  full_join(gdp_growth_forecast_ny) |> 
   group_by(date) |> 
   mutate(min = min(change))|> 
   mutate(max = max(change)) |> 
@@ -319,10 +335,25 @@ fig <- hchart(data,
     color = "gray",
     #negativeColor = "#e0a89a",
     yAxis = 1) %>%
+  # hc_add_series(
+  #   data = data,
+  #   grouping = FALSE,
+  #   hcaes(x = date,
+  #         y = min),
+  #   states = list(
+  #     inactive = list(
+  #       enabled = FALSE
+  #     )
+  #   ),
+  #   name = "Forecast",
+  #   type = "scatter",
+  #   tooltip = list(valueSuffix = "%"),
+  #   color = "gray",
+  #   yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
-    text = "Source: U.S. BEA, St. Louis Fed, Atlanta Fed",
+    text = "Source: U.S. BEA, St. Louis Fed, Atlanta Fed, NY Fed",
     href = "https://fred.stlouisfed.org/series/GDPC1") %>%
   hc_xAxis(title = list(text = NULL),
            type = "datetime") %>%

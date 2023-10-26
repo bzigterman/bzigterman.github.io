@@ -6,12 +6,15 @@ permalink: /resume
 
 ## Experience
 
-2021–present: Reporter, **Law360**
+2023–present: Senior Reporter, **Law360**
+- Write articles about bankruptcy law 
 
-- Write daily articles and occasional features on insurance law
-- Search court filings for newsworthy article pitches
-- Maintain network of sources on the property insurance beat
-- Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and update it regularly
+2021–2023: Reporter, **Law360**
+
+- Wrote daily articles and occasional features on insurance law
+- Searched court filings for newsworthy article pitches
+- Maintained network of sources on the property insurance beat
+- Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and updated it regularly
 
 2016–2021: Reporter, **The Champaign News-Gazette**, Champaign, IL
 
@@ -115,3 +118,5 @@ The University of Chicago
 - October 2019: Spoke to a journalism class at the University of Illinois about my experience as a reporter.
 - June 2019: Was interviewed [by FOX 32 Chicago](https://www.bzigterman.com/images/fox32chicago.jpeg) by phone during the trial of Ms. Zhang's killer.
 - March 2019: Spoke to [the University of Illinois chapter](https://www.instagram.com/p/BwHorVln_mu/) of the Society of Professional Journalists about what it's like working at a newspaper.
+
+
