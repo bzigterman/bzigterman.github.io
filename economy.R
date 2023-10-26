@@ -261,8 +261,8 @@ gdp_growth_forecast_ny <- rio::import(nyfed_url,
   mutate(change = as.numeric( value) )|> 
   select(date,change)
 
-  
-  
+
+
 gdp_growth_forecasts <- full_join(gdp_growth_forecast_atl,
                                   gdp_growth_forecast_stl) |> 
   full_join(gdp_growth_forecast_ny) |> 
@@ -336,21 +336,6 @@ fig <- hchart(data,
     color = "gray",
     #negativeColor = "#e0a89a",
     yAxis = 1) %>%
-  # hc_add_series(
-  #   data = data,
-  #   grouping = FALSE,
-  #   hcaes(x = date,
-  #         y = min),
-  #   states = list(
-  #     inactive = list(
-  #       enabled = FALSE
-  #     )
-  #   ),
-  #   name = "Forecast",
-  #   type = "scatter",
-  #   tooltip = list(valueSuffix = "%"),
-  #   color = "gray",
-  #   yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
@@ -1122,61 +1107,65 @@ saveWidget(widget = fig, file = "interactive/il_employment.html",
 
 ## flash index ----
 flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/")
-flash_index <- flash_index_archive %>% html_node("table") %>% 
-  html_table(header = TRUE) %>%
-  rename(Year = 1) %>%
-  #na_if("-") %>%
-  mutate(across(where(is.character),as.double)) %>%
-  pivot_longer(!Year) %>%
-  mutate(date = ym(paste(Year,name))) %>%
-  select(date,value) %>%
-  arrange(date)
-
-data <- flash_index %>%
-  drop_na()
-recent_data <- data %>%
-  filter(date > recent_years) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
-
-fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value),
-              color = "#199fa8",
-              negativeColor = "#b32704",
-              threshold = 100,
-              name = "Index") %>%
-  hc_title(text = "Flash Index") %>%
-  hc_credits(
-    enabled = TRUE,
-    text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
-                 tail(recent_data$short_date,1)),
-    href = "https://igpa.uillinois.edu/policy-initiatives/flash-index") %>%
-  hc_yAxis(title = "",
-           endOnTick = FALSE,
-           startOnTick = FALSE,
-           plotLines = list(
-             list(
-               color = "#808080",
-               width = 2,
-               value = 100,
-               zIndex = 1))) %>%
-  hc_xAxis(title = "") %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  )%>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'year', count = 5, text = '5y'),
-                     list(type = 'year', count = 10, text = '10y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 2)# %>%
-#hc_navigator(enabled = TRUE) 
-fig
-saveWidget(widget = fig, file = "interactive/il_flash_index.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
+code <- status_code(GET("https://igpa.uillinois.edu/flash-index-detail/"))
+code
+if (code == 200) {
+  
+  flash_index <- flash_index_archive %>% html_node("table") %>% 
+    html_table(header = TRUE) %>%
+    rename(Year = 1) %>%
+    #na_if("-") %>%
+    mutate(across(where(is.character),as.double)) %>%
+    pivot_longer(!Year) %>%
+    mutate(date = ym(paste(Year,name))) %>%
+    select(date,value) %>%
+    arrange(date)
+  
+  data <- flash_index %>%
+    drop_na()
+  recent_data <- data %>%
+    filter(date > recent_years) %>%
+    mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+  
+  fig <- hchart(data, "line", hcaes(x = date,
+                                    y = value),
+                color = "#199fa8",
+                negativeColor = "#b32704",
+                threshold = 100,
+                name = "Index") %>%
+    hc_title(text = "Flash Index") %>%
+    hc_credits(
+      enabled = TRUE,
+      text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
+                   tail(recent_data$short_date,1)),
+      href = "https://igpa.uillinois.edu/policy-initiatives/flash-index") %>%
+    hc_yAxis(title = "",
+             endOnTick = FALSE,
+             startOnTick = FALSE,
+             plotLines = list(
+               list(
+                 color = "#808080",
+                 width = 2,
+                 value = 100,
+                 zIndex = 1))) %>%
+    hc_xAxis(title = "") %>%
+    hc_add_theme(
+      hc_theme_bloom()
+    )%>%
+    hc_rangeSelector(enabled = TRUE,
+                     buttons = list(
+                       list(type = 'year', count = 1, text = '1y'),
+                       list(type = 'year', count = 2, text = '2y'),
+                       list(type = 'year', count = 5, text = '5y'),
+                       list(type = 'year', count = 10, text = '10y'),
+                       list(type = 'all', text = 'All')),
+                     selected = 2)# %>%
+  #hc_navigator(enabled = TRUE) 
+  fig
+  saveWidget(widget = fig, file = "interactive/il_flash_index.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+}
 
 ## population ----
 data <-fredr(series_id = "ILPOP")
