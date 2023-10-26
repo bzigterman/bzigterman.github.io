@@ -10,6 +10,7 @@ library(zoo)
 library(rvest)
 library(highcharter)
 library(htmlwidgets)
+library(httr)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
