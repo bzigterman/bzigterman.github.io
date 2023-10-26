@@ -254,7 +254,7 @@ gdp_growth_forecast_ny <- rio::import(nyfed_url,
   janitor::row_to_names(row_number = 3) |> 
   janitor::clean_names() |> 
   select(!forecast_date) |> 
-  tail(1) |> remove_empty()  |> 
+  tail(1) |># remove_empty()  |> 
   pivot_longer(cols = everything()) |> 
   mutate(date = str_replace(name,"x", "")) |> 
   mutate(date = yq(date)) |> 
