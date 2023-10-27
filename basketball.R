@@ -77,7 +77,7 @@ table <- full_join(eastern_odds, western_odds) |>
     tm == "Toronto Raptors" ~ "TOR",
     tm == "Utah Jazz" ~ "UTA",
     tm == "Washington Wizards" ~ "WSH"
-    ))
+  ))
 
 # get data ----
 teams <- load_nba_team_box(seasons = most_recent_nba_season()) |> 
