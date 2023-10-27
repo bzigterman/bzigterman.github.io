@@ -9,26 +9,24 @@ library(htmltools)
 library(RColorBrewer)
 library(gtExtras)
 library(rtoot)
+library(hoopR)
 
 # mastodon api setup ----
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
 verify_envvar(verbose = TRUE)
 
 # get data ----
-fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/nba-model/nba_elo_latest.csv"
-fivethirtyeight_data <- rio::import(fivethirtyeight_data_url, format = "csv") %>%
-  filter(playoff == "" | is.na(playoff)) %>%
-  arrange(date) 
 get_team_records <- function(abbreviation) {
-  records <- fivethirtyeight_data %>%
-    select(date, season, team1, team2, score1, score2) %>%
-    filter(team1 == abbreviation | team2 == abbreviation) %>%
-    mutate(result = if_else((team2 == abbreviation),
-                            if_else((score2 > score1),"W","L"),
-                            if_else((score1 > score2),"W","L"))) %>%
-    drop_na(result) %>%
-    mutate(game_n = row_number()) %>%
-    select(date, game_n, result) %>%
+  records <- load_nba_team_box(seasons = most_recent_nba_season()) |> 
+    select(game_id,game_date,team_abbreviation,team_logo,team_winner,
+           opponent_team_abbreviation) |> 
+    arrange(game_date) |> 
+    filter(team_abbreviation == abbreviation) |> 
+    mutate(game_n = row_number()) |> 
+    mutate(result = case_when(
+      team_winner == TRUE ~ "W",
+      team_winner == FALSE ~ "L"
+    )) |> 
     mutate(win = if_else(result == "W",1,0)) %>%
     mutate(loss = if_else(result == "L",1,0)) %>%
     mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NA))) %>%
@@ -39,30 +37,20 @@ get_team_records <- function(abbreviation) {
                                   paste("1.000"),
                                   paste0(".",round(win_pct*1000)))) %>%
     mutate(net_wins = wins-losses) %>%
-    #mutate(team = abbreviation) %>%
+    mutate(games_remaining = 82-game_n) |> 
     mutate(team = case_when(
-      abbreviation == "CHO" ~ "CHA",
-      abbreviation == "BRK" ~ "BKN",
-      abbreviation == "PHO" ~ "PHX",
+      abbreviation == "NO" ~ "NOP",
+      abbreviation == "GS" ~ "GSW",
+      abbreviation == "NY" ~ "NYK",
+      abbreviation == "SA" ~ "SAS",
+      abbreviation == "UTAH" ~ "UTA",
+      abbreviation == "WAS" ~ "WSH",
+      abbreviation == "BKN" ~ "BKN",
       TRUE ~ abbreviation
     )
-    ) %>%
-    mutate(games_played = cumsum(game_counter)) %>%
-    mutate(games_remaining = 82-games_played) %>%
-    mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NA))  %>%
-    mutate(result_arrow = if_else(result == "W","▀",
-                                  if_else(result == "L","▄",""))) %>%
-    mutate(last_ten = paste(lag(result_arrow,9),
-                            lag(result_arrow,8),
-                            lag(result_arrow,7),
-                            lag(result_arrow,6),
-                            lag(result_arrow,5),
-                            lag(result_arrow,4),
-                            lag(result_arrow,3),
-                            lag(result_arrow,2),
-                            lag(result_arrow),
-                            result_arrow,
-                            sep = "")) %>%
+    ) |> 
+    mutate(team_label = if_else(game_n == max(na.omit(game_n)),team,NA))  %>%
+    mutate(win = if_else(result == "W",1,0)) |> 
     mutate(
       outcomes = list(
         tail(na.omit(win),10)
@@ -73,13 +61,13 @@ get_team_records <- function(abbreviation) {
 # eastern conference ----
 team1 <- get_team_records("CHI") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg")
-team2 <- get_team_records("CHO") %>%
+team2 <- get_team_records("CHA") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg")
-team3 <- get_team_records("NYK") %>%
+team3 <- get_team_records("NY") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg")
 team4 <- get_team_records("MIA") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg")
-team5 <- get_team_records("WAS") %>%
+team5 <- get_team_records("WSH") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg")
 team6 <- get_team_records("ATL") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg")
@@ -93,7 +81,7 @@ team10 <- get_team_records("TOR") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg")
 team11 <- get_team_records("BOS") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg")
-team12 <- get_team_records("BRK") %>%
+team12 <- get_team_records("BKN") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg")
 team13 <- get_team_records("ORL") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg")
@@ -125,9 +113,9 @@ east_standings <- eastern %>%
   mutate(net_wins = wins-losses)
 
 # western conference ----
-team1 <- get_team_records("GSW") %>%
+team1 <- get_team_records("GS") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg")
-team2 <- get_team_records("UTA") %>%
+team2 <- get_team_records("UTAH") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg")
 team3 <- get_team_records("MIN") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg")
@@ -147,11 +135,11 @@ team10 <- get_team_records("LAC") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg")
 team11 <- get_team_records("HOU") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg")
-team12 <- get_team_records("PHO") %>%
+team12 <- get_team_records("PHX") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg")
-team13 <- get_team_records("SAS") %>%
+team13 <- get_team_records("SA") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg")
-team14 <- get_team_records("NOP") %>%
+team14 <- get_team_records("NO") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg")
 team15 <- get_team_records("OKC") %>%
   mutate(logo_url = "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg")
@@ -342,7 +330,7 @@ eastern_standings <- east_standings %>%
 nba_standings <- full_join(western_standings, eastern_standings) %>%
   #full_join(division_standings) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, 
-         win_pct_text, games_remaining, last_ten, conference, outcomes, 
+         win_pct_text, games_remaining, outcomes, conference, outcomes, 
          conference_games_behind)
 
 # make web page ----
