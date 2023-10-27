@@ -608,8 +608,11 @@ if (length(standings_the_same) > 0) {
   nba_standings <- full_join(western_standings, eastern_standings) |> 
     full_join(table) |> 
     select(logo_url, team_label, wins, losses, net_wins, win_pct, 
-           win_pct_text, games_remaining, outcomes, conference, post, outcomes, 
+           win_pct_text, games_remaining, outcomes, conference, post, 
            conference_games_behind) 
+  nba_standings |> 
+    select(team_label,wins,losses,win_pct_text,
+           conference_games_behind,post)
   
   nba_standings_table <- nba_standings %>%
     select(logo_url, team_label, wins, losses,
