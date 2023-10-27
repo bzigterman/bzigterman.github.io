@@ -39,7 +39,7 @@ western_odds <- read_html(odds_url) |>
   select(western_conference, playoffs) |> 
   arrange(desc(playoffs)) |> 
   mutate(post = parse_number(playoffs)) |> 
-  mutate(lg = "Eastern") |> 
+  mutate(lg = "Western") |> 
   mutate(tm = western_conference) 
 
 table <- full_join(eastern_odds, western_odds) |> 
@@ -668,13 +668,13 @@ if (length(standings_the_same) > 0) {
     )  %>%
     opt_all_caps(all_caps = TRUE)
   nba_standings_table
-  nba_standings_table_html <- as_raw_html(nba_standings_table, inline_css = FALSE)
-  better_nba_standings_divs <- gsub("[#][a-z]{10}",
-                                    "#nba_standings_table", 
-                                    x = nba_standings_table_html)
-  better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
-                                                "\"nba_standings_table",
-                                                x = better_nba_standings_divs)
+  nba_standings_table_html <- as_raw_html(nba_standings_table, inline_css = TRUE)
+  # better_nba_standings_divs <- gsub("[#][a-z]{10}",
+  #                                   "#nba_standings_table", 
+  #                                   x = nba_standings_table_html)
+  # better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
+  #                                               "\"nba_standings_table",
+  #                                               x = better_nba_standings_divs)
   
   # make web page ----
   now <- as_datetime(now())
@@ -705,7 +705,7 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 </iframe>
 </div>
 
-",better_wild_card_standings_table_html," 
+",nba_standings_table_html," 
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/nba_team_rank.png\"
