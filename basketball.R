@@ -44,6 +44,7 @@ western_odds <- read_html(odds_url) |>
 
 table <- full_join(eastern_odds, western_odds) |> 
   select(tm, post, lg) |> 
+  mutate(post = if_else(is.na(post),0,post)) |> 
   mutate(tm = na_if(tm, "")) |> 
   drop_na() |> 
   mutate(team_label = case_when(
