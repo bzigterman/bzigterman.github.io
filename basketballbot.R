@@ -168,7 +168,7 @@ west_standings <- western %>%
 
 nba_standings <- full_join(east_standings, west_standings)
 
-latest_game <- as_date(max(nba_standings$date))
+latest_game <- as_date(max(nba_standings$game_date))
 game_yesterday <- if_else(
   latest_game >= today(tzone = "UTC")- days(1),
   TRUE,
