@@ -7,6 +7,7 @@ library(htmlwidgets)
 candidates_2024 <- read_csv(
   "data/presidential_candidates.csv",
   col_types = "cncTT") |> 
+  filter(party == "Republican" | party == "Democrat") |> 
   mutate(active = case_when(
     end == as.Date("2024-11-05") ~ TRUE,
     is.na(end) ~ TRUE,
@@ -20,18 +21,18 @@ candidates_2024 <- read_csv(
     party == "Republican" & active == TRUE ~ "Republican_active",
     party == "Republican" & active == FALSE ~ "Republican_inactive",
     party == "Democrat" & active == TRUE ~ "dem_active",
-    party == "Democrat" & active == FALSE ~ "dem_inactive",
-    party == "Independent" & active == TRUE ~ "independent_active",
-    party == "Independent" & active == FALSE ~ "independent_inactive",
-    party == "Libertarian" & active == TRUE ~ "Libertarian_active",
-    party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
+    party == "Democrat" & active == FALSE ~ "dem_inactive"#,
+    # party == "Independent" & active == TRUE ~ "independent_active",
+    # party == "Independent" & active == FALSE ~ "independent_inactive",
+    # party == "Libertarian" & active == TRUE ~ "Libertarian_active",
+    # party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
   )) |> 
   mutate(party_active = factor(party_active
   )) |> 
   mutate(party_active = fct_relevel(
     party_active,c("dem_active","dem_inactive",
-                   "independent_active","independent_inactive",
-                   "Libertarian_active","Libertarian_inactive",
+                   #"independent_active","independent_inactive",
+                   #"Libertarian_active","Libertarian_inactive",
                    "Republican_active","Republican_inactive")
   )) |> 
   arrange(start) |> 
@@ -100,8 +101,8 @@ candidate_chart <- hchart(candidates_2024,
   ) |>
   hc_colors(
     colors = c("#1A43C1","#d1d9f2",
-               "#808080",#"#e5e5e5"
-               "#F7D348",#"#fdf6da",
+               #"#808080",#"#e5e5e5"
+               #"#F7D348",#"#fdf6da",
                "#D53630","#f6d6d5")
   ) |> 
   hc_credits(
@@ -132,18 +133,18 @@ candidates_2020 <- read_csv(
     party == "Republican" & active == TRUE ~ "Republican_active",
     party == "Republican" & active == FALSE ~ "Republican_inactive",
     party == "Democrat" & active == TRUE ~ "dem_active",
-    party == "Democrat" & active == FALSE ~ "dem_inactive",
-    party == "Independent" & active == TRUE ~ "independent_active",
-    party == "Independent" & active == FALSE ~ "independent_inactive",
-    party == "Libertarian" & active == TRUE ~ "Libertarian_active",
-    party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
+    party == "Democrat" & active == FALSE ~ "dem_inactive"#,
+    # party == "Independent" & active == TRUE ~ "independent_active",
+    # party == "Independent" & active == FALSE ~ "independent_inactive",
+    # party == "Libertarian" & active == TRUE ~ "Libertarian_active",
+    # party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
   )) |> 
   mutate(party_active = factor(party_active
   )) |> 
   mutate(party_active = fct_relevel(
     party_active,c("dem_active","dem_inactive",
-                   "independent_active","independent_inactive",
-                   "Libertarian_active","Libertarian_inactive",
+                   #"independent_active","independent_inactive",
+                   #"Libertarian_active","Libertarian_inactive",
                    "Republican_active","Republican_inactive")
   )) |> 
   arrange(start) |> 
@@ -152,26 +153,26 @@ candidates_2020 <- read_csv(
 candidate_2020_count <- count(candidates_2020)$n*20
 
 ## make charts ----
-  candidate_chart <- hchart(candidates_2020,
-                            "columnrange",
-                            hcaes(
-                              x = candidate,
-                              low = 1000*as.numeric( start),
-                              high = 1000*as.numeric(end),
-                              group = party_active
-                            ),
-                            states = list(
-                              inactive = list(
-                                enabled = FALSE
-                              )
-                            ),
-                            grouping = FALSE,
-                            groupPadding = 0,
-                            #enableMouseTracking = FALSE,
-                            tooltip = list(
-                              pointFormat = "{point.party}"
-                            ),
-                            pointPadding= 0) |> 
+candidate_chart <- hchart(candidates_2020,
+                          "columnrange",
+                          hcaes(
+                            x = candidate,
+                            low = 1000*as.numeric( start),
+                            high = 1000*as.numeric(end),
+                            group = party_active
+                          ),
+                          states = list(
+                            inactive = list(
+                              enabled = FALSE
+                            )
+                          ),
+                          grouping = FALSE,
+                          groupPadding = 0,
+                          #enableMouseTracking = FALSE,
+                          tooltip = list(
+                            pointFormat = "{point.party}"
+                          ),
+                          pointPadding= 0) |> 
   hc_legend(
     enabled = FALSE
   ) |> 
@@ -204,8 +205,8 @@ candidate_2020_count <- count(candidates_2020)$n*20
   ) |>
   hc_colors(
     colors = c("#1A43C1","#d1d9f2",
-              # "#808080",#"#e5e5e5"
-              # "#F7D348",#"#fdf6da",
+               # "#808080",#"#e5e5e5"
+               # "#F7D348",#"#fdf6da",
                "#D53630","#f6d6d5")
   ) |> 
   hc_credits(
