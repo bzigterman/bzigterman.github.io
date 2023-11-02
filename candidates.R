@@ -6,13 +6,13 @@ library(htmlwidgets)
 candidates_2024 <- read_csv(
   "data/presidential_candidates.csv",
   col_types = "cncTT") |> 
+  mutate(active = if_else(is.na(end),
+                          TRUE,
+                          FALSE)) |> 
   mutate(end = if_else(is.na(end),
                        today(tzone = "America/Chicago"),
                        end)) |> 
   filter(year == 2024) |>
-  mutate(active = if_else(end == today(tzone = "America/Chicago"),
-                          TRUE,
-                          FALSE)) |> 
   mutate(party_active = case_when(
     party == "Republican" & active == TRUE ~ "Republican_active",
     party == "Republican" & active == FALSE ~ "Republican_inactive",
@@ -34,7 +34,7 @@ candidates_2024 <- read_csv(
   arrange(start) |> 
   arrange(desc(end))
 
-candidate_count <- count(candidates_2024)$n*23
+candidate_count <- count(candidates_2024)$n*20
 
 # make charts ----
 candidate_chart <- hchart(candidates_2024,
@@ -96,10 +96,10 @@ candidate_chart <- hchart(candidates_2024,
     hc_theme_bloom()
   ) |>
   hc_colors(
-    colors = c("#0000FF","#ccccff",
+    colors = c("#1A43C1","#d1d9f2",
                "#808080",#"#e5e5e5"
-               "#FFA500",#"#ffedcc",
-               "#FF0000","#ffcccc")
+               "#F7D348",#"#fdf6da",
+               "#D53630","#f6d6d5")
   ) |> 
   hc_credits(
     enabled = TRUE,
