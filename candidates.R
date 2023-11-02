@@ -18,7 +18,7 @@ candidates_2024 <- read_csv(
 
 republicans <- candidates_2024 |> 
   filter(party == "Republican") 
-gop_candidates <- count(republicans)$n*26
+gop_candidates <- count(republicans)$n*20
 democrats <- candidates_2024 |> 
   filter(party == "Democrat")
 dem_candidates <- count(democrats)$n*26
@@ -127,8 +127,6 @@ layout: page
 title: Presidential Candidates
 permalink: /projects/candidates
 ---
-
-## Presidential Candidates
 
 <iframe src=\"/interactive/gop2024candidates.html\" width=\"100%\" height=\"",
 gop_candidates,"\"> 
