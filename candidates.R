@@ -38,7 +38,7 @@ candidates_2024 <- read_csv(
   arrange(start) |> 
   arrange(desc(end))
 
-candidate_2024_count <- count(candidates_2024)$n*15+20
+candidate_2024_count <- count(candidates_2024)$n*18+20
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2024,
@@ -150,7 +150,7 @@ candidates_2020 <- read_csv(
   arrange(start) |> 
   arrange(desc(end))
 
-candidate_2020_count <- count(candidates_2020)$n*15+20
+candidate_2020_count <- count(candidates_2020)$n*18+20
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2020,
