@@ -15,6 +15,7 @@ candidates_2024 <- read_csv(
   mutate(active = if_else(end == today(tzone = "America/Chicago"),
                           FALSE,
                           TRUE))
+candidates <- count(candidates_2024)$n*23
 
 republicans <- candidates_2024 |> 
   filter(party == "Republican") 
@@ -24,13 +25,13 @@ democrats <- candidates_2024 |>
 dem_candidates <- count(democrats)$n*26
 
 # make charts ----
-gop <- hchart(republicans,
+candidate_chart <- hchart(candidates_2024,
               "columnrange",
               hcaes(
                 x = candidate,
                 low = 1000*as.numeric( start),
                 high = 1000*as.numeric(end),
-                group = active
+                group = party,
               ),
               grouping = FALSE,
               groupPadding = 0,
@@ -51,6 +52,7 @@ gop <- hchart(republicans,
     )
   )|> 
   hc_yAxis(
+    endOnTick = FALSE,
     min = 1000*as.numeric( min(candidates_2024$start)),
     type = "datetime") |> 
   hc_chart(
@@ -60,66 +62,17 @@ gop <- hchart(republicans,
     hc_theme_bloom()
   ) |>
   hc_colors(
-    colors = c("red","gray")
+    colors = c("blue","gray","green","red")
   ) |> 
   hc_credits(
     enabled = TRUE,
     text = "Source: Ballotpedia",
     href = "https://ballotpedia.org/Presidential_candidates,_2024")
-gop
-saveWidget(widget = gop, file = "interactive/gop2024candidates.html",
+candidate_chart
+saveWidget(widget = candidate_chart, 
+           file = "interactive/2024candidates.html",
            selfcontained = FALSE,
            libdir = "interactive")
-
-
-dems <- hchart(democrats,
-               "columnrange",
-               hcaes(
-                 x = candidate,
-                 low = 1000*as.numeric( start),
-                 high = 1000*as.numeric(end),
-                 group = active
-               ),
-               grouping = FALSE,
-               groupPadding = 0,
-               enableMouseTracking = FALSE,
-               pointPadding= 0
-) |> 
-  # hc_tooltip(
-  #   enabled = FALSE
-  # ) |> 
-  hc_legend(
-    enabled = FALSE
-  ) |> 
-  hc_xAxis(
-    lineWidth = 0,
-    tickLength = 0,
-    title = list(
-      enabled = FALSE
-    )
-  )|> 
-  hc_yAxis(
-    min = 1000*as.numeric( min(candidates_2024$start)),
-    type = "datetime") |> 
-  hc_chart(
-    inverted = TRUE
-  ) |> 
-  hc_add_theme(
-    hc_theme_bloom()
-  ) |>
-  hc_colors(
-    colors = c("blue","gray")
-  ) |> 
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: Ballotpedia",
-    href = "https://ballotpedia.org/Presidential_candidates,_2024") 
-dems
-saveWidget(widget = dems, file = "interactive/dem2024candidates.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-
 
 # make web text ----
 web_text <- paste(
@@ -131,12 +84,8 @@ permalink: /projects/candidates
 
 # 2024
 
-<iframe src=\"/interactive/gop2024candidates.html\" width=\"100%\" height=\"",
-gop_candidates,"\"> 
-</iframe>
-
-<iframe src=\"/interactive/dem2024candidates.html\" width=\"100%\" height=\"",
-dem_candidates,"\"> 
+<iframe src=\"/interactive/2024candidates.html\" width=\"100%\" height=\"",
+candidates,"\"> 
 </iframe>
 
 ",
