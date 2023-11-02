@@ -23,7 +23,6 @@ democrats <- candidates_2024 |>
   filter(party == "Democrat")
 dem_candidates <- count(democrats)$n*26
 
-
 # make charts ----
 gop <- hchart(republicans,
               "columnrange",
@@ -52,6 +51,7 @@ gop <- hchart(republicans,
     )
   )|> 
   hc_yAxis(
+    min = 1000*as.numeric( min(candidates_2024$start)),
     type = "datetime") |> 
   hc_chart(
     inverted = TRUE
@@ -99,6 +99,7 @@ dems <- hchart(democrats,
     )
   )|> 
   hc_yAxis(
+    min = 1000*as.numeric( min(candidates_2024$start)),
     type = "datetime") |> 
   hc_chart(
     inverted = TRUE
