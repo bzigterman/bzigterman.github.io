@@ -46,7 +46,7 @@ candidate_chart <- hchart(candidates_2024,
                             x = candidate,
                             low = 1000*as.numeric( start),
                             high = 1000*as.numeric(end),
-                            group = party_active,
+                            group = party_active
                           ),
                           states = list(
                             inactive = list(
@@ -158,7 +158,7 @@ candidate_2020_count <- count(candidates_2020)$n*20
                               x = candidate,
                               low = 1000*as.numeric( start),
                               high = 1000*as.numeric(end),
-                              group = party_active,
+                              group = party_active
                             ),
                             states = list(
                               inactive = list(
