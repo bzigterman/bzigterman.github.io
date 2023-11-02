@@ -45,14 +45,18 @@ candidate_chart <- hchart(candidates_2024,
                             high = 1000*as.numeric(end),
                             group = party_active,
                           ),
+                          states = list(
+                            inactive = list(
+                              enabled = FALSE
+                            )
+                          ),
                           grouping = FALSE,
                           groupPadding = 0,
-                          enableMouseTracking = FALSE,
-                          pointPadding= 0
-) |> 
-  # hc_tooltip(
-  #   enabled = FALSE
-  # ) |> 
+                          #enableMouseTracking = FALSE,
+                          tooltip = list(
+                            pointFormat = "{point.party}"
+                          ),
+                          pointPadding= 0) |> 
   hc_legend(
     enabled = FALSE
   ) |> 
