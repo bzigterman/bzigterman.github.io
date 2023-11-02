@@ -128,6 +128,8 @@ title: Presidential Candidates
 permalink: /projects/candidates
 ---
 
+# 2024
+
 <iframe src=\"/interactive/gop2024candidates.html\" width=\"100%\" height=\"",
 gop_candidates,"\"> 
 </iframe>
