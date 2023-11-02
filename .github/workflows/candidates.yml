@@ -1,18 +1,17 @@
-name: websiteupdater
+name: autocandidates
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */18 * * *'
+  push:
+    paths:
+      - 'candidates.R'
 
 jobs:
-  run-websiteupdater:
+  run-autocandidate:
     runs-on: macOS-latest
     env:
-      OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
-      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-      AQI_API_KEY: ${{ secrets.AQI_API_KEY }}
-      PIRATE_WEATHER: ${{ secrets.PIRATE_WEATHER }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v3
@@ -30,22 +29,15 @@ jobs:
         if: steps.cache-r-packages.outputs.cache-hit != 'true'        
         run: R -e 'source("install-packages.R", echo = TRUE)'
         
-      - name: Download Parse and Update Data
-        run: |-
-          Rscript economy.R
-          Rscript covid.R
-          Rscript basketball.R
-          Rscript soil.R
-          Rscript wastewater.R
-          Rscript candidates.R
-          Rscript weather.R
+      - name: Download Parse and Update Candidate Data
+        run: Rscript candidates.R
         
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed
         run: |-
-          git config user.name "websiteupdater"
+          git config user.name "autocandidates"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "Latest candidates data: ${timestamp}" || exit 0
           git push
