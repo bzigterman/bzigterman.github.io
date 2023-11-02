@@ -5,9 +5,9 @@ on:
   schedule:
     - cron: '0 */18 * * *'
   push:
-    paths: |-
-      'candidates.R'
-      'data/presidential_candidates.csv'
+    paths:
+      - 'candidates.R'
+      - 'data/presidential_candidates.csv'
 
 jobs:
   run-autocandidate:
