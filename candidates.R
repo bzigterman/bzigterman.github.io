@@ -9,34 +9,46 @@ candidates_2024 <- read_csv(
   mutate(end = if_else(is.na(end),
                        today(tzone = "America/Chicago"),
                        end)) |> 
-  filter(year == 2024) |> 
-  arrange(start) |> 
-  arrange(desc(end)) |>
+  filter(year == 2024) |>
   mutate(active = if_else(end == today(tzone = "America/Chicago"),
-                          FALSE,
-                          TRUE))
-candidates <- count(candidates_2024)$n*23
+                          TRUE,
+                          FALSE)) |> 
+  mutate(party_active = case_when(
+    party == "Republican" & active == TRUE ~ "Republican_active",
+    party == "Republican" & active == FALSE ~ "Republican_inactive",
+    party == "Democrat" & active == TRUE ~ "dem_active",
+    party == "Democrat" & active == FALSE ~ "dem_inactive",
+    party == "Independent" & active == TRUE ~ "independent_active",
+    party == "Independent" & active == FALSE ~ "independent_inactive",
+    party == "Libertarian" & active == TRUE ~ "Libertarian_active",
+    party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
+  )) |> 
+  mutate(party_active = factor(party_active
+  )) |> 
+  mutate(party_active = fct_relevel(
+    party_active,c("dem_active","dem_inactive",
+                   "independent_active","independent_inactive",
+                   "Libertarian_active","Libertarian_inactive",
+                   "Republican_active","Republican_inactive")
+  )) |> 
+  arrange(start) |> 
+  arrange(desc(end))
 
-republicans <- candidates_2024 |> 
-  filter(party == "Republican") 
-gop_candidates <- count(republicans)$n*20
-democrats <- candidates_2024 |> 
-  filter(party == "Democrat")
-dem_candidates <- count(democrats)$n*26
+candidate_count <- count(candidates_2024)$n*23
 
 # make charts ----
 candidate_chart <- hchart(candidates_2024,
-              "columnrange",
-              hcaes(
-                x = candidate,
-                low = 1000*as.numeric( start),
-                high = 1000*as.numeric(end),
-                group = party,
-              ),
-              grouping = FALSE,
-              groupPadding = 0,
-              enableMouseTracking = FALSE,
-              pointPadding= 0
+                          "columnrange",
+                          hcaes(
+                            x = candidate,
+                            low = 1000*as.numeric( start),
+                            high = 1000*as.numeric(end),
+                            group = party_active,
+                          ),
+                          grouping = FALSE,
+                          groupPadding = 0,
+                          enableMouseTracking = FALSE,
+                          pointPadding= 0
 ) |> 
   # hc_tooltip(
   #   enabled = FALSE
@@ -52,8 +64,8 @@ candidate_chart <- hchart(candidates_2024,
     )
   )|> 
   hc_yAxis(
+    startOnTick = FALSE,
     endOnTick = FALSE,
-    min = 1000*as.numeric( min(candidates_2024$start)),
     type = "datetime") |> 
   hc_chart(
     inverted = TRUE
@@ -62,7 +74,10 @@ candidate_chart <- hchart(candidates_2024,
     hc_theme_bloom()
   ) |>
   hc_colors(
-    colors = c("blue","gray","green","red")
+    colors = c("#0000FF","#ccccff",
+               "#808080",#"#e5e5e5"
+               "#FFA500",#"#ffedcc",
+               "#FF0000","#ffcccc")
   ) |> 
   hc_credits(
     enabled = TRUE,
@@ -85,7 +100,7 @@ permalink: /projects/candidates
 # 2024
 
 <iframe src=\"/interactive/2024candidates.html\" width=\"100%\" height=\"",
-candidates,"\"> 
+candidate_count,"\"> 
 </iframe>
 
 ",
