@@ -66,6 +66,24 @@ candidate_chart <- hchart(candidates_2024,
   hc_yAxis(
     startOnTick = FALSE,
     endOnTick = FALSE,
+    plotLines = list(
+      list(
+        label = list(text = "Today"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( now(tzone = "America/Chicago"))*1000
+      ),
+      list(
+        label = list(text = "Election Day"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric(as_datetime("2024-11-05"))*1000
+      )
+      
+    ),
+    max = 1000*as.numeric(as_datetime("2024-12-05")),
     type = "datetime") |> 
   hc_chart(
     inverted = TRUE
