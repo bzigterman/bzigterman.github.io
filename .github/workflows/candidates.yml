@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: '0 */18 * * *'
   push:
-    paths: | -
+    paths: |-
       'candidates.R'
       'data/presidential_candidates.csv'
 
