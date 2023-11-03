@@ -19,4 +19,9 @@ permalink: /projects/candidates
 <iframe src="/interactive/2016candidates.html" width="100%" height="434"> 
 </iframe>
 
+# 2012
+
+<iframe src="/interactive/2012candidates.html" width="100%" height="272"> 
+</iframe>
+
 
