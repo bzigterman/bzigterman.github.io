@@ -30,13 +30,23 @@ candidates_2024 <- read_csv(
   mutate(party_active = factor(party_active
   )) |> 
   mutate(party_active = fct_relevel(
-    party_active,c("dem_active","dem_inactive",
+    party_active,c("dem_inactive","dem_active",
                    #"independent_active","independent_inactive",
                    #"Libertarian_active","Libertarian_inactive",
                    "Republican_active","Republican_inactive")
   )) |> 
-  arrange(start) |> 
-  arrange(desc(end)) |> 
+  arrange(if_else(party == "Democrat",
+                  desc(start),
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  start,
+                  NA)) |> 
+  arrange(if_else(party == "Democrat",
+                  end,
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  desc(end),
+                  NA)) |> 
   mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
                              year(start))) |> 
   mutate(clean_end = if_else(active == TRUE,
@@ -106,7 +116,7 @@ candidate_chart <- hchart(candidates_2024,
     hc_theme_bloom()
   ) |>
   hc_colors(
-    colors = c("#1A43C1","#d1d9f2",
+    colors = c("#d1d9f2","#1A43C1",
                #"#808080",#"#e5e5e5"
                #"#F7D348",#"#fdf6da",
                "#D53630","#f6d6d5")
@@ -148,13 +158,23 @@ candidates_2020 <- read_csv(
   mutate(party_active = factor(party_active
   )) |> 
   mutate(party_active = fct_relevel(
-    party_active,c("dem_active","dem_inactive",
+    party_active,c("dem_inactive","dem_active",
                    #"independent_active","independent_inactive",
                    #"Libertarian_active","Libertarian_inactive",
                    "Republican_active","Republican_inactive")
   )) |> 
-  arrange(start) |> 
-  arrange(desc(end)) |> 
+  arrange(if_else(party == "Democrat",
+                  desc(start),
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  start,
+                  NA)) |> 
+  arrange(if_else(party == "Democrat",
+                  end,
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  desc(end),
+                  NA)) |> 
   mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
                              year(start))) |> 
   mutate(clean_end = paste(month(end, label = TRUE, abbr = TRUE),
@@ -214,7 +234,7 @@ candidate_chart <- hchart(candidates_2020,
     hc_theme_bloom()
   ) |>
   hc_colors(
-    colors = c("#1A43C1","#d1d9f2",
+    colors = c("#d1d9f2","#1A43C1",
                # "#808080",#"#e5e5e5"
                # "#F7D348",#"#fdf6da",
                "#D53630","#f6d6d5")
