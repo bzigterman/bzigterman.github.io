@@ -36,7 +36,13 @@ candidates_2024 <- read_csv(
                    "Republican_active","Republican_inactive")
   )) |> 
   arrange(start) |> 
-  arrange(desc(end))
+  arrange(desc(end)) |> 
+  mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
+                             year(start))) |> 
+  mutate(clean_end = if_else(active == TRUE,
+                             "present",
+           paste(month(end, label = TRUE, abbr = TRUE),
+                             year(end))))
 
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
@@ -58,7 +64,7 @@ candidate_chart <- hchart(candidates_2024,
                           groupPadding = 0,
                           #enableMouseTracking = FALSE,
                           tooltip = list(
-                            pointFormat = "{point.party}"
+                            pointFormat = "{point.clean_start} — {point.clean_end}"
                           ),
                           pointPadding= 0) |> 
   hc_legend(
@@ -148,7 +154,11 @@ candidates_2020 <- read_csv(
                    "Republican_active","Republican_inactive")
   )) |> 
   arrange(start) |> 
-  arrange(desc(end))
+  arrange(desc(end)) |> 
+  mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
+                             year(start))) |> 
+  mutate(clean_end = paste(month(end, label = TRUE, abbr = TRUE),
+                                   year(end)))
 
 candidate_2020_count <- count(candidates_2020)$n*18+20
 
@@ -170,7 +180,7 @@ candidate_chart <- hchart(candidates_2020,
                           groupPadding = 0,
                           #enableMouseTracking = FALSE,
                           tooltip = list(
-                            pointFormat = "{point.party}"
+                            pointFormat = "{point.clean_start} — {point.clean_end}"
                           ),
                           pointPadding= 0) |> 
   hc_legend(
