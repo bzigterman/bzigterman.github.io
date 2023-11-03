@@ -108,6 +108,7 @@ candidate_chart <- hchart(candidates_2024,
       )
       
     ),
+    min = 1000*as.numeric(as_datetime("2022-10-05")),
     max = 1000*as.numeric(as_datetime("2024-12-05")),
     type = "datetime") |> 
   hc_chart(
@@ -347,6 +348,7 @@ candidate_chart <- hchart(candidates_2016,
         value = as.numeric(as_datetime("2016-11-08"))*1000
       )
     ),
+    min = 1000*as.numeric(as_datetime("2014-10-08")),
     max = 1000*as.numeric(as_datetime("2016-12-08")),
     type = "datetime") |> 
   hc_chart(
