@@ -16,7 +16,7 @@ permalink: /projects/candidates
 
 # 2016
 
-<iframe src="/interactive/2020candidates.html" width="100%" height="434"> 
+<iframe src="/interactive/2016candidates.html" width="100%" height="434"> 
 </iframe>
 
 
