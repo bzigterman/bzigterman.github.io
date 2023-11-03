@@ -58,6 +58,7 @@ candidate_2024_count <- count(candidates_2024)$n*18+20
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2024,
+                          animation = FALSE,
                           "columnrange",
                           hcaes(
                             x = candidate,
@@ -184,6 +185,7 @@ candidate_2020_count <- count(candidates_2020)$n*18+20
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2020,
+                          animation = FALSE,
                           "columnrange",
                           hcaes(
                             x = candidate,
@@ -302,6 +304,7 @@ candidate_2016_count <- count(candidates_2016)$n*18+20
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2016,
+                          animation = FALSE,
                           "columnrange",
                           hcaes(
                             x = candidate,
