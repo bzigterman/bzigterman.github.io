@@ -614,6 +614,127 @@ saveWidget(widget = candidate_chart,
            selfcontained = FALSE,
            libdir = "interactive")
 
+# 2004 ----
+## get data ----
+candidates_2004 <- read_csv(
+  "data/presidential_candidates.csv",
+  col_types = "cncTT") |> 
+  mutate(active = case_when(
+    end == as.Date("2004-11-02") ~ TRUE,
+    is.na(end) ~ TRUE,
+    .default = FALSE
+  )) |> 
+  mutate(end = if_else(is.na(end),
+                       today(tzone = "America/Chicago"),
+                       end)) |> 
+  filter(year == 2004) |>
+  mutate(party_active = case_when(
+    party == "Republican" & active == TRUE ~ "Republican_active",
+    party == "Republican" & active == FALSE ~ "Republican_inactive",
+    party == "Democrat" & active == TRUE ~ "dem_active",
+    party == "Democrat" & active == FALSE ~ "dem_inactive"#,
+    # party == "Independent" & active == TRUE ~ "independent_active",
+    # party == "Independent" & active == FALSE ~ "independent_inactive",
+    # party == "Libertarian" & active == TRUE ~ "Libertarian_active",
+    # party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
+  )) |> 
+  mutate(party_active = factor(party_active
+  )) |> 
+  mutate(party_active = fct_relevel(
+    party_active,c("dem_inactive","dem_active",
+                   #"independent_active","independent_inactive",
+                   #"Libertarian_active","Libertarian_inactive",
+                   "Republican_active","Republican_inactive")
+  )) |> 
+  arrange(if_else(party == "Democrat",
+                  desc(start),
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  start,
+                  NA)) |> 
+  arrange(if_else(party == "Democrat",
+                  end,
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  desc(end),
+                  NA)) |> 
+  mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
+                             year(start))) |> 
+  mutate(clean_end = paste(month(end, label = TRUE, abbr = TRUE),
+                           year(end)))
+
+candidate_2004_count <- count(candidates_2004)$n*18+20
+
+## make charts ----
+candidate_chart <- hchart(candidates_2004,
+                          animation = FALSE,
+                          "columnrange",
+                          hcaes(
+                            x = candidate,
+                            low = 1000*as.numeric( start),
+                            high = 1000*as.numeric(end),
+                            group = party_active
+                          ),
+                          states = list(
+                            inactive = list(
+                              enabled = FALSE
+                            )
+                          ),
+                          grouping = FALSE,
+                          groupPadding = 0,
+                          #enableMouseTracking = FALSE,
+                          tooltip = list(
+                            pointFormat = "{point.clean_start} — {point.clean_end}"
+                          ),
+                          pointPadding= 0) |> 
+  hc_legend(
+    enabled = FALSE
+  ) |> 
+  hc_xAxis(
+    lineWidth = 0,
+    tickLength = 0,
+    title = list(
+      enabled = FALSE
+    )
+  )|> 
+  hc_yAxis(
+    startOnTick = FALSE,
+    endOnTick = FALSE,
+    plotLines = list(
+      list(
+        label = list(text = "Election Day"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric(as_datetime("2004-11-02"))*1000
+      )
+    ),
+    min = 1000*as.numeric(as_datetime("2002-10-02")),
+    max = 1000*as.numeric(as_datetime("2004-12-02")),
+    type = "datetime") |> 
+  hc_chart(
+    inverted = TRUE
+  ) |> 
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_colors(
+    colors = c("#d1d9f2","#1A43C1",
+               # "#808080",#"#e5e5e5"
+               # "#F7D348",#"#fdf6da",
+               "#D53630"#,"#f6d6d5"
+               )
+  ) |> 
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: Wikipedia",
+    href = "https://en.wikipedia.org/wiki/2004_United_States_presidential_election")
+candidate_chart
+saveWidget(widget = candidate_chart, 
+           file = "interactive/2004candidates.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # make web text ----
 web_text <- paste(
   "---
@@ -650,6 +771,12 @@ candidate_2012_count,"\">
 
 <iframe src=\"/interactive/2008candidates.html\" width=\"100%\" height=\"",
 candidate_2008_count,"\"> 
+</iframe>
+
+# 2004
+
+<iframe src=\"/interactive/2004candidates.html\" width=\"100%\" height=\"",
+candidate_2004_count,"\"> 
 </iframe>
 
 ",
