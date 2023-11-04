@@ -24,4 +24,9 @@ permalink: /projects/candidates
 <iframe src="/interactive/2012candidates.html" width="100%" height="272"> 
 </iframe>
 
+# 2008
+
+<iframe src="/interactive/2008candidates.html" width="100%" height="380"> 
+</iframe>
+
 
