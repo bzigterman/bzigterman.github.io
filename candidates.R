@@ -117,8 +117,7 @@ candidate_chart <- hchart(candidates_2024,
     plotBands = list(
       list(
         label = list(text = "Primaries",
-                     #verticalAlign = "bottom",
-                     y = -20),
+                     y = -16),
         color = hex_to_rgba("gray", 0.2),
         zIndex = 2,
         from = as.numeric(as_datetime("2024-01-15"))*1000,
