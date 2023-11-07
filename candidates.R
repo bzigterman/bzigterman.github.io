@@ -51,8 +51,8 @@ candidates_2024 <- read_csv(
                              year(start))) |> 
   mutate(clean_end = if_else(active == TRUE,
                              "present",
-           paste(month(end, label = TRUE, abbr = TRUE),
-                             year(end))))
+                             paste(month(end, label = TRUE, abbr = TRUE),
+                                   year(end))))
 
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
@@ -196,7 +196,7 @@ candidates_2020 <- read_csv(
   mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
                              year(start))) |> 
   mutate(clean_end = paste(month(end, label = TRUE, abbr = TRUE),
-                                   year(end)))
+                           year(end)))
 
 candidate_2020_count <- count(candidates_2020)$n*18+20
 
@@ -516,10 +516,10 @@ candidate_chart <- hchart(candidates_2012,
   ) |>
   hc_colors(
     colors = c(#"#d1d9f2",
-               "#1A43C1",
-               # "#808080",#"#e5e5e5"
-               # "#F7D348",#"#fdf6da",
-               "#D53630","#f6d6d5")
+      "#1A43C1",
+      # "#808080",#"#e5e5e5"
+      # "#F7D348",#"#fdf6da",
+      "#D53630","#f6d6d5")
   ) |> 
   hc_credits(
     enabled = TRUE,
@@ -644,9 +644,9 @@ candidate_chart <- hchart(candidates_2008,
   ) |>
   hc_colors(
     colors = c("#d1d9f2","#1A43C1",
-      # "#808080",#"#e5e5e5"
-      # "#F7D348",#"#fdf6da",
-      "#D53630","#f6d6d5")
+               # "#808080",#"#e5e5e5"
+               # "#F7D348",#"#fdf6da",
+               "#D53630","#f6d6d5")
   ) |> 
   hc_credits(
     enabled = TRUE,
@@ -774,7 +774,7 @@ candidate_chart <- hchart(candidates_2004,
                # "#808080",#"#e5e5e5"
                # "#F7D348",#"#fdf6da",
                "#D53630"#,"#f6d6d5"
-               )
+    )
   ) |> 
   hc_credits(
     enabled = TRUE,
