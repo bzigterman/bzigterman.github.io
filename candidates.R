@@ -100,6 +100,13 @@ candidate_chart <- hchart(candidates_2024,
         value = as.numeric( now(tzone = "America/Chicago"))*1000
       ),
       list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2024-03-05"))*1000
+      ),
+      list(
         label = list(text = "Election Day"),
         color = "#595959",
         width = 1,
@@ -221,6 +228,13 @@ candidate_chart <- hchart(candidates_2020,
     endOnTick = FALSE,
     plotLines = list(
       list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2020-03-03"))*1000
+      ),
+      list(
         label = list(text = "Election Day"),
         color = "#595959",
         width = 1,
@@ -341,6 +355,13 @@ candidate_chart <- hchart(candidates_2016,
     endOnTick = FALSE,
     plotLines = list(
       list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2016-03-01"))*1000
+      ),
+      list(
         label = list(text = "Election Day"),
         color = "#595959",
         width = 1,
@@ -460,6 +481,13 @@ candidate_chart <- hchart(candidates_2012,
     startOnTick = FALSE,
     endOnTick = FALSE,
     plotLines = list(
+      list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2012-03-06"))*1000
+      ),
       list(
         label = list(text = "Election Day"),
         color = "#595959",
@@ -582,6 +610,13 @@ candidate_chart <- hchart(candidates_2008,
     endOnTick = FALSE,
     plotLines = list(
       list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2008-02-05"))*1000
+      ),
+      list(
         label = list(text = "Election Day"),
         color = "#595959",
         width = 1,
@@ -701,6 +736,13 @@ candidate_chart <- hchart(candidates_2004,
     startOnTick = FALSE,
     endOnTick = FALSE,
     plotLines = list(
+      list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2004-02-03"))*1000
+      ),
       list(
         label = list(text = "Election Day"),
         color = "#595959",
@@ -822,6 +864,13 @@ candidate_chart <- hchart(candidates_2000,
     startOnTick = FALSE,
     endOnTick = FALSE,
     plotLines = list(
+      list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2000-03-07"))*1000
+      ),
       list(
         label = list(text = "Election Day"),
         color = "#595959",
