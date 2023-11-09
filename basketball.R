@@ -261,283 +261,91 @@ standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
   write_csv(standings_check,"data/nba_standings.csv")
   
-  
   # pennant race chart ----
-  nba_min <-  .7*min(nba_standings$win_pct)
-  nba_max <- 1.05*max(nba_standings$win_pct)
-  nudge <- -.0461118*(nba_max-nba_min)
+  ## interactive ----
   
-  eastern_standings <- nba_standings %>%
-    filter(conference == "Eastern") %>%
-    arrange(desc(win_pct)) %>%
-    select(team_label, win_pct, win_pct_text)
+  sorted_nba_standings <- nba_standings |> 
+    select(team_abbreviation,wins,losses,win_pct,win_pct_text,conference) |>
+    arrange(if_else(conference == "Western",
+                    (win_pct),
+                    NA)) |> 
+    arrange(if_else(conference == "Eastern",
+                    desc(win_pct),
+                    NA)) |> 
+    mutate(conference = factor(conference
+    )) |> 
+    mutate(conference = fct_relevel(
+      conference,c("Western","Eastern")
+    )) 
+    
   
-  western_standings <- nba_standings %>%
-    filter(conference == "Western") %>%
-    arrange(desc(win_pct)) %>%
-    select(team_label, win_pct, win_pct_text)
-  
-  western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
-                                                y = win_pct)) +
-    geom_rect(xmin = 9.5, xmax = Inf,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey85") +
-    geom_rect(xmin = 5.5, xmax = 9.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey95") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               size = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_gradient(guide = NULL,
-                        low = "#fd8d3c",
-                        high = "#800026") +
-    coord_cartesian(ylim = c(nba_min,nba_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    # geom_text(aes(label = division_leaders),
-    #           family = "mono",
-    #           nudge_y = .011) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "Western") +
-    theme(
-      legend.title = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      plot.title = element_text(hjust = 1),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(5,5,0,110),
-      panel.grid = element_blank(),
-      axis.text = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
-    )
-  western_plot
-  
-  
-  eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
-                                                y = win_pct)) +
-    geom_rect(xmin = -Inf, xmax = 6.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey85") +
-    geom_rect(xmin = 6.5, xmax = 10.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey95") +
-    # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-    #           ymin = -Inf, ymax = Inf,
-    #           fill = "grey85") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               size = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_continuous(guide = NULL,
-                          low = "#3690c0",
-                          high = "#023858") +
-    coord_cartesian(ylim = c(nba_min,nba_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    # geom_text(aes(label = division_leaders),
-    #           family = "mono",
-    #           nudge_y = .011) +
-    scale_y_continuous(labels = label_comma(accuracy = .001)) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "Eastern") +
-    theme(    
-      legend.title = element_blank(),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(0,90,0,0),
-      panel.grid = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.text.x = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
-    )
-  eastern_plot
-  plot_grid(western_plot,eastern_plot,
-            align = "h") 
-  
-  ggsave("plots/nba_team_rank.png",
-         width = 8, height = 8*(628/1200),
-         dpi = 320)
-  
-  western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
-                                                y = win_pct)) +
-    geom_rect(xmin = 9.5, xmax = Inf,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey85") +
-    geom_rect(xmin = 5.5, xmax = 9.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey95") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               size = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_gradient(guide = NULL,
-                        low = "#fd8d3c",
-                        high = "#800026") +
-    coord_cartesian(ylim = c(nba_min,nba_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    # geom_text(aes(label = division_leaders),
-    #           family = "mono",
-    #           nudge_y = .011) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "Western") +
-    theme(
-      legend.title = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      plot.title = element_text(hjust = 1),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(t = 5,
-                           r = 5,
-                           b = 0#,
-                           #l = 110
-      ),
-      panel.grid = element_blank(),
-      axis.text = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
-    )
-  western_plot
-  
-  
-  eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
-                                                y = win_pct)) +
-    geom_rect(xmin = -Inf, xmax = 6.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey85") +
-    geom_rect(xmin = 6.5, xmax = 10.5,
-              ymin = -Inf, ymax = Inf,
-              fill = "grey95") +
-    # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-    #           ymin = -Inf, ymax = Inf,
-    #           fill = "grey85") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               size = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_continuous(guide = NULL,
-                          low = "#3690c0",
-                          high = "#023858") +
-    coord_cartesian(ylim = c(nba_min,nba_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    # geom_text(aes(label = division_leaders),
-    #           family = "mono",
-    #           nudge_y = .011) +
-    scale_y_continuous(labels = label_comma(accuracy = .001)) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "Eastern") +
-    theme(    
-      legend.title = element_blank(),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(t = 0,
-                           #                    #r = 90,
-                           b = 0,
-                           l = 0),
-      panel.grid = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.text.x = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
-    )
-  eastern_plot
-  plot_grid(western_plot,eastern_plot,
-            align = "h",
-            rel_widths = c(6,7)) 
-  
-  ggsave("plots/nba_team_rank_mobile.png", bg = "white",
-         width = 4, height = 8*(628/1200),
-         dpi = 320)
+  fig <- hchart(sorted_nba_standings,
+                "column",
+                animation = FALSE,
+                hcaes(x = team_abbreviation,
+                      y = win_pct,
+                      group = conference),
+                colorKey = "win_pct",
+                #colorAxis = 1,
+                grouping = FALSE,
+                groupPadding = 0,
+                pointPadding = 0,
+                tooltip = list(
+                  pointFormat = "{point.wins} – {point.losses}, {point.win_pct_text}"
+                )) |> 
+    hc_xAxis(tickLength = 0,
+             title = list( enabled = FALSE    ),
+             plotLines = list(
+               list(
+                 color = "#595959",
+                 width = 1,
+                 zIndex = 2,
+                 value = 14.5
+               )),
+             plotBands = list(
+               list(
+                 color = hex_to_rgba("gray", 0.4),
+                 zIndex = 2,
+                 from = 8.5,
+                 to = 20.5
+               ),
+               list(
+                 color = hex_to_rgba("gray", 0.2),
+                 zIndex = 2,
+                 from = 4.5,
+                 to = 24.5
+               )
+             ),
+             labels = list(
+               allowOverlap = TRUE,
+               rotation = 90,
+               padding = 0,
+               step = 1
+             )) |> 
+    hc_yAxis(endOnTick = FALSE,
+             startOnTick = FALSE,
+             opposite = FALSE,
+             title = list(
+               enabled = FALSE    
+             ),
+             labels = list(
+               format = "{value:.3f}"
+             )) |> 
+    hc_add_theme(
+      hc_theme_bloom()
+    ) |> 
+    hc_legend(enabled = FALSE) |> 
+    hc_colorAxis(
+      minColor = "red",
+      maxColor = "blue"
+    ) 
+  fig
+  saveWidget(widget = fig, file = "interactive/nba_team_rank.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
   
   # conference standings charts ----
-  conference_standings_plot <- function(conference) {
-    ggplot(conference, aes(x = game_n,
-                           y = net_wins,
-                           color= team,
-                           label = team_label)) +
-      #coord_fixed(xlim = c(0,162)) +
-      geom_hline(yintercept = 0,
-                 color = "grey10",
-                 size = .2) +
-      geom_vline(xintercept = 82,
-                 color = "grey50",
-                 size = .2) +
-      geom_line() +
-      geom_text(aes(x = game_n + 5),
-                family = "mono",
-                size = 4) +
-      scale_x_continuous(breaks = c(0,41, 82)) +
-      scale_y_continuous(position = "right") +
-      # scale_color_brewer(palette = "Set1",
-      #                    guide = NULL) +
-      scale_color_discrete(guide = NULL) +
-      # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
-      #                  guide = NULL) +
-      coord_cartesian(xlim = c(0,87)) +
-      theme_minimal() +
-      labs(title = conference$conference,
-           #caption = "Source: FiveThirtyEight",
-           x = NULL,
-           y = NULL) +
-      theme(
-        plot.background = element_rect(fill = "white", color = "white"),
-        panel.grid = element_blank(),
-        legend.title = element_blank(),
-        axis.ticks.x = element_line(color = "grey60", size = 0.25),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        axis.ticks.y = element_line(color = "grey60"),
-        plot.caption = element_text(color = "grey40")
-      )
-  }
-  eastern_plot <- conference_standings_plot(eastern)
-  western_plot <- conference_standings_plot(western)
-  
-  plot_grid(western_plot, eastern_plot,
-            align = "h")
-  
-  ggsave("plots/nba_standings.png",
-         width = 8, height = 4, dpi = 320)
-  
-  plot_grid(western_plot, eastern_plot,
-            ncol = 1,
-            align = "v")
-  
-  ggsave("plots/nba_standings_mobile.png",
-         width = 4, height = 8, dpi = 320)
-  
-  # interactive ----
+  ## interactive ----
   fig1 <- hchart(eastern, "line", hcaes(x = game_n,
                                         y = net_wins,
                                         group = team),
@@ -546,7 +354,7 @@ if (length(standings_the_same) > 0) {
                  ),
                  animation = FALSE,
                  tooltip = list(
-                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
   ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
     hc_legend(enabled = TRUE,
@@ -573,7 +381,7 @@ if (length(standings_the_same) > 0) {
                    enabled = TRUE
                  ),
                  tooltip = list(
-                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
   ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
     hc_legend(enabled = TRUE,
@@ -714,11 +522,9 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",nba_standings_table_html," 
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/nba_team_rank.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/nba_team_rank_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/nba_team_rank.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+</div>
 
 Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
