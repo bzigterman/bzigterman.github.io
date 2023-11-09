@@ -88,7 +88,7 @@ teams <- load_nba_team_box(seasons = most_recent_nba_season()) |>
 get_team_records <- function(abbreviation) {
   records <- load_nba_team_box(seasons = most_recent_nba_season()) |> 
     select(game_id,game_date,team_abbreviation,team_logo,team_winner,
-           opponent_team_abbreviation) |> 
+           opponent_team_abbreviation,team_display_name) |> 
     arrange(game_date) |> 
     filter(team_abbreviation == abbreviation) |> 
     mutate(game_n = row_number()) |> 
@@ -265,7 +265,8 @@ if (length(standings_the_same) > 0) {
   ## interactive ----
   
   sorted_nba_standings <- nba_standings |> 
-    select(team_abbreviation,wins,losses,win_pct,win_pct_text,conference) |>
+    select(team_abbreviation,wins,losses,win_pct,win_pct_text,conference,
+           team_display_name) |>
     arrange(if_else(conference == "Western",
                     (win_pct),
                     NA)) |> 
@@ -277,7 +278,7 @@ if (length(standings_the_same) > 0) {
     mutate(conference = fct_relevel(
       conference,c("Western","Eastern")
     )) 
-    
+  
   
   fig <- hchart(sorted_nba_standings,
                 "column",
@@ -291,7 +292,8 @@ if (length(standings_the_same) > 0) {
                 groupPadding = 0,
                 pointPadding = 0,
                 tooltip = list(
-                  pointFormat = "{point.wins} – {point.losses}, {point.win_pct_text}"
+                  headerFormat = "",
+                  pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
                 )) |> 
     hc_xAxis(tickLength = 0,
              title = list( enabled = FALSE    ),
@@ -354,6 +356,7 @@ if (length(standings_the_same) > 0) {
                  ),
                  animation = FALSE,
                  tooltip = list(
+                   headerFormat = "",
                    pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
   ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
@@ -381,6 +384,7 @@ if (length(standings_the_same) > 0) {
                    enabled = TRUE
                  ),
                  tooltip = list(
+                   headerFormat = "",
                    pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
   ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
