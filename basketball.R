@@ -277,17 +277,24 @@ if (length(standings_the_same) > 0) {
     )) |> 
     mutate(conference = fct_relevel(
       conference,c("Western","Eastern")
-    )) 
+    )) |> 
+    mutate(west_win_pct = (if_else(conference == "Western",
+                                   (win_pct),
+                                   NA))) |> 
+    mutate(east_win_pct = (if_else(conference == "Eastern",
+                                   (win_pct),
+                                   NA))) 
   
   
   fig <- hchart(sorted_nba_standings,
                 "column",
+                borderWidth = 0,
                 animation = FALSE,
                 hcaes(x = team_abbreviation,
-                      y = win_pct,
+                      y = west_win_pct,
                       group = conference),
-                colorKey = "win_pct",
-                #colorAxis = 1,
+                colorKey = "west_win_pct",
+                colorAxis = 1,
                 grouping = FALSE,
                 groupPadding = 0,
                 pointPadding = 0,
@@ -295,6 +302,24 @@ if (length(standings_the_same) > 0) {
                   headerFormat = "",
                   pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
                 )) |> 
+    hc_add_series(
+      sorted_nba_standings,
+      "column",
+      borderWidth = 0,
+      animation = FALSE,
+      hcaes(x = team_abbreviation,
+            y = east_win_pct,
+            group = conference),
+      colorKey = "east_win_pct",
+      colorAxis = 0,
+      grouping = FALSE,
+      groupPadding = 0,
+      pointPadding = 0,
+      tooltip = list(
+        headerFormat = "",
+        pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+      )
+    ) |> 
     hc_xAxis(tickLength = 0,
              title = list( enabled = FALSE    ),
              plotLines = list(
@@ -316,6 +341,20 @@ if (length(standings_the_same) > 0) {
                  zIndex = 2,
                  from = 4.5,
                  to = 24.5
+               ),
+               list(
+                 label = list(text = "Western"),
+                 color = hex_to_rgba("white", 0),
+                 zIndex = 2,
+                 from = -0.5,
+                 to = 4.5
+               ),
+               list(
+                 label = list(text = "Eastern"),
+                 color = hex_to_rgba("white", 0),
+                 zIndex = 2,
+                 from = 24.5,
+                 to = 29.5
                )
              ),
              labels = list(
@@ -338,9 +377,16 @@ if (length(standings_the_same) > 0) {
     ) |> 
     hc_legend(enabled = FALSE) |> 
     hc_colorAxis(
-      minColor = "red",
-      maxColor = "blue"
-    ) 
+      list(
+        minColor = "#6baed6",
+        maxColor = "#08306b"
+      ),
+      list(
+        minColor = "orange",
+        maxColor = "darkred"
+      )
+    )
+  
   fig
   saveWidget(widget = fig, file = "interactive/nba_team_rank.html",
              selfcontained = FALSE,
