@@ -357,8 +357,8 @@ if (length(standings_the_same) > 0) {
                  animation = FALSE,
                  tooltip = list(
                    headerFormat = "",
-                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
-  ) %>%
+                   pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+                 )  ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
     hc_legend(enabled = TRUE,
               align = "right",
@@ -385,8 +385,8 @@ if (length(standings_the_same) > 0) {
                  ),
                  tooltip = list(
                    headerFormat = "",
-                   pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}")
-  ) %>%
+                   pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+                 ) ) %>%
     hc_colors(brewer.pal(12,"Paired")) %>%
     hc_legend(enabled = TRUE,
               align = "right",
