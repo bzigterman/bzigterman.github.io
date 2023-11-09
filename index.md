@@ -6,7 +6,7 @@ Hello! This is my website. Here's what I'm up to:
 
 ### Present:
 
-- Reporter for [Law360](https://www.law360.com/search/articles?q=reporter:%22Ben+Zigterman%22)
+- Senior reporter for [Law360](https://www.law360.com/search/articles?q=reporter:%22Ben+Zigterman%22)
 
 ### Past:
 
