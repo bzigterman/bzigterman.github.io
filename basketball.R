@@ -524,7 +524,6 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 <iframe src=\"/interactive/nba_team_rank.html\" width=\"100%\" height=\"400\"> 
 </iframe>
-</div>
 
 Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
