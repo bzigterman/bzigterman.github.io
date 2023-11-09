@@ -52,9 +52,13 @@ permalink: /resume
 - Reported on a wide range of community news
 - Summarized police reports
 
-2011–14: Head Copy Editor, **The Chicago Maroon**
+2012–14: Head Copy Editor, **The Chicago Maroon**
 
 - Supervised 5–10 copy editors for the University of Chicago student newspaper
+- Edited articles for punctuation and grammar
+
+2011–12: Copy Editor, **The Chicago Maroon**
+
 - Edited articles for punctuation and grammar
 
 2013–14: Editor, **The Daily Sophist**
