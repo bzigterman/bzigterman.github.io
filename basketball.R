@@ -403,8 +403,8 @@ if (length(standings_the_same) > 0) {
     hc_legend(enabled = FALSE) |> 
     hc_colorAxis(
       list(
-        minColor = "#6baed6",
-        maxColor = "#08306b"
+        minColor = "purple",
+        maxColor = "darkblue"
       ),
       list(
         minColor = "orange",
