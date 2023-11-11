@@ -265,7 +265,7 @@ if (length(standings_the_same) > 0) {
   ## interactive ----
   
   sorted_nba_standings <- nba_standings |> 
-    select(team_abbreviation,wins,losses,win_pct,win_pct_text,conference,
+    select(team_label,wins,losses,win_pct,win_pct_text,conference,
            team_display_name) |>
     arrange(if_else(conference == "Western",
                     (win_pct),
@@ -290,7 +290,7 @@ if (length(standings_the_same) > 0) {
                 "column",
                 borderWidth = 0,
                 animation = FALSE,
-                hcaes(x = team_abbreviation,
+                hcaes(x = team_label,
                       y = west_win_pct,
                       group = conference),
                 colorKey = "west_win_pct",
@@ -298,7 +298,7 @@ if (length(standings_the_same) > 0) {
                 grouping = FALSE,
                 dataLabels = list(
                   enabled = TRUE,
-                  format = "{point.team_abbreviation}",
+                  format = "{point.team_label}",
                   rotation = 90,
                   allowOverlap = TRUE,
                   crop = FALSE,
@@ -315,7 +315,7 @@ if (length(standings_the_same) > 0) {
       "column",
       dataLabels = list(
         enabled = TRUE,
-        format = "{point.team_abbreviation}",
+        format = "{point.team_label}",
         rotation = 90,
         allowOverlap = TRUE,
         crop = FALSE,
@@ -323,7 +323,7 @@ if (length(standings_the_same) > 0) {
       ),
       borderWidth = 0,
       animation = FALSE,
-      hcaes(x = team_abbreviation,
+      hcaes(x = team_label,
             y = east_win_pct,
             group = conference),
       colorKey = "east_win_pct",
