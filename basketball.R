@@ -296,6 +296,14 @@ if (length(standings_the_same) > 0) {
                 colorKey = "west_win_pct",
                 colorAxis = 1,
                 grouping = FALSE,
+                dataLabels = list(
+                  enabled = TRUE,
+                  format = "{point.team_abbreviation}",
+                  rotation = 90,
+                  allowOverlap = TRUE,
+                  crop = FALSE,
+                  y = 15
+                ),
                 groupPadding = 0,
                 pointPadding = 0,
                 tooltip = list(
@@ -305,6 +313,14 @@ if (length(standings_the_same) > 0) {
     hc_add_series(
       sorted_nba_standings,
       "column",
+      dataLabels = list(
+        enabled = TRUE,
+        format = "{point.team_abbreviation}",
+        rotation = 90,
+        allowOverlap = TRUE,
+        crop = FALSE,
+        y = 15
+      ),
       borderWidth = 0,
       animation = FALSE,
       hcaes(x = team_abbreviation,
@@ -322,6 +338,7 @@ if (length(standings_the_same) > 0) {
     ) |> 
     hc_xAxis(tickLength = 0,
              title = list( enabled = FALSE    ),
+             labels = list( enabled = FALSE    ),
              plotLines = list(
                list(
                  color = "#595959",
@@ -365,6 +382,14 @@ if (length(standings_the_same) > 0) {
              )) |> 
     hc_yAxis(endOnTick = FALSE,
              startOnTick = FALSE,
+             plotLines = list(
+               list(
+                 # label = list(text = "0.500"),
+                 color = "#595959",
+                 width = 1,
+                 zIndex = 2,
+                 value = .5
+               )),
              opposite = FALSE,
              title = list(
                enabled = FALSE    
