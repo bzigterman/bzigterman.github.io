@@ -381,6 +381,7 @@ if (length(standings_the_same) > 0) {
                step = 1
              )) |> 
     hc_yAxis(endOnTick = FALSE,
+             tickInterval = .25,
              startOnTick = FALSE,
              plotLines = list(
                list(
