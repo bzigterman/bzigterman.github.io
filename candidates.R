@@ -56,6 +56,68 @@ candidates_2024 <- read_csv(
 
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
+## streamgraph ----
+GOP <- candidates_2024 |> 
+  filter(party == "Republican") |> 
+  select(candidate,start,end) |> 
+  mutate(across(2:3, ymd)) %>% 
+  transmute(date = map2(start, end, seq, by = "1 day"), 
+            candidate, value = 1) %>% 
+  unnest(date) %>%
+  pivot_wider(names_from = candidate, values_from = value) |> 
+  pivot_longer(!date)|> 
+  mutate(party = "R") |> 
+  arrange(date)
+dems <- candidates_2024 |> 
+  filter(party == "Democrat") |> 
+  select(candidate,start,end) |> 
+  mutate(across(2:3, ymd)) %>% 
+  transmute(date = map2(start, end, seq, by = "1 day"), 
+            candidate, value = 1) %>% 
+  unnest(date) %>%
+  pivot_wider(names_from = candidate, values_from = value) |> 
+  pivot_longer(!date)|> 
+  mutate(party = "D") |> 
+  arrange(date)
+
+by_date <- full_join(GOP,dems) |> 
+  arrange(date) |>
+  group_by(party) 
+candidate_2024_count <- count(candidates_2024)$n*18+20
+
+colfunc <- colorRampPalette(c("red", "white"))
+
+candidate_chart <- hchart(GOP,
+                          "area",
+                          lineWidth = 0,
+                          label = list(
+                            enabled = TRUE
+                          ),
+                          stacking = "normal",
+                          stack = 0,
+                          hcaes(
+                            x = date,
+                            y = value,
+                            group = name
+                          ))  |> 
+  hc_add_series(dems,
+                "area",
+                lineWidth = 0,
+                label = list(
+                  enabled = TRUE
+                ),
+                stacking = "normal",
+                stack = 1,
+                hcaes(
+                  x = date,
+                  y = -value,
+                  group = name
+                ))  |> 
+  hc_legend(enabled = FALSE)
+
+candidate_chart
+
+
 ## make charts ----
 candidate_chart <- hchart(candidates_2024,
                           animation = FALSE,
