@@ -97,7 +97,8 @@ candidate_chart <- hchart(candidates_2024,
         color = "#595959",
         width = 1,
         zIndex = 2,
-        value = as.numeric( now(tzone = "America/Chicago"))*1000
+        value = as.numeric( as_datetime(
+          today(tzone = "America/Chicago")))*1000
       ),
       list(
         label = list(text = "Super Tuesday"),
