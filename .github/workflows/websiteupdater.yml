@@ -37,7 +37,6 @@ jobs:
           Rscript basketball.R
           Rscript soil.R
           Rscript wastewater.R
-          Rscript candidates.R
           Rscript weather.R
         
       # Add new files in folder, commit along with other modified files, push

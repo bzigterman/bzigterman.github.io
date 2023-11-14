@@ -84,6 +84,10 @@ candidate_chart <- hchart(candidates_2024,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
