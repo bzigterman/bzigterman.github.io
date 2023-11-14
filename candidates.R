@@ -72,7 +72,8 @@ candidate_chart <- hchart(candidates_2024,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -217,7 +218,8 @@ candidate_chart <- hchart(candidates_2020,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -344,7 +346,8 @@ candidate_chart <- hchart(candidates_2016,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -471,7 +474,8 @@ candidate_chart <- hchart(candidates_2012,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -599,7 +603,8 @@ candidate_chart <- hchart(candidates_2008,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -726,7 +731,8 @@ candidate_chart <- hchart(candidates_2004,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
@@ -854,7 +860,8 @@ candidate_chart <- hchart(candidates_2000,
                             )
                           ),
                           grouping = FALSE,
-                          groupPadding = 0,
+                          borderWidth = 0,
+                          borderRadius = "1%",
                           #enableMouseTracking = FALSE,
                           tooltip = list(
                             pointFormat = "{point.clean_start} — {point.clean_end}"
