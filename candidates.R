@@ -234,6 +234,10 @@ candidate_chart <- hchart(candidates_2020,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
@@ -362,6 +366,10 @@ candidate_chart <- hchart(candidates_2016,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
@@ -490,6 +498,10 @@ candidate_chart <- hchart(candidates_2012,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
@@ -619,6 +631,10 @@ candidate_chart <- hchart(candidates_2008,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
@@ -747,6 +763,10 @@ candidate_chart <- hchart(candidates_2004,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
@@ -876,6 +896,10 @@ candidate_chart <- hchart(candidates_2000,
   ) |> 
   hc_xAxis(
     lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
     tickLength = 0,
     title = list(
       enabled = FALSE
