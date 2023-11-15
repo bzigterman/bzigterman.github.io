@@ -2,6 +2,15 @@ library(tidyverse)
 library(highcharter)
 library(htmlwidgets)
 
+# predictIt data ----
+url <- "https://www.predictit.org/api/marketdata/markets/7053"
+predictit_lists <- GET(url)
+predictit <- jsonlite::fromJSON(rawToChar(predictit_lists$content)) |> 
+  as_tibble() |> 
+  unnest() |> 
+  janitor::clean_names() |> 
+  select(name1,short_name1,last_close_price)
+
 # 2024 ----
 ## get data ----
 candidates_2024 <- read_csv(
