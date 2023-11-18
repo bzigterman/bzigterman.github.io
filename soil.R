@@ -78,6 +78,11 @@ fig <- highchart() |>
                 color = "#527DC7",
                 borderWidth = 0,
                 enableMouseTracking = FALSE,
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 yAxis = 0,
                 groupPadding = 0,
                 pointPadding = 0,
