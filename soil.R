@@ -59,7 +59,7 @@ latest_freeze_weeks <- latest_freeze_dates |>
   distinct(latest,.keep_all = TRUE)  |> 
   select(latest, n,date, years) |> 
   mutate(total = cumsum(n)) |> 
-  mutate(pct = 100*round(total/total_years,2))
+  mutate(pct = round(100*round(total/total_years,2)))
 years <- as.numeric(count(latest_freeze_dates))
 min <- min(latest_freeze_weeks$n)
 max <- max(latest_freeze_weeks$n)
@@ -74,10 +74,11 @@ options(highcharter.global = global)
 fig <- highchart() |> 
   hc_add_series(latest_freeze_weeks,
                 hcaes(x = latest,
-                      #color = pct,
                       y = n),
                 color = "#527DC7",
                 borderWidth = 0,
+                enableMouseTracking = FALSE,
+                yAxis = 0,
                 groupPadding = 0,
                 pointPadding = 0,
                 #pointWidth = 5,
@@ -86,12 +87,21 @@ fig <- highchart() |>
                   headerFormat = "<b>{point.date}: {point.pct}%</b><br>"
                 ),
                 type = "column") |> 
-  # hc_add_series(latest_freeze_weeks,
-  #               hcaes(x = latest,
-  #                     y = pct),
-  #               zIndex = 0,
-  #               color = "gray",
-  #               type = "area") |> 
+  hc_add_series(latest_freeze_weeks,
+                hcaes(x = latest,
+                      y = pct),
+                marker = list(
+                  enabled = FALSE
+                ),
+                yAxis = 1,
+                tooltip = list(
+                  pointFormat = "{point.years}",
+                  headerFormat = "<b>{point.date}: {point.pct}%</b><br>"
+                ),
+                step = "left",
+                zIndex = 0,
+                color = "lightgray",
+                type = "line") |>
   hc_xAxis(type = "datetime",
            plotLines = list(
              list(
@@ -104,14 +114,20 @@ fig <- highchart() |>
            dateTimeLabelFormats = list(
              week = "%B %e"
            )) |> 
-  hc_yAxis(endOnTick = FALSE) |> 
+  hc_yAxis_multiples(list(endOnTick = FALSE,
+                          title = NULL,
+                          visible = FALSE),
+                     list(endOnTick = FALSE,
+                          labels = list(
+                            format = "{value}%"
+                          ),
+                          tickInterval=25,
+                          title = NULL,
+                          opposite = TRUE)) |> 
   hc_add_theme(
     hc_theme_bloom()
   ) |> 
   hc_legend(enabled = FALSE) |> 
-  #hc_tooltip(split = TRUE) |> 
-  #  hc_tooltip(pointFormat = "{point.years}",
-  #             headerFormat = "<b>Week {point.week}</b><br>") |> 
   hc_credits(
     enabled = TRUE,
     text = "Source: NCEI",
