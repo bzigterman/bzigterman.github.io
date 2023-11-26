@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 06:56 AM CT, November 26</p>
+<p class="updated_time"> Latest data: 07:06 AM CT, November 26</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -16,13 +16,14 @@ webappicon: /weather.png
 Currently:
 
 - 30°
-- 27° dew point
+- 29° dew point
 - Snow
 - 90% humidity
 - 3 mph wind
 - 100% cloud cover
-- 9 AQI 🟩
-- 1.22 inches of snow and 0.01 inches of rain expected in the next 72 hours
+- 10 AQI 🟩
+- 0.11 inches of snow in the past 24 hours
+- 1.11 inches of snow and 0.01 inches of rain expected in the next 72 hours
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
