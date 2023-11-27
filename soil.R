@@ -77,7 +77,6 @@ fig <- highchart() |>
                       y = n),
                 color = "#527DC7",
                 borderWidth = 0,
-                enableMouseTracking = FALSE,
                 states = list(
                   inactive = list(
                     enabled = FALSE
@@ -95,6 +94,11 @@ fig <- highchart() |>
   hc_add_series(latest_freeze_weeks,
                 hcaes(x = latest,
                       y = pct),
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
                 marker = list(
                   enabled = FALSE
                 ),
