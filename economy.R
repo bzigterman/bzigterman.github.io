@@ -169,7 +169,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                  tail(recent_data$short_date,1)),
     href = "https://fred.stlouisfed.org/series/A229RX0") %>%
   hc_yAxis(title = list(text = ""),
-           min = 0,
+           #min = 0,
+           startOnTick = FALSE,
            endOnTick = FALSE) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_add_theme(
