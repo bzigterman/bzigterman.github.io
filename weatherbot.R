@@ -206,7 +206,7 @@ radar_img <- tempfile( fileext = "gif")
 download.file(url = radar, destfile = radar_img)
 
 # webcam
-webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4011007_-8824329_1_N.jpg"
+webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4014570_-8828368_1_W.jpg"
 webcam_img <- tempfile(fileext = "jpg")
 download.file(url = webcam_url, destfile = webcam_img)
 
