@@ -200,11 +200,6 @@ champaign_precip_forecast <- case_when(
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
-# radar
-radar <- "https://radar.weather.gov/ridge/standard/KILX_loop.gif"
-radar_img <- tempfile( fileext = "gif")
-download.file(url = radar, destfile = radar_img)
-
 # webcam
 webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4014570_-8828368_1_W.jpg"
 webcam_img <- tempfile(fileext = "jpg")
@@ -236,13 +231,8 @@ if (rainfall >= 0 &&
 ) {
   post_toot(
     status   = text,
-    media    = if_else(
-      champaign_humidity_helper$precipProbability >= 50,
-      radar_img, webcam_img),
-    alt_text = if_else(
-      champaign_humidity_helper$precipProbability >= 50,
-      "GIF of the radar for Illinois",
-      "Webcam from Champaign, Illinois"))
+    media    = webcam_img,
+    alt_text = "Webcam from Champaign, Illinois")
 }
 
 
