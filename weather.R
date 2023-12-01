@@ -70,7 +70,8 @@ om_hourly <- as_tibble( om$hourly) |>
   select(!cloudcover) |> 
   mutate(windSpeed = windspeed_10m) |> 
   select(!windspeed_10m) |> 
-  mutate(windGust = if_else(windgusts_10m - windSpeed > 10,
+  mutate(windGust = windgusts_10m) |> 
+  mutate(windGust_limited = if_else(windgusts_10m - windSpeed > 10,
                             windgusts_10m,
                             NA)) |> 
   select(!windgusts_10m) |> 
@@ -326,7 +327,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = snow_depth*12),
                 yAxis = 2) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### clouds ----
                 type = "area",
                 name = "Cloud Cover",
                 states = list(
@@ -342,7 +343,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = cloudCover),
                 yAxis = 3) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### wind ----
                 type = "line",
                 name = "Wind",
                 states = list(
@@ -351,7 +352,7 @@ fig <- highchart() |>
                   )
                 ),
                 connectNulls = TRUE,
-                color = "black",
+                color = "gray",
                 tooltip = list(valueSuffix = " mph",
                                valueDecimals = 0),
                 label = list(
@@ -361,6 +362,27 @@ fig <- highchart() |>
                 yAxis = 4) |> 
   hc_add_series(data = om_hourly,
                 type = "line",
+                name = "Gusts",
+                states = list(
+                  hover = list(
+                    enabled = FALSE
+                  ),
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                connectNulls = FALSE,
+                color = "gray",
+                tooltip = list(valueSuffix = " mph",
+                               valueDecimals = 0),
+                label = list(
+                  enabled = TRUE),
+                lineWidth = 0,
+                hcaes(x = time*1000,
+                      y = windGust_limited),
+                yAxis = 4) |> 
+  hc_add_series(data = om_hourly,
+                type = "arearange",
                 name = "Gusts",
                 states = list(
                   inactive = list(
@@ -373,10 +395,14 @@ fig <- highchart() |>
                                valueDecimals = 0),
                 label = list(
                   enabled = TRUE),
+                lineWidth = 0,
+                enableMouseTracking = FALSE,
+                opacity = .35,
                 hcaes(x = time*1000,
-                      y = windGust),
+                      low = windSpeed,
+                      high = windGust),
                 yAxis = 4) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### humidity ----
                 type = "line",
                 name = "Humidity",
                 connectNulls = TRUE,
@@ -393,7 +419,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = humidity),
                 yAxis = 5) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### uv ----
                 type = "line",
                 name = "UV Index",
                 states = list(
