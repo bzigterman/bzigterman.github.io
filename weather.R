@@ -83,8 +83,8 @@ om_hourly <- as_tibble( om$hourly) |>
   mutate(
     apparent_temperature_limited = 
       case_when(
-        apparent_temperature - temperature > 10 ~ apparent_temperature,
-        apparent_temperature - temperature < -10 ~ apparent_temperature,
+        apparent_temperature - temperature > 5 ~ apparent_temperature,
+        apparent_temperature - temperature < -5 ~ apparent_temperature,
         .default = NA
       ))
 om_currently <- om$current_weather
