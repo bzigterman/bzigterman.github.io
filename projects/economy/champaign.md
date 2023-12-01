@@ -467,21 +467,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">292</td>
-<td headers="latest" class="gt_row gt_right">251</td>
-<td headers="pct_change" class="gt_row gt_right">−14%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">270</td>
+<td headers="latest" class="gt_row gt_right">252</td>
+<td headers="pct_change" class="gt_row gt_right">−7%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">50.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">46.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−8%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">59.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">51.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−14%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">215,000</td>
-<td headers="latest" class="gt_row gt_right">257,000</td>
-<td headers="pct_change" class="gt_row gt_right">+20%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">211,000</td>
+<td headers="latest" class="gt_row gt_right">250,000</td>
+<td headers="pct_change" class="gt_row gt_right">+18%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">0.839</td>
-<td headers="latest" class="gt_row gt_right gt_striped">0.832</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−1%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">0.814</td>
+<td headers="latest" class="gt_row gt_right gt_striped">0.732</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−10%</td></tr>
   </tbody>
   
   
