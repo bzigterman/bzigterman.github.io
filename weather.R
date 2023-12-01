@@ -175,6 +175,9 @@ fig <- highchart() |>
                 type = "line",
                 name = "Feels Like",
                 states = list(
+                  hover = list(
+                    enabled = FALSE
+                  ),
                   inactive = list(
                     enabled = FALSE
                   )
@@ -204,7 +207,7 @@ fig <- highchart() |>
                   c(value = 95,  color = "#B6493B"),
                   c(value = 200, color = "#A44139")),
                 color = "black",
-                lineWidth = 3,
+                lineWidth = 0,
                 connectNulls = FALSE,
                 tooltip = list(valueSuffix = "°",
                                valueDecimals = 0),
@@ -245,7 +248,7 @@ fig <- highchart() |>
                   c(value = 95,  color = "#B6493B"),
                   c(value = 200, color = "#A44139")),
                 color = "black",
-                opacity = .25,
+                opacity = .4,
                 lineWidth = 0,
                 connectNulls = FALSE,
                 tooltip = list(valueSuffix = "°",
