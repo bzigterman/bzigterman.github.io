@@ -255,7 +255,13 @@ gdp_growth_forecast_ny <- rio::import(nyfed_url,
                                       which = "Forecasts By Quarter") |> 
   janitor::row_to_names(row_number = 3) |> 
   janitor::clean_names() |> 
-  select(!forecast_date) |> 
+  select(!forecast_date) 
+gdp_growth_forecast_ny <- 
+  gdp_growth_forecast_ny[!(
+    rowSums(is.na(
+      gdp_growth_forecast_ny)) == ncol(gdp_growth_forecast_ny)), ]
+
+gdp_growth_forecast_ny <- gdp_growth_forecast_ny |> 
   tail(1) |># remove_empty()  |> 
   pivot_longer(cols = everything()) |> 
   mutate(date = str_replace(name,"x", "")) |> 
@@ -269,6 +275,7 @@ gdp_growth_forecasts <- full_join(gdp_growth_forecast_atl,
                                   gdp_growth_forecast_stl) |> 
   full_join(gdp_growth_forecast_ny) |> 
   group_by(date) |> 
+  drop_na() |> 
   mutate(min = min(change))|> 
   mutate(max = max(change)) |> 
   ungroup() |> 
