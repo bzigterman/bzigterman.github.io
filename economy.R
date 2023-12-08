@@ -331,12 +331,33 @@ fig <- hchart(data,
         enabled = FALSE
       )
     ),
+    borderWidth = 0,
     name = "Forecast",
     type = "columnrange",
     minPointLength = 3,
     tooltip = list(valueSuffix = "%"),
-    color = "gray",
-    #negativeColor = "#e0a89a",
+    color = "#8ccfd3",
+    negativeColor = "#d99381",
+    yAxis = 1) %>%
+  hc_add_series(
+    data = data,
+    grouping = FALSE,
+    hcaes(x = date,
+          y = max),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    name = "Forecast",
+    type = "column",
+    enableMouseTracking = FALSE,
+    borderWidth = 0,
+    #minPointLength = 3,
+    tooltip = list(valueSuffix = "%"),
+    color = "#e8f5f6",
+    negativeColor = "#f7e9e5",
+    zIndex = -1,
     yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_credits(
