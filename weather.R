@@ -132,7 +132,7 @@ global$timezoneOffset <- offset
 options(highcharter.global = global)
 
 fig <- highchart() |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### temperature ----
                 type = "line",
                 name = "Temperature",
                 states = list(
@@ -172,7 +172,7 @@ fig <- highchart() |>
                 hcaes(x = time*1000,
                       y = temperature),
                 yAxis = 0) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### feels like ----
                 type = "line",
                 name = "Feels Like",
                 states = list(
@@ -258,7 +258,7 @@ fig <- highchart() |>
                       low = apparent_temperature,
                       high = temperature),
                 yAxis = 0) |> 
-  hc_add_series(data = om_hourly,
+  hc_add_series(data = om_hourly, ### precip ----
                 type = "line",
                 name = "Precip. Chance",
                 states = list(
