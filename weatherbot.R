@@ -230,9 +230,10 @@ if (rainfall >= 0 &&
     om_currently$windspeed >= 0 
 ) {
   post_toot(
-    status   = text,
-    media    = webcam_img,
-    alt_text = "Webcam from Champaign, Illinois")
+    status   = text#,
+    #media    = webcam_img,
+    #alt_text = "Webcam from Champaign, Illinois"
+    )
 }
 
 
