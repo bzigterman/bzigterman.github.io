@@ -75,6 +75,9 @@ om_hourly <- as_tibble( om$hourly) |>
                             windgusts_10m,
                             NA)) |> 
   select(!windgusts_10m) |> 
+  mutate(windGust = if_else(windGust - windSpeed < 0,
+                            windSpeed,
+                            windGust)) |> 
   mutate(dewPoint = dewpoint_2m) |> 
   select(!dewpoint_2m) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
