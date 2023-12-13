@@ -72,8 +72,8 @@ om_hourly <- as_tibble( om$hourly) |>
   select(!windspeed_10m) |> 
   mutate(windGust = windgusts_10m) |> 
   mutate(windGust_limited = if_else(windgusts_10m - windSpeed > 10,
-                            windgusts_10m,
-                            NA)) |> 
+                                    windgusts_10m,
+                                    NA)) |> 
   select(!windgusts_10m) |> 
   mutate(windGust = if_else(windGust - windSpeed < 0,
                             windSpeed,
@@ -802,7 +802,11 @@ om_air_quality_now <- om_air_quality_now |>
   ) |> 
   mutate(aqi_plus_text = paste0("- ", us_aqi, " AQI ", color,"\n"))
 
-champaign_aqi <- om_air_quality_now$aqi_plus_text
+if (is.na(om_air_quality_now$us_aqi)) {
+  champaign_aqi <- ""
+} else {
+  champaign_aqi <- om_air_quality_now$aqi_plus_text
+}
 
 # set variables ----
 champaign_temp <- paste(round(om_currently$temperature),"°", sep = "")
@@ -811,7 +815,7 @@ champaign_dewpoint_helper <- om_hourly |>
   filter(time > now(tzone = "America/Chicago")) |> 
   head(1) 
 champaign_dewpoint  <- paste0(round(champaign_dewpoint_helper$dewPoint),
-         "°")
+                              "°")
 champaign_desc <- pirate_currently$summary
 champaign_wind_speed <- paste(round(om_currently$windspeed),"mph")
 champaign_precip <- case_when(
