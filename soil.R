@@ -99,6 +99,9 @@ fig <- highchart() |>
                 states = list(
                   inactive = list(
                     enabled = FALSE
+                  ),
+                  hover = list(
+                    enabled = FALSE
                   )
                 ),
                 marker = list(
@@ -110,9 +113,9 @@ fig <- highchart() |>
                   headerFormat = "<b>{point.date}: {point.pct}%</b><br>"
                 ),
                 step = "left",
-                zIndex = 0,
-                color = "lightgray",
-                type = "line") |>
+                zIndex = -5,
+                color = "#D3D3D37f",
+                type = "area") |>
   hc_xAxis(type = "datetime",
            crosshair = TRUE,
            plotLines = list(
@@ -129,8 +132,10 @@ fig <- highchart() |>
   hc_yAxis_multiples(list(endOnTick = FALSE,
                           startOnTick = FALSE,
                           title = NULL,
-                          visible = FALSE),
+                          visible = TRUE),
                      list(endOnTick = FALSE,
+                          startOnTick = FALSE,
+                          visible = FALSE,
                           labels = list(
                             format = "{value}%"
                           ),
