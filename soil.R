@@ -72,10 +72,12 @@ global$timezoneOffset <- offset
 options(highcharter.global = global)
 
 fig <- highchart() |> 
-  hc_add_series(latest_freeze_weeks,
+  hc_add_series(latest_freeze_dates,
                 hcaes(x = latest,
-                      y = n),
+                      #color = year,
+                      y = year),
                 color = "#527DC7",
+                enableMouseTracking = FALSE,
                 borderWidth = 0,
                 states = list(
                   inactive = list(
@@ -87,10 +89,10 @@ fig <- highchart() |>
                 pointPadding = 0,
                 #pointWidth = 5,
                 tooltip = list(
-                  pointFormat = "{point.years}",
-                  headerFormat = "<b>{point.date}: {point.pct}%</b><br>"
+                  pointFormat = "{point.year}",
+                  headerFormat = "{point.latest}"
                 ),
-                type = "column") |> 
+                type = "scatter") |> 
   hc_add_series(latest_freeze_weeks,
                 hcaes(x = latest,
                       y = pct),
@@ -112,6 +114,7 @@ fig <- highchart() |>
                 color = "lightgray",
                 type = "line") |>
   hc_xAxis(type = "datetime",
+           crosshair = TRUE,
            plotLines = list(
              list(
                label = list(text = "Today"),
@@ -124,6 +127,7 @@ fig <- highchart() |>
              week = "%B %e"
            )) |> 
   hc_yAxis_multiples(list(endOnTick = FALSE,
+                          startOnTick = FALSE,
                           title = NULL,
                           visible = FALSE),
                      list(endOnTick = FALSE,
