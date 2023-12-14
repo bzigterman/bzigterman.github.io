@@ -152,7 +152,7 @@ hc_add_series(
           y = rsv),
     enableMouseTracking = FALSE,
     name = "RSV",
-    color = "gray",
+    color = "lightgray",
     states = list(
       inactive = list(
         enabled = FALSE
