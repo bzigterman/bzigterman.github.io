@@ -165,7 +165,9 @@ hc_add_series(
     text = "Source: IWSS",
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE) %>%
+  hc_tooltip(shared = TRUE,
+             table = TRUE,
+             sort = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
