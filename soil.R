@@ -124,7 +124,8 @@ fig <- highchart() |>
                color = "#595959",
                width = 1,
                zIndex = 1,
-               value = as.numeric( now(tzone = "America/Chicago"))*1000
+               value = as.numeric( as_datetime(
+                 today(tzone = "America/Chicago")))*1000
              )),
            dateTimeLabelFormats = list(
              week = "%B %e"
