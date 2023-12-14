@@ -84,6 +84,10 @@ om_hourly <- as_tibble( om$hourly) |>
   mutate(rain = if_else(rain == 0,NA,rain)) |> 
   mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
   mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth)) |> 
+  mutate(snow_depth = 
+           if_else(datetime < now(tzone = "America/Chicago")+days(7),
+                   snow_depth,
+                   NA)) |> 
   mutate(
     apparent_temperature_limited = 
       case_when(
