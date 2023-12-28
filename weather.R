@@ -1210,7 +1210,8 @@ om_forecast_daily <- as_tibble( om_past$daily) |>
   mutate(Forecast_min = temperature_2m_min) |> 
   select(!temperature_2m_min) |> 
   filter(date >= today(tzone = "America/Chicago")) |> 
-  select(date,Forecast_max,Forecast_min) 
+  select(date,Forecast_max,Forecast_min) |> 
+  mutate(date = as_date( paste0(year(today(tzone = "America/Chicago")),"-",month(date),"-",day(date))))
 
 ## ncei ----
 old_ncei <- read_csv(file = "data/ncei.csv") |> 
