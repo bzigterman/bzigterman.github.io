@@ -201,7 +201,7 @@ champaign_precip_forecast <- case_when(
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
 # webcam
-webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4014570_-8828368_1_W.jpg"
+webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-72_4012024_-8830458_1_N.jpg"
 webcam_img <- tempfile(fileext = "jpg")
 download.file(url = webcam_url, destfile = webcam_img)
 
@@ -230,9 +230,9 @@ if (rainfall >= 0 &&
     om_currently$windspeed >= 0 
 ) {
   post_toot(
-    status   = text#,
-    #media    = webcam_img,
-    #alt_text = "Webcam from Champaign, Illinois"
+    status   = text,
+    media    = webcam_img,
+    alt_text = "Webcam from Champaign, Illinois"
     )
 }
 
