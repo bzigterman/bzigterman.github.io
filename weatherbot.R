@@ -201,7 +201,16 @@ champaign_precip_forecast <- case_when(
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
 # webcam
-webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-72_4012024_-8830458_1_N.jpg"
+webcam_url1 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-72_4012024_-8830458_1_N.jpg"
+webcam_url2 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013475_-8825781_1_E.jpg"
+webcam_url3 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013446_-8824351_1_E.jpg"
+webcam_url4 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-74_4013535_-8821938_1_E.jpg"
+webcam_url5 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013378_-8819607_1_E.jpg"
+urls <- c(webcam_url1,webcam_url2,webcam_url3,
+          webcam_url4,webcam_url5)
+random_number <- sample(1:5, 1, replace=TRUE)
+webcam_url <- urls[[random_number]]
+
 webcam_img <- tempfile(fileext = "jpg")
 download.file(url = webcam_url, destfile = webcam_img)
 
