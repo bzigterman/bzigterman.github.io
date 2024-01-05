@@ -301,7 +301,7 @@ owid_new_cases_world <- rio::import(owid_url, format = "csv") |>
   mutate(new_cases = World) |> 
   mutate(avg_new_cases = new_cases) |> 
   mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
+           ((avg_new_cases - lag(avg_new_cases,2))/lag(avg_new_cases,2))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World") |> 
@@ -314,7 +314,7 @@ owid_new_deaths_world <- rio::import(owid_url, format = "csv") |>
   mutate(new_deaths = World) |> 
   mutate(avg_new_deaths = new_deaths) |> 
   mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
+           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World") |> 
