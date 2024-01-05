@@ -299,8 +299,7 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_cases = World) |> 
-  mutate(avg_new_cases = rollmean(new_cases, k = 7, 
-                                  fill = NA, align = "right")) |> 
+  mutate(avg_new_cases = new_cases) |> 
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(Date = ymd(date)) %>%
@@ -313,8 +312,7 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                   fill = NA, align = "right")) |> 
+  mutate(avg_new_deaths = new_deaths) |> 
   mutate(pct_change_new_deaths = 
            ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
@@ -392,10 +390,9 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_cases = World) |> 
-  mutate(avg_new_cases = rollmean(new_cases, k = 7, 
-                                  fill = NA, align = "right")) |> 
+  mutate(avg_new_cases = new_cases) |> 
   mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
+           ((avg_new_cases - lag(avg_new_cases,2))/lag(avg_new_cases,2))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World")
@@ -457,24 +454,25 @@ cdc_il_deaths <- cdc_il |>
   select(Date,COVID_deaths_weekly) |> 
   mutate(avg_new_deaths = COVID_deaths_weekly) |> 
   mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
-  mutate(location = "Illinois")
+           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
+  mutate(location = "Illinois") |> 
+  mutate(Date = ymd(Date)+days(1))
 
 ## usa ----
 cdc_usa_deaths <- cdc_usa |> 
   select(Date,COVID_deaths_weekly) |> 
   mutate(avg_new_deaths = COVID_deaths_weekly) |> 
   mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
-  mutate(location = "United States")
+           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
+  mutate(location = "United States") |> 
+  mutate(Date = ymd(Date)+days(1))
 
 ## World ----
 owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
 owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                   fill = NA, align = "right")) |> 
+  mutate(avg_new_deaths = new_deaths) |> 
   mutate(pct_change_new_deaths = 
            ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
@@ -486,10 +484,7 @@ new_deaths_combined <- full_join(owid_new_deaths_world,cdc_usa_deaths) |>
   select(Date,location,pct_change_new_deaths) |> 
   pivot_wider(names_from = location,
               values_from = pct_change_new_deaths) |> 
-  janitor::clean_names() |>  
-  fill(world,.direction = "down")|>  
-  fill(united_states,.direction = "down")|>  
-  fill(illinois,.direction = "down") |> 
+  janitor::clean_names() |> 
   mutate(Date = date)
 
 ## merge data ----
