@@ -479,9 +479,9 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <td headers="latest" class="gt_row gt_right">250,000</td>
 <td headers="pct_change" class="gt_row gt_right">+18%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">0.814</td>
-<td headers="latest" class="gt_row gt_right gt_striped">0.732</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−10%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">0.733</td>
+<td headers="latest" class="gt_row gt_right gt_striped">0.748</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">+2%</td></tr>
   </tbody>
   
   
