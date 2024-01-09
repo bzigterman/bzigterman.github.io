@@ -1136,9 +1136,9 @@ saveWidget(widget = fig, file = "interactive/il_employment.html",
            libdir = "interactive")
 
 ## flash index ----
-#flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/")
-#code <- status_code(GET("https://igpa.uillinois.edu/flash-index-detail/"))
-code <- 404
+flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/")
+code <- status_code(GET("https://igpa.uillinois.edu/flash-index-detail/"))
+
 if (code == 200) {
   
   flash_index <- flash_index_archive %>% html_node("table") %>% 
