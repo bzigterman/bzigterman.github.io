@@ -29,7 +29,7 @@ permalink: /resume
 - Created charts using the R programming language
 - Appeared on the company's [news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
 - Modernized the company's podcasts by getting them moved to Apple Podcasts
-- Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
+- Shot and edited a weekly agriculture video called [Friday on the Farm](https://www.news-gazette.com/search/?sd=desc&l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=friday+on+the+farm)
 - Launched an internal newsroom service to track website changes
 
 2014–16: Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL
