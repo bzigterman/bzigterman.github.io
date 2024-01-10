@@ -6,9 +6,9 @@ imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
-## Champaign Forecast
+## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:37 AM CT, January 10</p>
+<p class="updated_time"> Latest data: 09:40 AM CT, January 10</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
