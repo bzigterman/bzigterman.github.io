@@ -1801,7 +1801,7 @@ imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
-## Champaign Forecast
+## Champaign–Urbana Forecast
 
 ",now_html,"
 
