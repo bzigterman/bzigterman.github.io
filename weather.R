@@ -121,22 +121,6 @@ om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_la
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
-  mutate(ECMWF = temperature_2m_ecmwf_ifs04) |> 
-  select(!temperature_2m_ecmwf_ifs04) |> 
-  mutate(CMA = temperature_2m_cma_grapes_global) |> 
-  select(!temperature_2m_cma_grapes_global) |> 
-  mutate(BOM = temperature_2m_bom_access_global) |> 
-  select(!temperature_2m_bom_access_global) |> 
-  mutate(GFS = temperature_2m_gfs_seamless) |> 
-  select(!temperature_2m_gfs_seamless) |> 
-  mutate(JMA = temperature_2m_jma_seamless) |> 
-  select(!temperature_2m_jma_seamless) |> 
-  mutate(DWD = temperature_2m_icon_seamless) |> 
-  select(!temperature_2m_icon_seamless) |> 
-  mutate(GEM = temperature_2m_gem_seamless) |> 
-  select(!temperature_2m_gem_seamless) |> 
-  mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
-  select(!temperature_2m_meteofrance_seamless) |> 
   pivot_longer(!c(time,datetime)) 
 
 om_temp_hourly_min_max <- om_temp_hourly |> 
