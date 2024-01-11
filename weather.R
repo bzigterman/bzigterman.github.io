@@ -85,7 +85,7 @@ om_hourly <- as_tibble( om$hourly) |>
   mutate(snowfall = if_else(snowfall == 0,NA,snowfall)) |> 
   mutate(snow_depth = if_else(snow_depth <= 0,NA,snow_depth)) |> 
   mutate(snow_depth = 
-           if_else(datetime < now(tzone = "America/Chicago")+days(7),
+           if_else(datetime < now(tzone = "America/Chicago")+days(3),
                    snow_depth,
                    NA)) |> 
   mutate(
@@ -116,6 +116,36 @@ om_air_quality_now <- om_air_quality |>
   filter(datetime <= now(tzone = "America/Chicago")) |> 
   tail(1)
 
+## temperature ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om <- rio::import(om_url, format = "json")
+om_temp_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  mutate(ECMWF = temperature_2m_ecmwf_ifs04) |> 
+  select(!temperature_2m_ecmwf_ifs04) |> 
+  mutate(CMA = temperature_2m_cma_grapes_global) |> 
+  select(!temperature_2m_cma_grapes_global) |> 
+  mutate(BOM = temperature_2m_bom_access_global) |> 
+  select(!temperature_2m_bom_access_global) |> 
+  mutate(GFS = temperature_2m_gfs_seamless) |> 
+  select(!temperature_2m_gfs_seamless) |> 
+  mutate(JMA = temperature_2m_jma_seamless) |> 
+  select(!temperature_2m_jma_seamless) |> 
+  mutate(DWD = temperature_2m_icon_seamless) |> 
+  select(!temperature_2m_icon_seamless) |> 
+  mutate(GEM = temperature_2m_gem_seamless) |> 
+  select(!temperature_2m_gem_seamless) |> 
+  mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
+  select(!temperature_2m_meteofrance_seamless) |> 
+  pivot_longer(!c(time,datetime)) |> 
+  group_by(time) |> 
+  mutate(max = max(value, na.rm = TRUE)) |> 
+  mutate(min = min(value, na.rm = TRUE)) |> 
+  ungroup() |> 
+  select(!name) |> 
+  select(!value) |> 
+  distinct()
+
 ## rainfall total ----
 om_past24 <- om_hourly |> 
   filter(time < now(tzone = "America/Chicago")) |> 
@@ -139,8 +169,8 @@ global$timezoneOffset <- offset
 options(highcharter.global = global)
 
 fig <- highchart() |> 
-  hc_add_series(data = om_hourly, ### temperature ----
-                type = "line",
+  hc_add_series(data = om_temp_hourly, ### temperature ----
+                type = "arearange",
                 name = "Temperature",
                 states = list(
                   inactive = list(
@@ -172,99 +202,100 @@ fig <- highchart() |>
                   c(value = 95,  color = "#B6493B"),
                   c(value = 200, color = "#A44139")),
                 color = "black",
-                lineWidth = 3,
+                lineWidth = 1,
                 connectNulls = TRUE,
                 tooltip = list(valueSuffix = "°",
                                valueDecimals = 0),
                 hcaes(x = time*1000,
-                      y = temperature),
+                      low = min,
+                      high = max),
                 yAxis = 0) |> 
-  hc_add_series(data = om_hourly, ### feels like ----
-                type = "line",
-                name = "Feels Like",
-                states = list(
-                  hover = list(
-                    enabled = FALSE
-                  ),
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                label = list(
-                  enabled = TRUE),
-                zones = list(
-                  c(value = 0,   color = "#F8D4FC"),
-                  c(value = 5,   color = "#E5A4EB"),
-                  c(value = 10,  color = "#D392DD"),
-                  c(value = 15,  color = "#C07ECC"),
-                  c(value = 20,  color = "#9D63C2"),
-                  c(value = 25,  color = "#794DB4"),
-                  c(value = 30,  color = "#5B4FA6"),
-                  c(value = 32,  color = "#527DC7"),
-                  c(value = 40,  color = "#65C1DE"),
-                  c(value = 45,  color = "#6EDAE0"),
-                  c(value = 50,  color = "#6EDBA2"),
-                  c(value = 55,  color = "#69C954"),
-                  c(value = 60,  color = "#93D452"),
-                  c(value = 65,  color = "#E3E65B"),
-                  c(value = 70,  color = "#FFFF61"),
-                  c(value = 75,  color = "#F8D456"),
-                  c(value = 80,  color = "#ED9749"),
-                  c(value = 85,  color = "#DC6641"),
-                  c(value = 90,  color = "#CA593E"),
-                  c(value = 95,  color = "#B6493B"),
-                  c(value = 200, color = "#A44139")),
-                color = "black",
-                lineWidth = 0,
-                connectNulls = FALSE,
-                tooltip = list(valueSuffix = "°",
-                               valueDecimals = 0),
-                hcaes(x = time*1000,
-                      y = apparent_temperature_limited),
-                yAxis = 0) |> 
-  hc_add_series(data = om_hourly,
-                type = "arearange",
-                enableMouseTracking = FALSE,
-                name = "Feels Like",
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                label = list(
-                  enabled = FALSE),
-                zones = list(
-                  c(value = 0,   color = "#F8D4FC"),
-                  c(value = 5,   color = "#E5A4EB"),
-                  c(value = 10,  color = "#D392DD"),
-                  c(value = 15,  color = "#C07ECC"),
-                  c(value = 20,  color = "#9D63C2"),
-                  c(value = 25,  color = "#794DB4"),
-                  c(value = 30,  color = "#5B4FA6"),
-                  c(value = 32,  color = "#527DC7"),
-                  c(value = 40,  color = "#65C1DE"),
-                  c(value = 45,  color = "#6EDAE0"),
-                  c(value = 50,  color = "#6EDBA2"),
-                  c(value = 55,  color = "#69C954"),
-                  c(value = 60,  color = "#93D452"),
-                  c(value = 65,  color = "#E3E65B"),
-                  c(value = 70,  color = "#FFFF61"),
-                  c(value = 75,  color = "#F8D456"),
-                  c(value = 80,  color = "#ED9749"),
-                  c(value = 85,  color = "#DC6641"),
-                  c(value = 90,  color = "#CA593E"),
-                  c(value = 95,  color = "#B6493B"),
-                  c(value = 200, color = "#A44139")),
-                color = "black",
-                opacity = .4,
-                lineWidth = 0,
-                connectNulls = FALSE,
-                tooltip = list(valueSuffix = "°",
-                               valueDecimals = 0),
-                hcaes(x = time*1000,
-                      low = apparent_temperature,
-                      high = temperature),
-                yAxis = 0) |> 
+  # hc_add_series(data = om_hourly, ### feels like 
+  #               type = "line",
+  #               name = "Feels Like",
+  #               states = list(
+  #                 hover = list(
+  #                   enabled = FALSE
+  #                 ),
+  #                 inactive = list(
+  #                   enabled = FALSE
+  #                 )
+  #               ),
+  #               label = list(
+  #                 enabled = TRUE),
+  #               zones = list(
+  #                 c(value = 0,   color = "#F8D4FC"),
+  #                 c(value = 5,   color = "#E5A4EB"),
+  #                 c(value = 10,  color = "#D392DD"),
+  #                 c(value = 15,  color = "#C07ECC"),
+  #                 c(value = 20,  color = "#9D63C2"),
+  #                 c(value = 25,  color = "#794DB4"),
+  #                 c(value = 30,  color = "#5B4FA6"),
+  #                 c(value = 32,  color = "#527DC7"),
+  #                 c(value = 40,  color = "#65C1DE"),
+  #                 c(value = 45,  color = "#6EDAE0"),
+  #                 c(value = 50,  color = "#6EDBA2"),
+  #                 c(value = 55,  color = "#69C954"),
+  #                 c(value = 60,  color = "#93D452"),
+  #                 c(value = 65,  color = "#E3E65B"),
+  #                 c(value = 70,  color = "#FFFF61"),
+  #                 c(value = 75,  color = "#F8D456"),
+  #                 c(value = 80,  color = "#ED9749"),
+  #                 c(value = 85,  color = "#DC6641"),
+  #                 c(value = 90,  color = "#CA593E"),
+  #                 c(value = 95,  color = "#B6493B"),
+  #                 c(value = 200, color = "#A44139")),
+  #               color = "black",
+  #               lineWidth = 0,
+  #               connectNulls = FALSE,
+  #               tooltip = list(valueSuffix = "°",
+  #                              valueDecimals = 0),
+  #               hcaes(x = time*1000,
+  #                     y = apparent_temperature_limited),
+  #               yAxis = 0) |> 
+  # hc_add_series(data = om_hourly,
+  #               type = "arearange",
+  #               enableMouseTracking = FALSE,
+  #               name = "Feels Like",
+  #               states = list(
+  #                 inactive = list(
+  #                   enabled = FALSE
+  #                 )
+  #               ),
+  #               label = list(
+  #                 enabled = FALSE),
+  #               zones = list(
+  #                 c(value = 0,   color = "#F8D4FC"),
+  #                 c(value = 5,   color = "#E5A4EB"),
+  #                 c(value = 10,  color = "#D392DD"),
+  #                 c(value = 15,  color = "#C07ECC"),
+  #                 c(value = 20,  color = "#9D63C2"),
+  #                 c(value = 25,  color = "#794DB4"),
+  #                 c(value = 30,  color = "#5B4FA6"),
+  #                 c(value = 32,  color = "#527DC7"),
+  #                 c(value = 40,  color = "#65C1DE"),
+  #                 c(value = 45,  color = "#6EDAE0"),
+  #                 c(value = 50,  color = "#6EDBA2"),
+  #                 c(value = 55,  color = "#69C954"),
+  #                 c(value = 60,  color = "#93D452"),
+  #                 c(value = 65,  color = "#E3E65B"),
+  #                 c(value = 70,  color = "#FFFF61"),
+  #                 c(value = 75,  color = "#F8D456"),
+  #                 c(value = 80,  color = "#ED9749"),
+  #                 c(value = 85,  color = "#DC6641"),
+  #                 c(value = 90,  color = "#CA593E"),
+  #                 c(value = 95,  color = "#B6493B"),
+  #                 c(value = 200, color = "#A44139")),
+  #               color = "black",
+  #               opacity = .4,
+  #               lineWidth = 0,
+  #               connectNulls = FALSE,
+  #               tooltip = list(valueSuffix = "°",
+  #                              valueDecimals = 0),
+  #               hcaes(x = time*1000,
+  #                     low = apparent_temperature,
+  #                     high = temperature),
+  #               yAxis = 0) |> 
   hc_add_series(data = om_hourly, ### precip ----
                 type = "line",
                 name = "Precip. Chance",
@@ -690,7 +721,7 @@ fig <- highchart() |>
   ) |>
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: NWS, via Open-Meteo. Latest data:",now_formatted),
+    text = paste("Source: Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
   hc_legend(enabled = FALSE) |> 
   hc_chart(plotBackgroundColor = "#E8EEF5",
