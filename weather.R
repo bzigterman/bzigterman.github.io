@@ -132,6 +132,58 @@ om_temp_hourly_min_max <- om_temp_hourly |>
   select(!value) |> 
   distinct()
 
+## precip ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=snow_depth&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om <- rio::import(om_url, format = "json")
+om_snow <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  pivot_longer(!c(time,datetime))# |> 
+mutate(date = as_date(datetime, tz = "America/Chicago")) |> 
+  group_by(name,date) |> 
+  mutate(snow_sum = sum(value)) |> 
+  ungroup() |> 
+  select(!c(time,datetime, value)) |> 
+  distinct()
+
+om_snow_min_max <- om_snow |> 
+  group_by(datetime) |> 
+  mutate(max = max(value, na.rm = TRUE)) |> 
+  mutate(min = min(value, na.rm = TRUE)) |> 
+  ungroup() |> 
+  select(!name) |> 
+  select(!value) |> 
+  distinct()
+
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
+
+fig <- highchart() |> 
+  hc_add_series(data = om_snow,
+                type = "line",
+                #color = "#8AA5F1",
+                tooltip = list(valueSuffix = "″",
+                               valueDecimals = 1),
+                enableMouseTracking = FALSE,
+                hcaes(x = time*1000,
+                      y = value*12,
+                      group = name,
+                      name = name)) |> 
+  hc_add_series(data = om_snow_min_max,
+                type = "arearange",
+                color = "#8AA5F1",
+                name = "Snow Depth",
+                tooltip = list(valueSuffix = "″",
+                               valueDecimals = 1),
+                opacity = .25,
+                hcaes(x = time*1000,
+                      high = max*12,
+                      low = min*12)) |> 
+  hc_xAxis(type = "datetime")
+fig
+
 ## rainfall total ----
 om_past24 <- om_hourly |> 
   filter(time < now(tzone = "America/Chicago")) |> 
