@@ -188,7 +188,7 @@ fig <- highchart() |>
                   c(value = 95,  color = "#B6493B"),
                   c(value = 200, color = "#A44139")),
                 color = "black",
-                opacity = .1,
+                opacity = .25,
                 lineWidth = 0,
                 connectNulls = TRUE,
                 tooltip = list(valueSuffix = "°",
