@@ -34,6 +34,7 @@ om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_la
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) |> 
   mutate(ECMWF = temperature_2m_ecmwf_ifs04) |> 
   select(!temperature_2m_ecmwf_ifs04) |> 
   mutate(CMA = temperature_2m_cma_grapes_global) |> 
