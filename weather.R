@@ -854,7 +854,10 @@ fig <- highchart() |>
                       x = name)) |> 
   hc_tooltip(enabled = FALSE) |> 
   hc_legend(enabled = FALSE) |> 
-  hc_xAxis(type = "category") |> 
+  hc_xAxis(type = "category",
+           lineColor = "lightgray",
+           lineWidth = 0.5,
+           tickLength = 0) |> 
   hc_yAxis(endOnTick = FALSE,
            visible = FALSE,
            labels = list(
