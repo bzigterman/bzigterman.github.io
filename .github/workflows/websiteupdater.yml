@@ -38,6 +38,7 @@ jobs:
           Rscript soil.R
           Rscript wastewater.R
           Rscript weather.R
+          Rscript forecasts.R
         
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed

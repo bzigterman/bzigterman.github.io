@@ -117,22 +117,6 @@ om_air_quality_now <- om_air_quality |>
   filter(datetime <= now(tzone = "America/Chicago")) |> 
   tail(1)
 
-## temperature ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
-om <- rio::import(om_url, format = "json")
-om_temp_hourly <- as_tibble( om$hourly) |> 
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
-  pivot_longer(!c(time,datetime)) 
-
-om_temp_hourly_min_max <- om_temp_hourly |> 
-  group_by(time) |> 
-  mutate(max = max(value, na.rm = TRUE)) |> 
-  mutate(min = min(value, na.rm = TRUE)) |> 
-  ungroup() |> 
-  select(!name) |> 
-  select(!value) |> 
-  distinct()
-
 ## rainfall total ----
 om_past24 <- om_hourly |> 
   filter(time < now(tzone = "America/Chicago")) |> 
@@ -1873,6 +1857,8 @@ The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https:/
 </iframe>
 
 The chart above is my attempt at recreating the classic [*New York Times* weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
+
+## [Compare Forecast Models]({{ site.baseurl }}/projects/weather/forecasts)
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
