@@ -130,8 +130,8 @@ fig <- highchart() |>
                value = as.numeric( now(tzone = "America/Chicago"))*1000
              )
            ),
-           min = 1000*min(om_hourly$time),
-           max = 1000*max(om_hourly$time)
+           min = 1000*min(om_temp_hourly$time),
+           max = 1000*max(om_temp_hourly$time)
   ) |> 
   hc_add_theme(
     hc_theme_bloom()
