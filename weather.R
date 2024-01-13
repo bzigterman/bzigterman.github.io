@@ -846,6 +846,7 @@ fig <- highchart() |>
   hc_add_series(data = champaign_intervals_chances,
                 type = "bar",
                 color = "#8AA5F1",
+                groupPadding = 0,
                 dataLabels = list(
                   enabled = TRUE,
                   format = "{point.value}%"
@@ -858,8 +859,7 @@ fig <- highchart() |>
            lineColor = "lightgray",
            lineWidth = 0.5,
            tickLength = 0) |> 
-  hc_yAxis(endOnTick = FALSE,
-           visible = FALSE,
+  hc_yAxis(visible = FALSE,
            labels = list(
              format = "{value}%"
            )) |> 
