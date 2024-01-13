@@ -208,8 +208,17 @@ webcam_url4 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_W
 webcam_url5 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013378_-8819607_1_E.jpg"
 urls <- c(webcam_url1,webcam_url2,webcam_url3,
           webcam_url4,webcam_url5)
+webcame1_text <- "Webcam from westbound Interstate 72 in Champaign, Illinois"
+webcame2_text <- "Webcam from eastbound Interstate 74 in Champaign, Illinois"
+webcame3_text <- "Webcam from eastbound Interstate 74 in Champaign, Illinois"
+webcame4_text <- "Webcam from westbound Interstate 74 in Champaign, Illinois"
+webcame5_text <- "Webcam from eastbound Interstate 74 in Champaign, Illinois"
+webcam_texts <- c(webcame1_text,webcame2_text,
+                  webcame3_text,webcame4_text,
+                  webcame5_text)
 random_number <- sample(1:5, 1, replace=TRUE)
 webcam_url <- urls[[random_number]]
+webcam_text <- webcam_texts[[random_number]]
 
 webcam_img <- tempfile(fileext = "jpg")
 download.file(url = webcam_url, destfile = webcam_img)
@@ -241,7 +250,7 @@ if (rainfall >= 0 &&
   post_toot(
     status   = text,
     media    = webcam_img,
-    alt_text = "Webcam from Champaign, Illinois"
+    alt_text = webcam_text
     )
 }
 
