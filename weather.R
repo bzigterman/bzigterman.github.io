@@ -823,6 +823,7 @@ fig <- highchart() |>
                 ),
                 hcaes(y = value,
                       x = name)) |> 
+  hc_tooltip(enabled = FALSE) |> 
   hc_legend(enabled = FALSE) |> 
   hc_xAxis(type = "category") |> 
   hc_yAxis(endOnTick = FALSE,
