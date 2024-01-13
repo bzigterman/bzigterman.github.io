@@ -793,6 +793,19 @@ table <- read.csv(text = csv,header = FALSE) |>
   select(!(c(v1,v2,v3,v4,v5,
              v6,v7,v8,v9,v10,
              v11,v12,v13,v14,v15)))
+intervals_table <- table |> 
+  mutate(chance_0_01 = 100-chance_01) |> 
+  mutate(chance_01_1 = chance_01-chance_1)|> 
+  mutate(chance_1_2 = chance_1-chance_2)|> 
+  mutate(chance_2_4 = chance_2-chance_4)|> 
+  mutate(chance_4_6 = chance_4-chance_6)|> 
+  mutate(chance_6_8 = chance_6-chance_8)|> 
+  mutate(chance_8_12 = chance_8-chance_12)|> 
+  mutate(chance_12_18 = chance_12-chance_18) |> 
+  mutate(chance_18_up = chance_18) |> 
+  select(city,chance_0_01,chance_01_1,chance_1_2,
+         chance_2_4,chance_4_6,chance_6_8,
+         chance_8_12,chance_12_18,chance_18_up)
 
 champaign_chances <- table |> 
   filter(city == "Champaign") |> 
@@ -813,8 +826,24 @@ champaign_chances <- table |>
 
 champaign_any_snow <- champaign_chances$value[[1]]
 
+champaign_intervals_chances <- intervals_table |> 
+  filter(city == "Champaign") |> 
+  pivot_longer(!c(city)) |> 
+  mutate(name = case_match(
+    name,
+    "chance_0_01" ~ "<0.1″",
+    "chance_01_1"  ~ ".01–1″",
+    "chance_1_2"  ~ "1–2″",
+    "chance_2_4"  ~ "2–4″",
+    "chance_4_6"  ~ "4–6″",
+    "chance_6_8"  ~ "6–8″",
+    "chance_8_12" ~ "8–12″",
+    "chance_12_18" ~"12–18″",
+    "chance_18_up" ~ "≥18″"
+  ))
+
 fig <- highchart() |> 
-  hc_add_series(data = champaign_chances,
+  hc_add_series(data = champaign_intervals_chances,
                 type = "bar",
                 color = "#8AA5F1",
                 dataLabels = list(
@@ -831,7 +860,7 @@ fig <- highchart() |>
            labels = list(
              format = "{value}%"
            )) |> 
-  hc_title(text = "Upcoming Snow Potential") |> 
+  hc_title(text = "Two-Day Snow Potential") |> 
   hc_credits(
     enabled = TRUE,
     text = paste("Source: NWS. Latest data:",
