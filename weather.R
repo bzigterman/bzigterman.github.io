@@ -832,7 +832,7 @@ champaign_intervals_chances <- intervals_table |>
   mutate(name = case_match(
     name,
     "chance_0_01" ~ "<0.1″",
-    "chance_01_1"  ~ ".01–1″",
+    "chance_01_1"  ~ "0.1–1″",
     "chance_1_2"  ~ "1–2″",
     "chance_2_4"  ~ "2–4″",
     "chance_4_6"  ~ "4–6″",
