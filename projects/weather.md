@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:05 PM CT, January 13</p>
+<p class="updated_time"> Latest data: 02:18 PM CT, January 13</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -37,6 +37,8 @@ The current weather is posted regularly on Mastodon <a rel="me" href="https://ma
 </iframe>
 
 The chart above is my attempt at recreating the classic [*New York Times* weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
+
+## [Compare Forecast Models]({{ site.baseurl }}/projects/weather/forecasts)
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/temp_history.png"
