@@ -10,6 +10,7 @@ library(imputeTS)
 library(highcharter)
 library(RColorBrewer)
 library(htmlwidgets)
+library(xml2)
 
 champaign_lat <-  40.11
 champaign_lon <- -88.21
@@ -250,96 +251,96 @@ fig <- highchart() |>
   #                   enabled = FALSE
   #                 )
   #               ),
-  #               label = list(
-  #                 enabled = TRUE),
-  #               zones = list(
-  #                 c(value = 0,   color = "#F8D4FC"),
-  #                 c(value = 5,   color = "#E5A4EB"),
-  #                 c(value = 10,  color = "#D392DD"),
-  #                 c(value = 15,  color = "#C07ECC"),
-  #                 c(value = 20,  color = "#9D63C2"),
-  #                 c(value = 25,  color = "#794DB4"),
-  #                 c(value = 30,  color = "#5B4FA6"),
-  #                 c(value = 32,  color = "#527DC7"),
-  #                 c(value = 40,  color = "#65C1DE"),
-  #                 c(value = 45,  color = "#6EDAE0"),
-  #                 c(value = 50,  color = "#6EDBA2"),
-  #                 c(value = 55,  color = "#69C954"),
-  #                 c(value = 60,  color = "#93D452"),
-  #                 c(value = 65,  color = "#E3E65B"),
-  #                 c(value = 70,  color = "#FFFF61"),
-  #                 c(value = 75,  color = "#F8D456"),
-  #                 c(value = 80,  color = "#ED9749"),
-  #                 c(value = 85,  color = "#DC6641"),
-  #                 c(value = 90,  color = "#CA593E"),
-  #                 c(value = 95,  color = "#B6493B"),
-  #                 c(value = 200, color = "#A44139")),
-  #               color = "black",
-  #               lineWidth = 0,
-  #               connectNulls = FALSE,
-  #               tooltip = list(valueSuffix = "°",
-  #                              valueDecimals = 0),
-  #               hcaes(x = time*1000,
-  #                     y = apparent_temperature_limited),
-  #               yAxis = 0) |> 
-  # hc_add_series(data = om_hourly,
-  #               type = "arearange",
-  #               enableMouseTracking = FALSE,
-  #               name = "Feels Like",
-  #               states = list(
-  #                 inactive = list(
-  #                   enabled = FALSE
-  #                 )
-  #               ),
-  #               label = list(
-  #                 enabled = FALSE),
-  #               zones = list(
-  #                 c(value = 0,   color = "#F8D4FC"),
-  #                 c(value = 5,   color = "#E5A4EB"),
-  #                 c(value = 10,  color = "#D392DD"),
-  #                 c(value = 15,  color = "#C07ECC"),
-  #                 c(value = 20,  color = "#9D63C2"),
-  #                 c(value = 25,  color = "#794DB4"),
-  #                 c(value = 30,  color = "#5B4FA6"),
-  #                 c(value = 32,  color = "#527DC7"),
-  #                 c(value = 40,  color = "#65C1DE"),
-  #                 c(value = 45,  color = "#6EDAE0"),
-  #                 c(value = 50,  color = "#6EDBA2"),
-  #                 c(value = 55,  color = "#69C954"),
-  #                 c(value = 60,  color = "#93D452"),
-  #                 c(value = 65,  color = "#E3E65B"),
-  #                 c(value = 70,  color = "#FFFF61"),
-  #                 c(value = 75,  color = "#F8D456"),
-  #                 c(value = 80,  color = "#ED9749"),
-  #                 c(value = 85,  color = "#DC6641"),
-  #                 c(value = 90,  color = "#CA593E"),
-  #                 c(value = 95,  color = "#B6493B"),
-  #                 c(value = 200, color = "#A44139")),
-  #               color = "black",
-  #               opacity = .4,
-  #               lineWidth = 0,
-  #               connectNulls = FALSE,
-  #               tooltip = list(valueSuffix = "°",
-  #                              valueDecimals = 0),
-  #               hcaes(x = time*1000,
-  #                     low = apparent_temperature,
-  #                     high = temperature),
-  #               yAxis = 0) |> 
-  hc_add_series(data = om_hourly, ### precip ----
-                type = "line",
-                name = "Precip. Chance",
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                tooltip = list(valueSuffix = "%"),
-                color = "#698490",
-                label = list(
-                  enabled = TRUE),
-                hcaes(x = time*1000,
-                      y = precipProbability),
-                yAxis = 1) |> 
+#               label = list(
+#                 enabled = TRUE),
+#               zones = list(
+#                 c(value = 0,   color = "#F8D4FC"),
+#                 c(value = 5,   color = "#E5A4EB"),
+#                 c(value = 10,  color = "#D392DD"),
+#                 c(value = 15,  color = "#C07ECC"),
+#                 c(value = 20,  color = "#9D63C2"),
+#                 c(value = 25,  color = "#794DB4"),
+#                 c(value = 30,  color = "#5B4FA6"),
+#                 c(value = 32,  color = "#527DC7"),
+#                 c(value = 40,  color = "#65C1DE"),
+#                 c(value = 45,  color = "#6EDAE0"),
+#                 c(value = 50,  color = "#6EDBA2"),
+#                 c(value = 55,  color = "#69C954"),
+#                 c(value = 60,  color = "#93D452"),
+#                 c(value = 65,  color = "#E3E65B"),
+#                 c(value = 70,  color = "#FFFF61"),
+#                 c(value = 75,  color = "#F8D456"),
+#                 c(value = 80,  color = "#ED9749"),
+#                 c(value = 85,  color = "#DC6641"),
+#                 c(value = 90,  color = "#CA593E"),
+#                 c(value = 95,  color = "#B6493B"),
+#                 c(value = 200, color = "#A44139")),
+#               color = "black",
+#               lineWidth = 0,
+#               connectNulls = FALSE,
+#               tooltip = list(valueSuffix = "°",
+#                              valueDecimals = 0),
+#               hcaes(x = time*1000,
+#                     y = apparent_temperature_limited),
+#               yAxis = 0) |> 
+# hc_add_series(data = om_hourly,
+#               type = "arearange",
+#               enableMouseTracking = FALSE,
+#               name = "Feels Like",
+#               states = list(
+#                 inactive = list(
+#                   enabled = FALSE
+#                 )
+#               ),
+#               label = list(
+#                 enabled = FALSE),
+#               zones = list(
+#                 c(value = 0,   color = "#F8D4FC"),
+#                 c(value = 5,   color = "#E5A4EB"),
+#                 c(value = 10,  color = "#D392DD"),
+#                 c(value = 15,  color = "#C07ECC"),
+#                 c(value = 20,  color = "#9D63C2"),
+#                 c(value = 25,  color = "#794DB4"),
+#                 c(value = 30,  color = "#5B4FA6"),
+#                 c(value = 32,  color = "#527DC7"),
+#                 c(value = 40,  color = "#65C1DE"),
+#                 c(value = 45,  color = "#6EDAE0"),
+#                 c(value = 50,  color = "#6EDBA2"),
+#                 c(value = 55,  color = "#69C954"),
+#                 c(value = 60,  color = "#93D452"),
+#                 c(value = 65,  color = "#E3E65B"),
+#                 c(value = 70,  color = "#FFFF61"),
+#                 c(value = 75,  color = "#F8D456"),
+#                 c(value = 80,  color = "#ED9749"),
+#                 c(value = 85,  color = "#DC6641"),
+#                 c(value = 90,  color = "#CA593E"),
+#                 c(value = 95,  color = "#B6493B"),
+#                 c(value = 200, color = "#A44139")),
+#               color = "black",
+#               opacity = .4,
+#               lineWidth = 0,
+#               connectNulls = FALSE,
+#               tooltip = list(valueSuffix = "°",
+#                              valueDecimals = 0),
+#               hcaes(x = time*1000,
+#                     low = apparent_temperature,
+#                     high = temperature),
+#               yAxis = 0) |> 
+hc_add_series(data = om_hourly, ### precip ----
+              type = "line",
+              name = "Precip. Chance",
+              states = list(
+                inactive = list(
+                  enabled = FALSE
+                )
+              ),
+              tooltip = list(valueSuffix = "%"),
+              color = "#698490",
+              label = list(
+                enabled = TRUE),
+              hcaes(x = time*1000,
+                    y = precipProbability),
+              yAxis = 1) |> 
   hc_add_series(data = om_hourly,
                 type = "column",
                 name = "Rain",
@@ -762,95 +763,84 @@ saveWidget(widget = fig, file = "interactive/champaign_weather.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-# nws historical ----
-# url <- "https://api.weather.gov/stations/KCMI/observations"
-# nws_past <- GET(url,
-#                 add_headers(
-#                   "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
-# )
-# nws_past_content <- content(nws_past, as = "text")
-# nws_past_st <- st_read(nws_past_content,
-#                        as_tibble = TRUE)
-# nws_post <- nws_past_st |> 
-#   as_tibble() |> 
-#   select(timestamp,textDescription,temperature,windSpeed,
-#          precipitationLastHour,relativeHumidity) |> 
-#   mutate(timestamp = as_datetime(timestamp, tz = "America/Chicago")) |> 
-#   mutate(temperature = 
-#            32+((9/5)*parse_number(temperature))) |> 
-#   mutate(windSpeed = parse_number(gsub("km_h-1","",windSpeed))/1.609344) |> 
-#   mutate(precipAccumulation = parse_number(precipitationLastHour)*25.4) |> 
-#   mutate(humidity = parse_number(relativeHumidity)/100) |> 
-#   mutate(time = as.numeric ( timestamp)) |> 
-#   mutate(precipType = "Precip.") |> 
-#   select(timestamp,time,textDescription,temperature,windSpeed,
-#          precipAccumulation,humidity, precipType)
+# nws snow forecast ----
+snow <- GET("https://www.weather.gov/source/ilx/winter/snow_prob.xml")
+content <- content(snow) 
+list <- as_list(content)
+date <- ymd_hm(list$forecast$timestamp[[1]],
+               tz = "America/Chicago")
+time <- strftime(x = date, 
+                 tz = "US/Central",
+                 format = "%I:%M% %p CT, %b %d")
+csv <- list$forecast$text[[1]]
+table <- read.csv(text = csv,header = FALSE) |> 
+  janitor::clean_names() |> 
+  mutate(city = v1) |> 
+  mutate(state = v2) |> 
+  mutate(county = v3) |> 
+  mutate(unsure = v4) |> 
+  mutate(potential_low_end = v5) |> 
+  mutate(potential_expected = v6) |> 
+  mutate(potential_high_end = v7) |> 
+  mutate(chance_01 = v8) |> 
+  mutate(chance_1 = v9) |> 
+  mutate(chance_2 = v10) |> 
+  mutate(chance_4 = v11) |> 
+  mutate(chance_6 = v12) |> 
+  mutate(chance_8 = v13) |> 
+  mutate(chance_12 = v14) |> 
+  mutate(chance_18 = v15) |> 
+  select(!(c(v1,v2,v3,v4,v5,
+             v6,v7,v8,v9,v10,
+             v11,v12,v13,v14,v15)))
 
-## nws scraping ----
-# willard_url <- "https://w1.weather.gov/data/obhistory/KCMI.html"
-# willard_html <- read_html(willard_url) %>%
-#   html_table()
-# willard_clean <- willard_html[[4]] %>%
-#   tail(-2) %>%
-#   head(-3) %>%
-#   clean_names()
-# colnames(willard_clean)[2] <- "time"
-# 
-# willard_cleaner <- willard_clean %>%
-#   mutate(date = as.numeric(date)) %>%
-#   mutate(visibility = as.numeric(vis_mi)) %>%
-#   mutate(temp = as.numeric(temperature_o_f)) %>%
-#   mutate(windSpeed = parse_number(wind_mph)) |> 
-#   mutate(humidity = as.numeric(gsub("%", "", relative_humidity))) %>%
-#   mutate(precip_one_hour = as.numeric(precipitation_in)) %>%
-#   mutate(precip_three_hour = as.numeric(precipitation_in_2)) %>%
-#   mutate(precip_six_hour = as.numeric(precipitation_in_3)) %>%
-#   select(date,time,windSpeed,weather,temp, humidity, precip_one_hour)
-# 
-# willard <- willard_cleaner %>%
-#   mutate(datetime = as_datetime(now(tzone = "America/Chicago")-hours(row_number()),
-#                                 tz = "America/Chicago")) |> 
-#   mutate(temperature = temp) |> 
-#   mutate(precipAccumulation = precip_one_hour) |> 
-#   mutate(precipAccumulation = if_else(is.na(precipAccumulation),
-#                                       0,
-#                                       precipAccumulation)) |> 
-#   mutate(time = as.numeric(datetime)) |> 
-#   mutate(precipType = "Precip.") |>
-#   mutate(humidity = humidity/100) |> 
-#   select(time,precipType,datetime,weather,temperature, humidity, precipAccumulation,windSpeed)
+champaign_chances <- table |> 
+  filter(city == "Champaign") |> 
+  select(!c(state,county,unsure,potential_low_end,
+            potential_expected,potential_high_end)) |> 
+  pivot_longer(!c(city)) |> 
+  mutate(name = case_match(
+    name,
+    "chance_01" ~ ">=0.1″",
+    "chance_1"  ~ ">=1″",
+    "chance_2"  ~ ">=2″",
+    "chance_4"  ~ ">=4″",
+    "chance_6"  ~ ">=6″",
+    "chance_8"  ~ ">=8″",
+    "chance_12" ~ ">=12″",
+    "chance_18" ~ ">=18″"
+  ))
 
+champaign_any_snow <- champaign_chances$value[[1]]
 
-# willard_his_los <- willard_clean %>%
-#   mutate(temp_six_hour_hi = as.numeric(temperature_o_f_3)) %>%
-#   mutate(temp_six_hour_lo = as.numeric(temperature_o_f_4)) %>%
-#   mutate(date = as.numeric(date)) %>%
-#   mutate(date = ymd_hm(paste0(year(today(tzone = "America/Chicago")),"-",
-#                               if_else(latest_date <= 3 & date >20,
-#                                       month(today(tzone = "America/Chicago"))-1,
-#                                       month(today(tzone = "America/Chicago"))),
-#                               "-",
-#                               date," ",
-#                               time),
-#                        tz = "US/Central")) %>%
-#   select(date,temp_six_hour_hi,temp_six_hour_lo) %>%
-#   mutate(day = date(date)) %>%
-#   group_by(day) |> 
-#   summarise(temp_six_hour_hi)
-
-# willard_data <- read_csv(file = "data/willard_weather.csv") 
-# willard_data_update <- willard |> 
-#   select(datetime,weather,temperature, humidity, precipAccumulation) |> 
-#   mutate(temp = temperature) |> 
-#   mutate(precip_one_hour = precipAccumulation) |> 
-#   mutate(date = datetime) |> 
-#   mutate(humidity = humidity*100) |> 
-#   full_join(willard_data) %>%
-#   distinct(date, .keep_all = TRUE) %>%
-#   arrange(date)
-# 
-# write_csv(x = willard_data_update,
-#           file = "data/willard_weather.csv")
+fig <- highchart() |> 
+  hc_add_series(data = champaign_chances,
+                type = "bar",
+                color = "#8AA5F1",
+                dataLabels = list(
+                  enabled = TRUE,
+                  format = "{point.value}%"
+                ),
+                hcaes(y = value,
+                      x = name)) |> 
+  hc_legend(enabled = FALSE) |> 
+  hc_xAxis(type = "category") |> 
+  hc_yAxis(endOnTick = FALSE,
+           visible = FALSE,
+           labels = list(
+             format = "{value}%"
+           )) |> 
+  hc_title(text = "Upcoming Snow Potential") |> 
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: NWS. Latest data:",
+                 time),
+    href = "https://www.weather.gov/ilx/winter") |> 
+  hc_add_theme(hc_theme_bloom())
+fig
+saveWidget(widget = fig, file = "interactive/champaign_snow_chance.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 # AQI ----
 
@@ -1850,7 +1840,14 @@ winter_storm_url <-
         sep = ""
   )
 
-
+if (champaign_any_snow > 0) {
+  champaign_snow_forecast <- 
+    paste("<iframe src=\"/interactive/champaign_snow_chance.html\" width=\"100%\" height=\"250\"> 
+</iframe>
+")
+} else {
+  champaign_snow_forecast <- ""
+}
 
 cat(
   "---
@@ -1878,6 +1875,8 @@ Currently:
 ",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
+
+",champaign_snow_forecast,"
 
 ## Temperature History
 
