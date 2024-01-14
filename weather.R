@@ -803,7 +803,6 @@ fig <- highchart() |>
            labels = list(
              format = "{value}%"
            )) |> 
-  hc_title(text = "Two-Day Snow Potential") |> 
   hc_credits(
     enabled = TRUE,
     text = paste("Source: NWS. Latest data:",
@@ -1815,7 +1814,9 @@ winter_storm_url <-
 
 if (champaign_any_snow > 0) {
   champaign_snow_forecast <- 
-    paste("<iframe src=\"/interactive/champaign_snow_chance.html\" width=\"100%\" height=\"250\"> 
+    paste("## Two-Day Snow Potential
+          
+          <iframe src=\"/interactive/champaign_snow_chance.html\" width=\"100%\" height=\"250\"> 
 </iframe>
 ")
 } else {
