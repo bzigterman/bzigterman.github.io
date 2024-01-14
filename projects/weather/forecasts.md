@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ### Compare Weather Forecast Models for Champaign–Urbana
 
-<p class="updated_time"> Latest data: 12:03 PM CT, January 14</p>
+<p class="updated_time"> Latest data: 12:20 PM CT, January 14</p>
 
 ## Temperature
 
@@ -29,12 +29,12 @@ webappicon: /weather.png
 
 ## Weather Models:
 
-ECMWF = European Centre for Medium-Range Weather Forecasts IFS  
-CMA = China Meteorological Administration GFS GRAPES  
-BOM = Australian Bureau of Meteorology ACCESS-G  
-GFS = National Oceanic and Atmospheric Administration GFS & HRRR  
-JMA = Japan Meteorological Agency MSM & GSM  
-DWD = German Meteorological Service ICON  
-GEM = Canadian Weather Service GEM  
-MeteoFrance = MeteoFrance Arpege & Arome
+ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
+CMA: China Meteorological Administration GFS GRAPES  
+BOM: Australian Bureau of Meteorology ACCESS-G  
+GFS: National Oceanic and Atmospheric Administration GFS & HRRR  
+JMA: Japan Meteorological Agency MSM & GSM  
+DWD: German Meteorological Service ICON  
+GEM: Canadian Weather Service GEM  
+MeteoFrance: MeteoFrance Arpege & Arome
 
