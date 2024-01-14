@@ -62,6 +62,7 @@ options(highcharter.global = global)
 
 fig <- highchart() |> 
   hc_add_series(data = om_temp_hourly, 
+                animation = FALSE,
                 type = "line",
                 # name = "Temperature",
                 label = list(
@@ -142,7 +143,7 @@ fig <- highchart() |>
     text = paste("Source: Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
   hc_legend(enabled = FALSE) |> 
-  hc_chart(#plotBackgroundColor = "#E8EEF5",
+  hc_chart(
     scrollablePlotArea = list(
       minWidth = 700
     )) 
