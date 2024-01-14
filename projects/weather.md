@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 08:30 PM CT, January 13</p>
+<p class="updated_time"> Latest data: 08:37 PM CT, January 13</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -31,8 +31,7 @@ The current weather is posted regularly on Mastodon <a rel="me" href="https://ma
 ## Two-Day Snow Potential
           
           <iframe src="/interactive/champaign_snow_chance.html" width="100%" height="250"> 
-</iframe>
-
+          </iframe>
 
 ## Temperature History
 
