@@ -28,8 +28,8 @@ today <- strftime(x = now,
                   tz = "US/Central",
                   format = "%B %d")
 
-# get data ----
-## temperature ----
+# temperature ----
+## get data ----
 om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble( om$hourly) |> 
@@ -61,7 +61,7 @@ global$timezoneOffset <- offset
 options(highcharter.global = global)
 
 fig <- highchart() |> 
-  hc_add_series(data = om_temp_hourly, ### temp ----
+  hc_add_series(data = om_temp_hourly, 
                 type = "line",
                 # name = "Temperature",
                 label = list(
@@ -151,8 +151,183 @@ saveWidget(widget = fig, file = "interactive/champaign_temp_forecasts.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-# make web page ----
+# snow ----
+## get data ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om <- rio::import(om_url, format = "json")
+om_snow_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) |> 
+  mutate(ECMWF = snowfall_ecmwf_ifs04) |> 
+  select(!snowfall_ecmwf_ifs04) |> 
+  mutate(CMA = snowfall_cma_grapes_global) |> 
+  select(!snowfall_cma_grapes_global) |> 
+  mutate(BOM = snowfall_bom_access_global) |> 
+  select(!snowfall_bom_access_global) |> 
+  mutate(GFS = snowfall_gfs_seamless) |> 
+  select(!snowfall_gfs_seamless) |> 
+  mutate(JMA = snowfall_jma_seamless) |> 
+  select(!snowfall_jma_seamless) |> 
+  mutate(DWD = snowfall_icon_seamless) |> 
+  select(!snowfall_icon_seamless) |> 
+  mutate(GEM = snowfall_gem_seamless) |> 
+  select(!snowfall_gem_seamless) |> 
+  mutate(MeteoFrance = snowfall_meteofrance_seamless) |> 
+  select(!snowfall_meteofrance_seamless) |> 
+  pivot_longer(!c(time,datetime)) 
 
+om_snow_three_days <- om_snow_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  filter(time < now(tzone = "America/Chicago")+hours(72)) |> 
+  group_by(name) |> 
+  mutate(three_day_snow = sum(value)) |> 
+  ungroup() |> 
+  select(name,three_day_snow) |> 
+  distinct() |> 
+  drop_na()
+
+max_snow <- max(om_snow_three_days$three_day_snow)
+
+## interactive ----
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
+
+fig <- highchart() |> 
+  hc_add_series(data = om_snow_three_days, 
+                type = "bar",
+                dataLabels = list(
+                  enabled = TRUE,
+                  format = "{point.y:,.2f}″"
+                ),
+                dataSorting = list(
+                  enabled = TRUE
+                ),
+                color = "#8AA5F1",
+                groupPadding = 0,
+                hcaes(x = name,
+                      y = three_day_snow)) |> 
+  hc_xAxis(type = "category",
+           lineColor = "lightgray",
+           lineWidth = 0.5,
+           tickLength = 0) |> 
+  hc_tooltip(enabled = FALSE) |> 
+  hc_yAxis(softMax = .25,
+           visible = FALSE) |> 
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: Open-Meteo. Latest data:",now_formatted),
+    href = "https://open-meteo.com") |> 
+  hc_legend(enabled = FALSE) 
+fig
+saveWidget(widget = fig, file = "interactive/champaign_snow_forecasts.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+# rain ----
+## get data ----
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs04,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om <- rio::import(om_url, format = "json")
+om_rain_hourly <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")-days(1)) |> 
+  mutate(ECMWF = rain_ecmwf_ifs04 ) |> 
+  select(!c(rain_ecmwf_ifs04)) |> 
+  mutate(CMA = rain_cma_grapes_global + showers_cma_grapes_global) |> 
+  select(!c(rain_cma_grapes_global,showers_cma_grapes_global)) |> 
+  mutate(BOM = rain_bom_access_global + showers_bom_access_global) |> 
+  select(!c(rain_bom_access_global,showers_bom_access_global)) |> 
+  mutate(GFS = rain_gfs_seamless + showers_gfs_seamless) |> 
+  select(!c(rain_gfs_seamless,showers_gfs_seamless)) |> 
+  mutate(DWD = rain_icon_seamless + showers_icon_seamless) |> 
+  select(!c(rain_icon_seamless,showers_icon_seamless)) |> 
+  mutate(GEM = rain_gem_seamless + showers_gem_seamless) |> 
+  select(!c(rain_gem_seamless,showers_gem_seamless)) |> 
+  mutate(MeteoFrance = rain_meteofrance_seamless + showers_meteofrance_seamless) |> 
+  select(!c(rain_meteofrance_seamless,showers_meteofrance_seamless)) |> 
+  pivot_longer(!c(time,datetime)) 
+
+om_rain_three_days <- om_rain_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  filter(time < now(tzone = "America/Chicago")+hours(72)) |> 
+  group_by(name) |> 
+  mutate(three_day_rain = sum(value)) |> 
+  ungroup() |> 
+  select(name,three_day_rain) |> 
+  distinct() |> 
+  drop_na()
+
+max_rain <- max(om_rain_three_days$three_day_rain)
+
+## interactive ----
+offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
+global <- getOption("highcharter.global")
+global$useUTC <- FALSE
+global$timezoneOffset <- offset
+options(highcharter.global = global)
+
+fig <- highchart() |> 
+  hc_add_series(data = om_rain_three_days, 
+                type = "bar",
+                dataLabels = list(
+                  enabled = TRUE,
+                  format = "{point.y:,.2f}″"
+                ),
+                dataSorting = list(
+                  enabled = TRUE
+                ),
+                color = "#b0dcf0",
+                groupPadding = 0,
+                hcaes(x = name,
+                      y = three_day_rain)) |> 
+  hc_xAxis(type = "category",
+           lineColor = "lightgray",
+           lineWidth = 0.5,
+           tickLength = 0) |> 
+  hc_tooltip(enabled = FALSE) |> 
+  hc_yAxis(softMax = .25,
+           visible = FALSE) |> 
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: Open-Meteo. Latest data:",now_formatted),
+    href = "https://open-meteo.com") |> 
+  hc_legend(enabled = FALSE) 
+fig
+saveWidget(widget = fig, file = "interactive/champaign_rain_forecasts.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+snow_web <- if_else(max_snow > 0,
+                    paste0(
+                      "## Three-Day Snow Forecasts
+
+<iframe src=\"/interactive/champaign_snow_forecasts.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+"
+                    ),
+""
+)
+
+rain_web <- if_else(max_rain > 0,
+                    paste0(
+                      "## Three-Day Rain Forecasts
+
+<iframe src=\"/interactive/champaign_rain_forecasts.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+"
+                    ),
+""
+)
+
+# make web page ----
 cat(
   "---
 layout: page
@@ -170,6 +345,10 @@ webappicon: /weather.png
 
 <iframe src=\"/interactive/champaign_temp_forecasts.html\" width=\"100%\" height=\"300\"> 
 </iframe>
+
+",snow_web,"
+
+",rain_web,"
 
 ## Weather Models:
 
