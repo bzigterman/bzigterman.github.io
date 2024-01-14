@@ -352,14 +352,14 @@ webappicon: /weather.png
 
 ## Weather Models:
 
-ECMWF = European Centre for Medium-Range Weather Forecasts IFS  
-CMA = China Meteorological Administration GFS GRAPES  
-BOM = Australian Bureau of Meteorology ACCESS-G  
-GFS = National Oceanic and Atmospheric Administration GFS & HRRR  
-JMA = Japan Meteorological Agency MSM & GSM  
-DWD = German Meteorological Service ICON  
-GEM = Canadian Weather Service GEM  
-MeteoFrance = MeteoFrance Arpege & Arome
+ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
+CMA: China Meteorological Administration GFS GRAPES  
+BOM: Australian Bureau of Meteorology ACCESS-G  
+GFS: National Oceanic and Atmospheric Administration GFS & HRRR  
+JMA: Japan Meteorological Agency MSM & GSM  
+DWD: German Meteorological Service ICON  
+GEM: Canadian Weather Service GEM  
+MeteoFrance: MeteoFrance Arpege & Arome
 
 ",
 file = "projects/weather/forecasts.md",
