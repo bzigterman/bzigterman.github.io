@@ -1846,7 +1846,7 @@ Currently:
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
-## [Compare Forecast Models]({{ site.baseurl }}/projects/weather/forecasts)
+## [Compare Forecast Models »]({{ site.baseurl }}/projects/weather/forecasts)
 
 ",champaign_snow_forecast,"
 
