@@ -156,13 +156,13 @@ saveWidget(widget = fig, file = "interactive/champaign_temp_forecasts.html",
 cat(
   "---
 layout: page
-title: Forecast Models
+title: Weather Forecast Models
 permalink: /projects/weather/forecasts
 imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
-## Champaign–Urbana Forecast Models
+### Compare Weather Forecast Models for Champaign–Urbana
 
 ",now_html,"
 
@@ -171,7 +171,7 @@ webappicon: /weather.png
 <iframe src=\"/interactive/champaign_temp_forecasts.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-Weather Models:
+## Weather Models:
 
 ECMWF = European Centre for Medium-Range Weather Forecasts IFS  
 CMA = China Meteorological Administration GFS GRAPES  
