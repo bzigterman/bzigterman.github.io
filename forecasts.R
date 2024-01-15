@@ -306,6 +306,10 @@ saveWidget(widget = fig, file = "interactive/champaign_rain_forecasts.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+
+
+# web ----
+
 snow_web <- if_else(max_snow > 0,
                     paste0(
                       "## Three-Day Snow Forecasts
@@ -328,7 +332,7 @@ rain_web <- if_else(max_rain > 0,
 ""
 )
 
-# make web page ----
+## make web page ----
 cat(
   "---
 layout: page
