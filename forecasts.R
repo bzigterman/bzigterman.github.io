@@ -51,7 +51,9 @@ om_temp_hourly <- as_tibble( om$hourly) |>
   select(!temperature_2m_gem_seamless) |> 
   mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
   select(!temperature_2m_meteofrance_seamless) |> 
-  pivot_longer(!c(time,datetime)) 
+  pivot_longer(!c(time,datetime)) |> 
+  drop_na() |> 
+  mutate(name = as_factor(name))
 
 ## interactive ----
 offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
@@ -64,9 +66,6 @@ fig <- highchart() |>
   hc_add_series(data = om_temp_hourly, 
                 animation = FALSE,
                 type = "line",
-                # name = "Temperature",
-                label = list(
-                  enabled = FALSE),
                 zones = list(
                   c(value = 0,   color = "#F8D4FC"),
                   c(value = 5,   color = "#E5A4EB"),
@@ -90,13 +89,17 @@ fig <- highchart() |>
                   c(value = 95,  color = "#B6493B"),
                   c(value = 200, color = "#A44139")),
                 color = "black",
+                marker = list(enabled = FALSE),
                 connectNulls = TRUE,
                 tooltip = list(valueSuffix = "°",
                                headerFormat = "",
                                valueDecimals = 0),
                 hcaes(x = time*1000,
-                      group = name,
-                      y = value)) |> 
+                      y = value,
+                      group = name)) |> 
+  hc_tooltip(shared = TRUE,
+             split = TRUE,
+             crosshairs = TRUE) |> 
   hc_yAxis(gridLineColor = "#D9D9D9",
            gridLineWidth = .5,
            labels = list(
@@ -142,11 +145,15 @@ fig <- highchart() |>
     enabled = TRUE,
     text = paste("Source: Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
-  hc_legend(enabled = FALSE) |> 
+  hc_legend(floating = TRUE,
+            verticalAlign = "bottom",
+            layout = "vertical",
+            x = -20,
+            align = "right") |> 
   hc_chart(
     scrollablePlotArea = list(
       minWidth = 700
-    )) 
+    ))
 fig
 saveWidget(widget = fig, file = "interactive/champaign_temp_forecasts.html",
            selfcontained = FALSE,
