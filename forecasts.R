@@ -209,7 +209,7 @@ fig <- highchart() |>
            lineWidth = 0.5,
            tickLength = 0) |> 
   hc_tooltip(enabled = FALSE) |> 
-  hc_yAxis(softMax = .25,
+  hc_yAxis(softMax = 1,
            visible = FALSE) |> 
   hc_add_theme(
     hc_theme_bloom()
