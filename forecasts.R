@@ -98,6 +98,7 @@ fig <- highchart() |>
                       y = value,
                       group = name)) |> 
   hc_tooltip(shared = TRUE,
+             padding = 4,
              split = TRUE,
              crosshairs = TRUE) |> 
   hc_yAxis(gridLineColor = "#D9D9D9",
