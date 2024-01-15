@@ -98,6 +98,7 @@ fig <- highchart() |>
                       y = value,
                       group = name)) |> 
   hc_tooltip(shared = TRUE,
+             borderWidth = 0,
              padding = 4,
              split = TRUE,
              crosshairs = TRUE) |> 
