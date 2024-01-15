@@ -189,6 +189,35 @@ om_snow_three_days <- om_snow_hourly |>
 
 max_snow <- max(om_snow_three_days$three_day_snow)
 
+# ensemble ----
+om_url <- paste0("https://ensemble-api.open-meteo.com/v1/ensemble?latitude=40.1106&longitude=-88.2073&hourly=snowfall&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timeformat=unixtime&models=icon_seamless,gfs_seamless,ecmwf_ifs04,gem_global,bom_access_global_ensemble")
+om <- rio::import(om_url, format = "json")
+om_snow_ensemble <- as_tibble( om$hourly) |> 
+  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  filter(time < now(tzone = "America/Chicago")+hours(72)) |> 
+  pivot_longer(!c(time,datetime),
+               names_prefix = "snowfall_",
+               names_to = c("member","name","x"),
+               names_sep = "_") |> 
+  drop_na() |> 
+  select(time,datetime,member,name,value) |> 
+  group_by(name,member) |> 
+  mutate(three_day_snow = sum(value)) |> 
+  ungroup() |> 
+  select(member,name,three_day_snow) |> 
+  distinct() |> 
+  drop_na() |> 
+  filter(name != "access") |> 
+  mutate(name = case_match(
+    name,
+    "bom" ~ "BOM",
+    "ecmwf" ~ "ECMWF",
+    "gem" ~ "GEM",
+    "gfs" ~ "GFS",
+    "icon" ~ "DWD"
+  ))
+
 ## interactive ----
 offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
 global <- getOption("highcharter.global")
@@ -199,6 +228,7 @@ options(highcharter.global = global)
 fig <- highchart() |> 
   hc_add_series(data = om_snow_three_days, 
                 type = "bar",
+                opacity = .5,
                 dataLabels = list(
                   enabled = TRUE,
                   format = "{point.y:,.2f}″"
@@ -209,6 +239,25 @@ fig <- highchart() |>
                 color = "#8AA5F1",
                 groupPadding = 0,
                 hcaes(x = name,
+                      y = three_day_snow)
+  ) |> 
+  hc_add_series(data = om_snow_ensemble, 
+                type = "scatter",
+                jitter = list(
+                  x = .2,
+                  y = .1
+                ),
+                # dataLabels = list(
+                #   enabled = TRUE,
+                #   format = "{point.y:,.2f}″"
+                # ),
+                # dataSorting = list(
+                #   enabled = TRUE
+                # ),
+                color = "#8AA5F1",
+                groupPadding = 0,
+                hcaes(x = name,
+                      group = name,
                       y = three_day_snow)) |> 
   hc_xAxis(type = "category",
            lineColor = "lightgray",
@@ -216,7 +265,9 @@ fig <- highchart() |>
            tickLength = 0) |> 
   hc_tooltip(enabled = FALSE) |> 
   hc_yAxis(softMax = .25,
-           visible = FALSE) |> 
+           labels = list(
+             format = "{value}″")
+  ) |> 
   hc_add_theme(
     hc_theme_bloom()
   ) |>
@@ -224,7 +275,10 @@ fig <- highchart() |>
     enabled = TRUE,
     text = paste("Source: Open-Meteo. Latest data:",now_formatted),
     href = "https://open-meteo.com") |> 
-  hc_legend(enabled = FALSE) 
+  hc_legend(enabled = FALSE) |> 
+  hc_chart(
+    inverted = TRUE
+  )
 fig
 saveWidget(widget = fig, file = "interactive/champaign_snow_forecasts.html",
            selfcontained = FALSE,
