@@ -177,27 +177,21 @@ om_snow_hourly <- as_tibble( om$hourly) |>
   select(!snowfall_meteofrance_seamless) |> 
   pivot_longer(!c(time,datetime)) 
 
-om_snow_three_days <- om_snow_hourly |> 
+om_snow_two_days <- om_snow_hourly |> 
   filter(time > now(tzone = "America/Chicago")) |> 
-  filter(time < now(tzone = "America/Chicago")+hours(72)) |> 
+  filter(time < now(tzone = "America/Chicago")+hours(48)) |> 
   group_by(name) |> 
-  mutate(three_day_snow = sum(value)) |> 
+  mutate(two_day_snow = sum(value)) |> 
   ungroup() |> 
-  select(name,three_day_snow) |> 
+  select(name,two_day_snow) |> 
   distinct() |> 
   drop_na()
 
-max_snow <- max(om_snow_three_days$three_day_snow)
+max_snow <- max(om_snow_two_days$two_day_snow)
 
 ## interactive ----
-offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
-global <- getOption("highcharter.global")
-global$useUTC <- FALSE
-global$timezoneOffset <- offset
-options(highcharter.global = global)
-
 fig <- highchart() |> 
-  hc_add_series(data = om_snow_three_days, 
+  hc_add_series(data = om_snow_two_days, 
                 type = "bar",
                 dataLabels = list(
                   enabled = TRUE,
@@ -209,7 +203,7 @@ fig <- highchart() |>
                 color = "#8AA5F1",
                 groupPadding = 0,
                 hcaes(x = name,
-                      y = three_day_snow)) |> 
+                      y = two_day_snow)) |> 
   hc_xAxis(type = "category",
            lineColor = "lightgray",
            lineWidth = 0.5,
@@ -253,27 +247,21 @@ om_rain_hourly <- as_tibble( om$hourly) |>
   select(!c(rain_meteofrance_seamless,showers_meteofrance_seamless)) |> 
   pivot_longer(!c(time,datetime)) 
 
-om_rain_three_days <- om_rain_hourly |> 
+om_rain_two_days <- om_rain_hourly |> 
   filter(time > now(tzone = "America/Chicago")) |> 
-  filter(time < now(tzone = "America/Chicago")+hours(72)) |> 
+  filter(time < now(tzone = "America/Chicago")+hours(48)) |> 
   group_by(name) |> 
-  mutate(three_day_rain = sum(value)) |> 
+  mutate(two_day_rain = sum(value)) |> 
   ungroup() |> 
-  select(name,three_day_rain) |> 
+  select(name,two_day_rain) |> 
   distinct() |> 
   drop_na()
 
-max_rain <- max(om_rain_three_days$three_day_rain)
+max_rain <- max(om_rain_two_days$two_day_rain)
 
 ## interactive ----
-offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
-global <- getOption("highcharter.global")
-global$useUTC <- FALSE
-global$timezoneOffset <- offset
-options(highcharter.global = global)
-
 fig <- highchart() |> 
-  hc_add_series(data = om_rain_three_days, 
+  hc_add_series(data = om_rain_two_days, 
                 type = "bar",
                 dataLabels = list(
                   enabled = TRUE,
@@ -285,7 +273,7 @@ fig <- highchart() |>
                 color = "#b0dcf0",
                 groupPadding = 0,
                 hcaes(x = name,
-                      y = three_day_rain)) |> 
+                      y = two_day_rain)) |> 
   hc_xAxis(type = "category",
            lineColor = "lightgray",
            lineWidth = 0.5,
@@ -309,10 +297,9 @@ saveWidget(widget = fig, file = "interactive/champaign_rain_forecasts.html",
 
 
 # web ----
-
 snow_web <- if_else(max_snow > 0,
                     paste0(
-                      "## Three-Day Snow Forecasts
+                      "## Two-Day Snow Forecasts
 
 <iframe src=\"/interactive/champaign_snow_forecasts.html\" width=\"100%\" height=\"300\"> 
 </iframe>
@@ -323,7 +310,7 @@ snow_web <- if_else(max_snow > 0,
 
 rain_web <- if_else(max_rain > 0,
                     paste0(
-                      "## Three-Day Rain Forecasts
+                      "## Two-Day Rain Forecasts
 
 <iframe src=\"/interactive/champaign_rain_forecasts.html\" width=\"100%\" height=\"300\"> 
 </iframe>
