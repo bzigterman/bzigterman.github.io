@@ -146,12 +146,12 @@ om_past24 <- om_hourly |>
 rainfall <- round(sum(om_past24$rain, na.rm = TRUE),2)
 snowfall <- round(sum(om_past24$snowfall, na.rm = TRUE),2)
 
-om_3day_forecast <- om_hourly |> 
+om_2day_forecast <- om_hourly |> 
   filter(time > now(tzone = "America/Chicago")) |> 
-  filter(time < now(tzone = "America/Chicago")+days(3)) 
+  filter(time < now(tzone = "America/Chicago")+days(2)) 
 
-rainfall_forecast <- round(sum(om_3day_forecast$rain, na.rm = TRUE),2)
-snowfall_forecast <- round(sum(om_3day_forecast$snowfall, na.rm = TRUE),2)
+rainfall_forecast <- round(sum(om_2day_forecast$rain, na.rm = TRUE),2)
+snowfall_forecast <- round(sum(om_2day_forecast$snowfall, na.rm = TRUE),2)
 
 # mastodon api setup ----
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
@@ -193,10 +193,10 @@ champaign_precip <- case_when(
   snowfall > 0 && rainfall == 0  ~ paste("-",snowfall,"inches of snow in the past 24 hours\n"),
   rainfall == 0 && snowfall == 0 ~ paste(""))
 champaign_precip_forecast <- case_when(
-  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast >= snowfall_forecast ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
-  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast < snowfall_forecast  ~ paste("-",snowfall_forecast,"inches of snow and",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
-  rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 72 hours\n"),
-  snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 72 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast >= snowfall_forecast ~ paste("-",rainfall_forecast,"inches of rain and",snowfall_forecast,"inches of snow expected in the next 48 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast > 0 && rainfall_forecast < snowfall_forecast  ~ paste("-",snowfall_forecast,"inches of snow and",rainfall_forecast,"inches of rain expected in the next 48 hours\n"),
+  rainfall_forecast > 0 && snowfall_forecast == 0  ~ paste("-",rainfall_forecast,"inches of rain expected in the next 48 hours\n"),
+  snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 48 hours\n"),
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
