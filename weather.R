@@ -799,7 +799,8 @@ fig <- highchart() |>
            lineColor = "lightgray",
            lineWidth = 0.5,
            tickLength = 0) |> 
-  hc_yAxis(visible = FALSE) |> 
+  hc_yAxis(visible = FALSE,
+           softMax = 50) |> 
   hc_credits(
     enabled = TRUE,
     text = paste("Source: NWS. Latest data:",
