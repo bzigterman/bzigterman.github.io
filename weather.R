@@ -680,6 +680,8 @@ fig <- highchart() |>
   )%>%
   hc_tooltip(shared = TRUE,
              split = TRUE,
+             borderWidth = 0,
+             padding = 4,
              crosshairs = TRUE,
              dateTimeLabelFormats = list(
                hour = "%A, %b %e, %l%P",
