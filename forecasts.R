@@ -150,7 +150,6 @@ fig <- highchart() |>
   hc_legend(floating = TRUE,
             verticalAlign = "bottom",
             layout = "vertical",
-            x = -20,
             align = "right") |> 
   hc_chart(
     scrollablePlotArea = list(
