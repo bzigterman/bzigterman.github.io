@@ -226,6 +226,9 @@ webcam_url22 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_
 webcam_url23 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4006919_-8824896_1_S.jpg"
 webcam_url24 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_I-57_4006935_-8830332_1_S.jpg"
 webcam_url25 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4005464_-8825121_1_S.jpg"
+webcam_url26 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4015791_-8829825_1_E.jpg"
+webcam_url27 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4014275_-8828686_1_N.jpg"
+webcam_url28 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4015174_-8827693_1_S.jpg"
 urls <- c(webcam_url1,webcam_url2,webcam_url3,
           webcam_url4,webcam_url5,webcam_url6,
           webcam_url7,webcam_url8,webcam_url9,
@@ -234,7 +237,8 @@ urls <- c(webcam_url1,webcam_url2,webcam_url3,
           webcam_url16,webcam_url17,webcam_url18,
           webcam_url19,webcam_url20,webcam_url21,
           webcam_url22,webcam_url23,webcam_url24,
-          webcam_url25)
+          webcam_url25,webcam_url26,webcam_url27,
+          webcam_url28)
 
 webcam1_text <- "I-57 at Market St."
 webcam2_text <- "Mattis Ave. at Bloomington"
@@ -261,6 +265,9 @@ webcam22_text <- "US 45 at Windsor"
 webcam23_text <- "US 45 at Curtis"
 webcam24_text <- "I-57 at Curtis Rd."
 webcam25_text <- "US 45 at Church"
+webcam26_text <- "I-74 at Mile Post 177.9"
+webcam27_text <- "I-74 at Mile Post 236.9"
+webcam28_text <- "I-74 at Mile Post 237.7"
 webcam_texts <- c(webcam1_text,webcam2_text,webcam3_text,
                   webcam4_text,webcam5_text,webcam6_text,
                   webcam7_text,webcam8_text,webcam9_text,
@@ -269,9 +276,10 @@ webcam_texts <- c(webcam1_text,webcam2_text,webcam3_text,
                   webcam16_text,webcam17_text,webcam18_text,
                   webcam19_text,webcam20_text,webcam21_text,
                   webcam22_text,webcam23_text,webcam24_text,
-                  webcam25_text)
+                  webcam25_text,webcam26_text,webcam27_text,
+                  webcam28_text)
 
-random_number <- sample(1:25, 1, replace=TRUE)
+random_number <- sample(1:28, 1, replace=TRUE)
 webcam_url <- urls[[random_number]]
 webcam_text <- webcam_texts[[random_number]]
 
