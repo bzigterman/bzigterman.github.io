@@ -710,7 +710,7 @@ snow <- GET("https://www.weather.gov/source/ilx/winter/snow_prob.xml")
 content <- content(snow) 
 list <- as_list(content)
 date <- ymd_hm(list$forecast$timestamp[[1]],
-               tz = "America/New_York")
+               tz = "UTC")
 time <- strftime(x = date, 
                  tz = "US/Central",
                  format = "%I:%M% %p CT, %b %d")
