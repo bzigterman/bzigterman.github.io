@@ -200,91 +200,27 @@ champaign_precip_forecast <- case_when(
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
-# webcam
-webcam_url1 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4018104_-8824489_1_S.jpg"
-webcam_url2 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_Mattis_4013945_-8827704_1_S.jpg"
-webcam_url3 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013475_-8825781_1_E.jpg"
-webcam_url4 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-74_4013446_-8824351_1_E.jpg"
-webcam_url5 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-74_4013535_-8821938_1_E.jpg"
-webcam_url6 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_Bradley_4012728_-8827668_1_N.jpg"
-webcam_url7 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SB_US-150_4012701_-8825815_1_N.jpg"
-webcam_url8 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_I-72_4012026_-8837032_1_W.jpg"
-webcam_url9 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SB_Mattis_4011831_-8827712_1_N.jpg"
-webcam_url10 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SB_Mattis_4011296_-8827709_1_E.jpg"
-webcam_url11 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SB_US-150_4011614_-8825801_1_N.jpg"
-webcam_url12 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_US-150_4011253_-8825761_1_W.jpg"
-webcam_url13 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_US-150_4011268_-8824364_1_S.jpg"
-webcam_url14 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_US-150_4011258_-8822908_1_N.jpg"
-webcam_url15 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_US-150_4011652_-8821923_1_W.jpg"
-webcam_url16 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_US-150_4011617_-8820461_1_E.jpg"
-webcam_url17 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_EB_US-150_4011324_-8816240_1_W.jpg"
-webcam_url18 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-74_4012166_-8817337_1_E.jpg"
-webcam_url19 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_WB_I-74_4012079_-8810461_1_E.jpg"
-webcam_url20 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4011007_-8824329_1_N.jpg"
-webcam_url21 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4009829_-8824440_1_S.jpg"
-webcam_url22 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4008379_-8824666_1_S.jpg"
-webcam_url23 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4006919_-8824896_1_S.jpg"
-webcam_url24 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_I-57_4006935_-8830332_1_S.jpg"
-webcam_url25 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NB_US-45_4005464_-8825121_1_S.jpg"
-webcam_url26 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4015791_-8829825_1_E.jpg"
-webcam_url27 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4014275_-8828686_1_N.jpg"
-webcam_url28 <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4015174_-8827693_1_S.jpg"
-urls <- c(webcam_url1,webcam_url2,webcam_url3,
-          webcam_url4,webcam_url5,webcam_url6,
-          webcam_url7,webcam_url8,webcam_url9,
-          webcam_url10,webcam_url11,webcam_url12,
-          webcam_url13,webcam_url14,webcam_url15,
-          webcam_url16,webcam_url17,webcam_url18,
-          webcam_url19,webcam_url20,webcam_url21,
-          webcam_url22,webcam_url23,webcam_url24,
-          webcam_url25,webcam_url26,webcam_url27,
-          webcam_url28)
+# webcams ----
+url <- "https://www.travelmidwest.com/lmiga/cameraReport.jsp?location=GATEWAY.IL.ARTERIALS.CHAMPAIGN"
+webcams <- read_html(url) |>
+  html_elements("div.cameraReportCell") |> 
+  html_element("img") 
 
-webcam1_text <- "I-57 at Market St."
-webcam2_text <- "Mattis Ave. at Bloomington"
-webcam3_text <- "I-74 at Prospect Ave."
-webcam4_text <- "I-74 at Neil St."
-webcam5_text <- "I-74 at Lincoln Ave."
-webcam6_text <- "Mattis Ave. at Bradley"
-webcam7_text <- "US 150 (Prospect) at Bradley"
-webcam8_text <- "I-72 at Mile Post 178.3"
-webcam9_text <- "Mattis Ave. at Church"
-webcam10_text <- "Mattis Ave. at Springfield"
-webcam11_text <- "US 150 (Prospect) at University"
-webcam12_text <- "US 150 (Prospect) at Springfield"
-webcam13_text <- "US 150 (Springfield) at Neil"
-webcam14_text <- "US 150 (Springfield) at Wright"
-webcam15_text <- "US 150 (University) at Lincoln"
-webcam16_text <- "US 150 (University) at Cunningham"
-webcam17_text <- "US 150 (University) at High Cross"
-webcam18_text <- "I-74 at University Ave."
-webcam19_text <- "I-74 at Mile Post 189.1"
-webcam20_text <- "US 45 (Neil St.) at Green"
-webcam21_text <- "US 45 (Neil St.) at Kirby"
-webcam22_text <- "US 45 at Windsor"
-webcam23_text <- "US 45 at Curtis"
-webcam24_text <- "I-57 at Curtis Rd."
-webcam25_text <- "US 45 at Church"
-webcam26_text <- "I-74 at Mile Post 177.9"
-webcam27_text <- "I-74 at Mile Post 236.9"
-webcam28_text <- "I-74 at Mile Post 237.7"
-webcam_texts <- c(webcam1_text,webcam2_text,webcam3_text,
-                  webcam4_text,webcam5_text,webcam6_text,
-                  webcam7_text,webcam8_text,webcam9_text,
-                  webcam10_text,webcam11_text,webcam12_text,
-                  webcam13_text,webcam14_text,webcam15_text,
-                  webcam16_text,webcam17_text,webcam18_text,
-                  webcam19_text,webcam20_text,webcam21_text,
-                  webcam22_text,webcam23_text,webcam24_text,
-                  webcam25_text,webcam26_text,webcam27_text,
-                  webcam28_text)
+webcam_urls <- webcams |> 
+  html_attr("src") 
+webcam_texts <- webcams |> 
+  html_attr("alt")
 
-random_number <- sample(1:28, 1, replace=TRUE)
-webcam_url <- urls[[random_number]]
-webcam_text <- webcam_texts[[random_number]]
+total_imgs <- length(webcam_texts)
 
-webcam_img <- tempfile(fileext = "jpg")
-download.file(url = webcam_url, destfile = webcam_img)
+if (total_imgs > 0) {
+  random_number <- sample(1:total_imgs, 1, replace=TRUE)
+  webcam_url <- webcam_urls[[random_number]]
+  webcam_text <- webcam_texts[[random_number]]
+  
+  webcam_img <- tempfile(fileext = "jpg")
+  download.file(url = webcam_url, destfile = webcam_img)
+}
 
 # text ----
 now <- as_datetime(now())
@@ -310,11 +246,16 @@ if (rainfall >= 0 &&
     om_currently$temperature <= 150 &&
     om_currently$windspeed >= 0 
 ) {
-  post_toot(
-    status   = text,
-    media    = webcam_img,
-    alt_text = webcam_text
-    )
+  if (total_imgs > 0) {
+    post_toot(
+      status   = text,
+      media    = webcam_img,
+      alt_text = webcam_text
+    ) } else {
+      post_toot(
+        status   = text
+      )
+    }
 }
 
 
