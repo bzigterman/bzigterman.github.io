@@ -39,15 +39,15 @@ om_temp_hourly <- as_tibble( om$hourly) |>
   select(!temperature_2m_ecmwf_ifs04) |> 
   mutate(CMA = temperature_2m_cma_grapes_global) |> 
   select(!temperature_2m_cma_grapes_global) |> 
-  mutate(BOM = temperature_2m_bom_access_global) |> 
+  mutate(ABOM = temperature_2m_bom_access_global) |> 
   select(!temperature_2m_bom_access_global) |> 
-  mutate(GFS = temperature_2m_gfs_seamless) |> 
+  mutate(NOAA = temperature_2m_gfs_seamless) |> 
   select(!temperature_2m_gfs_seamless) |> 
   mutate(JMA = temperature_2m_jma_seamless) |> 
   select(!temperature_2m_jma_seamless) |> 
   mutate(DWD = temperature_2m_icon_seamless) |> 
   select(!temperature_2m_icon_seamless) |> 
-  mutate(GEM = temperature_2m_gem_seamless) |> 
+  mutate(MSC = temperature_2m_gem_seamless) |> 
   select(!temperature_2m_gem_seamless) |> 
   mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
   select(!temperature_2m_meteofrance_seamless) |> 
@@ -171,15 +171,15 @@ om_snow_hourly <- as_tibble( om$hourly) |>
   select(!snowfall_ecmwf_ifs04) |> 
   mutate(CMA = snowfall_cma_grapes_global) |> 
   select(!snowfall_cma_grapes_global) |> 
-  mutate(BOM = snowfall_bom_access_global) |> 
+  mutate(ABOM = snowfall_bom_access_global) |> 
   select(!snowfall_bom_access_global) |> 
-  mutate(GFS = snowfall_gfs_seamless) |> 
+  mutate(NOAA = snowfall_gfs_seamless) |> 
   select(!snowfall_gfs_seamless) |> 
   mutate(JMA = snowfall_jma_seamless) |> 
   select(!snowfall_jma_seamless) |> 
   mutate(DWD = snowfall_icon_seamless) |> 
   select(!snowfall_icon_seamless) |> 
-  mutate(GEM = snowfall_gem_seamless) |> 
+  mutate(MSC = snowfall_gem_seamless) |> 
   select(!snowfall_gem_seamless) |> 
   mutate(MeteoFrance = snowfall_meteofrance_seamless) |> 
   select(!snowfall_meteofrance_seamless) |> 
@@ -243,13 +243,13 @@ om_rain_hourly <- as_tibble( om$hourly) |>
   select(!c(rain_ecmwf_ifs04)) |> 
   mutate(CMA = rain_cma_grapes_global + showers_cma_grapes_global) |> 
   select(!c(rain_cma_grapes_global,showers_cma_grapes_global)) |> 
-  mutate(BOM = rain_bom_access_global + showers_bom_access_global) |> 
+  mutate(ABOM = rain_bom_access_global + showers_bom_access_global) |> 
   select(!c(rain_bom_access_global,showers_bom_access_global)) |> 
-  mutate(GFS = rain_gfs_seamless + showers_gfs_seamless) |> 
+  mutate(NOAA = rain_gfs_seamless + showers_gfs_seamless) |> 
   select(!c(rain_gfs_seamless,showers_gfs_seamless)) |> 
   mutate(DWD = rain_icon_seamless + showers_icon_seamless) |> 
   select(!c(rain_icon_seamless,showers_icon_seamless)) |> 
-  mutate(GEM = rain_gem_seamless + showers_gem_seamless) |> 
+  mutate(MSC = rain_gem_seamless + showers_gem_seamless) |> 
   select(!c(rain_gem_seamless,showers_gem_seamless)) |> 
   mutate(MeteoFrance = rain_meteofrance_seamless + showers_meteofrance_seamless) |> 
   select(!c(rain_meteofrance_seamless,showers_meteofrance_seamless)) |> 
@@ -354,11 +354,11 @@ webappicon: /weather.png
 
 ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
 CMA: China Meteorological Administration GFS GRAPES  
-BOM: Australian Bureau of Meteorology ACCESS-G  
-GFS: National Oceanic and Atmospheric Administration GFS & HRRR  
+ABOM: Australian Bureau of Meteorology ACCESS-G  
+NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
 JMA: Japan Meteorological Agency MSM & GSM  
 DWD: German Meteorological Service ICON  
-GEM: Canadian Weather Service GEM  
+MSC: Canadian Weather Service GEM  
 MeteoFrance: MeteoFrance Arpege & Arome
 
 ",
