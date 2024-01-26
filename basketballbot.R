@@ -194,9 +194,9 @@ standings_check <- nba_standings %>%
 standings_the_same <- all_equal(standings_check, old_standings)
 
 # pennant race chart ----
-nba_min <-  .7*min(nba_standings$win_pct)
+nba_min <-  0
 nba_max <- 1.05*max(nba_standings$win_pct)
-nudge <- -.0861118*(nba_max-nba_min)
+nudge <- -.0561118*(nba_max-nba_min)
 
 eastern_standings <- nba_standings %>%
   filter(conference == "Eastern") %>%
@@ -231,9 +231,6 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct),
             angle = 270,
             size = 3.9,
             nudge_y = nudge) +
-  # geom_text(aes(label = division_leaders),
-  #           family = "mono",
-  #           nudge_y = .011) +
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
@@ -245,8 +242,7 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct),
     plot.background = element_rect(fill = "white", color = "white"),
     plot.margin = margin(t = 5,
                          r = 5,
-                         b = 0#,
-                         #l = 110
+                         b = 0
     ),
     panel.grid = element_blank(),
     axis.text = element_blank(),
@@ -264,9 +260,6 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct),
   geom_rect(xmin = 6.5, xmax = 10.5,
             ymin = -Inf, ymax = Inf,
             fill = "grey95") +
-  # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-  #           ymin = -Inf, ymax = Inf,
-  #           fill = "grey85") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
              size = .2) +
@@ -282,9 +275,6 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct),
             angle = 270,
             size = 3.9,
             nudge_y = nudge) +
-  # geom_text(aes(label = division_leaders),
-  #           family = "mono",
-  #           nudge_y = .011) +
   scale_y_continuous(labels = label_comma(accuracy = .001)) +
   theme_minimal() +
   labs(x = NULL,
@@ -294,7 +284,6 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct),
     legend.title = element_blank(),
     plot.background = element_rect(fill = "white", color = "white"),
     plot.margin = margin(t = 0,
-                         #                    #r = 90,
                          b = 0,
                          l = 0),
     panel.grid = element_blank(),
