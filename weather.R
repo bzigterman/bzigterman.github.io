@@ -132,6 +132,13 @@ om_2day_forecast <- om_hourly |>
 rainfall_forecast <- round(sum(om_2day_forecast$rain, na.rm = TRUE),2)
 snowfall_forecast <- round(sum(om_2day_forecast$snowfall, na.rm = TRUE),2)
 
+any_rain <- if_else(all(is.na(om_hourly$rain)),
+                    FALSE,
+                    TRUE)
+any_snow <- if_else(all(is.na(om_hourly$snowfall)),
+                    FALSE,
+                    TRUE)
+
 ## interactive ----
 offset <- 60*(hour(now(tzone = "America/Chicago"))-hour(now(tzone = "UTC")) )
 global <- getOption("highcharter.global")
@@ -1822,6 +1829,30 @@ if (champaign_any_snow > 0) {
   champaign_snow_forecast <- ""
 }
 
+if (any_rain) {
+  rain_map <- 
+    paste0("## Severe Thunderstorm Outlook
+
+",severe_weather_outlook_url,"
+
+<p class=\"updated_time\">Source: <a href=\"https://www.spc.noaa.gov\">NOAA/NWS Storm Prediction Center</a>.</p> 
+")
+} else {
+  rain_map = ""
+}
+
+if (any_snow) {
+  winter_map <- 
+    paste0("## Winter Storm Severity Index
+
+",winter_storm_url,"
+
+<p class=\"updated_time\">Source: <a href=\"https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php\">NOAA/NWS Weather Prediction Center</a>.</p> 
+")
+} else {
+  winter_map = ""
+}
+
 cat(
   "---
 layout: page
@@ -1868,18 +1899,9 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil]({{ site.baseurl }}/projects/weather/soil)
 
-## Severe Thunderstorm Outlook
+",rain_map,"
 
-",severe_weather_outlook_url,"
-
-<p class=\"updated_time\">Source: <a href=\"https://www.spc.noaa.gov\">NOAA/NWS Storm Prediction Center</a>.</p> 
-
-## Winter Storm Severity Index
-
-",winter_storm_url,"
-
-<p class=\"updated_time\">Source: <a href=\"https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php\">NOAA/NWS Weather Prediction Center</a>.</p> 
-
+",winter_map,"
 
 ",
 file = "projects/weather.md",
