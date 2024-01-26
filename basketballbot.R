@@ -196,7 +196,7 @@ standings_the_same <- all_equal(standings_check, old_standings)
 # pennant race chart ----
 nba_min <-  0
 nba_max <- 1.05*max(nba_standings$win_pct)
-nudge <- -.0561118*(nba_max-nba_min)
+nudge <- -.0861118*(nba_max-nba_min)
 
 eastern_standings <- nba_standings %>%
   filter(conference == "Eastern") %>%
