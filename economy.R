@@ -1137,12 +1137,11 @@ saveWidget(widget = fig, file = "interactive/il_employment.html",
 
 ## flash index ----
 flash_index_url <- "https://igpa.uillinois.edu/wp-json/wp/v2/pages/365"
-
+flash_index_GET <- GET(flash_index_url)
 code <- status_code(flash_index_GET)
 
 if (code == 200) {
   
-  flash_index_GET <- GET(flash_index_url)
   flash_index_content <- content(flash_index_GET)
   flash_index_data <-toJSON( flash_index_content[["acf"]][["flash_index_data"]] )
   flash_index_json <- flash_index_data
