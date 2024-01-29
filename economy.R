@@ -1143,11 +1143,9 @@ code <- status_code(flash_index_GET)
 
 if (code == 200) {
   
-  flash_index_content <- content(flash_index_GET)
-  flash_index_data <-toJSON( flash_index_content[["acf"]][["flash_index_data"]] )
-  flash_index_json <- flash_index_data
-  flash_index <- fromJSON( flash_index_json, flatten = T) |> 
-    unnest(cols = c(year, year_values)) |> 
+  flash_index_full_data <- fromJSON(flash_index_url)
+  flash_index <- flash_index_full_data$acf$flash_index_data |> 
+    unnest(cols = c(year_values)) |> 
     mutate(date = ym(paste(year,month))) |> 
     mutate(value = as.numeric( flash_index_value) )|> 
     select(date,value) |> 
