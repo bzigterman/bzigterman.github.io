@@ -11,6 +11,7 @@ library(rvest)
 library(highcharter)
 library(htmlwidgets)
 library(httr)
+library(jsonlite)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
