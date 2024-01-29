@@ -1136,20 +1136,22 @@ saveWidget(widget = fig, file = "interactive/il_employment.html",
            libdir = "interactive")
 
 ## flash index ----
-flash_index_archive <- read_html("https://igpa.uillinois.edu/flash-index-detail/")
-code <- status_code(GET("https://igpa.uillinois.edu/flash-index-detail/"))
+flash_index_url <- "https://igpa.uillinois.edu/wp-json/wp/v2/pages/365"
+
+code <- status_code(flash_index_GET)
 
 if (code == 200) {
   
-  flash_index <- flash_index_archive %>% html_node("table") %>% 
-    html_table(header = TRUE) %>%
-    rename(Year = 1) %>%
-    #na_if("-") %>%
-    mutate(across(where(is.character),as.double)) %>%
-    pivot_longer(!Year) %>%
-    mutate(date = ym(paste(Year,name))) %>%
-    select(date,value) %>%
-    arrange(date)
+  flash_index_GET <- GET(flash_index_url)
+  flash_index_content <- content(flash_index_GET)
+  flash_index_data <-toJSON( flash_index_content[["acf"]][["flash_index_data"]] )
+  flash_index_json <- flash_index_data
+  flash_index <- fromJSON( flash_index_json, flatten = T) |> 
+    unnest(cols = c(year, year_values)) |> 
+    mutate(date = ym(paste(year,month))) |> 
+    mutate(value = as.numeric( flash_index_value) )|> 
+    select(date,value) |> 
+    filter(value > 0)
   
   data <- flash_index %>%
     drop_na()
