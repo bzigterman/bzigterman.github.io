@@ -211,10 +211,10 @@ western_standings <- nba_standings %>%
 western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
                                               y = win_pct)) +
   geom_rect(xmin = 9.5, xmax = Inf,
-            ymin = -Inf, ymax = Inf,
+            ymin = 0, ymax = Inf,
             fill = "grey85") +
   geom_rect(xmin = 5.5, xmax = 9.5,
-            ymin = -Inf, ymax = Inf,
+            ymin = 0, ymax = Inf,
             fill = "grey95") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
@@ -255,10 +255,10 @@ western_plot
 eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
                                               y = win_pct)) +
   geom_rect(xmin = -Inf, xmax = 6.5,
-            ymin = -Inf, ymax = Inf,
+            ymin = 0, ymax = Inf,
             fill = "grey85") +
   geom_rect(xmin = 6.5, xmax = 10.5,
-            ymin = -Inf, ymax = Inf,
+            ymin = 0, ymax = Inf,
             fill = "grey95") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
