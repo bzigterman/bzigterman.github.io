@@ -201,15 +201,20 @@ champaign_precip_forecast <- case_when(
 champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 
 # webcams ----
-url <- "https://www.travelmidwest.com/lmiga/cameraReport.jsp?location=GATEWAY.IL.ARTERIALS.CHAMPAIGN"
-webcams <- read_html(url) |>
-  html_elements("div.cameraReportCell") |> 
-  html_element("img") 
+json_url <- "https://www.travelmidwest.com/lmiga/cameraReport.json?path=GATEWAY.IL.ARTERIALS.CHAMPAIGN"
+webcams_json <- fromJSON(json_url) 
+webcams <- webcams_json$reportTables$cells[[1]] |> 
+  unnest(cols = c(imageDirections),
+         names_repair = "universal") |> 
+  janitor::clean_names() |> 
+  select(location, s,n,e,w) |> 
+  pivot_longer(!location)  |> 
+  unnest(cols = c(value)) |> 
+  select(location,url) |> 
+  drop_na()
 
-webcam_urls <- webcams |> 
-  html_attr("src") 
-webcam_texts <- webcams |> 
-  html_attr("alt")
+webcam_urls <- webcams$url
+webcam_texts <- webcams$location
 
 total_imgs <- length(webcam_texts)
 
