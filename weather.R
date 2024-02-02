@@ -1884,6 +1884,8 @@ The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https:/
 
 ",champaign_snow_forecast,"
 
+![](https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4015791_-8829825_1_E.jpg)
+
 ## Temperature History
 
 <iframe src=\"/interactive/champaign_weather_year.html\" width=\"100%\" height=\"500\"> 
