@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 19 * * *'
-  push:
-    paths:
-      - 'timelapse.R'
 
 jobs:
   run-timelapse:
