@@ -1819,6 +1819,13 @@ winter_storm_url <-
         sep = ""
   )
 
+webcam_url <- 
+  paste("![](",
+        "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4015791_-8829825_1_E.jpg",
+        ")",
+        sep = ""
+  )
+
 if (champaign_any_snow > 0) {
   champaign_snow_forecast <- 
     paste("## Two-Day Snow Potential
@@ -1884,7 +1891,7 @@ The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https:/
 
 ",champaign_snow_forecast,"
 
-![](https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_SEB_I-74_4015791_-8829825_1_E.jpg)
+",webcam_url,"
 
 ## Temperature History
 
