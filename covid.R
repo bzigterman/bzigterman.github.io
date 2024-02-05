@@ -299,9 +299,12 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_cases = World) |> 
-  mutate(avg_new_cases = new_cases) |> 
+  mutate(avg_new_cases = zoo::rollmean(new_cases,
+                                       k = 7,
+                                       fill = NA,
+                                       align = "right")) |> 
   mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,2))/lag(avg_new_cases,2))) %>%
+           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World") |> 
@@ -312,9 +315,12 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = new_deaths) |> 
+  mutate(avg_new_deaths = zoo::rollmean(new_deaths,
+                                        k = 7,
+                                        fill = NA,
+                                        align = "right")) |> 
   mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
+           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World") |> 
@@ -390,9 +396,12 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_cases = World) |> 
-  mutate(avg_new_cases = new_cases) |> 
+  mutate(avg_new_cases = zoo::rollmean(new_cases,
+                                       k = 7,
+                                       fill = NA,
+                                       align = "right")) |> 
   mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,2))/lag(avg_new_cases,2))) %>%
+           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(Date = ymd(date)) %>%
   mutate(date = as_date(Date)) %>%
   mutate(location = "World")
@@ -472,7 +481,10 @@ owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_
 owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
   select(date,World) |> 
   mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = new_deaths) |> 
+  mutate(avg_new_deaths = zoo::rollmean(new_deaths,
+                                        k = 7,
+                                        fill = NA,
+                                        align = "right")) |> 
   mutate(pct_change_new_deaths = 
            ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
   mutate(Date = ymd(date)) %>%
