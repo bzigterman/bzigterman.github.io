@@ -2,7 +2,7 @@ library(tidyverse)
 library(magick)
 library(jsonlite)
 
-url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4014275_-8828686_1_N.jpg"
+webcam_url <- "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_5_Champaign_NEB_I-57_4014275_-8828686_1_N.jpg"
 json_url <- "https://www.travelmidwest.com/lmiga/cameraReport.json?path=GATEWAY.IL.I-74"
 webcams_json <- fromJSON(json_url) 
 webcams <- webcams_json$reportTables$cells[[1]] |> 
@@ -15,7 +15,7 @@ webcams <- webcams_json$reportTables$cells[[1]] |>
   select(location,age,url) |> 
   drop_na() |> 
   mutate(age = as.numeric( ms(age))) |> 
-  filter(url == url)
+  filter(url == webcam_url)
 
 if (webcams$age < 10800) {
   animation <- image_read("timelapse/animation.gif")
