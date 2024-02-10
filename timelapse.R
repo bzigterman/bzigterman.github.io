@@ -21,7 +21,7 @@ if (webcams$age < 10800) {
   animation <- image_read("timelapse/animation.gif")
   frames <- length(animation)
   new_frame <- frames+1
-  latest <- image_read(url)
+  latest <- image_read(webcam_url)
   updated_animation <- animation[c(1:frames,frames)]
   updated_animation[new_frame] <- latest
   
