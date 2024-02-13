@@ -56,6 +56,11 @@ candidates_2024 <- read_csv(
 
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
+today_location_checker <- between(today(tzone = "America/Chicago"),
+                                 as_date("2024-03-05")-months(1),
+                                 as_date("2024-03-05")+months(1))
+
+
 ## make charts ----
 candidate_chart <- hchart(candidates_2024,
                           animation = FALSE,
@@ -98,7 +103,13 @@ candidate_chart <- hchart(candidates_2024,
     endOnTick = FALSE,
     plotLines = list(
       list(
-        label = list(text = "Today"),
+        label = list(text = "Today",
+                     y = if_else(today_location_checker,
+                                 -40,
+                                 10),
+                     verticalAlign = if_else(today_location_checker,
+                                             "bottom",
+                                             "top")),
         color = "#595959",
         width = 1,
         zIndex = 2,
