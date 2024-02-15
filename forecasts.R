@@ -193,7 +193,8 @@ om_snow_two_days <- om_snow_hourly |>
   ungroup() |> 
   select(name,two_day_snow) |> 
   distinct() |> 
-  drop_na()
+  drop_na() |> 
+  filter(two_day_snow >=0 )
 
 max_snow <- max(om_snow_two_days$two_day_snow)
 
@@ -263,7 +264,8 @@ om_rain_two_days <- om_rain_hourly |>
   ungroup() |> 
   select(name,two_day_rain) |> 
   distinct() |> 
-  drop_na()
+  drop_na() |> 
+  filter(two_day_rain >=0)
 
 max_rain <- max(om_rain_two_days$two_day_rain)
 
