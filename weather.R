@@ -789,14 +789,28 @@ champaign_intervals_chances <- intervals_table |>
     "chance_8_12" ~ "8–12″",
     "chance_12_18" ~"12–18″",
     "chance_18_up" ~ "≥18″"
+  )) |> 
+  mutate(name = case_match(
+    name,
+    "<0.1″" ~ .01,
+    "0.1–1″" ~ .1,
+    "1–2″" ~ 1,
+    "2–4″" ~ 2,
+    "4–6″" ~ 4,
+    "6–8″" ~ 6,
+    "8–12″" ~ 8,
+    "12–18″" ~ 12,
+    "≥18″" ~ 18
   ))
 
 fig <- highchart() |> 
   hc_add_series(data = champaign_intervals_chances,
-                type = "bar",
+                type = "area",
+                step = "left",
                 color = "#8AA5F1",
                 groupPadding = 0,
                 dataLabels = list(
+                  align = "left",
                   enabled = TRUE,
                   format = "{point.value}%"
                 ),
@@ -804,10 +818,9 @@ fig <- highchart() |>
                       x = name)) |> 
   hc_tooltip(enabled = FALSE) |> 
   hc_legend(enabled = FALSE) |> 
-  hc_xAxis(type = "category",
-           lineColor = "lightgray",
-           lineWidth = 0.5,
-           tickLength = 0) |> 
+  hc_xAxis(labels = list(
+    format = "{value} in."
+  )) |> 
   hc_yAxis(visible = FALSE,
            softMax = 50) |> 
   hc_credits(
