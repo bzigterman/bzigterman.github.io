@@ -21,6 +21,6 @@ Hello! This is my website. Here's what I'm up to:
 
 You can contact me by email at <a href="&#x6D;&#97;&#105;&#108;&#116;&#111;:&#x68;&#101;&#x6C;&#108;&#111;&#64;&#98;z&#105;&#x67;&#116;&#101;&#114;m&#x61;&#110;&#x2E;&#99;&#x6F;&#109;">&#x68;&#101;&#x6C;&#108;&#111;&#64;&#98;z&#105;&#x67;&#116;&#101;&#114;m&#x61;&#110;&#x2E;&#99;&#x6F;&#109;</a>.
 
-Elsewhere: <a href="https://www.facebook.com/bzigterman">Facebook</a> | <a href="https://mastodon.social/@bzigterman">Mastodon</a> | <a href="https://www.linkedin.com/in/bzigterman">LinkedIn</a> | <a href="https://instagram.com/bzigterman">Instagram</a> | <a href="https://github.com/bzigterman">GitHub</a> | <a href="https://www.buymeacoffee.com/bzigterman">☕️</a></p>
+Elsewhere: <a href="https://www.facebook.com/bzigterman">Facebook</a> | <a href="https://mastodon.social/@bzigterman">Mastodon</a> | <a href="https://www.linkedin.com/in/bzigterman">LinkedIn</a> | <a href="https://instagram.com/bzigterman">Instagram</a> | <a href="https://github.com/bzigterman">GitHub</a> | <a href="https://www.buymeacoffee.com/bzigterman">☕️</a>
 
 <a rel="me" href="https://mastodon.social/@bzigterman"></a>
