@@ -11,6 +11,7 @@ library(imputeTS)
 library(highcharter)
 library(RColorBrewer)
 library(htmlwidgets)
+library(zoo)
 
 champaign_lat <-  40.11
 champaign_lon <- -88.21
@@ -45,7 +46,11 @@ latest_freeze_dates <- temp_history |>
   mutate(years = paste(year, collapse = ", ")) |> 
   ungroup() |> 
   mutate(date = paste(month(latest, label = TRUE, abbr = FALSE),
-                      day(latest)))
+                      day(latest))) |> 
+  mutate(avg = zoo::rollmean(x = latest,
+                             k = 25,
+                             fill = NA,
+                             align = "right")) 
 
 total_years <- as.numeric(count(latest_freeze_dates))
 
@@ -93,6 +98,21 @@ fig <- highchart() |>
                   headerFormat = "{point.latest}"
                 ),
                 type = "scatter") |> 
+  hc_add_series(latest_freeze_dates,
+                label = list(
+                  enabled = TRUE
+                ),
+                name = "25-year avg.",
+                enableMouseTracking = F,
+                color = "#527DC7",
+                type = "line",
+                states = list(
+                  inactive = list(
+                    enabled = FALSE
+                  )
+                ),
+                hcaes(x = avg,
+                      y = year)) |> 
   hc_add_series(latest_freeze_weeks,
                 hcaes(x = latest,
                       y = pct),
