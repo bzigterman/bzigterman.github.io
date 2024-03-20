@@ -47,10 +47,10 @@ latest_freeze_dates <- temp_history |>
   ungroup() |> 
   mutate(date = paste(month(latest, label = TRUE, abbr = FALSE),
                       day(latest))) |> 
-  mutate(avg = zoo::rollmean(x = latest,
+  mutate(avg = ymd( zoo::rollmean(x = latest,
                              k = 25,
                              fill = NA,
-                             align = "right")) 
+                             align = "right")) )
 
 total_years <- as.numeric(count(latest_freeze_dates))
 
@@ -104,7 +104,7 @@ fig <- highchart() |>
                 ),
                 name = "25-year avg.",
                 enableMouseTracking = F,
-                color = "#527DC7",
+                color = "black",
                 type = "line",
                 states = list(
                   inactive = list(
