@@ -8,6 +8,15 @@ Here's some of my best work:
 
 ## Law360
 
+### 2024
+
+* March 25: [Small Business Ch. 11s Help Drive Rise In Bankruptcies](https://www.law360.com/bankruptcy-authority/articles/1816355)
+
+### 2023
+
+* November 30: [FTX Says IRS Tax Estimate Is $24B Too High](https://www.law360.com/bankruptcy-authority/articles/1771622/ftx-says-irs-tax-estimate-is-24b-too-high)
+* July 7: [How COVID Coverage Litigation Is Shaping Up In 2023](https://www.law360.com/articles/1696877/how-covid-coverage-litigation-is-shaping-up-in-2023)
+
 ### 2022
 
 * February 25: [The Big Picture: COVID Coverage Cases In Fed. Appeals Court](https://www.law360.com/insurance-authority/property/articles/1455259/the-big-picture-covid-coverage-cases-in-fed-appeals-court)
