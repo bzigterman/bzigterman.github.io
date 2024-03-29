@@ -17,7 +17,7 @@ library(rvest)
 library(janitor)
 
 # get data ----
-odds_url <- "https://www.baseball-reference.com/leagues/majors/2023-playoff-odds.shtml"
+odds_url <- "https://www.baseball-reference.com/leagues/majors/2024-playoff-odds.shtml"
 odds <- read_html(odds_url) |> 
   html_element("#playoff_prob_mlb") |> 
   html_table(header = FALSE,
@@ -70,7 +70,7 @@ table <- odds |>
   mutate(win_ws = parse_number(win_ws))
 
 get_team_records <- function(abbreviation) {
-  records <- bref_team_results(abbreviation, 2023) |> 
+  records <- bref_team_results(abbreviation, 2024) |> 
     mutate(game_n = as.numeric( Gm)) |> 
     mutate(result = case_when(
       Result == "W" ~ "W",
