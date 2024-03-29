@@ -783,132 +783,160 @@ if (length(standings_the_same) > 0) {
   #                                               x = better_wild_card_divs)
   
   
+  # wild card interactive ----
+  sorted_mlb_standings <- mlb_standings |> 
+    select(team_label,wins,losses,win_pct,win_pct_text,league) |>
+    arrange(if_else(league == "AL",
+                    (win_pct),
+                    NA)) |> 
+    arrange(if_else(league == "NL",
+                    desc(win_pct),
+                    NA)) |> 
+    mutate(league = factor(league
+    )) |> 
+    mutate(league = fct_relevel(
+      league,c("AL","NL")
+    )) |> 
+    mutate(al_win_pct = (if_else(league == "AL",
+                                   (win_pct),
+                                   NA))) |> 
+    mutate(nl_win_pct = (if_else(league == "NL",
+                                   (win_pct),
+                                   NA))) 
   
-  # wild card plot ----
-  mlb_min <-  .8*min(mlb_standings$win_pct)
-  mlb_max <- 1.05*max(mlb_standings$win_pct)
-  nudge <- -.0461118*(mlb_max-mlb_min)
-  division_leader_nudge <- .021*(mlb_max-mlb_min)
   
-  al_standings <- mlb_standings %>%
-    filter(league == "AL") %>%
-    arrange(desc(win_pct)) %>%
-    select(team_label, win_pct, win_pct_text)
-  nl_standings <- mlb_standings %>%
-    filter(league == "NL") %>%
-    arrange(desc(win_pct)) %>%
-    select(team_label, win_pct, win_pct_text)
-  
-  al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct), 
-                                            y = win_pct)) +
-    # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
-    #           ymin = -Inf, ymax = Inf,
-    #           fill = "grey85") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               linewidth = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_gradient(guide = NULL,
-                        low = "#fd8d3c",
-                        high = "#800026") +
-    coord_cartesian(ylim = c(mlb_min,mlb_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    geom_text(aes(label = division_leaders),
-              family = "mono",
-              nudge_y = division_leader_nudge) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "American League") +
-    theme(
-      legend.title = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      plot.title = element_text(hjust = 1),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(5,5,0,110),
-      panel.grid = element_blank(),
-      axis.text = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
+  fig <- hchart(sorted_mlb_standings,
+                "column",
+                borderWidth = 0,
+                animation = FALSE,
+                hcaes(x = team_label,
+                      y = al_win_pct,
+                      group = league),
+                colorKey = "al_win_pct",
+                colorAxis = 1,
+                grouping = FALSE,
+                dataLabels = list(
+                  enabled = TRUE,
+                  format = "{point.team_label}",
+                  rotation = 90,
+                  allowOverlap = TRUE,
+                  crop = FALSE,
+                  y = 15
+                ),
+                groupPadding = 0,
+                pointPadding = 0,
+                tooltip = list(
+                  headerFormat = "",
+                  pointFormat = "{point.team_label}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+                )) |> 
+    hc_add_series(
+      sorted_mlb_standings,
+      "column",
+      dataLabels = list(
+        enabled = TRUE,
+        format = "{point.team_label}",
+        rotation = 90,
+        allowOverlap = TRUE,
+        crop = FALSE,
+        y = 15
+      ),
+      borderWidth = 0,
+      animation = FALSE,
+      hcaes(x = team_label,
+            y = nl_win_pct,
+            group = league),
+      colorKey = "nl_win_pct",
+      colorAxis = 0,
+      grouping = FALSE,
+      groupPadding = 0,
+      pointPadding = 0,
+      tooltip = list(
+        headerFormat = "",
+        pointFormat = "{point.team_label}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+      )
+    ) |> 
+    hc_xAxis(tickLength = 0,
+             title = list( enabled = FALSE    ),
+             labels = list( enabled = FALSE    ),
+             plotLines = list(
+               list(
+                 color = "#595959",
+                 width = 1,
+                 zIndex = 2,
+                 value = 14.5
+               )),
+             plotBands = list(
+               list(
+                 color = hex_to_rgba("gray", 0.4),
+                 zIndex = 2,
+                 from = 8.5,
+                 to = 20.5
+               ),
+               list(
+                 color = hex_to_rgba("gray", 0.2),
+                 zIndex = 2,
+                 from = 4.5,
+                 to = 24.5
+               ),
+               list(
+                 label = list(text = "American League"),
+                 color = hex_to_rgba("white", 0),
+                 zIndex = 2,
+                 from = -0.5,
+                 to = 4.5
+               ),
+               list(
+                 label = list(text = "National League"),
+                 color = hex_to_rgba("white", 0),
+                 zIndex = 2,
+                 from = 24.5,
+                 to = 29.5
+               )
+             ),
+             labels = list(
+               allowOverlap = TRUE,
+               rotation = 90,
+               padding = 0,
+               step = 1
+             )) |> 
+    hc_yAxis(endOnTick = FALSE,
+             tickInterval = .25,
+             startOnTick = FALSE,
+             plotLines = list(
+               list(
+                 # label = list(text = "0.500"),
+                 color = "#595959",
+                 width = 1,
+                 zIndex = 2,
+                 value = .5
+               )),
+             opposite = FALSE,
+             title = list(
+               enabled = FALSE    
+             ),
+             labels = list(
+               format = "{value:.3f}"
+             )) |> 
+    hc_add_theme(
+      hc_theme_bloom()
+    ) |> 
+    hc_legend(enabled = FALSE) |> 
+    hc_colorAxis(
+      list(
+        minColor = "turquoise",
+        maxColor = "darkblue"
+      ),
+      list(
+        minColor = "orange",
+        maxColor = "darkred"
+      )
     )
-  al_plot
-  al_plot_mobile <- al_plot +
-    theme(
-      plot.margin = margin(t = 5,
-                           r = 5,
-                           b = 0))
-  al_plot_mobile
   
-  nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct), 
-                                            y = win_pct)) +
-    # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-    #           ymin = -Inf, ymax = Inf,
-    #           fill = "grey85") +
-    geom_hline(yintercept = 0.5,
-               color = "grey50",
-               linewidth = .2) +
-    geom_col(aes(fill = win_pct),
-             width = 1) +
-    scale_fill_continuous(guide = NULL,
-                          low = "#3690c0",
-                          high = "#023858") +
-    coord_cartesian(ylim = c(mlb_min,mlb_max)) +
-    geom_text(aes(label = team_label),
-              family = "mono",
-              color = "white",
-              angle = 270,
-              size = 3.9,
-              nudge_y = nudge) +
-    geom_text(aes(label = division_leaders),
-              family = "mono",
-              nudge_y = division_leader_nudge) +
-    scale_y_continuous(labels = label_comma(accuracy = .001)) +
-    theme_minimal() +
-    labs(x = NULL,
-         y = NULL,
-         title = "National League") +
-    theme(    
-      legend.title = element_blank(),
-      plot.background = element_rect(fill = "white", color = "white"),
-      plot.margin = margin(0,90,0,0),
-      panel.grid = element_blank(),
-      panel.grid.major.y = element_line(colour = "grey93"),
-      axis.text.x = element_blank(),
-      legend.position = "bottom",
-      legend.key.size = unit(.1,"in"),
-      legend.box.spacing = unit(0,"in")
-    )
-  
-  nl_plot_mobile <- nl_plot +
-    theme(
-      plot.margin = margin(t = 0,
-                           b = 0,
-                           l = 0)
-    )
-  nl_plot_mobile
-  
-  plot_grid(al_plot,nl_plot,
-            align = "h") 
-  
-  ggsave("plots/mlb_team_rank.png",
-         width = 8, height = 8*(628/1200),
-         dpi = 320)
-  
-  plot_grid(al_plot_mobile,nl_plot_mobile,
-            align = "h",
-            rel_widths = c(6,7)) 
-  
-  ggsave("plots/mlb_team_rank_mobile.png",
-         width = 4, height = 8*(628/1200),
-         dpi = 320)
-  
+  fig
+  saveWidget(widget = fig, file = "interactive/mlb_team_rank.html",
+             selfcontained = FALSE,
+             libdir = "interactive")
+
   # wild card net wins plot ----
   
   hc_al_games <- mlb_standings_magic %>%
@@ -1045,11 +1073,8 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ## Wild Card
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/mlb_team_rank.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/mlb_team_rank_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/mlb_team_rank.html\" width=\"100%\" height=\"400\"> 
+</iframe>
 
 Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
