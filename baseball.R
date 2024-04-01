@@ -867,29 +867,17 @@ if (length(standings_the_same) > 0) {
                )),
              plotBands = list(
                list(
-                 color = hex_to_rgba("gray", 0.4),
-                 zIndex = 2,
-                 from = 8.5,
-                 to = 20.5
-               ),
-               list(
-                 color = hex_to_rgba("gray", 0.2),
-                 zIndex = 2,
-                 from = 4.5,
-                 to = 24.5
-               ),
-               list(
                  label = list(text = "American League"),
                  color = hex_to_rgba("white", 0),
                  zIndex = 2,
                  from = -0.5,
-                 to = 4.5
+                 to = 14.5
                ),
                list(
                  label = list(text = "National League"),
                  color = hex_to_rgba("white", 0),
                  zIndex = 2,
-                 from = 24.5,
+                 from = 14.5,
                  to = 29.5
                )
              ),
