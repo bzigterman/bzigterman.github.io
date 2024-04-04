@@ -466,21 +466,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">165</td>
-<td headers="latest" class="gt_row gt_right">181</td>
-<td headers="pct_change" class="gt_row gt_right">+10%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">152</td>
+<td headers="latest" class="gt_row gt_right">160</td>
+<td headers="pct_change" class="gt_row gt_right">+5%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">61.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">56.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−8%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">53.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">45.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−15%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">250,000</td>
-<td headers="latest" class="gt_row gt_right">289,000</td>
-<td headers="pct_change" class="gt_row gt_right">+16%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">279,000</td>
+<td headers="latest" class="gt_row gt_right">312,000</td>
+<td headers="pct_change" class="gt_row gt_right">+12%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">1.23</td>
-<td headers="latest" class="gt_row gt_right gt_striped">1.09</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−12%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">1.55</td>
+<td headers="latest" class="gt_row gt_right gt_striped">1.52</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−2%</td></tr>
   </tbody>
   
   
