@@ -45,6 +45,8 @@ om_temp_hourly <- as_tibble( om$hourly) |>
   select(!temperature_2m_bom_access_global) |> 
   mutate(NOAA = temperature_2m_gfs_seamless) |> 
   select(!temperature_2m_gfs_seamless) |> 
+  mutate(GraphCast = temperature_2m_gfs_graphcast025) |> 
+  select(!temperature_2m_gfs_graphcast025) |> 
   mutate(JMA = temperature_2m_jma_seamless) |> 
   select(!temperature_2m_jma_seamless) |> 
   mutate(DWD = temperature_2m_icon_seamless) |> 
@@ -53,8 +55,6 @@ om_temp_hourly <- as_tibble( om$hourly) |>
   select(!temperature_2m_gem_seamless) |> 
   mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
   select(!temperature_2m_meteofrance_seamless) |> 
-  mutate(GraphCast = temperature_2m_gfs_graphcast025) |> 
-  select(!temperature_2m_gfs_graphcast025) |> 
   pivot_longer(!c(time,datetime)) |> 
   drop_na() |> 
   mutate(name = as_factor(name))
