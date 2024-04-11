@@ -30,7 +30,7 @@ today <- strftime(x = now,
 
 # temperature ----
 ## get data ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025")
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -53,6 +53,8 @@ om_temp_hourly <- as_tibble( om$hourly) |>
   select(!temperature_2m_gem_seamless) |> 
   mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |> 
   select(!temperature_2m_meteofrance_seamless) |> 
+  mutate(GraphCast = temperature_2m_gfs_graphcast025) |> 
+  select(!temperature_2m_gfs_graphcast025) |> 
   pivot_longer(!c(time,datetime)) |> 
   drop_na() |> 
   mutate(name = as_factor(name))
@@ -164,7 +166,7 @@ saveWidget(widget = fig, file = "interactive/champaign_temp_forecasts.html",
 
 # snow ----
 ## get data ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025")
 om <- rio::import(om_url, format = "json")
 om_snow_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -187,6 +189,8 @@ om_snow_hourly <- as_tibble( om$hourly) |>
   select(!snowfall_gem_seamless) |> 
   mutate(MeteoFrance = snowfall_meteofrance_seamless) |> 
   select(!snowfall_meteofrance_seamless) |> 
+  mutate(GraphCast = snowfall_gfs_graphcast025) |> 
+  select(!snowfall_gfs_graphcast025) |> 
   pivot_longer(!c(time,datetime)) 
 
 om_snow_two_days <- om_snow_hourly |> 
@@ -239,7 +243,7 @@ saveWidget(widget = fig, file = "interactive/champaign_snow_forecasts.html",
 
 # rain ----
 ## get data ----
-om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless")
+om_url <- paste0("https://api.open-meteo.com/v1/forecast?latitude=",champaign_lat,"&longitude=",champaign_lon,"&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025")
 om <- rio::import(om_url, format = "json")
 om_rain_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
@@ -248,6 +252,8 @@ om_rain_hourly <- as_tibble( om$hourly) |>
   select(!c(rain_ecmwf_ifs025)) |> 
   mutate(AIFS = rain_ecmwf_aifs025 ) |> 
   select(!c(rain_ecmwf_aifs025)) |> 
+  mutate(GraphCast = rain_gfs_graphcast025 ) |> 
+  select(!c(rain_gfs_graphcast025)) |> 
   mutate(CMA = rain_cma_grapes_global + showers_cma_grapes_global) |> 
   select(!c(rain_cma_grapes_global,showers_cma_grapes_global)) |> 
   mutate(ABOM = rain_bom_access_global + showers_bom_access_global) |> 
@@ -361,10 +367,11 @@ webappicon: /weather.png
 ## Weather Models:
 
 ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
-AIFS: European Centre for Medium-Range Weather Forecasts AIFS  
+AIFS: [European Centre for Medium-Range Weather Forecasts AIFS](https://openmeteo.substack.com/p/artificial-intelligence-weather-model)  
 CMA: China Meteorological Administration GFS GRAPES  
 ABOM: Australian Bureau of Meteorology ACCESS-G  
 NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
+GraphCast: [NOAA GFS GraphCast](https://openmeteo.substack.com/p/exploring-graphcast)  
 JMA: Japan Meteorological Agency MSM & GSM  
 DWD: German Meteorological Service ICON  
 MSC: Canadian Weather Service GEM  
