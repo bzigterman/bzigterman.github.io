@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ### Compare Weather Forecast Models for Champaign–Urbana
 
-<p class="updated_time"> Latest data: 09:41 AM CT, April 11</p>
+<p class="updated_time"> Latest data: 09:52 AM CT, April 11</p>
 
 ## Temperature
 
@@ -26,10 +26,11 @@ webappicon: /weather.png
 ## Weather Models:
 
 ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
-AIFS: European Centre for Medium-Range Weather Forecasts AIFS  
+AIFS: [European Centre for Medium-Range Weather Forecasts AIFS](https://openmeteo.substack.com/p/artificial-intelligence-weather-model)  
 CMA: China Meteorological Administration GFS GRAPES  
 ABOM: Australian Bureau of Meteorology ACCESS-G  
 NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
+GraphCast: [NOAA GFS GraphCast](https://openmeteo.substack.com/p/exploring-graphcast)  
 JMA: Japan Meteorological Agency MSM & GSM  
 DWD: German Meteorological Service ICON  
 MSC: Canadian Weather Service GEM  
