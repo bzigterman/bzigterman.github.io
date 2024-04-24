@@ -87,6 +87,7 @@ teams <- load_nba_team_box(seasons = most_recent_nba_season()) |>
 
 get_team_records <- function(abbreviation) {
   records <- load_nba_team_box(seasons = most_recent_nba_season()) |> 
+    filter(season_type == 2) |> 
     select(game_id,game_date,team_abbreviation,team_logo,team_winner,
            opponent_team_abbreviation,team_display_name) |> 
     arrange(game_date) |> 
