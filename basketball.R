@@ -257,11 +257,11 @@ old_standings <- read_csv("data/nba_standings.csv",
 #old_standings <- as_tibble(2)
 standings_check <- nba_standings |> 
   full_join(table) |> 
-  select(conference,team_label,wins,losses,win_pct,win_pct_text,post) |> 
+  select(conference,team_label,wins,losses,win_pct,win_pct_text,post,finals) |> 
   filter(!is.na(team_label)) %>%
   group_by(conference) %>%
   arrange(conference,desc(win_pct)) %>%
-  select(conference, team_label, wins, losses, win_pct_text,post) |> 
+  select(conference, team_label, wins, losses, win_pct_text,post,finals) |> 
   ungroup()
 standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
