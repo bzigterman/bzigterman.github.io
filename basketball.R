@@ -24,9 +24,10 @@ eastern_odds <- read_html(odds_url) |>
              convert = FALSE) |> 
   janitor::row_to_names(row_number = 2) |> 
   janitor::clean_names() |> 
-  select(eastern_conference, playoffs) |> 
+  select(eastern_conference, playoffs, win_finals) |> 
   arrange(desc(playoffs)) |> 
   mutate(post = parse_number(playoffs)) |> 
+  mutate(finals = parse_number(win_finals)) |> 
   mutate(lg = "Eastern") |> 
   mutate(tm = eastern_conference) 
 
@@ -36,15 +37,17 @@ western_odds <- read_html(odds_url) |>
              convert = FALSE) |> 
   janitor::row_to_names(row_number = 2) |> 
   janitor::clean_names() |> 
-  select(western_conference, playoffs) |> 
+  select(western_conference, playoffs, win_finals) |> 
   arrange(desc(playoffs)) |> 
   mutate(post = parse_number(playoffs)) |> 
+  mutate(finals = parse_number(win_finals)) |> 
   mutate(lg = "Western") |> 
   mutate(tm = western_conference) 
 
 table <- full_join(eastern_odds, western_odds) |> 
-  select(tm, post, lg) |> 
+  select(tm, post, finals,lg) |> 
   mutate(post = if_else(is.na(post),0,post)) |> 
+  mutate(finals = if_else(is.na(finals),0,finals)) |> 
   mutate(tm = na_if(tm, "")) |> 
   drop_na() |> 
   mutate(team_label = case_when(
@@ -246,7 +249,8 @@ old_standings <- read_csv("data/nba_standings.csv",
                             wins = col_number(),
                             losses = col_number(),
                             win_pct_text = col_character(),
-                            post = col_number()
+                            post = col_number(),
+                            finals = col_number()
                           ),
                           trim_ws = FALSE
 )
@@ -499,14 +503,15 @@ if (length(standings_the_same) > 0) {
     full_join(table) |> 
     select(logo_url, team_label, wins, losses, net_wins, win_pct, 
            win_pct_text, games_remaining, outcomes, conference, post, 
+           finals,
            conference_games_behind) 
   nba_standings |> 
     select(team_label,wins,losses,win_pct_text,
-           conference_games_behind,post)
+           conference_games_behind,post, finals)
   
   nba_standings_table <- nba_standings %>%
     select(logo_url, team_label, wins, losses,
-           win_pct,win_pct_text, conference_games_behind, post,
+           win_pct,win_pct_text, conference_games_behind, post,finals,
            outcomes, conference) %>%
     group_by(conference) %>%
     arrange(conference,desc(win_pct)) %>%
@@ -529,12 +534,12 @@ if (length(standings_the_same) > 0) {
     ) %>%
     cols_hide(columns = c(win_pct)) %>%
     fmt_percent(
-      columns = post,
+      columns = c(post,finals),
       decimals = 1,
       scale_values = FALSE
     ) |> 
     data_color(
-      columns = post,
+      columns = c(post,finals),
       domain = c(0,100),
       na_color = "#FFFFFF",
       palette = "Reds"
@@ -550,7 +555,8 @@ if (length(standings_the_same) > 0) {
       losses = "L",
       win_pct_text = "Pct",
       conference_games_behind = "GB",
-      post = "Odds",
+      post = "Playoffs",
+      finals = "Win Finals",
       outcomes = html("Last 10 Games")
     ) %>%
     # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
