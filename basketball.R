@@ -93,6 +93,7 @@ get_team_records <- function(abbreviation) {
     arrange(game_date) |> 
     filter(team_abbreviation == abbreviation) |> 
     mutate(game_n = row_number()) |> 
+    filter(game_n <= 82) |> 
     mutate(result = case_when(
       team_winner == TRUE ~ "W",
       team_winner == FALSE ~ "L"
