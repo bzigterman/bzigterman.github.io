@@ -8,20 +8,20 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:06 AM CT, April 30</p>
+<p class="updated_time"> Latest data: 09:25 AM CT, April 30</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 59°
+- 60°
 - Clear
-- 73% humidity
-- 5 mph wind
-- 9% cloud cover
+- 70% humidity
+- 6 mph wind
+- 7% cloud cover
 - 21 AQI 🟩
-- 0.09 inches of rain expected in the next 48 hours
+- 0.16 inches of rain expected in the next 48 hours
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
