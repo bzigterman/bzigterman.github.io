@@ -67,7 +67,19 @@ table <- odds |>
   mutate(lds = parse_number(lds)) |> 
   mutate(lcs= parse_number(lcs)) |> 
   mutate(pennant = parse_number(pennant)) |> 
-  mutate(win_ws = parse_number(win_ws))
+  mutate(win_ws = parse_number(win_ws)) |> 
+  mutate(post = if_else(is.na(post),
+                        0,
+                        post)) |> 
+  mutate(wc = if_else(is.na(wc),
+                        0,
+                      wc)) |> 
+  mutate(div = if_else(is.na(div),
+                      0,
+                      div)) |> 
+  mutate(win_ws = if_else(is.na(win_ws),
+                        0,
+                        win_ws))
 
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2024) |> 
@@ -458,7 +470,7 @@ if (length(standings_the_same) > 0) {
     ) |> 
     data_color(
       columns = div,
-      domain = c(0,100),
+      domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
     ) |> 
@@ -750,7 +762,7 @@ if (length(standings_the_same) > 0) {
     ) |> 
     data_color(
       columns = post,
-      domain = c(0,100),
+      domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
     ) |> 
