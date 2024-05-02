@@ -466,21 +466,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">152</td>
-<td headers="latest" class="gt_row gt_right">160</td>
+<td headers="year_ago" class="gt_row gt_right">157</td>
+<td headers="latest" class="gt_row gt_right">165</td>
 <td headers="pct_change" class="gt_row gt_right">+5%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">53.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">45.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−15%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">40.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">37.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−8%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">279,000</td>
-<td headers="latest" class="gt_row gt_right">312,000</td>
-<td headers="pct_change" class="gt_row gt_right">+12%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">285,000</td>
+<td headers="latest" class="gt_row gt_right">342,000</td>
+<td headers="pct_change" class="gt_row gt_right">+20%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">1.55</td>
-<td headers="latest" class="gt_row gt_right gt_striped">1.52</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−2%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">1.92</td>
+<td headers="latest" class="gt_row gt_right gt_striped">1.71</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−11%</td></tr>
   </tbody>
   
   
