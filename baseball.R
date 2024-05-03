@@ -72,14 +72,14 @@ table <- odds |>
                         0,
                         post)) |> 
   mutate(wc = if_else(is.na(wc),
-                        0,
+                      0,
                       wc)) |> 
   mutate(div = if_else(is.na(div),
-                      0,
-                      div)) |> 
+                       0,
+                       div)) |> 
   mutate(win_ws = if_else(is.na(win_ws),
-                        0,
-                        win_ws))
+                          0,
+                          win_ws))
 
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2024) |> 
@@ -810,11 +810,11 @@ if (length(standings_the_same) > 0) {
       league,c("AL","NL")
     )) |> 
     mutate(al_win_pct = (if_else(league == "AL",
-                                   (win_pct),
-                                   NA))) |> 
+                                 (win_pct),
+                                 NA))) |> 
     mutate(nl_win_pct = (if_else(league == "NL",
-                                   (win_pct),
-                                   NA))) 
+                                 (win_pct),
+                                 NA))) 
   
   
   fig <- hchart(sorted_mlb_standings,
@@ -936,7 +936,7 @@ if (length(standings_the_same) > 0) {
   saveWidget(widget = fig, file = "interactive/mlb_team_rank.html",
              selfcontained = FALSE,
              libdir = "interactive")
-
+  
   # wild card net wins plot ----
   
   hc_al_games <- mlb_standings_magic %>%
