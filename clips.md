@@ -10,7 +10,9 @@ Here's some of my best work:
 
 ### 2024
 
+* May 2: [Comcast Dispute Adds Wrinkle To Diamond Sports Ch. 11](https://www.law360.com/bankruptcy-authority/articles/1832973)
 * April 15: [Carey Remembered As Practical Judge With Great Demeanor](https://www.law360.com/bankruptcy-authority/articles/1825318/carey-remembered-as-practical-judge-with-great-demeanor)
+* March 26: [Curo Not Alone In Yielding To Payday-Sector Headwinds](https://www.law360.com/articles/1817884)
 * March 25: [Small Business Ch. 11s Help Drive Rise In Bankruptcies](https://www.law360.com/bankruptcy-authority/articles/1816355)
 
 ### 2023
