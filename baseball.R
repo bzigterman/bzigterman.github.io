@@ -417,7 +417,8 @@ al_games <- full_join(al_central, al_east) %>%
 nl_games <- full_join(nl_central, nl_east) %>%
   full_join(nl_west)
 
-mlb_games <- full_join(al_games, nl_games)
+mlb_games <- full_join(al_games, nl_games) |> 
+  full_join(table)
 
 # standings check ----
 old_standings <- read_csv("data/standings.csv",
@@ -427,7 +428,10 @@ old_standings <- read_csv("data/standings.csv",
                             wins = col_integer(),
                             losses = col_integer(),
                             win_pct_text = col_character(),
-                            games_remaining = col_number()),
+                            games_remaining = col_number(),
+                            post = col_number(),
+                            div = col_number(),
+                            win_ws = col_number()),
                           trim_ws = FALSE
 )
 #old_standings <- as_tibble(2)
@@ -435,7 +439,7 @@ standings_check <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
-  select(league, team_label, wins, losses, win_pct_text, games_remaining) |> 
+  select(league, team_label, wins, losses, win_pct_text, games_remaining,post,div,win_ws) |> 
   ungroup()
 standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
