@@ -408,6 +408,7 @@ division_standings <- full_join(al_central_standings_magic, al_east_standings_ma
          games_remaining,
          division_games_behind, division_magic_number, 
          division_elimination_number,division_magic_or_eliminated,div,
+         win_ws,
          outcomes, division, division_place, league) 
 
 
@@ -464,12 +465,12 @@ if (length(standings_the_same) > 0) {
       }
     ) %>%
     fmt_percent(
-      columns = div,
+      columns = c(div,win_ws),
       decimals = 1,
       scale_values = FALSE
     ) |> 
     data_color(
-      columns = div,
+      columns = c(div,win_ws),
       domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
@@ -493,7 +494,8 @@ if (length(standings_the_same) > 0) {
       net_wins = html("Games<br>Above<br>.500"),
       win_pct_text = "Pct",
       division_magic_or_eliminated = html("M#<br>/E#"),
-      div = "Odds",
+      div = "Win Div",
+      win_ws = "Win WS",
       #division_magic_number = "M#",
       #division_elimination_number = "E#",
       outcomes = html("Last 10")
@@ -731,7 +733,7 @@ if (length(standings_the_same) > 0) {
   wild_card_table <- mlb_standings_magic %>%
     select(logo_url, team_label, wins, losses, 
            win_pct,win_pct_text, games_remaining, wc_games_behind,
-           division_or_elim,post,outcomes, league) %>%
+           division_or_elim,post,win_ws,outcomes, league) %>%
     group_by(league) %>%
     arrange(league,desc(win_pct)) %>%
     gt() %>%
@@ -756,12 +758,12 @@ if (length(standings_the_same) > 0) {
                   division_or_elim)
     ) %>%
     fmt_percent(
-      columns = post,
+      columns = c(post,win_ws),
       decimals = 1,
       scale_values = FALSE
     ) |> 
     data_color(
-      columns = post,
+      columns = c(post,win_ws),
       domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
@@ -771,7 +773,8 @@ if (length(standings_the_same) > 0) {
       team_label = "Team",
       wins = "W",
       losses = "L",
-      post = "Odds",
+      post = "Post",
+      win_ws = "Win WS",
       win_pct_text = "Pct",
       games_remaining = "GR",
       wc_games_behind = "GB",
