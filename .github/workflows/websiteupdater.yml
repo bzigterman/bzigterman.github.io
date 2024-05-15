@@ -35,6 +35,7 @@ jobs:
           Rscript economy.R
           Rscript covid.R
           Rscript baseball.R
+          Rscript basketball.R
           Rscript soil.R
           Rscript wastewater.R
           Rscript weather.R
