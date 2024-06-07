@@ -17,12 +17,12 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Illinois
 
-<iframe src="/interactive/il_covid.html" width="100%" height="400"> 
+<iframe src="/interactive/il_covid.html" width="100%" height="300"> 
 </iframe>
 
 ## United States
 
-<iframe src="/interactive/usa_covid.html" width="100%" height="500"> 
+<iframe src="/interactive/usa_covid.html" width="100%" height="400"> 
 </iframe>
 
 ## World
