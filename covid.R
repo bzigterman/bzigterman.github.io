@@ -141,13 +141,13 @@ cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us
 cdc_json <- rio::import(cdc_url, format = "json")
 cdc_il <- cdc_json$us_trend_by_Geography_v2 |> 
   mutate(Date = as_date(week_ending_date)) |> 
-  select(Date,total_adm_all_covid_confirmed_past_7days,
+  select(Date,
          COVID_deaths_weekly) 
 
 fig <- hchart(cdc_il,
               type = "line", 
               hcaes(x = Date,
-                    y = total_adm_all_covid_confirmed_past_7days),
+                    y = COVID_deaths_weekly),
               states = list(
                 inactive = list(
                   enabled = FALSE
@@ -155,33 +155,10 @@ fig <- hchart(cdc_il,
               ),
               tooltip = list(valueDecimals = 0),
               connectNulls = TRUE,
-              name = "Avg. Hospitalized",
+              name = "Avg. Deaths",
               label = list(
                 enabled = TRUE),
-              color = "#d90000",
-              yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, 
-                                 heights = c(1,1),
-                                 endOnTick = FALSE,
-                                 title = list(text = NULL))) %>%
-  hc_add_series(
-    data = cdc_il,
-    connectNulls = TRUE,
-    hcaes(x = Date,
-          y = COVID_deaths_weekly),
-    label = list(
-      #format = "Wastewater",
-      enabled = TRUE),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    tooltip = list(valueDecimals = 0),
-    name = "Avg. Deaths",
-    color = "#000000",
-    type = "line",
-    yAxis = 1) %>%
+              color = "black") %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: CDC",
@@ -210,13 +187,13 @@ cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us
 cdc_json <- rio::import(cdc_url, format = "json")
 cdc_usa <- cdc_json$us_trend_by_Geography_v2 |> 
   mutate(Date = as_date(week_ending_date)) |> 
-  select(Date,total_adm_all_covid_confirmed_past_7days,
+  select(Date,
          COVID_deaths_weekly,percent_pos)
 
 fig <- hchart(cdc_usa,
               type = "line", 
               hcaes(x = Date,
-                    y = total_adm_all_covid_confirmed_past_7days),
+                    y = COVID_deaths_weekly),
               states = list(
                 inactive = list(
                   enabled = FALSE
@@ -224,33 +201,15 @@ fig <- hchart(cdc_usa,
               ),
               tooltip = list(valueDecimals = 0),
               connectNulls = TRUE,
-              name = "Avg. Hospitalized",
+              name = "Avg. Deaths",
               label = list(
                 enabled = TRUE),
-              color = "#d90000",
+              color = "black",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 3, 
-                                 heights = c(1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1,1),
                                  endOnTick = FALSE,
                                  title = list(text = NULL))) %>%
-  hc_add_series(
-    data = cdc_usa,
-    connectNulls = TRUE,
-    hcaes(x = Date,
-          y = COVID_deaths_weekly),
-    label = list(
-      #format = "Wastewater",
-      enabled = TRUE),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    tooltip = list(valueDecimals = 0),
-    name = "Avg. Deaths",
-    color = "#000000",
-    type = "line",
-    yAxis = 1) %>%
   hc_add_series(
     data = cdc_usa,
     connectNulls = TRUE,
@@ -269,7 +228,7 @@ fig <- hchart(cdc_usa,
     name = "Test Positivity",
     color = "#35978f",
     type = "line",
-    yAxis = 2) %>%
+    yAxis = 1) %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: CDC",
@@ -610,12 +569,12 @@ More information about wastewater surveillance available from the [CDC](https://
 
 ## Illinois
 
-<iframe src=\"/interactive/il_covid.html\" width=\"100%\" height=\"400\"> 
+<iframe src=\"/interactive/il_covid.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 ## United States
 
-<iframe src=\"/interactive/usa_covid.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/usa_covid.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 ## World
