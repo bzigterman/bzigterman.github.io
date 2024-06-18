@@ -10,10 +10,10 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- 1,065 feet
-- 170 feet above the minimum level
-- 164 feet below the maximum level
-- up 10 feet from a year ago
+- 1,064 feet
+- 169 feet above the minimum level
+- 165 feet below the maximum level
+- up 9 feet from a year ago
 - down 20 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -22,9 +22,9 @@ Elevation:
 </iframe>
 
 Elevation:
-- 3,579 feet
-- 209 feet above the minimum level
-- 130 feet below the maximum level
+- 3,580 feet
+- 210 feet above the minimum level
+- 128 feet below the maximum level
 - up 2 feet from a year ago
 - down 25 feet from ten years ago
 
