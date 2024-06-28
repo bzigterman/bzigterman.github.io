@@ -15,11 +15,6 @@ Charts for Champaign County are posted weekly on Mastodon <a rel="me" href="http
 
 More information about wastewater surveillance available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
-## Illinois
-
-<iframe src="/interactive/il_covid.html" width="100%" height="300"> 
-</iframe>
-
 ## United States
 
 <iframe src="/interactive/usa_covid.html" width="100%" height="400"> 
@@ -39,7 +34,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-<iframe src="/interactive/covid_death_acceleration.html" width="100%" height="500"> 
+<iframe src="/interactive/covid_death_acceleration.html" width="100%" height="400"> 
 </iframe>
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
