@@ -134,54 +134,6 @@ champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$
 champaign_month_ago_hospitalized <- 
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 
-
-
-## il ----
-cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL_v2"
-cdc_json <- rio::import(cdc_url, format = "json")
-cdc_il <- cdc_json$us_trend_by_Geography_v2 |> 
-  mutate(Date = as_date(week_ending_date)) |> 
-  select(Date,
-         COVID_deaths_weekly) 
-
-fig <- hchart(cdc_il,
-              type = "line", 
-              hcaes(x = Date,
-                    y = COVID_deaths_weekly),
-              states = list(
-                inactive = list(
-                  enabled = FALSE
-                )
-              ),
-              tooltip = list(valueDecimals = 0),
-              connectNulls = TRUE,
-              name = "Avg. Deaths",
-              label = list(
-                enabled = TRUE),
-              color = "black") %>%
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: CDC",
-    href = "https://bzigterman.com/interactive/il_covid.html") %>%
-  hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) %>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'month', count = 6, text = '6m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 2)
-
-fig
-saveWidget(widget = fig, file = "interactive/il_covid.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
 ## usa ----
 cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_USA_v2"
 cdc_json <- rio::import(cdc_url, format = "json")
@@ -417,15 +369,6 @@ saveWidget(widget = fig, file = "interactive/covid_case_acceleration.html",
            libdir = "interactive")
 
 # death acceleration ----
-## Illinois ----
-cdc_il_deaths <- cdc_il |> 
-  select(Date,COVID_deaths_weekly) |> 
-  mutate(avg_new_deaths = COVID_deaths_weekly) |> 
-  mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
-  mutate(location = "Illinois") |> 
-  mutate(Date = ymd(Date)+days(1))
-
 ## usa ----
 cdc_usa_deaths <- cdc_usa |> 
   select(Date,COVID_deaths_weekly) |> 
@@ -451,7 +394,6 @@ owid_new_deaths_world <- rio::import(owid_url, format = "csv") |>
   mutate(location = "World")
 
 new_deaths_combined <- full_join(owid_new_deaths_world,cdc_usa_deaths) |> 
-  full_join(cdc_il_deaths) |> 
   select(Date,location,pct_change_new_deaths) |> 
   pivot_wider(names_from = location,
               values_from = pct_change_new_deaths) |> 
@@ -462,7 +404,7 @@ new_deaths_combined <- full_join(owid_new_deaths_world,cdc_usa_deaths) |>
 fig <- hchart(new_deaths_combined,
               type = "line", 
               hcaes(x = Date,
-                    y = 100*illinois),
+                    y = 100*united_states),
               states = list(
                 inactive = list(
                   enabled = FALSE
@@ -471,39 +413,20 @@ fig <- hchart(new_deaths_combined,
               tooltip = list(valueDecimals = 0,
                              valueSuffix = "{value}%"),
               connectNulls = TRUE,
-              name = "Illinois",
+              name = "United States",
               label = list(
                 enabled = TRUE),
               color = "#b32704",
               negativeColor = "#199fa8",
               threshold = 0,
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 3, 
-                                 heights = c(1,1,1), 
+  hc_yAxis_multiples(create_axis(naxis = 2, 
+                                 heights = c(1,1), 
                                  startOnTick = FALSE,
                                  endOnTick = FALSE,
                                  min = -100,
                                  max = 200,
                                  title = list(enabled = FALSE))) %>%
-  hc_add_series(new_deaths_combined,
-                type = "line", 
-                hcaes(x = Date,
-                      y = 100*united_states),
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                tooltip = list(valueDecimals = 0,
-                               valueSuffix = "{value}%"),
-                connectNulls = TRUE,
-                name = "United States",
-                label = list(
-                  enabled = TRUE),
-                color = "#b32704",
-                negativeColor = "#199fa8",
-                threshold = 0,
-                yAxis = 1) |> 
   hc_add_series(new_deaths_combined,
                 type = "line", 
                 hcaes(x = Date,
@@ -522,7 +445,7 @@ fig <- hchart(new_deaths_combined,
                 color = "#b32704",
                 negativeColor = "#199fa8",
                 threshold = 0,
-                yAxis = 2) |> 
+                yAxis = 1) |> 
   hc_credits(
     enabled = TRUE,
     text = "Source: CDC and WHO",
@@ -567,11 +490,6 @@ Charts for Champaign County are posted weekly on Mastodon <a rel=\"me\" href=\"h
 
 More information about wastewater surveillance available from the [CDC](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance) and the [Illinois Wastewater Surveillance System](https://iwss.uillinois.edu/wastewater-treatment-plant/159/).
 
-## Illinois
-
-<iframe src=\"/interactive/il_covid.html\" width=\"100%\" height=\"300\"> 
-</iframe>
-
 ## United States
 
 <iframe src=\"/interactive/usa_covid.html\" width=\"100%\" height=\"400\"> 
@@ -591,7 +509,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 ","
 ## Death Acceleration
 
-<iframe src=\"/interactive/covid_death_acceleration.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/covid_death_acceleration.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
