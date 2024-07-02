@@ -10,7 +10,7 @@ permalink: /projects/water
 </iframe>
 
 Elevation:
-- 1,063 feet
+- 1,062 feet
 - 168 feet above the minimum level
 - 166 feet below the maximum level
 - up 6 feet from a year ago
