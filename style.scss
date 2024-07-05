@@ -15,13 +15,11 @@
 
 html {
   font-size: 100%;
-  font: -apple-system-body;
 }
 
 body {
-  background: $white;
-  font-family: $georgia;
-  font-size: 18px/1.4;
+	background: $white;
+  font: 18px/1.4 $georgia;
   color: $darkGray;
 }
 
