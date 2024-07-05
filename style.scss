@@ -19,8 +19,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $georgia;
+  background: $white;
+  font-family: $georgia;
+  font-size: 18px/1.4;
   color: $darkGray;
 }
 
