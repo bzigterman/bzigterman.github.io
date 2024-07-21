@@ -6,7 +6,7 @@ permalink: /projects/candidates
 
 # 2024
 
-<iframe src="/interactive/2024candidates.html" width="100%" height="362"> 
+<iframe src="/interactive/2024candidates.html" width="100%" height="380"> 
 </iframe>
 
 # 2020
