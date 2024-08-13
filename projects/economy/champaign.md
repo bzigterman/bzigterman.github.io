@@ -454,6 +454,15 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 #cu_housing_table .gt_indent_5 {
   text-indent: 25px;
 }
+
+#cu_housing_table .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#cu_housing_table div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
 </style>
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
   <thead>
