@@ -454,6 +454,15 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 #cu_housing_table .gt_indent_5 {
   text-indent: 25px;
 }
+
+#cu_housing_table .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#cu_housing_table div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
 </style>
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
   <thead>
@@ -466,21 +475,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">186</td>
-<td headers="latest" class="gt_row gt_right">229</td>
-<td headers="pct_change" class="gt_row gt_right">+23%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">185</td>
+<td headers="latest" class="gt_row gt_right">245</td>
+<td headers="pct_change" class="gt_row gt_right">+32%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">42.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">33.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−21%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">43.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">38.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−12%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">282,000</td>
-<td headers="latest" class="gt_row gt_right">325,000</td>
-<td headers="pct_change" class="gt_row gt_right">+15%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">290,000</td>
+<td headers="latest" class="gt_row gt_right">324,000</td>
+<td headers="pct_change" class="gt_row gt_right">+12%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">1.68</td>
-<td headers="latest" class="gt_row gt_right gt_striped">1.38</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−18%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">1.62</td>
+<td headers="latest" class="gt_row gt_right gt_striped">1.24</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−23%</td></tr>
   </tbody>
   
   
