@@ -203,28 +203,32 @@ champaign_clouds <- paste0(round(champaign_dewpoint_helper$cloudCover),"%")
 # webcams ----
 json_url <- "https://www.travelmidwest.com/lmiga/cameraReport.json?path=GATEWAY.IL.ARTERIALS.CHAMPAIGN"
 webcams_json <- fromJSON(json_url) 
-webcams <- webcams_json$reportTables$cells[[1]] |> 
-  unnest(cols = c(imageDirections),
-         names_repair = "universal") |> 
-  janitor::clean_names() |> 
-  select(location, s,n,e,w) |> 
-  pivot_longer(!location)  |> 
-  unnest(cols = c(value)) |> 
-  select(location,url) |> 
-  drop_na()
+data_check <- webcams_json["noDataMessage"] == ""
 
-webcam_urls <- webcams$url
-webcam_texts <- webcams$location
-
-total_imgs <- length(webcam_texts)
-
-if (total_imgs > 0) {
-  random_number <- sample(1:total_imgs, 1, replace=TRUE)
-  webcam_url <- webcam_urls[[random_number]]
-  webcam_text <- webcam_texts[[random_number]]
+if (data_check) {
+  webcams <- webcams_json$reportTables$cells[[1]] |> 
+    unnest(cols = c(imageDirections),
+           names_repair = "universal") |> 
+    janitor::clean_names() |> 
+    select(location, s,n,e,w) |> 
+    pivot_longer(!location)  |> 
+    unnest(cols = c(value)) |> 
+    select(location,url) |> 
+    drop_na()
   
-  webcam_img <- tempfile(fileext = "jpg")
-  download.file(url = webcam_url, destfile = webcam_img)
+  webcam_urls <- webcams$url
+  webcam_texts <- webcams$location
+  
+  total_imgs <- length(webcam_texts)
+  
+  if (total_imgs > 0) {
+    random_number <- sample(1:total_imgs, 1, replace=TRUE)
+    webcam_url <- webcam_urls[[random_number]]
+    webcam_text <- webcam_texts[[random_number]]
+    
+    webcam_img <- tempfile(fileext = "jpg")
+    download.file(url = webcam_url, destfile = webcam_img)
+  }
 }
 
 # text ----
@@ -251,7 +255,7 @@ if (rainfall >= 0 &&
     om_currently$temperature <= 150 &&
     om_currently$windspeed >= 0 
 ) {
-  if (total_imgs > 0) {
+  if (total_imgs > 0 && data_check) {
     post_toot(
       status   = text,
       media    = webcam_img,
