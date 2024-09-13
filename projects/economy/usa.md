@@ -11,6 +11,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/us_unemployment_rate.html" width="100%" height="300"> 
 </iframe>
 
+<iframe src="/interactive/us_employment_rate.html" width="100%" height="300"> 
+</iframe>
+
 <iframe src="/interactive/us_employment.html" width="100%" height="500"> 
 </iframe>
 
