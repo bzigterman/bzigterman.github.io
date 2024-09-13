@@ -20,3 +20,4 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Water]({{ site.baseurl }}/projects/water)
 
+## [Weather]({{ site.baseurl }}/projects/weather)
