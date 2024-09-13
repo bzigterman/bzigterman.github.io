@@ -98,6 +98,42 @@ saveWidget(widget = fig, file = "interactive/us_unemployment_rate.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+### employment rate -----
+data <- fredr(series_id = "LNS12300060")
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Rate",
+              tooltip = list(valueSuffix = "%")) %>%
+  hc_title(text = "Employment-Population Ratio - 25-54 Yrs.") %>%
+  hc_yAxis(title = "",
+           #min = 0,
+           endOnTick = FALSE) %>%
+  hc_xAxis(title = "") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/UNRATE") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)# %>%
+#hc_navigator(enabled = TRUE) 
+fig
+saveWidget(widget = fig, file = "interactive/us_employment_rate.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ## employment -----
 data <- fredr(series_id = "PAYEMS")%>%
@@ -1305,6 +1341,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 </iframe>
 
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+<iframe src=\"/interactive/us_employment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 <iframe src=\"/interactive/us_employment.html\" width=\"100%\" height=\"500\"> 
