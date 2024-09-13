@@ -229,6 +229,8 @@ if (data_check) {
     webcam_img <- tempfile(fileext = "jpg")
     download.file(url = webcam_url, destfile = webcam_img)
   }
+} else {
+  total_imgs <- 0
 }
 
 # text ----
