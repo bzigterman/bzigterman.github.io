@@ -248,12 +248,12 @@ om <- rio::import(om_url, format = "json")
 om_rain_hourly <- as_tibble( om$hourly) |> 
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |> 
   filter(time > now(tzone = "America/Chicago")-days(1)) |> 
-  mutate(ECMWF = rain_ecmwf_ifs025 ) |> 
-  select(!c(rain_ecmwf_ifs025)) |> 
-  mutate(AIFS = rain_ecmwf_aifs025 ) |> 
-  select(!c(rain_ecmwf_aifs025)) |> 
-  mutate(GraphCast = rain_gfs_graphcast025 ) |> 
-  select(!c(rain_gfs_graphcast025)) |> 
+  mutate(ECMWF = rain_ecmwf_ifs025 + showers_ecmwf_ifs025) |> 
+  select(!c(rain_ecmwf_ifs025,showers_ecmwf_ifs025)) |> 
+  mutate(AIFS = rain_ecmwf_aifs025 + showers_ecmwf_aifs025) |> 
+  select(!c(rain_ecmwf_aifs025,showers_ecmwf_aifs025)) |> 
+  mutate(GraphCast = rain_gfs_graphcast025 + showers_gfs_graphcast025) |> 
+  select(!c(rain_gfs_graphcast025,showers_gfs_graphcast025)) |> 
   mutate(CMA = rain_cma_grapes_global + showers_cma_grapes_global) |> 
   select(!c(rain_cma_grapes_global,showers_cma_grapes_global)) |> 
   mutate(ABOM = rain_bom_access_global + showers_bom_access_global) |> 
@@ -266,6 +266,8 @@ om_rain_hourly <- as_tibble( om$hourly) |>
   select(!c(rain_gem_seamless,showers_gem_seamless)) |> 
   mutate(MeteoFrance = rain_meteofrance_seamless + showers_meteofrance_seamless) |> 
   select(!c(rain_meteofrance_seamless,showers_meteofrance_seamless)) |> 
+  mutate(JMA = rain_jma_seamless + showers_jma_seamless) |> 
+  select(!c(rain_jma_seamless,showers_jma_seamless)) |> 
   pivot_longer(!c(time,datetime)) 
 
 om_rain_two_days <- om_rain_hourly |> 
