@@ -475,21 +475,21 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
   </thead>
   <tbody class="gt_table_body">
     <tr><td headers="name" class="gt_row gt_left">Active Listings</td>
-<td headers="year_ago" class="gt_row gt_right">209</td>
-<td headers="latest" class="gt_row gt_right">261</td>
-<td headers="pct_change" class="gt_row gt_right">+25%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">242</td>
+<td headers="latest" class="gt_row gt_right">276</td>
+<td headers="pct_change" class="gt_row gt_right">+14%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Median Days on Market</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">42.0</td>
-<td headers="latest" class="gt_row gt_right gt_striped">45.0</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">+7%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">44.0</td>
+<td headers="latest" class="gt_row gt_right gt_striped">44.0</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">0%</td></tr>
     <tr><td headers="name" class="gt_row gt_left">Median List Price ($)</td>
-<td headers="year_ago" class="gt_row gt_right">276,000</td>
-<td headers="latest" class="gt_row gt_right">285,000</td>
-<td headers="pct_change" class="gt_row gt_right">+3%</td></tr>
+<td headers="year_ago" class="gt_row gt_right">278,000</td>
+<td headers="latest" class="gt_row gt_right">268,000</td>
+<td headers="pct_change" class="gt_row gt_right">−4%</td></tr>
     <tr><td headers="name" class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
-<td headers="year_ago" class="gt_row gt_right gt_striped">1.29</td>
-<td headers="latest" class="gt_row gt_right gt_striped">0.904</td>
-<td headers="pct_change" class="gt_row gt_right gt_striped">−30%</td></tr>
+<td headers="year_ago" class="gt_row gt_right gt_striped">0.893</td>
+<td headers="latest" class="gt_row gt_right gt_striped">0.790</td>
+<td headers="pct_change" class="gt_row gt_right gt_striped">−12%</td></tr>
   </tbody>
   
   
