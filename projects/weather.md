@@ -8,17 +8,17 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 05:04 PM CT, October 06</p>
+<p class="updated_time"> Latest data: 05:25 PM CT, October 06</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 76°
+- 74°
 - Clear
-- 22% humidity
-- 15 mph wind
+- 25% humidity
+- 14 mph wind
 - 1% cloud cover
 - 28 AQI 🟩
 
@@ -44,11 +44,6 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil]({{ site.baseurl }}/projects/weather/soil)
 
-## Severe Thunderstorm Outlook
-
-![](https://www.spc.noaa.gov/products/activity_loop.gif)
-
-<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
 
