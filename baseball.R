@@ -17,69 +17,116 @@ library(rvest)
 library(janitor)
 
 # get data ----
-odds_url <- "https://www.baseball-reference.com/leagues/majors/2024-playoff-odds.shtml"
+odds_url <- "http://www.playoffstatus.com/mlb/mlbpostseasonprob.html"
 odds <- read_html(odds_url) |> 
-  html_element("#playoff_prob_mlb") |> 
-  html_table(header = FALSE,
-             convert = FALSE)
+  html_element("table") |> 
+  html_table()
 
 table <- odds |> 
-  row_to_names(row_number = 2) |> 
   clean_names() |> 
-  select(tm,lg,d,post,wc,div,lds,lcs,pennant,win_ws) |> 
-  filter(lg == "AL" | lg == "NL") |> 
+  filter(x_2 == "AmericanAmer" | x_2 == "NationalNat") |>
   mutate(team_label = case_when(
-    tm == "Atlanta Braves" ~ "ATL",
-    tm == "Miami Marlins"  ~ "MIA",
-    tm == "Philadelphia Phillies" ~ "PHI",
-    tm == "New York Mets" ~ "NYM",
-    tm == "Washington Nationals" ~ "WSH",
-    tm == "Chicago Cubs" ~ "CHC",
-    tm == "Milwaukee Brewers" ~ "MIL",
-    tm == "Cincinnati Reds" ~ "CIN",
-    tm == "Pittsburgh Pirates" ~ "PIT",
-    tm == "St. Louis Cardinals" ~ "STL",
-    tm == "Los Angeles Dodgers" ~ "LAD",
-    tm == "San Francisco Giants" ~ "SF ",
-    tm == "Arizona Diamondbacks" ~ "ARI",
-    tm == "San Diego Padres" ~ "SD ",
-    tm == "Colorado Rockies" ~ "COL",
-    tm == "Tampa Bay Rays" ~ "TB ",
-    tm == "New York Yankees" ~ "NYY",
-    tm == "Baltimore Orioles" ~ "BAL",
-    tm == "Toronto Blue Jays" ~ "TOR",
-    tm == "Boston Red Sox" ~ "BOS",
-    tm == "Minnesota Twins" ~ "MIN",
-    tm == "Cleveland Guardians" ~ "CLE",
-    tm == "Chicago White Sox" ~ "CWS",
-    tm == "Detroit Tigers" ~ "DET",
-    tm == "Kansas City Royals" ~ "KC ",
-    tm == "Texas Rangers" ~ "TEX",
-    tm == "Houston Astros" ~ "HOU",
-    tm == "Los Angeles Angels" ~ "LAA",
-    tm == "Seattle Mariners" ~ "SEA",
-    tm == "Oakland Athletics" ~ "OAK"
+    x == "Braves" ~ "ATL",
+    x == "Marlins"  ~ "MIA",
+    x == "Phillies" ~ "PHI",
+    x == "Mets" ~ "NYM",
+    x == "Nationals" ~ "WSH",
+    x == "Cubs" ~ "CHC",
+    x == "Brewers" ~ "MIL",
+    x == "Reds" ~ "CIN",
+    x == "Pirates" ~ "PIT",
+    x == "Cardinals" ~ "STL",
+    x == "Dodgers" ~ "LAD",
+    x == "Giants" ~ "SF ",
+    x == "DiamondbacksD. Backs" ~ "ARI",
+    x == "Padres" ~ "SD ",
+    x == "Rockies" ~ "COL",
+    x == "Rays" ~ "TB ",
+    x == "Yankees" ~ "NYY",
+    x == "Orioles" ~ "BAL",
+    x == "Blue Jays" ~ "TOR",
+    x == "Red Sox" ~ "BOS",
+    x == "Twins" ~ "MIN",
+    x == "Guardians" ~ "CLE",
+    x == "White Sox" ~ "CWS",
+    x == "Tigers" ~ "DET",
+    x == "Royals" ~ "KC ",
+    x == "Rangers" ~ "TEX",
+    x == "Astros" ~ "HOU",
+    x == "Angels" ~ "LAA",
+    x == "Mariners" ~ "SEA",
+    x == "Athletics" ~ "OAK"
   )) |> 
-  select(team_label,post,wc,div,lds,lcs,pennant,win_ws) |> 
-  mutate(post = parse_number(post)) |> 
-  mutate(wc = parse_number(wc)) |> 
-  mutate(div = parse_number(div)) |> 
-  mutate(lds = parse_number(lds)) |> 
-  mutate(lcs= parse_number(lcs)) |> 
-  mutate(pennant = parse_number(pennant)) |> 
-  mutate(win_ws = parse_number(win_ws)) |> 
-  mutate(post = if_else(is.na(post),
-                        0,
-                        post)) |> 
-  mutate(wc = if_else(is.na(wc),
-                      0,
-                      wc)) |> 
-  mutate(div = if_else(is.na(div),
-                       0,
-                       div)) |> 
-  mutate(win_ws = if_else(is.na(win_ws),
-                          0,
-                          win_ws))
+  mutate(wc = parse_number(wildcard_series_wc_series)) |> 
+  mutate(lds = parse_number(division_series_div_series)) |> 
+  mutate(lcs= parse_number(league_series)) |> 
+  mutate(pennant = parse_number(world_series)) |> 
+  mutate(win_ws = parse_number(world_series_winner)) |> 
+  select(team_label,wc,lds,lcs,pennant,win_ws) 
+
+# odds_url <- "https://www.baseball-reference.com/leagues/majors/2024-playoff-odds.shtml"
+# odds <- read_html(odds_url) |> 
+#   html_element("#playoff_prob_mlb") |> 
+#   html_table(header = FALSE,
+#              convert = FALSE)
+# 
+# table <- odds |> 
+#   row_to_names(row_number = 2) |> 
+#   clean_names() |> 
+#   select(tm,lg,d,post,wc,div,lds,lcs,pennant,win_ws) |> 
+#   filter(lg == "AL" | lg == "NL") |> 
+#   mutate(team_label = case_when(
+#     tm == "Atlanta Braves" ~ "ATL",
+#     tm == "Miami Marlins"  ~ "MIA",
+#     tm == "Philadelphia Phillies" ~ "PHI",
+#     tm == "New York Mets" ~ "NYM",
+#     tm == "Washington Nationals" ~ "WSH",
+#     tm == "Chicago Cubs" ~ "CHC",
+#     tm == "Milwaukee Brewers" ~ "MIL",
+#     tm == "Cincinnati Reds" ~ "CIN",
+#     tm == "Pittsburgh Pirates" ~ "PIT",
+#     tm == "St. Louis Cardinals" ~ "STL",
+#     tm == "Los Angeles Dodgers" ~ "LAD",
+#     tm == "San Francisco Giants" ~ "SF ",
+#     tm == "Arizona Diamondbacks" ~ "ARI",
+#     tm == "San Diego Padres" ~ "SD ",
+#     tm == "Colorado Rockies" ~ "COL",
+#     tm == "Tampa Bay Rays" ~ "TB ",
+#     tm == "New York Yankees" ~ "NYY",
+#     tm == "Baltimore Orioles" ~ "BAL",
+#     tm == "Toronto Blue Jays" ~ "TOR",
+#     tm == "Boston Red Sox" ~ "BOS",
+#     tm == "Minnesota Twins" ~ "MIN",
+#     tm == "Cleveland Guardians" ~ "CLE",
+#     tm == "Chicago White Sox" ~ "CWS",
+#     tm == "Detroit Tigers" ~ "DET",
+#     tm == "Kansas City Royals" ~ "KC ",
+#     tm == "Texas Rangers" ~ "TEX",
+#     tm == "Houston Astros" ~ "HOU",
+#     tm == "Los Angeles Angels" ~ "LAA",
+#     tm == "Seattle Mariners" ~ "SEA",
+#     tm == "Oakland Athletics" ~ "OAK"
+#   )) |> 
+#   select(team_label,post,wc,div,lds,lcs,pennant,win_ws) |> 
+#   mutate(post = parse_number(post)) |> 
+#   mutate(wc = parse_number(wc)) |> 
+#   mutate(div = parse_number(div)) |> 
+#   mutate(lds = parse_number(lds)) |> 
+#   mutate(lcs= parse_number(lcs)) |> 
+#   mutate(pennant = parse_number(pennant)) |> 
+#   mutate(win_ws = parse_number(win_ws)) |> 
+#   mutate(post = if_else(is.na(post),
+#                         0,
+#                         post)) |> 
+#   mutate(wc = if_else(is.na(wc),
+#                       0,
+#                       wc)) |> 
+#   mutate(div = if_else(is.na(div),
+#                        0,
+#                        div)) |> 
+#   mutate(win_ws = if_else(is.na(win_ws),
+#                           0,
+#                           win_ws))
 
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, 2024) |> 
@@ -407,7 +454,7 @@ division_standings <- full_join(al_central_standings_magic, al_east_standings_ma
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text,
          games_remaining,
          division_games_behind, division_magic_number, 
-         division_elimination_number,division_magic_or_eliminated,div,
+         division_elimination_number,division_magic_or_eliminated,
          win_ws,
          outcomes, division, division_place, league) 
 
@@ -429,8 +476,8 @@ old_standings <- read_csv("data/standings.csv",
                             losses = col_integer(),
                             win_pct_text = col_character(),
                             games_remaining = col_number(),
-                            post = col_number(),
-                            div = col_number(),
+                            #post = col_number(),
+                            #div = col_number(),
                             win_ws = col_number()),
                           trim_ws = FALSE
 )
@@ -439,7 +486,7 @@ standings_check <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
-  select(league, team_label, wins, losses, win_pct_text, games_remaining,post,div,win_ws) |> 
+  select(league, team_label, wins, losses, win_pct_text, games_remaining,win_ws) |> 
   ungroup()
 standings_the_same <- compare(standings_check, old_standings)
 if (length(standings_the_same) > 0) { 
@@ -469,12 +516,12 @@ if (length(standings_the_same) > 0) {
       }
     ) %>%
     fmt_percent(
-      columns = c(div,win_ws),
+      columns = c(win_ws),
       decimals = 1,
       scale_values = FALSE
     ) |> 
     data_color(
-      columns = c(div,win_ws),
+      columns = c(win_ws),
       domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
@@ -485,7 +532,7 @@ if (length(standings_the_same) > 0) {
                           division_place)) %>% # hide this until new playoffs figured out
     cols_align(
       align = c("right"),
-      columns = c(win_pct_text, div,logo_url, outcomes,games_remaining,
+      columns = c(win_pct_text,logo_url, outcomes,games_remaining,
                   division_magic_or_eliminated)
     ) %>%
     cols_label(
@@ -498,7 +545,7 @@ if (length(standings_the_same) > 0) {
       net_wins = html("Games<br>Above<br>.500"),
       win_pct_text = "Pct",
       division_magic_or_eliminated = html("M#<br>/E#"),
-      div = "Win Div",
+      #div = "Win Div",
       win_ws = "Win WS",
       #division_magic_number = "M#",
       #division_elimination_number = "E#",
@@ -737,7 +784,7 @@ if (length(standings_the_same) > 0) {
   wild_card_table <- mlb_standings_magic %>%
     select(logo_url, team_label, wins, losses, 
            win_pct,win_pct_text, games_remaining, wc_games_behind,
-           division_or_elim,post,win_ws,outcomes, league) %>%
+           division_or_elim,win_ws,outcomes, league) %>%
     group_by(league) %>%
     arrange(league,desc(win_pct)) %>%
     gt() %>%
@@ -757,17 +804,17 @@ if (length(standings_the_same) > 0) {
     cols_hide(columns = c(win_pct,games_remaining)) %>% #hide until figure out new playoffs
     cols_align(
       align = c("right"),
-      columns = c(win_pct_text, logo_url,post,
+      columns = c(win_pct_text, logo_url,
                   outcomes, games_remaining, wc_games_behind, 
                   division_or_elim)
     ) %>%
     fmt_percent(
-      columns = c(post,win_ws),
+      columns = c(win_ws),
       decimals = 1,
       scale_values = FALSE
     ) |> 
     data_color(
-      columns = c(post,win_ws),
+      columns = c(win_ws),
       domain = c(0.1,100),
       na_color = "#FFFFFF",
       palette = "Reds"
@@ -777,7 +824,7 @@ if (length(standings_the_same) > 0) {
       team_label = "Team",
       wins = "W",
       losses = "L",
-      post = "Post",
+     # post = "Post",
       win_ws = "Win WS",
       win_pct_text = "Pct",
       games_remaining = "GR",
@@ -1095,7 +1142,7 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 </iframe>
 </div>
 
-<p class=\"updated_time\">Source: <a href=\"https://www.baseball-reference.com\">Baseball Reference</a>.</p> 
+<p class=\"updated_time\">Source: <a href=\"http://www.playoffstatus.com/mlb/mlbpostseasonprob.html\">PlayoffStatus</a>.</p> 
 
 ",
 sep = ""
