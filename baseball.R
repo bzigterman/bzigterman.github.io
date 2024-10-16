@@ -62,7 +62,10 @@ table <- odds |>
   mutate(lcs= parse_number(league_series)) |> 
   mutate(pennant = parse_number(world_series)) |> 
   mutate(win_ws = parse_number(world_series_winner)) |> 
-  select(team_label,wc,lds,lcs,pennant,win_ws) 
+  select(team_label,wc,lds,lcs,pennant,win_ws) |> 
+  mutate(win_ws = if_else(is.na(win_ws),
+                          0,
+                          win_ws))
 
 # odds_url <- "https://www.baseball-reference.com/leagues/majors/2024-playoff-odds.shtml"
 # odds <- read_html(odds_url) |> 
