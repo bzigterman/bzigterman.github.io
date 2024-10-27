@@ -1,5 +1,5 @@
 league,team_label,wins,losses,win_pct_text,games_remaining,win_ws
-AL,NYY,94,68,.580,0,29
+AL,NYY,94,68,.580,0,17
 AL,CLE,92,69,.571,1,0
 AL,BAL,91,71,.562,0,0
 AL,HOU,88,73,.547,1,0
@@ -14,7 +14,7 @@ AL,TOR,74,88,.457,0,0
 AL,OAK,69,93,.426,0,0
 AL,LAA,63,99,.389,0,0
 AL,CWS,41,121,.253,0,0
-NL,LAD,98,64,.605,0,71
+NL,LAD,98,64,.605,0,83
 NL,PHI,95,67,.586,0,0
 NL,MIL,93,69,.574,0,0
 NL,SD ,93,69,.574,0,0
