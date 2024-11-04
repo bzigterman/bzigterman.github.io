@@ -57,9 +57,9 @@ candidates_2024 <- read_csv(
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
 today_location_checker <- between(today(tzone = "America/Chicago"),
-                                 as_date("2024-11-05")-months(1),
-                                 as_date("2024-11-05")+months(1))
-
+                                  as_date("2024-11-05")-months(1),
+                                  as_date("2024-11-05")+months(1))
+election_over_checker <- today(tzone = "America/Chicago") > as_date("2024-11-05")
 
 ## make charts ----
 candidate_chart <- hchart(candidates_2024,
@@ -113,8 +113,11 @@ candidate_chart <- hchart(candidates_2024,
         color = "#595959",
         width = 1,
         zIndex = 2,
-        value = as.numeric( as_datetime(
-          today(tzone = "America/Chicago")))*1000
+        value = if_else(election_over_checker,
+                        as.numeric( as_datetime(
+                          today(tzone = "America/Chicago")))*1000000,
+                        as.numeric( as_datetime(
+                          today(tzone = "America/Chicago")))*1000) 
       ),
       list(
         label = list(text = "Super Tuesday"),
