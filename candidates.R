@@ -57,8 +57,8 @@ candidates_2024 <- read_csv(
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
 today_location_checker <- between(today(tzone = "America/Chicago"),
-                                 as_date("2024-03-05")-months(1),
-                                 as_date("2024-03-05")+months(1))
+                                 as_date("2024-11-05")-months(1),
+                                 as_date("2024-11-05")+months(1))
 
 
 ## make charts ----
