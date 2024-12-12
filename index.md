@@ -19,6 +19,7 @@ Hello! This is my website. Here's what I'm up to:
 - History major at the University of Chicago, Class of 2014
 - and [some other stuff]({{ site.baseurl }}/resume)
 
+<p hidden><a rel="me" href="https://mastodon.social/@bzigterman"></a><p>
+
 You can contact me by email at <a href="&#x6D;&#97;&#105;&#108;&#116;&#111;:&#x68;&#101;&#x6C;&#108;&#111;&#64;&#98;z&#105;&#x67;&#116;&#101;&#114;m&#x61;&#110;&#x2E;&#99;&#x6F;&#109;">&#x68;&#101;&#x6C;&#108;&#111;&#64;&#98;z&#105;&#x67;&#116;&#101;&#114;m&#x61;&#110;&#x2E;&#99;&#x6F;&#109;</a>.
 
-<a rel="me" href="https://mastodon.social/@bzigterman"></a>
