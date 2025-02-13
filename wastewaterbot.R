@@ -46,7 +46,13 @@ iwss_longer <- iwss |>
                               "influenza_b_avg" = "Influenza B",
                               "rsv_avg" = "RSV"))
 
-latest_data <- tail(iwss_longer, n = 1)$Date
+# variables ----
+
+latest_date <- tail(iwss_longer, n = 1)$Date
+sarscov_latest <- tail(iwss, n = 1)$sars_cov_2
+influenza_a_latest <- tail(iwss, n = 1)$influenza_a
+influenza_b_latest <- tail(iwss, n = 1)$influenza_b
+rsv_latest <- tail(iwss, n = 1)$rsv
 
 # chart ----
 
@@ -104,9 +110,11 @@ champaign_county_text
 typeof(champaign_county_text)
 
 # post ----
-if (champaign_avg_hospitalized >= 0 && 
-    champaign_month_ago_hospitalized >= 0 && 
-    latest_data >= now(tzone = "America/Chicago") - days(x = 14)
+if (sarscov_latest >= 0 && 
+    influenza_a_latest >= 0 && 
+    influenza_b_latest >= 0 && 
+    rsv_latest >= 0 && 
+    latest_date >= now(tzone = "America/Chicago") - days(x = 14)
 ) {
   post_toot(status = champaign_county_text,
             media = file,
