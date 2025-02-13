@@ -86,7 +86,7 @@ p <- ggplot() +
                      expand = expansion(mult = c(0,.05))
   ) +
   expand_limits(y = 0) +
-  guides( guide_legend(position = "inside")) +
+  guides(colour = guide_legend(position = "inside")) +
   theme(axis.text.y = element_text(size = 10),
         axis.text.x = element_text(size = 8),
         legend.title = element_blank(),
