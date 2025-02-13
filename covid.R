@@ -52,7 +52,7 @@ combined <- full_join(hospitalizations_by_date,iwss) |>
 fig <- hchart(combined,
               type = "line", 
               hcaes(x = Date,
-                    y = avg_hospitalized),
+                    y = sars_cov_2_avg),
               states = list(
                 inactive = list(
                   enabled = FALSE
@@ -60,33 +60,16 @@ fig <- hchart(combined,
               ),
               tooltip = list(valueDecimals = 0),
               connectNulls = TRUE,
-              name = "Avg. Hospitalized",
+              name = "Gene Copies Per Liter (w/ Moving Avg.)",
               label = list(
+                format = "Wastewater",
                 enabled = TRUE),
-              color = "#d90000",
+              color = "#4e79a7",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, 
-                                 heights = c(1,1),
+  hc_yAxis_multiples(create_axis(naxis = 1, 
+                                 #heights = c(1,1),
                                  endOnTick = FALSE,
                                  title = list(text = NULL))) %>%
-  hc_add_series(
-    data = combined,
-    connectNulls = TRUE,
-    hcaes(x = Date,
-          y = sars_cov_2_avg),
-    label = list(
-      format = "Wastewater",
-      enabled = TRUE),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    tooltip = list(valueDecimals = 0),
-    name = "Gene Copies Per Liter (w/ Moving Avg.)",
-    color = "#4e79a7",
-    type = "line",
-    yAxis = 1) %>%
   hc_add_series(
     data = combined,
     hcaes(x = Date,
@@ -105,7 +88,7 @@ fig <- hchart(combined,
     enableMouseTracking = FALSE,
     zIndex = -3,
     type = "column",
-    yAxis = 1)  %>%
+    yAxis = 0)  %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: CDC and IWSS",
