@@ -68,12 +68,12 @@ p <- ggplot() +
                 group = name),
             color = "lightgray",
             show.legend = FALSE,
-            size = .4, alpha = .75) +
+            linewidth = .4, alpha = .75) +
   geom_line(data = iwss_longer |> filter(contains_avg == "avg"),
             aes(x = as.Date(Date),
                 y = value,
                 color = name),
-            size = 1) +
+            linewidth = 1) +
   scale_colour_manual(#guide = "none",
     values = all_colors) +
   labs(caption = paste("Source: IWSS")) +
@@ -86,9 +86,11 @@ p <- ggplot() +
                      expand = expansion(mult = c(0,.05))
   ) +
   expand_limits(y = 0) +
+  guides( guide_legend(position = "inside")) +
   theme(axis.text.y = element_text(size = 10),
         axis.text.x = element_text(size = 8),
         legend.title = element_blank(),
+        legend.position.inside = c(0.2, 0.8),
         panel.grid.minor = element_blank(),
         panel.background = element_blank(),
         panel.grid.major.y = element_line(colour = "grey93"),
