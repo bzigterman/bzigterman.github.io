@@ -2,6 +2,175 @@ library(tidyverse)
 library(highcharter)
 library(htmlwidgets)
 
+# 2028 ----
+## get data ----
+candidates_2024 <- read_csv(
+  "data/presidential_candidates.csv",
+  col_types = "cncTT") |> 
+  filter(party == "Republican" | party == "Democrat") |> 
+  mutate(active = case_when(
+    end == as.Date("2024-11-05") ~ TRUE,
+    is.na(end) ~ TRUE,
+    .default = FALSE
+  )) |> 
+  mutate(end = if_else(is.na(end),
+                       today(tzone = "America/Chicago"),
+                       end)) |> 
+  filter(year == 2024) |>
+  mutate(party_active = case_when(
+    party == "Republican" & active == TRUE ~ "Republican_active",
+    party == "Republican" & active == FALSE ~ "Republican_inactive",
+    party == "Democrat" & active == TRUE ~ "dem_active",
+    party == "Democrat" & active == FALSE ~ "dem_inactive"#,
+    # party == "Independent" & active == TRUE ~ "independent_active",
+    # party == "Independent" & active == FALSE ~ "independent_inactive",
+    # party == "Libertarian" & active == TRUE ~ "Libertarian_active",
+    # party == "Libertarian" & active == FALSE ~ "Libertarian_inactive",
+  )) |> 
+  mutate(party_active = factor(party_active
+  )) |> 
+  mutate(party_active = fct_relevel(
+    party_active,c("dem_inactive","dem_active",
+                   #"independent_active","independent_inactive",
+                   #"Libertarian_active","Libertarian_inactive",
+                   "Republican_active","Republican_inactive")
+  )) |> 
+  arrange(if_else(party == "Democrat",
+                  desc(start),
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  start,
+                  NA)) |> 
+  arrange(if_else(party == "Democrat",
+                  end,
+                  NA)) |> 
+  arrange(if_else(party == "Republican",
+                  desc(end),
+                  NA)) |> 
+  mutate(election_over_checker = today(tzone = "America/Chicago") > as_date("2024-11-05")) |> 
+  mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
+                             year(start))) |> 
+  mutate(clean_end = if_else(election_over_checker != TRUE,
+                             "present",
+                             paste(month(end, label = TRUE, abbr = TRUE),
+                                   year(end))))
+
+candidate_2024_count <- count(candidates_2024)$n*18+20
+
+today_location_checker <- between(today(tzone = "America/Chicago"),
+                                  as_date("2024-11-05")-months(1),
+                                  as_date("2024-11-05")+months(1))
+election_over_checker <- today(tzone = "America/Chicago") > as_date("2024-11-05")
+
+## make charts ----
+candidate_chart <- hchart(candidates_2024,
+                          animation = FALSE,
+                          "columnrange",
+                          hcaes(
+                            x = candidate,
+                            low = 1000*as.numeric( start),
+                            high = 1000*as.numeric(end),
+                            group = party_active
+                          ),
+                          states = list(
+                            inactive = list(
+                              enabled = FALSE
+                            )
+                          ),
+                          grouping = FALSE,
+                          borderWidth = 0,
+                          borderRadius = "1%",
+                          #enableMouseTracking = FALSE,
+                          tooltip = list(
+                            pointFormat = "{point.clean_start} — {point.clean_end}"
+                          ),
+                          pointPadding= 0) |> 
+  hc_legend(
+    enabled = FALSE
+  ) |> 
+  hc_xAxis(
+    lineWidth = 0,
+    labels = list(
+      x = 10,
+      align = "left"
+    ),
+    tickLength = 0,
+    title = list(
+      enabled = FALSE
+    )
+  )|> 
+  hc_yAxis(
+    startOnTick = FALSE,
+    endOnTick = FALSE,
+    plotLines = list(
+      list(
+        label = list(text = "Today",
+                     y = if_else(today_location_checker,
+                                 -40,
+                                 10),
+                     verticalAlign = if_else(today_location_checker,
+                                             "bottom",
+                                             "top")),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = if_else(election_over_checker,
+                        as.numeric( as_datetime(
+                          today(tzone = "America/Chicago")))*1000000,
+                        as.numeric( as_datetime(
+                          today(tzone = "America/Chicago")))*1000) 
+      ),
+      list(
+        label = list(text = "Super Tuesday"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric( as_datetime("2024-03-05"))*1000
+      ),
+      list(
+        label = list(text = "Election Day"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = as.numeric(as_datetime("2024-11-05"))*1000
+      )
+    ),
+    plotBands = list(
+      list(
+        label = list(text = "Primaries",
+                     y = -16),
+        color = hex_to_rgba("gray", 0.2),
+        zIndex = 2,
+        from = as.numeric(as_datetime("2024-01-15"))*1000,
+        to = as.numeric(as_datetime("2024-06-08"))*1000
+      )
+    ),
+    min = 1000*as.numeric(as_datetime("2022-10-05")),
+    max = 1000*as.numeric(as_datetime("2024-12-05")),
+    type = "datetime") |> 
+  hc_chart(
+    inverted = TRUE
+  ) |> 
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_colors(
+    colors = c("#d1d9f2","#1A43C1",
+               #"#808080",#"#e5e5e5"
+               #"#F7D348",#"#fdf6da",
+               "#D53630","#f6d6d5")
+  ) |> 
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: Ballotpedia",
+    href = "https://ballotpedia.org/Presidential_candidates,_2024")
+candidate_chart
+# saveWidget(widget = candidate_chart, 
+#            file = "interactive/2024candidates.html",
+#            selfcontained = FALSE,
+#            libdir = "interactive")
+
+
 # 2024 ----
 ## get data ----
 candidates_2024 <- read_csv(
@@ -49,10 +218,8 @@ candidates_2024 <- read_csv(
                   NA)) |> 
   mutate(clean_start = paste(month(start, label = TRUE, abbr = TRUE),
                              year(start))) |> 
-  mutate(clean_end = if_else(active == TRUE,
-                             "present",
-                             paste(month(end, label = TRUE, abbr = TRUE),
-                                   year(end))))
+  mutate(clean_end = paste(month(end, label = TRUE, abbr = TRUE),
+                           year(end)))
 
 candidate_2024_count <- count(candidates_2024)$n*18+20
 
