@@ -466,7 +466,7 @@ webappicon: /covid.png
 
 ## Champaign County
 
-<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"400\"> 
+<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 Charts for Champaign County are posted weekly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignCovid\">@ChampaignCovid@mastodon.social</a>.
