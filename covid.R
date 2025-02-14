@@ -12,25 +12,6 @@ library(htmlwidgets)
 
 # interactives ----
 ## Champaign ----
-### hhs hospitalizations ----
-hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
-hospitalizations <- rio::import(hospitalizations_url,
-                                format = "json") %>% 
-  mutate(Date = ymd(ymd_hms(collection_week))) %>%
-  mutate(total_adult = as.double(total_adult_patients_hospitalized_confirmed_and_suspected_covid_7_day_sum)) %>%
-  mutate(total_pediatric = as.double(total_pediatric_patients_hospitalized_confirmed_and_suspected_covid_7_day_sum)) %>%
-  select(Date,hospital_name,total_adult,total_pediatric) %>%
-  pivot_longer(cols = c(total_adult,total_pediatric),
-               names_to = "names",
-               values_to = "values") %>%
-  filter(values >= 0) 
-
-hospitalizations_by_date <- hospitalizations %>%
-  group_by(Date,hospital_name) %>%
-  summarise(total = sum(values)) %>%
-  group_by(Date) %>%
-  summarise(sum_hospitalized = sum(total)) %>%
-  mutate(avg_hospitalized = sum_hospitalized/7) 
 
 iwss_download_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/download/159/"
 iwss_download <- content(GET(iwss_download_url))
@@ -44,9 +25,9 @@ iwss <- iwss_download %>%
                                         fill = NA,
                                         align = "right")) 
 
-combined <- full_join(hospitalizations_by_date,iwss) |> 
+combined <- iwss |> 
   arrange(Date) |> 
-  fill(avg_hospitalized,.direction = "down") |> 
+  #fill(avg_hospitalized,.direction = "down") |> 
   fill(sars_cov_2_avg,.direction = "down")
 
 fig <- hchart(combined,
@@ -116,6 +97,7 @@ saveWidget(widget = fig, file = "interactive/champaign_covid.html",
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
 champaign_month_ago_hospitalized <- 
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
+sarscov_latest <- tail(iwss, n = 1)$sars_cov_2
 
 ## usa ----
 cdc_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_USA_v2"
@@ -124,6 +106,8 @@ cdc_usa <- cdc_json$us_trend_by_Geography_v2 |>
   mutate(Date = as_date(week_ending_date)) |> 
   select(Date,
          COVID_deaths_weekly,percent_pos)
+
+cdc_latest_deaths <- tail(cdc_usa, n = 1)$COVID_deaths_weekly
 
 fig <- hchart(cdc_usa,
               type = "line", 
@@ -188,39 +172,28 @@ saveWidget(widget = fig, file = "interactive/usa_covid.html",
            libdir = "interactive")
 
 ## world ----
-#### cases ----
+#### cases & deaths ----
 owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_cases.csv"
-owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
-  select(date,World) |> 
-  mutate(new_cases = World) |> 
-  mutate(avg_new_cases = zoo::rollmean(new_cases,
-                                       k = 7,
-                                       fill = NA,
-                                       align = "right")) |> 
-  mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "World") |> 
-  select(!World)
+owid_url <- "https://catalog.ourworldindata.org/garden/covid/latest/cases_deaths/cases_deaths.csv"
 
-#### deaths ----
-owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
-owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
-  select(date,World) |> 
-  mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = zoo::rollmean(new_deaths,
-                                        k = 7,
-                                        fill = NA,
-                                        align = "right")) |> 
-  mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "World") |> 
-  select(!World)
+owid_data <- rio::import(owid_url, format = "csv")
 
-fig <- hchart(owid_new_cases_world,
+owid_new_cases_deaths_world <- owid_data |>
+  filter(country == "World") |> 
+  select(date,weekly_cases,weekly_deaths,
+         weekly_pct_growth_cases,weekly_pct_growth_deaths) |> 
+  mutate(avg_new_cases = weekly_cases) |> 
+  mutate(avg_new_deaths = weekly_deaths) |> 
+  mutate(pct_change_new_cases = weekly_pct_growth_cases) |> 
+  mutate(pct_change_new_deaths = weekly_pct_growth_deaths) |> 
+  mutate(Date = ymd(date)) |> 
+  mutate(date = as_date(Date)) |> 
+  mutate(location = "World") 
+
+owid_latest_cases <- tail(owid_new_cases_deaths_world, n = 1)$weekly_cases
+owid_latest_deaths <- tail(owid_new_cases_deaths_world, n = 1)$weekly_deaths
+
+fig <- hchart(owid_new_cases_deaths_world,
               type = "line", 
               hcaes(x = Date,
                     y = avg_new_cases),
@@ -241,7 +214,7 @@ fig <- hchart(owid_new_cases_world,
                                  endOnTick = FALSE,
                                  title = list(text = NULL))) %>%
   hc_add_series(
-    data = owid_new_deaths_world,
+    data = owid_new_cases_deaths_world,
     connectNulls = TRUE,
     hcaes(x = Date,
           y = avg_new_deaths),
@@ -281,178 +254,6 @@ saveWidget(widget = fig, file = "interactive/world_covid.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
-
-# case acceleration ----
-### get data ----
-
-#### World  ----
-owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_cases.csv"
-owid_new_cases_world <- rio::import(owid_url, format = "csv") |> 
-  select(date,World) |> 
-  mutate(new_cases = World) |> 
-  mutate(avg_new_cases = zoo::rollmean(new_cases,
-                                       k = 7,
-                                       fill = NA,
-                                       align = "right")) |> 
-  mutate(pct_change_new_cases = 
-           ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "World")
-
-### merge data ----
-combined_cases <-  owid_new_cases_world |> 
-  select(location, Date,pct_change_new_cases)
-
-fig <- hchart(combined_cases,
-              type = "line", 
-              hcaes(x = Date,
-                    y = 100*pct_change_new_cases),
-              states = list(
-                inactive = list(
-                  enabled = FALSE
-                )
-              ),
-              tooltip = list(valueDecimals = 0,
-                             valueSuffix = "{value}%"),
-              connectNulls = TRUE,
-              name = "World",
-              label = list(
-                enabled = TRUE),
-              color = "#b32704",
-              negativeColor = "#199fa8",
-              threshold = 0,
-              yAxis = 0) %>%
-  hc_yAxis(endOnTick = FALSE,
-           startOnTick = FALSE,
-           min = -100,
-           max = 200,
-           title = list(enabled = FALSE)) %>%
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: WHO",
-    href = "https://bzigterman.com/interactive/covid_case_acceleration.html") %>%
-  hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) %>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'month', count = 6, text = '6m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 2)
-
-fig
-saveWidget(widget = fig, file = "interactive/covid_case_acceleration.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-# death acceleration ----
-## usa ----
-cdc_usa_deaths <- cdc_usa |> 
-  select(Date,COVID_deaths_weekly) |> 
-  mutate(avg_new_deaths = COVID_deaths_weekly) |> 
-  mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,2))/lag(avg_new_deaths,2))) %>%
-  mutate(location = "United States") |> 
-  mutate(Date = ymd(Date)+days(1))
-
-## World ----
-owid_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/cases_deaths/new_deaths.csv"
-owid_new_deaths_world <- rio::import(owid_url, format = "csv") |> 
-  select(date,World) |> 
-  mutate(new_deaths = World) |> 
-  mutate(avg_new_deaths = zoo::rollmean(new_deaths,
-                                        k = 7,
-                                        fill = NA,
-                                        align = "right")) |> 
-  mutate(pct_change_new_deaths = 
-           ((avg_new_deaths - lag(avg_new_deaths,14))/lag(avg_new_deaths,14))) %>%
-  mutate(Date = ymd(date)) %>%
-  mutate(date = as_date(Date)) %>%
-  mutate(location = "World")
-
-new_deaths_combined <- full_join(owid_new_deaths_world,cdc_usa_deaths) |> 
-  select(Date,location,pct_change_new_deaths) |> 
-  pivot_wider(names_from = location,
-              values_from = pct_change_new_deaths) |> 
-  janitor::clean_names() |> 
-  mutate(Date = date)
-
-## merge data ----
-fig <- hchart(new_deaths_combined,
-              type = "line", 
-              hcaes(x = Date,
-                    y = 100*united_states),
-              states = list(
-                inactive = list(
-                  enabled = FALSE
-                )
-              ),
-              tooltip = list(valueDecimals = 0,
-                             valueSuffix = "{value}%"),
-              connectNulls = TRUE,
-              name = "United States",
-              label = list(
-                enabled = TRUE),
-              color = "#b32704",
-              negativeColor = "#199fa8",
-              threshold = 0,
-              yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, 
-                                 heights = c(1,1), 
-                                 startOnTick = FALSE,
-                                 endOnTick = FALSE,
-                                 min = -100,
-                                 max = 200,
-                                 title = list(enabled = FALSE))) %>%
-  hc_add_series(new_deaths_combined,
-                type = "line", 
-                hcaes(x = Date,
-                      y = 100*world),
-                states = list(
-                  inactive = list(
-                    enabled = FALSE
-                  )
-                ),
-                tooltip = list(valueDecimals = 0,
-                               valueSuffix = "{value}%"),
-                connectNulls = TRUE,
-                name = "World",
-                label = list(
-                  enabled = TRUE),
-                color = "#b32704",
-                negativeColor = "#199fa8",
-                threshold = 0,
-                yAxis = 1) |> 
-  hc_credits(
-    enabled = TRUE,
-    text = "Source: CDC and WHO",
-    href = "https://bzigterman.com/interactive/covid_death_acceleration.html") %>%
-  hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) %>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'month', count = 6, text = '6m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 2)
-
-fig
-saveWidget(widget = fig, file = "interactive/covid_death_acceleration.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
-
-
 # make web text ----
 ## covid ----
 web_text <- paste(
@@ -483,30 +284,14 @@ More information about wastewater surveillance is available from the [Illinois W
 <iframe src=\"/interactive/world_covid.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
-## Case Acceleration
-
-<iframe src=\"/interactive/covid_case_acceleration.html\" width=\"100%\" height=\"300\"> 
-</iframe>
-
-This chart measures how quickly the average number of new cases is changing, or roughly, the slope of the new-cases charts above. If the case acceleration is positive, then the average number of new cases is increasing. If it is negative, then the average number of new cases is decreasing.
-","
-## Death Acceleration
-
-<iframe src=\"/interactive/covid_death_acceleration.html\" width=\"100%\" height=\"400\"> 
-</iframe>
-
-This chart measures how quickly the average number of new deaths is changing, or roughly, the slope of the new-deaths charts above. If the death acceleration is positive, then the average number of new deaths is increasing. If it is negative, then the average number of new deaths is decreasing.
-
-### Sources
-
-[Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), [University of Illinois](https://go.illinois.edu/COVIDTestingData), [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/), [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [The New York Times](https://github.com/nytimes/covid-19-data), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
-
 ",
 sep = ""
 )
 
-if (champaign_avg_hospitalized >= 0 && 
-    champaign_month_ago_hospitalized >= 0 
+if (sarscov_latest >= 0 && 
+    cdc_latest_deaths >= 0 && 
+    owid_latest_cases >= 0 && 
+    owid_latest_deaths >= 0 
 ) {
   write_lines(web_text,"projects/covid.md")
 }
