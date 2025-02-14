@@ -8,8 +8,6 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Candidates]({{ site.baseurl }}/projects/candidates)
 
-## [COVID-19]({{ site.baseurl }}/projects/covid)
-
 ## [Economic Indicators]({{ site.baseurl }}/projects/economy)
 
 ## [Baseball Standings]({{ site.baseurl }}/projects/baseball)
