@@ -94,9 +94,6 @@ saveWidget(widget = fig, file = "interactive/champaign_covid.html",
            libdir = "interactive")
 
 ## set variables ----
-champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
-champaign_month_ago_hospitalized <- 
-  format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 sarscov_latest <- tail(iwss, n = 1)$sars_cov_2
 
 ## usa ----
