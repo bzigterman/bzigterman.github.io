@@ -49,6 +49,7 @@ iwss_longer <- iwss |>
 # variables ----
 
 latest_date <- tail(iwss_longer, n = 1)$Date
+latest_date_clean <- format(latest_date, "%b. %d")
 sarscov_latest <- tail(iwss, n = 1)$sars_cov_2
 influenza_a_latest <- tail(iwss, n = 1)$influenza_a
 influenza_b_latest <- tail(iwss, n = 1)$influenza_b
@@ -74,29 +75,27 @@ p <- ggplot() +
                 y = value,
                 color = name),
             linewidth = 1) +
-  scale_colour_manual(#guide = "none",
-    values = all_colors) +
-  labs(caption = paste("Source: IWSS")) +
+  scale_colour_manual(values = all_colors) +
+  labs(caption = paste0("Latest data: ",latest_date_clean,". Source: IWSS")) +
   xlab(NULL) +
-  ylab("Gene Copies Per Liter (w/ Moving Avg.)") +
-  scale_x_date(expand = c(0,0)) +
-  scale_y_continuous(#labels = label_comma(accuracy = 1),
-                     labels = label_number(scale_cut = cut_short_scale()),
-                     #position = "right",
+  ylab("Gene copies per liter (moving avg.)") +
+  scale_x_date(expand = expansion(mult = c(.01,.05))) +
+  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()),
                      expand = expansion(mult = c(0,.05))
   ) +
-  expand_limits(y = 0) +
   guides(colour = guide_legend(position = "inside")) +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        legend.title = element_blank(),
-        legend.position.inside = c(0.2, 0.8),
+  theme(legend.title = element_blank(),
+        axis.text.y = element_text(size = 7),
+        axis.title.y = element_text(size = 10,
+                                    color = "grey40"),
+        legend.position.inside = c(0.25, 0.75),
+        legend.background = element_rect(fill = scales::alpha("white", 0.5), color = NA),
         panel.grid.minor = element_blank(),
         panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
+        panel.grid.major.y = element_blank(),
         strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+        plot.caption = element_text(size = 7,
+                                    colour = "grey40"))
 p
 # save to a temp file
 file <- tempfile( fileext = ".png")
