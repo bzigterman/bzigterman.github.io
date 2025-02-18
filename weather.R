@@ -876,6 +876,15 @@ champaign_precip_forecast <- case_when(
   snowfall_forecast > 0 && rainfall_forecast == 0  ~ paste("-",snowfall_forecast,"inches of snow expected in the next 48 hours\n"),
   rainfall_forecast == 0 && snowfall_forecast == 0 ~ paste(""))
 champaign_clouds <- paste0(round(100*pirate_currently$cloudCover),"%")
+champaign_snow_depth_helper <-  om_hourly |> 
+  filter(time > now(tzone = "America/Chicago")) |> 
+  head(1) 
+champaign_snow_depth <- round(champaign_snow_depth_helper$snow_depth,1)
+champaign_snow_depth_text <- if_else(
+  is.na(champaign_snow_depth),
+  "",
+  paste0("About ",champaign_snow_depth," inches of snow on the ground\n")
+)
 
 # save temp data ----
 
@@ -1889,7 +1898,8 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 - ",champaign_clouds," cloud cover
-",champaign_aqi,"",champaign_precip,"",champaign_precip_forecast,"
+",champaign_aqi,"",champaign_snow_depth_text,
+champaign_precip,"",champaign_precip_forecast,"
 
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
