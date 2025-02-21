@@ -8,42 +8,55 @@ iwss_download <- content(GET(iwss_download_url))
 
 iwss <- iwss_download %>%
   mutate(Date = ymd(sample_collect_date)) %>%
-  filter(method == 1) |> 
-  mutate(sars_cov_2_avg = zoo::rollmean(sars_cov_2,
-                                        k = 4,
-                                        fill = NA,
-                                        align = "right")) |> 
-  mutate(influenza_a_avg = zoo::rollmean(influenza_a,
-                                         k = 4,
-                                         fill = NA,
-                                         align = "right")) |> 
-  mutate(influenza_b_avg = zoo::rollmean(influenza_b,
-                                         k = 4,
-                                         fill = NA,
-                                         align = "right")) |> 
-  mutate(rsv_avg = zoo::rollmean(rsv,
-                                 k = 4,
-                                 fill = NA,
-                                 align = "right"))
+  filter(method == 1) |>
+  mutate(
+    sars_cov_2_avg = zoo::rollmean(
+      sars_cov_2,
+      k = 4,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(
+    influenza_a_avg = zoo::rollmean(
+      influenza_a,
+      k = 4,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(
+    influenza_b_avg = zoo::rollmean(
+      influenza_b,
+      k = 4,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(rsv_avg = zoo::rollmean(rsv, k = 4, fill = NA, align = "right"))
 
 
-fig <- hchart(iwss,
-              type = "line", 
-              hcaes(x = Date,
-                    y = sars_cov_2_avg),
-              label = list(
-                enabled = TRUE),
-              name = "SARS-CoV-2",
-              states = list(
-                inactive = list(
-                  enabled = FALSE
-                )
-              ),
-              color = "#B45F06",
-              yAxis = 0) %>%
-  hc_yAxis(title = list(text = "Gene Copies Per Liter (w/ Moving Avg.)"),
-           endOnTick = FALSE,
-           startOnTick = FALSE) |> 
+fig <- hchart(
+  iwss,
+  type = "line",
+  hcaes(x = Date, y = sars_cov_2_avg),
+  label = list(
+    enabled = TRUE
+  ),
+  name = "SARS-CoV-2",
+  states = list(
+    inactive = list(
+      enabled = FALSE
+    )
+  ),
+  color = "#B45F06",
+  yAxis = 0
+) %>%
+  hc_yAxis(
+    title = list(text = "Gene Copies Per Liter (w/ Moving Avg.)"),
+    endOnTick = FALSE,
+    startOnTick = FALSE
+  ) |>
   # hc_yAxis_multiples(create_axis(naxis = 2,
   #                                heights = c(1,1),
   #                                title = list(text = NULL),
@@ -55,27 +68,28 @@ fig <- hchart(iwss,
   #                                min = c(0,
   #                                        0
   #                                ))) %>%
-hc_add_series(
-  data = iwss,
-  label = list(
-    enabled = TRUE),
-  hcaes(x = Date,
-        y = influenza_a_avg),
-  states = list(
-    inactive = list(
-      enabled = FALSE
-    )
-  ),
-  name = "Influenza A",
-  color = "blue",
-  type = "line",
-  yAxis = 0) %>%
   hc_add_series(
     data = iwss,
     label = list(
-      enabled = TRUE),
-    hcaes(x = Date,
-          y = influenza_b_avg),
+      enabled = TRUE
+    ),
+    hcaes(x = Date, y = influenza_a_avg),
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    name = "Influenza A",
+    color = "blue",
+    type = "line",
+    yAxis = 0
+  ) %>%
+  hc_add_series(
+    data = iwss,
+    label = list(
+      enabled = TRUE
+    ),
+    hcaes(x = Date, y = influenza_b_avg),
     name = "Influenza B",
     color = "purple",
     states = list(
@@ -84,12 +98,12 @@ hc_add_series(
       )
     ),
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_add_series(
     data = iwss,
     zIndex = -1,
-    hcaes(x = Date,
-          y = sars_cov_2),
+    hcaes(x = Date, y = sars_cov_2),
     states = list(
       inactive = list(
         enabled = FALSE
@@ -99,11 +113,11 @@ hc_add_series(
     color = "#f0dfcd",
     enableMouseTracking = FALSE,
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_add_series(
     data = iwss,
-    hcaes(x = Date,
-          y = influenza_a),
+    hcaes(x = Date, y = influenza_a),
     zIndex = -1,
     name = "Influenza A",
     enableMouseTracking = FALSE,
@@ -114,12 +128,12 @@ hc_add_series(
       )
     ),
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_add_series(
     data = iwss,
     zIndex = -1,
-    hcaes(x = Date,
-          y = influenza_b),
+    hcaes(x = Date, y = influenza_b),
     enableMouseTracking = FALSE,
     name = "Influenza B",
     color = "#f2e5f2",
@@ -129,13 +143,14 @@ hc_add_series(
       )
     ),
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_add_series(
     data = iwss,
     label = list(
-      enabled = TRUE),
-    hcaes(x = Date,
-          y = rsv_avg),
+      enabled = TRUE
+    ),
+    hcaes(x = Date, y = rsv_avg),
     name = "RSV",
     color = "black",
     states = list(
@@ -144,12 +159,12 @@ hc_add_series(
       )
     ),
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_add_series(
     data = iwss,
     zIndex = -1,
-    hcaes(x = Date,
-          y = rsv),
+    hcaes(x = Date, y = rsv),
     enableMouseTracking = FALSE,
     name = "RSV",
     color = "lightgray",
@@ -159,32 +174,37 @@ hc_add_series(
       )
     ),
     type = "line",
-    yAxis = 0) %>%
+    yAxis = 0
+  ) %>%
   hc_credits(
     enabled = TRUE,
     text = "Source: IWSS",
-    href = "http://www.dph.illinois.gov/covid19") %>%
+    href = "http://www.dph.illinois.gov/covid19"
+  ) %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(shared = TRUE,
-             valueDecimals = 0,
-             table = TRUE,
-             sort = TRUE) %>%
+  hc_tooltip(shared = TRUE, valueDecimals = 0, table = TRUE, sort = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
-  hc_rangeSelector(enabled = TRUE,
-                   buttons = list(
-                     list(type = 'month', count = 3, text = '3m'),
-                     list(type = 'month', count = 6, text = '6m'),
-                     list(type = 'year', count = 1, text = '1y'),
-                     #list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'all', text = 'All')),
-                   selected = 2) 
+  hc_rangeSelector(
+    enabled = TRUE,
+    buttons = list(
+      list(type = 'month', count = 3, text = '3m'),
+      list(type = 'month', count = 6, text = '6m'),
+      list(type = 'year', count = 1, text = '1y'),
+      #list(type = 'year', count = 2, text = '2y'),
+      list(type = 'all', text = 'All')
+    ),
+    selected = 2
+  )
 
 fig
-saveWidget(widget = fig, file = "interactive/wastewater.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
+saveWidget(
+  widget = fig,
+  file = "interactive/wastewater.html",
+  selfcontained = FALSE,
+  libdir = "interactive"
+)
 
 
 # make web text ----
@@ -207,10 +227,7 @@ More information available from the [CDC](https://covid.cdc.gov/covid-data-track
 Charts for Champaign County are posted weekly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignCovid\">@ChampaignCovid@mastodon.social</a>.
 
 ",
-sep = ""
+  sep = ""
 )
 
-write_lines(web_text,"projects/wastewater.md")
-
-
-
+write_lines(web_text, "projects/wastewater.md")
