@@ -17,71 +17,72 @@ library(janitor)
 library(hoopR)
 
 # ployoff odds ----
-odds_url <- "https://www.basketball-reference.com/friv/playoff_prob.html"
-eastern_odds <- read_html(odds_url) |>
-  html_element("#all_projected_standings_e") |>
-  html_table(header = FALSE, convert = FALSE) |>
-  janitor::row_to_names(row_number = 2) |>
-  janitor::clean_names() |>
-  select(eastern_conference, playoffs, win_finals) |>
-  arrange(desc(playoffs)) |>
-  mutate(post = parse_number(playoffs)) |>
-  mutate(finals = parse_number(win_finals)) |>
-  mutate(lg = "Eastern") |>
-  mutate(tm = eastern_conference)
-
-western_odds <- read_html(odds_url) |>
-  html_element("#all_projected_standings_w") |>
-  html_table(header = FALSE, convert = FALSE) |>
-  janitor::row_to_names(row_number = 2) |>
-  janitor::clean_names() |>
-  select(western_conference, playoffs, win_finals) |>
-  arrange(desc(playoffs)) |>
-  mutate(post = parse_number(playoffs)) |>
-  mutate(finals = parse_number(win_finals)) |>
-  mutate(lg = "Western") |>
-  mutate(tm = western_conference)
-
-table <- full_join(eastern_odds, western_odds) |>
-  select(tm, post, finals, lg) |>
-  mutate(post = if_else(is.na(post), 0, post)) |>
-  mutate(finals = if_else(is.na(finals), 0, finals)) |>
-  mutate(tm = na_if(tm, "")) |>
-  drop_na() |>
-  mutate(
-    team_label = case_when(
-      tm == "Atlanta Hawks" ~ "ATL",
-      tm == "Boston Celtics" ~ "BOS",
-      tm == "Brooklyn Nets" ~ "BKN",
-      tm == "Charlotte Hornets" ~ "CHA",
-      tm == "Chicago Bulls" ~ "CHI",
-      tm == "Cleveland Cavaliers" ~ "CLE",
-      tm == "Dallas Mavericks" ~ "DAL",
-      tm == "Denver Nuggets" ~ "DEN",
-      tm == "Detroit Pistons" ~ "DET",
-      tm == "Golden State Warriors" ~ "GSW",
-      tm == "Houston Rockets" ~ "HOU",
-      tm == "Indiana Pacers" ~ "IND",
-      tm == "Los Angeles Clippers" ~ "LAC",
-      tm == "Los Angeles Lakers" ~ "LAL",
-      tm == "Memphis Grizzlies" ~ "MEM",
-      tm == "Miami Heat" ~ "MIA",
-      tm == "Milwaukee Bucks" ~ "MIL",
-      tm == "Minnesota Timberwolves" ~ "MIN",
-      tm == "New Orleans Pelicans" ~ "NOP",
-      tm == "New York Knicks" ~ "NYK",
-      tm == "Oklahoma City Thunder" ~ "OKC",
-      tm == "Orlando Magic" ~ "ORL",
-      tm == "Philadelphia 76ers" ~ "PHI",
-      tm == "Phoenix Suns" ~ "PHX",
-      tm == "Portland Trail Blazers" ~ "POR",
-      tm == "Sacramento Kings" ~ "SAC",
-      tm == "San Antonio Spurs" ~ "SAS",
-      tm == "Toronto Raptors" ~ "TOR",
-      tm == "Utah Jazz" ~ "UTA",
-      tm == "Washington Wizards" ~ "WSH"
-    )
+get_market_prices <- function(ticker) {
+  ticker <- ticker
+  url <- paste0("https://api.elections.kalshi.com/trade-api/v2/events/", ticker)
+  response <- VERB(
+    "GET",
+    url,
+    content_type("application/octet-stream"),
+    accept("application/json")
   )
+  content <- content(response, "text")
+  json <- fromJSON(content)
+  markets <- json$markets
+  prices <- markets |>
+    select(ticker, yes_sub_title, last_price) |>
+    mutate(team_label = substr(ticker, nchar(ticker) - 2, nchar(ticker)))
+}
+
+west <- get_market_prices("KXNBAWEST-25") |>
+  mutate(post = last_price) |>
+  select(team_label, post) |>
+  mutate(lg = "Western")
+east <- get_market_prices("KXNBAEAST-25") |>
+  mutate(post = last_price) |>
+  select(team_label, post) |>
+  mutate(lg = "Eastern")
+finals <- get_market_prices("KXNBA-25") |>
+  mutate(finals = last_price) |>
+  select(team_label, finals)
+
+table <- full_join(west, east) |>
+  left_join(finals) |>
+  mutate(team_label = ifelse(team_label == "WAS", "WSH", team_label))
+
+# mutate(
+#   team_label = case_when(
+#     tm == "Atlanta Hawks" ~ "ATL",
+#     tm == "Boston Celtics" ~ "BOS",
+#     tm == "Brooklyn Nets" ~ "BKN",
+#     tm == "Charlotte Hornets" ~ "CHA",
+#     tm == "Chicago Bulls" ~ "CHI",
+#     tm == "Cleveland Cavaliers" ~ "CLE",
+#     tm == "Dallas Mavericks" ~ "DAL",
+#     tm == "Denver Nuggets" ~ "DEN",
+#     tm == "Detroit Pistons" ~ "DET",
+#     tm == "Golden State Warriors" ~ "GSW",
+#     tm == "Houston Rockets" ~ "HOU",
+#     tm == "Indiana Pacers" ~ "IND",
+#     tm == "Los Angeles Clippers" ~ "LAC",
+#     tm == "Los Angeles Lakers" ~ "LAL",
+#     tm == "Memphis Grizzlies" ~ "MEM",
+#     tm == "Miami Heat" ~ "MIA",
+#     tm == "Milwaukee Bucks" ~ "MIL",
+#     tm == "Minnesota Timberwolves" ~ "MIN",
+#     tm == "New Orleans Pelicans" ~ "NOP",
+#     tm == "New York Knicks" ~ "NYK",
+#     tm == "Oklahoma City Thunder" ~ "OKC",
+#     tm == "Orlando Magic" ~ "ORL",
+#     tm == "Philadelphia 76ers" ~ "PHI",
+#     tm == "Phoenix Suns" ~ "PHX",
+#     tm == "Portland Trail Blazers" ~ "POR",
+#     tm == "Sacramento Kings" ~ "SAC",
+#     tm == "San Antonio Spurs" ~ "SAS",
+#     tm == "Toronto Raptors" ~ "TOR",
+#     tm == "Utah Jazz" ~ "UTA",
+#     tm == "Washington Wizards" ~ "WSH"
+#   )
 
 # get data ----
 teams <- load_nba_team_box(seasons = most_recent_nba_season()) |>
@@ -682,7 +683,7 @@ if (length(standings_the_same) > 0) {
       losses = "L",
       win_pct_text = "Pct",
       conference_games_behind = "GB",
-      post = "Playoffs",
+      post = "Win Conf",
       finals = "Win Finals",
       outcomes = html("Last 10 Games")
     ) %>%
@@ -751,7 +752,7 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 Updated standings are posted daily on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@basketballstandings\">@basketballstandings</a>
 
-<p class=\"updated_time\">Source: <a href=\"https://www.basketball-reference.com\">Basketball Reference</a>.</p> 
+<p class=\"updated_time\">Source: <a href=\"https://www.basketball-reference.com\">Basketball Reference</a> and <a href=\"https://kalshi.com\">Kalshi</a>.</p> 
 
 ",
     sep = ""
