@@ -664,7 +664,7 @@ if (length(standings_the_same) > 0) {
     cols_hide(columns = c(win_pct)) %>%
     fmt_percent(
       columns = c(post, finals),
-      decimals = 1,
+      decimals = 0,
       scale_values = FALSE
     ) |>
     data_color(
