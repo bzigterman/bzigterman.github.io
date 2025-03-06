@@ -15,6 +15,7 @@ library(waldo)
 library(rvest)
 library(janitor)
 library(hoopR)
+library(jsonlite)
 
 # ployoff odds ----
 get_market_prices <- function(ticker) {
