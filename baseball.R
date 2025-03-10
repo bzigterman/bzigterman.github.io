@@ -15,124 +15,48 @@ library(waldo)
 library(baseballr)
 library(rvest)
 library(janitor)
+library(jsonlite)
 
 # get data ----
-odds_url <- "http://www.playoffstatus.com/mlb/mlbpostseasonprob.html"
-odds <- read_html(odds_url) |>
-  html_element("table") |>
-  html_table()
 
-table <- odds |>
-  clean_names() |>
-  filter(x_2 == "AmericanAmer" | x_2 == "NationalNat") |>
+# ployoff odds ----
+get_market_prices <- function(ticker) {
+  ticker <- ticker
+  url <- paste0("https://api.elections.kalshi.com/trade-api/v2/events/", ticker)
+  response <- VERB(
+    "GET",
+    url,
+    content_type("application/octet-stream"),
+    accept("application/json")
+  )
+  content <- content(response, "text")
+  json <- fromJSON(content)
+  markets <- json$markets
+  prices <- markets |>
+    select(ticker, yes_sub_title, last_price) |>
+    mutate(team_label = substr(ticker, 10, nchar(ticker)))
+}
+
+finals <- get_market_prices("KXMLB-25") |>
+  mutate(win_ws = last_price) |>
+  select(team_label, win_ws)
+
+table <- finals |>
   mutate(
     team_label = case_when(
-      x == "Braves" ~ "ATL",
-      x == "Marlins" ~ "MIA",
-      x == "Phillies" ~ "PHI",
-      x == "Mets" ~ "NYM",
-      x == "Nationals" ~ "WSH",
-      x == "Cubs" ~ "CHC",
-      x == "Brewers" ~ "MIL",
-      x == "Reds" ~ "CIN",
-      x == "Pirates" ~ "PIT",
-      x == "Cardinals" ~ "STL",
-      x == "Dodgers" ~ "LAD",
-      x == "Giants" ~ "SF ",
-      x == "DiamondbacksD. Backs" ~ "ARI",
-      x == "Padres" ~ "SD ",
-      x == "Rockies" ~ "COL",
-      x == "Rays" ~ "TB ",
-      x == "Yankees" ~ "NYY",
-      x == "Orioles" ~ "BAL",
-      x == "Blue Jays" ~ "TOR",
-      x == "Red Sox" ~ "BOS",
-      x == "Twins" ~ "MIN",
-      x == "Guardians" ~ "CLE",
-      x == "White Sox" ~ "CWS",
-      x == "Tigers" ~ "DET",
-      x == "Royals" ~ "KC ",
-      x == "Rangers" ~ "TEX",
-      x == "Astros" ~ "HOU",
-      x == "Angels" ~ "LAA",
-      x == "Mariners" ~ "SEA",
-      x == "Athletics" ~ "OAK"
+      team_label == "A" ~ "OAK",
+      team_label == "WAS" ~ "WSH",
+      team_label == "TB" ~ "TB ",
+      team_label == "SF" ~ "SF ",
+      team_label == "SD" ~ "SD ",
+      team_label == "KAN" ~ "KC ",
+      team_label == "FLA" ~ "MIA",
+      .default = team_label
     )
-  ) |>
-  mutate(wc = parse_number(wildcard_series_wc_series)) |>
-  mutate(lds = parse_number(division_series_div_series)) |>
-  mutate(lcs = parse_number(league_series)) |>
-  mutate(pennant = parse_number(world_series)) |>
-  mutate(win_ws = parse_number(world_series_winner)) |>
-  select(team_label, wc, lds, lcs, pennant, win_ws) |>
-  mutate(win_ws = if_else(is.na(win_ws), 0, win_ws))
-
-# odds_url <- "https://www.baseball-reference.com/leagues/majors/2024-playoff-odds.shtml"
-# odds <- read_html(odds_url) |>
-#   html_element("#playoff_prob_mlb") |>
-#   html_table(header = FALSE,
-#              convert = FALSE)
-#
-# table <- odds |>
-#   row_to_names(row_number = 2) |>
-#   clean_names() |>
-#   select(tm,lg,d,post,wc,div,lds,lcs,pennant,win_ws) |>
-#   filter(lg == "AL" | lg == "NL") |>
-#   mutate(team_label = case_when(
-#     tm == "Atlanta Braves" ~ "ATL",
-#     tm == "Miami Marlins"  ~ "MIA",
-#     tm == "Philadelphia Phillies" ~ "PHI",
-#     tm == "New York Mets" ~ "NYM",
-#     tm == "Washington Nationals" ~ "WSH",
-#     tm == "Chicago Cubs" ~ "CHC",
-#     tm == "Milwaukee Brewers" ~ "MIL",
-#     tm == "Cincinnati Reds" ~ "CIN",
-#     tm == "Pittsburgh Pirates" ~ "PIT",
-#     tm == "St. Louis Cardinals" ~ "STL",
-#     tm == "Los Angeles Dodgers" ~ "LAD",
-#     tm == "San Francisco Giants" ~ "SF ",
-#     tm == "Arizona Diamondbacks" ~ "ARI",
-#     tm == "San Diego Padres" ~ "SD ",
-#     tm == "Colorado Rockies" ~ "COL",
-#     tm == "Tampa Bay Rays" ~ "TB ",
-#     tm == "New York Yankees" ~ "NYY",
-#     tm == "Baltimore Orioles" ~ "BAL",
-#     tm == "Toronto Blue Jays" ~ "TOR",
-#     tm == "Boston Red Sox" ~ "BOS",
-#     tm == "Minnesota Twins" ~ "MIN",
-#     tm == "Cleveland Guardians" ~ "CLE",
-#     tm == "Chicago White Sox" ~ "CWS",
-#     tm == "Detroit Tigers" ~ "DET",
-#     tm == "Kansas City Royals" ~ "KC ",
-#     tm == "Texas Rangers" ~ "TEX",
-#     tm == "Houston Astros" ~ "HOU",
-#     tm == "Los Angeles Angels" ~ "LAA",
-#     tm == "Seattle Mariners" ~ "SEA",
-#     tm == "Oakland Athletics" ~ "OAK"
-#   )) |>
-#   select(team_label,post,wc,div,lds,lcs,pennant,win_ws) |>
-#   mutate(post = parse_number(post)) |>
-#   mutate(wc = parse_number(wc)) |>
-#   mutate(div = parse_number(div)) |>
-#   mutate(lds = parse_number(lds)) |>
-#   mutate(lcs= parse_number(lcs)) |>
-#   mutate(pennant = parse_number(pennant)) |>
-#   mutate(win_ws = parse_number(win_ws)) |>
-#   mutate(post = if_else(is.na(post),
-#                         0,
-#                         post)) |>
-#   mutate(wc = if_else(is.na(wc),
-#                       0,
-#                       wc)) |>
-#   mutate(div = if_else(is.na(div),
-#                        0,
-#                        div)) |>
-#   mutate(win_ws = if_else(is.na(win_ws),
-#                           0,
-#                           win_ws))
+  )
 
 get_team_records <- function(abbreviation) {
-  records <- bref_team_results(abbreviation, 2024) |>
+  records <- bref_team_results(abbreviation, 2025) |>
     mutate(game_n = as.numeric(Gm)) |>
     mutate(
       result = case_when(
@@ -641,7 +565,7 @@ if (length(standings_the_same) > 0) {
     ) %>%
     fmt_percent(
       columns = c(win_ws),
-      decimals = 1,
+      decimals = 0,
       scale_values = FALSE
     ) |>
     data_color(
@@ -1016,7 +940,7 @@ if (length(standings_the_same) > 0) {
     ) %>%
     fmt_percent(
       columns = c(win_ws),
-      decimals = 1,
+      decimals = 0,
       scale_values = FALSE
     ) |>
     data_color(
