@@ -19,6 +19,9 @@ library(jsonlite)
 
 # get data ----
 
+year_long <- year(today(tzone = "America/Chicago"))
+year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
+
 # ployoff odds ----
 get_market_prices <- function(ticker) {
   ticker <- ticker
@@ -37,7 +40,7 @@ get_market_prices <- function(ticker) {
     mutate(team_label = substr(ticker, 10, nchar(ticker)))
 }
 
-finals <- get_market_prices("KXMLB-25") |>
+finals <- get_market_prices(paste0("KXMLB-", year_short)) |>
   mutate(win_ws = last_price) |>
   select(team_label, win_ws)
 
@@ -56,7 +59,7 @@ table <- finals |>
   )
 
 get_team_records <- function(abbreviation) {
-  records <- bref_team_results(abbreviation, 2025) |>
+  records <- bref_team_results(abbreviation, year_long) |>
     mutate(game_n = as.numeric(Gm)) |>
     mutate(
       result = case_when(
