@@ -1,5 +1,5 @@
 conference,team_label,wins,losses,win_pct_text,post,finals
-Eastern,CLE,56,10,.848,34,15
+Eastern,CLE,56,10,.848,33,15
 Eastern,BOS,49,19,.721,53,30
 Eastern,NYK,42,24,.636,9,2
 Eastern,MIL,39,28,.582,4,2
@@ -18,9 +18,9 @@ Western,OKC,55,13,.809,56,31
 Western,MEM,43,25,.632,3,1
 Western,DEN,43,25,.632,13,6
 Western,HOU,43,25,.632,3,1
-Western,LAL,40,25,.615,14,9
+Western,LAL,40,25,.615,13,9
 Western,GSW,39,28,.582,11,7
-Western,MIN,39,29,.574,3,1
+Western,MIN,39,29,.574,3,2
 Western,LAC,37,30,.552,1,1
 Western,SAC,33,33,.500,1,1
 Western,DAL,33,35,.485,1,1
