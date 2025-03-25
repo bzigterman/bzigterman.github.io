@@ -4,7 +4,7 @@ Eastern,BOS,53,19,.736,54,29
 Eastern,NYK,44,26,.629,6,3
 Eastern,IND,42,29,.592,2,1
 Eastern,MIL,41,31,.569,3,2
-Eastern,DET,40,32,.556,1,1
+Eastern,DET,40,32,.556,2,1
 Eastern,ATL,35,36,.493,1,1
 Eastern,ORL,34,38,.472,1,1
 Eastern,CHI,32,40,.444,1,1
@@ -19,7 +19,7 @@ Western,HOU,46,26,.639,3,1
 Western,DEN,45,28,.616,10,7
 Western,MEM,43,28,.606,3,1
 Western,LAL,43,28,.606,12,9
-Western,GSW,41,30,.577,9,7
+Western,GSW,41,30,.577,9,6
 Western,LAC,40,31,.563,2,1
 Western,MIN,41,32,.562,5,2
 Western,SAC,35,36,.493,1,1
