@@ -34,6 +34,7 @@ jobs:
         run: |-
           Rscript economy.R
           Rscript covid.R
+          Rscript baseball.R
           Rscript basketball.R
           Rscript weather.R
           Rscript forecasts.R
