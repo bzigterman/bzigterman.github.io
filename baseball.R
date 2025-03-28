@@ -47,7 +47,7 @@ finals <- get_market_prices(paste0("KXMLB-", year_short)) |>
 table <- finals |>
   mutate(
     team_label = case_when(
-      team_label == "A" ~ "OAK",
+      team_label == "A" ~ "ATH",
       team_label == "WAS" ~ "WSH",
       team_label == "TB" ~ "TB ",
       team_label == "SF" ~ "SF ",
@@ -225,7 +225,7 @@ al_east_standings_magic <- al_east_standings %>%
 
 team1 <- get_team_records("HOU") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/117.svg")
-team2 <- get_team_records("OAK") %>%
+team2 <- get_team_records("ATH") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/133.svg")
 team3 <- get_team_records("SEA") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/136.svg")
