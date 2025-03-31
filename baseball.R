@@ -1250,6 +1250,32 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ### Games Above .500
 
 <div class = \"standings\">
+<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+
+<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+</div>
+
+
+",
+    better_wild_card_standings_table_html,
+    "
+
+## Wild Card
+
+<iframe src=\"/interactive/mlb_team_rank.html\" width=\"100%\" height=\"400\"> 
+</iframe>
+
+Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
+
+",
+    better_division_standings_table_html,
+    "
+
+
+
+<div class = \"standings\">
 <iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
@@ -1269,30 +1295,7 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 </iframe>
 </div>
 
-",
-    better_division_standings_table_html,
-    "
-
-## Wild Card
-
-<iframe src=\"/interactive/mlb_team_rank.html\" width=\"100%\" height=\"400\"> 
-</iframe>
-
-Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
-
-",
-    better_wild_card_standings_table_html,
-    "
-
-<div class = \"standings\">
-<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"400\"> 
-</iframe>
-
-<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"400\"> 
-</iframe>
-</div>
-
-<p class=\"updated_time\">Source: <a href=\"http://www.playoffstatus.com/mlb/mlbpostseasonprob.html\">PlayoffStatus</a>.</p> 
+<p class=\"updated_time\">Source: <a href=\"https://www.baseball-reference.com\">Baseball Reference</a> and <a href=\"https://kalshi.com\">Kalshi</a>.</p> 
 
 ",
     sep = ""
