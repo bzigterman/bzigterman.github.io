@@ -8,19 +8,19 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:54 AM CT, April 02</p>
+<p class="updated_time"> Latest data: 02:05 AM CT, April 02</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 45°
+- 46°
 - Breezy and Mostly Cloudy
 - 70% humidity
 - 16 mph wind
-- 86% cloud cover
-- 39 AQI 🟩
+- 87% cloud cover
+- 38 AQI 🟩
 - 0.01 inches of rain in the past 24 hours
 - 0.28 inches of rain expected in the next 48 hours
 
