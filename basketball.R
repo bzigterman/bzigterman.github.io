@@ -67,7 +67,7 @@ bracket_table <- tables[[6]] %>%
 bracket_gt_table <- bracket_table %>%
   gt() %>%
   cols_label(
-    conference_quarterfinals = "Conf. Quarterfinals",
+    conference_quarterfinals = "First Round",
     conference_quarterfinals_wins = "",
     conference_semifinals = "Conf. Semifinals",
     conference_semifinals_wins = "",
