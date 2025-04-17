@@ -17,6 +17,73 @@ library(janitor)
 library(hoopR)
 library(jsonlite)
 
+# playoffs bracket ----
+
+# Define the URL
+url <- "https://en.wikipedia.org/wiki/2025_NBA_playoffs"
+
+# Read the HTML content
+page <- read_html(url)
+
+# Extract all tables from the page
+tables <- page %>% html_elements("table")
+
+# Identify the bracket table
+# Assuming the bracket is the first table; adjust the index if necessary
+bracket_table <- tables[[6]] %>%
+  html_table(fill = TRUE, header = TRUE, na.strings = "") |>
+  janitor::clean_names() |>
+  select(
+    !c(
+      x,
+      x_2,
+      x_3,
+      x_4,
+      x_5,
+      x_6,
+      x_7,
+      x_8,
+      first_round,
+      conference_semifinals,
+      conference_finals,
+      nba_finals
+    )
+  ) |>
+  distinct() |>
+  filter(first_round_2 != "Eastern Conference") |>
+  filter(first_round_2 != "Western Conference") |>
+  mutate(first_round_2 = str_replace(first_round_2, "\\*$", "")) |>
+  rename(conference_quarterfinals = first_round_2) |>
+  rename(conference_quarterfinals_wins = first_round_3) |>
+  rename(conference_semifinals = conference_semifinals_2) |>
+  rename(conference_semifinals_wins = conference_semifinals_3) |>
+  rename(conference_finals = conference_finals_2) |>
+  rename(conference_finals_wins = conference_finals_3) |>
+  rename(nba_finals = nba_finals_2) |>
+  rename(nba_finals_wins = nba_finals_3) |>
+  mutate(across(everything(), ~ if_else(is.na(.), "", .)))
+
+# View the bracket table
+bracket_gt_table <- bracket_table %>%
+  gt() %>%
+  cols_label(
+    conference_quarterfinals = "Conf. Quarterfinals",
+    conference_quarterfinals_wins = "",
+    conference_semifinals = "Conf. Semifinals",
+    conference_semifinals_wins = "",
+    conference_finals = "Conf. Finals",
+    conference_finals_wins = "",
+    nba_finals = "NBA Finals",
+    nba_finals_wins = ""
+  ) |>
+  opt_row_striping()
+
+bracket_gt_table
+bracket_table_html <- as_raw_html(
+  bracket_gt_table,
+  inline_css = TRUE
+)
+
 # ployoff odds ----
 get_market_prices <- function(ticker) {
   ticker <- ticker
@@ -733,7 +800,10 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 ",
     now_html,
     " 
-
+    ### Playoffs Bracket
+",
+    bracket_table_html,
+    "
 <div class = \"standings\">
 <iframe src=\"/interactive/western_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
