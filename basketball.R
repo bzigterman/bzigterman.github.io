@@ -799,8 +799,8 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",
     now_html,
-    " 
-    ### Playoffs Bracket
+    "
+### Playoffs Bracket
 ",
     bracket_table_html,
     "
