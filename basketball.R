@@ -49,38 +49,194 @@ bracket_table <- tables[[6]] %>%
       nba_finals
     )
   ) |>
-  distinct() |>
   filter(first_round_2 != "Eastern Conference") |>
-  filter(first_round_2 != "Western Conference") |>
+  filter(first_round_2 != "Western Conference")
+
+first_round <- bracket_table |>
+  select(first_round_2, first_round_3) |>
+  distinct() |>
   mutate(first_round_2 = str_replace(first_round_2, "\\*$", "")) |>
-  rename(conference_quarterfinals = first_round_2) |>
-  rename(conference_quarterfinals_wins = first_round_3) |>
+  rename(first_round = first_round_2) |>
+  rename(first_round_wins = first_round_3) |>
+  drop_na()
+
+conference_semifinals <- bracket_table |>
+  select(conference_semifinals_2, conference_semifinals_3) |>
+  distinct() |>
+  mutate(
+    conference_semifinals_2 = str_replace(conference_semifinals_2, "\\*$", "")
+  ) |>
   rename(conference_semifinals = conference_semifinals_2) |>
   rename(conference_semifinals_wins = conference_semifinals_3) |>
+  drop_na()
+
+conference_semifinals_placeholder <- data.frame(
+  conference_semifinals = rep(NA, 16),
+  conference_semifinals_wins = rep(NA, 16),
+  stringsAsFactors = False
+)
+
+conference_semifinals_placeholder$conference_semifinals[
+  2
+] <- conference_semifinals$conference_semifinals[1]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  2
+] <- conference_semifinals$conference_semifinals_wins[1]
+conference_semifinals_placeholder$conference_semifinals[
+  3
+] <- conference_semifinals$conference_semifinals[2]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  3
+] <- conference_semifinals$conference_semifinals_wins[2]
+
+conference_semifinals_placeholder$conference_semifinals[
+  6
+] <- conference_semifinals$conference_semifinals[3]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  6
+] <- conference_semifinals$conference_semifinals_wins[3]
+conference_semifinals_placeholder$conference_semifinals[
+  7
+] <- conference_semifinals$conference_semifinals[4]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  7
+] <- conference_semifinals$conference_semifinals_wins[4]
+
+conference_semifinals_placeholder$conference_semifinals[
+  10
+] <- conference_semifinals$conference_semifinals[5]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  10
+] <- conference_semifinals$conference_semifinals_wins[5]
+conference_semifinals_placeholder$conference_semifinals[
+  11
+] <- conference_semifinals$conference_semifinals[6]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  11
+] <- conference_semifinals$conference_semifinals_wins[6]
+
+conference_semifinals_placeholder$conference_semifinals[
+  14
+] <- conference_semifinals$conference_semifinals[7]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  14
+] <- conference_semifinals$conference_semifinals_wins[7]
+conference_semifinals_placeholder$conference_semifinals[
+  15
+] <- conference_semifinals$conference_semifinals[8]
+conference_semifinals_placeholder$conference_semifinals_wins[
+  15
+] <- conference_semifinals$conference_semifinals_wins[8]
+
+conference_finals <- bracket_table |>
+  select(conference_finals_2, conference_finals_3) |>
+  distinct() |>
+  mutate(conference_finals_2 = str_replace(conference_finals_2, "\\*$", "")) |>
   rename(conference_finals = conference_finals_2) |>
   rename(conference_finals_wins = conference_finals_3) |>
+  drop_na()
+
+conference_finals_placeholder <- data.frame(
+  conference_finals = rep(NA, 16),
+  conference_finals_wins = rep(NA, 16),
+  stringsAsFactors = False
+)
+
+conference_finals_placeholder$conference_finals[
+  4
+] <- conference_finals$conference_finals[1]
+conference_finals_placeholder$conference_finals_wins[
+  4
+] <- conference_finals$conference_finals_wins[1]
+conference_finals_placeholder$conference_finals[
+  5
+] <- conference_finals$conference_finals[2]
+conference_finals_placeholder$conference_finals_wins[
+  5
+] <- conference_finals$conference_finals_wins[2]
+
+conference_finals_placeholder$conference_finals[
+  12
+] <- conference_finals$conference_finals[3]
+conference_finals_placeholder$conference_finals_wins[
+  12
+] <- conference_finals$conference_finals_wins[3]
+conference_finals_placeholder$conference_finals[
+  13
+] <- conference_finals$conference_finals[4]
+conference_finals_placeholder$conference_finals_wins[
+  13
+] <- conference_finals$conference_finals_wins[4]
+
+nba_finals <- bracket_table |>
+  select(nba_finals_2, nba_finals_3) |>
+  distinct() |>
+  mutate(nba_finals_2 = str_replace(nba_finals_2, "\\*$", "")) |>
   rename(nba_finals = nba_finals_2) |>
   rename(nba_finals_wins = nba_finals_3) |>
-  mutate(across(everything(), ~ if_else(is.na(.), "", .)))
+  drop_na()
+
+nba_finals_placeholder <- data.frame(
+  nba_finals = rep(NA, 16),
+  nba_finals_wins = rep(NA, 16),
+  stringsAsFactors = False
+)
+
+nba_finals_placeholder$nba_finals[
+  8
+] <- nba_finals$nba_finals[1]
+nba_finals_placeholder$nba_finals_wins[
+  8
+] <- nba_finals$nba_finals_wins[1]
+nba_finals_placeholder$nba_finals[
+  9
+] <- nba_finals$nba_finals[2]
+nba_finals_placeholder$nba_finals_wins[
+  9
+] <- nba_finals$nba_finals_wins[2]
+
+# combine
+
+merged <- cbind(first_round, conference_semifinals_placeholder) |>
+  cbind(conference_finals_placeholder) |>
+  cbind(nba_finals_placeholder) |>
+  mutate(across(everything(), as.character)) |>
+  mutate(across(where(is.character), ~ replace_na(., "")))
 
 # View the bracket table
-bracket_gt_table <- bracket_table %>%
-  gt() %>%
-  cols_label(
-    conference_quarterfinals = "First Round",
-    conference_quarterfinals_wins = "",
-    conference_semifinals = "Conf. Semifinals",
-    conference_semifinals_wins = "",
-    conference_finals = "Conf. Finals",
-    conference_finals_wins = "",
-    nba_finals = "NBA Finals",
-    nba_finals_wins = ""
-  ) |>
-  opt_row_striping()
+gt_tbl <- merged %>% gt()
 
-bracket_gt_table
+# Apply background style to all blank string cells
+for (col in names(merged)) {
+  blank_rows <- merged[[col]] != ""
+  blank_rows[is.na(blank_rows)] <- TRUE # handle NA values safely
+
+  gt_tbl <- gt_tbl %>%
+    cols_label(
+      first_round = "First Round",
+      first_round_wins = "",
+      conference_semifinals = "Conf. Semifinals",
+      conference_semifinals_wins = "",
+      conference_finals = "Conf. Finals",
+      conference_finals_wins = "",
+      nba_finals = "NBA Finals",
+      nba_finals_wins = ""
+    ) |>
+    opt_row_striping(FALSE) |>
+    opt_table_lines("none") |>
+    tab_style(
+      style = cell_fill(color = "gray90"),
+      locations = cells_body(
+        columns = all_of(col),
+        rows = which(blank_rows)
+      )
+    )
+}
+
+gt_tbl
+
 bracket_table_html <- as_raw_html(
-  bracket_gt_table,
+  gt_tbl,
   inline_css = TRUE
 )
 
