@@ -30,7 +30,7 @@ tables <- page %>% html_elements("table")
 
 # Identify the bracket table
 # Assuming the bracket is the first table; adjust the index if necessary
-bracket_table <- tables[[6]] %>%
+bracket_table <- tables[[7]] %>%
   html_table(fill = TRUE, header = TRUE, na.strings = "") |>
   janitor::clean_names() |>
   select(
