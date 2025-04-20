@@ -25,13 +25,17 @@ url <- "https://en.wikipedia.org/wiki/2025_NBA_playoffs"
 # Read the HTML content
 page <- read_html(url)
 
+bracket_h2 <- html_node(page, xpath = "//h2[normalize-space(text())='Bracket']")
+
 # Extract all tables from the page
-tables <- page %>% html_elements("table")
+tables <- bracket_h2 |>
+  html_node(xpath = "following::table[1]") |>
+  html_table(fill = TRUE, header = TRUE, na.strings = "")
 
 # Identify the bracket table
 # Assuming the bracket is the first table; adjust the index if necessary
-bracket_table <- tables[[7]] %>%
-  html_table(fill = TRUE, header = TRUE, na.strings = "") |>
+bracket_table <- tables |>
+  #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
   janitor::clean_names() |>
   select(
     !c(
