@@ -62,7 +62,11 @@ first_round <- bracket_table |>
   mutate(first_round_2 = str_replace(first_round_2, "\\*$", "")) |>
   rename(first_round = first_round_2) |>
   rename(first_round_wins = first_round_3) |>
-  drop_na()
+  filter(!if_all(everything(), is.na)) |>
+  mutate(
+    first_round_wins = as.numeric(first_round_wins)
+  ) %>%
+  mutate(first_round_wins = replace_na(first_round_wins, 0))
 
 conference_semifinals <- bracket_table |>
   select(conference_semifinals_2, conference_semifinals_3) |>
@@ -72,7 +76,11 @@ conference_semifinals <- bracket_table |>
   ) |>
   rename(conference_semifinals = conference_semifinals_2) |>
   rename(conference_semifinals_wins = conference_semifinals_3) |>
-  drop_na()
+  filter(!if_all(everything(), is.na)) |>
+  mutate(
+    conference_semifinals_wins = as.numeric(conference_semifinals_wins)
+  ) %>%
+  mutate(conference_semifinals_wins = replace_na(conference_semifinals_wins, 0))
 
 conference_semifinals_placeholder <- data.frame(
   conference_semifinals = rep(NA, 16),
@@ -138,7 +146,12 @@ conference_finals <- bracket_table |>
   mutate(conference_finals_2 = str_replace(conference_finals_2, "\\*$", "")) |>
   rename(conference_finals = conference_finals_2) |>
   rename(conference_finals_wins = conference_finals_3) |>
-  drop_na()
+  filter(!if_all(everything(), is.na)) |>
+  mutate(
+    conference_finals_wins = as.numeric(conference_finals_wins)
+  ) %>%
+  mutate(conference_finals_wins = replace_na(conference_finals_wins, 0))
+
 
 conference_finals_placeholder <- data.frame(
   conference_finals = rep(NA, 16),
@@ -178,7 +191,12 @@ nba_finals <- bracket_table |>
   mutate(nba_finals_2 = str_replace(nba_finals_2, "\\*$", "")) |>
   rename(nba_finals = nba_finals_2) |>
   rename(nba_finals_wins = nba_finals_3) |>
-  drop_na()
+  filter(!if_all(everything(), is.na)) |>
+  mutate(
+    nba_finals_wins = as.numeric(nba_finals_wins)
+  ) %>%
+  mutate(nba_finals_wins = replace_na(nba_finals_wins, 0))
+
 
 nba_finals_placeholder <- data.frame(
   nba_finals = rep(NA, 16),
