@@ -70,34 +70,60 @@ bracket_table <- tables |>
   mutate(across(where(is.character), ~ replace_na(., "")))
 
 # View the bracket table
-gt_tbl <- bracket_table %>% gt()
 
-# Apply background style to all blank string cells
-for (col in names(bracket_table)) {
-  blank_rows <- bracket_table[[col]] != ""
-  blank_rows[is.na(blank_rows)] <- TRUE # handle NA values safely
-
-  gt_tbl <- gt_tbl %>%
-    cols_label(
-      first_round = "First Round",
-      first_round_wins = "",
-      conference_semifinals = "Conf. Semifinals",
-      conference_semifinals_wins = "",
-      conference_finals = "Conf. Finals",
-      conference_finals_wins = "",
-      nba_finals = "NBA Finals",
-      nba_finals_wins = ""
-    ) |>
-    opt_row_striping(FALSE) |>
-    opt_table_lines("none") |>
-    tab_style(
-      style = cell_fill(color = "gray90"),
-      locations = cells_body(
-        columns = all_of(col),
-        rows = which(blank_rows)
-      )
+gt_tbl <- bracket_table |>
+  gt() %>%
+  cols_label(
+    first_round = "First Round",
+    first_round_wins = "",
+    conference_semifinals = "Conf. Semifinals",
+    conference_semifinals_wins = "",
+    conference_finals = "Conf. Finals",
+    conference_finals_wins = "",
+    nba_finals = "NBA Finals",
+    nba_finals_wins = ""
+  ) |>
+  opt_row_striping(FALSE) |>
+  opt_table_lines("none") |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(first_round, first_round_wins),
+      rows = all()
     )
-}
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(conference_semifinals, conference_semifinals_wins),
+      rows = c(2, 3, 6, 7, 10, 11, 14, 15)
+    )
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(conference_finals, conference_finals_wins),
+      rows = c(4, 5, 12, 13)
+    )
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(nba_finals, nba_finals_wins),
+      rows = c(8, 9)
+    )
+  ) |>
+  tab_style(
+    style = cell_borders(
+      sides = "bottom",
+      color = "black",
+      weight = px(1)
+    ),
+    locations = cells_body(
+      columns = c(first_round, first_round_wins),
+      rows = c(2, 4, 6, 8, 10, 12, 14)
+    )
+  )
 
 gt_tbl
 
