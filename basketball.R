@@ -73,6 +73,7 @@ bracket_table <- tables |>
 
 gt_tbl <- bracket_table |>
   gt() %>%
+  gt_theme_espn() %>%
   cols_label(
     first_round = "First Round",
     first_round_wins = "",
@@ -165,40 +166,6 @@ finals <- get_market_prices("KXNBA-25") |>
 table <- full_join(west, east) |>
   left_join(finals) |>
   mutate(team_label = ifelse(team_label == "WAS", "WSH", team_label))
-
-# mutate(
-#   team_label = case_when(
-#     tm == "Atlanta Hawks" ~ "ATL",
-#     tm == "Boston Celtics" ~ "BOS",
-#     tm == "Brooklyn Nets" ~ "BKN",
-#     tm == "Charlotte Hornets" ~ "CHA",
-#     tm == "Chicago Bulls" ~ "CHI",
-#     tm == "Cleveland Cavaliers" ~ "CLE",
-#     tm == "Dallas Mavericks" ~ "DAL",
-#     tm == "Denver Nuggets" ~ "DEN",
-#     tm == "Detroit Pistons" ~ "DET",
-#     tm == "Golden State Warriors" ~ "GSW",
-#     tm == "Houston Rockets" ~ "HOU",
-#     tm == "Indiana Pacers" ~ "IND",
-#     tm == "Los Angeles Clippers" ~ "LAC",
-#     tm == "Los Angeles Lakers" ~ "LAL",
-#     tm == "Memphis Grizzlies" ~ "MEM",
-#     tm == "Miami Heat" ~ "MIA",
-#     tm == "Milwaukee Bucks" ~ "MIL",
-#     tm == "Minnesota Timberwolves" ~ "MIN",
-#     tm == "New Orleans Pelicans" ~ "NOP",
-#     tm == "New York Knicks" ~ "NYK",
-#     tm == "Oklahoma City Thunder" ~ "OKC",
-#     tm == "Orlando Magic" ~ "ORL",
-#     tm == "Philadelphia 76ers" ~ "PHI",
-#     tm == "Phoenix Suns" ~ "PHX",
-#     tm == "Portland Trail Blazers" ~ "POR",
-#     tm == "Sacramento Kings" ~ "SAC",
-#     tm == "San Antonio Spurs" ~ "SAS",
-#     tm == "Toronto Raptors" ~ "TOR",
-#     tm == "Utah Jazz" ~ "UTA",
-#     tm == "Washington Wizards" ~ "WSH"
-#   )
 
 # get data ----
 teams <- load_nba_team_box(seasons = most_recent_nba_season()) |>
