@@ -124,6 +124,10 @@ gt_tbl <- bracket_table |>
       columns = c(first_round, first_round_wins),
       rows = c(2, 4, 6, 8, 10, 12, 14)
     )
+  ) |>
+  tab_options(
+    data_row.padding = px(4),
+    table.font.size = px(12)
   )
 
 gt_tbl
