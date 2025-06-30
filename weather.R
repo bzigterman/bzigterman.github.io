@@ -297,6 +297,48 @@ fig <- highchart() |>
     yAxis = 0
   ) |>
   hc_add_series(
+    data = om_hourly, ### dew point ----
+    type = "line",
+    name = "Dew Point",
+    states = list(
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    label = list(
+      enabled = TRUE
+    ),
+    zones = list(
+      c(value = 0 - 20, color = "#F8D4FC"),
+      c(value = 5 - 20, color = "#E5A4EB"),
+      c(value = 10 - 20, color = "#D392DD"),
+      c(value = 15 - 20, color = "#C07ECC"),
+      c(value = 20 - 20, color = "#9D63C2"),
+      c(value = 25 - 20, color = "#794DB4"),
+      c(value = 30 - 20, color = "#5B4FA6"),
+      c(value = 32 - 20, color = "#527DC7"),
+      c(value = 40 - 20, color = "#65C1DE"),
+      c(value = 45 - 20, color = "#6EDAE0"),
+      c(value = 50 - 20, color = "#6EDBA2"),
+      c(value = 55 - 20, color = "#69C954"),
+      c(value = 60 - 20, color = "#93D452"),
+      c(value = 65 - 20, color = "#E3E65B"),
+      c(value = 70 - 20, color = "#FFFF61"),
+      c(value = 75 - 20, color = "#F8D456"),
+      c(value = 80 - 20, color = "#ED9749"),
+      c(value = 85 - 20, color = "#DC6641"),
+      c(value = 90 - 20, color = "#CA593E"),
+      c(value = 95 - 20, color = "#B6493B"),
+      c(value = 200, color = "#A44139")
+    ),
+    color = "black",
+    lineWidth = 1,
+    connectNulls = TRUE,
+    tooltip = list(valueSuffix = "°", valueDecimals = 0),
+    hcaes(x = time * 1000, y = dewPoint),
+    yAxis = 0
+  ) |>
+  hc_add_series(
     data = om_hourly, ### precip ----
     type = "line",
     name = "Precip. Chance",
