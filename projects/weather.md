@@ -8,19 +8,19 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:54 AM CT, July 03</p>
+<p class="updated_time"> Latest data: 01:08 AM CT, July 03</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 73°
-- Mostly Clear
-- 75% humidity
-- 2 mph wind
-- 14% cloud cover
-- 48 AQI 🟩
+- 72°
+- Clear
+- 76% humidity
+- 3 mph wind
+- 11% cloud cover
+- 45 AQI 🟩
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
