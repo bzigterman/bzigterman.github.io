@@ -6,15 +6,15 @@ permalink: /resume
 
 ## Experience
 
-2023–present: Senior Reporter, **Law360**
-- Write articles about bankruptcy law 
+2021–present: **Law360**
 
-2021–2023: Reporter, **Law360**
-
-- Wrote daily articles and occasional features on insurance law
-- Searched court filings for newsworthy article pitches
-- Maintained network of sources on the property insurance beat
-- Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and updated it regularly
+- 2023–present: Senior Reporter
+    - Write features and daily articles about bankruptcy law 
+- 2021–2023: Reporter
+    - Wrote daily articles and occasional features on insurance law
+    - Searched court filings for newsworthy article pitches
+    - Maintained network of sources on the property insurance beat
+    - Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and updated it regularly
 
 2016–2021: Reporter, **The Champaign News-Gazette**, Champaign, IL
 
