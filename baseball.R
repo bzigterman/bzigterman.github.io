@@ -573,7 +573,7 @@ if (length(standings_the_same) > 0) {
     ) |>
     data_color(
       columns = c(win_ws),
-      domain = c(0.1, 100),
+      domain = c(2.1, 100),
       na_color = "#FFFFFF",
       palette = "Reds"
     ) |>
@@ -948,7 +948,7 @@ if (length(standings_the_same) > 0) {
     ) |>
     data_color(
       columns = c(win_ws),
-      domain = c(0.1, 100),
+      domain = c(2.1, 100),
       na_color = "#FFFFFF",
       palette = "Reds"
     ) |>
