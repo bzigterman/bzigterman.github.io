@@ -1196,84 +1196,6 @@ saveWidget(
   libdir = "interactive"
 )
 
-lists <- data %>%
-  select(name, date, shorter_date, value) %>%
-  group_by(name) %>%
-  do(tail(., n = 5 * 12)) %>%
-  summarise(lists = list(value))
-add_latest_month_column <- data %>%
-  select(name, shorter_date, value) %>%
-  group_by(name) %>%
-  do(tail(., n = 1)) %>%
-  rename(latest = value) %>%
-  full_join(lists)
-
-add_year_ago_column <- data %>%
-  select(name, shorter_date, value) %>%
-  group_by(name) %>%
-  do(tail(., n = 13)) %>%
-  do(head(., n = 1)) %>%
-  rename(year_ago = value) %>%
-  full_join(add_latest_month_column) %>%
-  mutate(pct_change = (latest - year_ago) / year_ago)
-
-
-latest_data_for_table <- add_year_ago_column
-
-cu_housing_table <- ungroup(latest_data_for_table) %>%
-  gt() %>%
-  gt_theme_espn() %>%
-  # gt_sparkline(
-  #   lists,
-  #   line_color = "grey70",
-  #   range_colors = c("red", "red"),
-  #   same_limit = FALSE
-  # ) %>%
-  tab_options(
-    table.width = pct(100),
-    data_row.padding = px(4),
-    table.font.size = px(12)
-  ) %>%
-  opt_all_caps(all_caps = TRUE) %>%
-  cols_hide(columns = c(shorter_date, lists)) %>%
-  cols_move(
-    columns = pct_change,
-    after = latest
-  ) %>%
-  fmt_number(
-    columns = c(latest, year_ago),
-    n_sigfig = 3
-  ) %>%
-  fmt_percent(
-    columns = pct_change,
-    decimals = 0,
-    force_sign = TRUE
-  ) %>%
-  # cols_align(
-  #   align = c("right"),
-  #   columns = lists
-  # ) %>%
-  cols_label(
-    name = "Metric",
-    latest = "Latest",
-    year_ago = "Year Ago",
-    pct_change = html("Year %<br>Change"),
-    #lists = html("Last 5<br>Years")
-  )
-
-cu_housing_table
-cu_housing_table_html <- as_raw_html(cu_housing_table, inline_css = FALSE)
-better_divs_cu_housing_table <- gsub(
-  "[#][a-z]{10}",
-  "#cu_housing_table",
-  x = cu_housing_table_html
-)
-better_cu_housing_table_html <- gsub(
-  "[\"][a-z]{10}",
-  "\"cu_housing_table",
-  x = better_divs_cu_housing_table
-)
-
 # Illinois ----
 
 ## unemployment rate ----
@@ -1533,10 +1455,6 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 <iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"500\"> 
 </iframe>
-
-",
-  better_cu_housing_table_html,
-  "
 
 <iframe src=\"/interactive/champaign_county_population.html\" width=\"100%\" height=\"300\"> 
 </iframe>
