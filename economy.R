@@ -707,7 +707,10 @@ fig <- hchart(
   "line",
   hcaes(x = date, y = round(value * 100, digits = 1), group = series_id),
   animation = FALSE,
-  tooltip = list(valueSuffix = "%")
+  tooltip = list(valueSuffix = "%"),
+  marker = list(
+    enabledThreshold = 5
+  )
 ) %>%
   hc_title(text = "Inflation") %>%
   hc_colors(c("#1f78b4", "#a6cee3", "#A0090D", "#d99c9e")) %>%
