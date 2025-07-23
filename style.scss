@@ -21,6 +21,10 @@ body {
 	background: $white;
   font: 18px/1.4 $georgia;
   color: $darkGray;
+  @media (prefers-color-scheme: dark) {
+      background-color: $black;
+      color: $lightGray;
+  }
 }
 
 .container {
