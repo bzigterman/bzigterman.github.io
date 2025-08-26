@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ### Compare Weather Forecast Models for Champaign–Urbana
 
-<p class="updated_time"> Latest data: 12:27 PM CT, August 26</p>
+<p class="updated_time"> Latest data: 12:40 PM CT, August 26</p>
 
 ## Temperature
 
