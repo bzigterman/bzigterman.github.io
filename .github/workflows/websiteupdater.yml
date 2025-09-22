@@ -33,7 +33,6 @@ jobs:
       - name: Download Parse and Update Data
         run: |-
           Rscript economy.R
-          Rscript covid.R
           Rscript baseball.R
           Rscript basketball.R
           Rscript weather.R
