@@ -1,10 +1,10 @@
 league,team_label,wins,losses,win_pct_text,games_remaining,win_ws
 AL,TOR,90,67,.573,5,10
-AL,NYY,89,68,.567,5,12
-AL,SEA,88,69,.561,5,17
+AL,NYY,89,68,.567,5,10
+AL,SEA,88,69,.561,5,18
 AL,BOS,86,71,.548,5,4
 AL,CLE,85,72,.541,5,4
-AL,DET,85,72,.541,5,4
+AL,DET,85,72,.541,5,2
 AL,HOU,84,73,.535,5,3
 AL,KC ,79,78,.503,5,1
 AL,TEX,79,78,.503,5,1
