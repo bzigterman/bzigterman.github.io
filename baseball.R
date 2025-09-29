@@ -22,6 +22,143 @@ library(jsonlite)
 year_long <- year(today(tzone = "America/Chicago"))
 year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
 
+# playoffs bracket ----
+
+# Define the URL
+url <- "https://en.wikipedia.org/wiki/2025_Major_League_Baseball_postseason"
+
+# Read the HTML content
+page <- read_html(url)
+
+bracket_h2 <- html_node(
+  page,
+  xpath = "//h2[normalize-space(text())='Playoff bracket']"
+)
+
+# Extract all tables from the page
+tables <- bracket_h2 |>
+  html_node(xpath = "following::table[1]") |>
+  html_table(fill = TRUE, header = TRUE, na.strings = "")
+
+# Identify the bracket table
+# Assuming the bracket is the first table; adjust the index if necessary
+rows_to_keep <- c(2, 3, 4, 6, 7, 8, 10, 11, 12, 14, 15, 16)
+bracket_table <- tables |>
+  #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
+  janitor::clean_names() |>
+  select(
+    c(
+      wild_card_series_alwcs_nlwcs_2,
+      wild_card_series_alwcs_nlwcs_3,
+      division_series_alds_nlds_2,
+      division_series_alds_nlds_3,
+      championship_series_alcs_nlcs_2,
+      championship_series_alcs_nlcs_3,
+      world_series_2,
+      world_series_3
+    )
+  ) |>
+  # remove "American League" and "National League" cells
+  mutate(
+    division_series_alds_nlds_2 = if_else(
+      division_series_alds_nlds_2 == "American League" |
+        division_series_alds_nlds_2 == "National League",
+      NA_character_,
+      division_series_alds_nlds_2
+    )
+  ) |>
+  mutate(
+    division_series_alds_nlds_3 = if_else(
+      division_series_alds_nlds_3 == "American League" |
+        division_series_alds_nlds_3 == "National League",
+      NA_character_,
+      division_series_alds_nlds_3
+    )
+  ) |>
+  #filter(wild_card_series_alwcs_nlwcs_2 != "Eastern Conference") |>
+  #filter(wild_card_series_alwcs_nlwcs_2 != "Western Conference") |>
+  slice(rows_to_keep) |>
+  mutate(across(everything(), ~ str_remove(., "\\*$"))) |>
+  rename(wcs_round = wild_card_series_alwcs_nlwcs_2) |>
+  rename(wcs_round_wins = wild_card_series_alwcs_nlwcs_3) |>
+  rename(division_series = division_series_alds_nlds_2) |>
+  rename(division_series_wins = division_series_alds_nlds_3) |>
+  rename(championship_series = championship_series_alcs_nlcs_2) |>
+  rename(championship_series_wins = championship_series_alcs_nlcs_3) |>
+  rename(world_series = world_series_2) |>
+  rename(world_series_wins = world_series_3) |>
+  mutate(across(everything(), as.character)) |>
+  mutate(across(where(is.character), ~ replace_na(., "")))
+
+# View the bracket table
+
+gt_tbl <- bracket_table |>
+  gt() %>%
+  gt_theme_espn() %>%
+  cols_label(
+    wcs_round = "Wild Card Series",
+    wcs_round_wins = "",
+    division_series = "Division Series",
+    division_series_wins = "",
+    championship_series = "Championship Series",
+    championship_series_wins = "",
+    world_series = "World Series",
+    world_series_wins = ""
+  ) |>
+  opt_row_striping(FALSE) |>
+  opt_table_lines("none") |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(wcs_round, wcs_round_wins),
+      rows = c(2, 3, 5, 6, 8, 9, 11, 12)
+    )
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(division_series, division_series_wins),
+      rows = c(1, 2, 4, 5, 7, 8, 10, 11)
+    )
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(championship_series, championship_series_wins),
+      rows = c(3, 4, 9, 10)
+    )
+  ) |>
+  tab_style(
+    style = cell_fill(color = "gray90"),
+    locations = cells_body(
+      columns = c(world_series, world_series_wins),
+      rows = c(6, 7)
+    )
+  ) |>
+  # tab_style(
+  #   style = cell_borders(
+  #     sides = "bottom",
+  #     color = "black",
+  #     weight = px(1)
+  #   ),
+  #   locations = cells_body(
+  #     columns = c(first_round, first_round_wins),
+  #     rows = c(2, 4, 6, 8, 10, 12, 14)
+  #   )
+  # ) |>
+  tab_options(
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  )
+
+gt_tbl
+
+bracket_table_html <- as_raw_html(
+  gt_tbl,
+  inline_css = TRUE
+)
+
+
 # ployoff odds ----
 get_market_prices <- function(ticker) {
   ticker <- ticker
@@ -1246,7 +1383,10 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ",
     now_html,
     " 
-
+### Playoffs Bracket
+",
+    bracket_table_html,
+    "
 ### Games Above .500
 
 <div class = \"standings\">
