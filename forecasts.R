@@ -37,14 +37,14 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
+  "&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
 )
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = temperature_2m_ecmwf_ifs025) |>
-  select(!temperature_2m_ecmwf_ifs025) |>
+  mutate(ECMWF = temperature_2m_ecmwf_ifs) |>
+  select(!temperature_2m_ecmwf_ifs) |>
   mutate(AIFS = temperature_2m_ecmwf_aifs025) |>
   select(!temperature_2m_ecmwf_aifs025) |>
   mutate(CMA = temperature_2m_cma_grapes_global) |>
@@ -190,14 +190,14 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
+  "&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
 )
 om <- rio::import(om_url, format = "json")
 om_snow_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = snowfall_ecmwf_ifs025) |>
-  select(!snowfall_ecmwf_ifs025) |>
+  mutate(ECMWF = snowfall_ecmwf_ifs) |>
+  select(!snowfall_ecmwf_ifs) |>
   mutate(AIFS = snowfall_ecmwf_aifs025) |>
   select(!snowfall_ecmwf_aifs025) |>
   mutate(CMA = snowfall_cma_grapes_global) |>
@@ -279,14 +279,14 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs025,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
+  "&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
 )
 om <- rio::import(om_url, format = "json")
 om_rain_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = rain_ecmwf_ifs025 + showers_ecmwf_ifs025) |>
-  select(!c(rain_ecmwf_ifs025, showers_ecmwf_ifs025)) |>
+  mutate(ECMWF = rain_ecmwf_ifs + showers_ecmwf_ifs) |>
+  select(!c(rain_ecmwf_ifs, showers_ecmwf_ifs)) |>
   mutate(AIFS = rain_ecmwf_aifs025 + showers_ecmwf_aifs025) |>
   select(!c(rain_ecmwf_aifs025, showers_ecmwf_aifs025)) |>
   mutate(GraphCast = rain_gfs_graphcast025 + showers_gfs_graphcast025) |>
