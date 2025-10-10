@@ -42,7 +42,7 @@ tables <- bracket_h2 |>
 
 # Identify the bracket table
 # Assuming the bracket is the first table; adjust the index if necessary
-rows_to_keep <- c(2, 3, 4, 6, 7, 8, 10, 11, 12, 14, 15, 16)
+rows_to_keep <- c(2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
 bracket_table <- tables |>
   #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
   janitor::clean_names() |>
@@ -90,6 +90,10 @@ bracket_table <- tables |>
   mutate(across(everything(), as.character)) |>
   mutate(across(where(is.character), ~ replace_na(., "")))
 
+# add nonbreaking space to empty rows
+bracket_table <- bracket_table |>
+  mutate(across(everything(), ~ if_else(. == "", "\u00A0", .)))
+
 # View the bracket table
 
 gt_tbl <- bracket_table |>
@@ -111,28 +115,28 @@ gt_tbl <- bracket_table |>
     style = cell_fill(color = "gray90"),
     locations = cells_body(
       columns = c(wcs_round, wcs_round_wins),
-      rows = c(2, 3, 5, 6, 8, 9, 11, 12)
+      rows = c(2, 3, 6, 7, 10, 11, 14, 15)
     )
   ) |>
   tab_style(
     style = cell_fill(color = "gray90"),
     locations = cells_body(
       columns = c(division_series, division_series_wins),
-      rows = c(1, 2, 4, 5, 7, 8, 10, 11)
+      rows = c(1, 2, 5, 6, 9, 10, 13, 14)
     )
   ) |>
   tab_style(
     style = cell_fill(color = "gray90"),
     locations = cells_body(
       columns = c(championship_series, championship_series_wins),
-      rows = c(3, 4, 9, 10)
+      rows = c(3, 4, 12, 13)
     )
   ) |>
   tab_style(
     style = cell_fill(color = "gray90"),
     locations = cells_body(
       columns = c(world_series, world_series_wins),
-      rows = c(6, 7)
+      rows = c(7, 8)
     )
   ) |>
   # tab_style(
