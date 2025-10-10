@@ -129,7 +129,7 @@ gt_tbl <- bracket_table |>
     style = cell_fill(color = "gray90"),
     locations = cells_body(
       columns = c(championship_series, championship_series_wins),
-      rows = c(3, 4, 12, 13)
+      rows = c(3, 4, 11, 12)
     )
   ) |>
   tab_style(
