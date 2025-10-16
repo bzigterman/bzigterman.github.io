@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:55 AM CT, October 16</p>
+<p class="updated_time"> Latest data: 02:06 AM CT, October 16</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,9 +17,9 @@ Currently:
 
 - 59°
 - Mostly Clear
-- 63% humidity
+- 64% humidity
 - 7 mph wind
-- 35% cloud cover
+- 36% cloud cover
 - 30 AQI 🟩
 
 
