@@ -25,7 +25,7 @@ year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
 
 ## postseason check ----
 postseason_games <-
-  load_nba_team_box(seasons = most_recent_nba_season()) |>
+  load_nba_team_box(seasons = year_long) |>
   filter(season_type == 3)
 
 postseason_games_rows = nrow(postseason_games)
@@ -153,12 +153,15 @@ if (postseason_check) {
 
   gt_tbl
 
-  bracket_table_html <- as_raw_html(
-    gt_tbl,
-    inline_css = TRUE
+  bracket_table_html <- paste0(
+    "<h3>Playoffs Bracket</h3>",
+    as_raw_html(
+      gt_tbl,
+      inline_css = TRUE
+    )
   )
 } else {
-  bracket_table_html <- "<p>The NBA postseason has not yet started.</p>"
+  bracket_table_html <- "<h3>Playoffs Bracket</h3>"
 }
 
 # ployoff odds ----
@@ -842,9 +845,6 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",
     now_html,
-    "
-### Playoffs Bracket
-",
     bracket_table_html,
     "
 <div class = \"standings\">
