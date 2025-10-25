@@ -19,123 +19,147 @@ library(jsonlite)
 
 # playoffs bracket ----
 
+## year ----
+year_long <- most_recent_nba_season()
+year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
+
+## postseason check ----
+postseason_games <-
+  load_nba_team_box(seasons = most_recent_nba_season()) |>
+  filter(season_type == 3)
+
+postseason_games_rows = nrow(postseason_games)
+
+postseason_check <- if_else(
+  postseason_games_rows > 0,
+  TRUE,
+  FALSE
+)
+
 # Define the URL
-url <- "https://en.wikipedia.org/wiki/2025_NBA_playoffs"
+url <- paste0("https://en.wikipedia.org/wiki/", year_long, "_NBA_playoffs")
 
-# Read the HTML content
-page <- read_html(url)
+if (postseason_check) {
+  # Read the HTML content
+  page <- read_html(url)
 
-bracket_h2 <- html_node(page, xpath = "//h2[normalize-space(text())='Bracket']")
-
-# Extract all tables from the page
-tables <- bracket_h2 |>
-  html_node(xpath = "following::table[1]") |>
-  html_table(fill = TRUE, header = TRUE, na.strings = "")
-
-# Identify the bracket table
-# Assuming the bracket is the first table; adjust the index if necessary
-rows_to_keep <- c(1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 31)
-bracket_table <- tables |>
-  #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
-  janitor::clean_names() |>
-  select(
-    !c(
-      x,
-      x_2,
-      x_3,
-      x_4,
-      x_5,
-      x_6,
-      x_7,
-      x_8,
-      first_round,
-      conference_semifinals,
-      conference_finals,
-      nba_finals
-    )
-  ) |>
-  filter(first_round_2 != "Eastern Conference") |>
-  filter(first_round_2 != "Western Conference") |>
-  slice(rows_to_keep) |>
-  mutate(across(everything(), ~ str_remove(., "\\*$"))) |>
-  rename(first_round = first_round_2) |>
-  rename(first_round_wins = first_round_3) |>
-  rename(conference_semifinals = conference_semifinals_2) |>
-  rename(conference_semifinals_wins = conference_semifinals_3) |>
-  rename(conference_finals = conference_finals_2) |>
-  rename(conference_finals_wins = conference_finals_3) |>
-  rename(nba_finals = nba_finals_2) |>
-  rename(nba_finals_wins = nba_finals_3) |>
-  mutate(across(everything(), as.character)) |>
-  mutate(across(where(is.character), ~ replace_na(., "")))
-
-# View the bracket table
-
-gt_tbl <- bracket_table |>
-  gt() %>%
-  gt_theme_espn() %>%
-  cols_label(
-    first_round = "First Round",
-    first_round_wins = "",
-    conference_semifinals = "Conf. Semifinals",
-    conference_semifinals_wins = "",
-    conference_finals = "Conf. Finals",
-    conference_finals_wins = "",
-    nba_finals = "NBA Finals",
-    nba_finals_wins = ""
-  ) |>
-  opt_row_striping(FALSE) |>
-  opt_table_lines("none") |>
-  tab_style(
-    style = cell_fill(color = "gray90"),
-    locations = cells_body(
-      columns = c(first_round, first_round_wins),
-      rows = all()
-    )
-  ) |>
-  tab_style(
-    style = cell_fill(color = "gray90"),
-    locations = cells_body(
-      columns = c(conference_semifinals, conference_semifinals_wins),
-      rows = c(2, 3, 6, 7, 10, 11, 14, 15)
-    )
-  ) |>
-  tab_style(
-    style = cell_fill(color = "gray90"),
-    locations = cells_body(
-      columns = c(conference_finals, conference_finals_wins),
-      rows = c(4, 5, 12, 13)
-    )
-  ) |>
-  tab_style(
-    style = cell_fill(color = "gray90"),
-    locations = cells_body(
-      columns = c(nba_finals, nba_finals_wins),
-      rows = c(8, 9)
-    )
-  ) |>
-  tab_style(
-    style = cell_borders(
-      sides = "bottom",
-      color = "black",
-      weight = px(1)
-    ),
-    locations = cells_body(
-      columns = c(first_round, first_round_wins),
-      rows = c(2, 4, 6, 8, 10, 12, 14)
-    )
-  ) |>
-  tab_options(
-    data_row.padding = px(4),
-    table.font.size = px(12)
+  bracket_h2 <- html_node(
+    page,
+    xpath = "//h2[normalize-space(text())='Bracket']"
   )
 
-gt_tbl
+  # Extract all tables from the page
+  tables <- bracket_h2 |>
+    html_node(xpath = "following::table[1]") |>
+    html_table(fill = TRUE, header = TRUE, na.strings = "")
 
-bracket_table_html <- as_raw_html(
-  gt_tbl,
-  inline_css = TRUE
-)
+  # Identify the bracket table
+  # Assuming the bracket is the first table; adjust the index if necessary
+  rows_to_keep <- c(1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 31)
+  bracket_table <- tables |>
+    #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
+    janitor::clean_names() |>
+    select(
+      !c(
+        x,
+        x_2,
+        x_3,
+        x_4,
+        x_5,
+        x_6,
+        x_7,
+        x_8,
+        first_round,
+        conference_semifinals,
+        conference_finals,
+        nba_finals
+      )
+    ) |>
+    filter(first_round_2 != "Eastern Conference") |>
+    filter(first_round_2 != "Western Conference") |>
+    slice(rows_to_keep) |>
+    mutate(across(everything(), ~ str_remove(., "\\*$"))) |>
+    rename(first_round = first_round_2) |>
+    rename(first_round_wins = first_round_3) |>
+    rename(conference_semifinals = conference_semifinals_2) |>
+    rename(conference_semifinals_wins = conference_semifinals_3) |>
+    rename(conference_finals = conference_finals_2) |>
+    rename(conference_finals_wins = conference_finals_3) |>
+    rename(nba_finals = nba_finals_2) |>
+    rename(nba_finals_wins = nba_finals_3) |>
+    mutate(across(everything(), as.character)) |>
+    mutate(across(where(is.character), ~ replace_na(., "")))
+
+  # View the bracket table
+
+  gt_tbl <- bracket_table |>
+    gt() %>%
+    gt_theme_espn() %>%
+    cols_label(
+      first_round = "First Round",
+      first_round_wins = "",
+      conference_semifinals = "Conf. Semifinals",
+      conference_semifinals_wins = "",
+      conference_finals = "Conf. Finals",
+      conference_finals_wins = "",
+      nba_finals = "NBA Finals",
+      nba_finals_wins = ""
+    ) |>
+    opt_row_striping(FALSE) |>
+    opt_table_lines("none") |>
+    tab_style(
+      style = cell_fill(color = "gray90"),
+      locations = cells_body(
+        columns = c(first_round, first_round_wins),
+        rows = all()
+      )
+    ) |>
+    tab_style(
+      style = cell_fill(color = "gray90"),
+      locations = cells_body(
+        columns = c(conference_semifinals, conference_semifinals_wins),
+        rows = c(2, 3, 6, 7, 10, 11, 14, 15)
+      )
+    ) |>
+    tab_style(
+      style = cell_fill(color = "gray90"),
+      locations = cells_body(
+        columns = c(conference_finals, conference_finals_wins),
+        rows = c(4, 5, 12, 13)
+      )
+    ) |>
+    tab_style(
+      style = cell_fill(color = "gray90"),
+      locations = cells_body(
+        columns = c(nba_finals, nba_finals_wins),
+        rows = c(8, 9)
+      )
+    ) |>
+    tab_style(
+      style = cell_borders(
+        sides = "bottom",
+        color = "black",
+        weight = px(1)
+      ),
+      locations = cells_body(
+        columns = c(first_round, first_round_wins),
+        rows = c(2, 4, 6, 8, 10, 12, 14)
+      )
+    ) |>
+    tab_options(
+      data_row.padding = px(4),
+      table.font.size = px(12)
+    )
+
+  gt_tbl
+
+  bracket_table_html <- as_raw_html(
+    gt_tbl,
+    inline_css = TRUE
+  )
+} else {
+  bracket_table_html <- "<p>The NBA postseason has not yet started.</p>"
+}
 
 # ployoff odds ----
 get_market_prices <- function(ticker) {
