@@ -25,7 +25,11 @@ year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
 # playoffs bracket ----
 
 # Define the URL
-url <- "https://en.wikipedia.org/wiki/2025_Major_League_Baseball_postseason"
+url <- paste0(
+  "https://en.wikipedia.org/wiki/",
+  year_long,
+  "_Major_League_Baseball_postseason"
+)
 
 # Read the HTML content
 page <- read_html(url)
@@ -199,6 +203,7 @@ table <- finals |>
     )
   )
 
+# get team results ----
 get_team_records <- function(abbreviation) {
   records <- bref_team_results(abbreviation, year_long) |>
     mutate(game_n = as.numeric(Gm)) |>
