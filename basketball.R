@@ -155,15 +155,15 @@ get_market_prices <- function(ticker) {
     mutate(team_label = substr(ticker, nchar(ticker) - 2, nchar(ticker)))
 }
 
-west <- get_market_prices("KXNBAWEST-25") |>
+west <- get_market_prices("KXNBAWEST-26") |>
   mutate(post = last_price) |>
   select(team_label, post) |>
   mutate(lg = "Western")
-east <- get_market_prices("KXNBAEAST-25") |>
+east <- get_market_prices("KXNBAEAST-26") |>
   mutate(post = last_price) |>
   select(team_label, post) |>
   mutate(lg = "Eastern")
-finals <- get_market_prices("KXNBA-25") |>
+finals <- get_market_prices("KXNBA-26") |>
   mutate(finals = last_price) |>
   select(team_label, finals)
 
