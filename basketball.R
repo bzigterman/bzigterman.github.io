@@ -161,7 +161,7 @@ if (postseason_check) {
     )
   )
 } else {
-  bracket_table_html <- "<h3>Playoffs Bracket</h3>"
+  bracket_table_html <- ""
 }
 
 # ployoff odds ----
@@ -182,15 +182,15 @@ get_market_prices <- function(ticker) {
     mutate(team_label = substr(ticker, nchar(ticker) - 2, nchar(ticker)))
 }
 
-west <- get_market_prices("KXNBAWEST-26") |>
+west <- get_market_prices(paste0("KXNBAWEST-", year_short)) |>
   mutate(post = last_price) |>
   select(team_label, post) |>
   mutate(lg = "Western")
-east <- get_market_prices("KXNBAEAST-26") |>
+east <- get_market_prices(paste0("KXNBAEAST-", year_short)) |>
   mutate(post = last_price) |>
   select(team_label, post) |>
   mutate(lg = "Eastern")
-finals <- get_market_prices("KXNBA-26") |>
+finals <- get_market_prices(paste0("KXNBA-", year_short)) |>
   mutate(finals = last_price) |>
   select(team_label, finals)
 
