@@ -20,7 +20,7 @@ library(jsonlite)
 # playoffs bracket ----
 
 # Define the URL
-url <- "https://en.wikipedia.org/wiki/2026_NBA_playoffs"
+url <- "https://en.wikipedia.org/wiki/2025_NBA_playoffs"
 
 # Read the HTML content
 page <- read_html(url)
