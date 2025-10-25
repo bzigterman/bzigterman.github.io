@@ -16,7 +16,7 @@ Eastern,BKN,0,2,.0,1,1
 Eastern,IND,0,1,.0,3,1
 Western,SAS,2,0,1.000,5,5
 Western,OKC,2,0,1.000,36,29
-Western,GSW,2,1,.667,7,7
+Western,GSW,2,1,.667,9,7
 Western,UTA,1,1,.500,1,1
 Western,MIN,1,1,.500,9,5
 Western,SAC,1,1,.500,1,1
@@ -25,7 +25,7 @@ Western,MEM,1,1,.500,1,1
 Western,LAL,1,1,.500,7,5
 Western,LAC,1,1,.500,7,5
 Western,PHX,1,1,.500,1,1
-Western,DAL,0,2,.0,3,3
+Western,DAL,0,2,.0,4,3
 Western,DAL,0,2,.0,8,3
 Western,DEN,0,1,.0,19,15
 Western,HOU,0,2,.0,11,7
