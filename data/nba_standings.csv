@@ -3,13 +3,13 @@ Eastern,CHI,1,0,1.000,1,1
 Eastern,CHA,1,0,1.000,1,1
 Eastern,NYK,2,0,1.000,24,10
 Eastern,MIL,2,0,1.000,7,2
-Eastern,PHI,1,0,1.000,8,5
+Eastern,PHI,1,0,1.000,8,4
 Eastern,MIA,1,1,.500,3,1
 Eastern,WSH,1,1,.500,1,1
 Eastern,ATL,1,1,.500,7,3
 Eastern,CLE,1,1,.500,27,11
 Eastern,TOR,1,1,.500,2,1
-Eastern,ORL,1,1,.500,9,4
+Eastern,ORL,1,1,.500,9,3
 Eastern,DET,1,1,.500,NA,NA
 Eastern,BOS,0,2,.0,6,3
 Eastern,BKN,0,2,.0,1,1
@@ -28,5 +28,5 @@ Western,PHX,1,1,.500,1,1
 Western,DAL,0,2,.0,4,3
 Western,DAL,0,2,.0,8,3
 Western,DEN,0,1,.0,19,15
-Western,HOU,0,2,.0,11,7
+Western,HOU,0,2,.0,11,6
 Western,NOP,0,2,.0,1,1
