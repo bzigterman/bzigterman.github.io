@@ -4,7 +4,7 @@ Eastern,PHI,4,0,1.000,10,4
 Eastern,MIA,3,1,.750,6,1
 Eastern,MIL,3,1,.750,10,2
 Eastern,CLE,3,2,.600,29,11
-Eastern,DET,3,2,.600,NA,NA
+Eastern,DET,3,2,.600,7,2
 Eastern,CHA,2,2,.500,1,1
 Eastern,NYK,2,2,.500,24,7
 Eastern,ATL,2,3,.400,7,2
@@ -26,7 +26,6 @@ Western,LAC,2,2,.500,7,4
 Western,HOU,2,2,.500,11,6
 Western,MIN,2,3,.400,7,5
 Western,DAL,2,3,.400,3,1
-Western,DAL,2,3,.400,7,1
 Western,SAC,1,4,.200,1,1
 Western,PHX,1,4,.200,2,1
 Western,NOP,0,4,.0,1,1
