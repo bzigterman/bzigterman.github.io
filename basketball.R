@@ -189,7 +189,9 @@ west <- get_market_prices(paste0("KXNBAWEST-", year_short)) |>
 east <- get_market_prices(paste0("KXNBAEAST-", year_short)) |>
   mutate(post = last_price) |>
   select(team_label, post) |>
-  mutate(lg = "Eastern")
+  mutate(lg = "Eastern") |>
+  # convert "DAL" to "DET"
+  mutate(team_label = ifelse(team_label == "DAL", "DET", team_label))
 finals <- get_market_prices(paste0("KXNBA-", year_short)) |>
   mutate(finals = last_price) |>
   select(team_label, finals)
