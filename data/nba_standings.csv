@@ -1,9 +1,9 @@
 conference,team_label,wins,losses,win_pct_text,post,finals
 Eastern,CHI,4,0,1.000,3,1
-Eastern,PHI,4,0,1.000,11,4
+Eastern,PHI,4,0,1.000,8,4
 Eastern,MIL,4,1,.800,8,2
 Eastern,MIA,3,2,.600,5,1
-Eastern,CLE,3,2,.600,29,10
+Eastern,CLE,3,2,.600,29,11
 Eastern,DET,3,2,.600,7,2
 Eastern,NYK,2,2,.500,23,9
 Eastern,CHA,2,3,.400,1,1
@@ -11,7 +11,7 @@ Eastern,ATL,2,3,.400,7,2
 Eastern,BOS,2,3,.400,6,3
 Eastern,ORL,2,4,.333,10,3
 Eastern,WSH,1,4,.200,1,1
-Eastern,TOR,1,4,.200,2,1
+Eastern,TOR,1,4,.200,1,1
 Eastern,BKN,0,5,.0,1,1
 Eastern,IND,0,4,.0,3,1
 Western,SAS,5,0,1.000,7,6
@@ -23,7 +23,7 @@ Western,MEM,3,2,.600,1,1
 Western,LAL,3,2,.600,8,6
 Western,UTA,2,2,.500,1,1
 Western,LAC,2,2,.500,7,4
-Western,HOU,2,2,.500,10,6
+Western,HOU,2,2,.500,11,6
 Western,MIN,2,3,.400,7,4
 Western,DAL,2,3,.400,3,2
 Western,SAC,1,4,.200,1,1
