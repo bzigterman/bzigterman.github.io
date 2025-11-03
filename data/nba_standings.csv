@@ -3,7 +3,7 @@ Eastern,CHI,5,1,.833,4,1
 Eastern,PHI,5,1,.833,11,5
 Eastern,MIL,4,2,.667,8,2
 Eastern,DET,4,2,.667,5,2
-Eastern,CLE,4,3,.571,32,12
+Eastern,CLE,4,3,.571,32,11
 Eastern,NYK,3,3,.500,22,8
 Eastern,MIA,3,3,.500,5,1
 Eastern,CHA,3,4,.429,1,1
@@ -15,10 +15,10 @@ Eastern,WSH,1,5,.167,1,1
 Eastern,IND,1,5,.167,2,1
 Eastern,BKN,0,6,.0,1,1
 Western,OKC,7,0,1.000,38,30
-Western,SAS,5,1,.833,7,4
-Western,LAL,5,2,.714,7,7
+Western,SAS,5,1,.833,8,6
+Western,LAL,5,2,.714,9,7
 Western,POR,4,2,.667,1,1
-Western,DEN,3,2,.600,19,12
+Western,DEN,3,2,.600,19,13
 Western,LAC,3,2,.600,7,4
 Western,HOU,3,2,.600,10,7
 Western,GSW,4,3,.571,10,8
