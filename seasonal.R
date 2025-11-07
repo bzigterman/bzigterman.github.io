@@ -103,10 +103,15 @@ fig <- highchart() |>
   ) |>
   hc_tooltip(
     shared = TRUE,
+    split = TRUE,
     borderWidth = 0,
     padding = 4,
-    split = TRUE,
-    crosshairs = TRUE
+    crosshairs = TRUE,
+    dateTimeLabelFormats = list(
+      hour = "%A, %b %e, %l%P",
+      minute = "%A, %b %e, %l%P",
+      millisecond = "%A, %b %e, %l%P"
+    )
   ) |>
   hc_yAxis(
     gridLineColor = "#D9D9D9",
@@ -147,12 +152,8 @@ fig <- highchart() |>
     text = paste("Source: Open-Meteo. Latest data:", now_formatted),
     href = "https://open-meteo.com"
   ) |>
-  hc_legend(enabled = FALSE) |>
-  hc_chart(
-    scrollablePlotArea = list(
-      minWidth = 700
-    )
-  )
+  hc_legend(enabled = FALSE)
+
 fig
 saveWidget(
   widget = fig,
