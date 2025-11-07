@@ -156,7 +156,7 @@ fig <- highchart() |>
 fig
 saveWidget(
   widget = fig,
-  file = "interactive/champaign_seasonal_forecasts.html",
+  file = "interactive/champaign_seasonal_forecast.html",
   selfcontained = FALSE,
   libdir = "interactive"
 )
@@ -178,7 +178,7 @@ webappicon: /weather.png
   now_html,
   "
 
-<iframe src=\"/interactive/champaign_seasonal_forecasts.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/champaign_seasonal_forecast.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 ",
