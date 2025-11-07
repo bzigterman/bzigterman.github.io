@@ -2225,7 +2225,7 @@ The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https:/
 
 The chart above is my attempt at recreating the classic [*New York Times* weather chart](https://www.nytimes.com/interactive/2016/02/18/upshot/the-times-classic-weather-chart-now-online-with-3000-cities.html), which was [highlighted by Ed Tufte](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g) in his book *The Visual Display of Quantitative Information*.
 
-## [Seasonal Forecast]({{ site.baseurl }}/projects/weather/seasonal)
+## [Seasonal Forecast »]({{ site.baseurl }}/projects/weather/seasonal)
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
@@ -2233,7 +2233,7 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
   <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
-## [Soil]({{ site.baseurl }}/projects/weather/soil)
+## [Soil »]({{ site.baseurl }}/projects/weather/soil)
 
 ",
   rain_map,

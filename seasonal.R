@@ -175,10 +175,6 @@ webappicon: /weather.png
 
 ### Seasonal Forecast for Champaign–Urbana
 
-",
-  now_html,
-  "
-
 <iframe src=\"/interactive/champaign_seasonal_forecast.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
