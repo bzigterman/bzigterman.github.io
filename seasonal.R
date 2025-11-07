@@ -166,7 +166,7 @@ saveWidget(
 cat(
   "---
 layout: page
-title: Seasonal Forecast Model
+title: Seasonal Forecast
 permalink: /projects/weather/seasonal
 imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
@@ -177,8 +177,6 @@ webappicon: /weather.png
 ",
   now_html,
   "
-
-## Temperature
 
 <iframe src=\"/interactive/champaign_seasonal_forecasts.html\" width=\"100%\" height=\"300\"> 
 </iframe>
