@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ### Seasonal Forecast for Champaign–Urbana
 
-<p class="updated_time"> Latest data: 10:26 AM CT, November 07</p>
+<p class="updated_time"> Latest data: 10:38 AM CT, November 07</p>
 
 ## Temperature
 
