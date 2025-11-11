@@ -36,7 +36,7 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&daily=snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
+  "&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
 )
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble(om$hourly) |>
@@ -47,71 +47,111 @@ om_temp_hourly <- as_tibble(om$hourly) |>
     value = temperature_2m
   )
 
-om_precip_daily <- as_tibble(om$daily) |>
+om_daily <- as_tibble(om$daily) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
+  mutate(date = as_date(datetime)) |>
+  mutate(month_day = format(date, "%m-%d")) |>
   filter(time > now(tzone = "America/Chicago")) |>
-  select(datetime, time, rain_sum, snowfall_sum) |>
+  select(
+    datetime,
+    date,
+    month_day,
+    time,
+    rain_sum,
+    snowfall_sum,
+    temperature_2m_max,
+    temperature_2m_min
+  ) |>
   rename(
     rain = rain_sum,
-    snow = snowfall_sum
+    snow = snowfall_sum,
+    forecast_max = temperature_2m_max,
+    forecast_min = temperature_2m_min
   )
 
+## normals ----
+normals <- read_csv("data/normals.csv") |>
+  mutate(month_day = date) |>
+  filter(date != "02-29") %>%
+  mutate(
+    date = ymd(paste0(year(today(tzone = "America/Chicago")), "-", date))
+  ) %>%
+  select(month_day, date, min, max) %>%
+  mutate(Normal_min = min) %>%
+  mutate(Normal_max = max) %>%
+  select(date, month_day, Normal_min, Normal_max)
+
+# normals and forecast temps ----
+om_daily_normals <- om_daily %>%
+  left_join(normals, by = "month_day") %>%
+  select(
+    date.x,
+    forecast_max,
+    forecast_min,
+    Normal_min,
+    Normal_max
+  ) |>
+  clean_names() |>
+  rename(date = date_x) |>
+  pivot_longer(
+    !c(date),
+    names_to = c("type", "min_max"),
+    names_sep = "_"
+  ) %>%
+  pivot_wider(names_from = min_max, values_from = value) %>%
+  select(date, type, max, min)
+om_daily_normals$type <- factor(
+  om_daily_normals$type,
+  level = c("normal", "forecast")
+)
 ## interactive ----
-offset <- 60 * (hour(now(tzone = "America/Chicago")) - hour(now(tzone = "UTC")))
+offset <- 60 *
+  (hour(now(tzone = "America/Chicago")) - hour(now(tzone = "UTC")))
 global <- getOption("highcharter.global")
 global$useUTC <- FALSE
 global$timezoneOffset <- offset
 options(highcharter.global = global)
 
+
 fig <- highchart() |>
   hc_add_series(
-    data = om_temp_hourly,
+    data = om_daily_normals,
     animation = FALSE,
-    name = "Temperature",
-    type = "line",
-    zones = list(
-      c(value = 0, color = "#F8D4FC"),
-      c(value = 5, color = "#E5A4EB"),
-      c(value = 10, color = "#D392DD"),
-      c(value = 15, color = "#C07ECC"),
-      c(value = 20, color = "#9D63C2"),
-      c(value = 25, color = "#794DB4"),
-      c(value = 30, color = "#5B4FA6"),
-      c(value = 32, color = "#527DC7"),
-      c(value = 40, color = "#65C1DE"),
-      c(value = 45, color = "#6EDAE0"),
-      c(value = 50, color = "#6EDBA2"),
-      c(value = 55, color = "#69C954"),
-      c(value = 60, color = "#93D452"),
-      c(value = 65, color = "#E3E65B"),
-      c(value = 70, color = "#FFFF61"),
-      c(value = 75, color = "#F8D456"),
-      c(value = 80, color = "#ED9749"),
-      c(value = 85, color = "#DC6641"),
-      c(value = 90, color = "#CA593E"),
-      c(value = 95, color = "#B6493B"),
-      c(value = 200, color = "#A44139")
+    type = "arearange",
+    hcaes(x = date, low = round(min), high = round(max), group = type),
+    step = "center",
+    states = list(
+      hover = list(
+        enabled = FALSE
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
     ),
-    label = list(
-      enabled = TRUE
+    marker = list(
+      radius = 1
     ),
-    color = "black",
-    marker = list(enabled = FALSE),
-    connectNulls = TRUE,
-    tooltip = list(valueSuffix = "°", valueDecimals = 0),
-    hcaes(x = time * 1000, y = value)
+    lineWidth = 0,
+    fillOpacity = .8,
+    tooltip = list(valueSuffix = "°")
   ) |>
-  hc_tooltip(
-    shared = TRUE,
-    split = TRUE,
-    borderWidth = 0,
-    padding = 4,
-    crosshairs = TRUE,
+  hc_xAxis(
+    type = "datetime",
+    gridLineColor = "#D9D9D9",
+    gridLineWidth = .5,
+    lineWidth = 0,
+    opposite = TRUE,
     dateTimeLabelFormats = list(
-      hour = "%A, %b %e, %l%P",
-      minute = "%A, %b %e, %l%P",
-      millisecond = "%A, %b %e, %l%P"
+      day = "%A"
     )
+  ) |>
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: Open-Meteo. Latest data:", now_formatted),
+    href = "https://open-meteo.com"
   ) |>
   hc_yAxis(
     gridLineColor = "#D9D9D9",
@@ -123,7 +163,7 @@ fig <- highchart() |>
     plotLines = list(
       list(
         label = list(text = "32°"),
-        color = "#527DC7",
+        color = "gray",
         width = 1,
         zIndex = 1,
         value = 32
@@ -132,29 +172,22 @@ fig <- highchart() |>
     endOnTick = FALSE,
     startOnTick = FALSE
   ) |>
-  hc_xAxis(
-    type = "datetime",
-    gridLineColor = "#D9D9D9",
-    gridLineWidth = .5,
-    lineWidth = 0,
-    opposite = TRUE,
+  hc_tooltip(
+    shared = TRUE,
+    split = FALSE,
+    borderWidth = 0,
+    padding = 4,
+    crosshairs = TRUE,
     dateTimeLabelFormats = list(
-      day = "%A"
-    ),
-    min = 1000 * min(om_temp_hourly$time),
-    max = 1000 * max(om_temp_hourly$time)
+      hour = "%A, %b %e",
+      minute = "%A, %b %e, %l%P",
+      millisecond = "%A, %b %e, %l%P"
+    )
   ) |>
-  hc_add_theme(
-    hc_theme_bloom()
-  ) |>
-  hc_credits(
-    enabled = TRUE,
-    text = paste("Source: Open-Meteo. Latest data:", now_formatted),
-    href = "https://open-meteo.com"
-  ) |>
-  hc_legend(enabled = FALSE)
-
+  hc_legend(enabled = FALSE) %>%
+  hc_colors(c("lightgray", "brown"))
 fig
+
 saveWidget(
   widget = fig,
   file = "interactive/champaign_seasonal_forecast.html",
