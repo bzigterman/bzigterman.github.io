@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:51 AM CT, November 29</p>
+<p class="updated_time"> Latest data: 10:05 AM CT, November 29</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,13 +17,13 @@ Currently:
 
 - 28°
 - Light Snow and Breezy
-- 92% humidity
+- 91% humidity
 - 16 mph wind
-- 100% cloud cover
-- 31 AQI 🟩
+- 85% cloud cover
+- 32 AQI 🟩
 About 0.2 inches of snow on the ground
-- 0.04 inches of rain and 0.63 inches of snow in the past 24 hours
-- 3.91 inches of snow and 0.28 inches of rain expected in the next 48 hours
+- 0.06 inches of rain and 0.91 inches of snow in the past 24 hours
+- 3.64 inches of snow and 0.26 inches of rain expected in the next 48 hours
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
