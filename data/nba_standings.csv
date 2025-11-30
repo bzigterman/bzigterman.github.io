@@ -14,7 +14,7 @@ Eastern,CHA,5,14,.263,1,1
 Eastern,BKN,3,15,.167,1,1
 Eastern,IND,3,16,.158,1,1
 Eastern,WSH,2,16,.111,1,1
-Western,OKC,19,1,.950,49,41
+Western,OKC,19,1,.950,52,41
 Western,LAL,14,4,.778,12,9
 Western,HOU,12,4,.750,12,8
 Western,DEN,13,5,.722,17,13
@@ -25,7 +25,7 @@ Western,GSW,10,10,.500,7,5
 Western,POR,8,11,.421,1,1
 Western,MEM,8,12,.400,1,1
 Western,UTA,6,12,.333,1,1
-Western,LAC,5,14,.263,3,1
+Western,LAC,5,14,.263,3,2
 Western,DAL,5,15,.250,2,1
 Western,SAC,5,15,.250,1,1
 Western,NOP,3,16,.158,1,1
