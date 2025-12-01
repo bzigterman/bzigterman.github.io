@@ -103,7 +103,7 @@ om_hourly <- as_tibble(om$hourly) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
   mutate(rain = if_else(rain == 0, NA, rain)) |>
   mutate(snowfall = if_else(snowfall == 0, NA, snowfall)) |>
-  mutate(snow_depth = if_else(snow_depth <= 0, NA, snow_depth)) |>
+  mutate(snow_depth = if_else(snow_depth <= 0, NA, 12 * snow_depth)) |>
   mutate(
     snow_depth = if_else(
       datetime < now(tzone = "America/Chicago") + days(2),
@@ -407,7 +407,7 @@ fig <- highchart() |>
     label = list(
       enabled = TRUE
     ),
-    hcaes(x = time * 1000, y = snow_depth * 12),
+    hcaes(x = time * 1000, y = snow_depth),
     yAxis = 2
   ) |>
   hc_add_series(
@@ -1015,7 +1015,7 @@ champaign_snow_depth <- round(champaign_snow_depth_helper$snow_depth, 1)
 champaign_snow_depth_text <- if_else(
   is.na(champaign_snow_depth),
   "",
-  paste0("About ", champaign_snow_depth, " inches of snow on the ground\n")
+  paste0("- About ", champaign_snow_depth, " inches of snow on the ground\n")
 )
 
 # save temp data ----
