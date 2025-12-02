@@ -4,7 +4,7 @@ Eastern,NYK,13,6,.684,19,6
 Eastern,MIA,14,7,.667,8,2
 Eastern,TOR,14,7,.667,4,1
 Eastern,ORL,13,8,.619,13,3
-Eastern,ATL,13,9,.591,6,1
+Eastern,ATL,13,9,.591,6,2
 Eastern,CLE,13,9,.591,24,8
 Eastern,BOS,11,9,.550,7,2
 Eastern,PHI,10,9,.526,7,2
@@ -14,9 +14,9 @@ Eastern,CHA,6,15,.286,1,1
 Eastern,BKN,4,16,.200,1,1
 Eastern,IND,4,17,.190,1,1
 Eastern,WSH,3,16,.158,1,1
-Western,OKC,20,1,.952,51,39
-Western,LAL,15,5,.750,8,8
-Western,HOU,13,5,.722,11,7
+Western,OKC,20,1,.952,51,38
+Western,LAL,15,5,.750,8,7
+Western,HOU,13,5,.722,11,8
 Western,DEN,14,6,.700,17,13
 Western,SAS,13,6,.684,5,5
 Western,MIN,12,8,.600,6,3
