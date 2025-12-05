@@ -8,18 +8,18 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 07:34 AM CT, December 05</p>
+<p class="updated_time"> Latest data: 07:48 AM CT, December 05</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 3°
+- 4°
 - Partly Cloudy
-- 83% humidity
+- 85% humidity
 - 4 mph wind
-- 53% cloud cover
+- 55% cloud cover
 - 57 AQI 🟨
 - About 10.2 inches of snow on the ground
 - 0.6 inches of snow and 0.04 inches of rain expected in the next 48 hours
