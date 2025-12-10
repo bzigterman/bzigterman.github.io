@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    // color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      //color: $blue;
     }
   }
 }
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    // color: $gray;
     font-size: 18px;
     // font-style: italic;
   }
@@ -288,13 +288,13 @@ footer {
 .updated_time {
 	font-family: menlo,consolas,monospace;
 	text-align: center;
-	color: #bdbdbd;
+	// color: #bdbdbd;
 	font-size:70%
 	}
 
 .pub_time {
 	font-family: menlo,consolas,monospace;
-	color: #717171;
+	// color: #717171;
 	font-size:70%
 	}
 
@@ -312,7 +312,7 @@ summary {
 .breadcrumbs {
     text-align: left;
 	font-family: menlo,consolas,monospace;
-	color: #bdbdbd;
+	// color: #bdbdbd;
 	font-size:70%
 	}
 

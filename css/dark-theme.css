@@ -7,7 +7,7 @@ body {
 /* Dark theme styles */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #808080;
+        background-color: darkgray;
         color: white;
     }
 }
