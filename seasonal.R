@@ -135,14 +135,6 @@ normals <- read_csv("data/normals.csv") |>
 normals_and_om_monthly <- right_join(normals, om_monthly, by = "date")
 
 ## interactive ----
-offset <- 60 *
-  (hour(now(tzone = "America/Chicago")) - hour(now(tzone = "UTC")))
-global <- getOption("highcharter.global")
-global$useUTC <- FALSE
-global$timezoneOffset <- offset
-options(highcharter.global = global)
-
-
 fig <- highchart() |>
   hc_add_series(
     data = normals_and_om_monthly,
