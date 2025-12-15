@@ -36,7 +36,7 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
+  "&monthly=temperature_2m_mean,temperature_max24h_2m_mean,temperature_min24h_2m_mean,precipitation_mean&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
 )
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble(om$hourly) |>
@@ -68,6 +68,34 @@ om_daily <- as_tibble(om$daily) |>
     forecast_max = temperature_2m_max,
     forecast_min = temperature_2m_min
   )
+om_monthly <- as_tibble(om$monthly) |>
+  mutate(datetime = as_datetime(time)) |>
+  mutate(date = as_date(datetime)) |>
+  # filter(time > now(tzone = "America/Chicago")) |>
+  # make date the first day of the month
+  mutate(date = make_date(year = year(date), month = month(date), day = 1)) |>
+  select(
+    #datetime,
+    date,
+    #month_day,
+    temperature_max24h_2m_mean,
+    temperature_min24h_2m_mean,
+    precipitation_mean
+  ) |>
+  rename(
+    forecast_max = temperature_max24h_2m_mean,
+    forecast_min = temperature_min24h_2m_mean,
+    monthly_avg_precip = precipitation_mean
+  ) |>
+  # make a row for each day of the month
+  uncount(weights = days_in_month(date)) |>
+  # add days to date
+  group_by(date) |>
+  mutate(day = row_number()) |>
+  ungroup() |>
+  mutate(date = date + days(day - 1)) |>
+  select(-day) |>
+  arrange(date)
 
 ## normals ----
 normals <- read_csv("data/normals.csv") |>
@@ -79,31 +107,33 @@ normals <- read_csv("data/normals.csv") |>
   select(month_day, date, min, max) %>%
   mutate(Normal_min = min) %>%
   mutate(Normal_max = max) %>%
-  select(date, month_day, Normal_min, Normal_max)
-
-# normals and forecast temps ----
-om_daily_normals <- om_daily %>%
-  left_join(normals, by = "month_day") %>%
-  select(
-    date.x,
-    forecast_max,
-    forecast_min,
-    Normal_min,
-    Normal_max
+  select(date, month_day, Normal_min, Normal_max) |>
+  # change the date to next year if the date has already passed this year, unless the month is this month
+  mutate(
+    date = if_else(
+      date < today(tzone = "America/Chicago") &
+        month(date) != month(today(tzone = "America/Chicago")),
+      date + years(1),
+      date
+    )
   ) |>
-  clean_names() |>
-  rename(date = date_x) |>
-  pivot_longer(
-    !c(date),
-    names_to = c("type", "min_max"),
-    names_sep = "_"
-  ) %>%
-  pivot_wider(names_from = min_max, values_from = value) %>%
-  select(date, type, max, min)
-om_daily_normals$type <- factor(
-  om_daily_normals$type,
-  level = c("normal", "forecast")
-)
+  # just the next six months
+  filter(
+    date <=
+      ymd(paste0(
+        year(today(tzone = "America/Chicago")),
+        "-",
+        month(today(tzone = "America/Chicago")),
+        "-",
+        1
+      )) +
+        months(6)
+  ) |>
+  # arrange by date
+  arrange(date)
+
+normals_and_om_monthly <- right_join(normals, om_monthly, by = "date")
+
 ## interactive ----
 offset <- 60 *
   (hour(now(tzone = "America/Chicago")) - hour(now(tzone = "UTC")))
@@ -115,10 +145,15 @@ options(highcharter.global = global)
 
 fig <- highchart() |>
   hc_add_series(
-    data = om_daily_normals,
+    data = normals_and_om_monthly,
     animation = FALSE,
+    name = "Normal",
     type = "arearange",
-    hcaes(x = date, low = round(min), high = round(max), group = type),
+    hcaes(
+      x = date,
+      low = round(Normal_min),
+      high = round(Normal_max)
+    ),
     step = "center",
     states = list(
       hover = list(
@@ -133,6 +168,51 @@ fig <- highchart() |>
     ),
     lineWidth = 0,
     fillOpacity = .8,
+    tooltip = list(valueSuffix = "°")
+  ) |>
+  # line chart with the monthly average highs and lows
+  hc_add_series(
+    data = normals_and_om_monthly,
+    name = "Monthly Forecast Avg. High",
+    animation = FALSE,
+    type = "line",
+    step = "center",
+    hcaes(x = date, y = round(forecast_max)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = 2,
+    tooltip = list(valueSuffix = "°")
+  ) |>
+  hc_add_series(
+    data = normals_and_om_monthly,
+    animation = FALSE,
+    name = "Monthly Forecast Avg. Low",
+    type = "line",
+    step = "center",
+    hcaes(x = date, y = round(forecast_min)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = 2,
     tooltip = list(valueSuffix = "°")
   ) |>
   hc_xAxis(
@@ -174,7 +254,7 @@ fig <- highchart() |>
   ) |>
   hc_tooltip(
     shared = TRUE,
-    split = FALSE,
+    split = TRUE,
     borderWidth = 0,
     padding = 4,
     crosshairs = TRUE,
@@ -185,7 +265,7 @@ fig <- highchart() |>
     )
   ) |>
   hc_legend(enabled = FALSE) %>%
-  hc_colors(c("lightgray", "brown"))
+  hc_colors(c("lightgray", "brown", "purple"))
 fig
 
 saveWidget(
