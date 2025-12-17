@@ -8,7 +8,7 @@ Eastern,PHI,14,11,.560,7,2
 Eastern,ATL,15,12,.556,5,2
 Eastern,CLE,15,12,.556,17,4
 Eastern,MIA,14,12,.538,5,1
-Eastern,MIL,11,16,.407,1,1
+Eastern,MIL,11,16,.407,2,1
 Eastern,CHI,10,15,.400,2,1
 Eastern,CHA,8,18,.308,1,1
 Eastern,BKN,7,18,.280,1,1
@@ -17,8 +17,8 @@ Eastern,WSH,4,20,.167,1,1
 Western,OKC,24,2,.923,58,45
 Western,DEN,19,6,.760,16,12
 Western,LAL,18,7,.720,9,6
-Western,HOU,16,7,.696,9,8
-Western,SAS,18,8,.692,7,6
+Western,HOU,16,7,.696,10,8
+Western,SAS,18,8,.692,7,7
 Western,MIN,17,9,.654,5,3
 Western,PHX,14,12,.538,1,1
 Western,GSW,13,14,.481,4,2
