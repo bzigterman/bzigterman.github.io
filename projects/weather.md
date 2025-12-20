@@ -8,18 +8,18 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 11:51 AM CT, December 20</p>
+<p class="updated_time"> Latest data: 12:07 PM CT, December 20</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
 Currently:
 
-- 43°
-- Breezy and Mostly Cloudy
-- 69% humidity
+- 44°
+- Partly Cloudy
+- 74% humidity
 - 14 mph wind
-- 69% cloud cover
+- 39% cloud cover
 - 25 AQI 🟩
 
 
@@ -53,10 +53,5 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 <p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
-## Winter Storm Severity Index
-
-![](https://www.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
-
-<p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
 
 
