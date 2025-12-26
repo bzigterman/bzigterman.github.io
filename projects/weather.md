@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:46 PM CT, December 26</p>
+<p class="updated_time"> Latest data: 12:58 PM CT, December 26</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,7 +17,7 @@ Currently:
 
 - 56°
 - Breezy and Overcast
-- 89% humidity
+- 92% humidity
 - 13 mph wind
 - 100% cloud cover
 - 39 AQI 🟩
