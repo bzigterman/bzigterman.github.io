@@ -36,6 +36,7 @@ url <- paste0(
 
 status <- GET(url)$status_code
 if (status != 200) {
+  bracket_table_html <- "<p>Playoff bracket not available.</p>"
   cat("Failed to retrieve the webpage. Status code:", as.numeric(status))
 } else {
   page <- read_html(url)
@@ -171,8 +172,13 @@ if (status != 200) {
     gt_tbl,
     inline_css = TRUE
   )
+}
+# ployoff odds ----
+latest <- most_recent_mlb_season()
 
-  # ployoff odds ----
+if (latest != year_long) {
+  cat("Standings have not changed; no updates made.")
+} else {
   get_market_prices <- function(ticker) {
     ticker <- ticker
     url <- paste0(
