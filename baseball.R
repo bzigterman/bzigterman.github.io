@@ -32,6 +32,10 @@ url <- paste0(
 )
 
 # Read the HTML content
+status <- GET(url)$status_code
+if (status != 200) {
+  stop("Failed to retrieve the webpage. Status code: ", status)
+}
 page <- read_html(url)
 
 bracket_h2 <- html_node(
