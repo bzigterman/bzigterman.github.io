@@ -1414,8 +1414,8 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 
 ",
-    better_wild_card_standings_table_html,
-    "
+      better_wild_card_standings_table_html,
+      "
 
 ## Wild Card
 
@@ -1425,8 +1425,8 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 ",
-    better_division_standings_table_html,
-    "
+      better_division_standings_table_html,
+      "
 
 
 
@@ -1453,8 +1453,9 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 <p class=\"updated_time\">Source: <a href=\"https://www.baseball-reference.com\">Baseball Reference</a> and <a href=\"https://kalshi.com\">Kalshi</a>.</p> 
 
 ",
-    sep = ""
-  )
+      sep = ""
+    )
 
-  write_lines(web_text, "projects/baseball.md")
+    write_lines(web_text, "projects/baseball.md")
+  }
 }
