@@ -1,12 +1,12 @@
 conference,team_label,wins,losses,win_pct_text,post,finals
-Eastern,DET,33,11,.750,23,7
-Eastern,BOS,28,17,.622,24,7
+Eastern,DET,33,11,.750,24,7
+Eastern,BOS,28,17,.622,25,8
 Eastern,NYK,28,18,.609,21,6
 Eastern,TOR,29,19,.604,4,1
-Eastern,CLE,27,20,.574,13,3
-Eastern,PHI,24,20,.545,8,3
+Eastern,CLE,27,20,.574,14,2
+Eastern,PHI,24,20,.545,7,3
 Eastern,MIA,25,22,.532,3,1
-Eastern,ORL,23,21,.523,7,2
+Eastern,ORL,23,21,.523,7,1
 Eastern,CHI,23,22,.511,1,1
 Eastern,ATL,22,25,.468,2,1
 Eastern,MIL,18,26,.409,1,1
@@ -14,7 +14,7 @@ Eastern,CHA,18,28,.391,1,1
 Eastern,BKN,12,32,.273,1,1
 Eastern,IND,11,35,.239,1,1
 Eastern,WSH,10,34,.227,1,1
-Western,OKC,37,10,.787,53,44
+Western,OKC,37,10,.787,53,42
 Western,DEN,31,15,.674,18,13
 Western,SAS,31,16,.660,12,8
 Western,HOU,27,16,.628,7,6
@@ -23,7 +23,7 @@ Western,MIN,27,19,.587,5,4
 Western,PHX,27,19,.587,3,1
 Western,GSW,26,21,.553,2,1
 Western,POR,23,23,.500,1,1
-Western,LAC,21,24,.467,3,3
+Western,LAC,21,24,.467,3,2
 Western,MEM,18,25,.419,1,1
 Western,DAL,19,27,.413,2,1
 Western,UTA,15,31,.326,1,1
