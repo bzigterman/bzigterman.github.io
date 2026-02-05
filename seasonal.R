@@ -212,6 +212,18 @@ fig <- highchart() |>
     gridLineColor = "#D9D9D9",
     gridLineWidth = .5,
     lineWidth = 0,
+    plotLines = list(
+      list(
+        label = list(text = "Today"),
+        color = "#595959",
+        width = 1,
+        zIndex = 1,
+        value = as.numeric(as_datetime(
+          today(tzone = "America/Chicago")
+        )) *
+          1000
+      )
+    ),
     opposite = TRUE,
     dateTimeLabelFormats = list(
       day = "%A"
