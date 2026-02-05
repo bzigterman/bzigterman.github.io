@@ -3,7 +3,7 @@ name: seasonal
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2,14 * * *'
   push:
     paths:
       - 'seasonal.R'
