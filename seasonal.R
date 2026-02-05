@@ -36,7 +36,7 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&monthly=temperature_2m_mean,temperature_max24h_2m_mean,temperature_min24h_2m_mean,precipitation_mean&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
+  "&monthly=temperature_2m_mean,temperature_max24h_2m_mean,temperature_min24h_2m_mean,precipitation_mean&weekly=temperature_max6h_2m_mean,temperature_min6h_2m_mean&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
 )
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble(om$hourly) |>
@@ -68,6 +68,31 @@ om_daily <- as_tibble(om$daily) |>
     forecast_max = temperature_2m_max,
     forecast_min = temperature_2m_min
   )
+om_weekly <- as_tibble(om$weekly) |>
+  mutate(datetime = as_datetime(time)) |>
+  mutate(date = as_date(datetime)) |>
+  # filter(time > now(tzone = "America/Chicago")) |>
+  select(
+    datetime,
+    date,
+    temperature_max6h_2m_mean,
+    temperature_min6h_2m_mean
+  ) |>
+  rename(
+    forecast_max = temperature_max6h_2m_mean,
+    forecast_min = temperature_min6h_2m_mean
+  ) |>
+  # extend data for entire week
+  uncount(weights = 7) |>
+  # add days to date
+  group_by(date) |>
+  mutate(day = row_number()) |>
+  ungroup() |>
+  mutate(date = date + days(day - 1)) |>
+  select(-day) |>
+  arrange(date)
+
+
 om_monthly <- as_tibble(om$monthly) |>
   mutate(datetime = as_datetime(time)) |>
   mutate(date = as_date(datetime)) |>
@@ -207,6 +232,49 @@ fig <- highchart() |>
     lineWidth = 2,
     tooltip = list(valueSuffix = "°")
   ) |>
+  # add lines for weekly highs and lows
+  hc_add_series(
+    data = om_weekly,
+    animation = FALSE,
+    name = "Weekly Forecast Avg. High",
+    type = "line",
+    hcaes(x = date, y = round(forecast_max)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = 2,
+    tooltip = list(valueSuffix = "°")
+  ) |>
+  hc_add_series(
+    data = om_weekly,
+    animation = FALSE,
+    name = "Weekly Forecast Avg. Low",
+    type = "line",
+    hcaes(x = date, y = round(forecast_min)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = 2,
+    tooltip = list(valueSuffix = "°")
+  ) |>
   hc_xAxis(
     type = "datetime",
     gridLineColor = "#D9D9D9",
@@ -269,7 +337,13 @@ fig <- highchart() |>
     )
   ) |>
   hc_legend(enabled = FALSE) %>%
-  hc_colors(c("lightgray", "brown", "purple"))
+  hc_colors(c(
+    "lightgray",
+    "brown",
+    "purple",
+    "brown",
+    "purple",
+  ))
 fig
 
 saveWidget(
