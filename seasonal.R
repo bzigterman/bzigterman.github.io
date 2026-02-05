@@ -342,7 +342,7 @@ fig <- highchart() |>
     "brown",
     "purple",
     "brown",
-    "purple",
+    "purple"
   ))
 fig
 
