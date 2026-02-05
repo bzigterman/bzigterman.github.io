@@ -251,7 +251,7 @@ fig <- highchart() |>
     marker = list(
       radius = 0
     ),
-    lineWidth = 2,
+    lineWidth = 1,
     tooltip = list(valueSuffix = "°")
   ) |>
   hc_add_series(
@@ -272,7 +272,7 @@ fig <- highchart() |>
     marker = list(
       radius = 0
     ),
-    lineWidth = 2,
+    lineWidth = 1,
     tooltip = list(valueSuffix = "°")
   ) |>
   hc_xAxis(
@@ -341,8 +341,8 @@ fig <- highchart() |>
     "lightgray",
     "brown",
     "purple",
-    "brown",
-    "purple"
+    "darkred",
+    "darkblue"
   ))
 fig
 
