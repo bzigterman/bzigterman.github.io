@@ -36,38 +36,10 @@ om_url <- paste0(
   champaign_lat,
   "&longitude=",
   champaign_lon,
-  "&monthly=temperature_2m_mean,temperature_max24h_2m_mean,temperature_min24h_2m_mean,precipitation_mean&weekly=temperature_max6h_2m_mean,temperature_min6h_2m_mean&daily=temperature_2m_max,temperature_2m_min,snowfall_sum,rain_sum&hourly=temperature_2m&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
+  "&monthly=temperature_2m_mean,temperature_max24h_2m_mean,temperature_min24h_2m_mean,precipitation_mean&weekly=temperature_max6h_2m_mean,temperature_min6h_2m_mean&timeformat=unixtime&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch"
 )
 om <- rio::import(om_url, format = "json")
-om_temp_hourly <- as_tibble(om$hourly) |>
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
-  filter(time > now(tzone = "America/Chicago")) |>
-  select(datetime, temperature_2m, time) |>
-  rename(
-    value = temperature_2m
-  )
 
-om_daily <- as_tibble(om$daily) |>
-  mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
-  mutate(date = as_date(datetime)) |>
-  mutate(month_day = format(date, "%m-%d")) |>
-  filter(time > now(tzone = "America/Chicago")) |>
-  select(
-    datetime,
-    date,
-    month_day,
-    time,
-    rain_sum,
-    snowfall_sum,
-    temperature_2m_max,
-    temperature_2m_min
-  ) |>
-  rename(
-    rain = rain_sum,
-    snow = snowfall_sum,
-    forecast_max = temperature_2m_max,
-    forecast_min = temperature_2m_min
-  )
 om_weekly <- as_tibble(om$weekly) |>
   mutate(datetime = as_datetime(time)) |>
   mutate(date = as_date(datetime)) |>
@@ -91,7 +63,6 @@ om_weekly <- as_tibble(om$weekly) |>
   mutate(date = date + days(day - 1)) |>
   select(-day) |>
   arrange(date)
-
 
 om_monthly <- as_tibble(om$monthly) |>
   mutate(datetime = as_datetime(time)) |>
@@ -121,6 +92,31 @@ om_monthly <- as_tibble(om$monthly) |>
   mutate(date = date + days(day - 1)) |>
   select(-day) |>
   arrange(date)
+
+om_daily_url <- paste0(
+  "https://api.open-meteo.com/v1/forecast?latitude=",
+  champaign_lat,
+  "&longitude=",
+  champaign_lon,
+  "&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FChicago&past_days=0&forecast_days=16&temperature_unit=fahrenheit"
+)
+om <- rio::import(om_daily_url, format = "json")
+om_daily <- as_tibble(om$daily) |>
+  mutate(datetime = as_datetime(time)) |>
+  mutate(date = as_date(datetime)) |>
+  #filter(time > now(tzone = "America/Chicago")) |>
+  select(
+    datetime,
+    date,
+    temperature_2m_max,
+    temperature_2m_min
+  ) |>
+  rename(
+    forecast_max = temperature_2m_max,
+    forecast_min = temperature_2m_min
+  ) |>
+  arrange(date)
+
 
 ## normals ----
 normals <- read_csv("data/normals.csv") |>
@@ -275,6 +271,48 @@ fig <- highchart() |>
     lineWidth = 1,
     tooltip = list(valueSuffix = "°")
   ) |>
+  hc_add_series(
+    data = om_daily,
+    animation = FALSE,
+    name = "Daily Forecast High",
+    type = "line",
+    hcaes(x = date, y = round(forecast_max)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = .5,
+    tooltip = list(valueSuffix = "°")
+  ) |>
+  hc_add_series(
+    data = om_daily,
+    animation = FALSE,
+    name = "Daily Forecast Low",
+    type = "line",
+    hcaes(x = date, y = round(forecast_min)),
+    states = list(
+      hover = list(
+        enabled = TRUE,
+        lineWidth = 2
+      ),
+      inactive = list(
+        enabled = FALSE
+      )
+    ),
+    marker = list(
+      radius = 0
+    ),
+    lineWidth = .5,
+    tooltip = list(valueSuffix = "°")
+  ) |>
   hc_xAxis(
     type = "datetime",
     gridLineColor = "#D9D9D9",
@@ -341,6 +379,8 @@ fig <- highchart() |>
     "lightgray",
     "brown",
     "purple",
+    "darkred",
+    "darkblue",
     "darkred",
     "darkblue"
   ))
