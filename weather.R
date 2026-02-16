@@ -139,6 +139,50 @@ om_air_quality_now <- om_air_quality |>
   filter(datetime <= now(tzone = "America/Chicago")) |>
   tail(1)
 
+## get the daily high and low temps and compare today's to yesterday's and tomorrow's
+om_url <- paste0(
+  "https://api.open-meteo.com/v1/forecast?latitude=",
+  champaign_lat,
+  "&longitude=",
+  champaign_lon,
+  "&daily=temperature_2m_max,temperature_2m_min&temperature_unit=fahrenheit&past_days=3&forecast_days=3&timezone=America%2FChicago"
+)
+om <- rio::import(om_url, format = "json")
+om_daily_temps <- as_tibble(om$daily) |>
+  mutate(date = as_date(time)) |>
+  select(date, temperature_2m_max, temperature_2m_min) |>
+  rename(
+    forecast_max = temperature_2m_max,
+    forecast_min = temperature_2m_min
+  ) |>
+  arrange(date)
+yesterday_high <- om_daily_temps |>
+  filter(date == today(tzone = "America/Chicago") - days(1)) |>
+  pull(forecast_max)
+today_high <- om_daily_temps |>
+  filter(date == today(tzone = "America/Chicago")) |>
+  pull(forecast_max)
+tomorrow_high <- om_daily_temps |>
+  filter(date == today(tzone = "America/Chicago") + days(1)) |>
+  pull(forecast_max)
+
+## text comparing today's to yesterdays and tomorrow's with variables
+## saying today's high and how much degrees warmer or colder,
+## with the variables rounded to the nearest whole number
+temp_comparison <- paste0(
+  "Today's high is ",
+  round(today_high),
+  "°, which is ",
+  round(today_high - yesterday_high),
+  "° ",
+  if_else(today_high - yesterday_high > 0, "warmer", "colder"),
+  " than yesterday and ",
+  round(today_high - tomorrow_high),
+  "° ",
+  if_else(today_high - tomorrow_high > 0, "warmer", "colder"),
+  " than tomorrow."
+)
+
 ## rainfall total ----
 om_past24 <- om_hourly |>
   filter(time < now(tzone = "America/Chicago")) |>
@@ -2183,6 +2227,10 @@ webappicon: /weather.png
 
 <iframe src=\"/interactive/champaign_weather.html\" width=\"100%\" height=\"600\"> 
 </iframe>
+
+",
+  temp_comparison,
+  "
 
 Currently:
 
