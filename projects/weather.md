@@ -8,20 +8,20 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 11:17 AM CT, February 16</p>
+<p class="updated_time"> Latest data: 11:31 AM CT, February 16</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 58°, which is 0° warmer than yesterday and 8° warmer than tomorrow.
+Today's high is 58°, which is 1° warmer than yesterday and 9° warmer than tomorrow.
 
 Currently:
 
-- 52°
-- Clear
-- 84% humidity
-- 11 mph wind
-- 8% cloud cover
+- 53°
+- Partly Cloudy
+- 81% humidity
+- 12 mph wind
+- 38% cloud cover
 - 43 AQI 🟩
 
 
@@ -55,10 +55,5 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 <p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
-## Winter Storm Severity Index
-
-![](https://www.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
-
-<p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
 
 
