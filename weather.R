@@ -173,15 +173,16 @@ temp_comparison <- paste0(
   "Today's high is ",
   round(today_high),
   "°, which is ",
-  round(today_high - yesterday_high),
+  abs(round(today_high - yesterday_high)),
   "° ",
   if_else(today_high - yesterday_high > 0, "warmer", "colder"),
-  " than yesterday and ",
-  round(today_high - tomorrow_high),
+  " than yesterday. Tomorrow is expected to be ",
+  abs(round(today_high - tomorrow_high)),
   "° ",
-  if_else(today_high - tomorrow_high > 0, "warmer", "colder"),
-  " than tomorrow."
+  if_else(today_high - tomorrow_high < 0, "warmer", "colder"),
+  " than today."
 )
+temp_comparison
 
 ## rainfall total ----
 om_past24 <- om_hourly |>
