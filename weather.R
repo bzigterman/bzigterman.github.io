@@ -175,11 +175,11 @@ temp_comparison <- paste0(
   "°, which is ",
   abs(round(today_high - yesterday_high)),
   "° ",
-  if_else(today_high - yesterday_high > 0, "warmer", "colder"),
+  if_else(today_high - yesterday_high > 0, "**warmer**", "*colder*"),
   " than yesterday. Tomorrow is expected to be ",
   abs(round(today_high - tomorrow_high)),
   "° ",
-  if_else(today_high - tomorrow_high < 0, "warmer", "colder"),
+  if_else(today_high - tomorrow_high < 0, "**warmer**", "*colder*"),
   " than today."
 )
 temp_comparison
