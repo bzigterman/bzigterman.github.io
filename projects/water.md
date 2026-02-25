@@ -24,7 +24,7 @@ Elevation:
 Elevation:
 - 3,532 feet
 - 162 feet above the minimum level
-- 176 feet below the maximum level
+- 177 feet below the maximum level
 - down 32 feet from a year ago
 - down 63 feet from ten years ago
 
