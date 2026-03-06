@@ -175,8 +175,17 @@ if (status != 200) {
 }
 # ployoff odds ----
 latest <- most_recent_mlb_season()
+## check if there are games from the current season by counting the number of rows in bref_team_results
+season_started <- ifelse(
+  nrow(
+    bref_team_results("NYM", latest)
+  ) ==
+    0,
+  FALSE,
+  TRUE
+)
 
-if (latest != year_long) {
+if (latest != year_long || !season_started) {
   cat("Standings have not changed; no updates made.")
 } else {
   get_market_prices <- function(ticker) {
@@ -251,7 +260,9 @@ if (latest != year_long) {
           TRUE ~ abbreviation
         )
       ) |>
-      mutate(team_label = if_else(game_n == max(na.omit(game_n)), team, NA)) %>%
+      mutate(
+        team_label = if_else(game_n == max(na.omit(game_n)), team, NA)
+      ) %>%
       mutate(win = if_else(result == "W", 1, 0)) |>
       mutate(
         outcomes = list(
@@ -1055,7 +1066,10 @@ if (latest != year_long) {
         )
       )
 
-    mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic) |>
+    mlb_standings_magic <- full_join(
+      al_standings_magic,
+      nl_standings_magic
+    ) |>
       full_join(table)
 
     wild_card_table <- mlb_standings_magic %>%
