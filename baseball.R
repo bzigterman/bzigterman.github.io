@@ -203,7 +203,8 @@ if (latest != year_long || !season_started) {
     json <- fromJSON(content)
     markets <- json$markets
     prices <- markets |>
-      select(ticker, yes_sub_title, last_price) |>
+      select(ticker, yes_sub_title, last_price_dollars) |>
+      mutate(last_price = 100 * as.numeric(last_price_dollars)) |>
       mutate(team_label = substr(ticker, 10, nchar(ticker)))
   }
 
