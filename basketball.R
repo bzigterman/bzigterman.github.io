@@ -167,7 +167,10 @@ if (postseason_check) {
 # ployoff odds ----
 get_market_prices <- function(ticker) {
   ticker <- ticker
-  url <- paste0("https://api.elections.kalshi.com/trade-api/v2/events/", ticker)
+  url <- paste0(
+    "https://api.elections.kalshi.com/trade-api/v2/events/",
+    ticker
+  )
   response <- VERB(
     "GET",
     url,
@@ -178,7 +181,8 @@ get_market_prices <- function(ticker) {
   json <- fromJSON(content)
   markets <- json$markets
   prices <- markets |>
-    select(ticker, yes_sub_title, last_price) |>
+    select(ticker, yes_sub_title, last_price_dollars) |>
+    mutate(last_price = last_price_dollars) |>
     mutate(team_label = substr(ticker, nchar(ticker) - 2, nchar(ticker)))
 }
 
@@ -733,16 +737,10 @@ if (length(standings_the_same) > 0) {
       post,
       finals,
       conference_games_behind
-    )
-  nba_standings |>
-    select(
-      team_label,
-      wins,
-      losses,
-      win_pct_text,
-      conference_games_behind,
-      post,
-      finals
+    ) |>
+    mutate(
+      post = as.numeric(post) * 100,
+      finals = as.numeric(finals) * 100
     )
 
   nba_standings_table <- nba_standings %>%
