@@ -53,7 +53,9 @@ iwss_longer <- iwss |>
     rsv_avg
   ) |>
   pivot_longer(!Date) |>
-  filter(Date > today(tzone = "America/Chicago") - years(1)) |>
+  filter(
+    Date > today(tzone = "America/Chicago") - period(num = 18, units = "months")
+  ) |>
   mutate(contains_avg = str_detect(name, "avg")) |>
   mutate(contains_avg = if_else(contains_avg, "avg", "not_avg")) |>
   mutate(
@@ -103,7 +105,11 @@ p <- ggplot() +
   labs(caption = paste0("Latest data: ", latest_date_clean, ". Source: IWSS")) +
   xlab(NULL) +
   ylab("Gene copies per liter (moving avg.)") +
-  scale_x_date(expand = expansion(mult = c(.01, .05))) +
+  scale_x_date(
+    expand = expansion(mult = c(.01, .05)),
+    # label breaks as "Apr 2026" or "Jan 2025"
+    date_labels = "%b %Y"
+  ) +
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale()),
     expand = expansion(mult = c(0, .05))

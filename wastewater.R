@@ -191,7 +191,7 @@ fig <- hchart(
     buttons = list(
       list(type = 'month', count = 3, text = '3m'),
       list(type = 'month', count = 6, text = '6m'),
-      list(type = 'year', count = 1, text = '1y'),
+      list(type = 'month', count = 18, text = '18m'),
       #list(type = 'year', count = 2, text = '2y'),
       list(type = 'all', text = 'All')
     ),
