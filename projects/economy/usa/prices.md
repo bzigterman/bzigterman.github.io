@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/us_gas.html" width="100%" height="300"> 
 </iframe>
 
-![GasBuddy 3 Month Average Retail Price Chart](https://charts.gasbuddy.com/ch.gaschart?Country=USA&Crude=t&Period=3&Areas=USA%20Average%2CChampaign%2C&Unit=US%20%24%2FG)
+![GasBuddy 18 Month Average Retail Price Chart](https://charts.gasbuddy.com/ch.gaschart?Country=USA&Crude=t&Period=18&Areas=USA%20Average%2CChampaign%2C&Unit=US%20%24%2FG)
 
 <iframe src="/interactive/milk.html" width="100%" height="300"> 
 </iframe>
