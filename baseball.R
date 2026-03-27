@@ -35,7 +35,7 @@ url <- paste0(
 
 status <- GET(url)$status_code
 if (status != 200) {
-  bracket_table_html <- "<p>Playoff bracket not available.</p>"
+  bracket_table_html <- ""
   cat("Failed to retrieve the webpage. Status code:", as.numeric(status))
 } else {
   page <- read_html(url)
@@ -167,9 +167,12 @@ if (status != 200) {
 
   gt_tbl
 
-  bracket_table_html <- as_raw_html(
-    gt_tbl,
-    inline_css = TRUE
+  bracket_table_html <- paste0(
+    "<h3>Playoffs Bracket</h3>",
+    as_raw_html(
+      gt_tbl,
+      inline_css = TRUE
+    )
   )
 }
 # ployoff odds ----
@@ -1417,9 +1420,6 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ",
       now_html,
-      " 
-### Playoffs Bracket
-",
       bracket_table_html,
       "
 ### Games Above .500
