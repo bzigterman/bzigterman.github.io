@@ -827,7 +827,17 @@ saveWidget(
 )
 
 # nws snow forecast ----
-snow <- GET("https://www.weather.gov/source/ilx/winter/snow_prob.xml")
+
+snow <- RETRY(
+  "GET",
+  "https://www.weather.gov/source/ilx/winter/snow_prob.xml",
+  config = httr::config(http_version = 2, timeout = 30),
+  user_agent("github-actions-weather-script"),
+  times = 3,
+  pause_base = 2
+)
+
+stop_for_status(snow)
 content <- content(snow)
 list <- as_list(content)
 date <- ymd_hm(list$forecast$timestamp[[1]], tz = "UTC")
