@@ -219,11 +219,12 @@ if (latest != year_long || !season_started) {
     mutate(
       team_label = case_when(
         team_label == "A" ~ "ATH",
+        team_label == "AZ" ~ "ARI",
         team_label == "WAS" ~ "WSH",
         team_label == "TB" ~ "TB ",
         team_label == "SF" ~ "SF ",
         team_label == "SD" ~ "SD ",
-        team_label == "KAN" ~ "KC ",
+        team_label == "KC" ~ "KC ",
         team_label == "FLA" ~ "MIA",
         .default = team_label
       )
