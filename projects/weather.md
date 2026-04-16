@@ -8,23 +8,23 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:40 AM CT, April 16</p>
+<p class="updated_time"> Latest data: 01:26 AM CT, April 16</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 75°, which is 1° *colder* than yesterday. Tomorrow is expected to be 6° **warmer** than today.
+Today's high is 74°, which is 2° *colder* than yesterday. Tomorrow is expected to be 6° **warmer** than today.
 
 Currently:
 
-- 63°
-- Rain
-- 96% humidity
-- 6 mph wind
-- 100% cloud cover
-- 41 AQI 🟩
-- 0.23 inches of rain in the past 24 hours
-- 1.04 inches of rain expected in the next 48 hours
+- 62°
+- Light Rain and Breezy
+- 92% humidity
+- 11 mph wind
+- 97% cloud cover
+- 40 AQI 🟩
+- 0.93 inches of rain in the past 24 hours
+- 0.24 inches of rain expected in the next 48 hours
 
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
@@ -57,10 +57,5 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 <p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
-## Winter Storm Severity Index
-
-![](https://www.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
-
-<p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
 
 
