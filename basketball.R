@@ -26,7 +26,7 @@ year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
 ## postseason check ----
 postseason_games <-
   load_nba_team_box(seasons = year_long) |>
-  filter(season_type == 3)
+  filter(season_type == 5)
 
 postseason_games_rows = nrow(postseason_games)
 
