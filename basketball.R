@@ -661,8 +661,14 @@ if (length(standings_the_same) > 0) {
       layout = "vertical"
     ) %>%
     hc_title(text = "Eastern") %>%
-    hc_yAxis(title = "", endOnTick = FALSE, startOnTick = FALSE) %>%
+    hc_yAxis(
+      title = "",
+      endOnTick = FALSE,
+      startOnTick = FALSE,
+      gridLineColor = "#B2BEB5"
+    ) %>%
     hc_xAxis(title = "", max = 82) %>%
+    hc_chart(backgroundColor = "#899499") |>
     hc_add_theme(
       hc_theme_bloom()
     )
@@ -690,8 +696,14 @@ if (length(standings_the_same) > 0) {
       layout = "vertical"
     ) %>%
     hc_title(text = "Western") %>%
-    hc_yAxis(title = "", endOnTick = FALSE, startOnTick = FALSE) %>%
+    hc_yAxis(
+      title = "",
+      endOnTick = FALSE,
+      startOnTick = FALSE,
+      gridLineColor = "#B2BEB5"
+    ) %>%
     hc_xAxis(title = "", max = 82) %>%
+    hc_chart(backgroundColor = "#899499") |>
     hc_add_theme(
       hc_theme_bloom()
     )
