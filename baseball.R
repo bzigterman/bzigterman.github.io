@@ -1350,6 +1350,7 @@ if (latest != year_long || !season_started) {
       hc_title(text = "AL") %>%
       hc_yAxis(title = "", endOnTick = FALSE, startOnTick = FALSE) %>%
       hc_xAxis(title = "", max = 162) %>%
+      hc_chart(backgroundColor = "#899499") |>
       hc_add_theme(
         hc_theme_bloom()
       )
@@ -1384,6 +1385,7 @@ if (latest != year_long || !season_started) {
       hc_title(text = "NL") %>%
       hc_yAxis(title = "", endOnTick = FALSE, startOnTick = FALSE) %>%
       hc_xAxis(title = "", max = 162) %>%
+      hc_chart(backgroundColor = "#899499") |>
       hc_add_theme(
         hc_theme_bloom()
       )
