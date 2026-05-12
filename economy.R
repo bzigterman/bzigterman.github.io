@@ -14,6 +14,7 @@ library(httr)
 library(jsonlite)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
+nchar(Sys.getenv("FRED_API_KEY"))
 
 recent_year <- ymd((today() - years(1)))
 recent_years <- ymd((today() - years(5)))
