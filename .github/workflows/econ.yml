@@ -3,7 +3,7 @@ name: autoecon
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '3 */2 * * *'
   push:
     paths:
       - 'economy.R'

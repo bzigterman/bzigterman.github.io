@@ -20,6 +20,15 @@ recent_years <- ymd((today() - years(5)))
 less_recent_years <- ymd((today() - years(6)))
 past_ten_years <- ymd((today() - years(11)))
 
+# Wrap the original function to always include a 2-second nap
+original_fredr <- fredr::fredr
+fredr <- function(...) {
+  res <- original_fredr(...)
+  Sys.sleep(2)
+  return(res)
+}
+
+
 # usa ----
 
 ## initial unemployment claims ----
