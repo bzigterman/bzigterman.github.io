@@ -8,6 +8,16 @@ Here's some of my best work:
 
 ## Law360
 
+### 2026
+
+* May 6: [Cannabist Ch. 15 Tests Bankruptcy Access For Pot Cos.](https://www.law360.com/bankruptcy-authority/articles/2474439?)
+* April 2: [Bankruptcy Judge Defends Simultaneous Case Mediator Role](https://www.law360.com/bankruptcy-authority/articles/2460657?)
+
+### 2025
+
+* August 27: [Broadway Producer's Ch. 11 Plan Tests Purdue Ruling Limits](https://www.law360.com/bankruptcy-authority/articles/2381644?)
+* July 21: [Brazilian Telecom Oi Considers Novel Ch. 15-To-Ch. 11 Shift](https://www.law360.com/bankruptcy-authority/articles/2366884?)
+
 ### 2024
 
 * May 2: [Comcast Dispute Adds Wrinkle To Diamond Sports Ch. 11](https://www.law360.com/bankruptcy-authority/articles/1832973)
