@@ -33,6 +33,93 @@ today <- strftime(x = now, tz = "US/Central", format = "%B %d")
 
 # get data ----
 
+# plain text chart ----
+
+# 1. Fetch Urbana, IL Data (7-Day Forecast with Temps & Precipitation)
+lat <- champaign_lat
+lon <- champaign_lon
+url <- paste0(
+  "https://api.open-meteo.com/v1/forecast?",
+  "latitude=",
+  lat,
+  "&longitude=",
+  lon,
+  "&daily=temperature_2m_max,temperature_2m_min,precipitation_sum",
+  "&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=America%2FChicago"
+)
+
+response <- GET(url)
+weather_data <- fromJSON(content(response, "text", encoding = "UTF-8"))
+
+# Extract dates, highs, lows, and rain
+dates <- as.Date(weather_data$daily$time)
+highs <- round(weather_data$daily$temperature_2m_max)
+lows <- round(weather_data$daily$temperature_2m_min)
+precip <- weather_data$daily$precipitation_sum
+
+# Get the day names (e.g., "Wed", "Thu")
+day_names <- format(dates, "%a")
+
+# 2. Define Chart Dimensions
+scale_min <- min(lows) - 2
+scale_max <- max(highs) + 2
+total_width <- 25
+
+# 3. Generate the Text Bars
+lines <- c()
+
+for (i in 1:length(day_names)) {
+  # Calculate character positions for low and high temps
+  pos_low <- round(
+    ((lows[i] - scale_min) / (scale_max - scale_min)) * total_width
+  )
+  pos_high <- round(
+    ((highs[i] - scale_min) / (scale_max - scale_min)) * total_width
+  )
+
+  pos_low <- max(0, min(total_width, pos_low))
+  pos_high <- max(0, min(total_width, pos_high))
+
+  # Build the bar pieces
+  left_padding <- paste(rep(" ", pos_low), collapse = "")
+  bar_length <- max(0, pos_high - pos_low)
+  bar <- paste(rep("-", bar_length), collapse = "")
+
+  # Pad the strings to ensure columns align perfectly
+  # %5.2f\" formats to 5 total characters: 2 before decimal, the dot, 2 after (e.g., " 0.15\"")
+  precip_str <- sprintf("%5.2f\"", precip[i])
+  low_str <- sprintf("%2d", lows[i])
+  high_str <- sprintf("%2d", highs[i])
+
+  # Assemble the line with precipitation right after the day
+  line <- paste0(
+    "**",
+    day_names[i],
+    ":** ",
+    precip_str,
+    "  ",
+    left_padding,
+    low_str,
+    " ",
+    bar,
+    " ",
+    high_str
+  )
+  lines <- c(lines, line)
+}
+
+# 4. Output the Markdown block wrapped in noscript tags
+markdown_output <- paste0(
+  "<noscript>\n\n",
+  "### Urbana, IL 7-Day Outlook\n\n",
+  "```text\n",
+  paste(lines, collapse = "\n"),
+  "\n```\n\n",
+  "</noscript>"
+)
+
+cat(markdown_output)
+
 # pirate api ----
 Sys.getenv("PIRATE_WEATHER")
 
@@ -2268,7 +2355,9 @@ Currently:
   "",
   champaign_precip_forecast,
   "
-
+",
+  markdown_output,
+  "
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
 
 ## [Compare Forecast Models »]({{ site.baseurl }}/projects/weather/forecasts)
