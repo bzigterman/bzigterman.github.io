@@ -111,13 +111,13 @@ for (i in 1:length(day_names)) {
 # Flatten the lines using a standard newline character
 raw_text_block <- paste(lines, collapse = "\n")
 
-# Wrap completely in native HTML for the noscript fallback
+# Wrap completely in native HTML with inline font forcing
 markdown_output <- paste0(
   "<noscript>\n",
   "<h3>7-Day Outlook</h3>\n",
-  "<pre>\n",
+  "<pre><code style=\"font-family: monospace;\">\n",
   raw_text_block,
-  "\n</pre>\n",
+  "\n</code></pre>\n",
   "</noscript>"
 )
 
