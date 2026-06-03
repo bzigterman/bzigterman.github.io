@@ -93,9 +93,9 @@ for (i in 1:length(day_names)) {
 
   # Assemble the line with precipitation right after the day
   line <- paste0(
-    "**",
+    "",
     day_names[i],
-    ":** ",
+    ": ",
     precip_str,
     "  ",
     left_padding,
@@ -108,13 +108,16 @@ for (i in 1:length(day_names)) {
   lines <- c(lines, line)
 }
 
-# 4. Output the Markdown block wrapped in noscript tags
+# Flatten the lines using a standard newline character
+raw_text_block <- paste(lines, collapse = "\n")
+
+# Wrap completely in native HTML for the noscript fallback
 markdown_output <- paste0(
-  "<noscript>\n\n",
-  "### Urbana, IL 7-Day Outlook\n\n",
-  "```text\n",
-  paste(lines, collapse = "\n"),
-  "\n```\n\n",
+  "<noscript>\n",
+  "<h3>7-Day Outlook</h3>\n",
+  "<pre>\n",
+  raw_text_block,
+  "\n</pre>\n",
   "</noscript>"
 )
 
