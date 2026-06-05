@@ -10,7 +10,7 @@ permalink: /projects/candidates
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Robert F. Kennedy Jr.   Apr 2023            ------------------- Oct 2023
 Marianne Williamson     Mar 2023         ---------------------------------- Feb 2024
@@ -22,7 +22,7 @@ Kamala Harris           Jul 2024                                                
                                     | 2023                              | 2024                         
 
 
-#### Republicans
+Republicans
 
 Francis Suarez          Jun 2023                   -------- Aug 2023
 Will Hurd               Jun 2023                    ----------- Oct 2023
@@ -50,7 +50,7 @@ Donald Trump            Nov 2022   ---------------------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Richard Ojeda         Nov 2018   -- Jan 2019
 Eric Swalwell         Apr 2019            --------- Jul 2019
@@ -84,7 +84,7 @@ Joe Biden             Apr 2019              ------------------------------------
                                   | 2019                              | 2020                         
 
 
-#### Republicans
+Republicans
 
 Mark Sanford          Sep 2019                            ------ Nov 2019
 Joe Walsh             Aug 2019                          ----------------- Feb 2020
@@ -101,7 +101,7 @@ Donald Trump          Jun 2019                   -------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Jim Webb          Jul 2015                     ----------- Oct 2015
 Lincoln Chafee    Jun 2015                  -------------- Oct 2015
@@ -112,7 +112,7 @@ Hillary Clinton   Apr 2015             -----------------------------------------
                               | 2015                              | 2016                         
 
 
-#### Republicans
+Republicans
 
 Rick Perry        Jun 2015                  ---------- Sep 2015
 Scott Walker      Jul 2015                      ------- Sep 2015
@@ -142,13 +142,13 @@ Donald Trump      Jun 2015                   -----------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Barack Obama        Apr 2011            ---------------------------------------------------------- Nov 2012
                                 | 2011                              | 2012                         
 
 
-#### Republicans
+Republicans
 
 Tim Pawlenty        May 2011                 -------- Aug 2011
 Thaddeus McCotter   Jul 2011                     -------- Sep 2011
@@ -174,7 +174,7 @@ Mitt Romney         Jun 2011                  ----------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Tom Vilsack       Nov 2006   ----- Feb 2007
 Joe Biden         Jan 2007      --------------------------------- Jan 2008
@@ -188,7 +188,7 @@ Barack Obama      Feb 2007       -----------------------------------------------
                               | 2007                              | 2008                         
 
 
-#### Republicans
+Republicans
 
 Jim Gilmore       Apr 2007              -------- Jul 2007
 Sam Brownback     Jan 2007    ---------------------------- Oct 2007
@@ -212,7 +212,7 @@ John McCain       Feb 2007        ----------------------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Carol Moseley Braun   Sep 2003                             ----------- Jan 2004
 Dick Gephardt         Feb 2003       ---------------------------------- Jan 2004
@@ -226,7 +226,7 @@ John Kerry            Sep 2003                           -----------------------
                                   | 2003                              | 2004                         
 
 
-#### Republicans
+Republicans
 
 George W. Bush        May 2003                ------------------------------------------------------ Nov 2004
                                   | 2003                              | 2004                         
@@ -240,14 +240,14 @@ George W. Bush        May 2003                ----------------------------------
 </iframe>
 <noscript>
   <pre><code style="font-family: monospace; font-size: 0.75em;">
-#### Democrats
+Democrats
 
 Bill Bradley      Jan 1999    ------------------------------------------ Mar 2000
 Al Gore           Jun 1999                   --------------------------------------------------- Nov 2000
                               | 1999                              | 2000                         
 
 
-#### Republicans
+Republicans
 
 Bob Smith         Feb 1999       --------------- Jul 1999
 John Kasich       Feb 1999       --------------- Jul 1999
