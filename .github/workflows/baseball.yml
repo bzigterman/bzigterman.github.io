@@ -22,8 +22,11 @@ jobs:
         id: cache-r-packages
         uses: actions/cache@v5
         with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-${{ hashFiles('install-packages.R') }}-1
+          # Hardcoded to the exact macOS user library location for R
+          path: ~/Library/R
+          key: ${{ runner.os }}-r-${{ hashFiles('install-packages.R') }}-1
+          restore-keys: |
+            ${{ runner.os }}-r-
           
       - name: Install packages
         if: steps.cache-r-packages.outputs.cache-hit != 'true'        
