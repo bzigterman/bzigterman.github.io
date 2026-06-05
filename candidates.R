@@ -1231,66 +1231,154 @@ saveWidget(
   libdir = "interactive"
 )
 
+# plain text ----
 
-# make web text ----
-web_text <- paste(
-  "---
+# A function to return a plain-text chart string for a given year
+generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
+  # 1. Filter for the specific year
+  df_year <- candidate_df %>%
+    filter(year == TARGET_YEAR) %>%
+    mutate(
+      start = as.Date(start),
+      end = as.Date(end)
+    )
+
+  if (nrow(df_year) == 0) return("")
+
+  # 2. Timeline Boundaries & Configuration
+  timeline_start <- as.Date(paste0(TARGET_YEAR - 1, "-01-01"))
+  timeline_end <- as.Date(paste0(TARGET_YEAR, "-11-05"))
+  days_per_char <- 10
+
+  date_to_pos <- function(date) {
+    as.numeric(date - timeline_start) %/% days_per_char
+  }
+
+  # Global name padding length across both parties for perfect vertical alignment
+  global_max_name_len <- max(nchar(df_year$candidate)) + 2
+
+  # Helper to generate a single party's text block
+  build_party_block <- function(party_name) {
+    party_df <- df_year %>%
+      filter(party == party_name) %>%
+      arrange(end) # Chronological dropout sorting
+
+    if (nrow(party_df) == 0) return(NULL)
+
+    lines <- c(paste0("#### ", party_name, " Candidates\n"))
+
+    for (i in 1:nrow(party_df)) {
+      name <- party_df$candidate[i]
+      s_dt <- party_df$start[i]
+      e_dt <- party_df$end[i]
+
+      s_dt_padded <- str_pad(format(s_dt, "%b %Y"), width = 9, side = "right")
+      e_dt_formatted <- format(e_dt, "%b %Y")
+
+      calc_start <- max(timeline_start, s_dt)
+      calc_end <- min(timeline_end, e_dt)
+
+      start_pos <- date_to_pos(calc_start)
+      end_pos <- date_to_pos(calc_end)
+      bar_len <- max(1, end_pos - start_pos)
+
+      name_padded <- str_pad(name, width = global_max_name_len, side = "right")
+      leading_spaces <- str_dup(" ", start_pos)
+      timeline_bar <- str_dup("-", bar_len)
+
+      line_str <- paste0(
+        name_padded,
+        " ",
+        s_dt_padded,
+        "  ",
+        leading_spaces,
+        timeline_bar,
+        " ",
+        e_dt_formatted
+      )
+      lines <- c(lines, line_str)
+    }
+
+    # Add time markers below the data
+    total_width <- date_to_pos(timeline_end)
+    mid_point <- date_to_pos(as.Date(paste0(TARGET_YEAR, "-01-01")))
+    label_year_prior <- paste0("| ", TARGET_YEAR - 1)
+    label_year_elect <- paste0("| ", TARGET_YEAR)
+
+    axis_labels <- paste0(
+      str_pad(label_year_prior, width = mid_point, side = "right"),
+      str_pad(label_year_elect, width = total_width - mid_point, side = "right")
+    )
+
+    axis_padding <- str_dup(" ", global_max_name_len + 13)
+    lines <- c(lines, paste0(axis_padding, axis_labels), "\n")
+
+    return(paste(lines, collapse = "\n"))
+  }
+
+  dem_block <- build_party_block("Democrat")
+  rep_block <- build_party_block("Republican")
+
+  full_text_chart <- paste(compact(list(dem_block, rep_block)), collapse = "\n")
+
+  # Wrap the entire text chart in a noscript block with a monospace code layout
+  noscript_wrapper <- paste0(
+    "<noscript>\n",
+    "  <pre style=\"font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;\"><code>\n",
+    full_text_chart,
+    "  </code></pre>\n",
+    "</noscript>"
+  )
+
+  return(noscript_wrapper)
+}
+
+# Load your master dataset once
+raw_candidates_data <- read_csv("data/presidential_candidates.csv")
+
+# Define the years you track
+election_years <- c(2024, 2020, 2016, 2012, 2008, 2004, 2000)
+
+
+# Build the front matter header block ----
+front_matter <- "---
 layout: page
 title: Presidential Candidates
 permalink: /projects/candidates
 ---
 
-# 2024
+"
 
-<iframe src=\"/interactive/2024candidates.html\" width=\"100%\" height=\"",
-  candidate_2024_count,
-  "\"> 
-</iframe>
+# Generate sections dynamically for each year
+sections <- map_chr(election_years, function(yr) {
+  # Calculate dynamic pixel heights for the javascript frames based on record count
+  candidate_count <- raw_candidates_data %>%
+    filter(year == yr) %>%
+    filter(party == "Democrat" | party == "Republican") %>%
+    nrow()
+  frame_height <- paste0(max(200, candidate_count * 18 + 20))
 
-# 2020
+  # Call our universal function to generate the fallback text block
+  plain_text_fallback <- generate_noscript_chart(yr, raw_candidates_data)
 
-<iframe src=\"/interactive/2020candidates.html\" width=\"100%\" height=\"",
-  candidate_2020_count,
-  "\"> 
-</iframe>
+  # Return the fully compiled year block
+  paste0(
+    "# ",
+    yr,
+    "\n\n",
+    '<iframe src="/interactive/',
+    yr,
+    'candidates.html" width="100%" height="',
+    frame_height,
+    '"> 
+</iframe>\n',
+    plain_text_fallback,
+    "\n\n"
+  )
+})
 
-# 2016
+# Combine everything together cleanly
+web_text <- paste0(front_matter, paste(sections, collapse = ""))
 
-<iframe src=\"/interactive/2016candidates.html\" width=\"100%\" height=\"",
-  candidate_2016_count,
-  "\"> 
-</iframe>
-
-# 2012
-
-<iframe src=\"/interactive/2012candidates.html\" width=\"100%\" height=\"",
-  candidate_2012_count,
-  "\"> 
-</iframe>
-
-# 2008
-
-<iframe src=\"/interactive/2008candidates.html\" width=\"100%\" height=\"",
-  candidate_2008_count,
-  "\"> 
-</iframe>
-
-# 2004
-
-<iframe src=\"/interactive/2004candidates.html\" width=\"100%\" height=\"",
-  candidate_2004_count,
-  "\"> 
-</iframe>
-
-# 2000
-
-<iframe src=\"/interactive/2000candidates.html\" width=\"100%\" height=\"",
-  candidate_2000_count,
-  "\"> 
-</iframe>
-
-",
-  sep = ""
-)
-
+# Write the fresh output file
 write_lines(web_text, "projects/candidates.md")
