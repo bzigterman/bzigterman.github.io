@@ -115,7 +115,7 @@ raw_text_block <- paste(lines, collapse = "\n")
 markdown_output <- paste0(
   "<noscript>\n",
   "<h3>7-Day Outlook</h3>\n",
-  "<pre><code style=\"font-family: monospace;\">", # Removed \n here
+  "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
   raw_text_block,
   "</code></pre>\n", # Removed \n here
   "</noscript>"
