@@ -1265,7 +1265,7 @@ generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
 
     if (nrow(party_df) == 0) return(NULL)
 
-    lines <- c(paste0("#### ", party_name, " Candidates\n"))
+    lines <- c(paste0("#### ", party_name, "s\n"))
 
     for (i in 1:nrow(party_df)) {
       name <- party_df$candidate[i]
