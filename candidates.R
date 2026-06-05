@@ -1324,7 +1324,7 @@ generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
   # Wrap the entire text chart in a noscript block with a monospace code layout
   noscript_wrapper <- paste0(
     "<noscript>\n",
-    "  <pre style=\"font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;\"><code>\n",
+    "  <pre><code style=\"font-family: monospace; font-size: 0.85em;\">\n",
     full_text_chart,
     "  </code></pre>\n",
     "</noscript>"
