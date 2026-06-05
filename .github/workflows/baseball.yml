@@ -23,7 +23,7 @@ jobs:
         uses: actions/cache@v5
         with:
           # Hardcoded to the exact macOS user library location for R
-          path: ~/Library/R
+          path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-r-${{ hashFiles('install-packages.R') }}-1
           restore-keys: |
             ${{ runner.os }}-r-
