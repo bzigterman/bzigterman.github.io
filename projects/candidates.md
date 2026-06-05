@@ -9,7 +9,7 @@ permalink: /projects/candidates
 <iframe src="/interactive/2024candidates.html" width="100%" height="416"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Robert F. Kennedy Jr.   Apr 2023            ------------------- Oct 2023
@@ -49,7 +49,7 @@ Donald Trump            Nov 2022   ---------------------------------------------
 <iframe src="/interactive/2020candidates.html" width="100%" height="614"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Richard Ojeda         Nov 2018   -- Jan 2019
@@ -100,7 +100,7 @@ Donald Trump          Jun 2019                   -------------------------------
 <iframe src="/interactive/2016candidates.html" width="100%" height="434"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Jim Webb          Jul 2015                     ----------- Oct 2015
@@ -141,7 +141,7 @@ Donald Trump      Jun 2015                   -----------------------------------
 <iframe src="/interactive/2012candidates.html" width="100%" height="272"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Barack Obama        Apr 2011            ---------------------------------------------------------- Nov 2012
@@ -173,7 +173,7 @@ Mitt Romney         Jun 2011                  ----------------------------------
 <iframe src="/interactive/2008candidates.html" width="100%" height="380"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Tom Vilsack       Nov 2006   ----- Feb 2007
@@ -211,7 +211,7 @@ John McCain       Feb 2007        ----------------------------------------------
 <iframe src="/interactive/2004candidates.html" width="100%" height="200"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Carol Moseley Braun   Sep 2003                             ----------- Jan 2004
@@ -239,7 +239,7 @@ George W. Bush        May 2003                ----------------------------------
 <iframe src="/interactive/2000candidates.html" width="100%" height="272"> 
 </iframe>
 <noscript>
-  <pre style="font-family: monospace; background: #fcfcfc; padding: 15px; border: 1px solid #ddd; overflow-x: auto;"><code>
+  <pre><code style="font-family: monospace; font-size: 0.85em;">
 #### Democrats
 
 Bill Bradley      Jan 1999    ------------------------------------------ Mar 2000
