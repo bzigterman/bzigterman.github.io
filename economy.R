@@ -93,12 +93,9 @@ ascii_text <- capture.output(
 ascii_text
 # Format a clean fallback snippet
 fallback_html <- c(
-  "<div class='chart-fallback'>",
-  "  <p><em>Note: JavaScript is disabled. Showing a text-based 5-year trend view.</em></p>",
   "  <pre style='font-family: monospace; line-height: 1.2; background: #f8f9fa; padding: 10px; border: 1px solid #ddd;'>",
   ascii_text,
-  "  </pre>",
-  "</div>"
+  "  </pre>"
 )
 
 ## unemployment rate ----
