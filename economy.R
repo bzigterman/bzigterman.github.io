@@ -93,9 +93,9 @@ ascii_text <- capture.output(
 ascii_text
 # Format a clean fallback snippet
 fallback_html <- c(
-  "  <pre style='font-family: monospace; line-height: 1.2; background: #f8f9fa; padding: 10px; border: 1px solid #ddd;'>",
+  "<pre style='font-family: monospace; line-height: 1.2; background: #f8f9fa; padding: 10px; border: 1px solid #ddd;'>",
   ascii_text,
-  "  </pre>"
+  "</pre>"
 )
 
 ## unemployment rate ----
@@ -1534,7 +1534,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 <noscript>
-    ",
+",
   paste(fallback_html, collapse = "\n"), # Combines the vector rows with clean line breaks
   "
 </noscript>
