@@ -1535,7 +1535,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 </iframe>
 <noscript>
     ",
-  fallback_html,
+  paste(fallback_html, collapse = "\n"), # Combines the vector rows with clean line breaks
   "
 </noscript>
 
