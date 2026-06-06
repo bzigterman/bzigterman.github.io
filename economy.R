@@ -23,26 +23,6 @@ recent_years <- ymd((today() - years(5)))
 less_recent_years <- ymd((today() - years(6)))
 past_ten_years <- ymd((today() - years(11)))
 
-# plain text test ----
-
-# 1. Fetch the data from FRED
-unrate_data <- fredr(
-  series_id = "UNRATE",
-  observation_start = as.Date("2021-04-01"),
-  observation_end = as.Date("2026-04-01")
-)
-
-# 2. Convert Date objects to numeric decimals (e.g., 2021.25)
-numeric_years <- decimal_date(unrate_data$date)
-
-# 3. Plot using the decimal years for a clean timeline axis
-plot <- txtplot(
-  x = numeric_years,
-  y = unrate_data$value,
-  width = 80,
-  height = 15
-)
-
 # Wrap the original function to always include a 2-second nap
 original_fredr <- fredr::fredr
 fredr <- function(...) {
