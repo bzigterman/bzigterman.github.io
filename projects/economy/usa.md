@@ -8,7 +8,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/initial_claims.html" width="100%" height="300"> 
 </iframe>
 <noscript>
-<pre style='font-family: monospace; line-height: 1.2; background: #f8f9fa; padding: 10px; border: 1px solid #ddd;'>
+<pre><code style='font-family: monospace;font-size: 0.75em;'>
+  <p>Initial Unemployment Claims</p>
 260000 +--+------------+------------+------------+------------+------------+---+
        |                    *                                                  |
        |                                                                       |
@@ -24,7 +25,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
        |                                                             *         |
        +--+------------+------------+------------+------------+------------+---+
        2025.4       2025.6       2025.8        2026        2026.2       2026.4  
-</pre>
+<p>Source: U.S. Census Bureau.</p>
+</code></pre>
 </noscript>
 
 <iframe src="/interactive/us_unemployment_rate.html" width="100%" height="300"> 
