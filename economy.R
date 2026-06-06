@@ -93,11 +93,11 @@ ascii_text <- capture.output(
 ascii_text
 # Format a clean fallback snippet
 fallback_html <- c(
-  "<pre><code style='font-family: monospace;font-size: 0.75em;'>
-  <p>Initial Unemployment Claims</p>",
+  "<p>Initial Unemployment Claims</p>
+<pre><code style='font-family: monospace;font-size: 0.75em;'>",
   ascii_text,
-  "<p>Source: U.S. Census Bureau.</p>
-</code></pre>"
+  "</code></pre>
+<p>Source: U.S. Census Bureau.</p>"
 )
 
 ## unemployment rate ----
