@@ -12,6 +12,8 @@ library(highcharter)
 library(htmlwidgets)
 library(httr)
 library(jsonlite)
+library(txtplot)
+
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 nchar(Sys.getenv("FRED_API_KEY"))
@@ -20,6 +22,26 @@ recent_year <- ymd((today() - years(1)))
 recent_years <- ymd((today() - years(5)))
 less_recent_years <- ymd((today() - years(6)))
 past_ten_years <- ymd((today() - years(11)))
+
+# plain text test ----
+
+# 1. Fetch the data from FRED
+unrate_data <- fredr(
+  series_id = "UNRATE",
+  observation_start = as.Date("2021-04-01"),
+  observation_end = as.Date("2026-04-01")
+)
+
+# 2. Convert Date objects to numeric decimals (e.g., 2021.25)
+numeric_years <- decimal_date(unrate_data$date)
+
+# 3. Plot using the decimal years for a clean timeline axis
+plot <- txtplot(
+  x = numeric_years,
+  y = unrate_data$value,
+  width = 80,
+  height = 15
+)
 
 # Wrap the original function to always include a 2-second nap
 original_fredr <- fredr::fredr
@@ -79,6 +101,27 @@ saveWidget(
   selfcontained = FALSE,
   libdir = "interactive"
 )
+
+# 3. Generate and Save the Plain Text Fallback
+# Filter data to the 5-year view matching your default chart zoom
+fallback_data <- data %>% filter(date >= (max(date) - years(1)))
+numeric_years <- decimal_date(fallback_data$date)
+
+ascii_text <- capture.output(
+  txtplot(x = numeric_years, y = fallback_data$value, width = 80, height = 15)
+)
+ascii_text
+# Format a clean fallback snippet
+fallback_html <- c(
+  "<div class='chart-fallback'>",
+  "  <p><em>Note: JavaScript is disabled. Showing a text-based 5-year trend view.</em></p>",
+  "  <pre style='font-family: monospace; line-height: 1.2; background: #f8f9fa; padding: 10px; border: 1px solid #ddd;'>",
+  ascii_text,
+  "  </pre>",
+  "</div>"
+)
+
+writeLines(fallback_html, "interactive/initial_claims_fallback.html")
 
 ## unemployment rate ----
 data <- fredr(series_id = "UNRATE")
@@ -1515,6 +1558,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 
 <iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
 </iframe>
+<noscript>
+    <iframe src=\"/interactive/initial_claims_fallback.html\" width=\"100%\" height=\"300\"></iframe>
+  </noscript>
 
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
