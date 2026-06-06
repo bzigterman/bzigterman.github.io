@@ -1537,7 +1537,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
     ",
   fallback_html,
   "
-  </noscript>
+</noscript>
 
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
