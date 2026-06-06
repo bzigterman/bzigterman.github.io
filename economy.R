@@ -101,8 +101,6 @@ fallback_html <- c(
   "</div>"
 )
 
-writeLines(fallback_html, "interactive/initial_claims_fallback.html")
-
 ## unemployment rate ----
 data <- fredr(series_id = "UNRATE")
 recent_data <- data %>%
@@ -1539,7 +1537,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 <noscript>
-    <iframe src=\"/interactive/initial_claims_fallback.html\" width=\"100%\" height=\"300\"></iframe>
+    ",
+  fallback_html,
+  "
   </noscript>
 
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
