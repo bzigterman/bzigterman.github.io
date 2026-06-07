@@ -8,34 +8,34 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 03:30 PM CT, June 07</p>
+<p class="updated_time"> Latest data: 03:58 PM CT, June 07</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 88°, which is 2° *colder* than yesterday. Tomorrow is expected to be 7° *colder* than today.
+Today's high is 89°, which is 1° *colder* than yesterday. Tomorrow is expected to be 7° *colder* than today.
 
 Currently:
 
-- 87°
-- Mostly Cloudy
-- 50% humidity
-- 8 mph wind
-- 75% cloud cover
+- 89°
+- Overcast
+- 51% humidity
+- 9 mph wind
+- 100% cloud cover
 - 39 AQI 🟩
-- 0.14 inches of rain expected in the next 48 hours
+- 0.18 inches of rain expected in the next 48 hours
 
 <p>Today's Temperature</p>
 <pre><code style='font-family: monospace;font-size: 0.75em;'>
-   +--+--------------+--------------+--------------+--------------+------------+
-   |                                               *  *  *  *  *               |
-85 +                                            *                              +
-   |                                      *  *                                 |
-   |                                *  *                                       |
-80 +                             *                                             +
-   |                                                              *            |
-   |                          *                                      *     *   |
-75 +                                                                    *      +
+90 +--+--------------+--------------+--------------+--------------+------------+
+   |                                               *  *  *  *                  |
+   |                                                           *               |
+85 +                                      *     *                 *            +
+   |                                *        *                                 |
+   |                                   *                             *         |
+80 +                             *                                      *      +
+   |                          *                                            *   |
+75 +                                                                           +
    |  *  *                 *                                                   |
    |        *  *                                                               |
 70 +              *  *  *                                                      +
@@ -45,8 +45,8 @@ Currently:
 </code></pre>
 <p>Source: Open-Meteo</p><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.06"           70 ------------- 88
-Mon:  0.10"             72 ------- 82
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"           70 -------------- 89
+Mon:  0.18"             72 ------- 82
 Tue:  0.16"             72 ------------ 89
 Wed:  0.02"             73 ------------- 90
 Thu:  1.19"           69 --------------- 90
