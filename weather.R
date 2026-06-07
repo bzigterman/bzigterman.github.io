@@ -11,6 +11,7 @@ library(highcharter)
 library(RColorBrewer)
 library(htmlwidgets)
 library(xml2)
+library(txtplot)
 
 champaign_lat <- 40.11
 champaign_lon <- -88.21
@@ -122,6 +123,62 @@ markdown_output <- paste0(
 )
 
 cat(markdown_output)
+
+# daily chart ----
+# Construct the Open-Meteo API URL
+url <- paste0(
+  "https://api.open-meteo.com/v1/forecast?",
+  "latitude=",
+  lat,
+  "&longitude=",
+  lon,
+  "&hourly=temperature_2m",
+  "&temperature_unit=fahrenheit", # Change to "celsius" if preferred
+  "&forecast_days=1",
+  "&timezone=America%2FChicago"
+)
+
+# Fetch and parse the weather data
+weather_data <- fromJSON(url)
+
+# Extract temperatures and hours
+temperatures <- weather_data$hourly$temperature_2m
+time_strings <- weather_data$hourly$time
+
+# Convert the ISO timestamps to just the hour (0 to 23)
+hours <- as.numeric(format(
+  as.POSIXct(time_strings, format = "%Y-%m-%dT%H:%M"),
+  "%H"
+))
+
+# Get the temperature unit for the title
+unit <- weather_data$hourly_units$temperature_2m
+
+# Display the chart
+cat(
+  "\n=== Urbana, IL Temperature Forecast Today (",
+  unit,
+  ") ===\n\n",
+  sep = ""
+)
+ascii_text <- capture.output(
+  txtplot(
+    x = hours,
+    y = temperatures,
+    width = 80,
+    height = 15,
+    xlab = "Hour of the Day"
+  )
+)
+ascii_text
+fallback_html <- c(
+  "<p>Today's Temperature</p>
+<pre><code style='font-family: monospace;font-size: 0.75em;'>",
+  ascii_text,
+  "</code></pre>
+<p>Source: Open-Meteo</p>"
+)
+
 
 # pirate api ----
 Sys.getenv("PIRATE_WEATHER")
@@ -2359,6 +2416,7 @@ Currently:
   champaign_precip_forecast,
   "
 ",
+  paste(fallback_html, collapse = "\n"), # Combines the vector rows with clean line breaks
   markdown_output,
   "
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
