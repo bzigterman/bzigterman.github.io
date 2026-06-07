@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:46 PM CT, June 07</p>
+<p class="updated_time"> Latest data: 01:08 PM CT, June 07</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -19,13 +19,31 @@ Currently:
 
 - 86°
 - Mostly Clear
-- 61% humidity
+- 60% humidity
 - 7 mph wind
-- 31% cloud cover
-- 37 AQI 🟩
+- 25% cloud cover
+- 38 AQI 🟩
 - 0.74 inches of rain expected in the next 48 hours
 
-<noscript>
+<p>Today's Temperature</p>
+<pre><code style='font-family: monospace;font-size: 0.75em;'>
+   +--+--------------+--------------+--------------+--------------+------------+
+   |                                         *  *  *  *  *                     |
+85 +                                      *                                    +
+   |                                *                          *               |
+   |                                   *                    *                  |
+80 +                             *                                             +
+   |                          *                                                |
+   |                                                              *            |
+75 +                                                                 *  *  *   +
+   |  *  *  *              *                                                   |
+   |           *                                                               |
+70 +              *  *  *                                                      +
+   +--+--------------+--------------+--------------+--------------+------------+
+      0              5             10             15             20             
+                                  Hour of the Day                               
+</code></pre>
+<p>Source: Open-Meteo</p><noscript>
 <h3>7-Day Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"           70 ------------ 87
 Mon:  0.05"            71 -------- 82
