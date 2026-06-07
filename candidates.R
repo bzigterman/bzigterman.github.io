@@ -1232,12 +1232,11 @@ saveWidget(
 )
 
 # plain text ----
-
-# A function to return a plain-text chart string for a given year
 generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
-  # 1. Filter for the specific year
+  # 1. Filter for the specific year and correct parties
   df_year <- candidate_df %>%
     filter(year == TARGET_YEAR) %>%
+    filter(party %in% c("Democrat", "Republican")) %>%
     mutate(
       start = as.Date(start),
       end = as.Date(end)
@@ -1247,59 +1246,114 @@ generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
 
   # 2. Timeline Boundaries & Configuration
   timeline_start <- as.Date(paste0(TARGET_YEAR - 1, "-01-01"))
-  timeline_end <- as.Date(paste0(TARGET_YEAR, "-11-05"))
-  days_per_char <- 10
+  timeline_end <- as.Date(paste0(TARGET_YEAR, "-11-08"))
+  days_per_char <- 15
 
   date_to_pos <- function(date) {
     as.numeric(date - timeline_start) %/% days_per_char
   }
 
-  # Global name padding length across both parties for perfect vertical alignment
-  global_max_name_len <- max(nchar(df_year$candidate)) + 2
+  # Format names to "F Lastname" while protecting suffixes
+  df_year <- df_year %>%
+    mutate(
+      short_name = case_when(
+        str_detect(candidate, "(?i) (Jr\\.?|Sr\\.?|I{2,3}|IV)$") ~
+          {
+            sub(
+              "^([^ ]).*? ([^ ]+ +(?:Jr\\.?|Sr\\.?|I{2,3}|IV))$",
+              "\\1 \\2",
+              candidate,
+              ignore.case = TRUE
+            )
+          },
+        TRUE ~ sub("^([^ ]).*? ([^ ]+)$", "\\1 \\2", candidate)
+      )
+    )
+
+  # Calculate maximum name width across the current data loop
+  max_name_len <- max(nchar(df_year$short_name))
+
+  # The strict global column index where the timeline tracking grid begins (Jan 1st baseline)
+  # Keeping 12 characters of room ensures "Nov 2022 <" fits comfortably in the left margin
+  grid_origin <- max_name_len + 12
 
   # Helper to generate a single party's text block
   build_party_block <- function(party_name) {
     party_df <- df_year %>%
       filter(party == party_name) %>%
-      arrange(end) # Chronological dropout sorting
+      arrange(end, start) # Strictly sorted chronologically by dropout date
 
     if (nrow(party_df) == 0) return(NULL)
 
     lines <- c(paste0(party_name, "s\n"))
 
     for (i in 1:nrow(party_df)) {
-      name <- party_df$candidate[i]
+      name_str <- party_df$short_name[i]
       s_dt <- party_df$start[i]
       e_dt <- party_df$end[i]
 
-      s_dt_padded <- str_pad(format(s_dt, "%b %Y"), width = 9, side = "right")
+      s_dt_formatted <- format(s_dt, "%b %Y")
       e_dt_formatted <- format(e_dt, "%b %Y")
 
-      calc_start <- max(timeline_start, s_dt)
-      calc_end <- min(timeline_end, e_dt)
+      started_early <- s_dt < timeline_start
 
-      start_pos <- date_to_pos(calc_start)
-      end_pos <- date_to_pos(calc_end)
-      bar_len <- max(1, end_pos - start_pos)
+      # Absolute timeline grid indexes (relative to grid_origin = 0)
+      grid_start <- date_to_pos(max(timeline_start, s_dt))
+      grid_end <- date_to_pos(min(timeline_end, e_dt))
 
-      name_padded <- str_pad(name, width = global_max_name_len, side = "right")
-      leading_spaces <- str_dup(" ", start_pos)
-      timeline_bar <- str_dup("-", bar_len)
+      if (grid_end <= grid_start) grid_end <- grid_start + 1
 
-      line_str <- paste0(
-        name_padded,
-        " ",
-        s_dt_padded,
-        "  ",
-        leading_spaces,
-        timeline_bar,
-        " ",
-        e_dt_formatted
-      )
+      # Print the flat, predictable name column
+      name_padded <- str_pad(name_str, width = max_name_len, side = "right")
+
+      if (started_early) {
+        # FIX: The carrot '<' belongs EXACTLY at grid_origin (Jan 1st)
+        label_text <- paste0(s_dt_formatted, " <")
+        label_width <- nchar(label_text)
+
+        # Calculate trailing spaces to slide the text left, anchoring the carrot to the grid edge
+        target_label_start_col <- grid_origin + grid_start - label_width + 1
+        spaces_to_label_start <- max(0, target_label_start_col - max_name_len)
+        leading_spaces <- str_dup(" ", spaces_to_label_start)
+
+        # Hyphens fill the entire span of the timeline grid flawlessly from 0 to grid_end
+        hyphen_count <- max(1, grid_end - grid_start - 1)
+        timeline_bar <- paste0(label_text, str_dup("-", hyphen_count))
+
+        line_str <- paste0(
+          name_padded,
+          leading_spaces,
+          timeline_bar,
+          " ",
+          e_dt_formatted
+        )
+      } else {
+        # Standard starts: "Name             Jan 2019 --------------"
+        label_text <- paste0(s_dt_formatted, " ")
+        label_width <- nchar(label_text)
+
+        # Calculate absolute gap spacing to push the text label to its target start column
+        target_label_start_col <- grid_origin + grid_start - label_width
+        spaces_to_label_start <- max(0, target_label_start_col - max_name_len)
+        leading_spaces <- str_dup(" ", spaces_to_label_start)
+
+        # The hyphens span precisely from the end of the text label to grid_end
+        hyphen_count <- max(1, grid_end - grid_start)
+        timeline_bar = paste0(label_text, str_dup("-", hyphen_count))
+
+        line_str <- paste0(
+          name_padded,
+          leading_spaces,
+          timeline_bar,
+          " ",
+          e_dt_formatted
+        )
+      }
+
       lines <- c(lines, line_str)
     }
 
-    # Add time markers below the data
+    # --- Align the Time Markers Perfectly ---
     total_width <- date_to_pos(timeline_end)
     mid_point <- date_to_pos(as.Date(paste0(TARGET_YEAR, "-01-01")))
     label_year_prior <- paste0("| ", TARGET_YEAR - 1)
@@ -1310,7 +1364,7 @@ generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
       str_pad(label_year_elect, width = total_width - mid_point, side = "right")
     )
 
-    axis_padding <- str_dup(" ", global_max_name_len + 13)
+    axis_padding <- str_dup(" ", grid_origin)
     lines <- c(lines, paste0(axis_padding, axis_labels), "\n")
 
     return(paste(lines, collapse = "\n"))
@@ -1332,7 +1386,6 @@ generate_noscript_chart <- function(TARGET_YEAR, candidate_df) {
 
   return(noscript_wrapper)
 }
-
 # Load your master dataset once
 raw_candidates_data <- read_csv("data/presidential_candidates.csv")
 
