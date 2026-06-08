@@ -171,14 +171,14 @@ ascii_text <- capture.output(
   )
 )
 ascii_text
-fallback_html <- c(
+ascii_text <- paste(ascii_text, collapse = "\n")
+fallback_html <- paste0(
   "<noscript>\n",
-  "<p>Today's Temperature</p>
-<pre><code style='font-family: monospace;font-size: 0.75em;'>",
+  "<p>Today's Temperature</p>\n",
+  "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
   ascii_text,
-  "</code></pre>
-<p>Source: Open-Meteo</p>\n",
-  "</noscript>",
+  "</code></pre>\n", # Removed \n here
+  "</noscript>"
 )
 
 
@@ -2418,7 +2418,7 @@ Currently:
   champaign_precip_forecast,
   "
 ",
-  paste(fallback_html, collapse = "\n"), # Combines the vector rows with clean line breaks
+  fallback_html,
   markdown_output,
   "
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
