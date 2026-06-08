@@ -172,11 +172,13 @@ ascii_text <- capture.output(
 )
 ascii_text
 fallback_html <- c(
+  "<noscript>\n",
   "<p>Today's Temperature</p>
 <pre><code style='font-family: monospace;font-size: 0.75em;'>",
   ascii_text,
   "</code></pre>
-<p>Source: Open-Meteo</p>"
+<p>Source: Open-Meteo</p>\n",
+  "</noscript>",
 )
 
 
