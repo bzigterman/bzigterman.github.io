@@ -8,7 +8,24 @@ permalink: /projects/water
 
 <iframe src="/interactive/lake_mead_water_level.html" width="100%" height="450"> 
 </iframe>
-
+<noscript>
+<p>Lake Powell Elevation</p>
+<pre><code style="font-family: monospace; font-size: 0.75em;">     +--------------+----------------+---------------+----------------+--------+
+     |  ****               **                                                  |
+1120 +   ***              *** **                                               +
+     |     ***** *        * ****                                               |
+     |      ** ****      **    ****                                            |
+1100 +            * **  **        *                   *                        +
+     |            ***** **        ** *      *  *  ** ***                       |
+1080 +                ***          **** ** ****** **** ****                    +
+     |                                ****** *  ***       *        **          |
+     |                                    *               ****   ******* **    |
+1060 +                                                       *   *  *******    +
+     |                                                       *  **     ** **   |
+1040 +                                                       ****              +
+     +--------------+----------------+---------------+----------------+--------+
+                  2010             2015            2020             2025        </code></pre>
+</noscript>
 Elevation:
 - 1,048 feet
 - 153 feet above the minimum level
@@ -20,7 +37,24 @@ Elevation:
 
 <iframe src="/interactive/lake_powell_water_level.html" width="100%" height="450"> 
 </iframe>
-
+<noscript>
+<p>Lake Powell Elevation</p>
+<pre><code style="font-family: monospace; font-size: 0.75em;">     +--------------+----------------+---------------+----------------+--------+
+     |                   **                                                    |
+3650 +            **  *  ***                                                   +
+     |         ** ****** * ***               **                                |
+     |         **** ** ***   **           *  ***    *                          |
+     |  *****  * **     **    *    ** ******** *** *****                       |
+3600 +   *******               *** **** ** **    * *  ***                      +
+     |        *                 ****  *          ***    **       *  **         |
+     |                            *               **     *       ******        |
+     |                                                   **     ** ** ***      |
+3550 +                                                    **    *       **     +
+     |                                                     **** *        **    |
+     |                                                      *****         **   |
+     +--------------+----------------+---------------+----------------+--------+
+                  2010             2015            2020             2025        </code></pre>
+</noscript>
 Elevation:
 - 3,528 feet
 - 158 feet above the minimum level
