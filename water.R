@@ -9,6 +9,7 @@ library(lubridate)
 library(rio)
 library(htmlwidgets)
 library(jsonlite)
+library(txtplot)
 
 # get data ----
 
@@ -248,6 +249,28 @@ saveWidget(
   selfcontained = FALSE,
   libdir = "interactive"
 )
+fallback_data <- mead_records %>% filter(date >= (max(date) - years(20)))
+numeric_years <- decimal_date(fallback_data$date)
+
+ascii_text <- capture.output(
+  txtplot(
+    x = numeric_years,
+    y = fallback_data$elevation,
+    width = 80,
+    height = 15
+  )
+)
+ascii_text
+# Format a clean fallback snippet
+ascii_text <- paste(ascii_text, collapse = "\n")
+mead_fallback_html <- paste0(
+  "<noscript>\n",
+  "<p>Lake Powell Elevation</p>\n",
+  "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
+  ascii_text,
+  "</code></pre>\n", # Removed \n here
+  "</noscript>"
+)
 
 ## powell ----
 fig <- highchart() |>
@@ -317,6 +340,28 @@ saveWidget(
   selfcontained = FALSE,
   libdir = "interactive"
 )
+fallback_data <- powell_records %>% filter(date >= (max(date) - years(20)))
+numeric_years <- decimal_date(fallback_data$date)
+
+ascii_text <- capture.output(
+  txtplot(
+    x = numeric_years,
+    y = fallback_data$elevation,
+    width = 80,
+    height = 15
+  )
+)
+ascii_text
+# Format a clean fallback snippet
+ascii_text <- paste(ascii_text, collapse = "\n")
+powell_fallback_html <- paste0(
+  "<noscript>\n",
+  "<p>Lake Powell Elevation</p>\n",
+  "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
+  ascii_text,
+  "</code></pre>\n", # Removed \n here
+  "</noscript>"
+)
 
 # text ----
 
@@ -331,7 +376,9 @@ permalink: /projects/water
 
 <iframe src=\"/interactive/lake_mead_water_level.html\" width=\"100%\" height=\"450\"> 
 </iframe>
-
+",
+  mead_fallback_html,
+  "
 Elevation:
 - ",
   latest_mead_text,
@@ -353,7 +400,9 @@ Elevation:
 
 <iframe src=\"/interactive/lake_powell_water_level.html\" width=\"100%\" height=\"450\"> 
 </iframe>
-
+",
+  powell_fallback_html,
+  "
 Elevation:
 - ",
   latest_powell_text,
