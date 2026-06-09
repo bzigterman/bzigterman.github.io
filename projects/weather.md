@@ -8,44 +8,44 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 05:55 PM CT, June 09</p>
+<p class="updated_time"> Latest data: 06:31 PM CT, June 09</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 88°, which is 11° **warmer** than yesterday. Tomorrow is expected to be 3° **warmer** than today.
+Today's high is 89°, which is 12° **warmer** than yesterday. Tomorrow is expected to be 2° **warmer** than today.
 
 Currently:
 
-- 79°
-- Hazy
-- 73% humidity
-- 8 mph wind
-- 57% cloud cover
-- 41 AQI 🟩
-- 0.02 inches of rain in the past 24 hours
-- 0.07 inches of rain expected in the next 48 hours
+- 83°
+- Mostly Clear
+- 81% humidity
+- 5 mph wind
+- 29% cloud cover
+- 43 AQI 🟩
+- 0.05 inches of rain in the past 24 hours
+- 0.03 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
+<pre><code style="font-family: monospace; font-size: 0.75em;">90 +--+--------------+--------------+--------------+--------------+------------+
    |                                               *  *  *                     |
-   |                                            *                              |
-85 +                                      *  *                                 +
+   |                                                                           |
+85 +                                      *  *  *                              +
    |                                   *                                       |
-   |                                *                          *               |
-80 +                                                        *     *            +
+   |                                                           *               |
+80 +                                *                       *     *            +
    |                             *                                             |
    |                          *                                      *         |
-75 +                                                                    *      +
-   |              *  *  *  *                                               *   |
+   |                                                                    *  *   |
+75 +              *  *  *  *                                                   +
    |  *  *  *  *                                                               |
    +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"                       72 ------------------ 88
+<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"                       72 ------------------- 89
 Wed:  0.00"                          74 ------------------- 91
 Thu:  0.03"                             77 --------------- 90
 Fri:  0.19"         59 ------------------- 76
