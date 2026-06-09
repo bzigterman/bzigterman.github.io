@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 10:12 PM CT, June 08</p>
+<p class="updated_time"> Latest data: 11:11 PM CT, June 08</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,13 +17,13 @@ Today's high is 77°, which is 11° *colder* than yesterday. Tomorrow is expecte
 
 Currently:
 
-- 73°
-- Drizzle
-- 95% humidity
+- 72°
+- Mostly Cloudy
+- 93% humidity
 - 11 mph wind
-- 81% cloud cover
-- 31 AQI 🟩
-- 2.47 inches of rain in the past 24 hours
+- 73% cloud cover
+- 30 AQI 🟩
+- 2.48 inches of rain in the past 24 hours
 - 0.16 inches of rain expected in the next 48 hours
 
 <noscript>
@@ -34,10 +34,10 @@ Currently:
 76 +                                                                           +
    |  *  *              *                                                      |
 74 +        *                    *  *                                          +
-   |           *  *  *     *                                                   |
-   |                          *                                   *     *      |
-72 +                                                     *     *     *         +
-   |                                                        *              *   |
+   |           *  *  *     *                                            *      |
+   |                          *                                   *  *         |
+72 +                                                     *     *           *   +
+   |                                                        *                  |
    |                                                  *                        |
 70 +                                            *  *                           +
    +--+--------------+--------------+--------------+--------------+------------+
@@ -45,8 +45,8 @@ Currently:
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Mon:  1.91"                  70 --------- 77
-Tue:  0.00"                  70 -------------------- 86
+<pre><code style="font-family: monospace; font-size: 0.75em;">Mon:  1.93"                  70 --------- 77
+Tue:  0.00"                    71 ----------------- 85
 Wed:  0.16"                       74 --------------------- 91
 Thu:  0.02"                      73 --------------------- 90
 Fri:  0.17"            65 ------------------- 80
