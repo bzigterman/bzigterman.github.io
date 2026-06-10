@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 07:13 PM CT, June 09</p>
+<p class="updated_time"> Latest data: 08:24 PM CT, June 09</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,24 +17,24 @@ Today's high is 89°, which is 12° **warmer** than yesterday. Tomorrow is expec
 
 Currently:
 
-- 83°
+- 79°
 - Mostly Clear
-- 75% humidity
+- 83% humidity
 - 4 mph wind
-- 34% cloud cover
+- 23% cloud cover
 - 44 AQI 🟩
-- 0.05 inches of rain in the past 24 hours
-- 0.17 inches of rain expected in the next 48 hours
+- 0.04 inches of rain in the past 24 hours
+- 0.2 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">90 +--+--------------+--------------+--------------+--------------+------------+
-   |                                               *  *  *                     |
+   |                                               *  *                        |
    |                                                                           |
 85 +                                      *  *  *                              +
    |                                   *                                       |
-   |                                                           *               |
-80 +                                *                       *     *            +
+   |                                                     *                     |
+80 +                                *                       *  *  *            +
    |                             *                                             |
    |                          *                                      *         |
    |                                                                    *  *   |
@@ -46,7 +46,7 @@ Currently:
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"                         72 ------------------ 89
-Wed:  0.00"                           74 ------------------ 91
+Wed:  0.00"                            75 ----------------- 91
 Thu:  0.31"                    67 ----------------------- 89
 Fri:  0.16"          58 -------------------- 77
 Sat:  0.00"              61 --------------------- 82
