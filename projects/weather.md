@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 10:10 AM CT, June 10</p>
+<p class="updated_time"> Latest data: 11:31 AM CT, June 10</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,14 +17,14 @@ Today's high is 91°, which is 2° **warmer** than yesterday. Tomorrow is expect
 
 Currently:
 
-- 84°
-- Breezy
-- 77% humidity
-- 13 mph wind
-- 0% cloud cover
+- 86°
+- Mostly Clear
+- 74% humidity
+- 14 mph wind
+- 32% cloud cover
 - 32 AQI 🟩
 - 0.04 inches of rain in the past 24 hours
-- 0.82 inches of rain expected in the next 48 hours
+- 1.87 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
