@@ -8,50 +8,50 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:38 AM CT, June 11</p>
+<p class="updated_time"> Latest data: 06:35 AM CT, June 11</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 90°, which is 2° *colder* than yesterday. Tomorrow is expected to be 12° *colder* than today.
+Today's high is 86°, which is 5° *colder* than yesterday. Tomorrow is expected to be 10° *colder* than today.
 
 Currently:
 
-- 69°
-- Light Rain
-- 99% humidity
-- 16 mph wind
-- 100% cloud cover
-- 37 AQI 🟩
-- 0.23 inches of rain in the past 24 hours
-- 0.15 inches of rain expected in the next 48 hours
+- 68°
+- Partly Cloudy
+- 96% humidity
+- 9 mph wind
+- 40% cloud cover
+- 38 AQI 🟩
+- 0.51 inches of rain in the past 24 hours
+- 0.58 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">90 +--+--------------+--------------+--------------+--------------+------------+
-   |                                                  *  *  *                  |
-   |                                            *  *           *               |
-85 +                                         *                                 +
-   |                                   *  *                       *            |
-   |                                                                 *         |
-80 +                                *                                          +
+<pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
+85 +                                               *  *  *  *                  +
+   |                                         *  *                              |
+   |                                   *  *                    *  *            |
+80 +                                                                           +
+   |                                *                                          |
    |                                                                           |
-75 +  *  *                       *                                             +
+75 +                             *                                             +
    |                          *                                                |
-   |        *  *           *                                            *      |
-70 +              *  *  *                                                  *   +
-   +--+--------------+--------------+--------------+--------------+------------+
+70 +  *                 *  *                                         *  *  *   +
+   |     *           *                                                         |
+   |        *  *  *                                                            |
+65 +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  0.27"                       70 ---------------------- 90
-Fri:  0.00"             60 ------------------ 77
-Sat:  0.00"               62 -------------------- 81
-Sun:  0.02"             60 --------------- 74
-Mon:  0.04"        56 ---------- 65
-Tue:  0.00"      54 ----------------------- 75
-Wed:  0.00"    52 ---------------------- 72</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  1.24"                  66 -------------------------- 86
+Fri:  0.00"          60 ---------------------- 77
+Sat:  0.00"           61 ------------------------- 80
+Sun:  0.04"           61 ------------- 71
+Mon:  0.00"      57 ------------------------- 76
+Tue:  0.03"          60 --------------------- 76
+Wed:  0.01"     56 -------------------------- 76</code></pre>
 </noscript>
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
