@@ -263,6 +263,12 @@ iwss_longer <- iwss |>
       "rsv_avg" = "RSV"
     )
   )
+latest_date <- tail(iwss_longer, n = 1)$Date
+latest_date_clean <- format(latest_date, "%b. %d")
+sarscov_latest <- tail(iwss, n = 1)$sars_cov_2
+influenza_a_latest <- tail(iwss, n = 1)$influenza_a
+influenza_b_latest <- tail(iwss, n = 1)$influenza_b
+rsv_latest <- tail(iwss, n = 1)$rsv
 
 all_colors <- c(
   #"#f0dfcd","#e5e5ff","#f2e5f2","lightgray",
