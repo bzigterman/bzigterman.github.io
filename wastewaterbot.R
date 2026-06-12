@@ -18,7 +18,7 @@ iwss <- iwss_download %>%
   mutate(
     sars_cov_2_avg = zoo::rollmean(
       sars_cov_2,
-      k = 4,
+      k = 8,
       fill = NA,
       align = "right"
     )
@@ -26,7 +26,7 @@ iwss <- iwss_download %>%
   mutate(
     influenza_a_avg = zoo::rollmean(
       influenza_a,
-      k = 4,
+      k = 8,
       fill = NA,
       align = "right"
     )
@@ -34,12 +34,12 @@ iwss <- iwss_download %>%
   mutate(
     influenza_b_avg = zoo::rollmean(
       influenza_b,
-      k = 4,
+      k = 8,
       fill = NA,
       align = "right"
     )
   ) |>
-  mutate(rsv_avg = zoo::rollmean(rsv, k = 4, fill = NA, align = "right"))
+  mutate(rsv_avg = zoo::rollmean(rsv, k = 8, fill = NA, align = "right"))
 iwss_longer <- iwss |>
   select(
     sars_cov_2,
