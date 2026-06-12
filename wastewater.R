@@ -1,6 +1,7 @@
 library(tidyverse)
 library(httr)
 library(highcharter)
+library(scales)
 library(htmlwidgets)
 
 iwss_download_url <- "https://iwss.uillinois.edu/wastewater-treatment-plant/download/159/"
