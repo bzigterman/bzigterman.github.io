@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 03:48 PM CT, June 12</p>
+<p class="updated_time"> Latest data: 04:13 PM CT, June 12</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,26 +17,26 @@ Today's high is 78°, which is 12° *colder* than yesterday. Tomorrow is expecte
 
 Currently:
 
-- 77°
+- 78°
 - Clear
-- 52% humidity
+- 53% humidity
 - 8 mph wind
-- 4% cloud cover
-- 33 AQI 🟩
+- 0% cloud cover
+- 36 AQI 🟩
 - 0.55 inches of rain in the past 24 hours
 - 1.87 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                               *  *  *                     |
-   |                                      *  *  *           *                  |
+   |                                         *  *  *  *  *  *                  |
+   |                                      *                                    |
 75 +                                   *                       *               +
    |                                                                           |
    |                                *                             *            |
 70 +                             *                                             +
-   |  *     *                                                        *         |
-   |     *     *              *                                         *      |
+   |  *  *  *                                                        *         |
+   |           *              *                                         *      |
    |              *                                                        *   |
 65 +                 *     *                                                   +
    |                    *                                                      |
