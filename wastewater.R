@@ -208,8 +208,62 @@ saveWidget(
 
 # a ggplot version of the chart above, showing 18 months of data
 ## limit data to 18 months
-iwss <- iwss %>%
-  filter(Date > (today() - months(18)))
+iwss <- iwss_download %>%
+  mutate(Date = ymd(sample_collect_date)) %>%
+  filter(method == 1) |>
+  mutate(
+    sars_cov_2_avg = zoo::rollmean(
+      sars_cov_2,
+      k = 8,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(
+    influenza_a_avg = zoo::rollmean(
+      influenza_a,
+      k = 8,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(
+    influenza_b_avg = zoo::rollmean(
+      influenza_b,
+      k = 8,
+      fill = NA,
+      align = "right"
+    )
+  ) |>
+  mutate(rsv_avg = zoo::rollmean(rsv, k = 8, fill = NA, align = "right"))
+iwss_longer <- iwss |>
+  select(
+    sars_cov_2,
+    influenza_a,
+    influenza_b,
+    rsv,
+    Date,
+    sars_cov_2_avg,
+    influenza_a_avg,
+    influenza_b_avg,
+    rsv_avg
+  ) |>
+  pivot_longer(!Date) |>
+  filter(
+    Date > today(tzone = "America/Chicago") - period(num = 18, units = "months")
+  ) |>
+  mutate(contains_avg = str_detect(name, "avg")) |>
+  mutate(contains_avg = if_else(contains_avg, "avg", "not_avg")) |>
+  mutate(
+    name = recode_factor(
+      name,
+      "sars_cov_2_avg" = "SARS-CoV-2",
+      "influenza_a_avg" = "Influenza A",
+      "influenza_b_avg" = "Influenza B",
+      "rsv_avg" = "RSV"
+    )
+  )
+
 all_colors <- c(
   #"#f0dfcd","#e5e5ff","#f2e5f2","lightgray",
   "#B45F06",
