@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:01 PM CT, June 12</p>
+<p class="updated_time"> Latest data: 02:41 PM CT, June 12</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,28 +17,28 @@ Today's high is 78°, which is 12° *colder* than yesterday. Tomorrow is expecte
 
 Currently:
 
-- 76°
+- 77°
 - Clear
-- 57% humidity
-- 8 mph wind
+- 54% humidity
+- 10 mph wind
 - 0% cloud cover
-- 29 AQI 🟩
+- 31 AQI 🟩
 - 0.55 inches of rain in the past 24 hours
 - 0.53 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                            *  *  *  *                     |
-75 +                                         *              *                  +
-   |                                   *  *                    *               |
+   |                                            *  *  *  *  *                  |
+75 +                                      *  *                                 +
+   |                                   *                       *               |
    |                                *                                          |
-   |                             *                                *            |
-70 +                                                                           +
+   |                                                              *            |
+70 +                             *                                             +
    |  *  *  *                                                        *         |
-   |           *              *                                                |
-   |              *                                                     *      |
-65 +                 *     *                                               *   +
+   |           *              *                                         *      |
+   |              *                                                        *   |
+65 +                 *     *                                                   +
    |                    *                                                      |
    +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
