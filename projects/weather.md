@@ -8,20 +8,20 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 04:36 PM CT, June 12</p>
+<p class="updated_time"> Latest data: 04:57 PM CT, June 12</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 78°, which is 12° *colder* than yesterday. Tomorrow is expected to be 4° **warmer** than today.
+Today's high is 78°, which is 11° *colder* than yesterday. Tomorrow is expected to be 4° **warmer** than today.
 
 Currently:
 
 - 78°
 - Clear
-- 50% humidity
+- 53% humidity
 - 7 mph wind
-- 6% cloud cover
+- 0% cloud cover
 - 36 AQI 🟩
 - 0.55 inches of rain in the past 24 hours
 - 1.87 inches of rain expected in the next 48 hours
@@ -29,14 +29,14 @@ Currently:
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                         *  *  *  *  *  *                  |
-   |                                      *                                    |
+   |                                            *  *  *  *                     |
+   |                                      *  *              *                  |
 75 +                                   *                       *               +
    |                                                                           |
    |                                *                             *            |
 70 +                             *                                             +
-   |  *  *  *                                                        *         |
-   |           *              *                                         *      |
+   |  *     *                                                        *         |
+   |     *     *              *                                         *      |
    |              *                                                        *   |
 65 +                 *     *                                                   +
    |                    *                                                      |
