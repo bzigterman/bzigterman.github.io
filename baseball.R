@@ -190,45 +190,297 @@ season_started <- ifelse(
 if (latest != year_long || !season_started) {
   cat("Standings have not changed; no updates made.")
 } else {
-  get_market_prices <- function(ticker) {
-    ticker <- ticker
-    url <- paste0(
-      "https://api.elections.kalshi.com/trade-api/v2/events/",
-      ticker
-    )
-    response <- VERB(
-      "GET",
-      url,
-      content_type("application/octet-stream"),
-      accept("application/json")
-    )
-    content <- content(response, "text")
-    json <- fromJSON(content)
-    markets <- json$markets
-    prices <- markets |>
-      select(ticker, yes_sub_title, last_price_dollars) |>
-      mutate(last_price = 100 * as.numeric(last_price_dollars)) |>
-      mutate(team_label = substr(ticker, 10, nchar(ticker)))
-  }
+  # Your reference data
+  label_data_raw <- "league,team_label,wins,losses,win_pct_text,games_remaining,win_ws
+AL,TB ,37,25,.597,100,3.2
+AL,NYY,38,26,.594,98,12.9
+AL,CLE,37,30,.552,95,3.3000000000000003
+AL,CWS,34,31,.523,97,1.0999999999999999
+AL,SEA,34,32,.515,96,8.1
+AL,TEX,32,33,.492,97,2.3
+AL,TOR,32,34,.485,96,2.7
+AL,ATH,31,34,.477,97,1.0999999999999999
+AL,BAL,31,35,.470,96,1.6
+AL,MIN,30,37,.448,95,0.3
+AL,HOU,30,37,.448,95,1.7999999999999998
+AL,BOS,27,36,.429,99,1
+AL,DET,27,39,.409,96,1.4000000000000001
+AL,KC ,27,39,.409,96,0.4
+AL,LAA,25,41,.379,96,0.1
+NL,ATL,45,21,.682,96,11.200000000000001
+NL,LAD,42,24,.636,96,28.7
+NL,MIL,40,23,.635,99,6.1
+NL,STL,35,28,.556,99,0.8999999999999999
+NL,PHI,35,30,.538,97,5.3
+NL,ARI,34,31,.523,97,0.8999999999999999
+NL,SD ,33,31,.516,98,1.7000000000000002
+NL,CHC,34,32,.515,96,3.8
+NL,PIT,34,32,.515,96,1.6
+NL,WSH,33,33,.500,96,0.3
+NL,CIN,31,33,.484,98,0.7000000000000001
+NL,MIA,31,35,.470,96,0.2
+NL,NYM,29,36,.446,97,1.7000000000000002
+NL,SF ,27,39,.409,96,0.4
+NL,COL,24,42,.364,96,0.1"
 
-  finals <- get_market_prices(paste0("KXMLB-", year_short)) |>
-    mutate(win_ws = last_price) |>
-    select(team_label, win_ws)
-
-  table <- finals |>
+  # Convert to dataframe, clean up spaces, and map to official API short names
+  team_lookup <- read.csv(text = label_data_raw, stringsAsFactors = FALSE) %>%
+    select(team_label) %>%
     mutate(
-      team_label = case_when(
-        team_label == "A" ~ "ATH",
-        team_label == "AZ" ~ "ARI",
-        team_label == "WAS" ~ "WSH",
-        team_label == "TB" ~ "TB ",
-        team_label == "SF" ~ "SF ",
-        team_label == "SD" ~ "SD ",
-        team_label == "KC" ~ "KC ",
-        team_label == "FLA" ~ "MIA",
-        .default = team_label
+      team_short_name = case_when(
+        team_label == "TB " ~ "Rays",
+        team_label == "NYY" ~ "Yankees",
+        team_label == "CLE" ~ "Guardians",
+        team_label == "CWS" ~ "White Sox",
+        team_label == "SEA" ~ "Mariners",
+        team_label == "TEX" ~ "Rangers",
+        team_label == "TOR" ~ "Blue Jays",
+        team_label == "ATH" ~ "Athletics", # Covers any temporary abbreviation style
+        team_label == "BAL" ~ "Orioles",
+        team_label == "MIN" ~ "Twins",
+        team_label == "HOU" ~ "Astros",
+        team_label == "BOS" ~ "Red Sox",
+        team_label == "DET" ~ "Tigers",
+        team_label == "KC " ~ "Royals",
+        team_label == "LAA" ~ "Angels",
+        team_label == "ATL" ~ "Braves",
+        team_label == "LAD" ~ "Dodgers",
+        team_label == "MIL" ~ "Brewers",
+        team_label == "STL" ~ "Cardinals",
+        team_label == "PHI" ~ "Phillies",
+        team_label == "ARI" ~ "D-backs", # Note: API uses 'D-backs'
+        team_label == "SD " ~ "Padres",
+        team_label == "CHC" ~ "Cubs",
+        team_label == "PIT" ~ "Pirates",
+        team_label == "WSH" ~ "Nationals",
+        team_label == "CIN" ~ "Reds",
+        team_label == "MIA" ~ "Marlins",
+        team_label == "NYM" ~ "Mets",
+        team_label == "SF " ~ "Giants",
+        team_label == "COL" ~ "Rockies",
+        TRUE ~ team_label
       )
     )
+
+  # 1. Fetch Current MLB Standings & Run Differentials ----
+  current_season <- year_long
+
+  # Loop through each league separately and combine the rows
+  standings_raw <- map_df(c(103, 104), function(lg) {
+    mlb_standings(
+      season = current_season,
+      league_id = lg,
+      standings_type = "regularSeason"
+    )
+  })
+
+  # Clean data to get records and run metrics
+  team_stats <- standings_raw %>%
+    select(
+      team_records_team_id,
+      team_records_team_name,
+      division_id,
+      league_id,
+      team_records_wins,
+      team_records_losses,
+      team_records_runs_scored,
+      team_records_runs_allowed
+    ) %>%
+    mutate(
+      wins = team_records_wins,
+      losses = team_records_losses,
+      runs_scored = team_records_runs_scored,
+      runs_allowed = team_records_runs_allowed,
+      team_id = team_records_team_id,
+      team_short_name = team_records_team_name
+    ) |>
+    mutate(
+      games_played = wins + losses,
+      pyth_wpct = (runs_scored^1.83) / (runs_scored^1.83 + runs_allowed^1.83)
+    ) %>%
+    # NEW: Map the labels into the main dataset using our lookup table
+    left_join(team_lookup, by = "team_short_name")
+
+  # 2. Fetch the Full Season Schedule ----
+  full_schedule <- mlb_schedule(season = current_season, level_ids = 1) %>%
+    filter(game_type == "R") %>% # Regular season only
+    select(
+      game_pk,
+      date,
+      teams_home_team_id,
+      teams_home_is_winner,
+      teams_away_team_id,
+      status_abstract_game_state
+    )
+
+  # Split into played games and unplayed games
+  played_games <- full_schedule %>%
+    filter(status_abstract_game_state == "Final")
+  unplayed_games <- full_schedule %>%
+    filter(status_abstract_game_state != "Final")
+
+  # 3. Log5 Win Probability Function ----
+  calc_log5 <- function(wpct_a, wpct_b) {
+    num <- wpct_a * (1 - wpct_b)
+    den <- (wpct_a * (1 - wpct_b)) + (wpct_b * (1 - wpct_a))
+    return(num / den)
+  }
+
+  # 4. The Monte Carlo Simulation Engine (Updated) ----
+  set.seed(42)
+  n_sims <- 1000
+
+  # Track World Series Titles
+  ws_winners <- character(n_sims)
+
+  # NEW: Track playoff appearances for all 30 teams across all simulations
+  # Create a matrix where rows = teams and columns = simulation runs
+  all_team_ids <- team_stats$team_id
+  playoff_tracker <- matrix(
+    0,
+    nrow = nrow(team_stats),
+    ncol = n_sims,
+    dimnames = list(team_stats$team_short_name, NULL)
+  )
+
+  message("Running Monte Carlo Simulations...")
+
+  for (sim in 1:n_sims) {
+    # --- SIMULATE REMAINING REGULAR SEASON ---
+    sim_teams <- team_stats %>%
+      select(
+        team_id,
+        team_short_name,
+        division_id,
+        league_id,
+        wins,
+        losses,
+        pyth_wpct
+      )
+
+    if (nrow(unplayed_games) > 0) {
+      sim_schedule <- unplayed_games %>%
+        left_join(
+          sim_teams %>% select(team_id, pyth_wpct_home = pyth_wpct),
+          by = c("teams_home_team_id" = "team_id")
+        ) %>%
+        left_join(
+          sim_teams %>% select(team_id, pyth_wpct_away = pyth_wpct),
+          by = c("teams_away_team_id" = "team_id")
+        ) %>%
+        mutate(
+          home_win_prob = calc_log5(pyth_wpct_home, pyth_wpct_away),
+          home_win = runif(n()) < home_win_prob
+        )
+
+      home_sim_wins <- sim_schedule %>%
+        group_by(team_id = teams_home_team_id) %>%
+        summarize(swins = sum(home_win), slosses = sum(!home_win))
+      away_sim_wins <- sim_schedule %>%
+        group_by(team_id = teams_away_team_id) %>%
+        summarize(swins = sum(!home_win), slosses = sum(home_win))
+
+      total_sim_results <- bind_rows(home_sim_wins, away_sim_wins) %>%
+        group_by(team_id) %>%
+        summarize(swins = sum(swins), slosses = sum(slosses))
+
+      sim_teams <- sim_teams %>%
+        left_join(total_sim_results, by = "team_id") %>%
+        mutate(
+          wins = wins + coalesce(swins, 0L),
+          losses = losses + coalesce(slosses, 0L)
+        ) %>%
+        select(-swins, -slosses)
+    }
+
+    # --- DETERMINE POSTSEASON SEEDS (12-Team Bracket) ---
+    final_standings <- sim_teams %>%
+      group_by(division_id) %>%
+      mutate(div_rank = rank(-wins, ties.method = "random")) %>%
+      ungroup() %>%
+      mutate(is_div_winner = (div_rank == 1)) %>%
+      group_by(league_id, is_div_winner) %>%
+      mutate(lg_rank = rank(-wins, ties.method = "random")) %>%
+      ungroup() %>%
+      mutate(
+        seed = case_when(
+          is_div_winner & lg_rank == 1 ~ 1,
+          is_div_winner & lg_rank == 2 ~ 2,
+          is_div_winner & lg_rank == 3 ~ 3,
+          !is_div_winner ~ lg_rank + 3,
+          TRUE ~ NA_real_
+        )
+      ) %>%
+      filter(seed <= 6) %>%
+      arrange(league_id, seed)
+
+    # NEW: Mark the 12 teams that made the playoffs in this simulation
+    playoff_tracker[final_standings$team_short_name, sim] <- 1
+
+    # --- SIMULATE POSTSEASON SERIES ---
+    sim_series <- function(team_a, team_b, length) {
+      prob_a <- calc_log5(team_a$pyth_wpct, team_b$pyth_wpct)
+      needed_wins <- ceiling(length / 2)
+      a_wins <- 0
+      b_wins <- 0
+      while (a_wins < needed_wins && b_wins < needed_wins) {
+        if (runif(1) < prob_a) a_wins <- a_wins + 1 else b_wins <- b_wins + 1
+      }
+      if (a_wins == needed_wins) return(team_a) else return(team_b)
+    }
+
+    lg_champs <- list()
+    for (lg in c(103, 104)) {
+      lg_teams <- final_standings %>% filter(league_id == lg)
+
+      t1 <- lg_teams %>% filter(seed == 1)
+      t2 <- lg_teams %>% filter(seed == 2)
+      t3 <- lg_teams %>% filter(seed == 3)
+      t4 <- lg_teams %>% filter(seed == 4)
+      t5 <- lg_teams %>% filter(seed == 5)
+      t6 <- lg_teams %>% filter(seed == 6)
+
+      wc1_winner <- sim_series(t4, t5, 3)
+      wc2_winner <- sim_series(t3, t6, 3)
+
+      lds1_winner <- sim_series(t1, wc1_winner, 5)
+      lds2_winner <- sim_series(t2, wc2_winner, 5)
+
+      lg_champs[[as.character(lg)]] <- sim_series(lds1_winner, lds2_winner, 7)
+    }
+
+    world_series_winner <- sim_series(lg_champs[["103"]], lg_champs[["104"]], 7)
+    ws_winners[sim] <- world_series_winner$team_short_name
+  }
+
+  # 5. Output Unified Results Table (Updated) ----
+
+  # Calculate playoff probabilities
+  playoff_probs <- rowSums(playoff_tracker) / n_sims * 100
+
+  # Calculate World Series probabilities
+  ws_counts <- table(ws_winners)
+  ws_probs <- setNames(rep(0, nrow(team_stats)), team_stats$team_short_name)
+  ws_probs[names(ws_counts)] <- (as.numeric(ws_counts) / n_sims) * 100
+
+  # Combine into a clean, comprehensive forecast table
+  forecast_table <- team_stats %>%
+    select(
+      Team = team_short_name,
+      Label = team_label, # Pulls the short ticker into the display frame
+      Current_Wins = wins,
+      Current_Losses = losses
+    ) %>%
+    mutate(
+      Playoff_Odds_Pct = round(playoff_probs[Team], 1),
+      WS_Win_Odds_Pct = round(ws_probs[Team], 1)
+    ) %>%
+    arrange(desc(Playoff_Odds_Pct), desc(WS_Win_Odds_Pct))
+
+  print(forecast_table, n = 30)
+  table <- forecast_table |>
+    mutate(team_label = Label, win_ws = WS_Win_Odds_Pct) |>
+    select(team_label, win_ws)
 
   # get team results ----
   get_team_records <- function(abbreviation) {
@@ -1483,7 +1735,7 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 </iframe>
 </div>
 
-<p class=\"updated_time\">Source: <a href=\"https://www.baseball-reference.com\">Baseball Reference</a> and <a href=\"https://kalshi.com\">Kalshi</a>.</p> 
+<p class=\"updated_time\">Source: MLB and <a href=\"https://www.baseball-reference.com\">Baseball Reference</a>. World Series odds are based on a simple projection based on runs scored and runs allowed that runs 1,000 times. </p> 
 
 ",
       sep = ""
