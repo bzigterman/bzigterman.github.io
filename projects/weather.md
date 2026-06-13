@@ -8,49 +8,49 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:33 PM CT, June 13</p>
+<p class="updated_time"> Latest data: 01:50 PM CT, June 13</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 83°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 11° *colder* than today.
+Today's high is 80°, which is 1° **warmer** than yesterday. Tomorrow is expected to be 8° *colder* than today.
 
 Currently:
 
 - 79°
-- Overcast
-- 65% humidity
-- 12 mph wind
-- 91% cloud cover
+- Partly Cloudy
+- 68% humidity
+- 11 mph wind
+- 59% cloud cover
 - 30 AQI 🟩
-- 0.14 inches of rain expected in the next 48 hours
+- 0.16 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                            *  *  *  *  *                  |
-80 +                                         *                 *               +
-   |                                      *                                    |
-   |                                *  *                          *            |
-75 +                             *                                   *         +
-   |                                                                    *      |
-70 +                          *                                            *   +
+80 +                                         *     *  *  *                     +
+   |                                   *  *     *                              |
+   |                                *                       *                  |
+75 +                             *                             *               +
+   |                                                              *            |
+   |                          *                                      *  *      |
+70 +                                                                       *   +
    |                                                                           |
-   |                       *                                                   |
-65 +  *  *                                                                     +
-   |        *  *  *  *  *                                                      |
+   |  *                    *                                                   |
+65 +     *  *                                                                  +
+   |           *  *  *  *                                                      |
    +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.00"                62 ---------------------------- 83
-Sun:  0.03"             60 ---------------- 72
-Mon:  0.01"     54 -------------------------- 73
-Tue:  0.27"      55 ----------------------- 72
-Wed:  1.87"          58 ----------------------------- 79
-Thu:  2.38"            59 ------------------------- 78
-Fri:  0.00"     54 -------------------------- 73</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.45"                 62 --------------------------- 80
+Sun:  0.04"              60 ------------------ 72
+Mon:  0.01"     54 ---------------------------- 73
+Tue:  0.27"      55 -------------------------- 72
+Wed:  1.87"           58 ------------------------------- 79
+Thu:  2.38"            59 ----------------------------- 78
+Fri:  0.00"     54 ---------------------------- 73</code></pre>
 </noscript>
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
