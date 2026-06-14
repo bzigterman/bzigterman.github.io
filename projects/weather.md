@@ -8,28 +8,29 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 08:54 PM CT, June 13</p>
+<p class="updated_time"> Latest data: 09:27 PM CT, June 13</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 78°, which is 0° *colder* than yesterday. Tomorrow is expected to be 4° *colder* than today.
+Today's high is 78°, which is 0° *colder* than yesterday. Tomorrow is expected to be 7° *colder* than today.
 
 Currently:
 
-- 73°
-- Drizzle
-- 91% humidity
+- 74°
+- Mostly Clear
+- 88% humidity
 - 6 mph wind
-- 47% cloud cover
+- 30% cloud cover
 - 44 AQI 🟩
+- 0.01 inches of rain in the past 24 hours
 - 0.01 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                   *  *  *  *  *  *  *  *                  |
-   |                                *                          *               |
+   |                                   *  *  *  *  *  *  *  *  *               |
+   |                                *                                          |
 75 +                                                              *            +
    |                             *                                   *         |
    |                                                                    *      |
@@ -45,8 +46,8 @@ Currently:
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.00"                    62 ------------------------ 78
-Sun:  0.02"                  61 -------------------- 74
-Mon:  0.00"        54 --------------------------- 72
+Sun:  0.02"                  61 --------------- 71
+Mon:  0.00"        54 --------------------------------- 76
 Tue:  0.23"          55 -------------------- 69
 Wed:  1.75"     52 --------------------------------- 74
 Thu:  0.02"                59 ------------------------ 75
