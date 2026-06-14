@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 07:09 PM CT, June 13</p>
+<p class="updated_time"> Latest data: 08:28 PM CT, June 13</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,23 +17,23 @@ Today's high is 78°, which is 0° *colder* than yesterday. Tomorrow is expected
 
 Currently:
 
-- 76°
-- Mostly Cloudy
-- 81% humidity
-- 4 mph wind
-- 83% cloud cover
+- 75°
+- Partly Cloudy
+- 87% humidity
+- 6 mph wind
+- 58% cloud cover
 - 44 AQI 🟩
-- 0.04 inches of rain expected in the next 48 hours
+- 0.01 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                   *  *  *  *  *  *  *                     |
-   |                                *                       *  *               |
-75 +                                                                           +
-   |                             *                                *            |
-   |                                                                 *         |
-70 +                          *                                         *  *   +
+   |                                   *  *  *  *  *  *  *  *                  |
+   |                                *                          *               |
+75 +                                                              *            +
+   |                             *                                   *         |
+   |                                                                    *      |
+70 +                          *                                            *   +
    |                                                                           |
    |                                                                           |
    |  *                    *                                                   |
@@ -45,7 +45,7 @@ Currently:
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.00"                    62 ------------------------ 78
-Sun:  0.07"                  61 -------------------- 74
+Sun:  0.02"                  61 -------------------- 74
 Mon:  0.00"        54 --------------------------- 72
 Tue:  0.23"          55 -------------------- 69
 Wed:  1.75"     52 --------------------------------- 74
