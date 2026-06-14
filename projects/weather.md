@@ -8,38 +8,38 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 11:35 AM CT, June 14</p>
+<p class="updated_time"> Latest data: 12:11 PM CT, June 14</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 72°, which is 6° *colder* than yesterday. Tomorrow is expected to be 3° **warmer** than today.
+Today's high is 72°, which is 7° *colder* than yesterday. Tomorrow is expected to be 4° **warmer** than today.
 
 Currently:
 
-- 66°
+- 64°
 - Overcast
-- 83% humidity
-- 13 mph wind
-- 93% cloud cover
-- 33 AQI 🟩
-- 0.1 inches of rain expected in the next 48 hours
+- 79% humidity
+- 11 mph wind
+- 100% cloud cover
+- 32 AQI 🟩
+- 0.17 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-72 +                                            *  *  *  *                     +
-   |                                                        *                  |
-70 +  *  *                 *                                                   +
-   |        *  *  *     *     *              *                 *               |
-68 +                 *                                                         +
-   |                                                                           |
-66 +                                   *                          *            +
-   |                             *        *                                    |
-64 +                                                                           +
-   |                                *                                *         |
-   |                                                                    *  *   |
-62 +--+--------------+--------------+--------------+--------------+------------+
+<pre><code style="font-family: monospace; font-size: 0.75em;">72 +--+--------------+--------------+--------------+--------------+------------+
+   |                                            *  *  *  *                     |
+   |  *                    *                                *                  |
+70 +     *  *           *                                      *               +
+   |           *  *  *        *                                                |
+68 +                                         *                                 +
+   |                                                              *            |
+66 +                             *                                             +
+   |                                                                 *         |
+64 +                                *  *  *                                    +
+   |                                                                    *      |
+62 +                                                                       *   +
+   +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
