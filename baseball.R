@@ -17,11 +17,31 @@ library(rvest)
 library(janitor)
 library(jsonlite)
 library(readr)
+library(dplyr)
+
 
 # get data ----
+
 year_long <- year(today(tzone = "America/Chicago"))
 year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
-current_season <- year_long
+today <- today(tzone = "America/Chicago")
+
+# Pull all recorded MLB seasons
+mlb_seasons <- mlb_seasons_all(sport_id = 1)
+
+opening_day_current_year <- mlb_seasons |>
+  filter(season_id == year_long) |>
+  select(regular_season_start_date)
+opening_day_current_year <- as_date(
+  opening_day_current_year$regular_season_start_date
+)
+typeof(opening_day_current_year)
+current_season <- if_else(
+  today >= opening_day_current_year,
+  year_long,
+  year_long - 1
+)
+current_season
 
 csv_path <- "data/mlb_standings.csv"
 
@@ -82,13 +102,7 @@ local_display_time <- api_timestamp |>
   format("%I:%M %p %Z, %A, %B %d")
 local_display_time
 
-standings_raw <- map_df(c(103, 104), function(lg) {
-  mlb_standings(
-    season = year_long,
-    league_id = lg,
-    standings_type = "regularSeason"
-  )
-})
+standings_raw <- live_data
 
 # Clean data to get records and run metrics
 team_stats <- standings_raw %>%
@@ -116,7 +130,7 @@ team_stats <- standings_raw %>%
   )
 
 # 2. Fetch the Full Season Schedule ----
-full_schedule <- mlb_schedule(season = current_season, level_ids = 1) %>%
+full_schedule <- raw_schedule %>%
   filter(game_type == "R") %>% # Regular season only
   select(
     game_pk,
@@ -830,7 +844,7 @@ iwalk(leagues, function(id, name) {
 ## Define the URL
 url <- paste0(
   "https://en.wikipedia.org/wiki/",
-  year_long,
+  current_season,
   "_Major_League_Baseball_postseason"
 )
 
