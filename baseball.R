@@ -130,6 +130,7 @@ team_stats <- standings_raw %>%
   )
 
 # 2. Fetch the Full Season Schedule ----
+raw_schedule <- mlb_schedule(season = current_season, level_ids = 1)
 full_schedule <- raw_schedule %>%
   filter(game_type == "R") %>% # Regular season only
   select(
@@ -640,7 +641,7 @@ saveWidget(
 # net wins interactives ----
 
 # 1. Fetch the schedule for the desired season (e.g., 2025)
-raw_schedule <- mlb_schedule(season = current_season, level_ids = 1)
+raw_schedule <- raw_schedule
 
 # 2. Filter for Regular Season games and clean the data
 mlb_data <- raw_schedule %>%
