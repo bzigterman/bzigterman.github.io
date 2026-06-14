@@ -508,9 +508,10 @@ fig <- hchart(
     enabled = TRUE,
     format = "{point.team_label}",
     rotation = 90,
+    y = 10,
+    align = "left",
     allowOverlap = TRUE,
-    crop = FALSE,
-    y = 15
+    crop = FALSE
   ),
   groupPadding = 0,
   pointPadding = 0,
@@ -526,9 +527,10 @@ fig <- hchart(
       enabled = TRUE,
       format = "{point.team_label}",
       rotation = 90,
+      y = 10,
+      align = "left",
       allowOverlap = TRUE,
-      crop = FALSE,
-      y = 15
+      crop = FALSE
     ),
     borderWidth = 0,
     animation = FALSE,
