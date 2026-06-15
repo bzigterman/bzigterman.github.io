@@ -19,6 +19,7 @@ library(jsonlite)
 
 
 # 1. Date and Season logic
+now <- as_datetime(now())
 today_chi <- today(tzone = "America/Chicago")
 year_long <- year(today_chi)
 current_season <- most_recent_nba_season()
@@ -36,11 +37,12 @@ if (is.null(live_data_raw) || nrow(live_data_raw) == 0) {
 # 3. Clean and sort the data IMMEDIATELY so we compare apples to apples
 standings_cleaned <- live_data_raw |>
   select(team, wins, losses, winpercent) |> # Use select() instead of mutate() to drop extra columns
-  arrange(team) # Ensure consistent row ordering
+  arrange(team)
 
 # 4. Check if we already have this exact cleaned data saved
 if (file.exists(csv_path)) {
   old_data <- read_csv(csv_path, show_col_types = FALSE) |>
+    select(team, wins, losses, winpercent) |>
     arrange(team) # Ensure old data is sorted identically just in case
 
   # Base R's identical() is perfect here because both data frames now share the exact same structure
@@ -49,11 +51,18 @@ if (file.exists(csv_path)) {
     quit(status = 0)
   }
 }
+standings_cleaned <- standings_cleaned |>
+  mutate(updated_time = now) # Add the timestamp to the cleaned data right before saving
 
 # 5. Save the updated data if it's new
 write_csv(standings_cleaned, csv_path)
 message("New data detected and cached.")
-
+now_formatted <-
+  strftime(
+    x = standings_cleaned$updated_time[1],
+    tz = "US/Central",
+    format = "%I:%M% %p CT, %B %d"
+  )
 
 # 1. Cleaned Conference Lookup (Exactly 30 Teams) ----
 nba_conference_lookup <- tibble(
@@ -344,6 +353,7 @@ nba_standings_table <- nba_standings %>%
     win_pct,
     win_pct_text,
     conference_games_behind,
+    lasttengames,
     post,
     finals,
     conference
@@ -377,6 +387,7 @@ nba_standings_table <- nba_standings %>%
     losses = "L",
     win_pct_text = "Pct",
     conference_games_behind = "GB",
+    lasttengames = "Last 10",
     post = "Win Conf",
     finals = "Win Finals"
   ) %>%
@@ -825,13 +836,6 @@ if (postseason_check) {
 }
 
 # make web page ----
-now <- as_datetime(now())
-now_formatted <- strftime(
-  x = now,
-  tz = "US/Central",
-  format = "%I:%M% %p CT, %B %d"
-)
-
 now_html <- paste(
   "<p class=\"updated_time\"> Latest data: ",
   now_formatted,
