@@ -381,13 +381,13 @@ nba_standings_table <- nba_standings %>%
     finals,
     conference
   ) %>%
-  #group_by(conference) %>%
+  group_by(conference) %>%
   arrange(desc(win_pct)) %>%
   gt() %>%
   gt_theme_espn() %>%
-  #row_group_order(
-  #  groups = c("Western", "Eastern")
-  #) %>%
+  row_group_order(
+    groups = c("Western", "Eastern")
+  ) %>%
   cols_hide(columns = c(win_pct, conference)) %>%
   fmt_percent(
     columns = c(post, finals),
