@@ -17,15 +17,675 @@ library(janitor)
 library(hoopR)
 library(jsonlite)
 
-# playoffs bracket ----
 
-## year ----
-year_long <- most_recent_nba_season()
-year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
+# 1. Date and Season logic
+today_chi <- today(tzone = "America/Chicago")
+year_long <- year(today_chi)
+current_season <- most_recent_nba_season()
+
+csv_path <- "data/nba_standings.csv"
+
+# 2. Fetch live data from the hoopR ESPN Standings API
+live_data_raw <- espn_nba_standings(year = current_season)
+
+if (is.null(live_data_raw) || nrow(live_data_raw) == 0) {
+  message("No live NBA standings returned. Exiting early.")
+  quit(status = 0)
+}
+
+# 3. Clean and sort the data IMMEDIATELY so we compare apples to apples
+standings_cleaned <- live_data_raw |>
+  select(team, wins, losses, winpercent) |> # Use select() instead of mutate() to drop extra columns
+  arrange(team) # Ensure consistent row ordering
+
+# 4. Check if we already have this exact cleaned data saved
+if (file.exists(csv_path)) {
+  old_data <- read_csv(csv_path, show_col_types = FALSE) |>
+    arrange(team) # Ensure old data is sorted identically just in case
+
+  # Base R's identical() is perfect here because both data frames now share the exact same structure
+  if (identical(standings_cleaned, old_data)) {
+    message("Live data is identical to cached data. Exiting early.")
+    quit(status = 0)
+  }
+}
+
+# 5. Save the updated data if it's new
+write_csv(standings_cleaned, csv_path)
+message("New data detected and cached.")
+
+
+# 1. Cleaned Conference Lookup (Exactly 30 Teams) ----
+nba_conference_lookup <- tibble(
+  team_name = c(
+    # Eastern Conference (15 teams)
+    "Celtics",
+    "Nets",
+    "Knicks",
+    "76ers",
+    "Raptors",
+    "Bulls",
+    "Cavaliers",
+    "Pistons",
+    "Pacers",
+    "Bucks",
+    "Hawks",
+    "Hornets",
+    "Heat",
+    "Magic",
+    "Wizards",
+
+    # Western Conference (15 teams)
+    "Nuggets",
+    "Timberwolves",
+    "Thunder",
+    "Trail Blazers",
+    "Jazz",
+    "Warriors",
+    "Clippers",
+    "Lakers",
+    "Suns",
+    "Kings",
+    "Mavericks",
+    "Rockets",
+    "Grizzlies",
+    "Pelicans",
+    "Spurs"
+  ),
+  conference = c(
+    rep("Eastern", 15),
+    rep("Western", 15)
+  )
+)
+team_info <- espn_nba_teams() |>
+  select(
+    team_id,
+    team_abbreviation = abbreviation,
+    team_short_name = short_name,
+    team_name = short_name
+  ) |>
+  full_join(nba_conference_lookup)
+
+
+# 2. Fetch Live Raw Standings from ESPN ----
+raw_standings <- espn_nba_standings(year = current_season)
+
+# 3. Clean and Join ----
+nba_team_stats <- raw_standings %>%
+  select(
+    team_id,
+    #team_name = team_name,
+    #team_abbreviation = team_abbreviation,
+    wins,
+    losses,
+    pointsfor,
+    pointsagainst
+  ) %>%
+  mutate(
+    points_for = as.integer(pointsfor),
+    points_against = as.integer(pointsagainst),
+    games_played = wins + losses,
+    pyth_wpct = (points_for^14) / (points_for^14 + points_against^14)
+  ) %>%
+  # Merges perfectly on the text strings now
+  left_join(team_info, by = "team_id")
+
+# 3. Fetch Schedule and Filter Remaining Games ----
+full_schedule <- load_nba_schedule(season = current_season)
+full_schedule_filtered <- full_schedule |>
+  filter(season_type == 2) %>% # 2 = Regular Season
+  select(
+    game_id,
+    date,
+    home_id,
+    away_id,
+    home_winner,
+    status_type_name
+  )
+
+unplayed_games <- full_schedule_filtered %>%
+  filter(status_type_name != "STATUS_FINAL")
+
+# 4. Log5 Probability Function ----
+calc_log5 <- function(wpct_a, wpct_b) {
+  num <- wpct_a * (1 - wpct_b)
+  den <- (wpct_a * (1 - wpct_b)) + (wpct_b * (1 - wpct_a))
+  return(num / den)
+}
+
+# Helper: Simulate a playoff series
+sim_series <- function(team_a, team_b, length) {
+  prob_a <- calc_log5(team_a$pyth_wpct, team_b$pyth_wpct)
+  needed_wins <- ceiling(length / 2)
+  a_wins <- 0
+  b_wins <- 0
+  while (a_wins < needed_wins && b_wins < needed_wins) {
+    if (runif(1) < prob_a) a_wins <- a_wins + 1 else b_wins <- b_wins + 1
+  }
+  if (a_wins == needed_wins) return(team_a) else return(team_b)
+}
+
+# 5. Simulation Loop ----
+set.seed(42)
+n_sims <- 1000
+
+# Trackers
+nba_champs <- character(n_sims)
+playoff_tracker <- matrix(
+  0,
+  nrow = nrow(nba_team_stats),
+  ncol = n_sims,
+  dimnames = list(nba_team_stats$team_name, NULL)
+)
+
+message("Simulating NBA Season...")
+
+for (sim in 1:n_sims) {
+  # Copy regular season stats
+  sim_teams <- nba_team_stats %>%
+    select(team_id, team_name, conference, wins, losses, pyth_wpct)
+
+  # --- SIMULATE REMAINING REGULAR SEASON ---
+  if (nrow(unplayed_games) > 0) {
+    sim_schedule <- unplayed_games %>%
+      left_join(
+        sim_teams %>% select(team_id, wpct_home = pyth_wpct),
+        by = c("home_id" = "team_id")
+      ) %>%
+      left_join(
+        sim_teams %>% select(team_id, wpct_away = pyth_wpct),
+        by = c("away_id" = "team_id")
+      ) %>%
+      mutate(
+        home_win_prob = calc_log5(wpct_home, wpct_away),
+        home_win = runif(n()) < home_win_prob
+      )
+
+    home_wins <- sim_schedule %>%
+      group_by(team_id = home_id) %>%
+      summarize(sw = sum(home_win), sl = sum(!home_win))
+    away_wins <- sim_schedule %>%
+      group_by(team_id = away_id) %>%
+      summarize(sw = sum(!home_win), sl = sum(home_win))
+
+    total_sim_results <- bind_rows(home_wins, away_wins) %>%
+      group_by(team_id) %>%
+      summarize(sw = sum(sw), sl = sum(sl))
+
+    sim_teams <- sim_teams %>%
+      left_join(total_sim_results, by = "team_id") %>%
+      mutate(
+        wins = wins + coalesce(sw, 0L),
+        losses = losses + coalesce(sl, 0L)
+      ) %>%
+      select(-sw, -sl)
+  }
+
+  # --- THE POSTSEASON ENGINE ---
+  conf_champs <- list()
+
+  for (conf in c("Eastern", "Western")) {
+    conf_teams <- sim_teams %>%
+      filter(conference == conf) %>%
+      arrange(desc(wins)) %>%
+      mutate(raw_rank = row_number()) # Basic rank (ignoring tiebreaker nuances for simplicity)
+
+    # Extract structural seeds
+    t1 <- conf_teams %>% filter(raw_rank == 1)
+    t2 <- conf_teams %>% filter(raw_rank == 2)
+    t3 <- conf_teams %>% filter(raw_rank == 3)
+    t4 <- conf_teams %>% filter(raw_rank == 4)
+    t5 <- conf_teams %>% filter(raw_rank == 5)
+    t6 <- conf_teams %>% filter(raw_rank == 6)
+    t7 <- conf_teams %>% filter(raw_rank == 7)
+    t8 <- conf_teams %>% filter(raw_rank == 8)
+    t9 <- conf_teams %>% filter(raw_rank == 9)
+    t10 <- conf_teams %>% filter(raw_rank == 10)
+
+    # --- SIMULATE PLAY-IN TOURNAMENT ---
+    # Game 1: 7 vs 8 (Winner gets 7th seed)
+    g1_winner <- sim_series(t7, t8, 1)
+    g1_loser <- if (g1_winner$team_id == t7$team_id) t8 else t7
+
+    # Game 2: 9 vs 10 (Loser eliminated)
+    g2_winner <- sim_series(t9, t10, 1)
+
+    # Game 3: Loser G1 vs Winner G2 (Winner gets 8th seed)
+    g3_winner <- sim_series(g1_loser, g2_winner, 1)
+
+    # Finalize the 8 true playoff teams
+    playoff_teams <- bind_rows(t1, t2, t3, t4, t5, t6, g1_winner, g3_winner)
+    playoff_tracker[playoff_teams$team_name, sim] <- 1
+
+    # --- TRADITIONAL 7-GAME SERIES BRACKET ---
+    # First Round
+    r1_w1 <- sim_series(t1, g3_winner, 7) # 1 vs 8
+    r1_w2 <- sim_series(t4, t5, 7) # 4 vs 5
+    r1_w3 <- sim_series(t2, g1_winner, 7) # 2 vs 7
+    r1_w4 <- sim_series(t3, t6, 7) # 3 vs 6
+
+    # Conference Semifinals
+    semis_w1 <- sim_series(r1_w1, r1_w2, 7)
+    semis_w2 <- sim_series(r1_w3, r1_w4, 7)
+
+    # Conference Finals
+    conf_champs[[conf]] <- sim_series(semis_w1, semis_w2, 7)
+  }
+
+  # --- NBA FINALS ---
+  nba_finals_winner <- sim_series(
+    conf_champs[["Eastern"]],
+    conf_champs[["Western"]],
+    7
+  )
+  nba_champs[sim] <- nba_finals_winner$team_name
+}
+
+# 6. Build the Final Forecast Table ----
+playoff_probs <- rowSums(playoff_tracker) / n_sims * 100
+champ_counts <- table(nba_champs)
+champ_probs <- setNames(rep(0, nrow(nba_team_stats)), nba_team_stats$team_name)
+champ_probs[names(champ_counts)] <- (as.numeric(champ_counts) / n_sims) * 100
+
+forecast_table <- nba_team_stats %>%
+  select(
+    Team = team_name,
+    Ticker = team_abbreviation,
+    Conf = conference,
+    Wins = wins,
+    Losses = losses
+  ) %>%
+  mutate(
+    Playoff_Odds_Pct = round(playoff_probs[Team], 1),
+    Championship_Odds_Pct = round(champ_probs[Team], 1)
+  ) %>%
+  arrange(desc(Playoff_Odds_Pct), desc(Championship_Odds_Pct))
+
+print(forecast_table, n = 30)
+table <- forecast_table |>
+  select(
+    team_label = Team,
+    lg = Conf,
+    post = Playoff_Odds_Pct,
+    finals = Championship_Odds_Pct
+  )
+
+# nba standings gt table with team, wins, losses, win pct, games behind, last ten, playoff odds and championship odds ----
+nba_standings <- raw_standings %>%
+  # Merges perfectly on the text strings now
+  left_join(team_info, by = "team_id") |>
+  select(
+    team_id,
+    team_name,
+    conference,
+    team_abbreviation,
+    wins,
+    losses,
+    lasttengames,
+    win_pct = winpercent,
+    conference_games_behind = gamesbehind
+  ) |>
+  left_join(table, by = c("team_name" = "team_label")) |>
+  mutate(
+    win_pct_text = as.character(if_else(
+      win_pct == 1,
+      paste("1.000"),
+      paste0(".", round(win_pct * 1000))
+    ))
+  ) |>
+  mutate(team_label = team_name) |>
+  mutate(team_display_name = team_label)
+
+nba_standings_table <- nba_standings %>%
+  select(
+    team_label,
+    wins,
+    losses,
+    win_pct,
+    win_pct_text,
+    conference_games_behind,
+    post,
+    finals,
+    conference
+  ) %>%
+  #group_by(conference) %>%
+  arrange(desc(win_pct)) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  #row_group_order(
+  #  groups = c("Western", "Eastern")
+  #) %>%
+  cols_hide(columns = c(win_pct, conference)) %>%
+  fmt_percent(
+    columns = c(post, finals),
+    decimals = 0,
+    scale_values = FALSE
+  ) |>
+  data_color(
+    columns = c(post, finals),
+    domain = c(2.1, 100),
+    na_color = "#FFFFFF",
+    palette = "Reds"
+  ) |>
+  cols_align(
+    align = c("right"),
+    columns = c(win_pct_text, )
+  ) %>%
+  cols_label(
+    team_label = "Team",
+    wins = "W",
+    losses = "L",
+    win_pct_text = "Pct",
+    conference_games_behind = "GB",
+    post = "Win Conf",
+    finals = "Win Finals"
+  ) %>%
+  # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(all_caps = TRUE)
+nba_standings_table
+nba_standings_table_html <- as_raw_html(
+  nba_standings_table,
+  inline_css = TRUE
+)
+
+# interactive charts ----
+sorted_nba_standings <- nba_standings |>
+  select(
+    team_label,
+    wins,
+    losses,
+    win_pct,
+    win_pct_text,
+    conference,
+    team_display_name
+  ) |>
+  arrange(if_else(conference == "Western", (win_pct), NA)) |>
+  arrange(if_else(conference == "Eastern", desc(win_pct), NA)) |>
+  mutate(conference = factor(conference)) |>
+  mutate(
+    conference = fct_relevel(
+      conference,
+      c("Western", "Eastern")
+    )
+  ) |>
+  mutate(west_win_pct = (if_else(conference == "Western", (win_pct), NA))) |>
+  mutate(east_win_pct = (if_else(conference == "Eastern", (win_pct), NA)))
+
+fig <- hchart(
+  sorted_nba_standings,
+  "column",
+  borderWidth = 0,
+  animation = FALSE,
+  hcaes(x = team_label, y = west_win_pct, group = conference),
+  colorKey = "west_win_pct",
+  colorAxis = 1,
+  grouping = FALSE,
+  dataLabels = list(
+    enabled = TRUE,
+    format = "{point.team_label}",
+    rotation = 90,
+    y = 5,
+    align = "left",
+    allowOverlap = TRUE,
+    crop = FALSE
+  ),
+  groupPadding = 0,
+  pointPadding = 0,
+  tooltip = list(
+    headerFormat = "",
+    pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+  )
+) |>
+  hc_add_series(
+    sorted_nba_standings,
+    "column",
+    dataLabels = list(
+      enabled = TRUE,
+      format = "{point.team_label}",
+      rotation = 90,
+      y = 5,
+      align = "left",
+      allowOverlap = TRUE,
+      crop = FALSE
+    ),
+    borderWidth = 0,
+    animation = FALSE,
+    hcaes(x = team_label, y = east_win_pct, group = conference),
+    colorKey = "east_win_pct",
+    colorAxis = 0,
+    grouping = FALSE,
+    groupPadding = 0,
+    pointPadding = 0,
+    tooltip = list(
+      headerFormat = "",
+      pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+    )
+  ) |>
+  hc_xAxis(
+    tickLength = 0,
+    title = list(enabled = FALSE),
+    labels = list(enabled = FALSE),
+    plotLines = list(
+      list(
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = 14.5
+      )
+    ),
+    plotBands = list(
+      list(
+        color = hex_to_rgba("gray", 0.4),
+        zIndex = 2,
+        from = 8.5,
+        to = 20.5
+      ),
+      list(
+        color = hex_to_rgba("gray", 0.2),
+        zIndex = 2,
+        from = 4.5,
+        to = 24.5
+      ),
+      list(
+        label = list(text = "Western"),
+        color = hex_to_rgba("white", 0),
+        zIndex = 2,
+        from = -0.5,
+        to = 4.5
+      ),
+      list(
+        label = list(text = "Eastern"),
+        color = hex_to_rgba("white", 0),
+        zIndex = 2,
+        from = 24.5,
+        to = 29.5
+      )
+    ),
+    labels = list(
+      allowOverlap = TRUE,
+      rotation = 90,
+      padding = 0,
+      step = 1
+    )
+  ) |>
+  hc_yAxis(
+    endOnTick = FALSE,
+    tickInterval = .25,
+    startOnTick = FALSE,
+    plotLines = list(
+      list(
+        # label = list(text = "0.500"),
+        color = "#595959",
+        width = 1,
+        zIndex = 2,
+        value = .5
+      )
+    ),
+    opposite = FALSE,
+    title = list(
+      enabled = FALSE
+    ),
+    labels = list(
+      format = "{value:.3f}"
+    )
+  ) |>
+  hc_add_theme(
+    hc_theme_bloom()
+  ) |>
+  hc_legend(enabled = FALSE) |>
+  hc_colorAxis(
+    list(
+      minColor = "turquoise",
+      maxColor = "darkblue"
+    ),
+    list(
+      minColor = "orange",
+      maxColor = "darkred"
+    )
+  )
+
+fig
+saveWidget(
+  widget = fig,
+  file = "interactive/nba_team_rank.html",
+  selfcontained = FALSE,
+  libdir = "interactive"
+)
+
+# conference net wins charts ----
+games <- load_nba_team_box(seasons = current_season) |>
+  filter(
+    season_type == 2
+  ) |>
+  select(
+    game_id,
+    game_date,
+    team_name,
+    team_winner,
+    opponent_team_name
+  ) |>
+  mutate(team = team_name) |>
+  # Crucial step: group by team and sort chronologically
+  arrange(team, game_date) |>
+  group_by(team) |>
+  mutate(game_n = row_number()) |>
+  filter(game_n <= 82) |>
+  # Compute running records seamlessly across groups
+  mutate(
+    win = if_else(team_winner == TRUE, 1, 0),
+    loss = if_else(team_winner == FALSE, 1, 0),
+    wins = cumsum(win),
+    losses = cumsum(loss),
+    net_wins = wins - losses,
+    win_pct = wins / game_n,
+    win_pct_text = if_else(
+      win_pct == 1,
+      "1.000",
+      paste0(".", round(win_pct * 1000))
+    )
+  ) |>
+  ungroup() |>
+  full_join(team_info, by = c("team" = "team_name")) |>
+  mutate(team_display_name = team_name)
+
+eastern <- games |>
+  filter(conference == "Eastern")
+western <- games |>
+  filter(conference == "Western")
+
+fig1 <- hchart(
+  eastern,
+  "line",
+  hcaes(x = game_n, y = net_wins, group = team),
+  label = list(
+    enabled = TRUE
+  ),
+  animation = FALSE,
+  tooltip = list(
+    headerFormat = "",
+    pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+  )
+) %>%
+  hc_colors(brewer.pal(12, "Paired")) %>%
+  hc_legend(
+    enabled = TRUE,
+    align = "right",
+    verticalAlign = "middle",
+    layout = "vertical"
+  ) %>%
+  hc_title(text = "Eastern") %>%
+  hc_yAxis(
+    title = "",
+    endOnTick = FALSE,
+    startOnTick = FALSE,
+    gridLineColor = "#B2BEB5"
+  ) %>%
+  hc_xAxis(title = "", max = 82) %>%
+  hc_chart(backgroundColor = "#899499") |>
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+
+fig1
+
+fig2 <- hchart(
+  western,
+  "line",
+  hcaes(x = game_n, y = net_wins, group = team),
+  animation = FALSE,
+  label = list(
+    enabled = TRUE
+  ),
+  tooltip = list(
+    headerFormat = "",
+    pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
+  )
+) %>%
+  hc_colors(brewer.pal(12, "Paired")) %>%
+  hc_legend(
+    enabled = TRUE,
+    align = "right",
+    verticalAlign = "middle",
+    layout = "vertical"
+  ) %>%
+  hc_title(text = "Western") %>%
+  hc_yAxis(
+    title = "",
+    endOnTick = FALSE,
+    startOnTick = FALSE,
+    gridLineColor = "#B2BEB5"
+  ) %>%
+  hc_xAxis(title = "", max = 82) %>%
+  hc_chart(backgroundColor = "#899499") |>
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+
+fig2
+
+saveWidget(
+  widget = fig1,
+  file = "interactive/eastern_standings.html",
+  selfcontained = FALSE,
+  libdir = "interactive"
+)
+saveWidget(
+  widget = fig2,
+  file = "interactive/western_standings.html",
+  selfcontained = FALSE,
+  libdir = "interactive"
+)
+
+# playoffs bracket ----
 
 ## postseason check ----
 postseason_games <-
-  load_nba_team_box(seasons = year_long) |>
+  load_nba_team_box(seasons = current_season) |>
   filter(season_type == 5)
 
 postseason_games_rows = nrow(postseason_games)
@@ -37,7 +697,7 @@ postseason_check <- if_else(
 )
 
 # Define the URL
-url <- paste0("https://en.wikipedia.org/wiki/", year_long, "_NBA_playoffs")
+url <- paste0("https://en.wikipedia.org/wiki/", current_season, "_NBA_playoffs")
 
 if (postseason_check) {
   # Read the HTML content
@@ -164,691 +824,23 @@ if (postseason_check) {
   bracket_table_html <- ""
 }
 
-# ployoff odds ----
-get_market_prices <- function(ticker) {
-  ticker <- ticker
-  url <- paste0(
-    "https://api.elections.kalshi.com/trade-api/v2/events/",
-    ticker
-  )
-  response <- VERB(
-    "GET",
-    url,
-    content_type("application/octet-stream"),
-    accept("application/json")
-  )
-  content <- content(response, "text")
-  json <- fromJSON(content)
-  markets <- json$markets
-  prices <- markets |>
-    select(ticker, yes_sub_title, last_price_dollars) |>
-    mutate(last_price = last_price_dollars) |>
-    mutate(team_label = substr(ticker, nchar(ticker) - 2, nchar(ticker)))
-}
-
-west <- get_market_prices(paste0("KXNBAWEST-", year_short)) |>
-  mutate(post = last_price) |>
-  select(team_label, post) |>
-  mutate(lg = "Western")
-east <- get_market_prices(paste0("KXNBAEAST-", year_short)) |>
-  mutate(post = last_price) |>
-  select(team_label, post) |>
-  mutate(lg = "Eastern") |>
-  # convert "DAL" to "DET"
-  mutate(team_label = ifelse(team_label == "DAL", "DET", team_label))
-finals <- get_market_prices(paste0("KXNBA-", year_short)) |>
-  mutate(finals = last_price) |>
-  select(team_label, finals)
-
-table <- full_join(west, east) |>
-  left_join(finals) |>
-  mutate(team_label = ifelse(team_label == "WAS", "WSH", team_label))
-
-# get data ----
-teams <- load_nba_team_box(seasons = most_recent_nba_season()) |>
-  select(team_abbreviation, team_location, team_name) |>
-  unique()
-
-get_team_records <- function(abbreviation) {
-  records <- load_nba_team_box(seasons = most_recent_nba_season()) |>
-    filter(season_type == 2) |>
-    select(
-      game_id,
-      game_date,
-      team_abbreviation,
-      team_logo,
-      team_winner,
-      opponent_team_abbreviation,
-      team_display_name
-    ) |>
-    arrange(game_date) |>
-    filter(team_abbreviation == abbreviation) |>
-    mutate(game_n = row_number()) |>
-    filter(game_n <= 82) |>
-    mutate(
-      result = case_when(
-        team_winner == TRUE ~ "W",
-        team_winner == FALSE ~ "L"
-      )
-    ) |>
-    mutate(win = if_else(result == "W", 1, 0)) %>%
-    mutate(loss = if_else(result == "L", 1, 0)) %>%
-    mutate(
-      game_counter = if_else(result == "W", 1, if_else(result == "L", 1, NA))
-    ) %>%
-    mutate(wins = cumsum(win)) %>%
-    mutate(losses = cumsum(loss)) %>%
-    mutate(win_pct = wins / game_n) %>%
-    mutate(
-      win_pct_text = if_else(
-        win_pct == 1,
-        paste("1.000"),
-        paste0(".", round(win_pct * 1000))
-      )
-    ) %>%
-    mutate(net_wins = wins - losses) %>%
-    mutate(games_remaining = 82 - game_n) |>
-    mutate(
-      team = case_when(
-        abbreviation == "NO" ~ "NOP",
-        abbreviation == "GS" ~ "GSW",
-        abbreviation == "NY" ~ "NYK",
-        abbreviation == "SA" ~ "SAS",
-        abbreviation == "UTAH" ~ "UTA",
-        abbreviation == "WAS" ~ "WSH",
-        TRUE ~ abbreviation
-      )
-    ) |>
-    mutate(team_label = if_else(game_n == max(na.omit(game_n)), team, NA)) %>%
-    mutate(win = if_else(result == "W", 1, 0)) |>
-    mutate(
-      outcomes = list(
-        tail(na.omit(win), 10)
-      )
-    )
-}
-
-# eastern conference ----
-team1 <- get_team_records("CHI") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg"
-  )
-team2 <- get_team_records("CHA") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg"
-  )
-team3 <- get_team_records("NY") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg"
-  )
-team4 <- get_team_records("MIA") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg"
-  )
-team5 <- get_team_records("WSH") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg"
-  )
-team6 <- get_team_records("ATL") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg"
-  )
-team7 <- get_team_records("MIL") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg"
-  )
-team8 <- get_team_records("CLE") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg"
-  )
-team9 <- get_team_records("PHI") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg"
-  )
-team10 <- get_team_records("TOR") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg"
-  )
-team11 <- get_team_records("BOS") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg"
-  )
-team12 <- get_team_records("BKN") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg"
-  )
-team13 <- get_team_records("ORL") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg"
-  )
-team14 <- get_team_records("IND") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg"
-  )
-team15 <- get_team_records("DET") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg"
-  )
-
-eastern <- full_join(team1, team2) %>%
-  full_join(team3) %>%
-  full_join(team4) %>%
-  full_join(team5) %>%
-  full_join(team6) %>%
-  full_join(team7) %>%
-  full_join(team8) %>%
-  full_join(team9) %>%
-  full_join(team10) %>%
-  full_join(team11) %>%
-  full_join(team12) %>%
-  full_join(team13) %>%
-  full_join(team14) %>%
-  full_join(team15) %>%
-  mutate(conference = "Eastern")
-
-east_standings <- eastern %>%
-  filter(!is.na(team_label)) %>%
-  arrange(desc(win_pct)) %>%
-  mutate(division_place = row_number()) %>%
-  mutate(net_wins = wins - losses)
-
-# western conference ----
-team1 <- get_team_records("GS") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg"
-  )
-team2 <- get_team_records("UTAH") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg"
-  )
-team3 <- get_team_records("MIN") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg"
-  )
-team4 <- get_team_records("DAL") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg"
-  )
-team5 <- get_team_records("SAC") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg"
-  )
-team6 <- get_team_records("POR") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg"
-  )
-team7 <- get_team_records("MEM") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg"
-  )
-team8 <- get_team_records("DEN") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg"
-  )
-team9 <- get_team_records("LAL") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg"
-  )
-team10 <- get_team_records("LAC") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg"
-  )
-team11 <- get_team_records("HOU") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg"
-  )
-team12 <- get_team_records("PHX") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg"
-  )
-team13 <- get_team_records("SA") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg"
-  )
-team14 <- get_team_records("NO") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg"
-  )
-team15 <- get_team_records("OKC") %>%
-  mutate(
-    logo_url = "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg"
-  )
-
-western <- full_join(team1, team2) %>%
-  full_join(team3) %>%
-  full_join(team4) %>%
-  full_join(team5) %>%
-  full_join(team6) %>%
-  full_join(team7) %>%
-  full_join(team8) %>%
-  full_join(team9) %>%
-  full_join(team10) %>%
-  full_join(team11) %>%
-  full_join(team12) %>%
-  full_join(team13) %>%
-  full_join(team14) %>%
-  full_join(team15) %>%
-  mutate(conference = "Western")
-
-west_standings <- western %>%
-  filter(!is.na(team_label)) %>%
-  arrange(desc(win_pct)) %>%
-  mutate(division_place = row_number()) %>%
-  mutate(net_wins = wins - losses)
-
-nba_standings <- full_join(east_standings, west_standings)
-
-# standings check ----
-old_standings <- read_csv(
-  "data/nba_standings.csv",
-  col_types = cols(
-    conference = col_character(),
-    team_label = col_character(),
-    wins = col_number(),
-    losses = col_number(),
-    win_pct_text = col_character(),
-    post = col_number(),
-    finals = col_number()
-  ),
-  trim_ws = FALSE
+# make web page ----
+now <- as_datetime(now())
+now_formatted <- strftime(
+  x = now,
+  tz = "US/Central",
+  format = "%I:%M% %p CT, %B %d"
 )
-#old_standings <- as_tibble(2)
-standings_check <- nba_standings |>
-  full_join(table) |>
-  select(
-    conference,
-    team_label,
-    wins,
-    losses,
-    win_pct,
-    win_pct_text,
-    post,
-    finals
-  ) |>
-  filter(!is.na(team_label)) %>%
-  group_by(conference) %>%
-  arrange(conference, desc(win_pct)) %>%
-  select(conference, team_label, wins, losses, win_pct_text, post, finals) |>
-  ungroup()
-standings_the_same <- compare(standings_check, old_standings)
-if (length(standings_the_same) > 0) {
-  write_csv(standings_check, "data/nba_standings.csv")
 
-  # pennant race chart ----
-  ## interactive ----
+now_html <- paste(
+  "<p class=\"updated_time\"> Latest data: ",
+  now_formatted,
+  "</p>",
+  sep = ""
+)
 
-  sorted_nba_standings <- nba_standings |>
-    select(
-      team_label,
-      wins,
-      losses,
-      win_pct,
-      win_pct_text,
-      conference,
-      team_display_name
-    ) |>
-    arrange(if_else(conference == "Western", (win_pct), NA)) |>
-    arrange(if_else(conference == "Eastern", desc(win_pct), NA)) |>
-    mutate(conference = factor(conference)) |>
-    mutate(
-      conference = fct_relevel(
-        conference,
-        c("Western", "Eastern")
-      )
-    ) |>
-    mutate(west_win_pct = (if_else(conference == "Western", (win_pct), NA))) |>
-    mutate(east_win_pct = (if_else(conference == "Eastern", (win_pct), NA)))
-
-  fig <- hchart(
-    sorted_nba_standings,
-    "column",
-    borderWidth = 0,
-    animation = FALSE,
-    hcaes(x = team_label, y = west_win_pct, group = conference),
-    colorKey = "west_win_pct",
-    colorAxis = 1,
-    grouping = FALSE,
-    dataLabels = list(
-      enabled = TRUE,
-      format = "{point.team_label}",
-      rotation = 90,
-      allowOverlap = TRUE,
-      crop = FALSE,
-      y = 15
-    ),
-    groupPadding = 0,
-    pointPadding = 0,
-    tooltip = list(
-      headerFormat = "",
-      pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
-    )
-  ) |>
-    hc_add_series(
-      sorted_nba_standings,
-      "column",
-      dataLabels = list(
-        enabled = TRUE,
-        format = "{point.team_label}",
-        rotation = 90,
-        allowOverlap = TRUE,
-        crop = FALSE,
-        y = 15
-      ),
-      borderWidth = 0,
-      animation = FALSE,
-      hcaes(x = team_label, y = east_win_pct, group = conference),
-      colorKey = "east_win_pct",
-      colorAxis = 0,
-      grouping = FALSE,
-      groupPadding = 0,
-      pointPadding = 0,
-      tooltip = list(
-        headerFormat = "",
-        pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
-      )
-    ) |>
-    hc_xAxis(
-      tickLength = 0,
-      title = list(enabled = FALSE),
-      labels = list(enabled = FALSE),
-      plotLines = list(
-        list(
-          color = "#595959",
-          width = 1,
-          zIndex = 2,
-          value = 14.5
-        )
-      ),
-      plotBands = list(
-        list(
-          color = hex_to_rgba("gray", 0.4),
-          zIndex = 2,
-          from = 8.5,
-          to = 20.5
-        ),
-        list(
-          color = hex_to_rgba("gray", 0.2),
-          zIndex = 2,
-          from = 4.5,
-          to = 24.5
-        ),
-        list(
-          label = list(text = "Western"),
-          color = hex_to_rgba("white", 0),
-          zIndex = 2,
-          from = -0.5,
-          to = 4.5
-        ),
-        list(
-          label = list(text = "Eastern"),
-          color = hex_to_rgba("white", 0),
-          zIndex = 2,
-          from = 24.5,
-          to = 29.5
-        )
-      ),
-      labels = list(
-        allowOverlap = TRUE,
-        rotation = 90,
-        padding = 0,
-        step = 1
-      )
-    ) |>
-    hc_yAxis(
-      endOnTick = FALSE,
-      tickInterval = .25,
-      startOnTick = FALSE,
-      plotLines = list(
-        list(
-          # label = list(text = "0.500"),
-          color = "#595959",
-          width = 1,
-          zIndex = 2,
-          value = .5
-        )
-      ),
-      opposite = FALSE,
-      title = list(
-        enabled = FALSE
-      ),
-      labels = list(
-        format = "{value:.3f}"
-      )
-    ) |>
-    hc_add_theme(
-      hc_theme_bloom()
-    ) |>
-    hc_legend(enabled = FALSE) |>
-    hc_colorAxis(
-      list(
-        minColor = "turquoise",
-        maxColor = "darkblue"
-      ),
-      list(
-        minColor = "orange",
-        maxColor = "darkred"
-      )
-    )
-
-  fig
-  saveWidget(
-    widget = fig,
-    file = "interactive/nba_team_rank.html",
-    selfcontained = FALSE,
-    libdir = "interactive"
-  )
-
-  # conference standings charts ----
-  ## interactive ----
-  fig1 <- hchart(
-    eastern,
-    "line",
-    hcaes(x = game_n, y = net_wins, group = team),
-    label = list(
-      enabled = TRUE
-    ),
-    animation = FALSE,
-    tooltip = list(
-      headerFormat = "",
-      pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
-    )
-  ) %>%
-    hc_colors(brewer.pal(12, "Paired")) %>%
-    hc_legend(
-      enabled = TRUE,
-      align = "right",
-      verticalAlign = "middle",
-      layout = "vertical"
-    ) %>%
-    hc_title(text = "Eastern") %>%
-    hc_yAxis(
-      title = "",
-      endOnTick = FALSE,
-      startOnTick = FALSE,
-      gridLineColor = "#B2BEB5"
-    ) %>%
-    hc_xAxis(title = "", max = 82) %>%
-    hc_chart(backgroundColor = "#899499") |>
-    hc_add_theme(
-      hc_theme_bloom()
-    )
-
-  fig1
-
-  fig2 <- hchart(
-    western,
-    "line",
-    hcaes(x = game_n, y = net_wins, group = team),
-    animation = FALSE,
-    label = list(
-      enabled = TRUE
-    ),
-    tooltip = list(
-      headerFormat = "",
-      pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
-    )
-  ) %>%
-    hc_colors(brewer.pal(12, "Paired")) %>%
-    hc_legend(
-      enabled = TRUE,
-      align = "right",
-      verticalAlign = "middle",
-      layout = "vertical"
-    ) %>%
-    hc_title(text = "Western") %>%
-    hc_yAxis(
-      title = "",
-      endOnTick = FALSE,
-      startOnTick = FALSE,
-      gridLineColor = "#B2BEB5"
-    ) %>%
-    hc_xAxis(title = "", max = 82) %>%
-    hc_chart(backgroundColor = "#899499") |>
-    hc_add_theme(
-      hc_theme_bloom()
-    )
-
-  fig2
-
-  saveWidget(
-    widget = fig1,
-    file = "interactive/eastern_standings.html",
-    selfcontained = FALSE,
-    libdir = "interactive"
-  )
-  saveWidget(
-    widget = fig2,
-    file = "interactive/western_standings.html",
-    selfcontained = FALSE,
-    libdir = "interactive"
-  )
-
-  # conference standings table ----
-
-  western_standings <- west_standings %>%
-    mutate(first_place_net_wins = west_standings$net_wins[[1]]) %>%
-    mutate(conference_games_behind = (first_place_net_wins - net_wins) / 2)
-
-  eastern_standings <- east_standings %>%
-    mutate(first_place_net_wins = east_standings$net_wins[[1]]) %>%
-    mutate(conference_games_behind = (first_place_net_wins - net_wins) / 2)
-
-  nba_standings <- full_join(western_standings, eastern_standings) |>
-    full_join(table) |>
-    select(
-      logo_url,
-      team_label,
-      wins,
-      losses,
-      net_wins,
-      win_pct,
-      win_pct_text,
-      games_remaining,
-      outcomes,
-      conference,
-      post,
-      finals,
-      conference_games_behind
-    ) |>
-    mutate(
-      post = as.numeric(post) * 100,
-      finals = as.numeric(finals) * 100
-    )
-
-  nba_standings_table <- nba_standings %>%
-    select(
-      logo_url,
-      team_label,
-      wins,
-      losses,
-      win_pct,
-      win_pct_text,
-      conference_games_behind,
-      post,
-      finals,
-      outcomes,
-      conference
-    ) %>%
-    group_by(conference) %>%
-    arrange(conference, desc(win_pct)) %>%
-    gt() %>%
-    gt_theme_espn() %>%
-    row_group_order(
-      groups = c("Western", "Eastern")
-    ) %>%
-    gt_plt_winloss(outcomes, max_wins = 10, type = "pill", width = 15) %>%
-    text_transform(
-      locations = cells_body(columns = logo_url),
-      fn = function(x) {
-        web_image(
-          url = x,
-          height = px(12)
-        )
-      }
-    ) %>%
-    cols_hide(columns = c(win_pct)) %>%
-    fmt_percent(
-      columns = c(post, finals),
-      decimals = 0,
-      scale_values = FALSE
-    ) |>
-    data_color(
-      columns = c(post, finals),
-      domain = c(2.1, 100),
-      na_color = "#FFFFFF",
-      palette = "Reds"
-    ) |>
-    cols_align(
-      align = c("right"),
-      columns = c(win_pct_text, logo_url, outcomes)
-    ) %>%
-    cols_label(
-      logo_url = "",
-      team_label = "Team",
-      wins = "W",
-      losses = "L",
-      win_pct_text = "Pct",
-      conference_games_behind = "GB",
-      post = "Win Conf",
-      finals = "Win Finals",
-      outcomes = html("Last 10 Games")
-    ) %>%
-    # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
-    tab_options(
-      table.width = pct(100),
-      data_row.padding = px(4),
-      table.font.size = px(12)
-    ) %>%
-    opt_all_caps(all_caps = TRUE)
-  nba_standings_table
-  nba_standings_table_html <- as_raw_html(
-    nba_standings_table,
-    inline_css = TRUE
-  )
-  # better_nba_standings_divs <- gsub("[#][a-z]{10}",
-  #                                   "#nba_standings_table",
-  #                                   x = nba_standings_table_html)
-  # better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
-  #                                               "\"nba_standings_table",
-  #                                               x = better_nba_standings_divs)
-
-  # make web page ----
-  now <- as_datetime(now())
-  now_formatted <- strftime(
-    x = now,
-    tz = "US/Central",
-    format = "%I:%M% %p CT, %B %d"
-  )
-
-  now_html <- paste(
-    "<p class=\"updated_time\"> Latest data: ",
-    now_formatted,
-    "</p>",
-    sep = ""
-  )
-
-  web_text <- paste(
-    "---
+web_text <- paste(
+  "---
 layout: page
 title: Basketball Standings
 permalink: /projects/basketball
@@ -856,9 +848,9 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 ---
 
 ",
-    now_html,
-    bracket_table_html,
-    "
+  now_html,
+  bracket_table_html,
+  "
 <div class = \"standings\">
 <iframe src=\"/interactive/western_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
@@ -868,8 +860,8 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 </div>
 
 ",
-    nba_standings_table_html,
-    " 
+  nba_standings_table_html,
+  " 
 
 <iframe src=\"/interactive/nba_team_rank.html\" width=\"100%\" height=\"400\"> 
 </iframe>
@@ -878,11 +870,10 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 Updated standings are posted daily on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@basketballstandings\">@basketballstandings</a>
 
-<p class=\"updated_time\">Source: <a href=\"https://www.basketball-reference.com\">Basketball Reference</a> and <a href=\"https://kalshi.com\">Kalshi</a>.</p> 
+<p class=\"updated_time\">Source: ESPN and NBA. Postseason odds are based on a simple projection based on points scored and points allowed that runs 1,000 times.</p> 
 
 ",
-    sep = ""
-  )
+  sep = ""
+)
 
-  write_lines(web_text, "projects/basketball.md")
-}
+write_lines(web_text, "projects/basketball.md")

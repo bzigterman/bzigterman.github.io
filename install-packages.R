@@ -26,9 +26,9 @@ install.packages("waldo")
 install.packages("baseballr")
 install.packages("magick")
 install.packages("txtplot")
+install.packages("hoopR")
 
 install.packages("remotes")
 remotes::install_github("rstudio/webshot2")
-remotes::install_github('sportsdataverse/hoopR')
 
 update.packages(ask = FALSE, checkBuilt = TRUE)

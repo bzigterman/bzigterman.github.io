@@ -1,31 +1,31 @@
-conference,team_label,wins,losses,win_pct_text,post,finals
-Eastern,DET,60,22,.732,0.0100,0.0100
-Eastern,BOS,56,26,.683,0.0100,0.0100
-Eastern,NYK,54,28,.659,0.9900,0.9900
-Eastern,CLE,52,30,.634,0.0100,0.0100
-Eastern,ATL,46,36,.561,0.0100,0.0100
-Eastern,TOR,46,36,.561,0.0100,0.0100
-Eastern,PHI,45,37,.549,0.0100,0.0100
-Eastern,ORL,45,37,.549,0.0100,0.0100
-Eastern,CHA,44,38,.537,0.0100,0.0100
-Eastern,MIA,43,39,.524,0.0100,0.0100
-Eastern,MIL,32,50,.390,0.0100,0.0100
-Eastern,CHI,31,51,.378,0.0100,0.0100
-Eastern,BKN,20,62,.244,0.0100,0.0100
-Eastern,IND,19,63,.232,0.0100,0.0100
-Eastern,WSH,17,65,.207,0.0100,0.0100
-Western,OKC,64,18,.780,0.0100,0.0100
-Western,SAS,62,20,.756,0.9900,0.0100
-Western,DEN,54,28,.659,0.0100,0.0100
-Western,LAL,53,29,.646,0.0100,0.0100
-Western,HOU,52,30,.634,0.0100,0.0100
-Western,MIN,49,33,.598,0.0100,0.0100
-Western,PHX,45,37,.549,0.0100,0.0100
-Western,POR,42,40,.512,0.0100,0.0100
-Western,LAC,42,40,.512,0.0100,0.0100
-Western,GSW,37,45,.451,0.0100,0.0100
-Western,DAL,26,56,.317,0.0100,0.0100
-Western,NOP,26,56,.317,0.0100,0.0100
-Western,MEM,25,57,.305,0.0100,0.0100
-Western,UTA,22,60,.268,0.0100,0.0100
-Western,SAC,22,60,.268,0.0100,0.0100
+team,wins,losses,winpercent
+Atlanta Hawks,46,36,0.5609756
+Boston Celtics,56,26,0.68292683
+Brooklyn Nets,20,62,0.24390244
+Charlotte Hornets,44,38,0.5365854
+Chicago Bulls,31,51,0.37804878
+Cleveland Cavaliers,52,30,0.63414633
+Dallas Mavericks,26,56,0.31707317
+Denver Nuggets,54,28,0.6585366
+Detroit Pistons,60,22,0.73170733
+Golden State Warriors,37,45,0.4512195
+Houston Rockets,52,30,0.63414633
+Indiana Pacers,19,63,0.23170732
+LA Clippers,42,40,0.5121951
+Los Angeles Lakers,53,29,0.64634144
+Memphis Grizzlies,25,57,0.30487806
+Miami Heat,43,39,0.5243902
+Milwaukee Bucks,32,50,0.3902439
+Minnesota Timberwolves,49,33,0.597561
+New Orleans Pelicans,26,56,0.31707317
+New York Knicks,53,29,0.64634144
+Oklahoma City Thunder,64,18,0.7804878
+Orlando Magic,45,37,0.5487805
+Philadelphia 76ers,45,37,0.5487805
+Phoenix Suns,45,37,0.5487805
+Portland Trail Blazers,42,40,0.5121951
+Sacramento Kings,22,60,0.2682927
+San Antonio Spurs,62,20,0.75609756
+Toronto Raptors,46,36,0.5609756
+Utah Jazz,22,60,0.2682927
+Washington Wizards,17,65,0.20731707
