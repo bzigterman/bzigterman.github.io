@@ -355,7 +355,7 @@ nba_standings <- raw_standings %>%
     losses,
     lasttengames,
     win_pct = winpercent,
-    conference_games_behind = gamesbehind
+    gamesbehind
   ) |>
   left_join(table, by = c("team_name" = "team_label")) |>
   mutate(
@@ -366,7 +366,12 @@ nba_standings <- raw_standings %>%
     ))
   ) |>
   mutate(team_label = team_name) |>
-  mutate(team_display_name = team_label)
+  mutate(team_display_name = team_label) |>
+  # add column for games behind in conference (subtract based on who is in first based in that conference)
+  group_by(conference) |>
+  arrange(desc(win_pct)) |>
+  mutate(conference_games_behind = gamesbehind - first(gamesbehind)) |>
+  ungroup()
 
 nba_standings_table <- nba_standings %>%
   select(
