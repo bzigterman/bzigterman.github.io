@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 05:56 PM CT, June 15</p>
+<p class="updated_time"> Latest data: 05:58 PM CT, June 15</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -26,23 +26,6 @@ Currently:
 - 0.34 inches of rain expected in the next 48 hours
 
 <noscript>
-<p>Temperature</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">   +-+--------------+-------------+--------------+--------------+-------------++
-80 +                                                                   ** **   +
-   |                                                                  *        |
-75 +  *                              * ** *                         *          +
-   |    *                     *            *                     * *           |
-70 +     *                  *       *                                          +
-   |       *                   * **          *                  *              |
-65 +        *              *                  *               *                +
-   |          **          *                     *                              |
-60 +             ** ** **                        **          *                 +
-   |                                                **                         |
-55 +                                                   ** **                   +
-   +-+--------------+-------------+--------------+--------------+-------------++
-     0             10            20             30             40            50 
-                                  Hours from Now                                </code></pre>
-</noscript><noscript>
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Mon:  0.00"         56 --------------------------- 76
 Tue:  0.21"            58 ----------------------- 75
