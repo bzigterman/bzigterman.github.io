@@ -8,58 +8,58 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:00 PM CT, June 15</p>
+<p class="updated_time"> Latest data: 01:17 PM CT, June 15</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 76°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 1° **warmer** than today.
+Today's high is 75°, which is 3° **warmer** than yesterday. Tomorrow is expected to be 1° **warmer** than today.
 
 Currently:
 
-- 72°
+- 74°
 - Mostly Clear
-- 49% humidity
-- 7 mph wind
-- 18% cloud cover
-- 29 AQI 🟩
+- 46% humidity
+- 8 mph wind
+- 33% cloud cover
+- 28 AQI 🟩
 - 0.08 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">   +-+--------------+-------------+--------------+--------------+-------------++
-75 +     * **                                ** *                              +
-   |  * *     **                       *   *     *                             |
-   |                                 *            *                        *   |
-70 +             *                  *   *                               *      +
-   |                                                *                     *    |
-65 +              *               *       *                            *       +
-   |                *                                *                         |
-   |                 * *         *                     *              *        |
-60 +                    * *                             *           *          +
-   |                       ** **                          ** *                 |
-   |                                                          * ** *           |
+   |                                       * *                             *   |
+75 +  * ** **                        *        * *                         *    +
+   |          *                           *                                    |
+70 +           *                  * *  *         *                             +
+   |                                              *                            |
+   |             *                      *                              **      |
+65 +              *              *                  *                 *        +
+   |                **         *                     *                         |
+60 +                   **                              *            *          +
+   |                      *** *                         * **       *           |
+   |                                                         ** **             |
 55 +-+--------------+-------------+--------------+--------------+-------------++
      0             10            20             30             40            50 
                                   Hours from Now                                </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Mon:  0.00"        56 ---------------------- 76
-Tue:  0.03"         57 ---------------------- 77
-Wed:  0.52"      55 ------------------------------ 81
-Thu:  0.00"        56 -------------------- 74
-Fri:  0.01"      55 -------------------- 72
-Sat:  0.00"      55 ----------------- 70
-Sun:  0.09"             61 ------ 66
-Mon:  0.00"         57 ----------------- 72
-Tue:  0.00"    53 ---------------------- 72
-Wed:  0.00"        56 ---------------------- 76
-Thu:  0.00"            60 ----------------------- 80
-Fri:  0.23"                      69 ------------------- 86
-Sat:  0.00"                            74 ----------------- 89
-Sun:  0.00"                           73 ----------------- 88
-Mon:  0.01"                    67 --------------- 80
-Tue:  0.00"                 64 -------------------- 82</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Mon:  0.00"         56 -------------------------- 75
+Tue:  0.03"          57 --------------------------- 77
+Wed:  0.79"       55 ------------------------------------ 81
+Thu:  0.00"            58 ------------------- 72
+Fri:  0.01"         56 ----------------------- 73
+Sat:  0.00"     53 ---------------------------- 74
+Sun:  1.24"                 62 ---------------- 74
+Mon:  1.21"                     65 ---------------------- 81
+Tue:  0.00"                  63 ------------- 72
+Wed:  0.00"                  63 ------------------- 77
+Thu:  0.00"                 62 ---------------------- 78
+Fri:  0.00"              60 ----------------------- 77
+Sat:  0.02"              60 -------------- 70
+Sun:  0.38"                  63 -------------------------- 82
+Mon:  0.53"                 62 ---------------- 74
+Tue:  0.00"            58 --------------- 69</code></pre>
 </noscript>
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
