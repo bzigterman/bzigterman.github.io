@@ -115,7 +115,7 @@ raw_text_block <- paste(lines, collapse = "\n")
 # Strip the leading and trailing newlines inside the pre block
 markdown_output <- paste0(
   "<noscript>\n",
-  "<h3>7-Day Outlook</h3>\n",
+  "<h3>Outlook</h3>\n",
   "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
   raw_text_block,
   "</code></pre>\n", # Removed \n here
