@@ -159,12 +159,6 @@ tibble <- tibble(
 unit <- weather_data$hourly_units$temperature_2m
 
 # Display the chart
-cat(
-  "\n=== Urbana, IL Temperature Forecast Today (",
-  unit,
-  ") ===\n\n",
-  sep = ""
-)
 ascii_text <- capture.output(
   txtplot(
     x = tibble$hours,
@@ -178,7 +172,7 @@ ascii_text
 ascii_text <- paste(ascii_text, collapse = "\n")
 fallback_html <- paste0(
   "<noscript>\n",
-  "<p>Today's Temperature</p>\n",
+  "<p>Temperature</p>\n",
   "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
   ascii_text,
   "</code></pre>\n", # Removed \n here
