@@ -146,7 +146,8 @@ nba_team_stats <- raw_standings %>%
     wins,
     losses,
     pointsfor,
-    pointsagainst
+    pointsagainst,
+    playoffseed
   ) %>%
   mutate(
     points_for = as.integer(pointsfor),
@@ -210,7 +211,7 @@ message("Simulating NBA Season...")
 for (sim in 1:n_sims) {
   # Copy regular season stats
   sim_teams <- nba_team_stats %>%
-    select(team_id, team_name, conference, wins, losses, pyth_wpct)
+    select(team_id, team_name, conference, wins, losses, pyth_wpct, playoffseed)
 
   # --- SIMULATE REMAINING REGULAR SEASON ---
   if (nrow(unplayed_games) > 0) {
@@ -254,20 +255,24 @@ for (sim in 1:n_sims) {
   for (conf in c("Eastern", "Western")) {
     conf_teams <- sim_teams %>%
       filter(conference == conf) %>%
+      # 1. Sort by simulated wins to handle unplayed games
       arrange(desc(wins)) %>%
-      mutate(raw_rank = row_number()) # Basic rank (ignoring tiebreaker nuances for simplicity)
+      mutate(simmed_rank = row_number()) %>%
+      # 2. If ESPN has assigned an official seed, lock it in. Otherwise, use the simmed rank.
+      mutate(final_bracket_seed = coalesce(playoffseed, simmed_rank)) %>%
+      arrange(final_bracket_seed)
 
-    # Extract structural seeds
-    t1 <- conf_teams %>% filter(raw_rank == 1)
-    t2 <- conf_teams %>% filter(raw_rank == 2)
-    t3 <- conf_teams %>% filter(raw_rank == 3)
-    t4 <- conf_teams %>% filter(raw_rank == 4)
-    t5 <- conf_teams %>% filter(raw_rank == 5)
-    t6 <- conf_teams %>% filter(raw_rank == 6)
-    t7 <- conf_teams %>% filter(raw_rank == 7)
-    t8 <- conf_teams %>% filter(raw_rank == 8)
-    t9 <- conf_teams %>% filter(raw_rank == 9)
-    t10 <- conf_teams %>% filter(raw_rank == 10)
+    # Extract structural seeds cleanly based on the bulletproof final_bracket_seed
+    t1 <- conf_teams %>% filter(final_bracket_seed == 1)
+    t2 <- conf_teams %>% filter(final_bracket_seed == 2)
+    t3 <- conf_teams %>% filter(final_bracket_seed == 3)
+    t4 <- conf_teams %>% filter(final_bracket_seed == 4)
+    t5 <- conf_teams %>% filter(final_bracket_seed == 5)
+    t6 <- conf_teams %>% filter(final_bracket_seed == 6)
+    t7 <- conf_teams %>% filter(final_bracket_seed == 7)
+    t8 <- conf_teams %>% filter(final_bracket_seed == 8)
+    t9 <- conf_teams %>% filter(final_bracket_seed == 9)
+    t10 <- conf_teams %>% filter(final_bracket_seed == 10)
 
     # --- SIMULATE PLAY-IN TOURNAMENT ---
     # Game 1: 7 vs 8 (Winner gets 7th seed)
