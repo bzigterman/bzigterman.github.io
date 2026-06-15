@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:48 PM CT, June 15</p>
+<p class="updated_time"> Latest data: 03:11 PM CT, June 15</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,28 +17,28 @@ Today's high is 75°, which is 3° **warmer** than yesterday. Tomorrow is expect
 
 Currently:
 
-- 74°
+- 75°
 - Clear
-- 42% humidity
+- 41% humidity
 - 8 mph wind
-- 7% cloud cover
-- 27 AQI 🟩
+- 6% cloud cover
+- 31 AQI 🟩
 - 0.08 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Temperature</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">80 +-+--------------+-------------+--------------+--------------+-------------++
-   |                                                                       *   |
-   |                                      ** *                            *    |
-75 +  * ** **                       *   *     *                         *      +
-   |                              *             *                              |
-70 +          *                  *   *                                         +
-   |                                   *         *                     *       |
-65 +           *               *                  *                   *        +
-   |             **                                                 *          |
-60 +                **        *                     **             *           +
-   |                   ** ***                          ** *      *             |
-   |                                                       * ** *              |
+   |                                                                      **   |
+   |                                    * **                            *      |
+75 +  * ** *                      *    *     *                         *       +
+   |                             *            *                                |
+70 +        *                  *    *                                          +
+   |                                 *          *                     *        |
+65 +          *               *                  *                  *          +
+   |           * *                                                 *           |
+60 +              * *       *                     * *            *             +
+   |                 * ** **                         * **       *              |
+   |                                                      ** **                |
 55 +-+--------------+-------------+--------------+--------------+-------------++
      0             10            20             30             40            50 
                                   Hours from Now                                </code></pre>
