@@ -134,7 +134,7 @@ url <- paste0(
   lon,
   "&hourly=temperature_2m",
   "&temperature_unit=fahrenheit", # Change to "celsius" if preferred
-  "&forecast_days=1",
+  "&forecast_days=3",
   "&timezone=America%2FChicago"
 )
 
@@ -145,11 +145,15 @@ weather_data <- fromJSON(url)
 temperatures <- weather_data$hourly$temperature_2m
 time_strings <- weather_data$hourly$time
 
-# Convert the ISO timestamps to just the hour (0 to 23)
-hours <- as.numeric(format(
-  as.POSIXct(time_strings, format = "%Y-%m-%dT%H:%M"),
-  "%H"
-))
+tibble <- tibble(
+  time = time_strings,
+  temperature = temperatures
+) |>
+  mutate(time = ymd_hm(time, tz = "America/Chicago")) |>
+  filter(time >= now(tzone = "America/Chicago")) |>
+  filter(time < now(tzone = "America/Chicago") + days(2)) |>
+  mutate(hours = row_number(time))
+
 
 # Get the temperature unit for the title
 unit <- weather_data$hourly_units$temperature_2m
@@ -163,11 +167,11 @@ cat(
 )
 ascii_text <- capture.output(
   txtplot(
-    x = hours,
-    y = temperatures,
+    x = tibble$hours,
+    y = tibble$temperature,
     width = 80,
     height = 15,
-    xlab = "Hour of the Day"
+    xlab = "Hours from Now",
   )
 )
 ascii_text
