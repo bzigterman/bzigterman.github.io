@@ -43,23 +43,41 @@ standings_cleaned <- live_data_raw |>
 if (file.exists(csv_path)) {
   old_data <- read_csv(csv_path, show_col_types = FALSE) |>
     select(team, wins, losses, winpercent) |>
-    arrange(team) # Ensure old data is sorted identically just in case
+    arrange(team) |>
+    # Explicitly force types to match whatever the API outputs (doubles)
+    mutate(
+      wins = as.numeric(wins),
+      losses = as.numeric(losses),
+      winpercent = as.numeric(winpercent)
+    )
 
-  # Base R's identical() is perfect here because both data frames now share the exact same structure
-  if (identical(standings_cleaned, old_data)) {
-    message("Live data is identical to cached data. Exiting early.")
+  # Align the types of your live data as well
+  standings_to_compare <- standings_cleaned |>
+    mutate(
+      wins = as.numeric(wins),
+      losses = as.numeric(losses),
+      winpercent = as.numeric(winpercent)
+    )
+
+  # Check if there are ANY row differences between the core stats
+  # data.frame inequality check is more robust across environments than identical()
+  if (
+    isTRUE(all.equal(standings_to_compare, old_data, check.attributes = FALSE))
+  ) {
+    message("Live data stats are identical to cached data. Exiting early.")
     quit(status = 0)
   }
 }
-standings_cleaned <- standings_cleaned |>
-  mutate(updated_time = now) # Add the timestamp to the cleaned data right before saving
 
-# 5. Save the updated data if it's new
-write_csv(standings_cleaned, csv_path)
+# 5. Data is confirmed NEW. Now add the timestamp and overwrite the CSV
+standings_final <- standings_cleaned |>
+  mutate(updated_time = now)
+
+write_csv(standings_final, csv_path)
 message("New data detected and cached.")
 now_formatted <-
   strftime(
-    x = standings_cleaned$updated_time[1],
+    x = standings_final$updated_time[1],
     tz = "US/Central",
     format = "%I:%M% %p CT, %B %d"
   )
