@@ -46,7 +46,7 @@ url <- paste0(
   "&longitude=",
   lon,
   "&daily=temperature_2m_max,temperature_2m_min,precipitation_sum",
-  "&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=America%2FChicago"
+  "&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=America%2FChicago&forecast_days=16"
 )
 
 response <- GET(url)
