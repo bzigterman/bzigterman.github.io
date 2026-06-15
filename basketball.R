@@ -716,7 +716,6 @@ saveWidget(
 )
 
 # playoffs bracket ----
-
 ## postseason check ----
 postseason_games <-
   load_nba_team_box(seasons = current_season) |>
