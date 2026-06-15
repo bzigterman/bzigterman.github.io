@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:42 PM CT, June 14</p>
+<p class="updated_time"> Latest data: 08:00 PM CT, June 14</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,40 +17,40 @@ Today's high is 72°, which is 7° *colder* than yesterday. Tomorrow is expected
 
 Currently:
 
-- 68°
-- Breezy and Mostly Clear
-- 55% humidity
-- 13 mph wind
-- 22% cloud cover
-- 35 AQI 🟩
-- 0.35 inches of rain expected in the next 48 hours
+- 65°
+- Partly Cloudy
+- 64% humidity
+- 6 mph wind
+- 41% cloud cover
+- 36 AQI 🟩
+- 0.59 inches of rain expected in the next 48 hours
 
 <noscript>
 <p>Today's Temperature</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">   +--+--------------+--------------+--------------+--------------+------------+
-   |                                            *  *  *                        |
-70 +  *  *                 *                 *                                 +
-   |        *  *  *  *  *     *                          *  *                  |
-   |                                                           *               |
+<pre><code style="font-family: monospace; font-size: 0.75em;">72 +--+--------------+--------------+--------------+--------------+------------+
+   |                                            *  *                           |
+70 +  *                    *                          *                        +
+   |     *  *  *  *     *     *              *              *                  |
+68 +                 *                                   *     *               +
    |                                                                           |
-65 +                             *        *                       *            +
-   |                                *  *                                       |
-   |                                                                           |
-   |                                                                 *         |
-60 +                                                                    *      +
+66 +                             *                                             +
+   |                                      *                       *            |
+64 +                                *  *                             *         +
+   |                                                                    *      |
+62 +                                                                           +
    |                                                                       *   |
-   +--+--------------+--------------+--------------+--------------+------------+
+60 +--+--------------+--------------+--------------+--------------+------------+
       0              5             10             15             20             
                                   Hour of the Day                               </code></pre>
 </noscript><noscript>
 <h3>7-Day Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"              58 -------------------- 72
-Mon:  0.00"     52 --------------------------------- 75
-Tue:  0.36"            57 ------------------- 70
-Wed:  1.41"        54 ------------------------------------ 79
-Thu:  0.01"              58 --------------------- 73
-Fri:  0.00"         55 ----------------------- 71
-Sat:  0.01"              58 ------------------ 71</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"               60 ----------------- 72
+Mon:  0.00"     53 -------------------------------- 75
+Tue:  0.58"           57 ----------------- 69
+Wed:  0.73"        55 ------------------------------------ 80
+Thu:  0.00"            58 ---------------------- 73
+Fri:  0.00"      54 ------------------- 67
+Sat:  0.02"        55 ------------------------------ 76</code></pre>
 </noscript>
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
