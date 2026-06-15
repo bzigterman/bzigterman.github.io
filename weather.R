@@ -124,62 +124,6 @@ markdown_output <- paste0(
 
 cat(markdown_output)
 
-# daily chart ----
-# Construct the Open-Meteo API URL
-url <- paste0(
-  "https://api.open-meteo.com/v1/forecast?",
-  "latitude=",
-  lat,
-  "&longitude=",
-  lon,
-  "&hourly=temperature_2m",
-  "&temperature_unit=fahrenheit", # Change to "celsius" if preferred
-  "&forecast_days=3",
-  "&timezone=America%2FChicago"
-)
-
-# Fetch and parse the weather data
-weather_data <- fromJSON(url)
-
-# Extract temperatures and hours
-temperatures <- weather_data$hourly$temperature_2m
-time_strings <- weather_data$hourly$time
-
-tibble <- tibble(
-  time = time_strings,
-  temperature = temperatures
-) |>
-  mutate(time = ymd_hm(time, tz = "America/Chicago")) |>
-  filter(time >= now(tzone = "America/Chicago")) |>
-  filter(time < now(tzone = "America/Chicago") + days(2)) |>
-  mutate(hours = row_number(time))
-
-
-# Get the temperature unit for the title
-unit <- weather_data$hourly_units$temperature_2m
-
-# Display the chart
-ascii_text <- capture.output(
-  txtplot(
-    x = tibble$hours,
-    y = tibble$temperature,
-    width = 80,
-    height = 15,
-    xlab = "Hours from Now",
-  )
-)
-ascii_text
-ascii_text <- paste(ascii_text, collapse = "\n")
-fallback_html <- paste0(
-  "<noscript>\n",
-  "<p>Temperature</p>\n",
-  "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
-  ascii_text,
-  "</code></pre>\n", # Removed \n here
-  "</noscript>"
-)
-
-
 # pirate api ----
 Sys.getenv("PIRATE_WEATHER")
 
@@ -2416,7 +2360,6 @@ Currently:
   champaign_precip_forecast,
   "
 ",
-  fallback_html,
   markdown_output,
   "
 The current weather is posted regularly on Mastodon <a rel=\"me\" href=\"https://mastodon.social/@ChampaignWeather\">@ChampaignWeather@mastodon.social</a>
