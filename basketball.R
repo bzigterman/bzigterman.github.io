@@ -650,7 +650,7 @@ fig1 <- hchart(
     pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
   )
 ) %>%
-  hc_colors(brewer.pal(12, "Paired")) %>%
+  hc_colors(brewer.pal(8, "Dark2")) %>%
   hc_legend(
     enabled = TRUE,
     align = "right",
@@ -661,11 +661,10 @@ fig1 <- hchart(
   hc_yAxis(
     title = "",
     endOnTick = FALSE,
-    startOnTick = FALSE,
-    gridLineColor = "#B2BEB5"
+    startOnTick = FALSE
   ) %>%
   hc_xAxis(title = "", max = 82) %>%
-  hc_chart(backgroundColor = "#899499") |>
+  hc_chart(backgroundColor = "white") |>
   hc_add_theme(
     hc_theme_bloom()
   )
@@ -685,7 +684,7 @@ fig2 <- hchart(
     pointFormat = "{point.team_display_name}:<br>{point.wins} – {point.losses}, {point.win_pct_text}"
   )
 ) %>%
-  hc_colors(brewer.pal(12, "Paired")) %>%
+  hc_colors(brewer.pal(8, "Dark2")) %>%
   hc_legend(
     enabled = TRUE,
     align = "right",
@@ -696,11 +695,10 @@ fig2 <- hchart(
   hc_yAxis(
     title = "",
     endOnTick = FALSE,
-    startOnTick = FALSE,
-    gridLineColor = "#B2BEB5"
+    startOnTick = FALSE
   ) %>%
   hc_xAxis(title = "", max = 82) %>%
-  hc_chart(backgroundColor = "#899499") |>
+  hc_chart(backgroundColor = "white") |>
   hc_add_theme(
     hc_theme_bloom()
   )
