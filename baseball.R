@@ -800,15 +800,14 @@ standings_interactive <- function(target_league_id) {
       pointFormat = "{point.team_label}: {point.cum_wins}-{point.cum_losses}"
     )
   ) %>%
-    hc_chart(backgroundColor = "#899499") |>
-    hc_colors(brewer.pal(9, "Set1")) %>%
+    hc_chart(backgroundColor = "white") |>
+    hc_colors(brewer.pal(8, "Dark2")) %>%
     hc_legend(enabled = FALSE) %>%
     hc_title(text = league_title) %>% # 3. Updated title
     hc_yAxis(
       title = "",
       endOnTick = FALSE,
-      startOnTick = FALSE,
-      gridLineColor = "#B2BEB5"
+      startOnTick = FALSE
     ) %>%
     hc_xAxis(title = "", max = 162) %>%
     hc_add_theme(hc_theme_bloom())
