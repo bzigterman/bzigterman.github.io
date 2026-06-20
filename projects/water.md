@@ -18,7 +18,7 @@ permalink: /projects/water
 1100 +            * **  **        *                   *                        +
      |            ********        ** *      *  *  ** ***                       |
 1080 +                **           **** ** ****** **** ****                    +
-     |                                ****** *  ***       *        **          |
+     |                                ****** *  ***       *        *           |
      |                                    *               ***    ******* **    |
 1060 +                                                      **   *  *******    +
      |                                                       *  **     ** *    |
@@ -27,9 +27,9 @@ permalink: /projects/water
                   2010             2015            2020             2025        </code></pre>
 </noscript>
 Elevation:
-- 1,047 feet
-- 152 feet above the minimum level
-- 182 feet below the maximum level
+- 1,046 feet
+- 151 feet above the minimum level
+- 183 feet below the maximum level
 - down 9 feet from a year ago
 - down 26 feet from ten years ago
 
@@ -43,7 +43,7 @@ Elevation:
      |                   **                                                    |
 3650 +            **  *  ***                                                   +
      |         ** ****** * ***               **                                |
-     |         **** ** ***   **          **  ***    *                          |
+     |         **** ** ***   **          ** ****   **                          |
      |  *****  * **     **    *    ** *******  **  *****                       |
 3600 +   *******              **** **** ** **   ** *  ***                      +
      |        *                 ****  *          ***    **       *  **         |
@@ -60,7 +60,7 @@ Elevation:
 - 158 feet above the minimum level
 - 181 feet below the maximum level
 - down 34 feet from a year ago
-- down 87 feet from ten years ago
+- down 88 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
