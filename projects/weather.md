@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 07:54 PM CT, June 21</p>
+<p class="updated_time"> Latest data: 07:59 PM CT, June 21</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -28,7 +28,7 @@ Currently:
 <noscript>
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  3.84"          61 ---------------- 74
-Mon:  0.03"         60 ------------- 71
+Mon:  0.00"         60 ------------- 71
 Tue:  0.00"    56 ---------------------- 74
 Wed:  0.00"        59 -------------------- 76
 Thu:  0.00"              64 ------------------ 79
