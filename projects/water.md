@@ -19,7 +19,7 @@ permalink: /projects/water
      |            ********        ** *      *  *  ** ***                       |
 1080 +                **           **** ** ****** **** ***                     +
      |                                ****** *  ***      **        *           |
-     |                                   **               ***    ******* **    |
+     |                                   *                ***    ******* **    |
 1060 +                                                      **   *  *******    +
      |                                                       *  **     ** *    |
 1040 +                                                       ****         **   +
@@ -30,7 +30,7 @@ Elevation:
 - 1,046 feet
 - 151 feet above the minimum level
 - 183 feet below the maximum level
-- down 9 feet from a year ago
+- down 10 feet from a year ago
 - down 26 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -51,7 +51,7 @@ Elevation:
      |                                                   **     * *** ***      |
 3550 +                                                    **    *       **     +
      |                                                     **** *        *     |
-     |                                                      *****         **   |
+     |                                                      *****        ***   |
      +--------------+----------------+---------------+----------------+--------+
                   2010             2015            2020             2025        </code></pre>
 </noscript>
@@ -60,7 +60,7 @@ Elevation:
 - 157 feet above the minimum level
 - 181 feet below the maximum level
 - down 35 feet from a year ago
-- down 90 feet from ten years ago
+- down 91 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
