@@ -11,12 +11,12 @@ permalink: /projects/water
 <noscript>
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +--------------+----------------+---------------+----------------+--------+
-     |  ****              **                                                   |
-1120 +   ***              * * **                                               +
+     |  * **              **                                                   |
+1120 +   ***              *** **                                               +
      |     ****  *       ** ****                                               |
      |      *******      *     ****                                            |
-1100 +            * **  **        *                   *                        +
-     |            ********        ****      *  *  ** ***                       |
+1100 +            * **  **        *                  **                        +
+     |            *******         ****      *  *  ** ***                       |
 1080 +                **           **** ** ****** **** ***                     +
      |                                ****** *  ***      **        *           |
      |                                   *                ***    ******* **    |
@@ -56,8 +56,8 @@ Elevation:
                   2010             2015            2020             2025        </code></pre>
 </noscript>
 Elevation:
-- 3,527 feet
-- 157 feet above the minimum level
+- 3,526 feet
+- 156 feet above the minimum level
 - 182 feet below the maximum level
 - down 35 feet from a year ago
 - down 93 feet from ten years ago
