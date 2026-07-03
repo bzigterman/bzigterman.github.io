@@ -5,7 +5,7 @@ permalink: /projects/baseball
 imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ---
 
-<p class="updated_time"> Latest data: 01:09 AM CDT, Friday, July 03</p>
+<p class="updated_time"> Latest data: 10:47 AM CDT, Friday, July 03</p>
 ### Games Above .500
 
 <div class = "standings">
