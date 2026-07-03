@@ -16,9 +16,9 @@ permalink: /projects/water
      |     ****  *       ** ****                                               |
      |      *******      *     ****                                            |
 1100 +            * **  **        *                  **                        +
-     |            *******         ****     **  *  ** ***                       |
+     |            *******         * **     **  *  ** ***                       |
 1080 +                **           **** ** ****** **** ***                     +
-     |                                ****** *  ***      **        *           |
+     |                                ****** *  ***      **       **           |
      |                                   *                ***    ******* **    |
 1060 +                                                      **   *  *******    +
      |                                                       *  **     ** *    |
@@ -27,9 +27,9 @@ permalink: /projects/water
                   2010            2015             2020             2025        </code></pre>
 </noscript>
 Elevation:
-- 1,045 feet
-- 150 feet above the minimum level
-- 184 feet below the maximum level
+- 1,044 feet
+- 149 feet above the minimum level
+- 185 feet below the maximum level
 - down 10 feet from a year ago
 - down 27 feet from ten years ago
 
@@ -46,7 +46,7 @@ Elevation:
      |         **** ** ***   **          ** ****   **                          |
      |  *****  * **     *     *    ** *******  **  *****                       |
 3600 +   *******              **** **** ** **   ** *  ***                      +
-     |        *                 **** **          ***    **       *  **         |
+     |        *                 **** **          ***    *       **  **         |
      |                           **               **     *      *** ***        |
      |                                                   **     * *** ***      |
 3550 +                                                    **    *       **     +
@@ -58,9 +58,9 @@ Elevation:
 Elevation:
 - 3,526 feet
 - 156 feet above the minimum level
-- 182 feet below the maximum level
+- 183 feet below the maximum level
 - down 35 feet from a year ago
-- down 94 feet from ten years ago
+- down 95 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
