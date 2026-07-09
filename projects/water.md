@@ -17,7 +17,7 @@ permalink: /projects/water
      |      *******      *     ****                                            |
 1100 +            * **  **        *                  **                        +
      |            *******         * **     **  *  ** ***                       |
-1080 +                **          ****  ** ****** **** ***                     +
+1080 +                **          ****  ** *********** ***                     +
      |                               ******* *  **       **       **           |
      |                                   *                ***    ******  **    |
 1060 +                                                      **  **  *******    +
@@ -31,7 +31,7 @@ Elevation:
 - 148 feet above the minimum level
 - 186 feet below the maximum level
 - down 11 feet from a year ago
-- down 29 feet from ten years ago
+- down 28 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -42,7 +42,7 @@ Elevation:
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +--------------+---------------+----------------+----------------+--------+
      |                   **                                                    |
 3650 +            ** **  ***                                                   +
-     |         ** ****** * ***               **                                |
+     |         ** ****** * **               ***                                |
      |         **** ** ***   **          ** * **   **                          |
      |  *****  * **     *     *    ** *******  **  *****                       |
 3600 +   *******              ********* ** **   ** *  ***                      +
@@ -60,7 +60,7 @@ Elevation:
 - 155 feet above the minimum level
 - 183 feet below the maximum level
 - down 35 feet from a year ago
-- down 96 feet from ten years ago
+- down 97 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
