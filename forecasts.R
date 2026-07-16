@@ -32,37 +32,39 @@ today <- strftime(x = now, tz = "US/Central", format = "%B %d")
 
 # temperature ----
 ## get data ----
-om_url <- paste0(
-  "https://api.open-meteo.com/v1/forecast?latitude=",
-  champaign_lat,
-  "&longitude=",
-  champaign_lon,
-  "&hourly=temperature_2m&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
-)
+om_url <-
+  paste0(
+    "https://ensemble-api.open-meteo.com/v1/ensemble?latitude=",
+    champaign_lat,
+    "&longitude=",
+    champaign_lon,
+    "&hourly=temperature_2m,snowfall,rain&models=ncep_gefs_ensemble_mean_seamless,ncep_aigefs025_ensemble_mean,ukmo_global_ensemble_mean_20km,dwd_icon_eps_ensemble_mean_seamless,ecmwf_ifs025_ensemble_mean,ecmwf_aifs025_ensemble_mean,cmc_gem_geps_ensemble_mean,bom_access_global_ensemble_mean,google_weathernext2_ensemble_mean&timezone=auto&past_days=1&forecast_days=21&timeformat=unixtime&precipitation_unit=inch&temperature_unit=fahrenheit"
+  )
+
 om <- rio::import(om_url, format = "json")
 om_temp_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = temperature_2m_ecmwf_ifs) |>
-  select(!temperature_2m_ecmwf_ifs) |>
-  mutate(AIFS = temperature_2m_ecmwf_aifs025) |>
-  select(!temperature_2m_ecmwf_aifs025) |>
-  mutate(CMA = temperature_2m_cma_grapes_global) |>
-  select(!temperature_2m_cma_grapes_global) |>
-  mutate(ABOM = temperature_2m_bom_access_global) |>
-  select(!temperature_2m_bom_access_global) |>
-  mutate(NOAA = temperature_2m_gfs_seamless) |>
-  select(!temperature_2m_gfs_seamless) |>
-  mutate(GraphCast = temperature_2m_gfs_graphcast025) |>
-  select(!temperature_2m_gfs_graphcast025) |>
-  mutate(JMA = temperature_2m_jma_seamless) |>
-  select(!temperature_2m_jma_seamless) |>
-  mutate(DWD = temperature_2m_icon_seamless) |>
-  select(!temperature_2m_icon_seamless) |>
-  mutate(MSC = temperature_2m_gem_seamless) |>
-  select(!temperature_2m_gem_seamless) |>
-  mutate(MeteoFrance = temperature_2m_meteofrance_seamless) |>
-  select(!temperature_2m_meteofrance_seamless) |>
+  # only keep columns with temperature data
+  select(time, datetime, contains("temperature")) |>
+  mutate(WeatherNext = temperature_2m_google_weathernext2_ensemble_mean) |>
+  select(!temperature_2m_google_weathernext2_ensemble_mean) |>
+  mutate(DWD = temperature_2m_dwd_icon_eps_ensemble_mean_seamless) |>
+  select(!temperature_2m_dwd_icon_eps_ensemble_mean_seamless) |>
+  mutate(UKMO = temperature_2m_ukmo_global_ensemble_mean_20km) |>
+  select(!temperature_2m_ukmo_global_ensemble_mean_20km) |>
+  mutate(CMC = temperature_2m_cmc_gem_geps_ensemble_mean) |>
+  select(!temperature_2m_cmc_gem_geps_ensemble_mean) |>
+  mutate(ECMWF = temperature_2m_ecmwf_ifs025_ensemble_mean) |>
+  select(!temperature_2m_ecmwf_ifs025_ensemble_mean) |>
+  mutate(AIFS = temperature_2m_ecmwf_aifs025_ensemble_mean) |>
+  select(!temperature_2m_ecmwf_aifs025_ensemble_mean) |>
+  mutate(NOAA = temperature_2m_ncep_gefs_ensemble_mean_seamless) |>
+  select(!temperature_2m_ncep_gefs_ensemble_mean_seamless) |>
+  mutate(AIGEFS = temperature_2m_ncep_aigefs025_ensemble_mean) |>
+  select(!temperature_2m_ncep_aigefs025_ensemble_mean) |>
+  mutate(ABOM = temperature_2m_bom_access_global_ensemble_mean) |>
+  select(!temperature_2m_bom_access_global_ensemble_mean) |>
   pivot_longer(!c(time, datetime)) |>
   drop_na() |>
   mutate(name = as_factor(name))
@@ -185,38 +187,31 @@ saveWidget(
 
 # snow ----
 ## get data ----
-om_url <- paste0(
-  "https://api.open-meteo.com/v1/forecast?latitude=",
-  champaign_lat,
-  "&longitude=",
-  champaign_lon,
-  "&hourly=snowfall&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
-)
-om <- rio::import(om_url, format = "json")
 om_snow_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = snowfall_ecmwf_ifs) |>
-  select(!snowfall_ecmwf_ifs) |>
-  mutate(AIFS = snowfall_ecmwf_aifs025) |>
-  select(!snowfall_ecmwf_aifs025) |>
-  mutate(CMA = snowfall_cma_grapes_global) |>
-  select(!snowfall_cma_grapes_global) |>
-  mutate(ABOM = snowfall_bom_access_global) |>
-  select(!snowfall_bom_access_global) |>
-  mutate(NOAA = snowfall_gfs_seamless) |>
-  select(!snowfall_gfs_seamless) |>
-  mutate(JMA = snowfall_jma_seamless) |>
-  select(!snowfall_jma_seamless) |>
-  mutate(DWD = snowfall_icon_seamless) |>
-  select(!snowfall_icon_seamless) |>
-  mutate(MSC = snowfall_gem_seamless) |>
-  select(!snowfall_gem_seamless) |>
-  mutate(MeteoFrance = snowfall_meteofrance_seamless) |>
-  select(!snowfall_meteofrance_seamless) |>
-  mutate(GraphCast = snowfall_gfs_graphcast025) |>
-  select(!snowfall_gfs_graphcast025) |>
-  pivot_longer(!c(time, datetime))
+  select(time, datetime, contains("snowfall")) |>
+  mutate(ECMWF = snowfall_ecmwf_ifs025_ensemble_mean) |>
+  select(!snowfall_ecmwf_ifs025_ensemble_mean) |>
+  mutate(AIFS = snowfall_ecmwf_aifs025_ensemble_mean) |>
+  select(!snowfall_ecmwf_aifs025_ensemble_mean) |>
+  mutate(CMC = snowfall_cmc_gem_geps_ensemble_mean) |>
+  select(!snowfall_cmc_gem_geps_ensemble_mean) |>
+  mutate(ABOM = snowfall_bom_access_global_ensemble_mean) |>
+  select(!snowfall_bom_access_global_ensemble_mean) |>
+  mutate(NOAA = snowfall_ncep_gefs_ensemble_mean_seamless) |>
+  select(!snowfall_ncep_gefs_ensemble_mean_seamless) |>
+  mutate(AIGEFS = snowfall_ncep_aigefs025_ensemble_mean) |>
+  select(!snowfall_ncep_aigefs025_ensemble_mean) |>
+  mutate(WeatherNext = snowfall_google_weathernext2_ensemble_mean) |>
+  select(!snowfall_google_weathernext2_ensemble_mean) |>
+  mutate(DWD = snowfall_dwd_icon_eps_ensemble_mean_seamless) |>
+  select(!snowfall_dwd_icon_eps_ensemble_mean_seamless) |>
+  mutate(UKMO = snowfall_ukmo_global_ensemble_mean_20km) |>
+  select(!snowfall_ukmo_global_ensemble_mean_20km) |>
+  pivot_longer(!c(time, datetime)) |>
+  drop_na() |>
+  mutate(name = as_factor(name))
 
 om_snow_two_days <- om_snow_hourly |>
   filter(time > now(tzone = "America/Chicago")) |>
@@ -274,40 +269,31 @@ saveWidget(
 
 # rain ----
 ## get data ----
-om_url <- paste0(
-  "https://api.open-meteo.com/v1/forecast?latitude=",
-  champaign_lat,
-  "&longitude=",
-  champaign_lon,
-  "&hourly=rain,showers&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timeformat=unixtime&past_days=1&forecast_days=16&timezone=America%2FChicago&models=ecmwf_ifs,ecmwf_aifs025,cma_grapes_global,bom_access_global,gfs_seamless,jma_seamless,icon_seamless,gem_seamless,meteofrance_seamless,gfs_graphcast025"
-)
-om <- rio::import(om_url, format = "json")
 om_rain_hourly <- as_tibble(om$hourly) |>
   mutate(datetime = as_datetime(time, tz = "America/Chicago")) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
-  mutate(ECMWF = rain_ecmwf_ifs + showers_ecmwf_ifs) |>
-  select(!c(rain_ecmwf_ifs, showers_ecmwf_ifs)) |>
-  mutate(AIFS = rain_ecmwf_aifs025 + showers_ecmwf_aifs025) |>
-  select(!c(rain_ecmwf_aifs025, showers_ecmwf_aifs025)) |>
-  mutate(GraphCast = rain_gfs_graphcast025 + showers_gfs_graphcast025) |>
-  select(!c(rain_gfs_graphcast025, showers_gfs_graphcast025)) |>
-  mutate(CMA = rain_cma_grapes_global + showers_cma_grapes_global) |>
-  select(!c(rain_cma_grapes_global, showers_cma_grapes_global)) |>
-  mutate(ABOM = rain_bom_access_global + showers_bom_access_global) |>
-  select(!c(rain_bom_access_global, showers_bom_access_global)) |>
-  mutate(NOAA = rain_gfs_seamless + showers_gfs_seamless) |>
-  select(!c(rain_gfs_seamless, showers_gfs_seamless)) |>
-  mutate(DWD = rain_icon_seamless + showers_icon_seamless) |>
-  select(!c(rain_icon_seamless, showers_icon_seamless)) |>
-  mutate(MSC = rain_gem_seamless + showers_gem_seamless) |>
-  select(!c(rain_gem_seamless, showers_gem_seamless)) |>
-  mutate(
-    MeteoFrance = rain_meteofrance_seamless + showers_meteofrance_seamless
-  ) |>
-  select(!c(rain_meteofrance_seamless, showers_meteofrance_seamless)) |>
-  mutate(JMA = rain_jma_seamless + showers_jma_seamless) |>
-  select(!c(rain_jma_seamless, showers_jma_seamless)) |>
-  pivot_longer(!c(time, datetime))
+  select(time, datetime, contains("rain")) |>
+  mutate(ECMWF = rain_ecmwf_ifs025_ensemble_mean) |>
+  select(!rain_ecmwf_ifs025_ensemble_mean) |>
+  mutate(AIFS = rain_ecmwf_aifs025_ensemble_mean) |>
+  select(!rain_ecmwf_aifs025_ensemble_mean) |>
+  mutate(CMC = rain_cmc_gem_geps_ensemble_mean) |>
+  select(!rain_cmc_gem_geps_ensemble_mean) |>
+  mutate(ABOM = rain_bom_access_global_ensemble_mean) |>
+  select(!rain_bom_access_global_ensemble_mean) |>
+  mutate(NOAA = rain_ncep_gefs_ensemble_mean_seamless) |>
+  select(!rain_ncep_gefs_ensemble_mean_seamless) |>
+  mutate(AIGEFS = rain_ncep_aigefs025_ensemble_mean) |>
+  select(!rain_ncep_aigefs025_ensemble_mean) |>
+  mutate(WeatherNext = rain_google_weathernext2_ensemble_mean) |>
+  select(!rain_google_weathernext2_ensemble_mean) |>
+  mutate(DWD = rain_dwd_icon_eps_ensemble_mean_seamless) |>
+  select(!rain_dwd_icon_eps_ensemble_mean_seamless) |>
+  mutate(UKMO = rain_ukmo_global_ensemble_mean_20km) |>
+  select(!rain_ukmo_global_ensemble_mean_20km) |>
+  pivot_longer(!c(time, datetime)) |>
+  drop_na() |>
+  mutate(name = as_factor(name))
 
 om_rain_two_days <- om_rain_hourly |>
   filter(time > now(tzone = "America/Chicago")) |>
@@ -422,14 +408,13 @@ webappicon: /weather.png
 
 ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
 AIFS: [European Centre for Medium-Range Weather Forecasts AIFS](https://openmeteo.substack.com/p/artificial-intelligence-weather-model)  
-CMA: China Meteorological Administration GFS GRAPES  
-ABOM: Australian Bureau of Meteorology ACCESS-G  
 NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
-GraphCast: [NOAA GFS GraphCast](https://openmeteo.substack.com/p/exploring-graphcast)  
-JMA: Japan Meteorological Agency MSM & GSM  
+AIGEFS: NOAA GEFS with AI post-processing
 DWD: German Meteorological Service ICON  
-MSC: Canadian Weather Service GEM  
-MeteoFrance: MeteoFrance Arpege & Arome
+WeatherNext: Google WeatherNext2
+UKMO: UK Met Office Global Model
+CMC: Canadian Meteorological Centre GEM GEPS
+
 
 ",
   file = "projects/weather/forecasts.md",
