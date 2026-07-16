@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ### Compare Weather Forecast Models for Champaign–Urbana
 
-<p class="updated_time"> Latest data: 10:51 AM CT, July 16</p>
+<p class="updated_time"> Latest data: 10:55 AM CT, July 16</p>
 
 ## Temperature
 
@@ -28,10 +28,10 @@ webappicon: /weather.png
 ECMWF: European Centre for Medium-Range Weather Forecasts IFS  
 AIFS: [European Centre for Medium-Range Weather Forecasts AIFS](https://openmeteo.substack.com/p/artificial-intelligence-weather-model)  
 NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
-AIGEFS: NOAA GEFS with AI post-processing
+AIGEFS: NOAA GEFS with AI post-processing  
 DWD: German Meteorological Service ICON  
-WeatherNext: Google WeatherNext 2
-UKMO: UK Met Office Global Model
+WeatherNext: Google WeatherNext 2  
+UKMO: UK Met Office Global Model  
 CMC: Canadian Meteorological Centre GEM GEPS
 
 
