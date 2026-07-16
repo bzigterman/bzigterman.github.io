@@ -411,7 +411,7 @@ AIFS: [European Centre for Medium-Range Weather Forecasts AIFS](https://openmete
 NOAA: National Oceanic and Atmospheric Administration GFS & HRRR  
 AIGEFS: NOAA GEFS with AI post-processing
 DWD: German Meteorological Service ICON  
-WeatherNext: Google WeatherNext2
+WeatherNext: Google WeatherNext 2
 UKMO: UK Met Office Global Model
 CMC: Canadian Meteorological Centre GEM GEPS
 
