@@ -44,9 +44,9 @@ Elevation:
 3650 +            ** *   **                                                    +
      |         ** ***********               ***                                |
      |         **** ** **   **           ** * **   **                          |
-     |  ***** ** **     *    **   *** *******  **  *****                       |
+     |  ***** ** **     *    **   *** ** ****  **  *****                       |
 3600 +   ******               ***** *** ** **   ** * ****                      +
-     |       **                 ***  *           ***    *       **  **         |
+     |       **                 ***  *           ***    *       **  *          |
      |                           **               **    **      *******        |
      |                                                   **     * **  **       |
 3550 +                                                    **    *      **      +
@@ -56,8 +56,8 @@ Elevation:
                   2010            2015             2020            2025         </code></pre>
 </noscript>
 Elevation:
-- 3,524 feet
-- 154 feet above the minimum level
+- 3,523 feet
+- 153 feet above the minimum level
 - 185 feet below the maximum level
 - down 34 feet from a year ago
 - down 97 feet from ten years ago
