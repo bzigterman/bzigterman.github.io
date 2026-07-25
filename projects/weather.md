@@ -8,40 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 11:55 AM CT, July 25</p>
+<p class="updated_time"> Latest data: 12:43 PM CT, July 25</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 80°, which is 2° **warmer** than yesterday. Tomorrow is expected to be 17° **warmer** than today.
+Today's high is 75°, which is 3° *colder* than yesterday. Tomorrow is expected to be 22° **warmer** than today.
 
 Currently:
 
 - 70°
 - Overcast
-- 92% humidity
-- 8 mph wind
-- 100% cloud cover
+- 96% humidity
+- 6 mph wind
+- 94% cloud cover
 - 50 AQI 🟩
 
 <noscript>
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.00"          64 ----------------- 80
-Sun:  0.00"              68 ------------------------------- 96
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.00"          64 ------------ 75
+Sun:  0.00"          64 ----------------------------------- 96
 Mon:  0.01"                      75 --------------- 89
 Tue:  0.00"                  72 -------------------- 90
 Wed:  0.00"            66 -------------------- 84
 Thu:  0.00"            66 ----------------- 82
-Fri:  0.69"          64 ------------------- 82
-Sat:  1.02"      61 --------- 69
+Fri:  0.00"          64 ------------------- 82
+Sat:  0.00"      61 --------- 69
 Sun:  0.00"    59 ------------------------ 81
 Mon:  0.00"          64 ----------------- 80
 Tue:  0.01"            66 --------------------- 85
-Wed:  0.02"         63 ---------------- 78
+Wed:  0.05"         63 ---------------- 78
 Thu:  0.00"     60 ------------------- 77
 Fri:  0.00"      61 -------------------- 79
-Sat:  0.09"          64 ------------------- 82
-Sun:  0.00"     60 ------------------ 76</code></pre>
+Sat:  0.00"          64 ------------------- 82
+Sun:  0.07"     60 ------------------ 76</code></pre>
 </noscript>
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
