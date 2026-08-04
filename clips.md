@@ -10,6 +10,8 @@ Here's some of my best work:
 
 ### 2026
 
+* July 21: [Bankruptcy Group Pushes Axing Ch. 15's U.S. Property Rule](https://www.law360.com/bankruptcy-authority/articles/2504102?)
+* June 15: [Prince Global Tests Ch. 15 Limits](https://www.law360.com/bankruptcy-authority/articles/2489906?)
 * May 6: [Cannabist Ch. 15 Tests Bankruptcy Access For Pot Cos.](https://www.law360.com/bankruptcy-authority/articles/2474439?)
 * April 2: [Bankruptcy Judge Defends Simultaneous Case Mediator Role](https://www.law360.com/bankruptcy-authority/articles/2460657?)
 
