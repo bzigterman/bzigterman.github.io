@@ -64,7 +64,7 @@ day_names <- format(dates, "%a")
 # 2. Define Chart Dimensions
 scale_min <- min(lows) - 2
 scale_max <- max(highs) + 2
-total_width <- 30
+total_width <- 29
 
 # 3. Generate the Text Bars
 lines <- c()
