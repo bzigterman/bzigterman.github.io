@@ -114,12 +114,12 @@ raw_text_block <- paste(lines, collapse = "\n")
 
 # Strip the leading and trailing newlines inside the pre block
 markdown_output <- paste0(
-  "<noscript>\n",
+  #"<noscript>\n",
   "<h3>Outlook</h3>\n",
   "<pre><code style=\"font-family: monospace; font-size: 0.75em;\">", # Removed \n here
   raw_text_block,
-  "</code></pre>\n", # Removed \n here
-  "</noscript>"
+  "</code></pre>\n" # Removed \n here
+  #"</noscript>"
 )
 
 cat(markdown_output)
@@ -192,6 +192,7 @@ om_hourly <- as_tibble(om$hourly) |>
   mutate(dewPoint = dewpoint_2m) |>
   select(!dewpoint_2m) |>
   filter(time > now(tzone = "America/Chicago") - days(1)) |>
+  filter(time < now(tzone = "America/Chicago") + days(7)) |>
   mutate(rain = if_else(rain == 0, NA, rain)) |>
   mutate(snowfall = if_else(snowfall == 0, NA, snowfall)) |>
   mutate(snow_depth = if_else(snow_depth <= 0, NA, 12 * snow_depth)) |>
