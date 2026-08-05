@@ -905,10 +905,7 @@ fig <- highchart() |>
   ) |>
   hc_legend(enabled = FALSE) |>
   hc_chart(
-    plotBackgroundColor = "#E8EEF5",
-    scrollablePlotArea = list(
-      minWidth = 700
-    )
+    plotBackgroundColor = "#E8EEF5"
   )
 fig
 saveWidget(
