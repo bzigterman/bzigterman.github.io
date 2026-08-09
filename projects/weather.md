@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:30 PM CT, August 09</p>
+<p class="updated_time"> Latest data: 06:46 PM CT, August 09</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -20,28 +20,27 @@ Currently:
 - 85°
 - Mostly Clear
 - 76% humidity
-- 10 mph wind
-- 35% cloud cover
+- 9 mph wind
+- 22% cloud cover
 - 48 AQI 🟩
-- 0.01 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"       66 --------------- 88
-Mon:  0.04"           72 --------------- 94
-Tue:  0.00"               78 -------- 90
-Wed:  0.04"         69 ---------- 84
-Thu:  0.42"        67 ---------- 83
-Fri:  0.45"         68 ------- 80
-Sat:  0.00"           71 ------------- 92
-Sun:  0.00"       66 ------------- 86
-Mon:  0.04"     63 ------------- 82
-Tue:  0.00"             75 --------- 88
-Wed:  0.00"          70 ---------- 86
-Thu:  0.00"         69 -------------- 90
-Fri:  0.00"        67 ----------- 84
-Sat:  0.01"    61 ------------ 80
-Sun:  0.00"   60 --------------- 82
-Mon:  0.00"       66 --------------- 89</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.00"           66 ------------ 88
+Mon:  0.00"                75 ---------- 94
+Tue:  0.00"                 77 ------- 91
+Wed:  0.27"            69 ------- 82
+Thu:  0.19"           66 -------- 82
+Fri:  0.52"            68 ----- 77
+Sat:  0.02"            69 ------------ 91
+Sun:  0.01"            68 --------- 85
+Mon:  0.00"       60 ---------- 78
+Tue:  0.00"      58 ------------- 81
+Wed:  0.00"            68 ------- 82
+Thu:  0.00"         63 --------- 80
+Fri:  0.00"          64 ----------- 85
+Sat:  0.01"           66 ------------ 89
+Sun:  0.00"     55 ----------- 75
+Mon:  0.00"   52 ------------- 76</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
