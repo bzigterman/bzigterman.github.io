@@ -8,41 +8,41 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:58 PM CT, August 15</p>
+<p class="updated_time"> Latest data: 10:53 PM CT, August 15</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 81°, which is 3° **warmer** than yesterday. Tomorrow is expected to be 5° **warmer** than today.
+Today's high is 81°, which is 3° **warmer** than yesterday. Tomorrow is expected to be 6° **warmer** than today.
 
 Currently:
 
-- 75°
+- 74°
 - Mostly Clear
-- 96% humidity
-- 3 mph wind
-- 26% cloud cover
-- 42 AQI 🟩
+- 97% humidity
+- 5 mph wind
+- 25% cloud cover
+- 41 AQI 🟩
 - 0.44 inches of rain in the past 24 hours
 - 0.47 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sat:  0.78"               71 ------- 81
-Sun:  0.47"                 73 --------- 86
+Sun:  0.47"                72 ---------- 87
 Mon:  0.00"            67 --------- 80
-Tue:  0.00"          63 ------------- 82
+Tue:  0.00"         63 ------------- 82
 Wed:  0.02"           65 -------- 77
 Thu:  0.05"        61 ---------- 75
 Fri:  0.13"        61 ------------ 78
 Sat:  0.00"          64 ----------- 80
-Sun:  0.00"          63 -------------- 84
-Mon:  0.00"            67 ------------- 85
-Tue:  0.01"            66 ------------ 84
+Sun:  0.00"         63 --------------- 84
+Mon:  0.00"            67 ------------ 85
+Tue:  0.01"           66 ------------- 84
 Wed:  0.00"        61 ----------- 77
 Thu:  0.00"     57 ------------ 74
 Fri:  0.00"   54 -------------- 74
 Sat:  0.00"     57 --------------- 78
-Sun:  0.13"            66 --------- 79</code></pre>
+Sun:  0.13"           66 --------- 79</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
