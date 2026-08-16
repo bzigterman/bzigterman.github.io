@@ -857,7 +857,7 @@ is_internal_redirect <- page_html |>
   html_element(".mw-redirectedfrom") |>
   length() >
   0
-status <- GET(url)$status_code
+status <- request(url) |> req_perform() |> resp_status()
 
 if (is_internal_redirect) {
   bracket_table_html <- ""
