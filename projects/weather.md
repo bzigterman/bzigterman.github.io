@@ -8,40 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 03:23 PM CT, August 16</p>
+<p class="updated_time"> Latest data: 03:47 PM CT, August 16</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 86°, which is 5° **warmer** than yesterday. Tomorrow is expected to be 5° *colder* than today.
+Today's high is 87°, which is 5° **warmer** than yesterday. Tomorrow is expected to be 7° *colder* than today.
 
 Currently:
 
 - 87°
-- Clear
-- 73% humidity
-- 7 mph wind
-- 3% cloud cover
+- Hazy
+- 84% humidity
+- 8 mph wind
+- 73% cloud cover
 - 42 AQI 🟩
 - 0.03 inches of rain in the past 24 hours
 - 0.03 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.04"                  73 -------- 86
-Mon:  0.00"                71 ------- 81
-Tue:  0.00"             66 ---------- 82
-Wed:  0.16"              68 ------- 78
-Thu:  0.18"            64 ------ 73
-Fri:  0.00"          61 ---------- 76
+<pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.04"                  74 -------- 87
+Mon:  0.02"              68 ------- 79
+Tue:  0.00"           63 ------------ 82
+Wed:  0.16"              68 ------ 78
+Thu:  0.18"            64 ----- 73
+Fri:  0.00"          61 --------- 76
 Sat:  0.00"        58 ------------- 79
 Sun:  0.00"         59 ----------- 77
 Mon:  0.09"      54 ----------- 72
-Tue:  0.15"          61 ---------- 76
+Tue:  0.15"          61 --------- 76
 Wed:  0.00"            64 --------- 79
-Thu:  0.00"         59 ----------- 76
+Thu:  0.00"         59 ---------- 76
 Fri:  0.00"       56 ----------- 74
 Sat:  0.00"   50 -------------- 72
-Sun:  0.00"    52 -------------- 73
+Sun:  0.00"    52 ------------- 73
 Mon:  0.00"      55 --------------- 79</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
