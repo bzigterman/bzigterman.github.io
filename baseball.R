@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(scales)
-library(httr)
+library(httr2)
 library(rio)
 library(gt)
 library(cowplot)
@@ -848,11 +848,18 @@ url <- paste0(
   "_Major_League_Baseball_postseason"
 )
 
-# Read the HTML content
-## check if website is accessible
+# 1. Fetch the page cleanly (it will return 200 OK even on the redirect)
+resp <- request(url) |> req_perform()
+page_html <- resp_body_html(resp)
 
-status <- GET(url)$status_code
-if (status != 200) {
+# 2. Check if Wikipedia printed its internal "Redirected from..." notice
+is_internal_redirect <- page_html |>
+  html_element(".mw-redirectedfrom") |>
+  length() >
+  0
+
+
+if (is_internal_redirect) {
   bracket_table_html <- ""
   cat("Failed to retrieve the webpage. Status code:", as.numeric(status))
 } else {
