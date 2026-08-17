@@ -606,6 +606,9 @@ fig <- highchart() |>
     label = list(
       enabled = TRUE
     ),
+    marker = list(
+      enabled = FALSE
+    ),
     lineWidth = 0,
     hcaes(x = time * 1000, y = windGust_limited),
     yAxis = 4
