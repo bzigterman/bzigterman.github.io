@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:58 PM CT, August 16</p>
+<p class="updated_time"> Latest data: 08:11 PM CT, August 16</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,31 +17,31 @@ Today's high is 86°, which is 4° **warmer** than yesterday. Tomorrow is expect
 
 Currently:
 
-- 79°
-- Overcast
-- 87% humidity
-- 5 mph wind
-- 100% cloud cover
-- 41 AQI 🟩
+- 75°
+- Partly Cloudy
+- 93% humidity
+- 6 mph wind
+- 49% cloud cover
+- 37 AQI 🟩
 - 0.05 inches of rain in the past 24 hours
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Sun:  0.04"                  74 -------- 86
 Mon:  0.00"              68 ------- 79
-Tue:  0.00"           63 ------------ 82
-Wed:  0.16"              68 ------- 78
-Thu:  0.18"            64 ------ 73
-Fri:  0.00"          61 ---------- 76
-Sat:  0.00"        58 ------------- 79
-Sun:  0.00"         59 ----------- 77
-Mon:  0.09"      54 ----------- 72
-Tue:  0.15"          61 ---------- 76
-Wed:  0.00"            64 --------- 79
-Thu:  0.00"         59 ----------- 76
-Fri:  0.00"       56 ----------- 74
-Sat:  0.00"   50 -------------- 72
-Sun:  0.00"    52 -------------- 73
-Mon:  0.00"      55 --------------- 79</code></pre>
+Tue:  0.00"           63 ----------- 80
+Wed:  0.10"              68 -------- 80
+Thu:  0.00"           62 ------- 74
+Fri:  0.00"          61 ----------- 79
+Sat:  0.09"           62 ---------- 79
+Sun:  0.01"       56 ---------- 72
+Mon:  0.00"   50 -------------- 72
+Tue:  0.02"        58 -------------- 80
+Wed:  0.28"             66 ---------- 82
+Thu:  0.00"          61 --------- 75
+Fri:  0.00"        57 ------------- 78
+Sat:  0.01"          60 ------------- 82
+Sun:  0.00"      55 ---------- 71
+Mon:  0.00"    52 ---------- 68</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
