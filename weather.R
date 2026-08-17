@@ -61,15 +61,20 @@ precip <- weather_data$daily$precipitation_sum
 # Get the day names (e.g., "Wed", "Thu")
 day_names <- format(dates, "%a")
 
-# 2. Define Chart Dimensions
-scale_min <- min(lows) - 2
-scale_max <- max(highs) + 2
+# 2. Define Chart Dimensions (handling potential NA values)
+scale_min <- min(lows, na.rm = TRUE) - 2
+scale_max <- max(highs, na.rm = TRUE) + 2
 total_width <- 25
 
 # 3. Generate the Text Bars
 lines <- c()
 
 for (i in 1:length(day_names)) {
+  # Skip or handle if low/high data for this day is NA
+  if (is.na(lows[i]) || is.na(highs[i])) {
+    next
+  }
+
   # Calculate character positions for low and high temps
   pos_low <- round(
     ((lows[i] - scale_min) / (scale_max - scale_min)) * total_width
@@ -86,15 +91,15 @@ for (i in 1:length(day_names)) {
   bar_length <- max(0, pos_high - pos_low)
   bar <- paste(rep("-", bar_length), collapse = "")
 
-  # Pad the strings to ensure columns align perfectly
-  # %5.2f\" formats to 5 total characters: 2 before decimal, the dot, 2 after (e.g., " 0.15\"")
-  precip_str <- sprintf("%5.2f\"", precip[i])
+  # Format precipitation safely
+  precip_val <- ifelse(is.na(precip[i]), 0, precip[i])
+  precip_str <- sprintf("%5.2f\"", precip_val)
+
   low_str <- sprintf("%2d", lows[i])
   high_str <- sprintf("%2d", highs[i])
 
-  # Assemble the line with precipitation right after the day
+  # Assemble the line
   line <- paste0(
-    "",
     day_names[i],
     ": ",
     precip_str,
