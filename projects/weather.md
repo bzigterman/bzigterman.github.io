@@ -8,37 +8,39 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:24 AM CT, August 18</p>
+<p class="updated_time"> Latest data: 06:41 AM CT, August 18</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
 
-Today's high is 84°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 6° *colder* than today.
+Today's high is 84°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 9° *colder* than today.
 
 Currently:
 
-- 60°
-- Mostly Clear
+- 61°
+- Clear
 - 96% humidity
-- 5 mph wind
-- 19% cloud cover
+- 4 mph wind
+- 0% cloud cover
 - 21 AQI 🟩
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"           63 --------------- 84
-Wed:  0.00"             66 -------- 78
-Thu:  0.00"        59 ------------ 76
-Fri:  0.00"       58 -------------- 77
-Sat:  0.01"          62 ------------- 81
-Sun:  0.07"        60 ---------- 73
-Mon:  0.35"         61 ---- 67
-Tue:  0.00"          62 ----------- 78
-Wed:  0.00"      56 ------------ 74
-Thu:  0.02"      57 ---------- 70
-Fri:  0.00"      56 ------------ 73
-Sat:  0.00"    54 --------------- 75
-Sun:  0.00"      57 --------------- 78
-Mon:  0.00"   53 ----------- 68</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"             63 ------------- 84
+Wed:  0.00"               67 ----- 75
+Thu:  0.00"            62 ---------- 77
+Fri:  0.00"            61 ----------- 79
+Sat:  0.02"            61 ----------- 79
+Sun:  0.00"           59 --------- 75
+Mon:  0.01"         56 ------------ 76
+Tue:  0.01"            62 ------------ 81
+Wed:  0.00"       53 ----- 62
+Thu:  0.00"    49 ---------- 64
+Fri:  0.00"   47 ------------- 68
+Sat:  0.00"    49 ------------- 70
+Sun:  0.01"       53 ----------- 71
+Mon:  0.00"      52 ------------ 72
+Tue:  0.00"       53 -------------- 76
+Wed:  0.12"         56 ----------- 75</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
