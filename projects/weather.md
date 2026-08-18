@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 12:24 PM CT, August 18</p>
+<p class="updated_time"> Latest data: 12:54 PM CT, August 18</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -17,31 +17,31 @@ Today's high is 84°, which is 4° **warmer** than yesterday. Tomorrow is expect
 
 Currently:
 
-- 79°
-- Partly Cloudy
-- 70% humidity
+- 80°
+- Mostly Clear
+- 71% humidity
 - 6 mph wind
-- 41% cloud cover
+- 14% cloud cover
 - 26 AQI 🟩
 - 0.02 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"            61 -------------- 84
-Wed:  0.02"                68 ------- 80
-Thu:  0.00"             63 --------- 77
-Fri:  0.00"            61 ----------- 79
-Sat:  0.02"            61 ----------- 79
-Sun:  0.00"           59 --------- 75
-Mon:  0.01"         56 ------------ 76
-Tue:  0.01"            62 ------------ 81
-Wed:  0.00"       53 ----- 62
-Thu:  0.00"    49 ---------- 64
-Fri:  0.00"   47 ------------- 68
-Sat:  0.00"    49 ------------- 70
-Sun:  0.01"       53 ----------- 71
-Mon:  0.00"      52 ------------ 72
-Tue:  0.00"       53 -------------- 76
-Wed:  0.12"         56 ----------- 75</code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"        61 ----------------- 84
+Wed:  0.02"             68 --------- 80
+Thu:  0.00"         62 ------------ 78
+Fri:  0.07"     57 ---------------- 78
+Sat:  0.05"          63 ---------- 77
+Sun:  0.00"      58 ------------ 74
+Mon:  0.00"    55 --------------- 76
+Tue:  0.09"        61 -------------- 80
+Wed:  0.17"        61 -------------- 80
+Thu:  0.07"     57 ------------ 73
+Fri:  0.02"      58 ------------- 75
+Sat:  0.00"       60 ------------- 77
+Sun:  0.00"       60 ------------ 76
+Mon:  0.04"       60 ------------ 75
+Tue:  0.01"       59 --------------- 79
+Wed:  0.00"        61 -------------- 80</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
