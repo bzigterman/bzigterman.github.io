@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:21 PM CT, August 19</p>
+<p class="updated_time"> Latest data: 06:30 PM CT, August 19</p>
 
 <iframe src="/interactive/champaign_weather.html" width="100%" height="600"> 
 </iframe>
@@ -18,30 +18,30 @@ Today's high is 82°, which is 1° **warmer** than yesterday. Tomorrow is expect
 Currently:
 
 - 79°
-- Overcast
-- 82% humidity
-- 4 mph wind
-- 90% cloud cover
+- Partly Cloudy
+- 86% humidity
+- 5 mph wind
+- 53% cloud cover
 - 49 AQI 🟩
-- 0.37 inches of rain expected in the next 48 hours
+- 0.13 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.11"          68 -------- 82
-Thu:  0.00"         66 ------- 79
-Fri:  0.00"     60 ----------- 78
-Sat:  0.03"       63 --------- 78
-Sun:  0.22"       62 -------- 77
-Mon:  0.00"    58 -------- 72
-Tue:  0.00"   56 ------------- 78
-Wed:  0.29"        64 ---------- 83
-Thu:  0.02"       63 ------- 76
-Fri:  0.00"     59 ---------- 77
-Sat:  0.00"       62 --------- 79
-Sun:  0.00"       62 ---------- 80
-Mon:  0.00"        65 ------------ 85
-Tue:  0.01"            71 ---------- 89
-Wed:  0.00"             73 ------------- 96
-Thu:  0.11"        65 -------- 79</code></pre>
+Thu:  0.00"         66 -------- 79
+Fri:  0.00"     60 ------------ 79
+Sat:  0.15"       63 -------- 76
+Sun:  0.00"     60 --------- 75
+Mon:  0.00"   57 ----------- 75
+Tue:  0.00"    58 -------------- 81
+Wed:  0.29"         67 ------------ 86
+Thu:  0.00"       63 --------- 78
+Fri:  0.01"      61 --------- 77
+Sat:  0.00"     60 ------------ 79
+Sun:  0.00"       64 ------------- 84
+Mon:  0.00"          68 ------------ 87
+Tue:  0.00"            71 ----------- 90
+Wed:  0.00"            72 ------------ 91
+Thu:  0.00"            72 -------------- 94</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
