@@ -1081,13 +1081,22 @@ night_blocks_facetted <- panel_order %>%
 
 # --- 3. Build the Facetted Grid ---
 p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
-  # 🚀 THE BACKGROUND SHADING MACHINE:
-  # Maps independent shaded blocks across all panel timelines globally
+
+  # ☀️ BASE DAYTIME LAYER: Paints the entire canvas background your ivory color
+  geom_rect(
+    aes(xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = Inf),
+    fill = "#FFFFF5",
+    color = NA,
+    alpha = .5,
+    inherit.aes = FALSE
+  ) +
+
+  # 🌙 NIGHT SHADING LAYER: Safely overlays night blocks on top of the ivory base
   geom_rect(
     data = night_blocks_facetted,
     aes(xmin = xmin, xmax = xmax, ymin = -Inf, ymax = Inf),
     fill = "#E8EEF5",
-    alpha = 0.5,
+    alpha = .5, # Bumped to 1.0 since it's drawing over the base fill now
     inherit.aes = FALSE
   ) +
 
@@ -1155,16 +1164,26 @@ p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
     axis.title.y = element_blank(),
     axis.ticks.x = element_line(color = "black"),
     strip.placement = "outside",
-    strip.text.y.left = element_text(
-      angle = 90,
-      #face = "bold",
-      #size = 9,
-      color = "gray30"
+    strip.text.y.left = element_text(angle = 90, color = "gray30"),
+
+    # 🚀 THE GRIDLINE FIX BLOCKS:
+    panel.background = element_blank(),
+
+    # 1. Pull the grid lines and axis borders to the absolute front of the layer stack
+    panel.ontop = TRUE,
+
+    # 2. Use a semi-translucent gray for major grids so they look crisp on top of shading
+    panel.grid.major.x = element_line(
+      color = alpha("#e5e7eb", 0.5),
+      linewidth = 0.6
     ),
-    panel.background = element_rect(fill = "#FFFFF5", color = NA),
+    panel.grid.major.y = element_line(
+      color = alpha("#e5e7eb", 0.5),
+      linewidth = 0.4
+    ),
+
     panel.spacing = unit(0.7, "lines"),
     panel.grid.minor = element_blank(),
-    panel.grid.major.x = element_line(color = "#e5e7eb"),
     legend.position = "none"
   )
 p
