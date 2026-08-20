@@ -928,13 +928,14 @@ saveWidget(
 weather_long <- om_hourly %>%
   select(
     datetime,
+    time,
     temperature,
     precipProbability,
     rain,
     snowfall
   ) %>%
   pivot_longer(
-    cols = -datetime,
+    cols = -c(datetime, time),
     names_to = "Metric",
     values_to = "Value"
   ) %>%
@@ -966,7 +967,6 @@ weather_long <- om_hourly %>%
       )
     )
   )
-
 
 # --- 2. Inject Custom Weather Color Rules Directly to rows ---
 weather_colored <- weather_long %>%
@@ -1063,13 +1063,14 @@ if (
 }
 
 
-# 4. Clean up boundaries safely using raw numeric seconds to insulate from server timezones
-chart_min_num <- as.numeric(min(weather_colored$datetime))
-chart_max_num <- as.numeric(max(weather_colored$datetime))
+# 4. Clean up boundaries safely using raw integers to lock out server timezone shifts
+# We extract the raw unix 'time' integers directly to ensure 100% laptop-to-server parity
+chart_min_num <- min(weather_colored$time, na.rm = TRUE)
+chart_max_num <- max(weather_colored$time, na.rm = TRUE)
 
 night_blocks <- night_blocks %>%
   mutate(
-    # Convert sunset/sunrise to numbers, clip them, and convert them back to clean Chicago times
+    # Convert POSIXct to raw numeric epoch seconds explicitly
     xmin_num = pmax(as.numeric(xmin), chart_min_num),
     xmax_num = pmin(as.numeric(xmax), chart_max_num)
   ) %>%
@@ -1078,7 +1079,7 @@ night_blocks <- night_blocks %>%
     xmin = as_datetime(xmin_num, tz = "America/Chicago"),
     xmax = as_datetime(xmax_num, tz = "America/Chicago")
   ) %>%
-  select(xmin, xmax) # Keeps your clean columns intact for ggplot
+  select(xmin, xmax)
 
 night_blocks_facetted <- panel_order %>%
   purrr::map_df(~ mutate(night_blocks, Metric = .x)) %>%
@@ -1089,12 +1090,14 @@ night_blocks_facetted <- panel_order %>%
 p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
 
   # ☀️ BASE DAYTIME LAYER: Paints the entire canvas background your ivory color
-  geom_rect(
-    aes(xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = Inf),
+  annotate(
+    "rect",
+    xmin = as_datetime(-Inf),
+    xmax = as_datetime(Inf),
+    ymin = -Inf,
+    ymax = Inf,
     fill = "#FFFFF5",
-    color = NA,
-    alpha = .5,
-    inherit.aes = FALSE
+    alpha = 0.5
   ) +
 
   # 🌙 NIGHT SHADING LAYER: Safely overlays night blocks on top of the ivory base
