@@ -1063,16 +1063,22 @@ if (
 }
 
 
-# 4. Clean up boundaries so shading stays strictly within your chart limits
-chart_min <- min(weather_colored$datetime)
-chart_max <- max(weather_colored$datetime)
+# 4. Clean up boundaries safely using raw numeric seconds to insulate from server timezones
+chart_min_num <- as.numeric(min(weather_colored$datetime))
+chart_max_num <- as.numeric(max(weather_colored$datetime))
 
 night_blocks <- night_blocks %>%
   mutate(
-    xmin = pmax(xmin, chart_min),
-    xmax = pmin(xmax, chart_max)
+    # Convert sunset/sunrise to numbers, clip them, and convert them back to clean Chicago times
+    xmin_num = pmax(as.numeric(xmin), chart_min_num),
+    xmax_num = pmin(as.numeric(xmax), chart_max_num)
   ) %>%
-  filter(xmin < xmax) # Drops invalid edge case ranges
+  filter(xmin_num < xmax_num) %>%
+  mutate(
+    xmin = as_datetime(xmin_num, tz = "America/Chicago"),
+    xmax = as_datetime(xmax_num, tz = "America/Chicago")
+  ) %>%
+  select(xmin, xmax) # Keeps your clean columns intact for ggplot
 
 night_blocks_facetted <- panel_order %>%
   purrr::map_df(~ mutate(night_blocks, Metric = .x)) %>%
