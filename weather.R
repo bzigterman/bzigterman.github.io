@@ -923,39 +923,6 @@ saveWidget(
   libdir = "interactive"
 )
 # --- 1. Reshape Data to Long Format ----
-# 1. Grab the raw sunrise/sunset times from your 'om' payload
-sun_data <- tibble(
-  sunrise = as_datetime(om$daily$sunrise, tz = "America/Chicago"),
-  sunset = as_datetime(om$daily$sunset, tz = "America/Chicago")
-)
-
-# 2. Match night intervals across your 7-day timeline window
-# Night happens from today's sunset to tomorrow's sunrise
-night_blocks <- tibble(
-  xmin = sun_data$sunset[-nrow(sun_data)], # Today's sunset
-  xmax = sun_data$sunrise[-1] # Tomorrow's sunrise
-)
-
-# 3. Add a fallback night block for the very first evening/morning step if needed
-first_night <- tibble(
-  xmin = min(weather_colored$datetime),
-  xmax = sun_data$sunrise[1]
-)
-if (first_night$xmax > first_night$xmin) {
-  night_blocks <- bind_rows(first_night, night_blocks)
-}
-
-# 4. Clean up boundaries so shading stays strictly within your chart limits
-chart_min <- min(weather_colored$datetime)
-chart_max <- max(weather_colored$datetime)
-
-night_blocks <- night_blocks %>%
-  mutate(
-    xmin = pmax(xmin, chart_min),
-    xmax = pmin(xmax, chart_max)
-  ) %>%
-  filter(xmin < xmax) # Drops invalid edge case ranges
-
 
 # 1. Reshape the Open-Meteo data, treating rain and snowfall as separate Types under one Precip panel
 weather_long <- om_hourly %>%
@@ -1064,7 +1031,38 @@ weather_colored <- weather_long %>%
       TRUE ~ NA_character_
     )
   )
+# 1. Grab the raw sunrise/sunset times from your 'om' payload
+sun_data <- tibble(
+  sunrise = as_datetime(om$daily$sunrise, tz = "America/Chicago"),
+  sunset = as_datetime(om$daily$sunset, tz = "America/Chicago")
+)
 
+# 2. Match night intervals across your 7-day timeline window
+# Night happens from today's sunset to tomorrow's sunrise
+night_blocks <- tibble(
+  xmin = sun_data$sunset[-nrow(sun_data)], # Today's sunset
+  xmax = sun_data$sunrise[-1] # Tomorrow's sunrise
+)
+
+# 3. Add a fallback night block for the very first evening/morning step if needed
+first_night <- tibble(
+  xmin = min(weather_colored$datetime),
+  xmax = sun_data$sunrise[1]
+)
+if (first_night$xmax > first_night$xmin) {
+  night_blocks <- bind_rows(first_night, night_blocks)
+}
+
+# 4. Clean up boundaries so shading stays strictly within your chart limits
+chart_min <- min(weather_colored$datetime)
+chart_max <- max(weather_colored$datetime)
+
+night_blocks <- night_blocks %>%
+  mutate(
+    xmin = pmax(xmin, chart_min),
+    xmax = pmin(xmax, chart_max)
+  ) %>%
+  filter(xmin < xmax) # Drops invalid edge case ranges
 
 # --- 3. Build the Facetted Grid ---
 p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
