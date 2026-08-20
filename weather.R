@@ -966,25 +966,6 @@ weather_long <- om_hourly %>%
       )
     )
   )
-# 1. Ensure your panel order is saved as a matching factor sequence
-panel_order <- c("Temp (°F)", "Precip Chance %", "Precip (in)")
-
-# 2. Calculate your custom rain/snow ceiling rule
-max_precip_data <- max(c(om_hourly$rain, om_hourly$snowfall), na.rm = TRUE)
-precip_ceiling <- max(
-  0.25,
-  if_else(is.na(max_precip_data), 0.25, max_precip_data)
-)
-
-# 3. Build a targeted data frame matching your main data's columns EXACTLY
-axis_constraints <- data.frame(
-  datetime = rep(min(weather_colored$datetime), 4),
-  Metric = factor(
-    c("Precip Chance %", "Precip Chance %", "Precip (in)", "Precip (in)"),
-    levels = panel_order
-  ),
-  Value = c(0, 100, 0, precip_ceiling) # Sets the boundaries for these two rows only
-)
 
 
 # --- 2. Inject Custom Weather Color Rules Directly to rows ---
@@ -1031,6 +1012,27 @@ weather_colored <- weather_long %>%
       TRUE ~ NA_character_
     )
   )
+# 1. Ensure your panel order is saved as a matching factor sequence
+panel_order <- c("Temp (°F)", "Precip Chance %", "Precip (in)")
+
+# 2. Calculate your custom rain/snow ceiling rule
+max_precip_data <- max(c(om_hourly$rain, om_hourly$snowfall), na.rm = TRUE)
+precip_ceiling <- max(
+  0.25,
+  if_else(is.na(max_precip_data), 0.25, max_precip_data)
+)
+
+# 3. Build a targeted data frame matching your main data's columns EXACTLY
+axis_constraints <- data.frame(
+  datetime = rep(min(weather_colored$datetime), 4),
+  Metric = factor(
+    c("Precip Chance %", "Precip Chance %", "Precip (in)", "Precip (in)"),
+    levels = panel_order
+  ),
+  Value = c(0, 100, 0, precip_ceiling) # Sets the boundaries for these two rows only
+)
+
+
 # 1. Grab the raw sunrise/sunset times from your 'om' payload
 sun_data <- tibble(
   sunrise = as_datetime(om$daily$sunrise, tz = "America/Chicago"),
