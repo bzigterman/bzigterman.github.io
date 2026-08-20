@@ -1074,12 +1074,17 @@ night_blocks <- night_blocks %>%
   ) %>%
   filter(xmin < xmax) # Drops invalid edge case ranges
 
+night_blocks_facetted <- panel_order %>%
+  purrr::map_df(~ mutate(night_blocks, Metric = .x)) %>%
+  mutate(Metric = factor(Metric, levels = panel_order))
+
+
 # --- 3. Build the Facetted Grid ---
 p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
   # 🚀 THE BACKGROUND SHADING MACHINE:
   # Maps independent shaded blocks across all panel timelines globally
   geom_rect(
-    data = night_blocks,
+    data = night_blocks_facetted,
     aes(xmin = xmin, xmax = xmax, ymin = -Inf, ymax = Inf),
     fill = "#E8EEF5",
     alpha = 0.5,
