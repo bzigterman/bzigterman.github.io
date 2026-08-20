@@ -1034,52 +1034,40 @@ axis_constraints <- data.frame(
 
 
 # 1. Grab the raw sunrise/sunset times from your 'om' payload
-sun_data <- tibble(
-  sunrise = as_datetime(om$daily$sunrise, tz = "America/Chicago"),
-  sunset = as_datetime(om$daily$sunset, tz = "America/Chicago")
-)
+# 1. Use the POSIXct objects directly from your om_daylight tibble
+sun_data <- om_daylight %>%
+  select(sunrise, sunset)
 
-# 2. Match night intervals across your 7-day timeline window
-# Night happens from today's sunset to tomorrow's sunrise
+# 2. Build night blocks (Sunset today -> Sunrise tomorrow)
 night_blocks <- tibble(
-  xmin = sun_data$sunset[-nrow(sun_data)], # Today's sunset
-  xmax = sun_data$sunrise[-1] # Tomorrow's sunrise
+  xmin = sun_data$sunset[-nrow(sun_data)],
+  xmax = sun_data$sunrise[-1]
 )
 
-# 3. Add a fallback night block for the very first evening/morning step safely
-# Using as.numeric() strips out all timezone string translation bugs across servers
+# 3. Handle the leading night block for the chart's opening window
+chart_min <- min(weather_colored$datetime, na.rm = TRUE)
+chart_max <- max(weather_colored$datetime, na.rm = TRUE)
+
 first_night <- tibble(
-  xmin = min(weather_colored$datetime),
-  xmax = sun_data$sunrise[1] # Explicitly select the first element
+  xmin = chart_min,
+  xmax = sun_data$sunrise[1]
 )
 
-# Safe numeric comparison completely avoids GitHub Actions server timezone crashes
 if (
   !is.na(first_night$xmax) &&
     !is.na(first_night$xmin) &&
-    as.numeric(first_night$xmax) > as.numeric(first_night$xmin)
+    first_night$xmax > first_night$xmin
 ) {
   night_blocks <- bind_rows(first_night, night_blocks)
 }
 
-
-# 4. Clean up boundaries safely using raw integers to lock out server timezone shifts
-# We extract the raw unix 'time' integers directly to ensure 100% laptop-to-server parity
-chart_min_num <- min(weather_colored$time, na.rm = TRUE)
-chart_max_num <- max(weather_colored$time, na.rm = TRUE)
-
+# 4. Clamp boundaries safely without dropping rows
 night_blocks <- night_blocks %>%
   mutate(
-    # Convert POSIXct to raw numeric epoch seconds explicitly
-    xmin_num = pmax(as.numeric(xmin), chart_min_num),
-    xmax_num = pmin(as.numeric(xmax), chart_max_num)
+    xmin = pmax(xmin, chart_min),
+    xmax = pmin(xmax, chart_max)
   ) %>%
-  filter(xmin_num < xmax_num) %>%
-  mutate(
-    xmin = as_datetime(xmin_num, tz = "America/Chicago"),
-    xmax = as_datetime(xmax_num, tz = "America/Chicago")
-  ) %>%
-  select(xmin, xmax)
+  filter(xmin < xmax)
 
 night_blocks_facetted <- panel_order %>%
   purrr::map_df(~ mutate(night_blocks, Metric = .x)) %>%
