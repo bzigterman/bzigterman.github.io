@@ -111,6 +111,11 @@ for (i in 1:length(day_names)) {
     " ",
     high_str
   )
+  # Check if the day is Saturday or Sunday and wrap in bold tags
+  if (day_names[i] %in% c("Sat", "Sun")) {
+    line <- paste0("<b>", line, "</b>")
+  }
+
   lines <- c(lines, line)
 }
 
