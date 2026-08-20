@@ -1046,14 +1046,22 @@ night_blocks <- tibble(
   xmax = sun_data$sunrise[-1] # Tomorrow's sunrise
 )
 
-# 3. Add a fallback night block for the very first evening/morning step if needed
+# 3. Add a fallback night block for the very first evening/morning step safely
+# Using as.numeric() strips out all timezone string translation bugs across servers
 first_night <- tibble(
   xmin = min(weather_colored$datetime),
-  xmax = sun_data$sunrise[1]
+  xmax = sun_data$sunrise[1] # Explicitly select the first element
 )
-if (first_night$xmax > first_night$xmin) {
+
+# Safe numeric comparison completely avoids GitHub Actions server timezone crashes
+if (
+  !is.na(first_night$xmax) &&
+    !is.na(first_night$xmin) &&
+    as.numeric(first_night$xmax) > as.numeric(first_night$xmin)
+) {
   night_blocks <- bind_rows(first_night, night_blocks)
 }
+
 
 # 4. Clean up boundaries so shading stays strictly within your chart limits
 chart_min <- min(weather_colored$datetime)
