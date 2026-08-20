@@ -1188,9 +1188,9 @@ p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
       linewidth = 0.4
     ),
 
-    panel.spacing = unit(0.7, "lines"),
     panel.grid.minor = element_blank(),
-    legend.position = "none"
+    legend.position = "none",
+    plot.caption = element_text(color = "gray")
   )
 p
 timestamp <- format(Sys.time(), "%Y-%m-%d_%H%M")
