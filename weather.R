@@ -1033,18 +1033,21 @@ axis_constraints <- data.frame(
 )
 
 
-# 1. Grab the raw sunrise/sunset times from your 'om' payload
-# 1. Use the POSIXct objects directly from your om_daylight tibble
+# 1. Ensure om_daylight datetimes carry the Chicago timezone attribute cleanly
 sun_data <- om_daylight %>%
+  mutate(
+    sunrise = with_tz(as_datetime(sunriseTime), "America/Chicago"),
+    sunset = with_tz(as_datetime(sunsetTime), "America/Chicago")
+  ) %>%
   select(sunrise, sunset)
 
-# 2. Build night blocks (Sunset today -> Sunrise tomorrow)
+# 2. Build blocks
 night_blocks <- tibble(
   xmin = sun_data$sunset[-nrow(sun_data)],
   xmax = sun_data$sunrise[-1]
 )
 
-# 3. Handle the leading night block for the chart's opening window
+# 3. Pull boundaries in Chicago time
 chart_min <- min(weather_colored$datetime, na.rm = TRUE)
 chart_max <- max(weather_colored$datetime, na.rm = TRUE)
 
@@ -1061,18 +1064,18 @@ if (
   night_blocks <- bind_rows(first_night, night_blocks)
 }
 
-# 4. Clamp boundaries safely without dropping rows
+# 4. Clamp boundaries and ensure timezone preservation
 night_blocks <- night_blocks %>%
   mutate(
-    xmin = pmax(xmin, chart_min),
-    xmax = pmin(xmax, chart_max)
+    xmin = with_tz(pmax(xmin, chart_min), "America/Chicago"),
+    xmax = with_tz(pmin(xmax, chart_max), "America/Chicago")
   ) %>%
   filter(xmin < xmax)
 
+# 5. Facet mapping
 night_blocks_facetted <- panel_order %>%
   purrr::map_df(~ mutate(night_blocks, Metric = .x)) %>%
   mutate(Metric = factor(Metric, levels = panel_order))
-
 
 # --- 3. Build the Facetted Grid ---
 p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
@@ -1147,6 +1150,7 @@ p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
 
   # Axis Configuration
   scale_x_datetime(
+    timezone = "America/Chicago",
     expand = c(0, 0),
     date_breaks = "1 day",
     date_labels = "%a"
