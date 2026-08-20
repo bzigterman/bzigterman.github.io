@@ -36,7 +36,14 @@ jobs:
         
       - name: Download Parse and Update Data
         run: Rscript weather.R
-        
+      
+      - name: Clean up old weather images
+        run: |
+          # Keep only the 4 most recent desktop and mobile images, delete the rest
+          cd plots
+          ls -t weather_*.png | grep -v "_mobile.png" | tail -n +5 | xargs -r rm
+          ls -t weather_*_mobile.png | tail -n +5 | xargs -r rm
+
       # Add new files in folder, commit along with other modified files, push
       - name: Commit and push if it changed
         run: |-

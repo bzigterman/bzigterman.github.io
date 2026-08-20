@@ -922,6 +922,261 @@ saveWidget(
   selfcontained = FALSE,
   libdir = "interactive"
 )
+# --- 1. Reshape Data to Long Format ----
+# 1. Grab the raw sunrise/sunset times from your 'om' payload
+sun_data <- tibble(
+  sunrise = as_datetime(om$daily$sunrise, tz = "America/Chicago"),
+  sunset = as_datetime(om$daily$sunset, tz = "America/Chicago")
+)
+
+# 2. Match night intervals across your 7-day timeline window
+# Night happens from today's sunset to tomorrow's sunrise
+night_blocks <- tibble(
+  xmin = sun_data$sunset[-nrow(sun_data)], # Today's sunset
+  xmax = sun_data$sunrise[-1] # Tomorrow's sunrise
+)
+
+# 3. Add a fallback night block for the very first evening/morning step if needed
+first_night <- tibble(
+  xmin = min(weather_colored$datetime),
+  xmax = sun_data$sunrise[1]
+)
+if (first_night$xmax > first_night$xmin) {
+  night_blocks <- bind_rows(first_night, night_blocks)
+}
+
+# 4. Clean up boundaries so shading stays strictly within your chart limits
+chart_min <- min(weather_colored$datetime)
+chart_max <- max(weather_colored$datetime)
+
+night_blocks <- night_blocks %>%
+  mutate(
+    xmin = pmax(xmin, chart_min),
+    xmax = pmin(xmax, chart_max)
+  ) %>%
+  filter(xmin < xmax) # Drops invalid edge case ranges
+
+
+# 1. Reshape the Open-Meteo data, treating rain and snowfall as separate Types under one Precip panel
+weather_long <- om_hourly %>%
+  select(
+    datetime,
+    temperature,
+    precipProbability,
+    rain,
+    snowfall
+  ) %>%
+  pivot_longer(
+    cols = -datetime,
+    names_to = "Metric",
+    values_to = "Value"
+  ) %>%
+  # Create a custom grouping tag to tell bars apart
+  mutate(
+    Type = case_when(
+      Metric == "rain" ~ "Rain",
+      Metric == "snowfall" ~ "Snow",
+      TRUE ~ "Other"
+    )
+  ) %>%
+  # Align both variables to share the exact same row panel label
+  mutate(
+    Metric = case_when(
+      Metric == "temperature" ~ "Temp (°F)",
+      Metric == "precipProbability" ~ "Precip Chance %",
+      Metric == "rain" ~ "Precip (in)",
+      Metric == "snowfall" ~ "Precip (in)",
+      TRUE ~ Metric
+    )
+  ) %>%
+  mutate(
+    Metric = factor(
+      Metric,
+      levels = c(
+        "Temp (°F)",
+        "Precip Chance %",
+        "Precip (in)"
+      )
+    )
+  )
+# 1. Ensure your panel order is saved as a matching factor sequence
+panel_order <- c("Temp (°F)", "Precip Chance %", "Precip (in)")
+
+# 2. Calculate your custom rain/snow ceiling rule
+max_precip_data <- max(c(om_hourly$rain, om_hourly$snowfall), na.rm = TRUE)
+precip_ceiling <- max(
+  0.25,
+  if_else(is.na(max_precip_data), 0.25, max_precip_data)
+)
+
+# 3. Build a targeted data frame matching your main data's columns EXACTLY
+axis_constraints <- data.frame(
+  datetime = rep(min(weather_colored$datetime), 4),
+  Metric = factor(
+    c("Precip Chance %", "Precip Chance %", "Precip (in)", "Precip (in)"),
+    levels = panel_order
+  ),
+  Value = c(0, 100, 0, precip_ceiling) # Sets the boundaries for these two rows only
+)
+
+
+# --- 2. Inject Custom Weather Color Rules Directly to rows ---
+weather_colored <- weather_long %>%
+  mutate(
+    line_color = case_when(
+      # 🌡️ Corrected Temperature Color Zone Threshold Assignments
+      Metric == "Temp (°F)" & Value <= 0 ~ "#F8D4FC",
+      Metric == "Temp (°F)" & Value <= 5 ~ "#E5A4EB",
+      Metric == "Temp (°F)" & Value <= 10 ~ "#D392DD",
+      Metric == "Temp (°F)" & Value <= 15 ~ "#C07ECC",
+      Metric == "Temp (°F)" & Value <= 20 ~ "#9D63C2",
+      Metric == "Temp (°F)" & Value <= 25 ~ "#794DB4",
+      Metric == "Temp (°F)" & Value <= 30 ~ "#5B4FA6",
+      Metric == "Temp (°F)" & Value <= 32 ~ "#527DC7",
+      Metric == "Temp (°F)" & Value <= 40 ~ "#65C1DE",
+      Metric == "Temp (°F)" & Value <= 45 ~ "#6EDAE0",
+      Metric == "Temp (°F)" & Value <= 50 ~ "#6EDBA2",
+      Metric == "Temp (°F)" & Value <= 55 ~ "#69C954",
+      Metric == "Temp (°F)" & Value <= 60 ~ "#93D452",
+      Metric == "Temp (°F)" & Value <= 65 ~ "#E3E65B",
+      Metric == "Temp (°F)" & Value <= 70 ~ "#FFFF61",
+      Metric == "Temp (°F)" & Value <= 75 ~ "#F8D456",
+      Metric == "Temp (°F)" & Value <= 80 ~ "#ED9749",
+      Metric == "Temp (°F)" & Value <= 85 ~ "#DC6641",
+      Metric == "Temp (°F)" & Value <= 90 ~ "#CA593E",
+      Metric == "Temp (°F)" & Value <= 95 ~ "#B6493B",
+      Metric == "Temp (°F)" & Value <= 200 ~ "#A44139",
+
+      # ☀️ UV Index Color Zone Threshold Assignments
+      Metric == "UV Index" & Value <= 2 ~ "#4C9329",
+      Metric == "UV Index" & Value <= 5 ~ "#F4E54C",
+      Metric == "UV Index" & Value <= 7 ~ "#E7652B",
+      Metric == "UV Index" & Value <= 10 ~ "#C72A23",
+      Metric == "UV Index" & Value <= 100 ~ "#674AC2",
+
+      # 🌧️ Light Blue for Rain
+      Metric == "Precip (in)" & Type == "Rain" ~ "#b0dcf0",
+
+      # ❄️ Darker Blue for Snow
+      Metric == "Precip (in)" & Type == "Snow" ~ "#8AA5F1",
+
+      # Baseline fallback for non-colored panels (avoids script dropping rows)
+      TRUE ~ NA_character_
+    )
+  )
+
+
+# --- 3. Build the Facetted Grid ---
+p <- ggplot(weather_colored, aes(x = datetime, y = Value)) +
+  # 🚀 THE BACKGROUND SHADING MACHINE:
+  # Maps independent shaded blocks across all panel timelines globally
+  geom_rect(
+    data = night_blocks,
+    aes(xmin = xmin, xmax = xmax, ymin = -Inf, ymax = Inf),
+    fill = "#E8EEF5",
+    alpha = 0.5,
+    inherit.aes = FALSE
+  ) +
+
+  # Global Vertical "Now" Timeline Line Tracker
+  geom_vline(
+    xintercept = now(tzone = "America/Chicago"),
+    color = "black",
+    linewidth = 0.5,
+    alpha = 0.5
+  ) +
+
+  # Native Axis Constraint Layer
+  geom_blank(data = axis_constraints, aes(y = Value)) +
+
+  # PANEL A: Temperature Line (Pulls color step from your dataset calculations)
+  geom_point(
+    data = filter(weather_colored, Metric == "Temp (°F)"),
+    aes(group = 1, color = line_color),
+    size = 1.35
+  ) +
+  geom_line(
+    data = filter(weather_colored, Metric == "Temp (°F)"),
+    aes(group = 1, color = line_color),
+    linewidth = .75,
+    alpha = .5
+  ) +
+
+  # PANEL B: Precipitation Probability Line
+  geom_line(
+    data = filter(weather_colored, Metric == "Precip Chance %"),
+    color = "#1c3d5a",
+    linewidth = 1,
+    na.rm = TRUE
+  ) +
+
+  # PANEL C: Rain Accumulation Bars
+  geom_col(
+    data = filter(weather_colored, Metric == "Precip (in)"),
+    aes(y = Value, fill = line_color, group = Type),
+    position = "stack",
+    width = 7200,
+    na.rm = TRUE
+  ) +
+
+  # Tells ggplot to translate character string codes directly to paint the tracks
+  scale_color_identity() +
+  scale_fill_identity() +
+
+  # Stacking configuration
+  facet_grid(Metric ~ ., scales = "free_y", switch = "y") +
+
+  # Axis Configuration
+  scale_x_datetime(
+    expand = c(0, 0),
+    date_breaks = "1 day",
+    date_labels = "%a"
+  ) +
+  scale_y_continuous(position = "left") +
+
+  # Clean Theme Styling
+  theme_minimal() +
+  labs(caption = paste("Source: Open-Meteo. Latest data:", now_formatted)) +
+  theme(
+    axis.title.x = element_blank(),
+    axis.title.y = element_blank(),
+    axis.ticks.x = element_line(color = "black"),
+    strip.placement = "outside",
+    strip.text.y.left = element_text(
+      angle = 90,
+      #face = "bold",
+      #size = 9,
+      color = "gray30"
+    ),
+    panel.background = element_rect(fill = "#FFFFF5", color = NA),
+    panel.spacing = unit(0.7, "lines"),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_line(color = "#e5e7eb"),
+    legend.position = "none"
+  )
+p
+timestamp <- format(Sys.time(), "%Y-%m-%d_%H%M")
+img_filename <- paste0("weather_", timestamp, ".png")
+img_filename_mobile <- paste0("weather_", timestamp, "_mobile.png")
+
+ggsave(
+  filename = paste0("plots/", img_filename),
+  plot = p,
+  bg = "white",
+  width = 8,
+  height = 8 * (628 / 1200),
+  dpi = 320
+)
+
+ggsave(
+  filename = paste0("plots/", img_filename_mobile),
+  plot = p,
+  bg = "white",
+  width = 4,
+  height = 8 * (628 / 1200),
+  dpi = 320
+)
+
 
 # nws snow forecast ----
 
@@ -2333,8 +2588,15 @@ webappicon: /weather.png
   now_html,
   "
 
-<iframe src=\"/interactive/champaign_weather.html\" width=\"100%\" height=\"600\"> 
-</iframe>
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/",
+  img_filename,
+  "\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/",
+  img_filename_mobile,
+  "\" alt=\"\" />
+</picture>
 
 ",
   temp_comparison,
