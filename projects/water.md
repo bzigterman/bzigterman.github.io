@@ -18,7 +18,7 @@ permalink: /projects/water
 1100 +           ***** **        **                  **                        +
      |            ** ***          * **     ** **  ***** *                      |
 1080 +               ***          **** **  ********** ****                     +
-     |                               ********* ***       *        **           |
+     |                               ******* * ***       *        **           |
      |                                                   ****    ****** **     |
 1060 +                                                      *   ** ********    +
      |                                                      ** **      *  *    |
@@ -30,7 +30,7 @@ Elevation:
 - 1,039 feet
 - 144 feet above the minimum level
 - 190 feet below the maximum level
-- down 15 feet from a year ago
+- down 16 feet from a year ago
 - down 35 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -40,13 +40,13 @@ Elevation:
 <noscript>
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+----------------+----------------+---------------+---------+
-     |                  ***                                                    |
+     |                  **                                                     |
 3650 +            *  *  * *                                                    +
      |        ** *** **** ***               **                                 |
      |        **** *** **   **        *  *  ****   **                          |
      |  ***** * **     **    **   ****** ****  **  *****                       |
 3600 +  *******               *** * ** *** **   ** * ***                       +
-     |       **                 ***  *           ***   **       ** **          |
+     |       **                 ***  *           ***   **       *  **          |
      |                           **              **     **      ******         |
      |                                                   **     * ** ***       |
 3550 +                                                    **    *      **      +
