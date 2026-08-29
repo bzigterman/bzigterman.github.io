@@ -14,14 +14,14 @@ permalink: /projects/water
      |   **               **                                                   |
 1120 +  ****             *** **                                                +
      |     **** **       * *****                                               |
-     |      ******  *   **     ***                                             |
+     |      * ****  *   **     ***                                             |
 1100 +           ***** **        **                  **                        +
      |            ** ***          * **     *  **  ***** *                      |
 1080 +                **          **** ** *********** ****                     +
      |                               ******    ***       *        **           |
      |                                                   ****   ******* **     |
 1060 +                                                      *   *  ********    +
-     |                                                      ** **      *  *    |
+     |                                                      *****      *  *    |
 1040 +                                                       ***          **   +
      +-------------+----------------+----------------+---------------+---------+
                  2010             2015             2020            2025         </code></pre>
@@ -45,7 +45,7 @@ Elevation:
      |        ** *** **** ***               **                                 |
      |        **** *** **   **        *  *  ****   **                          |
      |  ***** * **     **    **   ****** ** *  **  *****                       |
-3600 +   ******               *** * ** *** **   ** * ***                       +
+3600 +   ******               *** * ** ******   ** * ***                       +
      |       **                 ***  *           ***   **       *  **          |
      |                           **              **     **      ******         |
      |                                                   **     * ** ***       |
@@ -56,10 +56,10 @@ Elevation:
                  2010             2015             2020            2025         </code></pre>
 </noscript>
 Elevation:
-- 3,519 feet
-- 149 feet above the minimum level
+- 3,518 feet
+- 148 feet above the minimum level
 - 190 feet below the maximum level
-- down 31 feet from a year ago
+- down 30 feet from a year ago
 - down 96 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
