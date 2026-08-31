@@ -3,7 +3,7 @@ name: websiteupdater
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/16 * * * *'
 
 jobs:
   run-websiteupdater:
