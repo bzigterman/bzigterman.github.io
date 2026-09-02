@@ -861,146 +861,142 @@ status <- request(url) |> req_perform() |> resp_status()
 
 if (is_internal_redirect) {
   bracket_table_html <- ""
-  cat("Failed to retrieve the webpage. Status code:", as.numeric(status))
+  cat(
+    "Page redirects to a main/historical article; postseason page is not live yet.\n"
+  )
 } else {
-  page <- read_html(url)
-
-  bracket_h2 <- html_node(
-    page,
-    xpath = "//h2[normalize-space(text())='Playoff bracket']"
+  # 3. Look for the 'Playoff bracket' heading or the bracket table itself
+  bracket_h2 <- html_element(
+    page_html,
+    xpath = "//h2[contains(., 'Playoff bracket') or contains(., 'Bracket')]"
   )
 
-  # Extract all tables from the page
-  tables <- bracket_h2 |>
-    html_node(xpath = "following::table[1]") |>
-    html_table(fill = TRUE, header = TRUE, na.strings = "")
-
-  # Identify the bracket table
-  # Assuming the bracket is the first table; adjust the index if necessary
-  rows_to_keep <- c(2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
-  bracket_table <- tables |>
-    #html_table(fill = TRUE, header = TRUE, na.strings = "") |>
-    janitor::clean_names() |>
-    select(
-      c(
-        wild_card_series_alwcs_nlwcs_2,
-        wild_card_series_alwcs_nlwcs_3,
-        division_series_alds_nlds_2,
-        division_series_alds_nlds_3,
-        championship_series_alcs_nlcs_2,
-        championship_series_alcs_nlcs_3,
-        world_series_2,
-        world_series_3
-      )
-    ) |>
-    # remove "American League" and "National League" cells
-    mutate(
-      division_series_alds_nlds_2 = if_else(
-        division_series_alds_nlds_2 == "American League" |
-          division_series_alds_nlds_2 == "National League",
-        NA_character_,
-        division_series_alds_nlds_2
-      )
-    ) |>
-    mutate(
-      division_series_alds_nlds_3 = if_else(
-        division_series_alds_nlds_3 == "American League" |
-          division_series_alds_nlds_3 == "National League",
-        NA_character_,
-        division_series_alds_nlds_3
-      )
-    ) |>
-    #filter(wild_card_series_alwcs_nlwcs_2 != "Eastern Conference") |>
-    #filter(wild_card_series_alwcs_nlwcs_2 != "Western Conference") |>
-    slice(rows_to_keep) |>
-    mutate(across(everything(), ~ str_remove(., "\\*$"))) |>
-    rename(wcs_round = wild_card_series_alwcs_nlwcs_2) |>
-    rename(wcs_round_wins = wild_card_series_alwcs_nlwcs_3) |>
-    rename(division_series = division_series_alds_nlds_2) |>
-    rename(division_series_wins = division_series_alds_nlds_3) |>
-    rename(championship_series = championship_series_alcs_nlcs_2) |>
-    rename(championship_series_wins = championship_series_alcs_nlcs_3) |>
-    rename(world_series = world_series_2) |>
-    rename(world_series_wins = world_series_3) |>
-    mutate(across(everything(), as.character)) |>
-    mutate(across(where(is.character), ~ replace_na(., "")))
-
-  # add nonbreaking space to empty rows
-  bracket_table <- bracket_table |>
-    mutate(across(everything(), ~ if_else(. == "", "\u00A0", .)))
-
-  # View the bracket table
-
-  gt_tbl <- bracket_table |>
-    gt() %>%
-    gt_theme_espn() %>%
-    cols_label(
-      wcs_round = "Wild Card Series",
-      wcs_round_wins = "",
-      division_series = "Division Series",
-      division_series_wins = "",
-      championship_series = "Championship Series",
-      championship_series_wins = "",
-      world_series = "World Series",
-      world_series_wins = ""
-    ) |>
-    opt_row_striping(FALSE) |>
-    opt_table_lines("none") |>
-    tab_style(
-      style = cell_fill(color = "gray90"),
-      locations = cells_body(
-        columns = c(wcs_round, wcs_round_wins),
-        rows = c(2, 3, 6, 7, 10, 11, 14, 15)
-      )
-    ) |>
-    tab_style(
-      style = cell_fill(color = "gray90"),
-      locations = cells_body(
-        columns = c(division_series, division_series_wins),
-        rows = c(1, 2, 5, 6, 9, 10, 13, 14)
-      )
-    ) |>
-    tab_style(
-      style = cell_fill(color = "gray90"),
-      locations = cells_body(
-        columns = c(championship_series, championship_series_wins),
-        rows = c(3, 4, 11, 12)
-      )
-    ) |>
-    tab_style(
-      style = cell_fill(color = "gray90"),
-      locations = cells_body(
-        columns = c(world_series, world_series_wins),
-        rows = c(7, 8)
-      )
-    ) |>
-    # tab_style(
-    #   style = cell_borders(
-    #     sides = "bottom",
-    #     color = "black",
-    #     weight = px(1)
-    #   ),
-    #   locations = cells_body(
-    #     columns = c(first_round, first_round_wins),
-    #     rows = c(2, 4, 6, 8, 10, 12, 14)
-    #   )
-    # ) |>
-    tab_options(
-      data_row.padding = px(4),
-      table.font.size = px(12)
-    )
-
-  gt_tbl
-
-  bracket_table_html <- paste0(
-    "<h3>Playoffs Bracket</h3>",
-    as_raw_html(
-      gt_tbl,
-      inline_css = TRUE
-    )
+  # Locate the table associated with the bracket (usually follows the h2)
+  bracket_table_node <- html_element(
+    page_html,
+    xpath = "//h2[contains(., 'Playoff bracket') or contains(., 'Bracket')]/following::table[1]"
   )
-}
 
+  # Check if the header or table is missing
+  if (is.na(bracket_h2) || is.na(bracket_table_node)) {
+    bracket_table_html <- ""
+    cat("Postseason webpage is live, but the bracket has not been added yet.\n")
+  } else {
+    cat("Successfully found and extracted the postseason bracket!\n")
+
+    # Parse the table using the already fetched page_html node
+    tables <- bracket_table_node |>
+      html_table(fill = TRUE, header = TRUE, na.strings = "")
+
+    rows_to_keep <- c(2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
+
+    bracket_table <- tables |>
+      janitor::clean_names() |>
+      select(
+        c(
+          wild_card_series_alwcs_nlwcs_2,
+          wild_card_series_alwcs_nlwcs_3,
+          division_series_alds_nlds_2,
+          division_series_alds_nlds_3,
+          championship_series_alcs_nlcs_2,
+          championship_series_alcs_nlcs_3,
+          world_series_2,
+          world_series_3
+        )
+      ) |>
+      mutate(
+        division_series_alds_nlds_2 = if_else(
+          division_series_alds_nlds_2 %in%
+            c("American League", "National League"),
+          NA_character_,
+          division_series_alds_nlds_2
+        ),
+        division_series_alds_nlds_3 = if_else(
+          division_series_alds_nlds_3 %in%
+            c("American League", "National League"),
+          NA_character_,
+          division_series_alds_nlds_3
+        )
+      ) |>
+      slice(rows_to_keep) |>
+      mutate(across(everything(), ~ str_remove(., "\\*$"))) |>
+      rename(
+        wcs_round = wild_card_series_alwcs_nlwcs_2,
+        wcs_round_wins = wild_card_series_alwcs_nlwcs_3,
+        division_series = division_series_alds_nlds_2,
+        division_series_wins = division_series_alds_nlds_3,
+        championship_series = championship_series_alcs_nlcs_2,
+        championship_series_wins = championship_series_alcs_nlcs_3,
+        world_series = world_series_2,
+        world_series_wins = world_series_3
+      ) |>
+      mutate(
+        across(everything(), as.character),
+        across(where(is.character), ~ replace_na(., ""))
+      )
+
+    # Add nonbreaking space to empty rows
+    bracket_table <- bracket_table |>
+      mutate(across(everything(), ~ if_else(. == "", "\u00A0", .)))
+
+    # Format table with gt
+    gt_tbl <- bracket_table |>
+      gt() %>%
+      gt_theme_espn() %>%
+      cols_label(
+        wcs_round = "Wild Card Series",
+        wcs_round_wins = "",
+        division_series = "Division Series",
+        division_series_wins = "",
+        championship_series = "Championship Series",
+        championship_series_wins = "",
+        world_series = "World Series",
+        world_series_wins = ""
+      ) |>
+      opt_row_striping(FALSE) |>
+      opt_table_lines("none") |>
+      tab_style(
+        style = cell_fill(color = "gray90"),
+        locations = cells_body(
+          columns = c(wcs_round, wcs_round_wins),
+          rows = c(2, 3, 6, 7, 10, 11, 14, 15)
+        )
+      ) |>
+      tab_style(
+        style = cell_fill(color = "gray90"),
+        locations = cells_body(
+          columns = c(division_series, division_series_wins),
+          rows = c(1, 2, 5, 6, 9, 10, 13, 14)
+        )
+      ) |>
+      tab_style(
+        style = cell_fill(color = "gray90"),
+        locations = cells_body(
+          columns = c(championship_series, championship_series_wins),
+          rows = c(3, 4, 11, 12)
+        )
+      ) |>
+      tab_style(
+        style = cell_fill(color = "gray90"),
+        locations = cells_body(
+          columns = c(world_series, world_series_wins),
+          rows = c(7, 8)
+        )
+      ) |>
+      tab_options(
+        data_row.padding = px(4),
+        table.font.size = px(12)
+      )
+
+    bracket_table_html <- paste0(
+      "<h3>Playoffs Bracket</h3>",
+      as_raw_html(
+        gt_tbl,
+        inline_css = TRUE
+      )
+    )
+  } # Closes inner else (when bracket table exists)
+} # Closes outer else (when page is not an internal redirect)
 
 # web text ----
 now <- as_datetime(now())
