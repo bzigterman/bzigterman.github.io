@@ -8,30 +8,29 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:43 PM CT, September 03</p>
+<p class="updated_time"> Latest data: 04:24 PM CT, September 03</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-03_1843.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-03_2124.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-03_1843_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-03_2124_mobile.png" alt="" />
 </picture>
 
-Today's high is 96°, which is 1° **warmer** than yesterday. Tomorrow is expected to be 2° **warmer** than today.
+Today's high is 96°, which is 1° **warmer** than yesterday. Tomorrow is expected to be 3° **warmer** than today.
 
 Currently:
 
 - 95°
-- Clear
-- 56% humidity
-- 10 mph wind
-- 0% cloud cover
-- 40 AQI 🟩
-- 0.03 inches of rain expected in the next 48 hours
+- Mostly Clear
+- 52% humidity
+- 9 mph wind
+- 13% cloud cover
+- 54 AQI 🟨
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  0.00"            74 ------------- 96
 Fri:  0.00"              77 ------------ 98
-<b>Sat:  0.03"           72 --------- 88</b>
+<b>Sat:  0.00"           72 ----------- 92</b>
 <b>Sun:  0.00"       65 -------- 79</b>
 Mon:  0.00"     63 --------- 77
 Tue:  0.00"    60 --------------- 87
@@ -69,11 +68,6 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil »]({{ site.baseurl }}/projects/weather/soil)
 
-## Severe Thunderstorm Outlook
-
-![](https://www.spc.noaa.gov/products/activity_loop.gif)
-
-<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
 
