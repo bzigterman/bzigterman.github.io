@@ -21,7 +21,7 @@ permalink: /projects/water
      |                               ******    ***       *        **           |
      |                                                   ****   ******* **     |
 1060 +                                                      *   *  *******     +
-     |                                                      *****      * **    |
+     |                                                      * ***      * **    |
 1040 +                                                       ***          **   +
      +-------------+----------------+---------------+----------------+---------+
                  2010             2015            2020             2025         </code></pre>
@@ -51,14 +51,14 @@ Elevation:
      |                                                   **     * ** ***       |
 3550 +                                                    **    *      **      +
      |                                                     **** *       **     |
-     |                                                     ** ***        ***   |
+     |                                                     ** **         ***   |
      +-------------+----------------+---------------+----------------+---------+
                  2010             2015            2020             2025         </code></pre>
 </noscript>
 Elevation:
 - 3,518 feet
 - 148 feet above the minimum level
-- 190 feet below the maximum level
+- 191 feet below the maximum level
 - down 30 feet from a year ago
 - down 95 feet from ten years ago
 
