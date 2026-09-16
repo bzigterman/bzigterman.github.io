@@ -323,7 +323,7 @@ standings_cleaned <- standings_raw |>
     team_records_division_leader,
     team_records_has_wildcard,
     team_records_clinched,
-    team_records_elimination_number,
+    team_records_wild_card_elimination_number,
     team_records_magic_number,
     team_records_wins,
     team_records_losses,
@@ -339,6 +339,16 @@ standings_cleaned <- standings_raw |>
     division_id
   ) %>%
   mutate(net_wins = team_records_wins - team_records_losses) |>
+  mutate(
+    team_records_elimination_number = team_records_wild_card_elimination_number
+  ) |>
+  mutate(
+    team_records_elimination_number = if_else(
+      team_records_clinched == TRUE,
+      "✓",
+      team_records_elimination_number
+    )
+  ) |>
   mutate(team_label = team_records_team_name) |>
   mutate(
     division = case_when(
