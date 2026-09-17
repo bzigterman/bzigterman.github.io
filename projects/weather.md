@@ -8,41 +8,41 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 01:15 PM CT, September 17</p>
+<p class="updated_time"> Latest data: 04:22 PM CT, September 17</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-17_1815.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-17_2122.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-17_1815_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-17_2122_mobile.png" alt="" />
 </picture>
 
-Today's high is 93°, which is 8° **warmer** than yesterday. Tomorrow is expected to be 13° *colder* than today.
+Today's high is 94°, which is 8° **warmer** than yesterday. Tomorrow is expected to be 14° *colder* than today.
 
 Currently:
 
-- 87°
+- 94°
 - Clear
-- 67% humidity
-- 4 mph wind
-- 0% cloud cover
-- 45 AQI 🟩
-- 0.24 inches of rain expected in the next 48 hours
+- 53% humidity
+- 8 mph wind
+- 6% cloud cover
+- 61 AQI 🟨
+- 0.4 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  0.00"               71 ----------- 93
-Fri:  0.00"              68 ------ 80
-<b>Sat:  0.44"            64 ------ 76</b>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  0.00"               71 ----------- 94
+Fri:  0.30"              69 ----- 80
+<b>Sat:  0.21"            65 ------- 79</b>
 <b>Sun:  0.08"             66 ------------ 91</b>
 Mon:  0.48"          61 ----- 71
 Tue:  0.07"        57 -- 60
-Wed:  0.00"     51 ---------- 70
+Wed:  0.00"     51 --------- 70
 Thu:  0.00"       54 -------- 71
 Fri:  0.00"      53 -------- 69
-<b>Sat:  0.00"      53 ---------- 72</b>
+<b>Sat:  0.00"      53 --------- 72</b>
 <b>Sun:  0.00"      53 ------------ 77</b>
-Mon:  0.00"         58 ------------- 84
-Tue:  0.00"            64 ------- 78
-Wed:  0.00"      52 --------- 70
+Mon:  0.00"         58 ------------ 84
+Tue:  0.00"            64 ------ 78
+Wed:  0.00"      52 -------- 70
 Thu:  0.00"   46 ------------ 71
 Fri:  0.00"    49 ------- 63</code></pre>
 
