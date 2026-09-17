@@ -368,8 +368,8 @@ standings_cleaned <- standings_raw |>
 standings_with_odds <- full_join(standings_cleaned, table) |>
   mutate(
     Playoff_Odds_Pct = case_when(
-      Playoff_Odds_Pct >= 99 ~ 99,
-      Playoff_Odds_Pct <= 1 ~ 1,
+      Playoff_Odds_Pct >= 99 ~ 99.1,
+      Playoff_Odds_Pct <= 1 ~ .9,
       TRUE ~ Playoff_Odds_Pct
     )
   ) |>
@@ -382,8 +382,8 @@ standings_with_odds <- full_join(standings_cleaned, table) |>
   ) |>
   mutate(
     win_ws = case_when(
-      win_ws >= 99 ~ 99,
-      win_ws <= 1 ~ 1,
+      win_ws >= 99 ~ 99.1,
+      win_ws <= 1 ~ .9,
       TRUE ~ win_ws
     )
   ) |>
