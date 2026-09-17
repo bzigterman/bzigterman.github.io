@@ -19,7 +19,6 @@ library(jsonlite)
 library(readr)
 library(dplyr)
 
-
 # get data ----
 
 year_long <- year(today(tzone = "America/Chicago"))
