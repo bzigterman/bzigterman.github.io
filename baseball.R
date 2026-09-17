@@ -20,7 +20,6 @@ library(readr)
 library(dplyr)
 
 # get data ----
-
 year_long <- year(today(tzone = "America/Chicago"))
 year_short <- substr(year_long, nchar(year_long) - 1, nchar(year_long))
 today <- today(tzone = "America/Chicago")
