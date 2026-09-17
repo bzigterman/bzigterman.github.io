@@ -368,6 +368,34 @@ standings_cleaned <- standings_raw |>
   )
 
 standings_with_odds <- full_join(standings_cleaned, table) |>
+  mutate(
+    Playoff_Odds_Pct = case_when(
+      Playoff_Odds_Pct >= 99 ~ 99,
+      Playoff_Odds_Pct <= 1 ~ 1,
+      TRUE ~ Playoff_Odds_Pct
+    )
+  ) |>
+  mutate(
+    Playoff_Odds_Pct = case_when(
+      team_records_elimination_number == "✓" ~ 100,
+      team_records_elimination_number == "E" ~ 0,
+      TRUE ~ Playoff_Odds_Pct
+    )
+  ) |>
+  mutate(
+    win_ws = case_when(
+      win_ws >= 99 ~ 99,
+      win_ws <= 1 ~ 1,
+      TRUE ~ win_ws
+    )
+  ) |>
+  mutate(
+    win_ws = case_when(
+      #team_records_elimination_number == "✓" ~ 100,
+      team_records_elimination_number == "E" ~ 0,
+      TRUE ~ win_ws
+    )
+  ) |>
   select(
     team_label,
     division,
@@ -383,22 +411,31 @@ standings_with_odds <- full_join(standings_cleaned, table) |>
     win_ws
   )
 
-
 standings_table <- standings_with_odds %>%
   group_by(division) %>%
   arrange(division, desc(team_records_winning_percentage)) %>%
   gt() %>%
   gt_theme_espn() %>%
-  fmt_percent(
-    columns = c(win_ws, Playoff_Odds_Pct),
-    decimals = 0,
-    scale_values = FALSE
-  ) |>
   data_color(
     columns = c(win_ws, Playoff_Odds_Pct),
     domain = c(2.1, 100),
     na_color = "#FFFFFF",
     palette = "Reds"
+  ) %>%
+  # Custom display formatting for >99% and <1%
+  text_transform(
+    locations = cells_body(columns = c(win_ws, Playoff_Odds_Pct)),
+    fn = function(x) {
+      val <- as.numeric(x)
+      case_when(
+        is.na(val) ~ "",
+        val == 100 ~ "100%",
+        val == 0 ~ "0%",
+        val >= 99 & val < 100 ~ ">99%",
+        val > 0 & val <= 1 ~ "<1%",
+        TRUE ~ paste0(round(val, 0), "%")
+      )
+    }
   ) %>% # hide this until new playoffs figured out
   cols_hide(columns = c(league, team_records_wild_card_games_back)) |>
   cols_align(
@@ -406,7 +443,9 @@ standings_table <- standings_with_odds %>%
     columns = c(
       team_records_winning_percentage,
       team_records_elimination_number,
-      team_records_streak_streak_code
+      team_records_streak_streak_code,
+      Playoff_Odds_Pct,
+      win_ws
     )
   ) %>%
   cols_label(
@@ -444,19 +483,31 @@ wild_card_table <- standings_with_odds %>%
       team_records_winning_percentage,
       team_records_wild_card_games_back,
       team_records_elimination_number,
-      team_records_streak_streak_code
+      team_records_streak_streak_code,
+      Playoff_Odds_Pct,
+      win_ws
     )
   ) %>%
-  fmt_percent(
-    columns = c(win_ws, Playoff_Odds_Pct),
-    decimals = 0,
-    scale_values = FALSE
-  ) |>
   data_color(
     columns = c(win_ws, Playoff_Odds_Pct),
     domain = c(2.1, 100),
     na_color = "#FFFFFF",
     palette = "Reds"
+  ) %>%
+  # Custom display formatting for >99% and <1%
+  text_transform(
+    locations = cells_body(columns = c(win_ws, Playoff_Odds_Pct)),
+    fn = function(x) {
+      val <- as.numeric(x)
+      case_when(
+        is.na(val) ~ "",
+        val == 100 ~ "100%",
+        val == 0 ~ "0%",
+        val >= 99 & val < 100 ~ ">99%",
+        val > 0 & val <= 1 ~ "<1%",
+        TRUE ~ paste0(round(val, 0), "%")
+      )
+    }
   ) |>
   cols_label(
     team_label = "Team",
