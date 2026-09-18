@@ -10,6 +10,7 @@ Here's some of my best work:
 
 ### 2026
 
+* September 16: [Experts Revive Ch. 16 Proposal To Curb 'Bankruptcy Tourism'](https://www.law360.com/bankruptcy-authority/articles/2526384?)
 * July 21: [Bankruptcy Group Pushes Axing Ch. 15's U.S. Property Rule](https://www.law360.com/bankruptcy-authority/articles/2504102?)
 * June 15: [Prince Global Tests Ch. 15 Limits](https://www.law360.com/bankruptcy-authority/articles/2489906?)
 * May 6: [Cannabist Ch. 15 Tests Bankruptcy Access For Pot Cos.](https://www.law360.com/bankruptcy-authority/articles/2474439?)
