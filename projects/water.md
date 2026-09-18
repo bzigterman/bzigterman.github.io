@@ -28,8 +28,8 @@ permalink: /projects/water
 </noscript>
 Elevation:
 - 1,038 feet
-- 144 feet above the minimum level
-- 190 feet below the maximum level
+- 143 feet above the minimum level
+- 191 feet below the maximum level
 - down 18 feet from a year ago
 - down 36 feet from ten years ago
 
@@ -45,9 +45,9 @@ Elevation:
      |        ** *** **** ***               **                                 |
      |        **** *** **   **       **  *  ***    **                          |
      |  ***** * **     **    ***  *********** ***  ****                        |
-3600 +   ** ***               *** * ** ** **    **** ***                       +
+3600 +   ** ***               *** * ** ** **    * ** ***                       +
      |       *                  ***              **    **       *  **          |
-     |                           **              **     **      ******         |
+     |                           *               **     **      ******         |
      |                                                   **     * ** ***       |
 3550 +                                                    **   **      **      +
      |                                                     *****        ***    |
