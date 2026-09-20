@@ -15,14 +15,14 @@ permalink: /projects/water
 1120 +  ***              *** **                                                +
      |    ***** *        * ****                                                |
      |      * ****  *   **    ****                                             |
-1100 +           ***** **        **                  *                         +
+1100 +           ***** **        *                   *                         +
      |            ** * *          * *      *  ** ** *** *                      |
 1080 +               ***          ******* *********** ****                     +
      |                               ******    ***       *        **           |
      |                                                   ****   ******* **     |
 1060 +                                                      *   *  *******     +
      |                                                      * ***        **    |
-1040 +                                                      ****          **   +
+1040 +                                                      ***           **   +
      +-------------+----------------+---------------+----------------+---------+
                  2010             2015            2020             2025         </code></pre>
 </noscript>
@@ -45,7 +45,7 @@ Elevation:
      |        ** *** **** ***               **                                 |
      |        **** *** **   **       **  *  ***    **                          |
      |  ***** * **     **    ***  ** ******** ***  ****                        |
-3600 +   ** ***               *** * ** ** **    * ** ***                       +
+3600 +   ** ***               *** **** ** **    * *  ***                       +
      |       *                  ***             ***    **       *  **          |
      |                           *               **     **      ******         |
      |                                                   **     * ** ***       |
@@ -58,9 +58,9 @@ Elevation:
 Elevation:
 - 3,517 feet
 - 147 feet above the minimum level
-- 192 feet below the maximum level
+- 191 feet below the maximum level
 - down 29 feet from a year ago
-- down 95 feet from ten years ago
+- down 94 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
