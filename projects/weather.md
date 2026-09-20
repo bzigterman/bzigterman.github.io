@@ -8,41 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:05 AM CT, September 20</p>
+<p class="updated_time"> Latest data: 06:26 AM CT, September 20</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-20_0706.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-20_1126.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-20_0706_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-20_1126_mobile.png" alt="" />
 </picture>
 
-Today's high is 84°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 18° *colder* than today.
+Today's high is 85°, which is 5° **warmer** than yesterday. Tomorrow is expected to be 14° *colder* than today.
 
 Currently:
 
-- 71°
-- Mostly Clear
-- 99% humidity
-- 5 mph wind
-- 33% cloud cover
-- 52 AQI 🟨
+- 70°
+- Mostly Cloudy
+- 94% humidity
+- 4 mph wind
+- 77% cloud cover
+- 55 AQI 🟨
 - 0.1 inches of rain in the past 24 hours
-- 0.02 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sun:  0.00"                 69 --------- 84</b>
-Mon:  0.02"            61 --- 66
+<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sun:  0.00"                 69 --------- 85</b>
+Mon:  0.00"           59 ------- 71
 Tue:  0.00"         56 ------ 66
 Wed:  0.01"     49 ----------- 68
 Thu:  0.00"   46 ----------- 64
 Fri:  0.00"        54 --------- 70
-<b>Sat:  0.00"        54 ---- 60</b>
+<b>Sat:  0.00"        54 --- 60</b>
 <b>Sun:  0.00"       53 ----------- 71</b>
-Mon:  0.00"      50 ------------- 73
+Mon:  0.00"     50 -------------- 73
 Tue:  0.00"        54 --------- 70
 Wed:  0.00"       52 ----------- 71
-Thu:  0.06"         55 ------- 67
-Fri:  0.18"            60 ------ 71
+Thu:  0.06"        55 ------- 67
+Fri:  0.18"           60 ------- 71
 <b>Sat:  0.00"         56 ----------- 75</b>
 <b>Sun:  0.00"          58 ------------- 80</b></code></pre>
 
