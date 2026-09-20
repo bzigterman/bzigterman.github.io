@@ -8,40 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:00 PM CT, September 20</p>
+<p class="updated_time"> Latest data: 04:27 PM CT, September 20</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-20_1900.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-20_2127.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-20_1900_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-20_2127_mobile.png" alt="" />
 </picture>
 
-Today's high is 80°, which is 1° *colder* than yesterday. Tomorrow is expected to be 12° *colder* than today.
+Today's high is 81°, which is 0° **warmer** than yesterday. Tomorrow is expected to be 13° *colder* than today.
 
 Currently:
 
 - 80°
 - Mostly Cloudy
-- 68% humidity
-- 5 mph wind
-- 74% cloud cover
-- 54 AQI 🟨
-- 0.04 inches of rain expected in the next 48 hours
+- 70% humidity
+- 4 mph wind
+- 73% cloud cover
+- 53 AQI 🟨
+- 0.18 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sun:  0.03"                  67 -------- 80</b>
-Mon:  0.00"             59 ----- 67
-Tue:  0.00"            57 ------ 67
-Wed:  0.00"            57 ------ 67
+<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sun:  0.00"                 67 --------- 81</b>
+Mon:  0.06"              61 --- 67
+Tue:  0.02"           56 ------ 67
+Wed:  0.00"            57 ----- 67
 Thu:  0.00"            57 ------ 68
 Fri:  0.00"        51 ----------- 69
-<b>Sat:  0.00"           55 ---- 62</b>
-<b>Sun:  0.00"          54 ----------- 72</b>
-Mon:  0.00"         52 -------------- 75
+<b>Sat:  0.00"          55 ---- 62</b>
+<b>Sun:  0.00"          54 ---------- 72</b>
+Mon:  0.00"         52 ------------- 75
 Tue:  0.00"       50 ------------------ 79
-Wed:  0.26"              60 ------ 71
+Wed:  0.26"             60 ------- 71
 Thu:  0.34"      48 ------ 58
-Fri:  0.00"    45 ---------- 60
+Fri:  0.00"    45 --------- 60
 <b>Sat:  0.00"    44 --------------- 69</b>
 <b>Sun:  0.00"      48 ------ 57</b>
 Mon:  0.00"   43 ------------- 64</code></pre>
