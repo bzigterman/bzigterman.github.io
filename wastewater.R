@@ -36,50 +36,40 @@ iwss <- iwss_download %>%
   ) |>
   mutate(rsv_avg = zoo::rollmean(rsv, k = 8, fill = NA, align = "right"))
 
-
 fig <- hchart(
   iwss,
   type = "line",
   hcaes(x = Date, y = sars_cov_2_avg),
-  label = list(
-    enabled = TRUE
-  ),
+  label = list(enabled = TRUE),
   name = "SARS-CoV-2",
-  states = list(
-    inactive = list(
-      enabled = FALSE
-    )
-  ),
+  states = list(inactive = list(enabled = FALSE)),
   color = "#B45F06",
   yAxis = 0
 ) %>%
-  hc_yAxis(
-    title = list(text = "Gene Copies Per Liter (w/ Moving Avg.)"),
-    endOnTick = FALSE,
-    startOnTick = FALSE
-  ) |>
-  # hc_yAxis_multiples(create_axis(naxis = 2,
-  #                                heights = c(1,1),
-  #                                title = list(text = NULL),
-  #                                endOnTick = FALSE,
-  #                                startOnTick = FALSE,
-  #                                max = c(NA,
-  #                                        NA
-  #                                ),
-  #                                min = c(0,
-  #                                        0
-  #                                ))) %>%
+  # Define Axis 0 (Lines calculate scale here) and Axis 1 (Linked dummy axis for Scatter)
+  hc_yAxis_multiples(
+    list(
+      title = list(text = "Gene Copies Per Liter (Moving Avg.)"),
+      endOnTick = FALSE,
+      startOnTick = FALSE,
+      min = 0
+    ),
+    list(
+      title = list(text = NULL),
+      visible = FALSE,
+      linkedTo = 0 # Locks zoom/scale to axis 0, but axis 0 won't read axis 1's points!
+    )
+  ) %>%
+  hc_plotOptions(
+    series = list(
+      clip = FALSE # Clips scatter dots at the top border of Axis 0
+    )
+  ) %>%
   hc_add_series(
     data = iwss,
-    label = list(
-      enabled = TRUE
-    ),
+    label = list(enabled = TRUE),
     hcaes(x = Date, y = influenza_a_avg),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     name = "Influenza A",
     color = "blue",
     type = "line",
@@ -87,78 +77,56 @@ fig <- hchart(
   ) %>%
   hc_add_series(
     data = iwss,
-    label = list(
-      enabled = TRUE
-    ),
+    label = list(enabled = TRUE),
     hcaes(x = Date, y = influenza_b_avg),
     name = "Influenza B",
     color = "purple",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     type = "line",
     yAxis = 0
   ) %>%
+  # --- RAW DATA SERIES (Assigned to linked yAxis = 1) ---
   hc_add_series(
     data = iwss,
     zIndex = -1,
     hcaes(x = Date, y = sars_cov_2),
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
-    name = "SARS-CoV-2",
+    states = list(inactive = list(enabled = FALSE)),
+    name = "SARS-CoV-2 (Raw)",
     color = "#f0dfcd",
     enableMouseTracking = FALSE,
     type = "line",
-    yAxis = 0
+    yAxis = 1
   ) %>%
   hc_add_series(
     data = iwss,
     hcaes(x = Date, y = influenza_a),
     zIndex = -1,
-    name = "Influenza A",
+    name = "Influenza A (Raw)",
     enableMouseTracking = FALSE,
     color = "#e5e5ff",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     type = "line",
-    yAxis = 0
+    yAxis = 1
   ) %>%
   hc_add_series(
     data = iwss,
     zIndex = -1,
     hcaes(x = Date, y = influenza_b),
     enableMouseTracking = FALSE,
-    name = "Influenza B",
+    name = "Influenza B (Raw)",
     color = "#f2e5f2",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     type = "line",
-    yAxis = 0
+    yAxis = 1
   ) %>%
+  # ------------------------------------------------------
   hc_add_series(
     data = iwss,
-    label = list(
-      enabled = TRUE
-    ),
+    label = list(enabled = TRUE),
     hcaes(x = Date, y = rsv_avg),
     name = "RSV",
     color = "black",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     type = "line",
     yAxis = 0
   ) %>%
@@ -167,15 +135,11 @@ fig <- hchart(
     zIndex = -1,
     hcaes(x = Date, y = rsv),
     enableMouseTracking = FALSE,
-    name = "RSV",
+    name = "RSV (Raw)",
     color = "lightgray",
-    states = list(
-      inactive = list(
-        enabled = FALSE
-      )
-    ),
+    states = list(inactive = list(enabled = FALSE)),
     type = "line",
-    yAxis = 0
+    yAxis = 1
   ) %>%
   hc_credits(
     enabled = TRUE,
@@ -184,20 +148,18 @@ fig <- hchart(
   ) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE, valueDecimals = 0, table = TRUE, sort = TRUE) %>%
-  hc_add_theme(
-    hc_theme_bloom()
-  ) %>%
+  hc_add_theme(hc_theme_bloom()) %>%
   hc_rangeSelector(
     enabled = TRUE,
     buttons = list(
       list(type = 'month', count = 3, text = '3m'),
       list(type = 'month', count = 6, text = '6m'),
       list(type = 'month', count = 18, text = '18m'),
-      #list(type = 'year', count = 2, text = '2y'),
       list(type = 'all', text = 'All')
     ),
     selected = 2
   )
+
 
 fig
 saveWidget(
@@ -279,6 +241,13 @@ all_colors <- c(
   "black"
 )
 
+# 1. Compute y-axis limits based ONLY on the moving average values
+avg_max <- max(
+  (iwss_longer |> filter(contains_avg == "avg"))$value,
+  na.rm = TRUE
+)
+
+# 2. Add coord_cartesian with clip = "on" to your plot
 p <- ggplot() +
   geom_line(
     data = iwss_longer |> filter(contains_avg == "not_avg"),
@@ -293,18 +262,23 @@ p <- ggplot() +
     aes(x = as.Date(Date), y = value, color = name),
     linewidth = 1
   ) +
+  # --- CRITICAL STEP: Crop y-axis scale based ONLY on moving averages ---
+  coord_cartesian(
+    ylim = c(0, avg_max * 1.05), # 5% padding above highest avg value
+    clip = "on" # Cuts off raw lines extending past avg_max
+  ) +
+  # ----------------------------------------------------------------------
   scale_colour_manual(values = all_colors) +
   labs(caption = paste0("Latest data: ", latest_date_clean, ". Source: IWSS")) +
   xlab(NULL) +
   ylab("Gene copies per liter (moving avg.)") +
   scale_x_date(
     expand = expansion(mult = c(.01, .05)),
-    # label breaks as "Apr 2026" or "Jan 2025"
     date_labels = "%b %Y"
   ) +
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale()),
-    expand = expansion(mult = c(0, .05))
+    expand = c(0, 0) # Set to 0 since padding is handled inside coord_cartesian
   ) +
   guides(colour = guide_legend(position = "inside")) +
   theme(
@@ -322,7 +296,9 @@ p <- ggplot() +
     strip.background = element_blank(),
     plot.caption = element_text(size = 7, colour = "grey40")
   )
+
 p
+
 # save to a temp file
 ggsave(
   file = "plots/wastewater.png",

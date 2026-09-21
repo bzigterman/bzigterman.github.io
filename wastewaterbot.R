@@ -86,6 +86,10 @@ all_colors <- c(
   "purple",
   "black"
 )
+avg_max <- max(
+  (iwss_longer |> filter(contains_avg == "avg"))$value,
+  na.rm = TRUE
+)
 
 p <- ggplot() +
   geom_line(
@@ -101,6 +105,11 @@ p <- ggplot() +
     aes(x = as.Date(Date), y = value, color = name),
     linewidth = 1
   ) +
+  # --- CRITICAL STEP: Crop y-axis scale based ONLY on moving averages ---
+  coord_cartesian(
+    ylim = c(0, avg_max * 1.05), # 5% padding above highest avg value
+    clip = "on" # Cuts off raw lines extending past avg_max
+  ) +
   scale_colour_manual(values = all_colors) +
   labs(caption = paste0("Latest data: ", latest_date_clean, ". Source: IWSS")) +
   xlab(NULL) +
@@ -112,7 +121,7 @@ p <- ggplot() +
   ) +
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale()),
-    expand = expansion(mult = c(0, .05))
+    expand = c(0, 0) # Set to 0 since padding is handled inside coord_cartesian
   ) +
   guides(colour = guide_legend(position = "inside")) +
   theme(
