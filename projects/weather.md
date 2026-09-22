@@ -8,29 +8,30 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:18 PM CT, September 22</p>
+<p class="updated_time"> Latest data: 05:06 PM CT, September 22</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-22_1918.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-22_2206.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-22_1918_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-22_2206_mobile.png" alt="" />
 </picture>
 
-Today's high is 68°, which is 2° **warmer** than yesterday. Tomorrow is expected to be 4° *colder* than today.
+Today's high is 69°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 6° *colder* than today.
 
 Currently:
 
-- 66°
-- Partly Cloudy
-- 67% humidity
+- 68°
+- Mostly Clear
+- 63% humidity
 - 11 mph wind
-- 55% cloud cover
-- 27 AQI 🟩
+- 14% cloud cover
+- 31 AQI 🟩
+- 0.02 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"          58 ----- 68
-Wed:  0.00"          58 --- 63
-Thu:  0.00"         55 ------- 70
+<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"          58 ------ 69
+Wed:  0.00"           59 -- 63
+Thu:  0.02"          57 ------ 70
 Fri:  0.00"          57 ---- 66
 <b>Sat:  0.00"        54 ----- 64</b>
 <b>Sun:  0.00"          58 ---- 66</b>
@@ -68,6 +69,11 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil »]({{ site.baseurl }}/projects/weather/soil)
 
+## Severe Thunderstorm Outlook
+
+![](https://www.spc.noaa.gov/products/activity_loop.gif)
+
+<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
 
