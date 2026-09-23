@@ -8,42 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 07:52 PM CT, September 22</p>
+<p class="updated_time"> Latest data: 12:32 AM CT, September 23</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-23_0052.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-23_0532.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-23_0052_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-23_0532_mobile.png" alt="" />
 </picture>
 
-Today's high is 70°, which is 4° **warmer** than yesterday. Tomorrow is expected to be 6° *colder* than today.
+Today's high is 64°, which is 5° *colder* than yesterday. Tomorrow is expected to be 5° **warmer** than today.
 
 Currently:
 
-- 62°
-- Mostly Cloudy
-- 77% humidity
-- 12 mph wind
-- 85% cloud cover
-- 35 AQI 🟩
-- 0.02 inches of rain expected in the next 48 hours
+- 61°
+- Overcast
+- 90% humidity
+- 9 mph wind
+- 96% cloud cover
+- 30 AQI 🟩
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Tue:  0.00"             58 ------- 70
-Wed:  0.00"             58 --- 63
-Thu:  0.02"             57 ------ 69
+<pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.00"              59 --- 64
+Thu:  0.00"             57 ------ 69
 Fri:  0.00"             58 ------- 70
 <b>Sat:  0.00"           54 -------- 69</b>
 <b>Sun:  0.00"            56 -------- 71</b>
 Mon:  0.00"         50 ------------- 73
 Tue:  0.00"           53 --------------- 81
-Wed:  0.07"           54 ---------- 72
+Wed:  0.45"           54 ---------- 72
 Thu:  0.00"        48 ------ 60
 Fri:  0.00"     43 ------------- 66
 <b>Sat:  0.00"       46 ------------- 70</b>
 <b>Sun:  0.00"      44 ---------- 63</b>
-Mon:  0.00"    40 ---------- 60
-Tue:  0.00"   39 ------------- 62
+Mon:  0.05"    40 ---------- 60
+Tue:  0.01"   39 ------------- 62
 Wed:  0.00"     43 -------------- 69</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
