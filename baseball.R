@@ -309,6 +309,8 @@ table <- forecast_table |>
   select(team_label, Playoff_Odds_Pct, win_ws)
 
 # standings tables ----
+
+# 1. Clean Standings Data
 standings_cleaned <- standings_raw |>
   select(
     team_records_division_rank,
@@ -339,52 +341,6 @@ standings_cleaned <- standings_raw |>
   ) |>
   mutate(
     net_wins = team_records_wins - team_records_losses,
-
-    # 1. Cast raw API strings
-    raw_combined = as.character(team_records_elimination_number),
-    raw_div = as.character(team_records_elimination_number_division),
-    raw_wc = as.character(team_records_wild_card_elimination_number),
-
-    # 2. Extract numeric values safely
-    num_combined = suppressWarnings(as.numeric(raw_combined)),
-    num_div = suppressWarnings(as.numeric(raw_div)),
-    num_wc = suppressWarnings(as.numeric(raw_wc)),
-
-    # 3. Take the maximum numeric elimination lifeline available across all fields
-    max_e_num = pmax(num_combined, num_div, num_wc, na.rm = TRUE),
-
-    # 4. Check if team is actively in a playoff spot
-    is_in_playoff_spot = (team_records_division_leader == TRUE |
-      team_records_has_wildcard == TRUE),
-
-    # 5. Format output string
-    team_records_elimination_number = case_when(
-      # Clinched a playoff spot
-      team_records_clinched == TRUE ~ "✓",
-
-      # In a division lead or Wild Card spot (Phillies)
-      is_in_playoff_spot ~ "-",
-
-      # Has active numeric elimination lifeline > 0
-      !is.na(max_e_num) & max_e_num > 0 ~ as.character(max_e_num),
-
-      # Explicit 0 in max numeric lifeline
-      !is.na(max_e_num) & max_e_num == 0 ~ "E",
-
-      # Any raw field explicitly contains "E" or "0" while NOT in a playoff spot
-      !is_in_playoff_spot &
-        (raw_combined %in%
-          c("E", "0") |
-          raw_div %in% c("E", "0") |
-          raw_wc %in% c("E", "0")) ~
-        "E",
-
-      # Fallback for teams not in a playoff spot with no numeric E# remaining
-      !is_in_playoff_spot ~ "E",
-
-      TRUE ~ "-"
-    ),
-
     team_label = team_records_team_name,
     division = case_when(
       division_id == 200 ~ "AL West",
@@ -398,45 +354,69 @@ standings_cleaned <- standings_raw |>
       league_id == 103 ~ "AL",
       league_id == 104 ~ "NL"
     )
-  ) |>
-  select(
-    -raw_combined,
-    -raw_div,
-    -raw_wc,
-    -num_combined,
-    -num_div,
-    -num_wc,
-    -max_e_num,
-    -is_in_playoff_spot
   )
 
+# 2. Prepare Simulation/Odds Table
+table_clean <- table |>
+  select(team_label, Playoff_Odds_Pct, win_ws)
 
-standings_with_odds <- full_join(standings_cleaned, table) |>
+# 3. Combine Standings and Odds with Correct Elimination Logic
+standings_with_odds <- full_join(
+  standings_cleaned,
+  table_clean,
+  by = "team_label"
+) |>
   mutate(
-    Playoff_Odds_Pct = case_when(
-      Playoff_Odds_Pct >= 99 ~ 99.1,
-      Playoff_Odds_Pct <= 1 ~ .9,
-      TRUE ~ Playoff_Odds_Pct
-    )
-  ) |>
-  mutate(
+    # Raw character values
+    raw_div = as.character(team_records_elimination_number_division),
+    raw_wc = as.character(team_records_wild_card_elimination_number),
+
+    # Numeric values (suppress NA warnings for "E", "-", etc.)
+    div_e = suppressWarnings(as.numeric(raw_div)),
+    wc_e = suppressWarnings(as.numeric(raw_wc)),
+
+    # Take highest remaining numeric lifeline across both routes
+    max_e = pmax(div_e, wc_e, na.rm = TRUE),
+
+    # Check if team is actively holding a division lead or Wild Card spot
+    is_clinched_val = coalesce(team_records_clinched, FALSE) == TRUE,
+    is_div_leader = coalesce(team_records_division_leader, FALSE) == TRUE,
+    is_wc_holder = (coalesce(team_records_has_wildcard, FALSE) == TRUE |
+      coalesce(team_records_wild_card_leader, FALSE) == TRUE) &
+      raw_wc == "-",
+    is_in_spot = is_div_leader | is_wc_holder,
+
+    # True playoff elimination requires BOTH paths to be closed
+    is_eliminated_odds = !is.na(Playoff_Odds_Pct) & Playoff_Odds_Pct == 0,
+    is_eliminated_raw = (raw_div %in% c("E", "0") & raw_wc %in% c("E", "0")) |
+      (!is.na(max_e) & max_e == 0),
+
+    # Priority Resolution:
+    # 1. Clinched -> "✓"
+    # 2. In a playoff spot (Leaders / WC spot holders) -> "-"
+    # 3. Active numeric E# remaining (e.g. D-backs wc_e = 1) -> max_e as character
+    # 4. Eliminated (by simulation 0% OR both paths raw "E") -> "E"
+    # 5. Default fallback -> "-"
+    team_records_elimination_number = case_when(
+      is_clinched_val ~ "✓",
+      is_in_spot ~ "-",
+      !is.na(max_e) & max_e > 0 ~ as.character(max_e),
+      !is_in_spot & (is_eliminated_odds | is_eliminated_raw) ~ "E",
+      TRUE ~ "-"
+    ),
+
+    # Adjust Odds Formatting based on final elimination string
     Playoff_Odds_Pct = case_when(
       team_records_elimination_number == "✓" ~ 100,
       team_records_elimination_number == "E" ~ 0,
+      Playoff_Odds_Pct >= 99 ~ 99.1,
+      Playoff_Odds_Pct <= 1 & Playoff_Odds_Pct > 0 ~ 0.9,
       TRUE ~ Playoff_Odds_Pct
-    )
-  ) |>
-  mutate(
+    ),
     win_ws = case_when(
-      win_ws >= 99 ~ 99.1,
-      win_ws <= 1 ~ .9,
-      TRUE ~ win_ws
-    )
-  ) |>
-  mutate(
-    win_ws = case_when(
-      #team_records_elimination_number == "✓" ~ 100,
       team_records_elimination_number == "E" ~ 0,
+      win_ws >= 99 ~ 99.1,
+      win_ws <= 1 & win_ws > 0 ~ 0.9,
       TRUE ~ win_ws
     )
   ) |>
@@ -454,6 +434,7 @@ standings_with_odds <- full_join(standings_cleaned, table) |>
     Playoff_Odds_Pct,
     win_ws
   )
+
 
 standings_table <- standings_with_odds %>%
   group_by(division) %>%
