@@ -8,42 +8,42 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 05:46 PM CT, September 26</p>
+<p class="updated_time"> Latest data: 07:25 PM CT, September 26</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-26_2246.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-09-27_0025.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-09-26_2246_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-09-27_0025_mobile.png" alt="" />
 </picture>
 
 Today's high is 77°, which is 6° **warmer** than yesterday. Tomorrow is expected to be 2° *colder* than today.
 
 Currently:
 
-- 73°
-- Clear
-- 36% humidity
-- 6 mph wind
-- 0% cloud cover
-- 37 AQI 🟩
+- 66°
+- Mostly Clear
+- 56% humidity
+- 4 mph wind
+- 20% cloud cover
+- 42 AQI 🟩
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sat:  0.00"          52 ------------ 77</b>
-<b>Sun:  0.00"          51 ------------ 75</b>
-Mon:  0.00"         50 ------------ 74
-Tue:  0.00"            55 ------------ 80
-Wed:  0.00"                 66 --------- 84
-Thu:  0.07"                  67 ---- 75
-Fri:  0.31"                  68 ---- 77
-<b>Sat:  0.41"                  68 --- 74</b>
-<b>Sun:  0.43"      45 ------------ 69</b>
-Mon:  0.00"    41 ------ 53
-Tue:  0.00"   38 --------- 57
-Wed:  0.00"    40 ------------ 64
-Thu:  0.00"      43 ------------ 69
-Fri:  0.00"           54 ------------ 78
-<b>Sat:  0.01"               62 ------ 74</b>
-<b>Sun:  0.00"              61 -------- 75</b></code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sat:  0.00"        52 ------------- 77</b>
+<b>Sun:  0.00"        52 ------------ 75</b>
+Mon:  0.00"       50 ------------ 74
+Tue:  0.00"         54 ------------- 79
+Wed:  0.00"              63 ------------ 87
+Thu:  0.06"               66 -- 70
+Fri:  0.09"             61 -------- 78
+<b>Sat:  0.51"             61 ------- 75</b>
+<b>Sun:  0.55"       50 ------------ 73</b>
+Mon:  0.00"   42 ------- 56
+Tue:  0.00"    44 ------------- 69
+Wed:  0.00"        52 ------------ 76
+Thu:  0.00"      48 --------- 66
+Fri:  0.00"   42 ---------- 61
+<b>Sat:  0.00"   42 ----------- 63</b>
+<b>Sun:  0.00"     45 ----------- 67</b></code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
