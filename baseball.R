@@ -64,6 +64,7 @@ api_raw_time <- max(live_data$team_records_last_updated, na.rm = TRUE)
 api_timestamp <- ymd_hms(api_raw_time)
 
 # 3. Check if we already have this exact data saved
+standings_updated <- FALSE
 if (file.exists(csv_path)) {
   old_data <- read_csv(csv_path, show_col_types = FALSE)
 
@@ -75,24 +76,40 @@ if (file.exists(csv_path)) {
 
   # If the timestamps are identical, absolutely nothing changed in MLB's system
   if (api_timestamp == old_timestamp) {
-    message("MLB API timestamp has not advanced. Exiting early.")
-    quit(status = 0)
+    message("MLB API timestamp has not advanced. Skipping standings update.")
+    standings_updated <- FALSE
+  } else {
+    standings_updated <- TRUE
   }
+} else {
+  standings_updated <- TRUE
 }
 
 # 4. If it's a new timestamp, clean up your columns and write the file
-standings_cleaned <- live_data |>
-  mutate(
-    wins = as.numeric(team_records_wins),
-    losses = as.numeric(team_records_losses),
-    game_n = wins + losses,
-    team = team_records_team_name,
-    # Keep the raw or parsed timestamp attached so it reads next time
-    team_records_last_updated = team_records_last_updated
-  )
+if (standings_updated) {
+  standings_cleaned <- live_data |>
+    mutate(
+      wins = as.numeric(team_records_wins),
+      losses = as.numeric(team_records_losses),
+      game_n = wins + losses,
+      team = team_records_team_name,
+      # Keep the raw or parsed timestamp attached so it reads next time
+      team_records_last_updated = team_records_last_updated
+    )
 
-write_csv(standings_cleaned, csv_path)
-message("New data found! Standings updated.")
+  write_csv(standings_cleaned, csv_path)
+  message("New data found! Standings updated.")
+} else {
+  # Use cached standings data
+  standings_cleaned <- live_data |>
+    mutate(
+      wins = as.numeric(team_records_wins),
+      losses = as.numeric(team_records_losses),
+      game_n = wins + losses,
+      team = team_records_team_name,
+      team_records_last_updated = team_records_last_updated
+    )
+}
 
 # Convert the UTC time from the API into your local timezone
 local_display_time <- api_timestamp |>
