@@ -951,6 +951,22 @@ url <- paste0(
   "_Major_League_Baseball_postseason"
 )
 
+bracket_state_path <- "data/mlb_postseason_bracket_state.rds"
+dir.create("data", showWarnings = FALSE, recursive = TRUE)
+
+# Load prior bracket snapshot if it exists so we only update the timestamp on real changes
+bracket_last_updated <- NULL
+bracket_previous_snapshot <- NULL
+if (file.exists(bracket_state_path)) {
+  prior_state <- readRDS(bracket_state_path)
+  if (!is.null(prior_state$last_updated)) {
+    bracket_last_updated <- prior_state$last_updated
+  }
+  if (!is.null(prior_state$snapshot)) {
+    bracket_previous_snapshot <- prior_state$snapshot
+  }
+}
+
 # 1. Fetch the page cleanly (it will return 200 OK even on the redirect)
 resp <- request(url) |> req_perform()
 page_html <- resp_body_html(resp)
@@ -1046,6 +1062,28 @@ if (is_internal_redirect) {
     bracket_table <- bracket_table |>
       mutate(across(everything(), ~ if_else(. == "", "\u00A0", .)))
 
+    # Create a deterministic snapshot of the bracket contents; only update the timestamp when it changes.
+    bracket_snapshot <- paste(capture.output(print(bracket_table)), collapse = "\n")
+    if (is.null(bracket_previous_snapshot) || !identical(bracket_snapshot, bracket_previous_snapshot)) {
+      bracket_last_updated <- format(now(tzone = "US/Central"), "%I:%M %p CT, %B %d")
+      saveRDS(
+        list(
+          snapshot = bracket_snapshot,
+          last_updated = bracket_last_updated
+        ),
+        bracket_state_path
+      )
+    } else if (is.null(bracket_last_updated)) {
+      bracket_last_updated <- format(now(tzone = "US/Central"), "%I:%M %p CT, %B %d")
+      saveRDS(
+        list(
+          snapshot = bracket_snapshot,
+          last_updated = bracket_last_updated
+        ),
+        bracket_state_path
+      )
+    }
+
     # Format table with gt
     gt_tbl <- bracket_table |>
       gt() %>%
@@ -1113,12 +1151,11 @@ now_formatted <- strftime(
   format = "%I:%M% %p CT, %B %d"
 )
 
-# Determine which timestamp to display based on whether bracket was successfully fetched
+# Use the saved bracket last-updated timestamp if the bracket is live and unchanged,
+# otherwise fall back to the MLB standings timestamp outside the postseason.
 display_time <- if (bracket_fetch_successful) {
-  # During playoffs: show when bracket was last updated (current time)
-  now_formatted
+  if (is.null(bracket_last_updated)) now_formatted else bracket_last_updated
 } else {
-  # During regular season or when bracket not yet available: show MLB data update time
   local_display_time
 }
 
