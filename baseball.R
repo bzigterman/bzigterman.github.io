@@ -962,6 +962,9 @@ is_internal_redirect <- page_html |>
   0
 status <- request(url) |> req_perform() |> resp_status()
 
+# Initialize variable to track if bracket was successfully fetched
+bracket_fetch_successful <- FALSE
+
 if (is_internal_redirect) {
   bracket_table_html <- ""
   cat(
@@ -986,6 +989,7 @@ if (is_internal_redirect) {
     cat("Postseason webpage is live, but the bracket has not been added yet.\n")
   } else {
     cat("Successfully found and extracted the postseason bracket!\n")
+    bracket_fetch_successful <- TRUE
 
     # Parse the table using the already fetched page_html node
     tables <- bracket_table_node |>
@@ -1109,9 +1113,18 @@ now_formatted <- strftime(
   format = "%I:%M% %p CT, %B %d"
 )
 
+# Determine which timestamp to display based on whether bracket was successfully fetched
+display_time <- if (bracket_fetch_successful) {
+  # During playoffs: show when bracket was last updated (current time)
+  now_formatted
+} else {
+  # During regular season or when bracket not yet available: show MLB data update time
+  local_display_time
+}
+
 now_html <- paste(
   "<p class=\"updated_time\"> Latest data: ",
-  local_display_time,
+  display_time,
   "</p>",
   sep = ""
 )
