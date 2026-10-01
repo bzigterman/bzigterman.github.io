@@ -27,10 +27,27 @@ current_season <- most_recent_nba_season()
 csv_path <- "data/nba_standings.csv"
 
 # 2. Fetch live data from the hoopR ESPN Standings API
-live_data_raw <- espn_nba_standings(year = current_season)
+# Wrapped in tryCatch: any fetch/parse failure (e.g., ESPN schema changes
+# between seasons) becomes NULL so the script exits cleanly below instead
+# of failing the workflow.
+live_data_raw <- tryCatch(
+  espn_nba_standings(year = current_season),
+  error = function(e) {
+    message("Error fetching NBA standings: ", conditionMessage(e))
+    NULL
+  }
+)
 
 if (is.null(live_data_raw) || nrow(live_data_raw) == 0) {
   message("No live NBA standings returned. Exiting early.")
+  quit(status = 0)
+}
+
+# Preseason guard: once the calendar flips to October, hoopR requests the
+# new season before it starts and ESPN returns every team at 0-0. There are
+# no real standings yet, so keep last season's finals on the site.
+if (sum(live_data_raw$wins, na.rm = TRUE) == 0) {
+  message("No NBA games played yet this season (preseason). Exiting early.")
   quit(status = 0)
 }
 
@@ -153,7 +170,10 @@ nba_team_stats <- raw_standings %>%
     points_for = as.integer(pointsfor),
     points_against = as.integer(pointsagainst),
     games_played = wins + losses,
-    pyth_wpct = (points_for^14) / (points_for^14 + points_against^14)
+    pyth_wpct = (points_for^14) / (points_for^14 + points_against^14),
+    # Teams that haven't played yet get NaN here (0/0); treat them as a
+    # coin flip so the simulations don't crash on `if (NA)` early in the season.
+    pyth_wpct = ifelse(is.na(pyth_wpct), 0.5, pyth_wpct)
   ) %>%
   # Merges perfectly on the text strings now
   left_join(team_info, by = "team_id")
