@@ -404,7 +404,7 @@ gdp_growth_forecast_ny <-
 
 gdp_growth_forecast_ny <- gdp_growth_forecast_ny |>
   tail(1) |> # remove_empty()  |>
-  pivot_longer(cols = everything()) |>
+  pivot_longer(cols = everything(), values_transform = as.character) |> # tolerate mixed column types from the NY Fed sheet
   mutate(date = str_replace(name, "x", "")) |>
   mutate(date = yq(date)) |>
   mutate(change = as.numeric(value)) |>
