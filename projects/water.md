@@ -16,7 +16,7 @@ permalink: /projects/water
      |    ***** *       ** ****                                                |
      |      * ****  *   *     ****                                             |
 1100 +           ****  **        *                  **                         +
-     |            ******         ** *      *  ** ** *** *                      |
+     |            ******         ** *      *  *  ** *** *                      |
 1080 +               **           ******* *********** ****                     +
      |                               ** ***    **        *        **           |
      |                                                   ****   ******* **     |
@@ -47,20 +47,20 @@ Elevation:
      |  ***** * **     **    ***  ** ******** *** *****                        |
 3600 +   ** ***               *** **** ** **    * *  ***                       +
      |       *                  ***             ***    **       *  **          |
-     |                           *               **     *       ******         |
+     |                           *               **     *      *******         |
      |                                                  **     *  ** ***       |
-3550 +                                                    **   *       **      +
-     |                                                     *****        ***    |
+3550 +                                                   ***   *       **      +
+     |                                                     *****        **     |
      |                                                     ** **         ***   |
      +-------------+----------------+---------------+----------------+---------+
                  2010             2015            2020             2025         </code></pre>
 </noscript>
 Elevation:
-- 3,518 feet
-- 148 feet above the minimum level
+- 3,519 feet
+- 149 feet above the minimum level
 - 190 feet below the maximum level
 - down 26 feet from a year ago
-- down 93 feet from ten years ago
+- down 92 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
