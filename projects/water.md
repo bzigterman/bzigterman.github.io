@@ -13,13 +13,13 @@ permalink: /projects/water
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+----------------+---------------+----------------+---------+
      |   **              ***                                                   |
 1120 +  ***              * * **                                                +
-     |    ***** *       ** ****                                                |
+     |    ****  *       ** ****                                                |
      |      * **** **   *     ****                                             |
 1100 +           ****  **        *                  **                         +
      |            ******         ****      *  *  ** *** *                      |
 1080 +               **           ******* *********** ****                     +
      |                               ** ***    **        *        **           |
-     |                                                   ****   ******* **     |
+     |                                                   ****   ** **** **     |
 1060 +                                                      *  **  *******     +
      |                                                      ****         **    |
 1040 +                                                      ***           **   +
@@ -43,8 +43,8 @@ Elevation:
      |                  **                                                     |
 3650 +           **  *  ***                                                    +
      |        ** ****** * ***               **                                 |
-     |        **** ** ***   **       *  **  ***    **                          |
-     |  ***** * **     **    ***  ** *******  *** *****                        |
+     |        **** ** ***   **       *  ** ****    **                          |
+     |  ***** * **     **    ***  ** *******  *** * ***                        |
 3600 +   ** ***               *** **** ** **    * *  ***                       +
      |       *                  ***             ***    **       *  **          |
      |                           *               **     *      *******         |
@@ -58,8 +58,8 @@ Elevation:
 Elevation:
 - 3,519 feet
 - 149 feet above the minimum level
-- 190 feet below the maximum level
-- down 26 feet from a year ago
+- 189 feet below the maximum level
+- down 25 feet from a year ago
 - down 92 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
