@@ -15,9 +15,18 @@ library(hoopR)
 token <- Sys.getenv("RTOOT_DEFAULT_TOKEN")
 verify_envvar(verbose = TRUE)
 
+# preseason guard: before the new season's data files are published, the fetch
+# returns an empty frame with no columns. Exit cleanly instead of crashing on
+# filter(season_type == 2) inside get_team_records().
+records_raw <- load_nba_team_box(seasons = most_recent_nba_season())
+if (nrow(records_raw) == 0 || !"season_type" %in% names(records_raw)) {
+  message("No NBA team box score data published yet this season (preseason). Exiting early.")
+  quit(status = 0)
+}
+
 # get data ----
 get_team_records <- function(abbreviation) {
-  records <- load_nba_team_box(seasons = most_recent_nba_season()) |>
+  records <- records_raw |>
     filter(season_type == 2) |>
     select(
       game_id,
