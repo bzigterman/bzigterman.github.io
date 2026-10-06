@@ -244,6 +244,15 @@ west_standings <- western %>%
 
 nba_standings <- full_join(east_standings, west_standings)
 
+# Preseason guard: once the calendar flips to October, hoopR requests the new
+# season before it starts and there are no regular-season games yet, so every
+# team_label is NA. Exit cleanly like basketball.R instead of crashing on the
+# empty standings below.
+if (nrow(filter(nba_standings, !is.na(team_label))) == 0) {
+  message("No NBA regular-season games played yet this season (preseason). Exiting early.")
+  quit(status = 0)
+}
+
 latest_game <- as_date(max(nba_standings$game_date))
 game_yesterday <- if_else(
   latest_game >= today(tzone = "UTC") - days(1),
