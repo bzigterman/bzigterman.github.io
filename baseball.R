@@ -984,8 +984,7 @@ bracket_fetch_successful <- FALSE
 if (is_internal_redirect) {
   bracket_table_html <- ""
   cat(
-    "Page redirects to a main/historical article; postseason page is not live yet.
-"
+    "Page redirects to a main/historical article; postseason page is not live yet.\n"
   )
 } else {
   # 3. Look for the 'Playoff bracket' heading or the bracket table itself
@@ -1003,11 +1002,9 @@ if (is_internal_redirect) {
   # Check if the header or table is missing
   if (is.na(bracket_h2) || is.na(bracket_table_node)) {
     bracket_table_html <- ""
-    cat("Postseason webpage is live, but the bracket has not been added yet.
-")
+    cat("Postseason webpage is live, but the bracket has not been added yet.\n")
   } else {
-    cat("Successfully found and extracted the postseason bracket!
-")
+    cat("Successfully found and extracted the postseason bracket!\n")
     bracket_fetch_successful <- TRUE
 
     # Parse the table using the already fetched page_html node
@@ -1063,7 +1060,7 @@ if (is_internal_redirect) {
 
     # Add nonbreaking space to empty rows
     bracket_table <- bracket_table |>
-      mutate(across(everything(), ~ if_else(. == "", " ", .)))
+      mutate(across(everything(), ~ if_else(. == "", "\u00A0", .)))
 
     # Create a deterministic snapshot of the bracket contents; only update the timestamp when it changes.
     # Snapshot the FULL bracket contents with dput (lossless). capture.output(print())
@@ -1166,7 +1163,7 @@ display_time <- if (bracket_fetch_successful) {
 }
 
 now_html <- paste(
-  "<p class="updated_time"> Latest data: ",
+  "<p class=\"updated_time\"> Latest data: ",
   display_time,
   "</p>",
   sep = ""
@@ -1186,11 +1183,11 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
   "
 ### Games Above .500
 
-<div class = "standings">
-<iframe src="/interactive/al_standings.html" width="100%" height="400"> 
+<div class = \"standings\">
+<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
-<iframe src="/interactive/nl_standings.html" width="100%" height="400"> 
+<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 </div>
 
@@ -1201,7 +1198,7 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ## Wild Card
 
-<iframe src="/interactive/mlb_team_rank.html" width="100%" height="400"> 
+<iframe src=\"/interactive/mlb_team_rank.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
@@ -1212,27 +1209,27 @@ Chart inspired by those in the [Pennant app](http://www.pennantapp.com).
 
 
 
-<div class = "standings">
-<iframe src="/interactive/al_central_interactive.html" width="100%" height="300"> 
+<div class = \"standings\">
+<iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src="/interactive/al_east_interactive.html" width="100%" height="300"> 
+<iframe src=\"/interactive/al_east_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src="/interactive/al_west_interactive.html" width="100%" height="300"> 
+<iframe src=\"/interactive/al_west_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src="/interactive/nl_central_interactive.html" width="100%" height="300"> 
+<iframe src=\"/interactive/nl_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src="/interactive/nl_east_interactive.html" width="100%" height="300"> 
+<iframe src=\"/interactive/nl_east_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src="/interactive/nl_west_interactive.html" width="100%" height="300"> 
+<iframe src=\"/interactive/nl_west_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 </div>
 
-<p class="updated_time">Source: MLB. World Series odds are based on a simple projection based on runs scored and runs allowed that runs 1,000 times. </p> 
+<p class=\"updated_time\">Source: MLB. World Series odds are based on a simple projection based on runs scored and runs allowed that runs 1,000 times. </p> 
 
 ",
   sep = ""
