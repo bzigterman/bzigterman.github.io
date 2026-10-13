@@ -1092,11 +1092,11 @@ if (is_internal_redirect) {
       gt() %>%
       gt_theme_espn() %>%
       cols_label(
-        wcs_round = "Wild Card Series",
+        wcs_round = "W.C. Series",
         wcs_round_wins = "",
-        division_series = "Division Series",
+        division_series = "Div. Series",
         division_series_wins = "",
-        championship_series = "Championship Series",
+        championship_series = "Champ. Series",
         championship_series_wins = "",
         world_series = "World Series",
         world_series_wins = ""
