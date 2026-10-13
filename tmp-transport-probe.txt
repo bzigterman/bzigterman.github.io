@@ -1,4 +1,0 @@
-Q1 bs-quote => \" <= end
-Q2 bs-bs => \\ <= end
-Q3 bs-n-literal => \n <= end
-Q4 real-tab => 	 <= end
