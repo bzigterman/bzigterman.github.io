@@ -8,40 +8,39 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 11:26 PM CT, October 17</p>
+<p class="updated_time"> Latest data: 12:00 AM CT, October 18</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-18_0426.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-18_0500.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-10-18_0426_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-10-18_0500_mobile.png" alt="" />
 </picture>
 
-Today's high is 57°, which is 8° *colder* than yesterday. Tomorrow is expected to be 7° **warmer** than today.
+Today's high is 63°, which is 6° **warmer** than yesterday. Tomorrow is expected to be 5° **warmer** than today.
 
 Currently:
 
-- 41°
+- 40°
 - Clear
-- 76% humidity
+- 73% humidity
 - 4 mph wind
 - 0% cloud cover
 - 32 AQI 🟩
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sat:  0.00"    38 ------------ 57</b>
-<b>Sun:  0.00"   36 ----------------- 63</b>
-Mon:  0.00"     39 ------------------ 68
-Tue:  0.00"           49 ------------ 69
-Wed:  0.00"           49 ------------- 70
+<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sun:  0.00"   35 ----------------- 63</b>
+Mon:  0.00"      39 ----------------- 68
+Tue:  0.00"            49 ----------- 69
+Wed:  0.00"            49 ------------ 70
 Thu:  0.00"              53 ------------ 73
 Fri:  0.00"             52 ------------- 73
 <b>Sat:  0.00"              53 ------------ 73</b>
 <b>Sun:  0.00"          47 --------- 62</b>
 Mon:  0.00"      40 ----------- 58
 Tue:  0.00"      40 -------------- 63
-Wed:  0.01"           49 ------ 59
-Thu:  0.04"               56 --------- 70
-Fri:  0.05"               56 --------- 70
+Wed:  0.01"            49 ----- 59
+Thu:  0.04"                56 -------- 70
+Fri:  0.05"                56 -------- 70
 <b>Sat:  1.21"              54 ----------- 71</b>
 <b>Sun:  0.06"              53 ---------- 70</b></code></pre>
 
