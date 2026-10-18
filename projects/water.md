@@ -18,7 +18,7 @@ permalink: /projects/water
 1100 +           ****  **        *                  **                         +
      |            ******         ****     **  *  ** *** *                      |
 1080 +               **           ******* *********** ***                      +
-     |                               ** ***    *         *       ***           |
+     |                               *  ***    *        **       **            |
      |                                                   ***    ** **** **     |
 1060 +                                                     **  **  ** ****     +
      |                                                      ****         **    |
@@ -31,7 +31,7 @@ Elevation:
 - 142 feet above the minimum level
 - 192 feet below the maximum level
 - down 20 feet from a year ago
-- down 38 feet from ten years ago
+- down 39 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -50,7 +50,7 @@ Elevation:
      |                           *               **     *      *******         |
      |                                                  **     *  ** ***       |
 3550 +                                                   **    *       **      +
-     |                                                     *****        **     |
+     |                                                    ******        **     |
      |                                                     ** **         ***   |
      +-------------+---------------+----------------+----------------+---------+
                  2010            2015             2020             2025         </code></pre>
