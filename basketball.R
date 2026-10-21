@@ -281,6 +281,12 @@ playoff_tracker <- matrix(
   ncol = n_sims,
   dimnames = list(nba_team_stats$team_name, NULL)
 )
+conf_champ_tracker <- matrix(
+  0,
+  nrow = nrow(nba_team_stats),
+  ncol = n_sims,
+  dimnames = list(nba_team_stats$team_name, NULL)
+)
 
 message("Simulating NBA Season...")
 
@@ -385,6 +391,7 @@ for (sim in 1:n_sims) {
 
     # Conference Finals
     conf_champs[[conf]] <- sim_series(semis_w1, semis_w2, 7)
+    conf_champ_tracker[conf_champs[[conf]]$team_name, sim] <- 1
   }
 
   # --- NBA FINALS ---
@@ -397,7 +404,7 @@ for (sim in 1:n_sims) {
 }
 
 # 6. Build the Final Forecast Table ----
-playoff_probs <- rowSums(playoff_tracker) / n_sims * 100
+conf_champ_probs <- rowSums(conf_champ_tracker) / n_sims * 100
 champ_counts <- table(nba_champs)
 champ_probs <- setNames(rep(0, nrow(nba_team_stats)), nba_team_stats$team_name)
 champ_probs[names(champ_counts)] <- (as.numeric(champ_counts) / n_sims) * 100
@@ -411,17 +418,17 @@ forecast_table <- nba_team_stats %>%
     Losses = losses
   ) %>%
   mutate(
-    Playoff_Odds_Pct = round(playoff_probs[Team], 1),
+    Conf_Champ_Odds_Pct = round(conf_champ_probs[Team], 1),
     Championship_Odds_Pct = round(champ_probs[Team], 1)
   ) %>%
-  arrange(desc(Playoff_Odds_Pct), desc(Championship_Odds_Pct))
+  arrange(desc(Conf_Champ_Odds_Pct), desc(Championship_Odds_Pct))
 
 print(forecast_table, n = 30)
 table <- forecast_table |>
   select(
     team_label = Team,
     lg = Conf,
-    post = Playoff_Odds_Pct,
+    win_conf = Conf_Champ_Odds_Pct,
     finals = Championship_Odds_Pct
   )
 
@@ -465,7 +472,7 @@ nba_standings_table <- nba_standings %>%
     win_pct_text,
     conference_games_behind,
     lasttengames,
-    post,
+    win_conf,
     finals,
     conference
   ) %>%
@@ -478,12 +485,12 @@ nba_standings_table <- nba_standings %>%
   ) %>%
   cols_hide(columns = c(win_pct, conference)) %>%
   fmt_percent(
-    columns = c(post, finals),
+    columns = c(win_conf, finals),
     decimals = 0,
     scale_values = FALSE
   ) |>
   data_color(
-    columns = c(post, finals),
+    columns = c(win_conf, finals),
     domain = c(2.1, 100),
     na_color = "#FFFFFF",
     palette = "Reds"
@@ -499,7 +506,7 @@ nba_standings_table <- nba_standings %>%
     win_pct_text = "Pct",
     conference_games_behind = "GB",
     lasttengames = "Last 10",
-    post = "Win Conf",
+    win_conf = "Win Conf",
     finals = "Win Finals"
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
