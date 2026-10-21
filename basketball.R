@@ -26,12 +26,58 @@ current_season <- most_recent_nba_season()
 
 csv_path <- "data/nba_standings.csv"
 
-# 2. Fetch live data from the hoopR ESPN Standings API
+# Fetch NBA standings straight from ESPN's API (the same endpoint hoopR
+# uses). hoopR::espn_nba_standings() hard-codes a "clincher" column in its
+# type conversions, but ESPN does not publish that stat until teams start
+# clinching, so early in the season the conversion errors, hoopR swallows
+# the error and returns an empty frame, and the guards below read that as
+# "no data" and exit. Parsing the endpoint here and picking only the stats
+# this script uses avoids that. A stat with no numeric value falls back to
+# its summary text (e.g. lasttengames "7-3").
+fetch_nba_standings <- function(year) {
+  url <- paste0(
+    "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
+    "?region=us&lang=en&contentorigin=espn&type=0&level=1",
+    "&sort=winpercent%3Adesc%2Cwins%3Adesc%2Cgamesbehind%3Aasc&season=",
+    year
+  )
+  resp <- httr::GET(url)
+  httr::stop_for_status(resp)
+  raw <- jsonlite::fromJSON(
+    httr::content(resp, as = "text", encoding = "UTF-8"),
+    simplifyVector = FALSE
+  )
+  rows <- lapply(raw$standings$entries, function(entry) {
+    stats <- list()
+    for (s in entry$stats) {
+      stats[[s$type]] <- if (!is.null(s$value)) s$value else s$summary
+    }
+    stat <- function(type) {
+      v <- stats[[type]]
+      if (is.null(v)) NA else v
+    }
+    tibble(
+      team_id = as.integer(entry$team$id),
+      team = entry$team$displayName,
+      wins = as.numeric(stat("wins")),
+      losses = as.numeric(stat("losses")),
+      winpercent = as.numeric(stat("winpercent")),
+      pointsfor = as.numeric(stat("pointsfor")),
+      pointsagainst = as.numeric(stat("pointsagainst")),
+      playoffseed = as.numeric(stat("playoffseed")),
+      gamesbehind = as.numeric(stat("gamesbehind")),
+      lasttengames = as.character(stat("lasttengames"))
+    )
+  })
+  bind_rows(rows)
+}
+
+# 2. Fetch live data from the ESPN Standings API
 # Wrapped in tryCatch: any fetch/parse failure (e.g., ESPN schema changes
 # between seasons) becomes NULL so the script exits cleanly below instead
 # of failing the workflow.
 live_data_raw <- tryCatch(
-  espn_nba_standings(year = current_season),
+  fetch_nba_standings(current_season),
   error = function(e) {
     message("Error fetching NBA standings: ", conditionMessage(e))
     NULL
@@ -152,7 +198,10 @@ team_info <- espn_nba_teams() |>
 
 
 # 2. Fetch Live Raw Standings from ESPN ----
-raw_standings <- espn_nba_standings(year = current_season)
+raw_standings <- tryCatch(
+  fetch_nba_standings(current_season),
+  error = function(e) live_data_raw
+)
 
 # 3. Clean and Join ----
 nba_team_stats <- raw_standings %>%
