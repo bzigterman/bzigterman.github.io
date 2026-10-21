@@ -328,7 +328,14 @@ for (sim in 1:n_sims) {
       arrange(desc(wins)) %>%
       mutate(simmed_rank = row_number()) %>%
       # 2. If ESPN has assigned an official seed, lock it in. Otherwise, use the simmed rank.
-      mutate(final_bracket_seed = coalesce(playoffseed, simmed_rank)) %>%
+      # Early in the season ESPN's seeds are placeholder ties (a dozen teams
+      # at seed 3, nobody at 4), which leaves bracket slots empty and crashes
+      # the series sims — only lock ESPN's seeds in when they form a complete
+      # 1-15 seeding for the conference.
+      mutate(
+        use_espn_seed = setequal(playoffseed, 1:15),
+        final_bracket_seed = if_else(use_espn_seed, playoffseed, simmed_rank)
+      ) %>%
       arrange(final_bracket_seed)
 
     # Extract structural seeds cleanly based on the bulletproof final_bracket_seed
