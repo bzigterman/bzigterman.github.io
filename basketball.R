@@ -222,7 +222,14 @@ nba_team_stats <- raw_standings %>%
     pyth_wpct = (points_for^14) / (points_for^14 + points_against^14),
     # Teams that haven't played yet get NaN here (0/0); treat them as a
     # coin flip so the simulations don't crash on `if (NA)` early in the season.
-    pyth_wpct = ifelse(is.na(pyth_wpct), 0.5, pyth_wpct)
+    pyth_wpct = ifelse(is.na(pyth_wpct), 0.5, pyth_wpct),
+    # Early-season shrinkage: with only a game or two played, the raw
+    # Pythagorean rating is wildly overconfident (one 12-point win reads
+    # as a .822 team), which produced absurd title odds in October (OKC
+    # 77%, three 0-1 teams at 0%). Shrink each rating toward .500 with a
+    # 10-game prior; the weight fades as real games accumulate and is
+    # negligible by mid-season.
+    pyth_wpct = (games_played * pyth_wpct + 10 * 0.5) / (games_played + 10)
   ) %>%
   # Merges perfectly on the text strings now
   left_join(team_info, by = "team_id")
