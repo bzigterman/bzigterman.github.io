@@ -8,24 +8,24 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:54 AM CT, October 21</p>
+<p class="updated_time"> Latest data: 10:14 AM CT, October 21</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-21_1454.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-21_1514.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-10-21_1454_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-10-21_1514_mobile.png" alt="" />
 </picture>
 
 Today's high is 72°, which is 0° *colder* than yesterday. Tomorrow is expected to be 1° **warmer** than today.
 
 Currently:
 
-- 54°
+- 57°
 - Clear
-- 74% humidity
+- 62% humidity
 - 3 mph wind
 - 0% cloud cover
-- 53 AQI 🟨
+- 54 AQI 🟨
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.00"   42 --------------------- 72
