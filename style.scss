@@ -323,9 +323,14 @@ summary {
 }
 
 .standings {
-	column-width: 330px;
-	//column-gap: 20px;
-	//padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.standings iframe {
+	flex: 1 1 330px;
+	min-width: 0;
 }
 
 
