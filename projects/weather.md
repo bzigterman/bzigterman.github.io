@@ -8,42 +8,42 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:09 PM CT, October 24</p>
+<p class="updated_time"> Latest data: 07:24 PM CT, October 24</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-24_2310.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-25_0024.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-10-24_2310_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-10-25_0024_mobile.png" alt="" />
 </picture>
 
 Today's high is 73°, which is 0° *colder* than yesterday. Tomorrow is expected to be 2° **warmer** than today.
 
 Currently:
 
-- 66°
-- Clear
-- 54% humidity
+- 62°
+- Mostly Clear
+- 53% humidity
 - 5 mph wind
-- 0% cloud cover
-- 44 AQI 🟩
+- 20% cloud cover
+- 46 AQI 🟩
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sat:  0.00"     45 ----------------- 73</b>
-<b>Sun:  0.00"       47 ---------------- 75</b>
-Mon:  0.00"        49 -------------- 74
-Tue:  0.00"            56 --------- 72
-Wed:  0.00"           55 ----------- 73
-Thu:  0.00"            57 -------------- 80
-Fri:  0.00"              59 ----------- 79
-<b>Sat:  0.09"               62 ------- 73</b>
-<b>Sun:  0.35"              59 -------- 74</b>
-Mon:  0.21"   41 ----------- 59
-Tue:  0.25"    42 ------- 54
-Wed:  0.02"       48 ---- 54
-Thu:  0.00"      46 --- 51
-Fri:  0.00"     44 -------- 58
-<b>Sat:  0.00"     45 ---------- 61</b>
-<b>Sun:  0.00"      46 ----------- 65</b></code></pre>
+<pre><code style="font-family: monospace; font-size: 0.75em;"><b>Sat:  0.00"    45 ------------------ 73</b>
+<b>Sun:  0.00"     46 ------------------ 75</b>
+Mon:  0.00"       49 --------------- 73
+Tue:  0.00"          54 ----------- 72
+Wed:  0.00"           55 ------------ 75
+Thu:  0.00"            57 -------------- 79
+Fri:  0.00"             58 ------------ 78
+<b>Sat:  0.06"               62 ---------- 78</b>
+<b>Sun:  0.23"                 65 ------- 76</b>
+Mon:  0.00"            57 --------- 71
+Tue:  0.05"         52 ------ 62
+Wed:  1.57"         52 ----- 60
+Thu:  0.00"      47 ------- 58
+Fri:  0.01"   43 -------------- 65
+<b>Sat:  0.02"             58 ----------- 76</b>
+<b>Sun:  0.00"      47 ---------- 64</b></code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
 
@@ -68,6 +68,11 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil »]({{ site.baseurl }}/projects/weather/soil)
 
+## Severe Thunderstorm Outlook
+
+![](https://www.spc.noaa.gov/products/activity_loop.gif)
+
+<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
 
