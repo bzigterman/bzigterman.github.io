@@ -5,7 +5,7 @@ permalink: /projects/basketball
 imageurl: https://bzigterman.com/plots/nba_standings.png
 ---
 
-<p class="updated_time"> Latest data: 12:26 AM CT, October 26</p>
+<p class="updated_time"> Latest data: 06:27 AM CT, October 26</p>
 <div class = "standings">
 <iframe src="/interactive/western_standings.html" width="100%" height="400"> 
 </iframe>
