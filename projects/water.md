@@ -42,25 +42,25 @@ Elevation:
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+----------------+---------+
      |                  **                                                     |
 3650 +           ** **  ***                                                    +
-     |        ** ****** * ***               **                                 |
+     |        ** ****** * ***              ***                                 |
      |        **** ** ***   **       *  ** * **   **                           |
-     |  ***** * **     *     **   ** *******  **  *****                        |
+     |  ******* **     *     **   ** *******  **  *****                        |
 3600 +   ** **               ********* ** **   ** *  ***                       +
      |       *                  **              ***    **      **  **          |
      |                           *               **     *      *******         |
-     |                                                  **     *  ** ***       |
+     |                                                  **     *  *  ***       |
 3550 +                                                   **    *       **      +
-     |                                                    ******        **     |
+     |                                                    ******        ** *   |
      |                                                     ** **         ***   |
      +-------------+---------------+----------------+----------------+---------+
                  2010            2015             2020             2025         </code></pre>
 </noscript>
 Elevation:
-- 3,526 feet
-- 156 feet above the minimum level
-- 182 feet below the maximum level
-- down 20 feet from a year ago
-- down 84 feet from ten years ago
+- 3,529 feet
+- 159 feet above the minimum level
+- 180 feet below the maximum level
+- down 17 feet from a year ago
+- down 81 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
