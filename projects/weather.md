@@ -8,40 +8,40 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 02:32 AM CT, October 28</p>
+<p class="updated_time"> Latest data: 03:25 AM CT, October 28</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-28_0732.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-28_0825.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-10-28_0732_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-10-28_0825_mobile.png" alt="" />
 </picture>
 
 Today's high is 75°, which is 3° **warmer** than yesterday. Tomorrow is expected to be 3° **warmer** than today.
 
 Currently:
 
-- 52°
-- Clear
-- 84% humidity
+- 51°
+- Partly Cloudy
+- 90% humidity
 - 4 mph wind
-- 6% cloud cover
-- 55 AQI 🟨
+- 42% cloud cover
+- 53 AQI 🟨
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.00"           50 ------------- 75
-Thu:  0.00"               58 ----------- 79
-Fri:  0.00"          49 ----------- 70
+<pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.00"          49 -------------- 75
+Thu:  0.00"              57 ------------ 78
+Fri:  0.00"          49 ------------ 70
 <b>Sat:  0.02"             54 -------- 69</b>
-<b>Sun:  0.01"              57 -- 61</b>
-Mon:  0.08"              56 -- 61
+<b>Sun:  0.01"              57 --- 61</b>
+Mon:  0.08"              56 --- 61
 Tue:  2.37"               58 - 60
-Wed:  1.75"               58 - 61
-Thu:  0.54"           50 ---- 59
+Wed:  1.75"               58 -- 61
+Thu:  0.54"           50 ----- 59
 Fri:  0.00"     40 ------ 50
 <b>Sat:  0.00"   36 -------- 50</b>
 <b>Sun:  0.00"    38 --------- 54</b>
 Mon:  0.00"    38 ---------- 57
-Tue:  0.11"      41 --------- 59
+Tue:  0.11"      41 ---------- 59
 Wed:  0.33"         47 ------ 58</code></pre>
 
 The current weather is posted regularly on Mastodon <a rel="me" href="https://mastodon.social/@ChampaignWeather">@ChampaignWeather@mastodon.social</a>
