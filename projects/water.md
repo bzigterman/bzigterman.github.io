@@ -10,7 +10,7 @@ permalink: /projects/water
 </iframe>
 <noscript>
 <p>Lake Powell Elevation</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+----------------+---------+
+<pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |   **              **                                                    |
 1120 +  ***              *** **                                                +
      |    ****  *       ** ****                                                |
@@ -23,8 +23,8 @@ permalink: /projects/water
 1060 +                                                     **  **   * ****     +
      |                                                      ****         *     |
 1040 +                                                      ***          ***   +
-     +-------------+---------------+----------------+----------------+---------+
-                 2010            2015             2020             2025         </code></pre>
+     +-------------+---------------+----------------+---------------+----------+
+                 2010            2015             2020            2025          </code></pre>
 </noscript>
 Elevation:
 - 1,038 feet
@@ -39,7 +39,7 @@ Elevation:
 </iframe>
 <noscript>
 <p>Lake Powell Elevation</p>
-<pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+----------------+---------+
+<pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |                  **                                                     |
 3650 +           ** **  ***                                                    +
      |        ** ****** * ***              ***                                 |
@@ -51,16 +51,16 @@ Elevation:
      |                                                  **     *  *  ***       |
 3550 +                                                   **    *       **      +
      |                                                    ******        ** *   |
-     |                                                     ** **         ***   |
-     +-------------+---------------+----------------+----------------+---------+
-                 2010            2015             2020             2025         </code></pre>
+     |                                                     ** **         **    |
+     +-------------+---------------+----------------+---------------+----------+
+                 2010            2015             2020            2025          </code></pre>
 </noscript>
 Elevation:
-- 3,530 feet
-- 160 feet above the minimum level
-- 178 feet below the maximum level
+- 3,531 feet
+- 161 feet above the minimum level
+- 177 feet below the maximum level
 - down 15 feet from a year ago
-- down 80 feet from ten years ago
+- down 79 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
