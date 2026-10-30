@@ -8,30 +8,30 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 09:05 AM CT, October 30</p>
+<p class="updated_time"> Latest data: 09:35 AM CT, October 30</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-30_1405.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-10-30_1436.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-10-30_1405_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-10-30_1436_mobile.png" alt="" />
 </picture>
 
-Today's high is 70°, which is 8° *colder* than yesterday. Tomorrow is expected to be 10° *colder* than today.
+Today's high is 69°, which is 9° *colder* than yesterday. Tomorrow is expected to be 6° *colder* than today.
 
 Currently:
 
-- 52°
-- Mostly Clear
-- 73% humidity
+- 53°
+- Partly Cloudy
+- 65% humidity
 - 6 mph wind
-- 28% cloud cover
+- 58% cloud cover
 - 51 AQI 🟨
-- 0.71 inches of rain expected in the next 48 hours
+- 0.08 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
-<pre><code style="font-family: monospace; font-size: 0.75em;">Fri:  0.00"         45 --------------- 70
-<b>Sat:  0.70"              54 ---- 60</b>
-<b>Sun:  0.03"               55 ------ 65</b>
+<pre><code style="font-family: monospace; font-size: 0.75em;">Fri:  0.00"          46 -------------- 69
+<b>Sat:  0.07"              53 ------- 64</b>
+<b>Sun:  0.02"              54 ------- 65</b>
 Mon:  0.00"               55 --- 60
 Tue:  0.02"                  59 -------- 72
 Wed:  0.24"                   61 --- 66
