@@ -42,12 +42,12 @@ Elevation:
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |                  **                                                     |
 3650 +           ** **  ***                                                    +
-     |        ** ****** * ***              ***                                 |
+     |        ** ****** * **               ***                                 |
      |        **** ** ***   **       *  ** * **   **                           |
      |  ******* **     *     **   ** *******  **  *****                        |
 3600 +   ** **               ********* ** **   ** *  ***                       +
      |       *                  **              ***    *       **  **          |
-     |                          **               **     *      *******         |
+     |                          **               **    **      *******         |
      |                                                  **     * **  ***       |
 3550 +                                                   **    *       **      +
      |                                                    ******        ****   |
@@ -56,8 +56,8 @@ Elevation:
                  2010            2015             2020            2025          </code></pre>
 </noscript>
 Elevation:
-- 3,531 feet
-- 161 feet above the minimum level
+- 3,532 feet
+- 162 feet above the minimum level
 - 177 feet below the maximum level
 - down 14 feet from a year ago
 - down 78 feet from ten years ago
