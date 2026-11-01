@@ -12,11 +12,11 @@ permalink: /projects/water
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |   **              **                                                    |
-1120 +  ***              *** **                                                +
+1120 +  ***              *** *                                                 +
      |    **** **       ** ****                                                |
      |       ***** *    *     ****                                             |
 1100 +           * **  **        *                  **                         +
-     |           *******         ****     ** **  ** *** *                      |
+     |           *******         * **     ** **  ** *** *                      |
 1080 +               **           ******* *********** ***                      +
      |                               *  ***    *        **       **            |
      |                                                   ***    ******* **     |
@@ -31,7 +31,7 @@ Elevation:
 - 144 feet above the minimum level
 - 190 feet below the maximum level
 - down 19 feet from a year ago
-- down 38 feet from ten years ago
+- down 37 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -43,12 +43,12 @@ Elevation:
      |                  **                                                     |
 3650 +           ** **  ***                                                    +
      |        ** ****** * **               ***                                 |
-     |        **** ** ***   **       *  ** * **   **                           |
-     |  ******* **     *     **   ** *******  **  *****                        |
+     |        **** ** ***  ***       *  ** * **   **                           |
+     |  **** ** **     *     **   ** *******  **  *****                        |
 3600 +   ** **               ********* ** **   ** *  ***                       +
      |       *                  **              ***    *       **  **          |
      |                          **               **    **      *******         |
-     |                                                  **     * **  ***       |
+     |                                                  **     * **  **        |
 3550 +                                                   **    *       **      +
      |                                                    ******        ****   |
      |                                                     ** **         **    |
@@ -58,7 +58,7 @@ Elevation:
 Elevation:
 - 3,532 feet
 - 162 feet above the minimum level
-- 177 feet below the maximum level
+- 176 feet below the maximum level
 - down 14 feet from a year ago
 - down 78 feet from ten years ago
 
