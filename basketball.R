@@ -476,6 +476,35 @@ nba_standings_table <- nba_standings %>%
     finals,
     conference
   ) %>%
+  # Reserve "0%"/"100%" for genuine elimination/clinch. ESPN's API doesn't
+  # publish clinch data this early in the season (hence the custom fetch
+  # above), so elimination is computed from the standings: a team cannot win
+  # the conference if 10+ conference opponents already have more wins than
+  # its maximum possible (82-game season). Conservative: ties don't eliminate.
+  # The sim can't see real clinches, so unanimous sim results are capped like
+  # everything else (mirrors baseball.R's win_ws treatment).
+  group_by(conference) %>%
+  mutate(
+    max_wins = 82 - losses,
+    n_ahead = sapply(max_wins, function(m) sum(wins > m)),
+    is_eliminated = n_ahead >= 10
+  ) %>%
+  ungroup() %>%
+  mutate(
+    win_conf = case_when(
+      is_eliminated ~ 0,
+      win_conf == 0 ~ 0.9,
+      win_conf == 100 ~ 99.1,
+      TRUE ~ win_conf
+    ),
+    finals = case_when(
+      is_eliminated ~ 0,
+      finals == 0 ~ 0.9,
+      finals == 100 ~ 99.1,
+      TRUE ~ finals
+    )
+  ) %>%
+  select(-max_wins, -n_ahead, -is_eliminated) %>%
   group_by(conference) %>%
   arrange(desc(win_pct)) %>%
   gt() %>%
