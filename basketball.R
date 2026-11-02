@@ -484,10 +484,20 @@ nba_standings_table <- nba_standings %>%
     groups = c("Western", "Eastern")
   ) %>%
   cols_hide(columns = c(win_pct, conference)) %>%
-  fmt_percent(
-    columns = c(win_conf, finals),
-    decimals = 0,
-    scale_values = FALSE
+  # Custom display formatting for >99% and <1%
+  text_transform(
+    locations = cells_body(columns = c(win_conf, finals)),
+    fn = function(x) {
+      val <- as.numeric(x)
+      case_when(
+        is.na(val) ~ "",
+        val == 100 ~ "100%",
+        val == 0 ~ "0%",
+        val >= 99 & val < 100 ~ ">99%",
+        val > 0 & val <= 1 ~ "<1%",
+        TRUE ~ paste0(round(val, 0), "%")
+      )
+    }
   ) |>
   data_color(
     columns = c(win_conf, finals),
