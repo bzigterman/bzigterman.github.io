@@ -8,24 +8,25 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 05:53 PM CT, November 05</p>
+<p class="updated_time"> Latest data: 07:31 PM CT, November 05</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-11-05_2353.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-11-06_0131.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-11-05_2353_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-11-06_0131_mobile.png" alt="" />
 </picture>
 
 Today's high is 55°, which is 11° *colder* than yesterday. Tomorrow is expected to be 3° *colder* than today.
 
 Currently:
 
-- 52°
+- 51°
 - Overcast
-- 85% humidity
-- 9 mph wind
-- 93% cloud cover
-- 26 AQI 🟩
+- 93% humidity
+- 7 mph wind
+- 100% cloud cover
+- 25 AQI 🟩
+- 0.04 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Thu:  0.00"               49 ---- 55
@@ -68,6 +69,11 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 
 ## [Soil »]({{ site.baseurl }}/projects/weather/soil)
 
+## Severe Thunderstorm Outlook
+
+![](https://www.spc.noaa.gov/products/activity_loop.gif)
+
+<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
 
