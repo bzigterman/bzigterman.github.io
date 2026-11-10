@@ -11,7 +11,7 @@ permalink: /projects/water
 <noscript>
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
-     |   **              **                                                    |
+     |   *               **                                                    |
 1120 +  ***              *** *                                                 +
      |    **** **       ** ****                                                |
      |       ****  *    *     ****                                             |
@@ -31,7 +31,7 @@ Elevation:
 - 145 feet above the minimum level
 - 189 feet below the maximum level
 - down 18 feet from a year ago
-- down 36 feet from ten years ago
+- down 37 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
 
@@ -41,16 +41,16 @@ Elevation:
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |                  **                                                     |
-3650 +           ** **  ***                                                    +
+3650 +           ** **  **                                                     +
      |        ** ******** **               ***                                 |
      |        **** ** **   **        *  ** * **   **                           |
-     |  **** ** **     *    ***  *** *******  **  *****                        |
+     |  **** *  **     *    ***  *** *******  **  *****                        |
 3600 +   *****               ***** *** ** **   ** *  ***                       +
      |       *                  **              ***    *       **  **          |
      |                          **               **    **      *******         |
      |                                                  **     * **  **        |
 3550 +                                                   **    *      ***      +
-     |                                                    ******        ****   |
+     |                                                    **** *        ****   |
      |                                                     ** **         **    |
      +-------------+---------------+----------------+---------------+----------+
                  2010            2015             2020            2025          </code></pre>
@@ -60,7 +60,7 @@ Elevation:
 - 169 feet above the minimum level
 - 170 feet below the maximum level
 - down 6 feet from a year ago
-- down 70 feet from ten years ago
+- down 69 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
 
