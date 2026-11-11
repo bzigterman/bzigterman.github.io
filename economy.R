@@ -1345,79 +1345,93 @@ saveWidget(
 )
 
 ## flash index ----
-flash_index_url <- "https://igpa.uillinois.edu/wp-json/wp/v2/pages/365"
+# IGPA restricted its WordPress REST API to authenticated users (Nov 2026), so
+# read the public details page instead. It embeds the full dataset as JSON in
+# a <script id="flash-index-data-json"> block: window.flashIndexData is a
+# year-keyed object of {"label": "Oct 2026", "value": 101.7} pairs.
+flash_index_url <- "https://igpa.uillinois.edu/flash-index-details"
 flash_index_GET <- GET(flash_index_url)
 code <- status_code(flash_index_GET)
 
 if (code == 200) {
-  flash_index_full_data <- fromJSON(flash_index_url)
-  flash_index <- flash_index_full_data$acf$flash_index_data |>
-    unnest(cols = c(year_values)) |>
-    mutate(date = ym(paste(year, month))) |>
-    mutate(value = as.numeric(flash_index_value)) |>
-    select(date, value) |>
-    filter(value > 0)
+  flash_index_html <- content(flash_index_GET, as = "text", encoding = "UTF-8")
+  flash_index_json_text <- str_match(
+    flash_index_html,
+    "(?s)window\\.flashIndexData\\s*=\\s*(\\{.*?\\});"
+  )[, 2]
+  if (is.na(flash_index_json_text)) {
+    warning("Flash Index: embedded data block not found on IGPA details page; chart not updated.")
+  } else {
+    flash_index <- fromJSON(flash_index_json_text) |>
+      bind_rows(.id = "year") |>
+      mutate(date = my(label)) |>
+      mutate(value = as.numeric(value)) |>
+      select(date, value) |>
+      filter(value > 0)
 
-  data <- flash_index %>%
-    drop_na()
-  recent_data <- data %>%
-    filter(date > recent_years) %>%
-    mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+    data <- flash_index %>%
+      drop_na()
+    recent_data <- data %>%
+      filter(date > recent_years) %>%
+      mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
-  fig <- hchart(
-    data,
-    "line",
-    hcaes(x = date, y = value),
-    color = "#199fa8",
-    negativeColor = "#b32704",
-    threshold = 100,
-    name = "Index"
-  ) %>%
-    hc_title(text = "Flash Index") %>%
-    hc_credits(
-      enabled = TRUE,
-      text = paste(
-        "Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
-        tail(recent_data$short_date, 1)
-      ),
-      href = "https://igpa.uillinois.edu/policy-initiatives/flash-index"
+    fig <- hchart(
+      data,
+      "line",
+      hcaes(x = date, y = value),
+      color = "#199fa8",
+      negativeColor = "#b32704",
+      threshold = 100,
+      name = "Index"
     ) %>%
-    hc_yAxis(
-      title = "",
-      endOnTick = FALSE,
-      startOnTick = FALSE,
-      plotLines = list(
-        list(
-          color = "#808080",
-          width = 2,
-          value = 100,
-          zIndex = 1
+      hc_title(text = "Flash Index") %>%
+      hc_credits(
+        enabled = TRUE,
+        text = paste(
+          "Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
+          tail(recent_data$short_date, 1)
+        ),
+        href = "https://igpa.uillinois.edu/policy-initiatives/flash-index"
+      ) %>%
+      hc_yAxis(
+        title = "",
+        endOnTick = FALSE,
+        startOnTick = FALSE,
+        plotLines = list(
+          list(
+            color = "#808080",
+            width = 2,
+            value = 100,
+            zIndex = 1
+          )
         )
-      )
-    ) %>%
-    hc_xAxis(title = "") %>%
-    hc_add_theme(
-      hc_theme_bloom()
-    ) %>%
-    hc_rangeSelector(
-      enabled = TRUE,
-      buttons = list(
-        list(type = 'year', count = 1, text = '1y'),
-        list(type = 'year', count = 2, text = '2y'),
-        list(type = 'year', count = 5, text = '5y'),
-        list(type = 'year', count = 10, text = '10y'),
-        list(type = 'all', text = 'All')
-      ),
-      selected = 2
-    ) # %>%
-  #hc_navigator(enabled = TRUE)
-  fig
-  saveWidget(
-    widget = fig,
-    file = "interactive/il_flash_index.html",
-    selfcontained = FALSE,
-    libdir = "interactive"
-  )
+      ) %>%
+      hc_xAxis(title = "") %>%
+      hc_add_theme(
+        hc_theme_bloom()
+      ) %>%
+      hc_rangeSelector(
+        enabled = TRUE,
+        buttons = list(
+          list(type = 'year', count = 1, text = '1y'),
+          list(type = 'year', count = 2, text = '2y'),
+          list(type = 'year', count = 5, text = '5y'),
+          list(type = 'year', count = 10, text = '10y'),
+          list(type = 'all', text = 'All')
+        ),
+        selected = 2
+      ) # %>%
+    #hc_navigator(enabled = TRUE)
+    fig
+    saveWidget(
+      widget = fig,
+      file = "interactive/il_flash_index.html",
+      selfcontained = FALSE,
+      libdir = "interactive"
+    )
+  }
+} else {
+  warning(paste0("Flash Index: IGPA details page returned HTTP ", code, "; chart not updated."))
 }
 
 ## population ----
