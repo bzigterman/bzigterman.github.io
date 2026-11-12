@@ -8,30 +8,30 @@ webappicon: /weather.png
 
 ## Champaign–Urbana Forecast
 
-<p class="updated_time"> Latest data: 06:32 PM CT, November 11</p>
+<p class="updated_time"> Latest data: 08:57 PM CT, November 11</p>
 
 <picture>
-  <source srcset="{{ site.baseurl }}/plots/weather_2026-11-12_0032.png"
+  <source srcset="{{ site.baseurl }}/plots/weather_2026-11-12_0257.png"
           media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/weather_2026-11-12_0032_mobile.png" alt="" />
+  <img src="{{ site.baseurl }}/plots/weather_2026-11-12_0257_mobile.png" alt="" />
 </picture>
 
-Today's high is 70°, which is 2° **warmer** than yesterday. Tomorrow is expected to be 25° *colder* than today.
+Today's high is 70°, which is 2° **warmer** than yesterday. Tomorrow is expected to be 23° *colder* than today.
 
 Currently:
 
-- 52°
-- Overcast
-- 84% humidity
-- 15 mph wind
-- 100% cloud cover
+- 48°
+- Breezy and Mostly Cloudy
+- 82% humidity
+- 14 mph wind
+- 69% cloud cover
 - 34 AQI 🟩
-- 0.07 inches of rain expected in the next 48 hours
+- 0.36 inches of snow and 0.03 inches of rain expected in the next 48 hours
 
 <h3>Outlook</h3>
 <pre><code style="font-family: monospace; font-size: 0.75em;">Wed:  0.00"         38 ----------------- 70
-Thu:  0.07"        36 ----- 45
-Fri:  0.00"      32 ------ 43
+Thu:  0.00"         37 ----- 47
+Fri:  0.08"      32 ---- 39
 <b>Sat:  0.00"     29 -------- 45</b>
 <b>Sun:  0.00"      32 --------- 49</b>
 Mon:  0.00"       34 --------- 50
@@ -76,5 +76,10 @@ The chart above is my attempt at recreating the classic [*New York Times* weathe
 <p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 
+## Winter Storm Severity Index
+
+![](https://www.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
+
+<p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
 
 
