@@ -20,17 +20,17 @@ permalink: /projects/water
 1080 +               **          ******************** ***                      +
      |                              **  ***    *        **       **            |
      |                                                   ***    ******  **     |
-1060 +                                                     **  **   * ****     +
+1060 +                                                     **  **   ******     +
      |                                                      ****         *     |
 1040 +                                                      ***          ***   +
      +-------------+---------------+----------------+---------------+----------+
                  2010            2015             2020            2025          </code></pre>
 </noscript>
 Elevation:
-- 1,040 feet
-- 145 feet above the minimum level
-- 189 feet below the maximum level
-- down 17 feet from a year ago
+- 1,041 feet
+- 146 feet above the minimum level
+- 188 feet below the maximum level
+- down 16 feet from a year ago
 - down 38 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -41,11 +41,11 @@ Elevation:
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |                  **                                                     |
-3650 +           ** **  **                                                     +
+3650 +           ** *   **                                                     +
      |        ** ***********               ***                                 |
      |       ***** ** **   **        *  ** * **   **                           |
      |  **** *  **     *    ***  *** *******  **  *****                        |
-3600 +   *****               ***** *** ** **   ** *  ***                       +
+3600 +   *****               *** * *** ** **   ** *  ***                       +
      |       *                  **              ***    *       **  **          |
      |                          **               **    **      *******         |
      |                                                  **     * **  **        |
@@ -56,8 +56,8 @@ Elevation:
                  2010            2015             2020            2025          </code></pre>
 </noscript>
 Elevation:
-- 3,539 feet
-- 169 feet above the minimum level
+- 3,540 feet
+- 170 feet above the minimum level
 - 169 feet below the maximum level
 - down 5 feet from a year ago
 - down 67 feet from ten years ago
