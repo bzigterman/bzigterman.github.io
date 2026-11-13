@@ -341,12 +341,7 @@ fig <- hchart(
     endOnTick = FALSE,
     startOnTick = FALSE
   ) %>%
-  hc_xAxis(
-    title = list(text = NULL),
-    labels = list(
-      formatter = JS("function() { var d = new Date(this.value); return 'Q' + (Math.floor(d.getUTCMonth() / 3) + 1) + ' ' + d.getUTCFullYear(); }")
-    )
-  ) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(headerFormat = "<b>{point.qlabel}</b><br/>") %>%
   hc_add_theme(
     hc_theme_bloom()
@@ -520,13 +515,7 @@ fig <- hchart(
     text = "Source: U.S. BEA, St. Louis Fed, Atlanta Fed, NY Fed",
     href = "https://fred.stlouisfed.org/series/GDPC1"
   ) %>%
-  hc_xAxis(
-    title = list(text = NULL),
-    type = "datetime",
-    labels = list(
-      formatter = JS("function() { var d = new Date(this.value); return 'Q' + (Math.floor(d.getUTCMonth() / 3) + 1) + ' ' + d.getUTCFullYear(); }")
-    )
-  ) %>%
+  hc_xAxis(title = list(text = NULL), type = "datetime") %>%
   hc_tooltip(
     shared = TRUE,
     headerFormat = "<b>{point.qlabel}</b><br/>"
