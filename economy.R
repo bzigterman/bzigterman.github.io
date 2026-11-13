@@ -313,7 +313,8 @@ saveWidget(
 
 ## labor productivity ----
 data <- fredr(series_id = "OPHNFB") %>%
-  mutate(change = round(100 * (value - lag(value, 40)) / lag(value, 40), 1))
+  mutate(change = round(100 * (value - lag(value, 40)) / lag(value, 40), 1)) %>%
+  mutate(qlabel = paste0("Q", quarter(date), " ", year(date)))
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste0("Q", quarter(date)))
@@ -340,7 +341,13 @@ fig <- hchart(
     endOnTick = FALSE,
     startOnTick = FALSE
   ) %>%
-  hc_xAxis(title = list(text = NULL)) %>%
+  hc_xAxis(
+    title = list(text = NULL),
+    labels = list(
+      formatter = JS("function() { var d = new Date(this.value); return 'Q' + (Math.floor(d.getUTCMonth() / 3) + 1) + ' ' + d.getUTCFullYear(); }")
+    )
+  ) %>%
+  hc_tooltip(headerFormat = "<b>{point.qlabel}</b><br/>") %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
@@ -434,6 +441,7 @@ gdp_growth_data <- full_join(gdp_growth_forecasts, gdp_growth, join_by(date)) |>
 data <- full_join(gdp_data, gdp_growth_data) %>%
   select(date, value, change, min, max) %>%
   mutate(short_date = paste0("Q", quarter(date))) %>%
+  mutate(qlabel = paste0("Q", quarter(date), " ", year(date))) %>%
   mutate(actual_value = value * 1000000000)
 
 fig <- hchart(
@@ -512,9 +520,16 @@ fig <- hchart(
     text = "Source: U.S. BEA, St. Louis Fed, Atlanta Fed, NY Fed",
     href = "https://fred.stlouisfed.org/series/GDPC1"
   ) %>%
-  hc_xAxis(title = list(text = NULL), type = "datetime") %>%
+  hc_xAxis(
+    title = list(text = NULL),
+    type = "datetime",
+    labels = list(
+      formatter = JS("function() { var d = new Date(this.value); return 'Q' + (Math.floor(d.getUTCMonth() / 3) + 1) + ' ' + d.getUTCFullYear(); }")
+    )
+  ) %>%
   hc_tooltip(
-    shared = TRUE
+    shared = TRUE,
+    headerFormat = "<b>{point.qlabel}</b><br/>"
   ) %>%
   hc_add_theme(
     hc_theme_bloom()
