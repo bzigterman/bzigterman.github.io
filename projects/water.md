@@ -16,7 +16,7 @@ permalink: /projects/water
      |    **** **       ** ****                                                |
      |       ****  *    *     ****                                             |
 1100 +          ** ** ***        *                  **                         +
-     |           ******          * **     ** **  ** *****                      |
+     |           ** ***          * **     ** **  ** *****                      |
 1080 +               **          ******************** ***                      +
      |                              **  ***    *        **       **            |
      |                                                   ***    ******  *      |
@@ -41,13 +41,13 @@ Elevation:
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+---------------+----------------+---------------+----------+
      |                  **                                                     |
-3650 +           ** *   **                                                     +
+3650 +           ** *  ***                                                     +
      |        ** ******* ***               ***                                 |
      |       ***** ** **   **        *  ** * **   **                           |
      |  **** *  **     *    ***  *** *******  **  *****                        |
 3600 +   *****               *** * *** ** **   ** *  ***                       +
      |       *                 ***              ***    *       **  **          |
-     |                          **               **    **      *******         |
+     |                          **               **    **      **** **         |
      |                                                  **     * **  **        |
 3550 +                                                   **    *      ***      +
      |                                                    **** *        ****   |
@@ -58,8 +58,8 @@ Elevation:
 Elevation:
 - 3,540 feet
 - 170 feet above the minimum level
-- 169 feet below the maximum level
-- down 5 feet from a year ago
+- 168 feet below the maximum level
+- down 4 feet from a year ago
 - down 67 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
